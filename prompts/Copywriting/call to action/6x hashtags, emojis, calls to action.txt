@@ -1,0 +1,59 @@
+AuthorName: 陈沩亮博客
+AuthorURL: https://www.chenweiliang.com/
+
+Title: 6X hashtags, emojis, calls to action
+Category: call to action
+Teaser: Create CTR on YouTube, TikTok, and Instagram with a one-click generator!
+
+Generate with CTR emojis and hashtags, based on topics or keywords you use frequently on social media platforms. Make your content stand out on social media!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-06T06:30:34.654Z
+Help: 
+ID: 1798210786548781056
+OwnPrompt: 
+PromptHint: Topic / Keyword
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T19:58:00Z
+Usages: 158
+Views: 233
+Votes: 0
+
+Prompt:
+Only respond in [TARGETLANGUAGE] and forget everything said before this prompt in the conversation.
+I will give 6 separate commands that have no relation to each other.
+Please answer the ... in format I listed.
+
+Commands :
+1. Write me an Instagram description or caption with emojis for the post about "[PROMPT]", include a hook and also a call to action. Also include the words, CLICK LINK IN BIO. Also include 4 frequently used relevant hashtags and 2 viral hashtag.
+
+2. Write a caption for a reel of my Instagram page. This particular reel contains a video about [PROMPT]. Add a Hashtags to the caption. The Hashtags should be high competitive and relevant viral Hashtag. Use a friendly “you” form. The reel should go viral and people should follow the page after reading this caption.
+
+3. Write a caption for my TikTok page. This particular contains a video about [PROMPT]. Use a friendly tone. Add a viral Hashtag to the caption. The video should go viral and people should follow the page after reading this caption.
+
+4. Write a hook and also a call to action often used on social media platforms where should go viral and people should follow the page after reading it.
+
+5. Create 10 trending hashtags about "[PROMPT]" that is used frequently on social media platforms. Please separate hashtags with space.
+
+6. Create 10 YouTube Tags Targeting an LSI Keyword that are often used for the following Topic: [PROMPT]. No hashtags, separate keywords by commas. Only capitalize proper nouns.
+
+The format should look like: 
+
+IG Captions: 
+...
+
+IG reel Captions: 
+...
+
+TikTok Captions:
+...
+
+Other CTA: 
+...
+
+Other Hastags: 
+...
+
+YouTube Tags: 
+...

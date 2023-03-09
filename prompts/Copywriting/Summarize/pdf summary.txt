@@ -1,0 +1,26 @@
+AuthorName: Naikys
+AuthorURL: https://twitter.com/Naik1s_
+
+Title: PDF summary 
+Category: Summarize
+Teaser: PDF summary
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-26T16:02:00.905Z
+Help: 
+ID: 1795455490583683072
+OwnPrompt: 
+PromptHint: [Website] "[Ttitle of doc]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T16:24:01Z
+Usages: 549
+Views: 1214
+Votes: 17
+
+Prompt:
+URL: [PROMPT]..."
+
+Instructions: Using the provided website, write a comprehensive reply to the given query. Make sure to report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are concisely reported out. 
+Query: report the key points of the document content
+Reply in [TARGETLANGUAGE]

@@ -1,0 +1,23 @@
+AuthorName: CareManagers
+AuthorURL: https://caremanagers.co.uk
+
+Title: Cover Letter for a Job Title
+Category: writing
+Teaser: AI-powered tool that helps you write professional and personalized cover letters in minutes.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-13T00:33:56.553Z
+Help: 
+ID: 1790510891230556160
+OwnPrompt: 
+PromptHint: [job title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 557
+Views: 920
+Votes: 11
+
+Prompt:
+I want you to act as a candidate looking for job. Write a cover letter for position in  [TARGETLANGUAGE]
+[PROMPT]

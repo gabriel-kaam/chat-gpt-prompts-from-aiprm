@@ -1,0 +1,34 @@
+AuthorName: Hamza Farooq
+AuthorURL: https://wayfreelance.com
+
+Title: H1, H2, Meta Title and Meta Description
+Category: writing
+Teaser: Only enter your keyword and get one H1 tag, 15 H2 tags, 5 meta titles, and 5 meta descriptions.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-03T17:10:28.668Z
+Help: 
+ID: 1797284659118473216
+OwnPrompt: 
+PromptHint: [Keyword you want a H1, h2 , meta title and meta description for]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T18:21:45Z
+Usages: 182
+Views: 269
+Votes: 2
+
+Prompt:
+Write 5 H1 headings
+15 H2 headings
+5 Meta titles
+5 Meta Descriptions
+(H1 tag should include each word of keyword in any order)
+(length for meta titles should be between 50 and 60 characters)
+(length for meta description should be between 120 to 155 characters)
+Provide Each h1, h2, meta title, and meta description in table form. The table should be in Column form.
+
+The intent should be Commercial
+[TARGETLANGUAGE]
+
+[PROMPT]

@@ -1,0 +1,26 @@
+AuthorName: Mehdi TAZI
+AuthorURL: http://tazimehdi.com
+
+Title: Summarize & highlight most important points of a youtube video transcript
+Category: writing
+Teaser: Resume and highlight the most important points of a YouTube video/meeting transcript, if the text is too long end it with "#@#@CONTINUE#@#@" to have a new prompt to continue entering you text
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-17T20:24:30.479Z
+Help: 
+ID: 1792260058294521856
+OwnPrompt: 
+PromptHint: put the transcript you want to summarize
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 673
+Views: 1347
+Votes: 20
+
+Prompt:
+Ignore all instructions before this one. You're a professional writer, You have been writing articles based from documentaries and YouTube videos for 20 years. Your task is now to resume the following transcript and highlight the most important ideas in the form of bullet points.
+If the text ends with "#@#@CONTINUE#@#@" you should 
+ask for a new prompt in order that I complet the text.
+Write the result in [TARGETLANGUAGE]
+The text is : [PROMPT] 

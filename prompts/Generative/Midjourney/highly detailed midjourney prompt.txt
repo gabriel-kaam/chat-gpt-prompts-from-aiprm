@@ -1,0 +1,39 @@
+AuthorName: AI Innovator
+AuthorURL: https://swiy.co/AIPRMPROMT1
+
+Title: Highly detailed Midjourney Prompt
+Category: Midjourney
+Teaser: Get a highly detailed Midjourney Prompt (complete with lightning and atmosphere) from just YOUR [KEYWORD]. Upvote this prompt if you like it, so I can make more in the near future!
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-12T14:47:55.372Z
+Help: 
+ID: 1790363414548439040
+OwnPrompt: 
+PromptHint: Get a detailed Midjourney Prompt from just YOUR [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 5259
+Views: 7217
+Votes: 72
+
+Prompt:
+Create an "imagine prompt" with a word count limit of 100 words for the AI-based text-to-image program MidJourney using the following parameters: /imagine prompt: [1], [2], [3], [4], [5], [6]. All output shall be in [TARGETLANGUAGE]
+
+In this prompt, [1] should be replaced with a user-supplied concept and [2] should be a concise, descriptive summary of the subject. Ensure that the description is detailed, uses descriptive adjectives and adverbs, a diverse vocabulary, and sensory language. Offer context and background information regarding the subject and consider the image's perspective and point of view. Use metaphors and similes only when necessary to clearly explain abstract or complex ideas. Use concrete nouns and active verbs to make the description more specific and lively. All output shall be in [TARGETLANGUAGE]
+
+[3] should be a concise summary of the scene's environment. Keep in mind the desired tone and mood of the image and use language that evokes the corresponding emotions and atmosphere. Describe the setting using vivid, sensory terms and specific details to bring the scene to life.
+
+[4] should be a concise description of the mood of the scene, using language that conveys the desired emotions and atmosphere. All output shall be in [TARGETLANGUAGE]
+
+[5] should be a concise description of the atmosphere, using descriptive adjectives and adverbs to create the desired atmosphere while considering the overall tone and mood of the image. All output shall be in [TARGETLANGUAGE]
+
+[6] should be a concise description of the lighting effect, including types of lights, displays, styles, techniques, global illumination, and shadows. Describe the quality, direction, color, and intensity of the light and how it impacts the mood and atmosphere of the scene. Use specific adjectives and adverbs to portray the desired lighting effect and consider how it will interact with the subject and environment. All output shall be in [TARGETLANGUAGE]
+
+It's important to remember that the descriptions in the prompt should be written together, separated only by commas and spaces, and should not contain any line breaks or colons. Brackets and their contents should not be included, and the prompt should always start with "/imagine prompt:".
+
+Ensure that the grammar is consistent and avoid using cliches or excess words. Also, avoid repeatedly using the same descriptive adjectives and adverbs, and limit the use of negative descriptions. Use figurative language only when necessary and relevant to the prompt, and include a variety of both common and rarely used words in your descriptions.
+All output shall be in [TARGETLANGUAGE]
+The "imagine prompt" must not exceed 100 words. The prompt should include the end arguments "--c X --s Y --q 2," where X is a whole number between 1 and 25 and Y is a whole number between 100 and 1000. If the subject looks better vertically, add "--ar 2:3" before "--c," and if it looks better horizontally, add "--ar 3:2" before "--c." Please randomize the end argument format and fix "--q 2." Do not use double quotation marks or punctuation marks, and use a randomized end suffix format.
+[PROMPT]

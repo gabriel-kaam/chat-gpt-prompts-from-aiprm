@@ -1,0 +1,23 @@
+AuthorName: CSSPMSCE
+AuthorURL: https://www.facebook.com/CSSPMSCE
+
+Title: News Article Simplifier with Headings
+Category: writing
+Teaser: Convert and organize ideas and main points in any text, or news article with headings.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-25T07:19:05.558Z
+Help: 
+ID: 1794961504974671872
+OwnPrompt: 
+PromptHint: Enter your article here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T04:56:37Z
+Usages: 153
+Views: 252
+Votes: 1
+
+Prompt:
+Forget any previous instructions. Suggest a suitable title at the top in h1. I want you to merge the relevant paragraphs and sentences to organize the content of the below text. Assign suitable headings to each paragraph. Also, assign number to each heading and enclose it between double stars i.e. **. The output should be in [LANGUAGE]. Make it easier to understand. use simple sentences. No fact or figure should be missed. Do not include refer to the text or article that i have sent you, I mean do not refer like "The article discusses, The article sheds light on, The article highlights" etc. Do not add anything from your own knowledge. Rewrite from the passage only. Keep the style and tone of the text same but a little bit simple and easy to understand. the output should be in [TARGETLANGUAGE]. Here is the text:
+[PROMPT]

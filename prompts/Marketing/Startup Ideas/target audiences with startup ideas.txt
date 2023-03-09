@@ -1,0 +1,25 @@
+AuthorName: Prompt.mba
+AuthorURL: https://prompt.mba/
+
+Title: Target audiences with startup ideas
+Category: Startup Ideas
+Teaser: Come up with new startup ideas
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-01-23T21:06:38.976Z
+Help: 
+ID: 1900106
+OwnPrompt: 
+PromptHint: Name your category in simple but precise language. E.g. “electronic music nightclubs” + SHIFT ENTER + Describe your target audience (e.g. “Budget-conscious infrequent clubbers”)
+PromptPackageID: 6
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1344
+Views: 2451
+Votes: 8
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. 
+
+Create a list of five very different startup ideas that are designed to meet the specific needs of my target audience in my category. They should have a cool and interesting name and emoji plus a strong and compelling vision. Bring each to life. Explain why each meets the needs of the target audience. The ideas should be compelling enough that an investor will want to invest instantly. It shall be in [TARGETLANGUAGE] language
+The category (second line) and target audience (third line) are: [PROMPT]

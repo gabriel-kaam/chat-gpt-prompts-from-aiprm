@@ -1,0 +1,22 @@
+AuthorName: Piyush from SEO ORB
+AuthorURL: https://seoorb.com
+
+Title: On-page Optimisation Keywords
+Category: keywords
+Teaser: Create a list of Semantic, LSI, and NLP [Keywords] for On-page optimisation based on output data from Search Console for a landing page.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-07T08:25:46.224Z
+Help: 
+ID: 1788455303403266048
+OwnPrompt: 
+PromptHint: [your list of keywords exported from search console]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 710
+Views: 1571
+Votes: 13
+
+Prompt:
+Please ignore all previous queries. All Output should be in [TARGETLANGUAGE] and also in separate bulleted lists. Pretend that you are a SEO Expert and study this list of [PROMPT], and output a compact list of Semantic, LSI and NLP Keywords from that list to optimize a landing page for those keywords. 

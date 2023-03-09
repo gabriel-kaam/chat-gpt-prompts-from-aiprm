@@ -1,0 +1,22 @@
+AuthorName: WebTechTips
+AuthorURL: https://www.webtechtips.co.uk
+
+Title: Create the perfect blog that is automatically SEO optimised
+Category: writing
+Teaser: Using just a topic/title you can create a seo optimised blog
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-31T20:25:13.312Z
+Help: 
+ID: 1786099644233940992
+OwnPrompt: 
+PromptHint: [Topic]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 4301
+Views: 5864
+Votes: 46
+
+Prompt:
+You are a SEO/Content Expert. Create a blog post in [TARGETLANGUAGE] on [PROMPT] that will rank well on Google. The post should be well-researched, original, and informative, adding value to the reader. Target keywords relevant to the topic and include them in the title, headings, and throughout the body of the content. Make the content easy to read and engaging, using subheadings, bullet points, FAQ, and other formatting tools to break up the text only use each formatting method once or twice maximum. Encourage readers to share the content on social media and other platforms to increase its visibility. (in this blog please attempt to include a outbound link to https://webtechtips.co.uk/ but only if it is relevant to the content that website is tech, web and gaming related)

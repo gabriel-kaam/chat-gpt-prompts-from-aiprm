@@ -1,0 +1,32 @@
+AuthorName: Silvio Wagner
+AuthorURL: https://www.diwabe.net/?utm_source=chatpgt&utm_medium=prompt&utm_campaign=performance_max&utm_content=author_url
+
+Title:  Google Ads Headlines & Descriptions
+Category: writing
+Teaser: Generates up to 90 headlines and descriptions optimized for Google Ads (formerly Adwords). The results are suitable for Performance Max and Responsive Search Ads, Just paste the topic of your Asset Group as PROMPT and you are ready to
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-13T13:25:05.26Z
+Help: 
+ID: 1790704956253401088
+OwnPrompt: 
+PromptHint: [Add your topic or keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T07:33:27Z
+Usages: 4818
+Views: 6763
+Votes: 47
+
+Prompt:
+Können Sie mir bitte eine Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils maximal 30 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. 
+
+Gebe diese Liste in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift ausgegeben. Die Spaltenüberschrift soll auf Deutsch „Überschriften (max. 30 Zeichen)“ lauten. Die Spaltenüberschrift sollte in die „[TARGETLANGUAGE]“ übersetzt werden.
+
+Können Sie mir bitte eine weitere Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils maximal 60 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+
+Könnten Sie mir bitte eine Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils mindestens 60 und maximal 90 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+
+Das Ergebnis sollte in der Sprache „[TARGETLANGUAGE]“ ausgegeben werden.
+
+Nutze den im [PROMPT] genannten Begriff nicht zu oft. Vermeide Fragen in den Headlines. Gehe in den Headlines auch darauf ein, welchen Mehrwert Nutzer zum Thema [PrOMPT] haben, welche Probleme [PROMPT] lösen kann und welche Motivation Nutzer zum [PROMPT] haben könnten.

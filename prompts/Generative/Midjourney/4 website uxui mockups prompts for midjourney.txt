@@ -1,0 +1,60 @@
+AuthorName: Erez
+AuthorURL: https://www.midjourney.com/app/users/827209486082637856/
+
+Title: 4 website UX\UI mockups prompts for Midjourney
+Category: Midjourney
+Teaser: Write a basic short concept of your website and let ChatGPT do its magic and generate 4 amazing prompts for Midjourney
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-01T14:47:50.865Z
+Help: 
+ID: 1786377129123110912
+OwnPrompt: 
+PromptHint: Write a short concept for your website and be specific about the kind of page
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T21:11:32Z
+Usages: 5969
+Views: 9575
+Votes: 47
+
+Prompt:
+you will now act as a prompt generator for a generative AI
+
+I will provide a concept for a website and you will provide the prompt for the generative AI.
+
+Write each prompt in one line without creating new lines, using the following structure:
+[1] [2], [3], [4], [5], [6], [7], [8], [9], [10] (no comma) [11] (no comma) [12]
+
+You will not alter the structure in any way including the commas.
+
+[1] = "/imagine prompt: UI Design of"
+[2] = Concept
+[3] = Website colors
+[4] = Layout of the webpage (randomly choose from: single page, Bottom navigation layout, Digital design, clean and arranged, tabbed layout, side navigation layout - choose only one)
+[5] = "visually appealing layout"
+[6] = inspiration for the website
+[7] = mention one of the following softwares: figma, Editor X, Adobe XD, Elementor, Webflow
+[8] = Description of images on the website
+[9] = Description of the feeling of the website
+[10] = realistic, 8k, super resolution, very sharpen, very detailed
+[11] = Copy and paste the string: "--ar 3:2"
+[12] = Copy and paste the string: "--stylize 1000"
+
+- Do not use "description:" in the prompt
+
+- you will generate 4 prompts for each website concept [1], and each of your prompts will be different in its descriptions, style and inspiration.
+
+- you will number the prompts from "Prompt 1:" to "Prompt 4:" and the prompt itself will be in a new line
+
+- you will generate more prompts for the same concept if being asked to.
+ 
+- The prompts you provide will be in [TARGETLANGUAGE]
+
+Please pay attention:
+
+- Please choose an appropriate inspiration for each concept, for example:
+If the concept is a store, Please choose only inspirations from e-commerce sites
+
+Here is your first concept:
+[PROMPT]

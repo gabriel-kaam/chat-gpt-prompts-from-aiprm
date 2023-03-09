@@ -1,0 +1,35 @@
+AuthorName: RazvanDita-LinkedIn
+AuthorURL: https://www.linkedin.com/in/dita-razvan/
+
+Title: Amazon Keywords | Generate Amazon search terms using a product link
+Category: keywords
+Teaser: Generate a list of 25 most relevant keywords from the following link:
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-14T08:12:02.434Z
+Help: 
+ID: 1790988563236786176
+OwnPrompt: 
+PromptHint: Amazon Link ( connect and DM your email on LinkedIn for the Listing Optimisation script )
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1304
+Views: 1926
+Votes: 13
+
+Prompt:
+Please ignore all previous instructions and do the following steps:
+
+I want you to act as a amazon market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you have the most accurate and most detailed information about amazon keywords available. Generate a list of 25 keywords search terms a customer would search on Amazon when trying to find this: without duplicating any words.
+Follow very strictly the following instructions:
+
+These keywords need to be relevant for the amazon listing provided at the end and to predict all the search terms a customer would search on Amazon when trying to find the provided amazon listing. Include keywords which are not found in the provided listing.  
+The generated keywords should be formed from 2 or 3 words. Do not give me one word. 
+The results should be in a markdown table, with the following columns:  Number, Keyword. 
+The results to be sorted in relevancy order, the most relevant to the top.
+
+The list of keywords should be generated from this Link:
+
+[PROMPT]
+

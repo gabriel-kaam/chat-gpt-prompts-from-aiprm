@@ -1,0 +1,22 @@
+AuthorName: Ram
+AuthorURL: https://www.buymeacoffee.com/techmantra
+
+Title: Interview questions and answers.
+Category: Web Development
+Teaser: Find and learn quickly while doing your interview preparation for next jump. Crack your interviews easily.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-12T16:19:58.221Z
+Help: 
+ID: 1790386579056091136
+OwnPrompt: 
+PromptHint: Type the skill name to get top relevant interview questions
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T13:51:23Z
+Usages: 478
+Views: 920
+Votes: 14
+
+Prompt:
+Top 10 Interview Question of [PROMPT] and their answers in [TARGETLANGUAGE].

@@ -1,0 +1,35 @@
+AuthorName: Techventures
+AuthorURL: https://thetechventures.com/
+
+Title: Post Generator for all Social Media Platform 
+Category: writing
+Teaser: Engage your audience with a social media post generator that creates tailored posts and hashtags for Facebook, Twitter, LinkedIn, and Instagram based on your topic and keywords!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-02T12:15:53.545Z
+Help: 
+ID: 1796848136413777920
+OwnPrompt: 
+PromptHint: [topic] [keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T12:38:27Z
+Usages: 951
+Views: 1314
+Votes: 10
+
+Prompt:
+You are tasked with creating a social media post generator that can generate Facebook, Twitter, LinkedIn, and Instagram posts based on a user-provided topic and relevant keywords. The generator should also be able to create hashtags for each platform.
+
+Specifically, your generator should be able to:
+
+Take input from the user on the topic and relevant keywords
+Generate a post for each platform (Facebook, Twitter, LinkedIn, and Instagram) that incorporates the input provided by the user
+Create hashtags for each post that are relevant to the platform and the input provided by the user
+Hashtag requirements:
+
+15 hashtags for Facebook
+15 hashtags for Instagram
+5 hashtags for Twitter
+15 hashtags for LinkedIn
+Your task is to design and implement a solution that meets the requirements outlined above. The generated posts and hashtags should be engaging and relevant to the topic and keywords provided by the user.[TARGETLANGUAGE] [PROMPT]

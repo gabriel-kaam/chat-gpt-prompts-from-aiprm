@@ -1,0 +1,23 @@
+AuthorName: Abbo0dio
+AuthorURL: https://github.com/Gamma-Rad1ation
+
+Title: Undetectable
+Category: UNSURE
+Teaser: Make your Chat GPT essays/answers undetectable!
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-12T18:20:49.594Z
+Help: 
+ID: 1790416993518870528
+OwnPrompt: 
+PromptHint: Copy Paste previous answers from Chat GPT chats into a new chat with me to make it undetectable by Chat GPT AI detectors
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T05:59:38Z
+Usages: 383
+Views: 847
+Votes: 11
+
+Prompt:
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Using the content I have given previously, rewrite this: "[PROMPT]" and make sure it has a high degree of burstiness and perplexity, but make sure it still has the same general structure of the original text
+Reply in [TARGETLANGUAGE]

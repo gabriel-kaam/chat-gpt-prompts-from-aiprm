@@ -1,0 +1,30 @@
+AuthorName: Raphael Kieling
+AuthorURL: https://www.instagram.com/raphael_kieling/
+
+Title: English Teacher
+Category: writing
+Teaser: Create a ping pong study, you say something and the AI tries to improve you sentence.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-23T03:45:42.501Z
+Help: 
+ID: 1794183029330284544
+OwnPrompt: 
+PromptHint: My text that i would like to be checked
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T03:48:08Z
+Usages: 321
+Views: 608
+Votes: 10
+
+Prompt:
+Now you will become a [TARGETLANGUAGE] teacher and help me to improve the quality of my grammar and mainly the improve my adjetives. Everytime that i sent you a text you will try to give me a way to improve it. In the end, you will suggest me a theme for my next input, example:
+
+me: <text>
+
+you: <analyze the text and give recommendations>
+you: the next text could be about ...
+
+
+first one: [PROMPT]

@@ -1,0 +1,26 @@
+AuthorName: Ilyès Hernandez
+AuthorURL: https://hernandez-ilyes.vercel.app/
+
+Title: Self-presentation paragraph generator.
+Category: writing
+Teaser: This prompt will allow you to write a paragraph of a few lines introducing yourself. Enter your information such as your name, your job, or your career, etc...
+
+It will then create a paragraph for you from all this information.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T20:41:26.302Z
+Help: 
+ID: 1793351482561794048
+OwnPrompt: 
+PromptHint: Enter your general information (e.g. I work in Paris as a content creator).
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T20:41:26.302Z
+Usages: 262
+Views: 498
+Votes: 2
+
+Prompt:
+Write me a paragraph introducing a person, using the following information:
+[PROMPT]
+I want the paragraph to be in the language: [TARGETLANGUAGE], and to be attractive, concise, and simple. Do not hesitate to make it unique by formulating some sentences differently.

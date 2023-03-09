@@ -1,0 +1,23 @@
+AuthorName: Stirs
+AuthorURL: https://LibertyTree777.com/code
+
+Title: Find Peer-reviewed reference for technical papers.
+Category: writing
+Teaser: Find Peer-reviewed reference for technical papers.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-28T04:48:44.14Z
+Help: 
+ID: 1796010830001868800
+OwnPrompt: 
+PromptHint: Reference Topic
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-28T04:48:44.14Z
+Usages: 125
+Views: 261
+Votes: 4
+
+Prompt:
+You are a scientific writer doing research for a technical paper. 
+Write in precise, fluent [TARGETLANGUAGE].  Give all available references.  Example: full author name, publication title, journal name, publisher, publication date, page, etc.  Use Turabian reference formatting.  Find 10 peer-reviewed journal articles on the topic of [PROMPT] 

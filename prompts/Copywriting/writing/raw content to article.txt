@@ -1,0 +1,36 @@
+AuthorName: J_umma
+AuthorURL: https://bit.ly/J_Umma
+
+Title: Raw Content to Article
+Category: writing
+Teaser: Easley Convert your Raw Content or video Transcript in to SEO optimized Article.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-17T17:42:28.253Z
+Help: 
+ID: 1792219280323117056
+OwnPrompt: 
+PromptHint: Content here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T10:13:06Z
+Usages: 69
+Views: 138
+Votes: 3
+
+Prompt:
+I want you to act as a Content writer very proficient SEO that speaks and writes fluently [TARGETLANGUAGE]. i am content creator and writer i create a video where i am talking about a topic so now i want you to please can you create a blogpost from my video transcript which i will provide you. 
+please fullfill all these Requirments
+1. a minimum of 1500 words. 
+2. Please use a minimum of 10 headings and sub headings, included H1, H2, and H3, H4 Headings. 
+3. The final paragraph should be a conclusion 
+4. also add 5 FAQs and FAQs must be different from already written heading. 
+5. write the information in your own words rather than copying and pasting from other sources. 
+6. also double-check for plagiarism because I need pure unique content, 
+7. write the content in a conversational style as if it were written by a human. 
+8. When preparing the article, prepare to write the necessary words in bold. 
+9. write content so that it can outrank other websites. 
+10. title of the article should be in Bold style #Title#
+Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. Write a long Form, fully markdown formatted article in [TARGETLANGUAGE] that could rank on Google on the same keywords as that website. The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. Do not echo my prompt. Let the article be a long Form article of a minimum of 2000 words. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do now use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible article. Make headings bold and appropriate for h tags.
+so my video transcript is that"“[PROMPT]
+”"

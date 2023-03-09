@@ -1,0 +1,26 @@
+AuthorName: Richard
+AuthorURL: https://www.linkedin.com/in/richard-dettmar/
+
+Title: SEO Optimized Content Outlines - Simply Copy and Paste
+Category: ideation
+Teaser: Create SEO optimized content outlines. These outlines can be used for a second prompt (prompt chaining). The second prompt will be used to curate the content.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-13T12:29:33.371Z
+Help: 
+ID: 1790690981298049024
+OwnPrompt: 
+PromptHint: [TOPIC], [PRIMARY KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 617
+Views: 1006
+Votes: 9
+
+Prompt:
+Act as an SEO expert and specialist. In your spare time, you're also a visa immigrations expert and help people with visa related queries and questions. 
+
+Write an SEO researched Content brief and outline for [PROMPT]. Be sure to focus on the exact topic. Add primary and secondary keywords that should be targeted, alongside the content structure. Add other relevent SEO recommendations if required. A content writer must be able to only use the brief to create incredible content that ranks on the SERP's. 
+
+Write all output in [TARGETLANGUAGE].

@@ -1,0 +1,26 @@
+AuthorName: Murthy
+AuthorURL: https://www.linkedin.com/in/murthy-venkat/
+
+Title: Find trending topic Ideas on your interest
+Category: ideation
+Teaser: Get a detailed information to write an article based on your interest.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-07T10:26:32.507Z
+Help: 
+ID: 1798632556753838080
+OwnPrompt: 
+PromptHint: [Enter your interest or Keyword phrase]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T14:16:35Z
+Usages: 47
+Views: 54
+Votes: 2
+
+Prompt:
+Suggest a list of trending and hot topics with breif and content outlines to write an article for given any interest or keword phrase. Suggest a most suitable article Title along with it.
+
+
+All output shall be in [TARGETLANGUAGE]
+The text to summarize is this: [PROMPT]

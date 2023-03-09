@@ -1,0 +1,28 @@
+AuthorName: Ben Macdonald
+AuthorURL: https://www.t40digital.co.uk/
+
+Title: 4 Week content planner
+Category: marketing
+Teaser: Create a 4 week content calender with blog post titles
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T13:07:53.424Z
+Help: 
+ID: 1791063016285138944
+OwnPrompt: 
+PromptHint: [Insert your Keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T14:47:06Z
+Usages: 484
+Views: 691
+Votes: 14
+
+Prompt:
+You will act as a social media manager. I will give you a keyword to target. You will generate a 4 week content planner in [TARGETLANGUAGE] with a blog post idea per day, Monday to Friday. You will output in a table format for each week with the days as columns and blog title for each day.
+
+Each idea must be unique and not repeat
+
+[PROMPT]
+
+

@@ -1,0 +1,24 @@
+AuthorName: M Khayam
+AuthorURL: https://www.linkedin.com/in/muhammad-khayam-1b8263261/
+
+Title: Amazon listing Title, Bullet points & Description
+Category: writing
+Teaser: Add a keywords or Details about your product & get amazon listing Title | Bullet Points | Description
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-22T10:07:27.57Z
+Help: 
+ID: 1793916712287211520
+OwnPrompt: 
+PromptHint: Add a keywords related to your product
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-22T16:59:45Z
+Usages: 495
+Views: 843
+Votes: 13
+
+Prompt:
+Your task is to add the Keywords related to your product i give you a listing title(200 characters), bullet points(200 characters for each bullet point) and description(1500 to 2000 characters). All output shall be in[TARGETLANGUAGE]. The summarize text is this
+
+[PROMPT]

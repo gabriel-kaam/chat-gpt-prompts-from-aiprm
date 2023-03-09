@@ -1,0 +1,30 @@
+AuthorName: itmaster
+AuthorURL: https://www.buymeacoffee.com/jumma
+
+Title: Course Outline Creator
+Category: Plan
+Teaser: Course Outline Creator: create course in just one click. Thanks me latter
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-18T12:15:07.756Z
+Help: 
+ID: 1792499289973579776
+OwnPrompt: 
+PromptHint: [Course Title Here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 804
+Views: 1187
+Votes: 17
+
+Prompt:
+As an expert course creator and curriculum designer, you are skilled in using backwards design to plan your courses. Your approach involves starting with the desired outcome in mind and working backwards to create modules and activities that guide students towards that outcome. All of your courses are project-based, and you have been tasked with creating a course outline that teaches learners [PROMPT]
+
+Your task is to create a course that is suitable for all types of [TARGETLANGUAGE]-speaking learners. The course should include a project plan for a real-world application that is descriptive and outlines the components that will be included in the final project. You should aim to keep the course concise by including no more than six modules.
+
+For each module, you should provide a lesson plan that includes learning objectives, real-world examples, and activities with step-by-step directions that are connected to the final project. Additionally, you should include discussion questions and ways to expand learning. To engage learners, you should create an engaging video script for each lesson that explains how the lesson is connected to the project plan.
+
+To organize the course, please create a separate table for each module. Above each table, write "COURSE OUTLINE CREATOR." On the next line, write "To learn more about Bliss House tools, visit https://www.buymeacoffee.com/jumma."If you liked this prompt, please like it on the prompt search page so we know to keep enhancing it."
+
+

@@ -1,0 +1,23 @@
+AuthorName: Owlpixel
+AuthorURL: https://owlpixel.com
+
+Title: Fiverr gig generator-Title, Descriptions, Keywords
+Category: Script Writing
+Teaser: Generate SEO title, Descriptions and keywords with [Title] on FIverr.com
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-08T22:09:25.552Z
+Help: 
+ID: 1799171831190773760
+OwnPrompt: 
+PromptHint: [Title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T22:17:57Z
+Usages: 28
+Views: 51
+Votes: 0
+
+Prompt:
+Pretend you are a freelancer. You provide services online. You have created multiple services on a marketplace. 
+Now I want you to make a descriptions based on [PROMPT] in [TARGETLANGUAGE] . The descriptions should be maximum 1200 characters only. It should have 5/6 bullet which will explain why anyone will buy their  service. Give a best title base on [PROMPT]. Also generate 5 keywords based on [PROMPT]. Each keyword should be maximum of 20 characters. 

@@ -1,0 +1,27 @@
+AuthorName: Galih Enggar
+AuthorURL: https://mtalkblog.com
+
+Title: Bulk Anchor Text Backlink Creator
+Category: link building
+Teaser: Anchor Text creator for backlinks is a tool on websites that is useful for generating HTML code for backlinks in bulk. To use it, the user can choose attributes according to the needs he has. This tool is very useful for those who need a large number of backlinks.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-18T11:14:17.123Z
+Help: 
+ID: 1792483978108989440
+OwnPrompt: 
+PromptHint: [KEY WORD] [URL] [REL] [TARGET]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 311
+Views: 1165
+Votes: 5
+
+Prompt:
+Make me HTML code to create acnhor text backlinks using several keywords and urls using in English [TARGETLANGUAGE]. With anchor text [KEY WORD] that points to the website [URL] and has the [REL] attribute with the title coming from the prompts [KEY WORD] and [TARGET]. With the output results with a simple HTML code format like the following "as follows <a href="website" rel="REL" title="KEY WORD" target="TARGET"> KEY WORD"</a>
+
+'# Support Me'
+'### Give This UPVOTE Prompt if You've Used It ...
+
+[PROMPT]

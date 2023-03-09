@@ -1,0 +1,70 @@
+AuthorName: Saldo Invoice
+AuthorURL: https://saldoinvoice.com/?utm_campaign
+
+Title: Create an Invoice Online
+Category: writing
+Teaser: Create your best invoice in a minute! Just add the main information about your business and get a ready-made invoice.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-09T10:44:00.676Z
+Help: 
+ID: 1799361728824479744
+OwnPrompt: 
+PromptHint: [text the information which should be include in the invoice]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T13:55:41Z
+Usages: 20
+Views: 36
+Votes: 0
+
+Prompt:
+Your task is to create an invoice with the details that will be added. All output shall be in [TARGETLANGUAGE].
+If it's write without [KEYWORD] use the template: 
+
+ [PROMPT]
+
+Header: 
+======================INVOICE======================
+[Date of the Invoice]
+[Invoice Number]
+[Due Data]
+
+From:
+[Your Business Name]
+[Your Address]
+[Your Email Address]
+[Your Phone Number]
+
+To:
+[Client Name]
+[Client Address]
+[Client Email Address]
+[Client Phone Number]
+
+make a table with the borders:
+5 columns
+1 row in the template, next time depending on the description. 
+1 column is [Description] 
+2 column is [Rate] 
+3 column is [Quantity / Hours] 
+4 column is [Tax] expressed as a percentage
+5 column is [Amount] it's equal to [Rate] * [Quantity / Hours] = [Amount] 
+end of the table 
+
+make a table with the borders:
+2 columns 
+4 rows
+1 column 1 row:
+[Subtotal] it's equal to [Amount] 
+1 column 2 row: 
+[Taxes] it's equal to [Amount] / [Tax]
+1 column 3 row:
+[Discount]  expressed as a percentage 
+1 column 4 row:
+[Total]  it's equal to [Subtotal] + [Taxes] - [Discount] 
+2 column is the result.
+end of the table 
+
+In the end add the field with [Payment instruction] where it will be possible to write payment instructions
+

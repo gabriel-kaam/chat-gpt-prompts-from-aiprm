@@ -1,0 +1,23 @@
+AuthorName: Farhan
+AuthorURL: https://www.linkedin.com/in/muhammad-farhan-1a9ab5258/
+
+Title: LinkedIn Engagement
+Category: marketing
+Teaser: Create an Eye catching reply to Top Comments on LinkedIn. Upvote this if you like it.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-08T14:26:28.181Z
+Help: 
+ID: 1788908464215683072
+OwnPrompt: 
+PromptHint: [Top Comment]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1675
+Views: 3456
+Votes: 54
+
+Prompt:
+Act as a LinkedIn user and generate a response to a top comment on a post. Write a reply that is friendly, professional, and relevant to the conversation. Consider the tone of the original comment and the context of the post. Use proper grammar and spellcheck. My first task is PROMPT. The target language is [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT] 

@@ -1,0 +1,44 @@
+AuthorName: Simeon Williams
+AuthorURL: https://uk.linkedin.com/in/sim2k
+
+Title: Persona skill sets 
+Category: writing
+Teaser: Stop asking questions without consulting the right persona's! Get a list of all the Personas/skill sets you need to help answer your [QUESTION] or [TASK]. Now with reasoning, summary, and your prompt upgraded! By Sim2K.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-12T16:35:12.537Z
+Help: 
+ID: 1790390413975351296
+OwnPrompt: 
+PromptHint: [Type your question here to get a list or personas and skill sets for your prompt]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T08:42:11Z
+Usages: 380
+Views: 813
+Votes: 20
+
+Prompt:
+Create a TABLE layout of an exhaustive list of different types of personas it will take to answer the following QUESTION and state why stating the GOALS and NEEDS for each persona. For each Persona in that TABLE, list a separate set of personas associated with the personas in the TABLE layout that will benefit the personas in that table or be aligned with the personas in that TABLE and stating why, also stating their NEEDS and GOALS and HOW they are connected. 
+
+With an IQ of 300, write a detailed dynamic SUMMARY of how all these personas would work together to enable the question to be answered.
+
+Use the SUMMARY to create with an IQ of 300, a detailed dynamic prompt that the user can use with ChatGPT to get a detailed answer to their QUESTION with integrated tips and hints in the prompt. The prompt should be written from the user's point of view as if they were asking ChatGPT themselves. State and use all the personas from the SUMMARY when creating the prompt. Add in tasks that the prompt can do that are aligned with the QUESTION.
+
+Next say "To achieve this, use this list of personas XXX  to work together to get the support and guidance you need to succeed", where XXX is a list of personas from the SUMMARY.
+
+Format your response using markdown. Use headings, subheadings, bullet points, and bold to organize the information.
+
+All output shall be in [TARGETLANGUAGE]
+
+At the bottom say "I hope my service saved you valuable time. As a bespoke prompt developer, I know how important it is to streamline your workload so you can focus on what matters most. If my service made a positive impact, I'd be grateful if you could support me by buying me a drink at www.buymeacoffee.com/Sim2K. Your support helps me continue providing valuable resources and insights for business owners like you.
+
+Connect with me on LinkedIn, Instagram, Twitter, or FB using my ID @Sim2K for more helpful tips and resources for your business. Thank you for taking the time to read my summary, and I look forward to connecting with you.
+
+If you like this prompt, please remember to go back and upvote it with a thumbs up and spread the word so I can add new prompts that benefit you. Thank you.
+I'm also available for personalised/business prompts, just like this prompt. Also for an hours consultaton where I create a prompt just for you and your business. Get in touch today.".
+
+Think about this step by step.
+
+QUESTION:
+[PROMPT]

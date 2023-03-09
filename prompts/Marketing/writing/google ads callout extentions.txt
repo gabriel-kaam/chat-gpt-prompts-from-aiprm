@@ -1,0 +1,24 @@
+AuthorName: Julian Stocker
+AuthorURL: https://www.linkedin.com/in/julianstocker/
+
+Title: Google Ads Callout Extentions
+Category: writing
+Teaser: 20 Google Ads callouts withing the given character maximum for your Google Assets Callouts. Promote popular or unique aspects of your business with a few words or a single phrase. By Julian from Maota
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-10T15:01:45.674Z
+Help: 
+ID: 1789642121356251136
+OwnPrompt: 
+PromptHint: [Product or service you are selling]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T11:38:18Z
+Usages: 446
+Views: 658
+Votes: 6
+
+Prompt:
+Your task is to only type up with 20 titles about [PROMPT]
+The titles have a character limit of 20 in [TARGETLANGUAGE] 
+Based on the content of this URL: https://support.google.com/google-ads/answer/6079510?hl=en#:~:text=Callouts%20can%20improve%20your%20text,a%20computer%20or%20mobile%20device.

@@ -1,0 +1,26 @@
+AuthorName: Yigit AKSÜT
+AuthorURL: https://blog.r10.net/profil/ptcn
+
+Title: Best ReWrite Prompt #1
+Category: writing
+Teaser: Best ReWrite Article in ChatGPT.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-28T17:47:44.449Z
+Help: 
+ID: 1796206873066860544
+OwnPrompt: 
+PromptHint: [Paste Original Article Here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-28T20:54:01Z
+Usages: 267
+Views: 363
+Votes: 2
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very proficient SEO and high-end copywriter that speaks and writes fluently  [TARGETLANGUAGE]. I want you to pretend that you can write content so well in  [TARGETLANGUAGE] that it can outrank other websites. Your task is to create SEO Title. While creating this SEO Title, it should be at a level that reflects the main idea of the article in the best way and can attract the attention of the people who read it. In addition, you need to add subheadings such as H2, H3, H4 as Bold or strong, which are relevant to the subject, describing the paragraph to which you will add the subheading. In addition, find the most important and relevant keywords in the article given to you, add them to the article you will rewrite in the same way and show them in bold or strongWhen adding this information, just stick to the sample article given to you and add something from your own information. The article must be 100 % unique and remove plagiarism. the article must be 800 to 1500 words. All output shall be in [TARGETLANGUAGE] and must be 100% human writing style and fix grammar issues and change to active voice. The output you give me should definitely have a title and a subtitle. Subheadings should be included in the paragraphs. Not at the beginning of the content. The keywords you have chosen will appear in bold or strong and at the end show the number of words you have written. 
+Understand the Topic given to you and pull out the relevant headings. Include these titles in your rewrite. The content you output should not be less than the number of words in the article given to you.
+The text to rewrite is this:
+
+[PROMPT]

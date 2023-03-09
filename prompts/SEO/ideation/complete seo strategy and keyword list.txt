@@ -1,0 +1,24 @@
+AuthorName: MM
+AuthorURL: https://tp.media/click?shmarker=402890&promo_id=7523&source_type=link&type=click&campaign_id=101&trs=203323
+
+Title: Complete SEO Strategy & Keyword List 
+Category: ideation
+Teaser: Powered SEO Keyword List & Strategy. Drive Traffic & Boost Leads
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-29T14:30:51.707Z
+Help: 
+ID: 1785285690867834880
+OwnPrompt: 
+PromptHint: Write only one KEYWORD
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 2104
+Views: 3148
+Votes: 24
+
+Prompt:
+Task: You are a market research expert and must create a keyword list for an SEO content strategy plan in [TARGETLANGUAGE]. 
+[PROMPT]
+Use the given target keyword to create a markdown table with the following columns: Keyword Group, keyword, Search Engine Friendly Title,Target audience, Query Intent, Meta Description, Call-to-Action (CTA). Cluster the keywords into 15 super categories and list 10 subcategories or specific long-tail keywords for each cluster. Classify the keywords into one of four search intent groups: Commercial Intent, Informational Intent, Transactional Intent, and Navigational Intent. Write an attractive title and meta description (120-160 words) that entices clicks. Do not use generic keywords like, Here are, "sure", "introduction" or "conclusion" and avoid enclosing characters in any columns. Simply present your suggestions in the table.

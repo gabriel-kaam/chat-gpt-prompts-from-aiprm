@@ -1,0 +1,25 @@
+AuthorName: M Khayam
+AuthorURL: https://www.linkedin.com/in/muhammad-khayam-1b8263261/
+
+Title: Amazon KDP title & Description 
+Category: writing
+Teaser: Create a KDP(hardcover, paperback, e-book, audio book) title 
+ and description for amazon listing
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-22T12:58:30.251Z
+Help: 
+ID: 1793959757091176448
+OwnPrompt: 
+PromptHint: Enter Kdp name
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T08:55:20Z
+Usages: 28
+Views: 61
+Votes: 1
+
+Prompt:
+your task is to add the product name i give you a amazon KDP(hardcover | audiobook | paperback | e-book) title and description. All output shall be in[TARGETLANGUAGE].The summarize text is this.
+
+[PROMPT]

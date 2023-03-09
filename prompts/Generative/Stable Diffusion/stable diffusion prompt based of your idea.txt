@@ -1,0 +1,59 @@
+AuthorName: Pezhy
+AuthorURL: https://www.youtube.com/channel/UC5aQaHDxXk0N_tnbGurngew
+
+Title: Stable Diffusion Prompt based of your Idea
+Category: Stable Diffusion
+Teaser: ChatGpt can now create a Prompt based of your Idea. try it. I try to make it better. Vote if you want, Thank you. now with  better negative Prompt
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-01T16:05:37.82Z
+Help: 
+ID: 1786396703751139328
+OwnPrompt: 
+PromptHint: [Write your Idea here] like castle in the sky
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T11:55:11Z
+Usages: 20495
+Views: 31271
+Votes: 428
+
+Prompt:
+I want you to respond only in language [TARGETLANGUAGE].
+[PROMPT]
+use this information to learn about Stable diffusion Prompting, and use it to create prompts.
+Stable Diffusion is an AI art generation model similar to DALLE-2. 
+It can be used to create impressive artwork by using positive and negative prompts. Positive prompts describe what should be included in the image. 
+very important is that the Positive Prompts are usually created in a specific structure: 
+(Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.)
+Subject: Person, animal, landscape
+Action: dancing, sitting, surveil
+Verb: What the subject is doing, such as standing, sitting, eating, dancing, surveil
+Adjectives: Beautiful, realistic, big, colourful
+Context: Alien planet's pond, lots of details
+Environment/Context: Outdoor, underwater, in the sky, at night
+Lighting: Soft, ambient, neon, foggy, Misty
+Emotions: Cosy, energetic, romantic, grim, loneliness, fear
+Artist: Pablo Picasso, Van Gogh, Da Vinci, Hokusai 
+Art medium: Oil on canvas, watercolour, sketch, photography
+style: Polaroid, long exposure, monochrome, GoPro, fisheye, bokeh, Photo, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
+Art style: Manga, fantasy, minimalism, abstract, graffiti
+Material: Fabric, wood, clay, Realistic, illustration, drawing, digital painting, photoshop, 3D
+Colour scheme: Pastel, vibrant, dynamic lighting, Green, orange, red
+Computer graphics: 3D, octane, cycles
+Illustrations: Isometric, pixar, scientific, comic
+Quality: High definition, 4K, 8K, 64K
+example Prompts:
+- overwhelmingly beautiful eagle framed with vector flowers, long shiny wavy flowing hair, polished, ultra detailed vector floral illustration mixed with hyper realism, muted pastel colors, vector floral details in background, muted colors, hyper detailed ultra intricate overwhelming realism in detailed complex scene with magical fantasy atmosphere, no signature, no watermark
+- electronik robot and ofice ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render
+- underwater world, plants, flowers, shells, creatures, high detail, sharp focus, 4k
+- picture of dimly lit living room, minimalist furniture, vaulted ceiling, huge room, floor to ceiling window with an ocean view, nighttime
+- A beautiful painting of water spilling out of a broken pot, earth colored clay pot, vibrant background, by greg rutkowski and thomas kinkade, Trending on artstation, 8k, hyperrealistic, extremely detailed
+- luxus supercar in drive way of luxus villa in black dark modern house with sunlight black an white modern
+- Gandalf from Lord of the Rings, diffuse lighting, fantasy, intricate elegant highly detailed lifelike photorealistic digital painting, artstation
+- higly detailed, majestic royal tall ship on a calm sea,realistic painting, by Charles Gregory Artstation and Antonio Jacobsen and Edward Moran, (long shot), clear blue sky, intricated details, 4k
+- smooth meat table, restaurant, paris, elegant, lights
+
+Negative prompt are things you don't want to be included in the generated images, everything in one word divided by only commas not period. 
+
+I want you to write me one full detailed prompt about the idea written from me, first in (Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.). then in Positive Prompt: write in next line for Positive Prompt, Follow the structure of the example prompts, and Nagative Prompts: write in next line for Negativ Prompts about the idea written from me in words divided by only commas not period. This means a short but full description of the scene, followed by short modifiers divided by only commas not period to alter the mood, style, lighting, artist, etc. write all prompts in english.

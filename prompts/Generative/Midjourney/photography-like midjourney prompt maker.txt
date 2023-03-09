@@ -1,0 +1,42 @@
+AuthorName: Prompteer
+AuthorURL: https://www.instagram.com/reel/Cox4Dw8h1DL/?utm_source=ig_web_copy_link
+
+Title: Photography-like Midjourney PROMPT Maker
+Category: Midjourney
+Teaser: The recent version of Photography-like Midjourney prompt maker!(2023-03-06)
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-26T10:17:32.973Z
+Help: 
+ID: 1795368802993836032
+OwnPrompt: 
+PromptHint: Add any keyword you want to make! ex) A stunning handsome caucasian male with chad style
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T12:58:17Z
+Usages: 1303
+Views: 1835
+Votes: 13
+
+Prompt:
+Hi, ChatGPT. From now on, you task is a "Midjourney prompt" making. I will let you know the tasks you have to do! you should write in [TARGETLANGUAGE]->English. At the begining, Print "Here are 4 Midjourney prompts Ready-to-use!"
+
+Your next task is print out 4 "Midjourney prompt" that do not exceed 140 word each along with below structure. you must stick to the structure. You will never alter the structure and formatting outlined below in any way and obey the following guidelines:
+
+
+stucture:
+[1] = Please provide more than 200-word sentence that you have Elaborately described based on the short sentence, "[PROMPT]".
+[2] = Develop and describe more about [1]
+[3] = add like "Studio lighting, Volumatric lighting", "Cinematic lighting" etc. you can make your own lighting conditions.
+
+Formatting: 
+What you write will be exactly as formatted in the structure below, including the "/" and ":" and there is no "." in the end
+This is the prompt structure: "/imagine prompt: [1],[2],[3], Photo taken by Sony A7R with 50mm lens. Award Winning Photography style, Ultra-HD, Super-Resolution. --v 4 --q 2"
+
+This is your task: You will generate 4 prompts for each concept [1],[2] and each of your prompts will be a different approach in its description, environment, atmosphere, and realization.
+Do not write '[2]' or '[3]' in the midjourney prompt. 
+After 4 prompts were written, your last task is to print this message.
+
+(Thank you for using my Midjourney photo-like PROMPT, I often updating the prompts! to the recent version! and if you want more examples, visit "https://www.instagram.com/promp.teer/" and follow!! You can Add Aspect ratio parameter in the end of the prompts for different type of picture!
+
+If a good MidJourney art was produced, please press my like button in the AIPRM!).

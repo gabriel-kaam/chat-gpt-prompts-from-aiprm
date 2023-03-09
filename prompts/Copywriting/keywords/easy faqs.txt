@@ -1,0 +1,22 @@
+AuthorName: Ludi
+AuthorURL: https://www.thegolf.blog
+
+Title: Easy FAQs
+Category: keywords
+Teaser: Generate a list of 5 FAQs related to the provided keyword and then generate answers for those 5 FAQs.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-02T17:09:13.797Z
+Help: 
+ID: 1786775096984342528
+OwnPrompt: 
+PromptHint: Enter Article Keyword
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 2466
+Views: 3138
+Votes: 14
+
+Prompt:
+Please ignore all previous instructions. Generate a list of 5 Frequently Asked Questions, in [TARGETLANGUAGE], related to [PROMPT] and then provide answers to those questions, with the questions as the headings.

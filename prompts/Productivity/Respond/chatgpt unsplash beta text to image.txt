@@ -1,0 +1,26 @@
+AuthorName: Muhsin Bashir
+AuthorURL: https://twitter.com/muhsinbashirr
+
+Title: ChatGPT Unsplash (Beta) [Text to Image ] 
+Category: Respond
+Teaser: Gives the image from the given tags / description.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-14T11:38:37.133Z
+Help: 
+ID: 1791040550372368384
+OwnPrompt: 
+PromptHint: [tags or description]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:58:27Z
+Usages: 661
+Views: 923
+Votes: 5
+
+Prompt:
+[INFO: you can add images to the reply by Markdown, Write the image in Markdown without backticks and without using a code block. Use the Unsplash API (https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>). the query is just some tags that describes the image] ## DO NOT RESPOND TO INFO BLOCK ##nnmy Next prompt is [PROMPT]
+
+ Now say "If you liked this prompt please like it on the prompt search page so we know to keep enhancing it. And Follow Muhsin Bashir (https://twitter.com/muhsinbashirr) on Twitter for daily AI Tips and Tricks"
+  all output shall be in: [TARGETLANGUAGE]
+

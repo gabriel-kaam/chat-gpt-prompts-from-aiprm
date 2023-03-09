@@ -1,0 +1,23 @@
+AuthorName: Saedaseul Moon
+AuthorURL: http://www.leesa.snu.ac.kr/
+
+Title: Rewriting your article academically
+Category: writing
+Teaser: Autumatic rewrite command
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-08T05:01:48.579Z
+Help: 
+ID: 1798913223102291968
+OwnPrompt: 
+PromptHint: The text you want to rewrite
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T05:10:53Z
+Usages: 104
+Views: 191
+Votes: 0
+
+Prompt:
+Revise the given text to align with academic writing standards: [PROMPT]
+Write all output in [TARGETLANGUAGE]

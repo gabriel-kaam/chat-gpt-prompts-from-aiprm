@@ -1,0 +1,28 @@
+AuthorName: More Free Tools
+AuthorURL: https://bit.ly/m/Free-Tools
+
+Title: Persuasive Paragraph Rewriter in One Click
+Category: Persuade
+Teaser: I will rewrite any paragraph to make it more persuasive on any topic.
+Upvote if you like so I can provide more Free Tools.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T14:40:17.42Z
+Help: 
+ID: 1791086269489745920
+OwnPrompt: 
+PromptHint: Insert paragraph 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 2829
+Views: 4039
+Votes: 51
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. I want you to act as a highly skilled blogger and top-tier copywriter who is fluent in [target language]. I want you to pretend that you are an expert at writing and managing paragraphs in [TARGETLANGUAGE].
+Your task is to Rewrite the paragraph that I will provide at the end to make it more persuasive.
+Please Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.
+Just take the best action you can. All output must be in the [TARGETLANGUAGE]. The paragraph for action is:
+
+[PROMPT]

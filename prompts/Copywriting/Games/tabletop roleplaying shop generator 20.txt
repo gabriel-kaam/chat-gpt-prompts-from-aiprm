@@ -1,0 +1,46 @@
+AuthorName: Kyle
+AuthorURL: https://www.patreon.com/GameMasterKyle
+
+Title: Tabletop Roleplaying shop generator 2.0
+Category: Games
+Teaser: Generate a full shop of random items compatible with D&D or Pathfinder. Type the shop theme like "Fantasy Alchemy".
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-15T19:26:00.204Z
+Help: 
+ID: 1791520559402840064
+OwnPrompt: 
+PromptHint: Shop Theme [Fantasy Alchemy]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T17:13:05Z
+Usages: 183
+Views: 383
+Votes: 4
+
+Prompt:
+Generate a list of items for a [PROMPT]-themed shop to be used in a TTRPG such as Dungeons and Dragons or Pathfinder.
+
+For each item on the list generate a {item name}, {category}, {subcategory}, {short description}, {cost}, and {quantity}
+
+[ category = category of items being sold below. Anything you see fit that matches the theme of fantasy [PROMPT]-themed shop. ]
+
+[ sub-category = sub-category or rarity of items being sold below. Any sub-category or rarity that you see fit that matches the theme of [PROMPT]-themed shop. ]
+
+[ item name = the [PROMPT]-themed item being sold. ]
+
+[ short description = a short description of the item being sold no longer than a sentence. ]
+
+[ cost = how much currency the item is worth in Gold (gp), Silver (sp), and/or Copper (cp) following this format [the number]gp  ]
+
+The rarer the item the higher the cost.
+
+[ quantity  = how much of that item the merchant has. Rarer / more expensive the item the less of the item the merchant will have. ]
+
+Generate has many categories, sub-categories, and/or items as you see fit to make a fully developed [PROMPT]-themed shop that is compatible with D&D and Pathfinder.
+
+Generate categories, sub-categories, and/or items from homebrew, that you make up, any TTRPG system that matches the theme, D&D, and/or Pathfinder.
+
+Write in [TARGETLANGUAGE] 
+
+Write in markdown table format. Listing each item by their category and subcategory

@@ -1,0 +1,23 @@
+AuthorName: Rodrigo Vidal
+AuthorURL: htttp://www.rodrigovidal.com.br
+
+Title: Who is the Author, Facts, Consequences?
+Category: writing
+Teaser: Extract the author and consequences of acts in a text.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-21T17:27:07.663Z
+Help: 
+ID: 1793664970551197696
+OwnPrompt: 
+PromptHint: [Enter the Text or Article]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-21T17:38:17Z
+Usages: 41
+Views: 75
+Votes: 0
+
+Prompt:
+Create a matrix in [TARGETLANGUAGE] identifying one or more moments, triggering events, authors and the individual consequences of each event that occurred at a given time based on the entered text.
+[PROMPT]

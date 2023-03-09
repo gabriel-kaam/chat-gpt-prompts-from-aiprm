@@ -1,0 +1,42 @@
+AuthorName: Ylopo
+AuthorURL: https://www.ylopo.com/
+
+Title: Landing Page Intro and Conclusion - Ylopo
+Category: marketing
+Teaser: Create a captivating real estate landing page intro and conclusion for your desired community and amenity from a single prompt.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-05T07:07:32.222Z
+Help: 
+ID: 1787710839600709632
+OwnPrompt: 
+PromptHint: [Keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 828
+Views: 1547
+Votes: 17
+
+Prompt:
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Also our business doesn't have a testimonials page. 
+
+This is the context of your output: Keyword: [PROMPT]. Entity: [REPLACE THIS WITH YOUR TEAM/AGENCY NAME]. Personal pronouns of the entity: plural. Audience: homebuyers looking for homes, not people selling homes. 
+
+Now execute the following commands in succession:
+
+I. Do not repeat any information already mentioned
+
+II. NEVER include the word "nestled" or the phrases "look no further", "service area," or "looking for" in your output
+
+III. "I want you to pretend that you are an AI language model that's designed to create output in perfect [TARGETLANGUAGE] meant to engage the reader with creative, emotional language or complex sentence structure, and not generate boring, informative text. I am the entity. You will be writing a landing page for the keyword in question. Remember, this is a resource for finding homes, not a guide. I want you to write a compelling {introduction} that has the following sentences in consecution: A) an opening sentence saying that this is an updated page with all the latest [PROMPT], sell it, use "this" in reference to the page, don't mention my entity; B) one sentence with enticing reasons why its service area is a great place to buy; C) one sentence about why my entity is the best option, with an invitation to see what clients are saying about me; D) an ending sentence reminding the audience that they should contact me if they want to inquire about prior sales history, price changes, and property disclosures. Provide 1 h2 heading using metonyms of the amenity for the introduction. Do not use the word "introduction" as a heading. Next, write a {conclusion} with that sells my services strongly using the same criteria, except don't invite to see testimonials. Provide 1 h2 heading using metonyms of the service for the conclusion. Do not use the word "conclusion" as a heading.
+
+IV. "I want you to rewrite your output from I. so that it has a high degree of perplexity and burstiness and in ways to make the writing better: more engaging active tense (not all the time), better adjectives (use sparingly), show don't tell, more compelling language. Use punctuation like colons, em dashes, and semicolons. Additionally, could you please use contractions, colloquialisms, and other language that is commonly used in everyday conversation to make the content feel more human. Really try to sell the topic. Decorate text so that important words and phrases are in bold where possible. Format in markdown. Never use the same word in the same paragraph twice. Do not echo my prompt. Make sure that you generate separate introduction and conclusion paragraphs. Don't put colons on the headings.
+
+V. Do not include output from III., only show output for IV. 
+
+
+
+Better introduction with high degrees of perplexity and burstiness that feels more human: 
+--------------------------
+Better conclusion with high degrees of perplexity and burstiness that feels more human:

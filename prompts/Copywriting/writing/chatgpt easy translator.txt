@@ -1,0 +1,22 @@
+AuthorName: ERITO
+AuthorURL: https://www.facebook.com/eritocuba/
+
+Title: ChatGPT Easy Translator
+Category: writing
+Teaser: Comfortable and simple to make the best translations.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-06T04:46:25.389Z
+Help: 
+ID: 1798184575231586304
+OwnPrompt: 
+PromptHint: [text to translate]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T08:38:21Z
+Usages: 166
+Views: 252
+Votes: 3
+
+Prompt:
+Translate to [TARGETLANGUAGE] this text: "[PROMPT]". 

@@ -1,0 +1,22 @@
+AuthorName: Prompt.mba
+AuthorURL: https://prompt.mba/
+
+Title: Target audiences with products
+Category: Products
+Teaser: Come up with new product ideas that meet your audience's needs
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-01-23T21:06:38.976Z
+Help: 
+ID: 1900102
+OwnPrompt: 
+PromptHint: Name your category in simple but precise language. E.g. “electronic music nightclubs” + SHIFT ENTER + Describe your target audience (e.g. “Budget-conscious infrequent clubbers”)
+PromptPackageID: 6
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 2349
+Views: 4078
+Votes: 26
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Come up with five new, innovative products that are targeted at the unique needs of the audience. The category in first line and audience in second line is: [PROMPT] 

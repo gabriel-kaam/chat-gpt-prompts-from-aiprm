@@ -1,0 +1,32 @@
+AuthorName: Arodie
+AuthorURL: https://www.arodie.com/
+
+Title: Create A Killer Twitter Thread
+Category: marketing
+Teaser: Create a killer Twitter thread for any subject - Stat based hook, include any specific info you want to cover and add a call to action.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-24T21:12:22.646Z
+Help: 
+ID: 1794808820095258624
+OwnPrompt: 
+PromptHint: [subject: "My Primary Subject" - include: "any extra info to include" - CTA: "Visit My Website"]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T18:48:32Z
+Usages: 809
+Views: 1216
+Votes: 15
+
+Prompt:
+Your task is to create a twitter thread. All output should be in the [TARGETLANGUAGE]. 
+
+Each tweet in the twitter thread should have a limit of 280 characters. Do not repeat the prompt subject in each tweet, only use it in the first and last tweet. 
+
+The first tweet must be clickbait in style and must use an interesting numeric statistic on the subject to entice the reader to read the twitter thread. Use a suitable emoji in the first tweet.
+
+Each tweet must be numbered at the start followed with a forward slash. Include at least one hashtag in a tweet.  Along with the main subject, include any additional information requested in the prompt. The text to create a twitter thread from is:
+
+[PROMPT]
+
+The 'subject' is the primary subject that must be used in the first tweet. 'include' is any extra information that must be used, but do not include in the first tweet. 'CTA' must be used in the last tweet only. The twitter thread shall be between 6 - 10 tweets in length. No tweet shall repeat information from a previous tweet. Don't use CTA has a hashtag.

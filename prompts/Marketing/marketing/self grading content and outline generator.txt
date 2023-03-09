@@ -1,0 +1,73 @@
+AuthorName: Chi Chi Crew Shop
+AuthorURL: https://chichicrew.shop
+
+Title: Self Grading Content & Outline Generator
+Category: marketing
+Teaser: Generates 1 title tag, 1, meta title. 1 meta description, 1 quote, 1 H1 Heading, 5 H2 headings, 15 H3 subheadings, 5 questions, EEAT Rating, Word count, image count, heading count, competition and tone
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-01-30T12:41:40.169Z
+Help: 
+ID: 1785620599591407616
+OwnPrompt: 
+PromptHint: [KEYWORD] *use the exact search term you want to rank for*
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T04:44:17Z
+Usages: 6912
+Views: 10195
+Votes: 124
+
+Prompt:
+Only respond in [TARGETLANGUAGE]
+
+[PROMPT]
+
+- Use the above search term to create 10x skyscraper longform pillar content showcasing Expertise, Experience, Authority, and trustworthiness
+
+You will create a content outline about [PROMPT]
+-1 Title Tag, 1 meta title, 1 meta description, 1 H1 and  all the recommended blog tags
+-1 highly relevant quote from competitors, thought leaders, celebrities, etc 
+-5 sections of topics and in each topic create 3 subtopics. Totaling 5 H2s and 15 H3s.
+-5 Questions optimized for PAA do not answer them
+- 3 top competitor articles this article aims to outrank
+-Image count, Word count, heading count, tone
+
+
+The format should look like this:
+ 
+TITLE
+META TITLE
+META DESCRIPTION
+TAG,TAG,TAG,TAG,TAG
+QUOTE
+-H1
+-H2
+--H3
+--H3
+--H3
+-H2
+--H3
+--H3
+--H3
+-H2
+--H3
+--H3
+--H3
+-H2
+--H3
+--H3
+--H3
+-H2
+--H3
+--H3
+--H3
+Q, Q, Q, Q, Q
+COMPETITION
+IMAGE COUNT
+WORD COUNT
+HEADING COUNT
+TONE
+EEAT RATING
+
+Then attempt to rate the content you created at the end according to EEAT

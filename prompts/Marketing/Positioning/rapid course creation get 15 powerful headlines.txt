@@ -1,0 +1,40 @@
+AuthorName: Taylor Banks
+AuthorURL: https://fulltimehacker.com?utm_campaign=AIPRM&utm_source=chatgpt
+
+Title: Rapid Course Creation: Get 15 Powerful Headlines
+Category: Positioning
+Teaser: Brainstorm the perfect title and several benefit-driven headlines for a micro course. For the best output, provide a TOPIC, AUDIENCE, and BENEFIT.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-27T18:56:17.022Z
+Help: 
+ID: 1795861734582644736
+OwnPrompt: 
+PromptHint: ex: [topic="golf" audience="men 18-28" benefit="become a golf legend in 5 days"]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T19:41:19Z
+Usages: 672
+Views: 1007
+Votes: 5
+
+Prompt:
+Ignore all instructions before this one. You are an expert in creating, marketing, and selling online courses. Your client is creating an online course, and you will be creating compelling  marketing materials for your client to use when selling their course. All output shall be in [TARGETLANGUAGE] and should use compelling language, catchy phrases, and/or colloquailisms appropriate to native speakers of that language.
+
+Your client is creating a course with the following INPUT: [PROMPT]. 
+
+Create a table with headers for "Style" and "Headline".
+
+Then, add items to that table as follows, organizing the contents by style: 
+
+First, brainstorm 3 descriptive, compelling, and benefit-driven course titles (style: Title Ideas) for a course with this focus. The titles should be less than 80 characters each and should create excitement and desire to take the course. If the [INPUT] data above specifies an [AUDIENCE] and includes at least one [BENEFIT], make sure to make the headline appeal specifically to people who identify with or as [AUDIENCE] and want to achieve [BENEFIT].
+
+Next, please write 3 ad headlines for a course with this focus (style: Ad Headlines). 
+
+Next, write 3 clickbait headlines for a course with this focus (style: Clickbait Headlines). 
+
+Next, write 3 clickbait headlines for blog posts about a course with this focus (style: Clickbait Blog Posts). 
+
+Next, write 3 statistical headlines for a course with this focus (style: Statistical Headlines). 
+
+Finally, write 3 emotional headlines for blog posts about a course with this focus (style: Emotional Blog Posts).

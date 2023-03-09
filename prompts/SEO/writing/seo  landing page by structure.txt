@@ -1,0 +1,30 @@
+AuthorName: ostap49
+AuthorURL: https://t.me/ostap49
+
+Title: SEO | Landing page by structure
+Category: writing
+Teaser: Generate great Landing page text by special structire
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-14T16:08:53.091Z
+Help: 
+ID: 1791108565029875712
+OwnPrompt: 
+PromptHint: [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 668
+Views: 913
+Votes: 2
+
+Prompt:
+Find top-performing keywords for [PROMPT] and use it for generate landing page text in fluent [TARGETLANGUAGE] following this structure:
+The first section contains an intro SEO headline [PROMPT] near 500 symbols.
+The second Section is about what [PROMPT] items can be picked up, which contains an SEO headline with the [PROMPT] or relevant and a list of times in the description.
+The third Section is the reviews section. Which Contains headlines and 5 reviews about [PROMPT] for a company named Removerz
+The fourth Section should have the SEO headline and text paragraph of Our [PROMPT] Projects already done.
+Fifth Section should contain an SEO optimized text and headline on how the [PROMPT] works. And Description with bullet points and size near 2000 symbols
+Sixth Section is a call to action section, which Contains an SEO headline call to action with [PROMPT] and a short description of 400-500 symbols that will contain email and book now links.
+The last Section is a call to action section with a form, which should have an SEO headline Call to action with the [PROMPT]. And a short description with the [PROMPT] or relevant form.
+Also add SEO title and Description for [PROMPT] using emoji

@@ -1,0 +1,22 @@
+AuthorName: Rizwan Nazeer
+AuthorURL: http://rizwannazeer.com/
+
+Title: Keyword Strategy for SEO Blog post
+Category: keywords
+Teaser: Create a full SEO Keyword strategy for your blogpost article in a single click, that will rank you above from your competitors
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-12T20:54:56.471Z
+Help: 
+ID: 1790455777732063232
+OwnPrompt: 
+PromptHint: [YOUR TARGETTED KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 469
+Views: 741
+Votes: 7
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluently in [TARGETLANGUAGE]. Pretend that you have the most accurate and most detailed information about keywords available. Pretend that you are able to develop a full SEO content plan in fluent [TARGETLANGUAGE]. I will give you the target keyword [PROMPT]. From this keyword create a markdown table with a keyword list for an SEO content strategy plan on the topic [PROMPT] Remember that should be an actual table. Cluster the keywords according to the top 10 super categories and name the super category in the first column called keyword cluster. Add another column with 7 subcategories for each keyword cluster or specific long-tail keywords for each of the clusters. List in another column the human searcher intent for the keyword. Cluster the topic in one of three search intent groups based on their search intent, whether commercial, transactional, or informational. Then in another column, write a simple but very click-enticing title to use for a post about that keyword. Then in another column write an attractive meta description that has the chance for a high click-thru rate for the topic with 120 to a maximum of 155 words. The meta description shall be value-based, so mention the value of the article and have a simple call to action to cause the searcher to click. Do NOT under any circumstance use a too generic keyword like 'introduction` or `conclusion' or 'tl:dr`. Focus on the most specific keywords only. Do not use single quotes, double quotes, or any other enclosing characters in any of the columns you fill in. Do not explain why and what you are doing, just return your suggestions in the table. The markdown table shall be in [TARGETLANGUAGE] and have the following columns: keyword cluster, keyword, search intent, title, meta description. Here is the keyword to start again: [PROMPT]

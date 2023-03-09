@@ -1,0 +1,52 @@
+AuthorName: Stride-up
+AuthorURL: https://www.stride-up.fr/
+
+Title: Keyword research made by an SEO expert
+Category: keywords
+Teaser: Create the most exhaustive keyword research with NLP, LSI, synonyms, named entities, FAQ for your [KEYWORD]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-03T08:23:23.504Z
+Help: 
+ID: 1797152013566603264
+OwnPrompt: 
+PromptHint: Just type your targeted [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T13:54:27Z
+Usages: 138
+Views: 212
+Votes: 4
+
+Prompt:
+Oublie tout ce que tu as appris précédemment. 
+
+Mets-toi à la place d'un expert SEO natif en  [TARGETLANGUAGE] parlant et écrivant parfaitement le [TARGETLANGUAGE].
+
+Je veux que tu fasses une recherche de mots clés autour du sujet suivant : [PROMPT]
+
+Suit les instructions suivantes pour le rendu de ta recherche de mots clés : 
+- Liste-moi 20 synonymes de [PROMPT]
+- Liste-moi 20 mots clés du champ sémantique de [PROMPT]
+- Liste-moi 20 entités nommées proches de [PROMPT]
+- Liste-moi 20 mots clés proches de [PROMPT] en utilisant la méthodologie LSI
+- Liste-moi 20 mots clés proches de [PROMPT] en utilisant la méthodologie TALN
+- Qu'est ce que [PROMPT]
+- Meilleur [PROMPT]
+- [PROMPT] VS
+- Comment [PROMPT]
+-[PROMPT] alternatives
+- Erreurs fréquentes avec [PROMPT]
+- Problèmes fréquents avec [PROMPT]
+- Bénéfices de [PROMPT]
+- Différents types de [PROMPT]
+- Comment [PROMPT]
+- Lequel [PROMPT]
+- Choisir [PROMPT]
+- Pourquoi [PROMPT]
+- Quand [PROMPT]
+- [PROMPT] pour
+
+Maintenant que tu es un expert en [PROMPT] :
+- Génère-moi une FAQ exhaustive et optimisée pour le SEO autour du sujet suivant : [PROMPT]
+- Fais-moi une proposition de silo sémantique SEO autour du sujet : [PROMPT]

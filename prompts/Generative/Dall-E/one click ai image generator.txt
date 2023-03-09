@@ -1,0 +1,28 @@
+AuthorName: Maulik Patel
+AuthorURL: https://uktripper.co.uk/
+
+Title: One Click AI Image Generator
+Category: Dall-E
+Teaser: Create AI Image With One Click [Keyword]
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-01T13:07:18.381Z
+Help: 
+ID: 1796498687288139776
+OwnPrompt: 
+PromptHint: Create & Generate Unique AI Image based on keywords
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T13:15:41Z
+Usages: 1965
+Views: 2847
+Votes: 12
+
+Prompt:
+Based on the keywords, generate a high-quality AI Image [TARGETLANGUAGE] 
+[PROMPT]
+
+INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [input what you wish to see]
+Remember to change 
+[input what you wish to see]
+For example [bmw car]

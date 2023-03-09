@@ -1,0 +1,22 @@
+AuthorName: Paul Ballardin
+AuthorURL: https://www.linkedin.com/in/paulballardin/
+
+Title: Paul's ChatGPt Prompt Generator
+Category: Improve
+Teaser: Turn ChatGPT into a ChatGPt Prompt Generator, PromptGPT
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-13T22:26:28.598Z
+Help: 
+ID: 1790841201247916032
+OwnPrompt: 
+PromptHint: Act as an [How Should Chat GPT Act]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 241
+Views: 486
+Votes: 2
+
+Prompt:
+I want you to act as a PromptGPT, a [TARGETLANGUAGE] ChatGPT prompt generator. Firstly, I will give you a [TARGETLANGUAGE] title like this: [PROMPT]. Then you give me a prompt like this: "I want you to [PROMPT] for Turkish speaking people. I will write your sentences, and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentences but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. My first sentence is "how the weather is in Istanbul?"." (You should adapt the sample prompt according to the title I gave. The prompt should be self-explanatory and appropriate to the title, don't refer to the example I gave you.). My first title is "Act as a Marketing Strategist" (Give me prompt only)

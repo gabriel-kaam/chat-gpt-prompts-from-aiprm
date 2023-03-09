@@ -1,0 +1,25 @@
+AuthorName: Prompt.mba
+AuthorURL: https://prompt.mba/
+
+Title: Target audiences with places (media channels)
+Category: Places (Media Channels)
+Teaser: Identify media channels for your audience and how to use them
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-01-23T21:06:38.976Z
+Help: 
+ID: 1900105
+OwnPrompt: 
+PromptHint: Name your brand (e.g. “Fabric London”) + SHIFT ENTER + Name your category in simple but precise language. E.g. “electronic music nightclubs” + SHIFT ENTER + Describe your target audience (e.g. “Budget-conscious infrequent clubbers”)
+PromptPackageID: 6
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 775
+Views: 1745
+Votes: 6
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. 
+
+Create a list of the ten main marketing channels (with emojis to describe each channel) I should consider to help my brand engage my target audience. Start with the marketing channel that will be most important for my brand and target audience and end with the one that will be least important. Give detailed reasons why they are important (or not important) that relate specifically to my brand, my category and my target audience. (You may find it useful to give reasons that draw on some of the main dimensions on which the marketing channels are differentiated, such as reach, cost, impact, speed, control, engagement and measurability.) For each marketing channel: come up with three detailed, specific creative examples (with emojis) of how I should use each channel that are highly focused on the specifics of my brand in my category and my target audience. All your output shall be in [TARGETLANGUAGE] language.
+The brand (first line), category (second line) and target audience (third line) are: [PROMPT]

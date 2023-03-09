@@ -1,0 +1,22 @@
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+seo&utm_term=Salesforce Superhero
+
+Title: Salesforce Superhero
+Category: CRM
+Teaser: Salesforce giving you a hard time? I can help you out!
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-01-23T21:06:38.976Z
+Help: 
+ID: 2000122
+OwnPrompt: 
+PromptHint: [YOUR SALESFORCE QUESTION]
+PromptPackageID: 5
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 935
+Views: 2939
+Votes: 18
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as an expert in Salesforce that speaks and writes fluent [TARGETLANGUAGE]. Please answer the following question in [TARGETLANGUAGE] language: [PROMPT]

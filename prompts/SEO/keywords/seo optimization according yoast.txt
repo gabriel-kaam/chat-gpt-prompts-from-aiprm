@@ -1,0 +1,31 @@
+AuthorName: Tsion Cohen
+AuthorURL: https://www.lef26.com
+
+Title: SEO optimization according Yoast
+Category: keywords
+Teaser: SEO Title
+Slug 
+Meta Description
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-23T11:17:30.563Z
+Help: 
+ID: 1794296728783151104
+OwnPrompt: 
+PromptHint: [Keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T11:44:04Z
+Usages: 266
+Views: 395
+Votes: 1
+
+Prompt:
+Rédige pour un mot clé:
+un titre Titre SEO avec 55 caractères maximum contenant le mot clé au début.
+un slug avec 30 caractères maximum contenant le mot clé.
+la méta description avec 150 caractères max contenant le mot clé.
+All output shall be in [TARGETLANGUAGE]
+Le mot clé est:
+[PROMPT]
+

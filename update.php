@@ -45,7 +45,8 @@ EOF;
 $prompts = json_decode(file_get_contents('https://api.aiprm.com/api2/Prompts?Community=&Limit=10&Offset=0&OwnerExternalID=user-Sym2oNwW2gUBywbi1gqkKPyB&OwnerExternalSystemNo=1&SortModeNo=2'));
 
 foreach ($prompts as $prompt) {
-	$path = 'prompts/' . $prompt->Category;
+	list($topic, ) = explode('-', $prompt->Community, 2);
+	$path = "prompts/$topic/{$prompt->Category}";
 	$name = strtolower(sanitize($prompt->Title));
 	@mkdir($path, 0777, true);
 

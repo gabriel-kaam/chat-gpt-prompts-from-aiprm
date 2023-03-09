@@ -13,6 +13,8 @@ function sanitize($string) {
 }
 
 function file_content_from_prompt($prompt) {
+	$prompt->Teaser = trim($prompt->Teaser);
+
 	return <<<EOF
 AuthorName: {$prompt->AuthorName}
 AuthorURL: {$prompt->AuthorURL}

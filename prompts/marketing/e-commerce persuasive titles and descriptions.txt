@@ -1,0 +1,24 @@
+AuthorName: Magbis Ovando
+AuthorURL: https://www.facebook.com/magbisoc/
+
+Title: E-commerce Persuasive Titles and Descriptions
+Category: marketing
+Teaser: Prompt to generate persuasive ads for e-commerce.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-05T02:32:12.413Z
+Help: 
+ID: 1797788410736533504
+OwnPrompt: 
+PromptHint: [E-Commerce Ad Generator]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T02:52:29Z
+Usages: 134
+Views: 213
+Votes: 1
+
+Prompt:
+I want you to pretend you're an eCommerce SEO expert who writes compelling product descriptions for users looking to shop online. I'm going to provide the title of an e-commerce product, and I want you to create a minimum of two separate content sections for the product description, each section about a unique subset of keywords related to the product I'm providing you with. 
+
+Make sure each of your unique content sections is labeled with an informative and compelling subheading describing the main focus of the content section. The primary purpose of these commands is to develop a new keyword-rich, informative, and captivating new product summary/description of less than 1,000 words. The purpose of the product description is to market the products to users who want to buy. Use emotional words and creative reasons to show why a user should buy the product I tell you. After generating the new product summary, generate a bulleted list of 5 possible H1 titles for this product page and make each H1 less than 7 words each. Also include a bulleted list of broad match keywords that were used to write the product summary. Write a persuasive, professional-sounding meta title and description that incorporates similar language present in the new product summary text. Be sure to include a number aspect in the Meta Title. At the end, write 10 tags (no #) 10 hashtags and 7 persuasive product highlights. Do not echo my prompt. Don't remind me what I asked you for. Do not apologize. Do not self-reference. Write all output in [TARGETLANGUAGE] Please use the following products: [PROMPT]

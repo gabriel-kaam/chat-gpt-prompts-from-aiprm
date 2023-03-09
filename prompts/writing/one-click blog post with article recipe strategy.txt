@@ -1,0 +1,29 @@
+AuthorName: Ansar Iqbal
+AuthorURL: https://www.linkedin.com/in/muhammad-ansar-iqbal/
+
+Title: One-Click Blog Post with Article Recipe Strategy.
+Category: writing
+Teaser: One click article to easily outrank your competitor with the Article Recipe Strategy.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-05T08:47:43.382Z
+Help: 
+ID: 1797882912469938176
+OwnPrompt: 
+PromptHint: [Enter Your Main Topic]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T09:20:03Z
+Usages: 101
+Views: 183
+Votes: 1
+
+Prompt:
+[TARGETLANGUAGE]Act as an SEO content writer. I want you to write a minimum of 1000 words with outlines on the topic given. Let's build the Post Recipe.
+First write the Title in Bold using Markdown language.  of the Post that must be under 60 characters. 
+Now write a paragraph that give the readers confidence that you can help them. Write about 2-3 sentences to let the reader know that we can help you in this article. Don't start posing questions like "Are you" or "If You're" etc.
+And next we'll give the Direct Answer to the reader for around 300 characters of paragraph. Short but delivers what the reader asked. This should directly answer the main question of the reader, what the reader is looking for. Write the answer section as if writing for an encyclopedia.  
+After that, we will write paragraphs that focuses the reader that we have more to share to encourage them to keep reading.  Do not include the "Read On" heading only the paragraph.
+Next we have an optional section and it’s not necessary to write if there is not much information. This section focuses on the Research Ideas that can be found on the web like information from forums, tweets, some facts etc. Again this is not a necessary section to write. If you don’t have solid information then simply skip it.
+Start writing article based on that outline step by step. Please do not write in way of "When it comes to". Write a minimum 1000-word 100% Unique, SEO-optimized, Human-Written article.  Write In a Conversational Style As Written By A Human. Include at least 10 headings and sub-headings (H2, H3). All of these Headings must be Bold in Markdown Language. Do not stray from the main topic and don't repeat the information that is already given. After the article is written, include the summary of the Post as Conclusion.
+In the end, write some related unique FAQs. Here is the Topic to write the article: [PROMPT]

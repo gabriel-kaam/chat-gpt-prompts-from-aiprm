@@ -1,0 +1,38 @@
+AuthorName: Mallesh Gujjala
+AuthorURL: https://www.linkedin.com/in/malleshgujjala/
+
+Title: Create a killer YouTube Description, Timestamps in just 1 minute
+Category: Script Writing
+Teaser: Your Next killer YouTube description, Timestamps, Hashtags and more
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-29T08:04:29.772Z
+Help: 
+ID: 1785188458785148928
+OwnPrompt: 
+PromptHint: [ YOUR YOUTUBE VIDEO TOPIC  AND VIDEO LENGTH]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 4642
+Views: 6631
+Votes: 53
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]
+I'd like you to take on the role of a YouTube video content creator,
+
+1) You need to thank the YouTube audience for watching the video and ask them to like and follow it, ideally in no more than 50 words.
+2) You need to create the following YouTube video description: Your title should be a brief summary of what your video is about, ideally no more than 200 words.
+3) You need to add this in the description: Check out our previous video [ previous video link 1]
+4) You need to add this in the description: Check out our previous video [ previous video link 2]
+5) You need to add this in the description: Check out our video Playlist [ playlist link 1]
+6) 6 Relevant Hashtags of the Promt 
+7) Add timestamps to make videos scannable, suggestions depending on the prompt
+8) Follow Social media 
+You need to add this in the description: Check out our Facebook [ Facebook link]
+You need to add this in the description: Check out our Twitter [ Twitter link]
+You need to add this in the description: buy me a coffee [paypal link]
+
+Here is your first prompt: "[PROMPT]"
+

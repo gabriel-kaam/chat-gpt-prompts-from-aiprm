@@ -1,0 +1,23 @@
+AuthorName: Erik E
+AuthorURL: https://www.testino.pl
+
+Title: Blog post with gift ideas
+Category: writing
+Teaser: Create an article with 11 gift ideas for a specific target audience
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-03T15:29:18.101Z
+Help: 
+ID: 1787112337078214656
+OwnPrompt: 
+PromptHint: Please make a list of the top 11 gift ideas for [PROMPT]. 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 103
+Views: 210
+Votes: 1
+
+Prompt:
+Please make a list of the top 11 gift ideas for [PROMPT]. Include an introduction to the blog post in the beginning, a table of content and a conclusion. Then please include minimum two interesting paragraphs for each of the 11 listed gift types stating why it’s a good gift, who it’s a good fit for, what to think of when buying such a gift and why it’s a great type of gift to give. For each of the 11 gift types, please list as bullet points specific brands and product models to buy for each gift type. It is important that you include a few suggestions on specific brands and product models for each of the gift types. These examples should be next to the introductory paragraphs about the gift type. Please make sure the text is unique and rephrased. Optimize for SEO and use a lot of nuance and interesting words. Use a personal tone of voice and a lot of nuanced and rich language. Include realistic examples of when the author has given these gifts in the past to make it sound more human. Please write in [TARGETLANGUAGE]. The article should be minimum 2500 words long. 
+At the end of the article, write 2 suggested SEO optimized title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. 

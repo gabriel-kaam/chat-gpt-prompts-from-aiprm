@@ -1,0 +1,27 @@
+AuthorName: Hanzila
+AuthorURL: https://www.lanetwelve.com/
+
+Title: Catchy Blog Post Titles
+Category: writing
+Teaser: Create a list of catchy titles for the text provided
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T11:14:58.469Z
+Help: 
+ID: 1793208927257890816
+OwnPrompt: 
+PromptHint: [Text]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T11:16:10Z
+Usages: 184
+Views: 255
+Votes: 5
+
+Prompt:
+Create a list of catchy blog titles for the text provided
+Make sure to use engaging language
+Make sure to create a numbered list of at least 10 titles
+Make sure to use numbers in some titles
+[TARGETLANGUAGE]
+[PROMPT]

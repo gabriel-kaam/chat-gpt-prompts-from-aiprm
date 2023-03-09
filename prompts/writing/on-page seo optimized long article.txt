@@ -1,0 +1,33 @@
+AuthorName: MIU Creative Agency
+AuthorURL: https://miu.sg/news/
+
+Title: On-Page SEO Optimized Long Article
+Category: writing
+Teaser: SEO Friendly Article
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-22T03:09:15.966Z
+Help: 
+ID: 1793811470472179712
+OwnPrompt: 
+PromptHint: [TITLE], [list of keywords]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T07:31:24Z
+Usages: 157
+Views: 256
+Votes: 1
+
+Prompt:
+I ask you to act as a skilled content writer, proficient in [TARGETLANGUAGE], and fluent in writing. Please make me an article with this title: [TITLE]. The article must be written with SEO optimization with these [list of keywords] keyword intent 1% and several requests I ask:
+1. at least 1500 words.
+2. H1 heading on [TITLE]
+3. Make 5 H2 Heading
+4. Make H3 heading if needed belo H2 Heading
+5. The last paragraph should be a conclusion
+5. Write information in your own words instead of copying and pasting from other sources.
+6. Also, check for plagiarism as I need pure unique content,
+8. Write content in a conversational style as if it were written by a human.
+9. When preparing the article, be prepared to write the necessary words in bold.
+
+[PROMPT]

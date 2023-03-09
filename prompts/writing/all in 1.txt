@@ -1,0 +1,33 @@
+AuthorName: Rajoria's
+AuthorURL: https://petspaa.in/
+
+Title: All in 1
+Category: writing
+Teaser: Merge Multiple Articles Into a Single Post
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-03T01:46:37.545Z
+Help: 
+ID: 1797052164137549824
+OwnPrompt: 
+PromptHint: Paste Your Multiple Articles Here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T01:46:37.545Z
+Usages: 20
+Views: 51
+Votes: 0
+
+Prompt:
+
+Here are the guidelines you need to follow to complete this task:
+1. I will provide you with multiple articles, each identified as Article 1, Article 2, Article 3, and Article 4.
+2. Your first task is to analyze each article carefully.
+3. Once you have analyzed an article, take a break and relax before moving on to the next one.
+4. Make sure to skip any duplicated content across the articles.
+5. Once you have successfully completed analyzing all articles, reply to this prompt stating "Done analyzing all articles."
+6. Next, generate an outline of the blog post based on the guidelines provided.
+7. Finally, write a full blog post based on the guidelines and the multiple articles provided.
+8. Article should be in [TARGETLANGUAGE] 
+Note: Your blog post should be based on the given multiple articles and the guidelines I have provided above.
+Multiple articles start from here... [PROMPT]

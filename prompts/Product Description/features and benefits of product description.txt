@@ -1,0 +1,28 @@
+AuthorName: Benny
+AuthorURL: https://tiger-universe.com/
+
+Title: features and benefits of product description
+Category: Product Description
+Teaser: identify the features and benefits of product description and list them as very short bullets points.
+in front of each bullet, add the emoji check green
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-02T14:32:05.595Z
+Help: 
+ID: 1796882412475777024
+OwnPrompt: 
+PromptHint: product description
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T10:55:55Z
+Usages: 211
+Views: 296
+Votes: 1
+
+Prompt:
+identify the features and benefits in this description.
+Make a list called Features and Benefits.
+Add the emoji check green in front of line of the list
+output in [TARGETLANGUAGE]
+[PROMPT]
+

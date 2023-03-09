@@ -1,0 +1,22 @@
+AuthorName: TORDUP
+AuthorURL: https://streamlabs.com/tordup/tip
+
+Title: Write eBook based on outline
+Category: writing
+Teaser: write me
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-21T17:47:25.1Z
+Help: 
+ID: 1793670076852076544
+OwnPrompt: 
+PromptHint: [title of topic from outline]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-21T17:47:44Z
+Usages: 1234
+Views: 1730
+Votes: 8
+
+Prompt:
+write me a page of my section which contains the topic [PROMPT]. Write all output in [TARGETLANGUAGE].

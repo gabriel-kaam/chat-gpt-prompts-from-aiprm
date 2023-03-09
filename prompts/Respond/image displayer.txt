@@ -1,0 +1,25 @@
+AuthorName: Anshler
+AuthorURL: https://www.facebook.com/anshler
+
+Title: Image Displayer
+Category: Respond
+Teaser: Display image on chat from url. (some images may not display properly)
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-25T01:43:53.671Z
+Help: 
+ID: 1794877149606572032
+OwnPrompt: 
+PromptHint: insert image url here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T03:31:32Z
+Usages: 102
+Views: 222
+Votes: -1
+
+Prompt:
+INPUT = url 
+[TARGETLANGUAGE] OUTPUT = ![MG](url)
+INPUT = [PROMPT] 
+[TARGETLANGUAGE] OUTPUT =

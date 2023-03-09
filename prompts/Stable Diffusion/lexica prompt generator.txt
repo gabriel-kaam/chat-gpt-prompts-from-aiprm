@@ -1,0 +1,22 @@
+AuthorName: Healscure
+AuthorURL: https://www.healscure.com/
+
+Title: Lexica Prompt Generator
+Category: Stable Diffusion
+Teaser: Outputs four extremely detailed lexica aperture prompts for your title.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-24T23:23:33.265Z
+Help: 
+ID: 1794841831864004608
+OwnPrompt: 
+PromptHint: [Title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T23:47:40Z
+Usages: 405
+Views: 730
+Votes: 4
+
+Prompt:
+I am using Lexica to generate AI images for [PROMPT] in [TARGETLANGUAGE].

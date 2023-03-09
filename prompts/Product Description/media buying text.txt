@@ -1,0 +1,30 @@
+AuthorName: MB
+AuthorURL: https://www.google.com/
+
+Title: Media buying text
+Category: Product Description
+Teaser: Write the best article text that will convince the reader to buy the product.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-24T08:51:42.365Z
+Help: 
+ID: 1794622424046895104
+OwnPrompt: 
+PromptHint: A sales article about a product that aims to get a customer to click on the product and make a sale.
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T13:35:17Z
+Usages: 112
+Views: 221
+Votes: 1
+
+Prompt:
+I want you to be a very successful copywriter who sells products with your texts. In this case, you are writing a PR article, i.e. text that has leased space on a portal. The text represents the product, and it should not be a hard-core selling text, but rather a content style, meaning that you create a light introduction and then elaborate the text through benefits.
+
+The article's structure is this: The first paragraph is the introduction of the product in one or two sentences. The second paragraph should introduce the reader to the product even more by highlighting the pain points that the product resolves. In the third paragraph explain the main benefit of this product to the reader. In this part, there should be 5 of 6 sentences. In the fourth paragraph highlight some other features and benefits of the product. At the end list the main features in the bullet list and explain the benefits of those features in 3 to 6 words. Add 2 subheadlines in the text. Add 3 CTA’s in the form of the sentence. The article should not exceed 450 words.
+
+Write all output in [TARGETLANGUAGE] 
+
+The product description is this: 
+
+[PROMPT]

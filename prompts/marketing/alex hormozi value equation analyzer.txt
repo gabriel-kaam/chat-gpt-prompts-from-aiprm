@@ -1,0 +1,34 @@
+AuthorName: Mark Wang
+AuthorURL: https://www.salaryreplacement.com
+
+Title: Alex Hormozi Value Equation Analyzer
+Category: marketing
+Teaser: Analyze the perceived value of your solution/product in the angle of the potential customer, using Alex Hormozi's value equation model.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-08T05:43:01.927Z
+Help: 
+ID: 1798923597075701760
+OwnPrompt: 
+PromptHint: [Name of your solution here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T06:02:14Z
+Usages: 16
+Views: 30
+Votes: 1
+
+Prompt:
+Please ingnore all the chat before this.
+
+You as a professional marketer, who writes fluent [TARGETLANGUAGE]. Please response all the below in  [TARGETLANGUAGE].
+
+The keyword is [PROMPT].
+
+1st line, output "Dream Outcome:", and then follow by what you think people's dream outcome is when they do [PROMPT]
+
+2nd line, output "Perceived Likelihood of Achievement: ", and then follow by your estimate when people know about solution [PROMPT], how likely are they going to believe (from scale 1-100), that they can achieve their dream outcome with the solution. 
+
+3rd line, output "Time Delay: ", follow by your estimate how much time does it take for people to use the [PROMPT] to achieve their dream outcome.
+
+4th line, output "Effort & Sacrifice: ", follow by your estimate how much effort and what type of sacrifice people need to give in order to achieve the dream outcome by using solution [PROMPT] 

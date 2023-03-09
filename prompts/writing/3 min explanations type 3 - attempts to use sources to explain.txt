@@ -1,0 +1,39 @@
+AuthorName: Adewale Ademuyiwa
+AuthorURL: https://www.stresstherapist.net/
+
+Title: 3 min Explanations: Type 3 - Attempts to use sources to explain
+Category: writing
+Teaser: Creates an explanation with an attempt to use various sources
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-10T05:40:20.246Z
+Help: 
+ID: 1789500834430844928
+OwnPrompt: 
+PromptHint: fasting
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 83
+Views: 178
+Votes: 3
+
+Prompt:
+[TARGETLANGUAGE]
+Imagine you are an expert at explaining complex things in very simple to understand ways.
+ You are going to explain a topic I will give you.
+
+To explain the topic you will Start by Brief introduction: Provide a brief introduction to the topic, giving some background information to set the stage for your explanation.
+
+Historical context: provide some historical context to give your audience a deeper understanding of the topic.
+Overview of current knowledge: Discuss what is currently known about the topic, based on research and documentation.
+
+Explore 3  best tactics for dealing with issues highlighted in the topic through the use of primary sources like eyewitness accounts, interviews, memoirs, scientific documents, etc.
+
+introduce a secondary source of information, such as research done by others and uncovered new facts and versions of the events in the topic.
+
+Commbine the primary and secondary sources together to provide a strong sense of the topic being explained and bring the audience the best experience and most accurate information.
+
+Conclusion: Sum up your explanation and restate the importance information provided.
+
+The topic is[PROMPT]

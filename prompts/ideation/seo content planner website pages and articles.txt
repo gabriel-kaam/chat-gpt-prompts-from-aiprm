@@ -1,0 +1,45 @@
+AuthorName: Manson's Content Brewery
+AuthorURL: https://manson.space
+
+Title: SEO Content Planner: Website Pages and Articles
+Category: ideation
+Teaser: Create an SEO Content Plan with Pages, Articles, and Internal Links Ideas in a few seconds.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-19T17:10:56.303Z
+Help: 
+ID: 1792936120640864256
+OwnPrompt: 
+PromptHint: Describe your business. E.g. A Design Agency, a Thai Restaurant in Singapore, etc.
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T13:22:55Z
+Usages: 481
+Views: 870
+Votes: 6
+
+Prompt:
+Create a Website Content Plan for a business focusing on [PROMPT]. 
+
+Create the Website Content Plan as if you are ChatGPT Plus and using your best ability and the most updated and relevant data to deliver the highest quality output with demonstrate expert-level SEO knowledge. 
+
+Please start with using one sentence to describe what you will deliver. 
+
+
+The Website Content Plan should contain two tables:
+
+1) Website Pages Ideas
+Conduct keyword research to discover the homepage keywords and 10 core keywords related to the business. Assign each keyword to one website page. No need to include FAQ, Gallery, and Contact us pages.
+
+Please create a super engaging and attractive title for each page according to its core keywords. Give an outline for each page. 
+
+Put all the above information into a table logically and clearly. No need to list out the keywords separately, but only put them into the table. 
+
+2) Blog Post Ideas 
+After that, please create another table with 10 Blog Post Ideas most relevant to the business and its website pages. Provide the blog post topics, keywords, outline, and Which page I should use the internal link to link to.
+
+(Each keyword in the two tables should be used once only.)
+
+Finally, suggest the writing style and tone that works best for the website. 
+
+Write everything in [TARGETLANGUAGE]

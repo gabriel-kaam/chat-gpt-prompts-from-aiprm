@@ -1,0 +1,38 @@
+AuthorName: Stephen Hodgkiss
+AuthorURL: https://stephenhodgkiss.com
+
+Title: Keyword research expert
+Category: ideation
+Teaser: Read an article you specify below.  Output all the information in table format. Find the Main keyword for this article plus 2-word or a 3-word keywords.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-18T20:33:13.728Z
+Help: 
+ID: 1792624640825483264
+OwnPrompt: 
+PromptHint: {URL}
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 111
+Views: 251
+Votes: 2
+
+Prompt:
+Pretend to be a keyword research expert. 
+
+Read the article I have copy and pasted below. 
+
+Output all the information in table format.
+
+Find the Main keyword for this article. It must be a 2-word or a 3-word keyword.
+
+Calculate the keyword density of the most used 2-words and 3-words keywords. Each keyword should be minimum 2 words. Just give me a list of top 5 keywords separated by comma. Ignore 1 word keywords.
+
+Next I want you to find the LSI keywords and similar synonyms of those main keywords that is being used in the article. Give me a plain list of 5 keywords separated by comma. Ignore 1 word keywords.
+
+Next I want you to combine the main keyword and 2-words and 3-words keywords you found only in plain text, and separate them with a comma. Ignore 1 word keywords.
+
+Language should be in [TARGETLANGUAGE] .
+
+[PROMPT]

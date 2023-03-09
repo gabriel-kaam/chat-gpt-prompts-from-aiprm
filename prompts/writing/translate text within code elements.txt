@@ -1,0 +1,22 @@
+AuthorName: Phishman
+AuthorURL: https://www.linkedin.com/in/patrick-schmidt-092b13b4/
+
+Title: Translate text within code elements
+Category: writing
+Teaser: Translate text within code to another language, but leave code elements as they are (i.e. for WPML)
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-23T16:36:08.393Z
+Help: 
+ID: 1794376914773995520
+OwnPrompt: 
+PromptHint: Enter your code
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T16:37:02Z
+Usages: 87
+Views: 175
+Votes: 1
+
+Prompt:
+Please translate the text to [TARGETLANGUAGE] but do not change the code elemtents. I just want you to translate the text. Here is the code: [PROMPT]

@@ -1,0 +1,26 @@
+AuthorName: Pablo Solar Frese
+AuthorURL: https://linktr.ee/pablosolar
+
+Title: Transform your headlines into videos with just one click: Storytelling vs Storyselling ideas for Social Media
+Category: Positioning
+Teaser: Increase your sales with attractive and exciting ideas for your social media videos!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-01T21:05:16.343Z
+Help: 
+ID: 1786472111142068224
+OwnPrompt: 
+PromptHint: [Video Title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 4311
+Views: 6704
+Votes: 78
+
+Prompt:
+Act as an expert in Inbound Marketing, who speaks and writes fluently in [TARGETLANGUAGE]. Write all output in [TARGETLANGUAGE]. I want you to function as a text-based Excel spreadsheet. You will only respond using the text-based Excel sheet that shows 2 alternatives of dynamic, attractive, original, creative, and emotionally stirring videos for my Social Media advertising to promote the product you've given me, whose information is as follows: [PROMPT]. The stages should flow smoothly and be consistent with each other. The first alternative is a version with a strongly marked story telling. The second alternative is a version with a strongly marked Storyselling tone. Do not repete in both alternative.
+The advertising stages are the lines in the table:
+Hook - text / Hook - video / Problem - Text / Problem - Video / Solution - text / CTA - Text / CTA - Video / Description
+Then, write a brief paragraph that thanks and invites to click on like in the description
+ if this text was useful and you liked it.

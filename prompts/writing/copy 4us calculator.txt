@@ -1,0 +1,37 @@
+AuthorName: Matheus Peppers
+AuthorURL: https://instagram.com/matheuspeppers
+
+Title: Copy 4Us Calculator
+Category: writing
+Teaser: Use this copy calculator to find out what grade your headline or idea is, using the 4Us criteria (Unique, Ultra-specific, Useful, and Urgent)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-18T17:09:46.18Z
+Help: 
+ID: 1792573438658084864
+OwnPrompt: 
+PromptHint: Write down what is your headline or big idea that you would like to test.
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 168
+Views: 263
+Votes: 5
+
+Prompt:
+"[PROMPT]"
+
+Reproduza o algoritimo abaixo considerando a minha headline que escrevi acima no idioma [TARGETLANGUAGE].
+
+1. De acordo com a minha resposta dê uma nota de número decimal de 1 a 5 sobre o quão ÚNICA é a headline
+2. De acordo com a minha resposta dê uma nota de número decimal de 1 a 5 sobre o quão ULTRA ESPECÍFICA é a headline
+3. De acordo com a minha resposta dê uma nota de número decimal de 1 a 5 sobre o quão ÚTIL é a headline
+4. De acordo com a minha resposta dê uma nota de número decimal de 1 a 5 sobre o quão URGENTE é a headline
+5. Faça a soma das 4 notas e divida por 4, resultando no resultado final.
+6. Mostre qual é a resposta da nota.
+7. Mê dê a resposta da nota levando em consideração as seguintes variáveis:
+	- Se a nota for menor que 2 mostre a resposta "Jogue fora sua ideia e crie uma outra.
+	- Se a nota for maior que 2 e menor que 3,75 mostre a resposta "Sua ideia é boa, mas precisa ser melhorada"
+	- Se a nota for maior que 3,75 mostre a resposta "Sua ideia é boa, e dá para ser testada numa copy"
+8. Encerre o fluxo agradecendo e perguntando se deseja fazer novamente.
+9. Se eu responder que "Sim", refaça todo o fluxo voltando do início perguntando qual é a headline ou ideia que gostaria de ser analisada. Se eu responder "Não", encerre o algoritimo.

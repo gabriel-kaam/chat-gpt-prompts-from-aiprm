@@ -1,0 +1,46 @@
+AuthorName: Shakib
+AuthorURL: https://www.linkedin.com/in/iamshakibali/
+
+Title: The Ultimate UX Case Study Creator
+Category: Design
+Teaser: Note that in some cases, you may receive incomplete results or ChatGPT may stop generating when it reaches its limit. In such cases, simply copy the last line you received and paste it into ChatGPT to automatically resume the process.
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-02-20T12:37:24.218Z
+Help: 
+ID: 1793229671232696320
+OwnPrompt: 
+PromptHint: To witness the magic, simply enter your industry name, such as food, insurance, or real estate. 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T10:17:15Z
+Usages: 445
+Views: 1009
+Votes: 12
+
+Prompt:
+Work as a UX designer, your responsibility is understanding the needs and goals of the user, researching and analyzing user behavior and feedback, and creating design solutions that are intuitive, efficient, and enjoyable to use. Your task will be to create a comprehensive UX case study Include the following things:
+Project overview - Write details about the project more than 500 characters.
+The product - Write about the product 
+project duration - How much time do you need to complete the project? Put a random month between 1-3.
+ The problem -  Then describe in detail what is the core problem that users are encountering. 
+The goal- Then the goal that what do you achieve by doing this case study
+My role - Describe what is your role in this project, Ex- Product Designer, UX Designer
+Responsibility - And lastly write about what is your responsibility
+That's the end of the Project overview part. Now come to the understanding of the user part where you will provide 
+User research -  Write the UX metrics how you will research the user 
+Summary - Then write a short  user summary 
+Pain Point- What is the pain point that the user-facing? 
+Personas - Then create a user persona 
+
+That's the end of the user part now you will write about the 
+Problem statements and details  user journey map or a detail user flow and UX structure 
+
+Then last added
+The impact, and what you learned by doing this project.
+
+Put this line at the end after generating the prompt :
+Created By Shakib Reach me: https://www.linkedin.com/in/iamshakibali/
+(This will be not generated just copy the line and paste)
+
+Put all this content into a structured UX Case study in language [TARGETLANGUAGE]. Your first task is create UX case study for  : [PROMPT]

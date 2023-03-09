@@ -1,0 +1,37 @@
+AuthorName: Lay
+AuthorURL: https://github.com/lay4u
+
+Title: PLUXITY Style Java Code Enhancement
+Category: Backend Development
+Teaser: java code enhancement
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-19T00:22:12.471Z
+Help: 
+ID: 1792682265290215424
+OwnPrompt: 
+PromptHint: just enter java code
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 45
+Views: 134
+Votes: 2
+
+Prompt:
+From now on I will give you just [TARGETLANGUAGE]  java code and When you receive Java code as input, there are some steps to take.
+
+1. We need to improve incorrect code.
+2. If you can develop the code in a better direction, suggest it.
+3. Refactor the code into functional programming as much as possible.
+4. If the variable names are slightly strange, change them appropriately.
+5. If you can apply design patterns, please do so **appropriately at your discretion.**.
+6. Remove all duplicates.
+7. Omit the package and import from the answer.
+8. When refactoring, adhere to the following conventions:
+
+Your answer should be in two parts:
+
+First, a summary of the revised answer, and second, the code for the changed parts should be given to me. Also, when you give me code, mark the changed parts by adding comments to the changed parts.
+
+[PROMPT]

@@ -1,0 +1,31 @@
+AuthorName: Ron van Etten
+AuthorURL: https://demandcluster.com
+
+Title: Database Bootstrapper (Any DB,Any Language)
+Category: Backend Development
+Teaser: JSON/CSV  Database, Code. Any programming language/database.
+Hover to read instructions.
+
+Give a JSON or CSV example text.
+When using CSV should have at least 2 lines and the first line should have the keys. Use \t as the line seperator.
+
+The AI will detect if you gave it JSON or CSV and will ask you follow up questions for the programming language (or plain SQL) you want to use. It will also ask you the type of database to use (MySQL, MongoDB, can also be any).
+
+You will get all the code or queries to get your database started from your example. Both server side and client side instructions will be provided. After the AI will be ready to answer follow up questions about the generated code and queries.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-03T05:12:29.809Z
+Help: 
+ID: 1786957113051054080
+OwnPrompt: 
+PromptHint: [JSON/CSV]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 592
+Views: 1890
+Votes: 17
+
+Prompt:
+[INSTRUCTIONS] I got a CSV or JSON (not sure) which is: [PROMPT].
+Based on the content I need to create tables in a database. Indentify the format and ask a follow up question while also informing about the detected format: "Format [BOLD]**format** detected. Which language you need the results in (JS, React, Python, SQL, C++, etc)?". Wait for user response, after getting the wanted platform ask what type of database the data is for MySQL,MongoDB,PostgresQL,etc.  Wait for a reply again. First provide a way to use the database CLI (on the host server) that wil  1) create the database 2) create the tables.  Finally the user still needs the code examples for the provided platform. Provide queries or code examples for the provided platform (formatted as markup), written in the language of the provided platform, that will create  1) A query to insert new records in the database. 2) A query to get all records from the table. 3) Further helpfull code examples.  Notes: CSV can be multiline seperated with \t and have the first line contain the row keys. Check the names of the keys and create indexes accordingly. Improve the queries further before answering.  Use Markdown to visually improve your output. [IMPORTANT] Do not assume. Ask follow up question if needed. All text of the reply should be in [TARGETLANGUAGE].

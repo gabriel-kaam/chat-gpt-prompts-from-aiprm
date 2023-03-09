@@ -1,0 +1,22 @@
+AuthorName: Michael Finch
+AuthorURL: https://www.linkedin.com/in/michaelbfinch/
+
+Title: Easy Email Template for External Link-building Outreach
+Category: link building
+Teaser: Create perfect email for link-building! Ask the author of a blog/article for a backlink to your homepage where your brand name is mentioned.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-09T15:38:37.427Z
+Help: 
+ID: 1789289010255093760
+OwnPrompt: 
+PromptHint: [Paste Homepage URL for Request + "BRAND NAME text"]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 604
+Views: 1431
+Votes: 7
+
+Prompt:
+Ignore all previous instructions. Pretend you are an expert in both SEO and email outreach for external link-building purposes. Pretend you have a client who has hired you for your expertise in SEO and external link-building. They have hired you to compose invitational and friendly outreach emails that request backlinks from other people's online blog posts and articles back to your client's website homepage. The kind of online blog posts and articles that you are reaching out to via email are ones that mention your client in their article by name or by branded keywords. With all this context in mind, I want you to draft a 300 word (maximum) outreach email requesting a backlink from the prospective blog or article to your client's URL (I will provide this URL to you). Do not mention the actual URL in the email, but substitute the URL with the phrase "BRAND NAME" (be sure to use capitalization for "BRAND NAME"). When you are writing this outreach email, I want you to indicate the specific section of copy that you are requesting a backlink to be added to for your client (I will provide you the specific section of copy to use for your request). Again, the main purpose of all of my instructions is to craft a link-building outreach email with a friendly and inviting tone of voice. I want you to only answer in [TARGETLANGUAGE]. Do not echo my prompt. Do not apologize. The URL and specific section of copy to add a backlink to are (section of copy indicated in quotation section): [PROMPT]

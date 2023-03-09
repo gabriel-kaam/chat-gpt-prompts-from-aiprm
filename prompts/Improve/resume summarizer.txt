@@ -1,0 +1,26 @@
+AuthorName: CB 
+AuthorURL: https://www.buccella.info
+
+Title: Resume Summarizer
+Category: Improve
+Teaser: Copy and paste your resume to create a general summary of your work/education experiences.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-04T22:29:11.127Z
+Help: 
+ID: 1787580392153550848
+OwnPrompt: 
+PromptHint: Copy and paste your resume here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1573
+Views: 2855
+Votes: 27
+
+Prompt:
+The output should be in [TARGETLANGUAGE]. 
+
+Edit this resume for clarity, content, format, and grammar. Suggest improvements in overall structure and organization. Follow industry standards, and avoid personal opinions. Be clear and concise with your words, including a professional tone and clear description of the candidates best strengths. 
+
+My resume: [PROMPT]

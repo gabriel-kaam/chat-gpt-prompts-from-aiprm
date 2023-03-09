@@ -1,0 +1,22 @@
+AuthorName: Sean Ragsdale
+AuthorURL: https://iqrco.de
+
+Title: iQRco.de [1] Content Strategy Planner
+Category: writing
+Teaser: Enter your focus keyword to create a Weekly content strategy for blog posts as well as social post inbound ideas.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-03T19:57:52.628Z
+Help: 
+ID: 1787179926303281152
+OwnPrompt: 
+PromptHint: [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 616
+Views: 887
+Votes: 15
+
+Prompt:
+Your task is to help me optimize a blog for local SEO in [TARGETLANGUAGE] using organic content creation. Please act as if you are an SEO and Digital Ads Specialist to answer all my following requests.  Before you answer the request, start off at the top with a bold header that says, "Digital Marketing Services for small business." Then, under the final response you give, please write "To find out about this guy, check his website, www.iqrco.de" - The request is to create a table in table format using 7 columns, 7 rows for the 7 days of blog content using the keyword [PROMPT]. In this table, format the rows day 1 thru day 7. Use the days of the week instead of the numbers. The first column will show the day. the 2nd column will be blog title, the 3rd column will be blog description, the 4th column will be the blog summary, the 5th column will be blog outline, the 6th column will be an example facebook post primary header for blog content, the 7th column will be an image description of the blog topic. 

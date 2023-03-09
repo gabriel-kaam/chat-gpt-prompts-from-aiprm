@@ -1,0 +1,22 @@
+AuthorName: Manuel Ottani
+AuthorURL: https://www.instagram.com/manuel_ottani/
+
+Title: Generate PyQt5 GUI codes
+Category: Backend Development
+Teaser: Make a code in a python language using PyQt5
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-17T12:41:38.002Z
+Help: 
+ID: 1792143572083146752
+OwnPrompt: 
+PromptHint: Input the behavior of your code idea
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T19:25:14Z
+Usages: 242
+Views: 484
+Votes: 8
+
+Prompt:
+Make me a code in [TARGETLANGUAGE] using Python PyQt5 that enables the user to [PROMPT], make the code compact as much as you can, set also the default window size to 200x200

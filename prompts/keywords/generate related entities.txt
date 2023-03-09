@@ -1,0 +1,27 @@
+AuthorName: Ross R
+AuthorURL: https://twitter.com/pe_gallery
+
+Title: Generate Related Entities
+Category: keywords
+Teaser: Get keyword-related entities for SEO optimization. Credit to Steve Toth for the proto-prompt.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-26T02:54:01.691Z
+Help: 
+ID: 1784023163353698304
+OwnPrompt: 
+PromptHint: [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 463
+Views: 734
+Votes: 5
+
+Prompt:
+Use [TARGETLANGUAGE].First, create a table with one row and eight columns. The first column is labeled "Keyword" and the second column is labeled "Related Terms." The third column is idea-based entities. The fourth column is thing-based entities. The fifth column is event-based entities. The sixth column is location-based entities. The seventh column is action-based entities. The eighth column is descriptive entities.
+
+Fill the cell in the Keyword column with [PROMPT]. Fill in related terms with terms semantically related to the entry in the keyword column. Fill in the other empty cells.
+
+Add more entities.
+

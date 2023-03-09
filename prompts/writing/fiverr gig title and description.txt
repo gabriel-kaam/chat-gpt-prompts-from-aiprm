@@ -1,0 +1,43 @@
+AuthorName: Asif Ahmed
+AuthorURL: https://www.linkedin.com/in/asifahmednoor27/
+
+Title: Fiverr Gig Title & Description
+Category: writing
+Teaser: SEO Optimized fiverr gig title & description that ranks
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-06T17:53:50.772Z
+Help: 
+ID: 1788235876493684736
+OwnPrompt: 
+PromptHint: [your list of keywords, use comma to separate each keywords]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 635
+Views: 887
+Votes: 5
+
+Prompt:
+Your task is to create a title with the keywords I give you in less than 75 characters. All the keywords will be separated by comma. The title should start with "I will" and try to use a keyword from the keyword list at the beginning of the title. Your title should do several things:
+
+Be specific – instead of saying ‘I will write content for your site’ say ‘I will write content about cryptocurrencies and digital marketing.
+
+Use expressive language – instead of saying ‘I will design a logo for your site say ‘I will design an imposing logo that will catch eyes‘.
+
+Be keyword targeted – make sure you use the first keyword from the list in your title
+
+Also create a description in less than 1200 characters with the keywords list I will give you. You will be selling a service with the description. Never use any word more than three times in the description. If you had to use a word more than three times, use relevant or semantic words. Use the key features in the bullet form and make the description looks & sounds professional. At the bottom of the description convince user to contact with you. When writing your Fiverr gig description follow these rules:
+
+1. Include your target service keyword in your description.
+2. Use a hook in the beginning of the description.
+3. Be as detailed as possible so buyers are able to determine if your service meets their needs.
+4. Explain why your service is better than similar competing services available on Fiverr.
+5. Demonstrate your experience, tell them what you’ve done in the past and show previous work (if possible).
+6. Personalise your service by speaking directly to the buyer with words like “you” and “your business.”
+7. Don't bullet every sentence just bullet the key features. 
+8. Use "I" tone. The service will provide only one person, not an agency or team.
+
+All output shall be in [TARGETLANGUAGE]. 
+The keyword to write about is this:
+[PROMPT]

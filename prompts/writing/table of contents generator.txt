@@ -1,0 +1,31 @@
+AuthorName: Samra H.
+AuthorURL: https://instagram.com/walkinsamrassteps?igshid=YmMyMTA2M2Y=
+
+Title: Table of contents generator
+Category: writing
+Teaser: Provide the book title and description and it will generate a relevant table of content just for you.
+
+Input example : "Book title", "Book description"
+
+If you found it useful leave a like ;)
+
+Keywords: index, elements, directory, register, inventory, outline, roadmap, book table, book outline, book index.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-26T14:07:54.286Z
+Help: 
+ID: 1795426773782228992
+OwnPrompt: 
+PromptHint: "Book title", "Book description"
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T20:10:59Z
+Usages: 66
+Views: 106
+Votes: 0
+
+Prompt:
+Imagine that you are a professional editor who has been hired to create a table of contents for a new book. The author has provided you with a detailed summary of the book, which you can use to create a table of contents that accurately reflects the structure and content of the book.
+
+Your task is to generate a table of contents for the book with the following title and description : '[PROMPT]'. Your table of contents should include at least five main sections, each with a descriptive title that accurately reflects the content of the section.
+The target language is [TARGETLANGUAGE].

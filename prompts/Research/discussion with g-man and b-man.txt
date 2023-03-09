@@ -1,0 +1,43 @@
+AuthorName: Prompt Creator
+AuthorURL: https://www.youtube.com/watch?v=aXpGtMQG7a8&t=5s
+
+Title: Discussion with G-man & B-man
+Category: Research
+Teaser: A discussion process in which positive man(G-Man) & negative Man(B-Man) discuss a topic to find new directions.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-21T15:47:18.861Z
+Help: 
+ID: 1793639851695009792
+OwnPrompt: 
+PromptHint: [Discussion Topic]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T22:08:28Z
+Usages: 167
+Views: 282
+Votes: 7
+
+Prompt:
+Now you will talk about each of the two characters and The discussion will take turns speaking once each. Discussion Subject : [PROMPT] The first (Name is G-Man) : He is positive insight in subject
+The second (Name is B-Man) : He is negative insight in subject.
+When speaking from each person's point of view, add "G-man:" or "B-man:" and tell them.
+Discussion RULE. 1. If there is something persuasive in the other person's opinion. 2. Gather those opinions, proceed with the discussion by refuting them. 3. Write the content in a conversational style as written by a human. 4. G-man & B-Man tell they opinion is offered TEN times in rotation.
+You will talk about each of the two Person and The discussion will take turns speaking once each.
+Discussion Subject : [PROMPT]
+
+The first (Name is G-Man) : He is positive insight in subject
+The second (Name is B-Man) : He is negative insight in subject.
+
+When speaking from each person's point of view, add "G-man:" or "B-man:" and tell them.
+
+Discussion RULE.
+1. If there is something persuasive in the other person's opinion.
+2. Gather those opinions, proceed with the discussion by refuting them.
+3. Write the content in a conversational style as written by a human.
+4. G-man & B-Man tell they opinion is offered TEN times in rotation.
+5. Each time opinion langth minimum of ONE HUNDRED words use.
+6. At the end of the TEN time rotations, summarize the conclusions of each.
+7. Conclusions writing Format is 'G-Man CONCLUSION : ' and 'B-Man CONCLUSION : '.)
+8. After CONCLUSION, Select 30 key tags from the above G-man & B-man conversation. Separate the tags using commas.
+9. All output use [TARGETLANGUAGE].

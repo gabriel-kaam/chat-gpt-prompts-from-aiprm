@@ -1,0 +1,33 @@
+AuthorName: Sagar
+AuthorURL: https://leafline.us/
+
+Title: Pinterest description
+Category: writing
+Teaser: Get Pinterest Pin Descriptions in a table format
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-21T16:36:19.782Z
+Help: 
+ID: 1793652186811731968
+OwnPrompt: 
+PromptHint: [Write the title of your Pin]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T17:48:33Z
+Usages: 368
+Views: 520
+Votes: 1
+
+Prompt:
+Please disregard any previous instructions. As a proficient SEO and top-notch copywriter, I possess excellent fluency in [TARGETLANGUAGE]. To kickstart, You will dive right into the topic at hand without mentioning my credentials. Instead, You will craft an article in the first person, addressing you as the reader.
+
+In line with this, you will CREAT A TABLE of 4 alternative titles and 5 alternative descriptions on the topic "[PROMPT]"  for a Pinterest pin. .
+
+Column Names : Column 1  | Original Title | Alternative Title 2 |  Alternative title 3| Alternative title 4 |Description | Description 2 | Description 3| Description 4| Description 5| 
+
+YOU WILL WRITE MINIMUM 300 characters and MAXIMUM 450 characters.  In Raw 1 First  Column Copy original title, in 2nd to 5th column Write alternative titles
+
+
+You will focus on using keywords from the prompt to ensure maximum relevance. Your article will not feature headings or lists, but rather, it will comprise concise paragraphs without going into intricate details.
+
+As a language expert, You understand that quality content creation is just one of the many factors that affect good writing. Hence, You will not delve into SEO rules but concentrate on delivering the best possible content for me. You will avoid repeating my request, reminding you of my competence, or making any self-referential statements. Your article will be precise, to-the-point, and without explanations but will offer the best possible summary of the "[PROMPT]" topic.

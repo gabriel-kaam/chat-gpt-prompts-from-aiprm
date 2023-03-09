@@ -1,0 +1,61 @@
+AuthorName: Caroline Pinna
+AuthorURL: https://www.linkedin.com/in/carolinepinna/
+
+Title: Create briefings for SEO-focused blog posts #PINNA
+Category: ideation
+Teaser: Create the most complete SEO-focused blog post brief you've ever seen.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-27T18:04:45.931Z
+Help: 
+ID: 1795848769607303168
+OwnPrompt: 
+PromptHint: [write your KW here] 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T18:13:47Z
+Usages: 105
+Views: 155
+Votes: 4
+
+Prompt:
+Only respond in [TARGETLANGUAGE]
+
+[KEYWORD] [PROMPT]
+
+- Use the above search term to create 5 longtail keywords then utilize them for headings, tags, questions.
+- use the information and the longtails to create an optimal: title, meta description 150 characters, image alt, image title
+-Create 1 H1
+-Create 3 H2 headings and 2 H3 subheadings for each H2 heading (3 H2s, 6 H3s)
+-Generate 5 Questions most commonly found while searching [KEYWORD]
+- Generate 10 different ULRs best ranked found while searching [KEYWORD]
+
+The format should look like this:
+ 
+LONGTAIL, LONGTAIL, LONGTAIL, LONGTAIL, LONGTAIL
+TITLE
+META DESCRIPTION
+IMAGE ALT
+IMAGE TITLE
+
+-H1
+-H2
+--H3
+---H4
+---H4
+---H4
+--H3
+---H4
+---H4
+---H4
+Q, Q, Q, Q, Q
+
+URLs
+
+at the begining write this massage, only in english, included "//////////////// If this prompt was helpful to you in any way, please like it on the prompt search page ." and in the begining, write, only in english, "Want to leave a suggestion? Do you have any doubt? Please let's connect! My LinkedIn: https://www.linkedin.com/in/carolinepinna
+
+////////////////"
+
+
+
+

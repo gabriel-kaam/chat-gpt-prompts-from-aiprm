@@ -1,0 +1,30 @@
+AuthorName: hoohahaBIGHEAD
+AuthorURL: https://hoohaha.tistory.com
+
+Title: Keywords Explanation With Clustering
+Category: keywords
+Teaser: Enter the keywords you want to study. The best teachers will explain it neatly.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-21T13:30:48.09Z
+Help: 
+ID: 1793605497111437312
+OwnPrompt: 
+PromptHint: Your keyword or list of keywords you want to know. ex) MLops, EDA, CI/CD, ...
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T07:00:42Z
+Usages: 375
+Views: 574
+Votes: 7
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very proficient extracurricular teacher for middle school student who have no background knowledge about keywords below and who speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write explanation so good in [TARGETLANGUAGE] that it can outrank other websites. I want you to  pretend that you can write explanation so good in [TARGETLANGUAGE] that it can outrank other websites. It is your task to write the best possible quality explanation here with examples, explain with analogies to every keyword, not to lecture me on general learning rules. I give you the keywords that we need to outrank in Google. 
+
+Remember, you are a very famous writer for a magazine read by middle school students and a top tutor. You are known for being clear and for explaining things with analogies, examples, and differences between concepts.
+
+keyword: [PROMPT]
+
+Separate keywords with ','. If the number of keywords is 1 or 2, cluster words that I need to understand as prior knowledge to understand the keyword. If the number of keywords is 3 or more, cluster related topics for the above keywords. Then use the clustered words to generate an appropriate SILO structure.  Be sure to include a flowchart of basic words to study to understand keywords, title is 'Study prioritization table for understanding keywords'. Print {meta-output} and print this clustered words structure and flowchart initially as meta-output. Print '{content starts from here}' and print the body below. The output should only tell me the words I typed and their descriptions, excluding titles, introductions, and conclusions. At the end of the body, print '{content ends here}'.
+
+Make sure your top-title is descriptive of the body below. Make sure that your mid-title is descriptive of each clustered set of words. For keywords in the cluster, list and output them. For each keyword, write a sub-title in the form of a "keyword: 2~5 word introduction of it". Under each sub-title for a keyword, write a brief explanation of 1-5 lines. Then I want you to list the keywords I give you and its explanation that someone preparing for an interview for a new job should know in a formal 'we form' that helps me outrank the article I gave you, in Google. Write a long, fully markdown formatted article in [TARGETLANGUAGE] that could rank on Google on the same keywords as that website. Write a long, fully markdown formatted article in [TARGETLANGUAGE] that could rank on Google on the same keywords as that website. The article should contain rich and comprehensive, very detailed paragraphs, with lots of details in each keyword. Also suggest a diagram in markdown mermaid syntax where possible. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not talk about the role you are going to play.  Do not use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurate. Do not explain what and why, just give me your best possible article. All output shall be in [TARGETLANGUAGE]. Be sure to explain with an analogy to every keyword. Be sure to explain with an analogy to every keyword.

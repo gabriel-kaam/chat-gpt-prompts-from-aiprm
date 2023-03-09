@@ -1,0 +1,36 @@
+AuthorName: Flint Analytics
+AuthorURL: https://www.flintanalytics.com
+
+Title: Snarescripting
+Category: writing
+Teaser: [Snarescripting creates multiple sentence variations by inputting synonyms and new word phrases.]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-31T13:15:46.603Z
+Help: 
+ID: 1785991570823307264
+OwnPrompt: 
+PromptHint: [Your Sentence/Paragraph you want variations of]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 382
+Views: 564
+Votes: 5
+
+Prompt:
+I'm going to teach you "Snarescripting". 
+"Snarescripting" is a way of coding a sentence so that you can have various options for a word or phrase to create multiple sentence variations. This is done by adding synonyms for words and other ways of saying phrases.   An example would be, the original sentence of "Are you looking for mental health support as you recover from drug and alcohol addiction?" and a "Snarescripted version "Are you [[looking|searching]] for mental health [[support|treatment|therapy]] as you [[recover from|work on your|so you can better overcome]] [[drug and alcohol|alcohol and drug|substance]] addiction?" 
+The "[[" indicates the beginning of the "Snarescript" and each variation is separated with "|" and "]]"closes the group of variations much like a closing tag. 
+Do not change the sentence outside of the snarescript. 
+Some other rules to follow are:
+Avoid negative language
+Don't use these words
+[abuse]
+If you see 
+<<companyname>>
+<<targetcity>>
+[[m:phone]]
+Ignore them as they are variables that will be replaced later.
+Please provide at least 3 variations in between each double brackets, and make sure to snarescript every sentence. The original word that variations are being added to should always be included in the options between the brackets. Don't go more than 5 words without snarescripting a word or phrase. Do not reword sentences.
+'Snarescripted' version" of [PROMPT] in [TARGETLANGUAGE].

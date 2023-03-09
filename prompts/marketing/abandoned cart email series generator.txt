@@ -1,0 +1,26 @@
+AuthorName: Sof
+AuthorURL: https://donthaveasite.com
+
+Title: Abandoned cart email series generator
+Category: marketing
+Teaser: Create a series of abandoned cart emails for your product
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-02T00:32:19.101Z
+Help: 
+ID: 1786524215965646848
+OwnPrompt: 
+PromptHint: Write the name of your product (and shortly describe it)
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 423
+Views: 759
+Votes: 11
+
+Prompt:
+You are fluent in [TARGETLANGUAGE]. Only provide your output in [TARGETLANGUAGE]. Generate a series of three abandoned cart emails for product [PROMPT], designed to engage the recipient and ultimately convert them into a paying customer. The email sequence should start with a friendly reminder about the item left in the recipient's cart and its key benefits, followed by a more persuasive email that addresses any potential objections and highlights the unique value of [PROMPT]. The final email should be a last chance offer, such as a limited-time discount or free shipping, along with a strong call to action.
+
+In each email, be sure to use the recipient's name, reference their previous interaction with the product, and tailor the messaging to address their specific needs and interests. The tone of the emails should be empathetic and customer-focused, and should reflect the brand's voice and style.
+
+Consider incorporating customer reviews, testimonials, or social proof to further illustrate the value of [PROMPT] and build trust with the recipient. Also, consider including a sense of urgency in the final email, such as a limited time offer or limited stock availability, to incentivise the recipient to complete their purchase. The goal of the email series is to move the recipient closer to booking a discovery call with the company, and ultimately to convert them into a paying customer.

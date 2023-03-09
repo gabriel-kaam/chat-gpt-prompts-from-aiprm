@@ -1,0 +1,22 @@
+AuthorName: Raphael Carvalho
+AuthorURL: https://rapha.uy/
+
+Title: Keyword to phrase with semantic sense
+Category: keywords
+Teaser: Turn a list of keywords into a list of meaningful phrases that you can use for a title.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-06T23:03:45.892Z
+Help: 
+ID: 1798460730316685312
+OwnPrompt: 
+PromptHint: Enter a list of keywords
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T23:19:22Z
+Usages: 14
+Views: 30
+Votes: 0
+
+Prompt:
+Escribe la respuesta en [TARGETLANGUAGE] Te pasaré una lista de frases, algunas con sentido y otras sin sentido. Necesito que identifiques las que no tienen sentido y que reordenes las palabras de esa frase para que formen una frase con sentido. Puedes agregarle algún artículo entre palabras, por ejemplo "precio motores fueraborda" se transformaría en "precio de motores fueraborda". Trata de no agregar artículos al inicio de la frase. Otro ejemplo: "consumo motores fueraborda" quearía "consumo de motores fueraborda". "Motor fueraborda" quedaría igual ya que Motor fueraborda es un objeto en si mismo, entonces tiene sentido.. Devuelve una tabla donde en la primera columna está la frase original y en la segunda la frase con sentido. Aquí la lista: [PROMPT]

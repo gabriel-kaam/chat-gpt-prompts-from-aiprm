@@ -1,0 +1,30 @@
+AuthorName: Sabeel Mustafa
+AuthorURL: http://sabeelmustafa.com/
+
+Title: Upwork Proposals Based On Client Description
+Category: Respond
+Teaser: Write a Upwork Proposal Like a Pro and Win the Contract.
+This prompt can read the client description and write the cover letter based on it,
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-06T17:18:06.635Z
+Help: 
+ID: 1788226883331289088
+OwnPrompt: 
+PromptHint:  [Paste Clinet's Discription Here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T04:44:42Z
+Usages: 2879
+Views: 4259
+Votes: 52
+
+Prompt:
+Name: [YOUR NAME]
+Skills: [YOUR SKILLS]
+Experience: [YEARS]
+Portfolio Link: [PORFOLIO LINK HERE]
+Client Job Description: [PROMPT]
+
+Thank you!! And 
+Best regards!!Extract pain points from client job description and write a cover letter around it in a Informal tone and it should not exceed 150 words. Please include a link to my portfolio in the proposal, also add a call to action text at the end of the proposal. Write this in [TARGETLANGUAGE]. Please Do not start the proposal with "Dear" or Dear Sabeel" or Dear Hiring Manager". Instead Start it with "Hi", "Hello" or "Hello There".

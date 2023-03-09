@@ -1,0 +1,28 @@
+AuthorName: Mtp Group
+AuthorURL: https://fulfillmentmtp.com.ua/
+
+Title: Description of products
+Category: Accounting
+Teaser: Create a product description in a table by characteristics
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-26T22:48:45.458Z
+Help: 
+ID: 1795557850697957376
+OwnPrompt: 
+PromptHint: description of products, опис товарів
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T11:53:08Z
+Usages: 114
+Views: 203
+Votes: 2
+
+Prompt:
+"Hi, ChatGPT. Please help me create a table with two columns: the first is the product name and the second is a product description with a call to action. The description should contain the provided characteristics from the list: Product Name, Nomenclature, Brand, Color, Gender, Country of Production, Seasonality, Upper Material, Outsole Material, Insole Material, Drawing, Style.
+
+Please provide accurate and complete information, avoiding abbreviations and shortenings. Descriptions for all items should be unique and interesting to read. The size of the description should be 1000 to 2000 characters. Demonstrate your expertise, using your knowledge to offer the best solutions and recommendations. Answer questions promptly and efficiently, ensuring that all my inquiries are answered in a timely manner. Be attentive and detail oriented, ensuring that all aspects of my questions are fully understood and addressed.
+Give an answer using a two-column table.
+Answer in [TARGETLANGUAGE]
+Also, provide additional insights and best practices, providing valuable recommendations and guidance to maximize the effectiveness of this table. Thank you, and I look forward to your help!"        
+[PROMPT]                    

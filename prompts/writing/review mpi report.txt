@@ -1,0 +1,36 @@
+AuthorName: Carlos Lemes
+AuthorURL: https://www.linkedin.com/in/carlos-lemes-43a38a120/
+
+Title: Review mpi report
+Category: writing
+Teaser: MPI report creator
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-08T20:13:49.682Z
+Help: 
+ID: 1799142740043489280
+OwnPrompt: 
+PromptHint: Internal links at { A linked for B, B linked for C } - External Link ' a linked for b, c linked for d, e linked for f' - Create content (A informative , B informative , C technician) - Positioning &A position 1, B position 2, C position 3&
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T21:02:24Z
+Usages: 14
+Views: 40
+Votes: 0
+
+Prompt:
+Crie um relatorio de ações SEO com as seguintes pautas
+Faca uma Introdução.
+Estrutura do site: coloque que foram revisados as regras de W3C html e CSS, alt e title das imagens, se possui link externo ou interno, serch console, sitemap, analytics, que foi revisado também se as URLS das MPIS estavam amigáveis, se existia conteúdo duplicado. 
+
+Linkagens internas: [KEYWORD] Coloque que geramos as linkagens internas das palavras e Explique o porque a linkagen interna é importante coloque as linkagens em formato de tabela.
+
+Linkagens exeternas: [KEYWORD] Coloque em formato de tabela realizadas as linkagens externas pelo nosso time de assessoria.
+
+Criação de conteudo: [KEYWORD] Coloque em formato de tabela que a adição de novos textos mais ricos. 
+ 
+Posicionamento atual do Cliente:[KEYWORD] Coloque em formato de tabela as palavras-chave e posicão do cliente no momento da execução:
+
+[TARGETLANGUAGE]
+[PROMPT] 
+

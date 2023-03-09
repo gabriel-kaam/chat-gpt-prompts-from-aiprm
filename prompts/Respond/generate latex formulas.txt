@@ -1,0 +1,24 @@
+AuthorName: Alexry
+AuthorURL: https://www.facebook.com/futuristicprojects
+
+Title: Generate LaTeX formulas
+Category: Respond
+Teaser: You are an expert in LaTeX.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-05T18:09:41.724Z
+Help: 
+ID: 1798024337446666240
+OwnPrompt: 
+PromptHint: The formula :
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T18:27:04Z
+Usages: 33
+Views: 63
+Votes: 1
+
+Prompt:
+Give the formulas, and only the formulas in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.
+One line per formula, gives the five most used of it. From the simplest to the most complex
+The concept : [PROMPT]

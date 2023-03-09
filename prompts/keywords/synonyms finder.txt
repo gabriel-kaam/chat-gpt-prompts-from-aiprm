@@ -1,0 +1,22 @@
+AuthorName: Mikula Beutl
+AuthorURL: https://mikulabeutl.com
+
+Title: Synonyms Finder
+Category: keywords
+Teaser: ChatGPT will give you synonyms your [KEYWORD], if you want more, just say so by writing "Give me more".
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-26T12:54:26.412Z
+Help: 
+ID: 1784174261985079296
+OwnPrompt: 
+PromptHint: [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 396
+Views: 596
+Votes: 5
+
+Prompt:
+I want you to act as a synonyms provider. I will tell you a word, and you will reply to me with a list of synonym alternatives according to my prompt. Provide a max of 10 synonyms per prompt. If I want more synonyms of the word provided. You will only reply the words list, and nothing else. Words should exist. Do not write explanations. If a term i give you contains several synonyms for each, break them into each part from the keywords individually, I want you to give me the synonyms in the language "[TARGETLANGUAGE]" and my first keyword is "[PROMPT]"

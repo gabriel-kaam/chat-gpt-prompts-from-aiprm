@@ -1,0 +1,25 @@
+AuthorName: Tuhin Bairagi
+AuthorURL: https://shower-curtains.org/
+
+Title: Product Review Generator
+Category: Accounting
+Teaser: Create customer reviews for your products by just pasting your product URL
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-03T05:37:58.481Z
+Help: 
+ID: 1797110385002930176
+OwnPrompt: 
+PromptHint: Paste product URL
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T05:54:20Z
+Usages: 148
+Views: 206
+Votes: 1
+
+Prompt:
+I will give you a website product url, you need to create 20 short customer review for this product
+
+[TARGETLANGUAGE]
+[PROMPT]

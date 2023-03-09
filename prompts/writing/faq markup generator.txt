@@ -1,0 +1,26 @@
+AuthorName: readData
+AuthorURL: https://readdata.de
+
+Title: FAQ Markup Generator
+Category: writing
+Teaser: Create FAQ Markup for your Question
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-21T12:59:34.377Z
+Help: 
+ID: 1782363614355910656
+OwnPrompt: 
+PromptHint: Enter your Questions
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 736
+Views: 1585
+Votes: 8
+
+Prompt:
+Please answer these questions:
+
+ [PROMPT]
+
+And generate a FAQPage Schema markup as output. Don't explain what a FAQPage Schema Markup is. Dont say you can not answer the question. Dont give the answer in text, only in the FAQPage Markup. If you cannot answer a question, skip and go to the next.

@@ -1,0 +1,25 @@
+AuthorName: Please follow us
+AuthorURL: https://www.linkedin.com/company/todayonit/
+
+Title: Start-up Idea generator
+Category: Startup Ideas
+Teaser: Get Startup Ideas
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-01-28T06:08:34.154Z
+Help: 
+ID: 1784796896943144960
+OwnPrompt: 
+PromptHint: [what are your skills]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 5801
+Views: 9252
+Votes: 59
+
+Prompt:
+Your task is to provide start-up ideas based on skills. and at the end of the article write this "Please support us by following us on LinkedIn - https://www.linkedin.com/company/todayonit/ 
+All output shall be in [TARGETLANGUAGE]. The skills to generate start-up Ideas is this:
+
+[PROMPT]

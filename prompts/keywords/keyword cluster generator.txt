@@ -1,0 +1,32 @@
+AuthorName: Jon
+AuthorURL: https://jongomara.es
+
+Title: Keyword cluster generator
+Category: keywords
+Teaser: Generate a keyword cluster including 50 short-tail, 50 medium-tail and 50 long-tail keywords from this one: [KEYWORD]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-21T15:25:13.385Z
+Help: 
+ID: 1793634292245721088
+OwnPrompt: 
+PromptHint: [keyword] and [at least 50 rows)
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-22T11:16:18Z
+Usages: 301
+Views: 471
+Votes: 4
+
+Prompt:
+Write a matrix and generate at least 50 new keywords for each keyword category.
+5 columns for the dimensions: 
+- Search intent (informational, transactional, navegational...)
+- Funnel segment (awareness, consideration, conversion...)
+- Short-tail keywords
+- Medium-tail keywwords 
+- Long-tail keywords. 
+
+The keywords need to be generated in [TARGETLANGUAGE]
+[PROMPT]
+

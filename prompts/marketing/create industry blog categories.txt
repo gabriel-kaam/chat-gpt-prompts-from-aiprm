@@ -1,0 +1,23 @@
+AuthorName: Kurtulus
+AuthorURL: https://twitter.com/kurtulusarasan/
+
+Title: Create Industry Blog Categories
+Category: marketing
+Teaser: [Website URL or Industry]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-01T14:36:47.055Z
+Help: 
+ID: 1786374344902176768
+OwnPrompt: 
+PromptHint: [Website URL or Industry]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T12:51:33Z
+Usages: 112
+Views: 177
+Votes: 1
+
+Prompt:
+Please ignore all previous instructions.
+Create 5 blog categories for a [PROMPT] website, and provide a brief description of what each category will cover. The categories should be related to [PROMPT] and should be in [TARGETLANGUAGE].

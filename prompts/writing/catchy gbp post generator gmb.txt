@@ -1,0 +1,22 @@
+AuthorName: RankUp Evan
+AuthorURL: https://rankup.com.au/
+
+Title: Catchy GBP Post Generator (GMB)
+Category: writing
+Teaser: Create compelling and catchy GBP (GMB) posts based on content from your blog or website page.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-13T05:02:47.793Z
+Help: 
+ID: 1790578550555009024
+OwnPrompt: 
+PromptHint: [Insert your page content]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1221
+Views: 1720
+Votes: 10
+
+Prompt:
+Write a captivating GMB post that will generate click-throughs to my website. Include a CTA at the end that encourages users to click the learn more button to read more. Give me 3 posts to choose from. Ensure each option is 3-5 sentences long. produce output in the target language using the [TARGETLANGUAGE] placeholder. The post will be linking to a page on the website, here is the page content: [PROMPT]

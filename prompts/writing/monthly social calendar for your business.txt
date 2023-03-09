@@ -1,0 +1,26 @@
+AuthorName: Radhakrishnan KG
+AuthorURL: https://GrowthRecipes.com
+
+Title: Monthly Social Calendar for your business
+Category: writing
+Teaser: Create a monthly social media content calendar with 10 posts for your business niche category.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-24T20:28:32.666Z
+Help: 
+ID: 1794797789159624704
+OwnPrompt: 
+PromptHint: Your Niche Category (Eg: Yoga Studio)
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T20:39:40Z
+Usages: 322
+Views: 449
+Votes: 7
+
+Prompt:
+Please create a social media content posting table in [TARGETLANGUAGE] that includes the following for my [PROMPT].
+Column 1 for the date of posts for 10 posts in the current month.
+Column 2 for the social media posts, including relevant emojis and something useful, helpful, relatable, motivational, and a pleasure to read on social media, in around 100 words. Don't include hashtags here.
+Column 3 for the relevant and popular hashtags that could help attract people to the post.
+Column 4 for describing an ideal image that could be used for the post.

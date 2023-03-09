@@ -1,0 +1,31 @@
+AuthorName: Albert Puigsech
+AuthorURL: https://twitter.com/apuigsech
+
+Title: Summarize as a Twitter thread.
+Category: Summarize
+Teaser: Summarize given text in a target language as a Twitter thread.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-19T02:05:05.701Z
+Help: 
+ID: 1792708157693493248
+OwnPrompt: 
+PromptHint: [Text]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T15:15:17Z
+Usages: 232
+Views: 387
+Votes: 5
+
+Prompt:
+I will provide you with a text, and I want you to summarize it following the rules I list below:
+- The summary must be written in [TARGETLANGUAGE] .
+- The summary must be concise and capture the main points and arguments of the text.
+- The summary must be in the form of tweets composing a Twitter thread.
+- There summary must have between 5 and 10 tweets.
+- Enumerate all tweets using a numeric list, on this format "n/N message".
+- The first, and only the first, tweet must contain relevant hashtags.
+- Replace all well-known names with their Twitter id.
+
+[PROMPT]

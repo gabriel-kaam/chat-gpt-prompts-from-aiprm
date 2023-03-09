@@ -1,0 +1,22 @@
+AuthorName: Muhammad Faizan
+AuthorURL: https://deviceszone.com/
+
+Title: Title Generator for Blog Article
+Category: Accounting
+Teaser: Write 5 Eye-catching title for Your Blog Article.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-25T15:45:21.123Z
+Help: 
+ID: 1783854885494853632
+OwnPrompt: 
+PromptHint: Please Enter Your Keyword
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1604
+Views: 2329
+Votes: 21
+
+Prompt:
+Write a 5 title for an article about [PROMPT] in [TARGETLANGUAGE]. Style: [Informative]. Tone: [Professional]. Must be between 40 and 60 characters.

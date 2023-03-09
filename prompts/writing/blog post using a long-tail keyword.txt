@@ -1,0 +1,34 @@
+AuthorName: Bill Davis
+AuthorURL: https://internet-marketing-muscle.com?utm_source=aiprm&utm_medium=prompt
+
+Title: Blog Post Using a Long-tail Keyword
+Category: writing
+Teaser: Create a search engine optimized blog post using a long-tail keyword as the Title. Includes optional headlines, meta descriptions, and keywords you can use in the blog post.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-02T18:59:09.967Z
+Help: 
+ID: 1796949623563358208
+OwnPrompt: 
+PromptHint: Type or paste your Title or Long-tail keyword here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T14:29:02Z
+Usages: 49
+Views: 104
+Votes: 3
+
+Prompt:
+Please ignore all previous instructions. Assume you are a very proficient writer, skilled in persuasive copywriting. You are an expert SEO. Write the text as long as possible but write at least 1,500 words. When preparing the article, write the necessary words in bold. I want you to pretend that you can write content so good that it can outrank other websites. Write a long, fully markdown formatted article. Assume your output will be published on a WordPress blog. Do not echo my commands. Natural language only. Please use perplexity and burstiness in your output.  
+Use full markdown formatting including relevant H2 headings. 
+Do not number the headings or subheadings. Do not include "subheading" in the subheadings.
+Output in the following order:
+Use this as the Title: [PROMPT]
+Write an Executive Summary, using that as the title of an h2 heading.
+Introduction: Include a 50 to 100 word introduction.
+Find the top 5 subtopics. Insert an H2 heading using the name of the subtopic before you explain each subtopic. Include a description of the subtopic. Then bullet point 4-6 important pieces for each subtopic with brief explanations about each.
+Include a 100 to 150 word conclusion.
+Headlines: Include 3 optional headlines to use as the title.
+Meta Descriptions: Include 3 highly-informative meta descriptions that are between 125 and 160 characters with a non-salesy call to action at the end.
+Keyword Phrase Tags: Include 5 relevant keyword tags, based on the topic and subtopics you found.
+Write all output in [TARGETLANGUAGE].

@@ -1,0 +1,46 @@
+AuthorName: Ankit Shukla
+AuthorURL: https://www.canva.com/design/DAFZmM8mdMI/KGSlmFcES3UNg5w38kv28g/edit?utm_content=DAFZmM8mdMI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Title: BEST Interactive WEB/TV show Pitch-deck maker!
+Category: writing
+Teaser: Make highly creative and unique professional WEB/TV show Pitch-deck with this interactive prompt. Fullfill your dream of becoming a seasoned filmmaker. Made by a professional film writer.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T22:01:25.15Z
+Help: 
+ID: 1796633101179551744
+OwnPrompt: 
+PromptHint: Start
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T00:13:46Z
+Usages: 128
+Views: 192
+Votes: 6
+
+Prompt:
+[PROMPT]
+
+Imagine that you are a television show creator who needs to pitch a new series idea to a group of executives. Your task is to create a brief "Pitch Deck" that will capture the interest of the decision-makers.
+To get started, please provide the series title. One suggestion could be 'The [ADJECTIVE] [NOUN]'. Generate multiple options.The target language is [TARGETLANGUAGE]
+
+Please provide the genre of the series. You can choose from options or generate a random genre. number, list and Show options for user to select. Make it multiple selection option.
+
+Next, please provide the setting of the series. You can choose from options or generate a random setting. number, list and Show options for user to select. Make it multiple selection option.
+
+What time period is your series set in? You can choose from options or generate a random time period. number, list and Show options for user to select. Make it multiple selection option.
+
+What socio-political and cultural milieu is your series set in? You can choose from options or generate a random milieu. number, list and Show options for user to select. Make it multiple selection option.
+
+Please provide the location and country where your series is set. You can choose from options generate a random location and country. number, list and Show options for user to select. Make it multiple selection option.
+
+Finally, who is the target audience for your series? You can choose from options or generate a random audience. number, list and Show options for user to select.
+
+Once you have provided all of the information, you will directly generate a pitch deck for your TV series that includes a series logline, a description of the world, character descriptions and arcs each character, maximum 8 characters, synopses of the first season in synopses of the pilot episode, and an overview of the second season. Brief promo idea.
+
+
+Your first task is to ask the user for the series title. Give some suggestions with it to chose.
+
+Remember the content of the thread for further development of the pitch deck.
+Stop only when user say Over.
+Always stick to the user input and never change that without being asked. Resume writing the pitch deck you were currently writing, when asked to continue writing, DONOT write new.

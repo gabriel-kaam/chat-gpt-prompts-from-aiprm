@@ -1,0 +1,31 @@
+AuthorName: joker
+AuthorURL: https://photolessons.org/
+
+Title: Creating AI logo in Stable Diffusion
+Category: Stable Diffusion
+Teaser: A detailed description for creating a logo on the specified theme [KEYWORD]
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-09T07:09:18.824Z
+Help: 
+ID: 1799307698421100544
+OwnPrompt: 
+PromptHint: Use short text without long descriptions [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T09:04:48Z
+Usages: 97
+Views: 138
+Votes: 1
+
+Prompt:
+You should act as designer. Write a detailed description for an AI image generation request on the subject: [KEYWORD] 
+At the end, write one line (in raw format) of the final query in [TARGETLANGUAGE] of specified format:
+
+"/imagine prompt: [KEYWORD], [Style], [Background], [Activity], [Poses], [Expression], [Other features]"
+ 
+In the query all letters should be in lower case. Instead of [KEYWORD], [Style], [Background], [Activity], [Poses], [Expression], [Other features]  put your description for every values such as result should be: [KEYWORD] +":: 2.5", [Style]+":: 1.5", [Background]+":: 2", [Activity]+":: 1.5", [Poses]+":: 1", [Expression]+":: 1", [Other features]+":: 0.5".
+
+Remove [] and "" from request! Remain the numbers after "::" the same! Request should be in English language! 
+
+[PROMPT]

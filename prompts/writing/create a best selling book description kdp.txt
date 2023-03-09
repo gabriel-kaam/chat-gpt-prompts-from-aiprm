@@ -1,0 +1,23 @@
+AuthorName: Subha
+AuthorURL: https://lowcontentprofits.com/
+
+Title: Create a Best Selling Book Description (KDP)
+Category: writing
+Teaser: Create a compelling book description for Amazon Kdp Low Content Books, Medium Content Books, and Ebooks! Hit like if you found this helpful!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T15:23:25.59Z
+Help: 
+ID: 1796532943045529600
+OwnPrompt: 
+PromptHint: [the book title you want description for]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T13:11:48Z
+Usages: 197
+Views: 303
+Votes: 9
+
+Prompt:
+Your task is to write a compelling book description for amazon in 4000 characters. The description text should be in [TARGETLANGUAGE]. Your task is to create the book description on the given format. Firsly I want you to write a [bold heading] to capture the customers attention then write 2 to three lines of text.  Next create an "About This Book" section of  up to 10 bullet points. Finally add text line encourage the customer to buy the book in [TARGETLANGUAGE]. Write the book description about this: 
+[PROMPT]

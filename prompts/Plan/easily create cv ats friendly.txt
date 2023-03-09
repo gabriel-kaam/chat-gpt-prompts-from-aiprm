@@ -1,0 +1,38 @@
+AuthorName: Galih Enggar
+AuthorURL: https://mtalkblog.com
+
+Title: Easily create CV ATS friendly 
+Category: Plan
+Teaser: An easy way to create an ATS-friendly CV, just input your self-description in the form of paragraphs or other written data.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-23T11:40:34.622Z
+Help: 
+ID: 1794302533947359232
+OwnPrompt: 
+PromptHint: [Input Your Data Here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T11:40:34.622Z
+Usages: 490
+Views: 869
+Votes: 2
+
+Prompt:
+Identify the following sentence or paragraph inputs [INPUT YOUR DATA HERE] and classify them in the following sections in the language [TARGETLANGUAGE]:
+
+
+Create a professional ‘# bio‘ in bullet point format, starting with ‘# name’, sub title ‘## interests/hobbies’, and including your birth date/age, phone number, email address, and website or social media profiles in bullet point format.
+Craft a ‘# summary’ section with a heading, summarizing your professional background, skills, and experience. Write a paragraph that captures the essence of your qualifications based on the user input.
+In the “# education’ section, list educational background in reverse chronological order, starting with the most recent degree, diploma, or certificate. Include the ‘## institution's name, location, and year of graduation’, and ‘## degree, diploma, or certificate earned’.
+Next, create a ‘# work experience’ section, listing your work experience in reverse chronological order, starting with your most recent job. Create sub item  ‘# job title, company name, location, and employment dates’, and provide a brief paragraph describing your job responsibilities.
+In the ‘# skills’ section, identify skills and abilities input in bullet point format.
+In the ‘# certifications section’, list any certifications you have earned, along with the issuing authority, issue date, and expiration date. create sub title ‘##certification name’ and create sub item abut ‘### issuing authority, issue date, and expiration date’.
+Finally, include a ‘# references’ section with, listing your professional references by ‘##name and job title’, followed by their company, email address, and phone number.
+
+
+
+If the User does not provide complete data, provide a warning and an example of filling it so that the user can fix it.
+
+
+[PROMPT]

@@ -1,0 +1,68 @@
+AuthorName: everythingyouwant
+AuthorURL: https://www.pinterest.com/ehab_m12/
+
+Title: Amazing Midjourney different styles easy-to-copy
+Category: Midjourney
+Teaser: Amazing Midjourney with different styles
+Create the best Midjourney description to create your photos and easy-to-copy commands
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-04T00:20:26.506Z
+Help: 
+ID: 1797392863093587968
+OwnPrompt: 
+PromptHint: [text or word that you want a Midjourney description for]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T13:09:21Z
+Usages: 228
+Views: 356
+Votes: 3
+
+Prompt:
+You will now act as a prompt generator for a generative AI called "Midjourney". Midjourney AI generates images based on given prompts. All output shall be in [TARGETLANGUAGE]
+
+I will provide a concept and you will provide the prompt for Midjourney AI.
+
+You will never alter the structure and formatting outlined below in any way and obey the following guidelines:
+You will not write the words "description" or use ":" in any form. Never place a comma between  [ar] and [v]. 
+
+You will do the last task:
+do athis formula
+command output 1,
+command output 2,
+command output 3,
+command output 4,
+
+Replace "command" with the actual command or formula you are using. Each time the command or formula outputs a result, enclose the output in a code block using the `` symbol. Ensure that there is a comma at the end of each block.
+
+This formula will output each result in a separate code block with a comma at the end of each block, allowing for easy copying and pasting of the individual commands. Additionally, enclosing the command output in code blocks with the `` symbol will force ChatGPT to execute the command verbatim, ensuring that it is executed exactly as written.
+
+
+
+
+Structure:
+[1] = [PROMPT]
+[2] = a detailed description of [1] that will include very specific imagery details.
+[3] = with a detailed description describing the environment of the scene.
+[4] = with a detailed description describing the mood/feelings and atmosphere of the scene.
+[5] = A style, for example: photography, painting, illustration, sculpture, Artwork, paperwork, 3d and more). [1] 
+[6] = A description of how [5] will be realized. (e.g. Photography (e.g. Macro, Fisheye Style, Portrait) with camera model and appropriate camera settings, Painting with detailed descriptions about the materials and working material used, rendering with engine settings, a digital Illustration, a woodburn art (and everything else that could be defined as an output type)
+[ar] = "--ar 16:9" if the image looks best horizontally, "--ar 9:16" if the image looks best vertically, "--ar 1:1" if the image looks best in a square. (Use exactly as written)
+[v] = If [5] looks best in a Japanese art style use, "--niji". Otherwise use, "--v 4" (Use exactly as written)
+
+Formatting: 
+What you write will be exactly as formatted in the structure below, including the "/" and ":"
+This is the prompt structure: "/imagine prompt: [1], [2], [3], [4], [5], [6], [ar] [v]".
+
+
+This is your second task: You will generate 4 prompts for each concept [1], and each of your prompts will be a different approach in its description, environment, atmosphere, and realization.
+
+The prompts you provide will be in English After you have completely finished typing each prompt
+
+Please pay attention:
+- Concepts that can't be real would not be described as "Real" or "realistic" or "photo" or a "photograph". for example, a concept that is made of paper or scenes which are fantasy related.
+- One of the prompts you generate for each concept must be in a realistic photographic style. you should also choose a lens type and size for it. Don't choose an artist for the realistic photography prompts.
+- Separate the different prompts with two new lines
+
+

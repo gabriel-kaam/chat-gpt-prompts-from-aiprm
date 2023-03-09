@@ -1,0 +1,28 @@
+AuthorName: Joe Martin
+AuthorURL: https://joemartinassoc.com/
+
+Title: YouTube SEO/Keyword Template
+Category: keywords
+Teaser: Create a list of tags/keywords, descriptions, and title variations from Youtube video titles
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-02T20:14:56.006Z
+Help: 
+ID: 1796968691032915968
+OwnPrompt: 
+PromptHint: [Enter the title of the YouTube video]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T20:14:56.006Z
+Usages: 147
+Views: 204
+Votes: 0
+
+Prompt:
+In [TARGETLANGUAGE] create a description for a Youtube video using the following information.
+
+Give 5 variations of this title [PROMPT] with maximum 55 characters
+
+create a list of 30 tags for the YouTube videos below with a coma between each tag and a space between each word within the tag.
+
+create a description of this video using 3 of the tags without exceeding 300 characters 

@@ -1,0 +1,24 @@
+AuthorName: edu
+AuthorURL: https://t.me/wzk1996
+
+Title: MQ MasterL
+Category: Backend Development
+Teaser: MQL4 codes
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-07T16:53:44.707Z
+Help: 
+ID: 1788583139426439168
+OwnPrompt: 
+PromptHint: custom indicator functions
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 111
+Views: 233
+Votes: 1
+
+Prompt:
+"Act as a MQL4 programmer and create a custom indicator using only built-in functions in MQL4. Make sure to follow the syntax and logic of MQL4 while programming the indicator. Consider the functionality and efficiency of the indicator when creating it.
+
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."

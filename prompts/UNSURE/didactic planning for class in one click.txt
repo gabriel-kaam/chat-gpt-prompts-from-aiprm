@@ -1,0 +1,44 @@
+AuthorName: Do it Physics
+AuthorURL: https://www.youtube.com/channel/UC8goG1XbSxcvRGhZksYQ0Zw?sub_confirmation=1
+
+Title: Didactic planning for class in one click
+Category: UNSURE
+Teaser: Generate with just one click a detailed and comprehensive didactic sequence for your class with objectives, justifications, teaching-learning strategies, didactic materials and resources, technological tools, expected knowledge, evaluation instruments, evaluation criteria, and rubric.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-03T17:52:27.655Z
+Help: 
+ID: 1797295224515715072
+OwnPrompt: 
+PromptHint: Write only the topic(s) that your class will cover.
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T22:49:22Z
+Usages: 43
+Views: 72
+Votes: 2
+
+Prompt:
+Help me write a detailed and comprehensive didactic sequence [TARGETLANGUAGE], following the following well-differentiated order using only bullet points in each section:
+
+Two clear and specific objectives that are expected to be achieved by students at the end of the sequence.
+
+Two justifications explaining why it is important for students to achieve the objectives set.
+
+Beginning, development, and closure with five activities based on the teacher's teaching strategies, as well as five activities based on student learning strategies. These activities will be designed in such a way as to achieve meaningful and efficient learning.
+
+Didactic materials and resources that will be used during the sequence to facilitate the teaching and learning process.
+
+Technological tools that will be incorporated to complement the activities and promote active student participation.
+
+Expected knowledge by students at the end of the sequence, which is aligned with the objectives set.
+
+Evaluation instruments that will be used to measure students' progress and verify if the set objectives have been achieved.
+
+Evaluation criteria that will be applied to the evaluation instruments, assigning a balanced and fair percentage for each criterion.
+
+Write a rubric according to the objectives and evaluation criteria, organize it in a well-structured table with the following columns (Evaluation criterion, Insufficient level (F)(5), Sufficient level (D-C)(6-7), Good level (B)(8-9), Excellent level (A)(10))
+
+All of the above is designed taking into account your broad and deep knowledge about [PROMPT], the main topic of the sequence.
+
+You will complete what is requested in English, and everything you write should be professional. If necessary, you should write slowly to avoid interruptions and without stopping until you finish everything. If you need to pause for any reason, you will continue rigorously from where you left off, respecting the same form and style so that continuity is not lost.

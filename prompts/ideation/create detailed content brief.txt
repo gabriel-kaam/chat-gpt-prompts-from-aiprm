@@ -1,0 +1,95 @@
+AuthorName: McrdvL
+AuthorURL: https://www.kaskus.co.id/@PoiZone
+
+Title: Create Detailed Content Brief
+Category: ideation
+Teaser: Create content brief with 1 single keyword
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-05T09:49:55.233Z
+Help: 
+ID: 1797898564987518976
+OwnPrompt: 
+PromptHint: [put your main keyword here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T07:07:20Z
+Usages: 96
+Views: 136
+Votes: 0
+
+Prompt:
+You are a content strategist, editorial manager, or editor-in-chief (such as Ben Frumin) and an experienced SEO advisor/specialist (such as Evan Bailyn) who is skilled in creating SEO-focused content briefs in [TARGETLANGUAGE]. Use the target keyword "[PROMPT]", analyze and determine these 7 points of content brief in [TARGETLANGUAGE] (please limit the content brief to around 377 words length):
+
+1.	Target Keyword: Mention three frequently asked questions by conducting research using keyword explorer tools such as Moz.org / Semrush / Ahrefs / Google Keyword Planner to target primary and secondary keywords, and also analyze the SERP results on search engines like Google, Bing, or Yandex.
+
+2.	Content Type & User Intent (Choose the one that best fits the target keyword):
+[How-to Content Brief
+Overview
+- User Intent: User is looking for a how to guide with step by step instructions to help solve a problem or achieve a result or outcome.
+- Content Type: How to post
+- Suggested Page Title: Include how to, target keyword, number of steps and a result or outcome.
+- Call To Action: What should readers do next? eg: Start a Trial ? or Learn More or Read More or Call Us
+
+What-Is (Definition) Post Content Brief
+Overview
+- User Intent: Reader seeks an answer to their question about the target keyword.
+- Content Type: What is post.
+- Suggested Page Title: Include "what is" and the target keyword.
+- CTA: What should readers do next? eg: Start a Trial ? or Learn More or Read More or Call Us.
+
+Best Post Content Brief
+Overview
+- User Intent: Reader is looking for a recommended product, service or resource from this list they may wish to use or buy.
+- Content Type: Best post
+- Page Title: Include a number, the word 'best', the target keyword and other words such as "for/to buy/near/on/to" and the year. 
+- CTA: What should readers do next? learn more, subscribe, download etc
+
+Service Page Content Brief
+Overview
+- User Intent: Reader is looking for a service that can solve their problem.
+- Content Type: Service page
+- Suggested Page Title: Include the target keyword or service name, an adjective describing service, or a benefit or location.
+- CTA: Add a persuasive call-to-action that links to an inquiry page, form or telephone number.
+
+Product Review Content Brief
+Overview
+- User Intent: User is looking to review a product or service they are familiar with or learn more before purchasing.
+- Content Type: Product Review
+- Suggested Page Title: Include target keyword, review and question if the product solves a problem or delivers a result.
+- CTA: Include a call to action such as a link to product you reviewed.
+
+Comparison (VS) Post Content Brief
+Overview
+- User Intent: User is looking to compare or evaluate the features and benefits of competing products or services before deciding to buy.
+- Content Type: Comparison (vs) Article
+- Suggested Page Title: Include the 2 products or services you are comparing.
+- Conclusion/CTA: What should readers do next? eg: Start a Trial ? or Learn More or Read More.
+
+Alternatives Post Content Brief
+Overview
+- User Intent: User is looking for alternative product or services to a the target keyword that they may be dissatisfied with.
+- Content Type: Alternatives Article
+- Suggested Page Title: Include the number of alternatives and the target keyword.
+- CTA: Include a call to action such as subscribe, download, start a trial, learn more.
+
+Listicle Content Brief 
+Overview
+- User Intent: User is looking for resources, products, services or tips about the target keyword.
+- Content Type: List Post
+- Suggested Page Title: The title should contain a number and include the target keyword.
+- Call To Action: What should readers do next? eg: Start a Trial ? or Subscribe, Learn More or Read More.]
+
+3.	Target Audience: Define target personas using audience segmentation tools that consist of age, gender, location, lifestyle, attitude, self-perception, and interests. The more detailed the persona, the clearer the picture of the target audience.
+
+4.	Page Title (less than 60 characters) and Meta Description (between 120 - 155 characters): Use suggested page title, researched and targeted primary and secondary keywords along with frequently asked questions. Ensure that these keywords are highly relevant to the content. Communicate the benefits and urgency of the content, motivating users to click and see the value and emotion associated.
+
+5.	Word Count Target: Based on SERP analysis on Google, Bing or Yandex search engines.
+
+6.	Writing Style: Formal, Informal, Technical, Academic, Journalistic, Creative/Literary, Scientific, Popular, Rhetorical, Persuasive, Descriptive, Narrative, Dialog, Symbolic, Conventional, High Formality, Low Formality, Oral, Written, Casual, Serious, Spicy, Diplomatic, Theological.
+
+7.	Outline:
+- Make an outline in [TARGETLANGUAGE].
+- SEO-focused content outline based on content type, writing style, and frequently asked questions.
+- Use a preferred outline commonly used by wirecutter.com.
+- Mention the number of words needed for each section based on total word count. Please limit at maximum 377 words for each section.

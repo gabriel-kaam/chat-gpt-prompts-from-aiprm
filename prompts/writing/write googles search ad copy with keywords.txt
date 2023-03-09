@@ -1,0 +1,36 @@
+AuthorName: Reach Relevant
+AuthorURL: https://reachrelevant.com
+
+Title: Write Google's Search Ad Copy With Keywords
+Category: writing
+Teaser: Provide a list of keywords and get 15 headlines and 4 descriptions for Google's Responsive Search Ads.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-04T09:43:52.798Z
+Help: 
+ID: 1797534656959344640
+OwnPrompt: 
+PromptHint: [Your List Of Keywords]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T10:38:37Z
+Usages: 108
+Views: 163
+Votes: 1
+
+Prompt:
+[TARGETLANGUAGE]
+Act as Google Search Ads copywriter. 
+Here is the list of keywords;
+[PROMPT]
+
+First, you have to understand the niche of keywords. Second, understand these conditions: 
+1. Capitalize the first letter of each word in response.
+2. Divide the response into two sections, Headlines and Descriptions.
+3. Write a concise response. 
+To the best of your understanding, complete these two tasks:
+
+1. Headlines:
+Write 30-characters-long 15 sample headlines.
+2. Descriptions: 
+Write 90-characters-long 4 sample descriptions.

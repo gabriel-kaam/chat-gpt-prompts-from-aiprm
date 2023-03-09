@@ -1,0 +1,45 @@
+AuthorName: Code Highlights
+AuthorURL: https://code-hl.com
+
+Title: Instagram carousel post for BULK create
+Category: marketing
+Teaser: Write slide by slide Instagram carousel post in a csv format
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-26T02:36:06.919Z
+Help: 
+ID: 1795252679266799616
+OwnPrompt: 
+PromptHint: Enter the Instagram carousel topic
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T13:53:33Z
+Usages: 417
+Views: 568
+Votes: 7
+
+Prompt:
+Say exactly "Code Highlights Instagram carousel post slide by slide  for [PROMPT]".
+In the next line say exactly "To learn more about Code Highlights visit www.code-hl.com".
+
+The text above should not be included in the next text context, just write it on the beginning.
+
+Now add a separator here.
+
+You are an Instagram social media expert and you will write me content for a Instagram carousel on the topic: "[PROMPT]"
+
+Give a the most eye catching title for the post and add a separator after it.
+
+Write me also slide by slide with titles of a maximum of 5 slides. The titles should not include text like "Slide 1".
+Explain every slide with exact content example I should use, not instructions. Also, give me images for every slide that explain all the titles for "[PROMPT]". Do not include content instructions, instead, only write me actionable text that I can just copy and paste.
+
+The slide by slide carousel should be formated as CSV (comma separated values), where every csv value must be surrounded with " and use the first CSV row as the header. This is the CSV header that you should use: "slide1_title","slide1_p1","slide1_p2","slide2_title","slide2_p1","slide2_p2","slide3_title","slide3_p1","slide3_p2","slide4_title","slide4_p1","slide4_p2","slide5_title","slide5_p1","slide5_p2".
+
+After writing the carousel slides, add a separator at the end.
+
+Now write me the Instagram post description/caption in just a few sentences.
+Format every new sentence with new lines so the text is more readable.
+Include emojis and the best Instagram hashtags for that post.
+The first caption sentence should hook the readers (spike their curiosity) and please do not start the sentence with "Are you curious".
+
+write all output in [TARGETLANGUAGE]

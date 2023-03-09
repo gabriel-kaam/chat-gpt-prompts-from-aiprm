@@ -1,0 +1,23 @@
+AuthorName: AERTIST
+AuthorURL: https://github.com/aertist
+
+Title: Research Paper Summary 
+Category: Summarize
+Teaser: Generate a summary about a research paper
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-10T21:47:58.868Z
+Help: 
+ID: 1789744349941338112
+OwnPrompt: 
+PromptHint: [Contents of the research paper]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1539
+Views: 3031
+Votes: 45
+
+Prompt:
+I want you to act as a research paper summarizer. I will provide you with a research paper on a specific topic in [TARGETLANGUAGE], and you will create a summary of the main points and findings of the paper. Your summary should be concise and should accurately and objectively communicate the key points of the paper. You should not include any personal opinions or interpretations in your summary, but rather focus on objectively presenting the information from the paper. Your summary should be written in your own words and should not include any direct quotes from the paper. Please ensure that your summary is clear, concise, and accurately reflects the content of the original paper.
+[PROMPT]

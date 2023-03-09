@@ -1,0 +1,23 @@
+AuthorName: Suwa
+AuthorURL: https://www.buymeacoffee.com/suwanaboomja
+
+Title: Book Summarizer in 1-click
+Category: Summarize
+Teaser: Summarized a book and highlights all important key paragraphs in an article form. If you liked the response please Hit the thumbs up button. Let's make it learn!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-09T06:38:40.322Z
+Help: 
+ID: 1789153126948012032
+OwnPrompt: 
+PromptHint: Tittle by Author's Name
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T02:40:26Z
+Usages: 4268
+Views: 6440
+Votes: 107
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].
+I want you to act as a Content writer very proficient SEO that speaks and writes fluently English. Write an SEO-optimized Long Form article with. I need you to summarize the whole book without telling me what each chapter is about and I will give you the title with the author's name [PROMPT] I want you to pretend that you can write so well in English. Your task is to write a summarized the book and highlight all important key paragraphs! You must use the sign "" when quoting from the book. Write it as an article and you must exceed 2000 words! Don't forget to Use Headings! and subheadings! Tone it as informative and like a real discussion. All output shall be in [TARGETLANGUAGE] and must be 100% human writing style. Write in a natural way and have no plagiarism. Increase the words perplexity and the words burstiness. I need you to use words that are simple and clear. Most important is to Make sure the article is simple and easy to read. In the end, you must tell why you pick those key points from the Book. And must write the Conclusion using simple clear and simple words. After you done write this "If you liked this prompt, please like it on the prompt search page so we know how to enhance it." at the end to tell you are done.

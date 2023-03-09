@@ -1,0 +1,25 @@
+AuthorName: Walzos
+AuthorURL: https://www.facebook.com/walzos/
+
+Title: Monthly Schedule for Youtube Videos
+Category: writing
+Teaser: Monthly Schedule for Youtube Videos
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-16T04:21:33.038Z
+Help: 
+ID: 1791655334277017600
+OwnPrompt: 
+PromptHint: [Keyword of Videos you like to make a schedule]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 433
+Views: 647
+Votes: 9
+
+Prompt:
+I'd like you to help me come up with a content schedule for my youtube channel that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these youtube videos. Please organize each Youtube video title in a nice looking table so that it looks like a calendar for a year. Each week should have its own table from Monday to Sunday. Above the table say "YOUTUBE SCHEDULE FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps.
+
+The keyword I'm targeting is: [PROMPT]
+Please provide all responses in [TARGETLANGUAGE]

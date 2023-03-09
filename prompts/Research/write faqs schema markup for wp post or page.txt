@@ -1,0 +1,24 @@
+AuthorName: Sunayon
+AuthorURL: https://rigidrise.com/
+
+Title: Write FAQs schema markup for WP Post or Page
+Category: Research
+Teaser: Create simple FAQs schema for any blog post/page. Use it as custom HTML code if you're WordPress.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-15T19:19:08.365Z
+Help: 
+ID: 1791518832024870912
+OwnPrompt: 
+PromptHint: [Paste your text here by line (question and answer)]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 216
+Views: 561
+Votes: 4
+
+Prompt:
+your job is to Write FAQs schema markup for WP page. Note always start with [<script type="application/ld+json">] and input endline this [</script>] in code section.
+
+Your language shall be in [TARGETLANGUAGE] and your output based on [PROMPT]

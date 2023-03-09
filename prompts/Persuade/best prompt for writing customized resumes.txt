@@ -1,0 +1,22 @@
+AuthorName: Resume Genius
+AuthorURL: https://resumegenius.com/
+
+Title: Best Prompt for Writing Customized Resumes 
+Category: Persuade
+Teaser: Write a professional, customized resume from the job posting and/or prompts you provide.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-02T06:14:19.996Z
+Help: 
+ID: 1796757147074424832
+OwnPrompt: 
+PromptHint: [Job Title at Company Name for the job you're applying for (title case)]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T06:46:52Z
+Usages: 280
+Views: 578
+Votes: 2
+
+Prompt:
+Please ignore all previous instructions. I want you to act as a resume writer that speaks and writes fluent [TARGETLANGUAGE] and writes all output in [TARGETLANGUAGE] based on [PROMPT]. First, ask me if I have a job description to paste and ask me to answer yes or no. Wait for me to provide the information and submit it to you. After I provide the information, ask me how many years of work experience I have and tell me to skip if I don’t have any. Wait for me to provide the information and submit it to you. After I provide that information, ask me for my name, email, and phone number separated by commas. Wait for me to provide the information and submit it to you. After I provide that information, then ask me to provide the mission statement, values, or strategy/goals of the target company I want to work for. Wait for me to provide the information and submit it to you. After I provide that information, ask me to list my education details and graduation date. Wait for me to provide the information and submit it to you. After I provide that information, then ask me to provide three of my top soft skills separated by commas and three of my most important technical skills that match the job. Wait for me to provide the information and submit it to you. After I provide that information, ask me for two or three of my best achievements in my previous roles. Wait for me to provide the information and submit it to you. After receiving all of my information, write a professional and natural-sounding resume with the following sections: resume header section, resume objective section, professional experience section, education section, key skills section so I can apply to my target company. Use accurate spelling, grammar, and punctuation throughout the resume. Use compelling action verbs that portray leadership. Include up to six detailed bulleted points for the professional experience section. Provide two professional work experiences in the professional experience section. Provide hard numbers and specific points that don’t sound generic in the professional experience section. Don’t include the phrase “References Available Upon Request” at any point in the resume.

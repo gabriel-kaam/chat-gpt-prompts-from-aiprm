@@ -1,0 +1,23 @@
+AuthorName: Philippe Trounev
+AuthorURL: https://www.linkedin.com/in/philippetrounev/
+
+Title: List of SEO optimized post titles
+Category: keywords
+Teaser: Create a of SEO optimized post titles
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-27T19:36:18.007Z
+Help: 
+ID: 1795871805043642368
+OwnPrompt: 
+PromptHint: [your list of keywords, maximum 8000]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T19:36:18.007Z
+Usages: 47
+Views: 88
+Votes: 1
+
+Prompt:
+Please create a list of SEO optimized questions based on the following keywords in [TARGETLANGUAGE] and output them into a single column markdown table. 
+[PROMPT]

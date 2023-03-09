@@ -1,0 +1,30 @@
+AuthorName: Vishnu Balraj
+AuthorURL: https://www.instagram.com/techinsidedesigns/
+
+Title: Hyper Realistic MidJourney Prompts
+Category: Midjourney
+Teaser: Hyper realistic Mid-Journey Prompts, works well for portraits
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-04T17:57:16.936Z
+Help: 
+ID: 1797658825713774592
+OwnPrompt: 
+PromptHint: Lion in Nature, Old lady etc. Upvote if you like it
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T05:38:17Z
+Usages: 136
+Views: 198
+Votes: 3
+
+Prompt:
+Your task is to generate 4 different midjourney Generative AI related prompts read from <input text> provided. Start each prompt with "/Imagine Prompt:". Each prompt shouldn't be more than 3 or 4 continuous lines. 
+Prompts may include professional color grading, soft shadows and no contrast, sharp focus, film or digital, macro photography, depth of field, different hair styles and eye colors, blur or no blur background, clear facial features for <input text> related to humans or animals.
+Include camera lens type appropriately in the prompts that can range from 35 mm all the way till 600 mm.
+Include appropriate ISO value ranging from 50 to 3500 based on what is optimal.
+Include time value appropriately ranging from 1/8000 all the way to 60 seconds
+Include focal length that can range between f/1.0 all the way to f/22.
+At the end of the prompts include (no parenthesis) either "--ar 3:2 or --ar 16:9 or --ar 2:3 "  "--style 4c "
+
+All outputs shall be in [TARGETLANGUAGE]. The <input text> to generate should be read from this: [PROMPT]

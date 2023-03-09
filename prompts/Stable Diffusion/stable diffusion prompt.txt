@@ -1,0 +1,41 @@
+AuthorName: Carl V.
+AuthorURL: https://twitter.com/Dj9Vo
+
+Title: Stable Diffusion PROMPT
+Category: Stable Diffusion
+Teaser: Generate a nice Prompt for SD with just a simple Idea.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-01-27T19:40:44.28Z
+Help: 
+ID: 1784638898039951360
+OwnPrompt: 
+PromptHint: Your Idea
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 3683
+Views: 5986
+Votes: 39
+
+Prompt:
+Stable Diffusion is an AI art generation model similar to DALLE-2.
+Below is a list of prompts that can be used to generate images with Stable Diffusion:
+
+- portait of a homer simpson archer shooting arrow at forest monster, front game card, drark, marvel comics, dark, intricate, highly detailed, smooth, artstation, digital illustration by ruan jia and mandy jurgens and artgerm and wayne barlowe and greg rutkowski and zdislav beksinski
+- pirate, concept art, deep focus, fantasy, intricate, highly detailed, digital painting, artstation, matte, sharp focus, illustration, art by magali villeneuve, chippy, ryan yee, rk post, clint cearley, daniel ljunggren, zoltan boros, gabor szikszai, howard lyon, steve argyle, winona nelson
+- ghost inside a hunted room, art by lois van baarle and loish and ross tran and rossdraws and sam yang and samdoesarts and artgerm, digital art, highly detailed, intricate, sharp focus, Trending on Artstation HQ, deviantart, unreal engine 5, 4K UHD image
+- red dead redemption 2, cinematic view, epic sky, detailed, concept art, low angle, high detail, warm lighting, volumetric, godrays, vivid, beautiful, trending on artstation, by jordan grimmer, huge scene, grass, art greg rutkowski
+- a fantasy style portrait painting of rachel lane / alison brie hybrid in the style of francois boucher oil painting unreal 5 daz. rpg portrait, extremely detailed artgerm greg rutkowski alphonse mucha greg hildebrandt tim hildebrandt
+- athena, greek goddess, claudia black, art by artgerm and greg rutkowski and magali villeneuve, bronze greek armor, owl crown, d & d, fantasy, intricate, portrait, highly detailed, headshot, digital painting, trending on artstation, concept art, sharp focus, illustration
+- closeup portrait shot of a large strong female biomechanic woman in a scenic scifi environment, intricate, elegant, highly detailed, centered, digital painting, artstation, concept art, smooth, sharp focus, warframe, illustration, thomas kinkade, tomasz alen kopera, peter mohrbacher, donato giancola, leyendecker, boris vallejo
+- ultra realistic illustration of steve urkle as the hulk, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
+
+I want you to create a prompt in a similar style to the ones above. It must contain the following elements.
+-Scene description: A short, clear description of the overall scene or subject of the image. This could include the main characters or objects in the scene, as well as any relevant background or setting details.
+- Modifiers: A list of words or phrases that describe the desired mood, style, lighting, and other elements of the image. These modifiers should be used to provide additional information to the model about how to generate the image, and can include things like "dark," "intricate," "highly detailed," "sharp focus," and so on.
+- Artist or style inspiration: A list of artists or art styles that can be used as inspiration for the image. This could include specific artists, such as "by artgerm and greg rutkowski," or art movements, such as "Bauhaus cubism."
+- Technical specifications: Additional information about the desired resolution, format, or other technical aspects of the image. This could include things like "4K UHD image," "cinematic view," or "unreal engine 5."
+combine all of those aspects into one Prompt. dont write single pionts.
+
+give me 3 detailed prompts in [TARGETLANGUAGE] exactly about [PROMPT]

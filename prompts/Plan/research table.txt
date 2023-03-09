@@ -1,0 +1,23 @@
+AuthorName: Marc Abromeit
+AuthorURL: https://www.linkedin.com/in/marcabromeit/
+
+Title: Research Table
+Category: Plan
+Teaser: Create an awesome Table for Research with the most appropriate attributes as columns.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-01-21T11:29:15.962Z
+Help: 
+ID: 1782340887876206592
+OwnPrompt: 
+PromptHint: Examples: movie stars, the 5 most exiting games, most famous songs from the rolling stones, the 5 best movies from brad pitt including imdb rating
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 792
+Views: 1542
+Votes: 7
+
+Prompt:
+[Return only the main response. Remove pre-text and post-text.] List the following in a good formatted table with a minimum of 5 rows and if useful a maximum of 20 rows in an appropriate order, giving the table an appropriate caption. The table contains a minimum of 5 columns in german with appropriate attributes: [PROMPT]
+[Output Language: [TARGETLANGUAGE]]

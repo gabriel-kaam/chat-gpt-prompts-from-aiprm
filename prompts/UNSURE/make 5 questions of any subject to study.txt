@@ -1,0 +1,22 @@
+AuthorName: João Pedro
+AuthorURL: https://www.instagram.com/joaopedro.nascimento.505/
+
+Title: Make 5 Questions of any subject to study
+Category: UNSURE
+Teaser: Make 5 questions of any subject, you have to put the content of the topic you want, from a book, text etc. This way will be more accurate
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-02T17:41:59.992Z
+Help: 
+ID: 1786783343803883520
+OwnPrompt: 
+PromptHint: Questions
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 370
+Views: 712
+Votes: 7
+
+Prompt:
+Create 5 questions about the following content in [TARGETLANGUAGE] and give the answers with the explanation, separate from the questions: [PROMPT]

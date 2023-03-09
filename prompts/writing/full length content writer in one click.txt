@@ -1,0 +1,25 @@
+AuthorName: Todayonit.com
+AuthorURL: https://www.linkedin.com/company/todayonit/
+
+Title: Full length content writer in one click
+Category: writing
+Teaser: Content writer (Full-length content in one click with quality)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-28T08:51:48.691Z
+Help: 
+ID: 1784837978208866304
+OwnPrompt: 
+PromptHint: [Blog Title here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 967
+Views: 1524
+Votes: 10
+
+Prompt:
+Your task is to write a blog on the topic provided, with outlines, and an informative blog section based on given topic". content should be 800 words. It should be detailed and accurate and well-researched. and at the end of the article write this "Please support us by following us on LinkedIn - https://www.linkedin.com/company/todayonit/"
+All output shall be in [TARGETLANGUAGE]. The topic is this:
+
+[PROMPT]

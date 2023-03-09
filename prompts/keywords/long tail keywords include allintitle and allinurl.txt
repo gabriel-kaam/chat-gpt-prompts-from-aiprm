@@ -1,0 +1,24 @@
+AuthorName: Skoways
+AuthorURL: https://skoways.com/
+
+Title: Long Tail Keywords Include Allintitle & Allinurl
+Category: keywords
+Teaser: Find low competitive and Long Tail Keywords with its search Data Volume, Allintitle and Allinurl.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-09T01:00:05.92Z
+Help: 
+ID: 1789067922170441728
+OwnPrompt: 
+PromptHint: [Keyword or Title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T00:59:04Z
+Usages: 174
+Views: 249
+Votes: 1
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE].
+Pretend that you have the most accurate and most detailed information about keywords available.
+Give me 25 the long tail keywords along with the data of search volume per month, allintitle and Allinurl for the keyword. Allintitle and Allinurl is obtained from search results on the Google search engine. Example: allintitle: [PROMPT]. make sure the data is accurate and reliable. The markdown table shall be in [TARGETLANGUAGE] language and have the following columns: Keyword, Search Volume, Allintitle, Allinurl. Here it the keyword to start: [PROMPT]

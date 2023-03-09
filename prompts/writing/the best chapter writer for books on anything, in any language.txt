@@ -1,0 +1,27 @@
+AuthorName: Yan Carlos
+AuthorURL: https:/me.com
+
+Title: The best chapter writer for books on anything, in any language.
+Category: writing
+Teaser: The PROMPT should be the chapter title.
+It is recommended to copy ChatGPT's answer and ask it to correct itself for a better sense-making construction.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-12T17:07:42.976Z
+Help: 
+ID: 1790398594709450752
+OwnPrompt: 
+PromptHint: [THE CHAPTER TITLE: THE CHAPTER SUBTITLE]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1759
+Views: 2925
+Votes: 37
+
+Prompt:
+With focus on building meaningful relationships between ideas and maintaining coherence throughout the chapter.
+
+Write a chapter, in [TARGETLANGUAGE] with the title "[PROMPT]", containing approximately 3000 words and no fewer, with the objective of presenting a cohesive and persuasive text about [PROMPT]. Use solid and well-structured arguments and illustrate your ideas with metaphors and analogies. Build complete and complex sentences and emphasize paragraph coherence so that the text makes sense in the end. Write a human text with fewer, but larger, paragraphs, and if interrupted, continue writing in a way that maintains text consistency.
+
+ Focus on building meaningful relationships between ideas and maintaining coherence throughout the chapter.

@@ -1,0 +1,26 @@
+AuthorName: Adeel Abbas
+AuthorURL: https://www.youtube.com/@adeelabbasseo
+
+Title: Write content according to helpful content update.
+Category: writing
+Teaser: Articles that follow Google Helpful content Guidelines.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-01T04:40:43.149Z
+Help: 
+ID: 1796371200444993536
+OwnPrompt: 
+PromptHint: [Insert Topic Name]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T05:06:02Z
+Usages: 45
+Views: 82
+Votes: 2
+
+Prompt:
+Your task is to Create the article on a given topic by considering the following Guidelines by Google. All the output result must be in [TARGETLANGUAGE].
+I want you to write the content in [TARGETLANGUAGE] that provides a satisfying experience for visitors.
+I want you to create the content in [TARGETLANGUAGE] that outranks other articles.
+Create the content for the audience while incorporating SEO best practices. I want you to Create content that targets audience, demonstrate expertise, have a primary purpose or focus, provide value, and ensure a satisfying experience for readers.
+[PROMPT]

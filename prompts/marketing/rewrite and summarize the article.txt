@@ -1,0 +1,25 @@
+AuthorName: Jubaer
+AuthorURL: https://jbrhyper.com/?utm_campaign
+
+Title: Rewrite and Summarize the article
+Category: marketing
+Teaser: Rewrite and Summarize the article
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-22T09:43:49.864Z
+Help: 
+ID: 1793910765997264896
+OwnPrompt: 
+PromptHint: Text that you want to summarize and rewrite
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T13:19:15Z
+Usages: 344
+Views: 569
+Votes: 3
+
+Prompt:
+Your task is to rewrite and summarize the given article within 300 words. All output shall be in 
+[TARGETLANGUAGE]. The text to rewrite and summarize is this:
+
+[PROMPT]

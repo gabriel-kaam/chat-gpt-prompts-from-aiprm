@@ -1,0 +1,27 @@
+AuthorName: Sharon
+AuthorURL: https://www.facebook.com/sharon9476
+
+Title: Convert You Tube Transcript to an Article.
+Category: writing
+Teaser: Convert any youtube transcript to an article. Please upvote if you like it!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-25T11:21:38.311Z
+Help: 
+ID: 1795022543644790784
+OwnPrompt: 
+PromptHint: [Paste your YouTube transcript]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T18:15:09Z
+Usages: 296
+Views: 491
+Votes: 5
+
+Prompt:
+Your task is to create an article, including a title, content with subheadings, and a summary.
+The article should be long  and detailed and based only on the YouTube transcript I give you.
+Don't include the YouTuber's name or the YouTube channel name in the article.
+All output shall be in [TARGETLANGUAGE].
+The YouTube transcript is this:
+[PROMPT]

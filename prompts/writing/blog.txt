@@ -1,0 +1,31 @@
+AuthorName: Mr Guru
+AuthorURL: https://techviews.pk
+
+Title: Blog
+Category: writing
+Teaser: Detailed ARTICLE - SEO OPTIMIZED - HEADLINES AND CONCLUSION -  Enjoy and Give it a Like!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-08T12:45:15.463Z
+Help: 
+ID: 1788882993390288896
+OwnPrompt: 
+PromptHint: [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 266
+Views: 455
+Votes: 4
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very proficient SEO and high end copywriter that speaks and writes fluently [TARGETLANGUAGE]. I want you to write an article in a formal "we form" that helps me outrank the article I gave you, in Google. Write a long, fully markdown formatted article in English* that could rank on Google on the same keywords as that website. 
+
+When preparing the article, prepare it using {start article} tags at the beginning of the article, and end with {stop article} tags at the end of the article. write the necessary words in bold format. Use h1 tag for the title of the article. Use h2 tags for the headlines of the article. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurate.
+
+Write the article as long as possible, at least 1500 words. I need at least 5 headlines in the article. Write at least 2 paragraphs on each headline. Write a conclusion paragraph at the end of the article. The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. 
+
+Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do now use generic filler phrases. Do not explain what and why, just give me your best possible article. 
+
+I give you the Title [PROMPT] in an article that we need to outrank in Google. 
+

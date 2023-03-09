@@ -1,0 +1,24 @@
+AuthorName: The SEO Fairy
+AuthorURL: https://seofairy.co.uk
+
+Title: TLDR Writer With Your Keyword
+Category: writing
+Teaser: Create an SEO Optimised TLDR passage from your content to Win Featured Snippets
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-14T22:53:11.514Z
+Help: 
+ID: 1791210312230498304
+OwnPrompt: 
+PromptHint: Input the keyword you want in your TLDR, then "PASTE CONTENT HERE"
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 124
+Views: 228
+Votes: 1
+
+Prompt:
+Create a TLDR in 2 to 3 sentences including the keyword [PROMPT] from the content pasted below, writing the output in [TARGETLANGUAGE]:
+
+[PROMPT]

@@ -1,0 +1,34 @@
+AuthorName: Gert Mellak
+AuthorURL: https://www.gertmellak.com
+
+Title: Generate your 1 min. video script by entering your topic:
+Category: marketing
+Teaser: Create a 1 min. video script for social media about your topic and your call to action at the end.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-16T10:25:07.828Z
+Help: 
+ID: 1791746832137981952
+OwnPrompt: 
+PromptHint: [TOPIC]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 393
+Views: 562
+Votes: 6
+
+Prompt:
+Forget all prior instructions. Act as an experienced copywriter in [TARGETLANGUAGE].
+
+Write a [TARGETLANGUAGE] video script for a 1 minute video for social media about [PROMPT]. Only show the parts that need to be read by the speaker. 
+
+Show each sentence in a new paragraph.
+
+Use casual phrases, and simple and quite short sentences.
+
+The script should inform people very briefly about [PROMPT]
+
+It's very important to use the first or second sentence of the script to tell people what they will get out of watching the video.
+
+At the end it should then encourage them to click the link in the bio.

@@ -1,0 +1,24 @@
+AuthorName: Carlos Guampe
+AuthorURL: https://etivi.com
+
+Title: Improve blog with hn titles and SEO
+Category: keywords
+Teaser: Create content within blog to assemble them in parts, free of plagiarism, free of being revealed by ai, free of google penalization and written by humans con tu [KEYWORD]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-26T02:26:02.338Z
+Help: 
+ID: 1795250143470280704
+OwnPrompt: 
+PromptHint: [Keyword - Topic title - Paragraph].
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T20:28:13Z
+Usages: 99
+Views: 241
+Votes: 2
+
+Prompt:
+olvida todo y Escriba un artículo 100% único, creativo y escrito por humanos en [TARGETLANGUAGE], en código html, con etiquetas h2, h3, (h4 opcional), los párrafos deben marcar palabras semánticas o relacionadas con el tema en etiquetas strong, no debe de contener introducción del texto, no debe de contener conclusión al final de tu reporte, tampoco recomendaciones o resúmenes. Asegúrate de que el artículo no contenga plagios. La longitud mínima del artículo debe ser de 600 a 800 palabras. No olvides utilizar el signo de interrogación (?) al final de las preguntas. Escriba un contenido que pueda pasar fácilmente la prueba de las herramientas de detección de ai y por los algoritmos de penalización de google y que sea escrito en un lenguaje persuasivo informal.  
+
+la palabra clave es: [PROMPT]

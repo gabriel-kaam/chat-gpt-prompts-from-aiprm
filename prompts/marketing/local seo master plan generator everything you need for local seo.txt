@@ -1,0 +1,28 @@
+AuthorName: Google Business Profile Services
+AuthorURL: https://www.merchynt.com/google-business-pro?utm_source=AIPRM&utm_medium=Local+SEO+Master+Plan+Generator+%28Everything+you+need+for+local+SEO%29&utm_campaign=Local+SEO+Master+Plan+Generator+%28Everything+you+need+for+local+SEO%29&utm_id=chatgpt
+
+Title: Local SEO Master Plan Generator (Everything you need for local SEO)
+Category: marketing
+Teaser: Get a full local SEO master plan that's easy to implement by simply telling us the name of your business, the type of business, and where it's located. Example: "Joe's Pizza is a pizza shop in NYC". The master SEO plan will hely you optimize your website local SEO & your GMB (Google Business Profile) SEO.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-01-27T17:43:08.985Z
+Help: 
+ID: 1784609305987899392
+OwnPrompt: 
+PromptHint: [Type in the name of the business and where it's located. Ex: Joe's Pizza in NYC
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 7335
+Views: 11479
+Votes: 106
+
+Prompt:
+Your task is to help me optimize a business for local SEO in [TARGETLANGUAGE]:
+
+Please pretend you are a local SEO expert and give me all of the following requests talking to me as if I am stupid. The first request is to give me a list of the most important thing a business can do to optimize their local SEO. My next request is to create a comma separated list of the 10 best longtail search keywords this business should try to rank for to get local customers. Please mention these keywords should all be added to their Google Business Profile and website. No keyword should only contain the name of a city. Please capitalize the first letter of each word. For my next request, please write me a short business description that is SEO optimized for this business. Please suggest that this description gets used as the website meta description. Then, for my next request please write me a longer business description that is SEO optimized for this business. Both descriptions should end with a call to action. Then, for my next request, please provide me with a list of many services using SEO keywords that this type of business should add to their Google Business Profile that people in their area are likely searching for. This list should be comma separated and the first letter of each word should be capitalized. There should be at least 15 services in this list. Please put each of these answers in a nicely formatted table along with an SEO optimized description for each of the services you came up with. At the top of the first table, please put a big bold header that says "MERCHYNT'S MAGICAL LOCAL SEO OPTIMIZATION FOR CLIENT" and replace CLIENT with the Business name provided in the prompt. Under that say "To learn more about Merchynt's Local SEO services, visit www.merchynt.com/google-business-pro." Then, under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep supporting it and build more ones like it! Thank you so much! - The Merchynt.com team
+
+The business to help me with is a:
+
+[PROMPT]

@@ -1,0 +1,34 @@
+AuthorName: Wiktor W
+AuthorURL: https://www.linkedin.com/in/wiktor-w%C5%82odawiec/
+
+Title: Possible uses for anything (Works best in english)
+Category: Spreadsheets
+Teaser: This prompt gather ideas for uses of your prompt and organises them into column highlighting application for certain fields. Thumb up maybe? :D
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-02-02T10:33:01.51Z
+Help: 
+ID: 1786675388785881088
+OwnPrompt: 
+PromptHint: Type for example "AI"
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 696
+Views: 1640
+Votes: 13
+
+Prompt:
+Your task is to ideate possible applications of [PROMPT]. 
+
+Organise the informations into a table with 5 columns named:
+
+1. Name
+2. Technology
+3. Marketing
+4. Work Automation
+5. Practical uses
+
+In the first column show me how would you name potential application. In the second column show me what kind of uses does [PROMPT] have in the field of technology and how it could contribute to technological advancements. In the third column show me what kind of marketing techniques and opportunities does [PROMPT] bring to the table. In the fourth column tell me how [PROMPT] could be used to automate work - it can cover physical labour or any type of mental work. In the fifth column show me what kind of real life uses [PROMPT] can have.
+
+Both outputs and table shall be in [TARGETLANGUAGE].

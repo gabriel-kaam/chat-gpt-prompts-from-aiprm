@@ -1,0 +1,30 @@
+AuthorName: Amit Donga
+AuthorURL: https://financemoneynow.com/
+
+Title: YOAST SEO, keyphrase, title, slug, meta desc
+Category: marketing
+Teaser: Only Give The Title Or Topic Of Your Blog/Article and It will Create 100% Accurate, Fully YOAST SEO Friendly Meta For Google Ranking.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-20T10:14:22.517Z
+Help: 
+ID: 1793193676969869312
+OwnPrompt: 
+PromptHint: [Add Your Blog Topic or Title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T12:41:07Z
+Usages: 1627
+Views: 2056
+Votes: 15
+
+Prompt:
+All output in [TARGETLANGUAGE].
+I want you to write the 
+1) Focus KeyPhrase: SEO Friendly Focus KeyPhrase Within 6 Words. 
+2) SEO Title: SEO Friendly SEO Title Within 60 Characters With Add Above Focus KeyPhrase at the start.
+3) Slug: SEO Friendly Slug within 15 characters including Focus KeyPhrase.
+4) Meta Description: SEO Friendly meta description within 155 characters including Above Focus Keyphrase.
+for my blog topic title of : 
+
+[PROMPT]

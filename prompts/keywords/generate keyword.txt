@@ -1,0 +1,24 @@
+AuthorName: Fabmetry
+AuthorURL: http://fabmetry.com/?utm_source=Chatgpt&utm_medium=command&utm_campaign=chat_gpt&utm_id=14
+
+Title: Generate Keyword
+Category: keywords
+Teaser: Generate Keyword With Keywords difficulty, on your niche, which keyword is best to rank on google &
+For more upvote
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-21T16:26:43.108Z
+Help: 
+ID: 1793649768065658880
+OwnPrompt: 
+PromptHint: [Keywords], [Location], [Service/Products]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T20:04:13Z
+Usages: 58
+Views: 95
+Votes: 0
+
+Prompt:
+Your task is to generate keyword based on google ranking chance, keywords difficulty, based on specific niche, Show keyword difficulty level, Google Ranking chance percentage out of 10, Only suggest keyword which has high ranking chance on google, show keywords difficulty below 25%, Which is already ranked on google with low DA, PA below 25  based on location on Moz tools, based on my product/services. Show them in markdown table and categories them [TARGETLANGUAGE]
+[PROMPT]

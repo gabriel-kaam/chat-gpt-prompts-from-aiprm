@@ -1,0 +1,24 @@
+AuthorName: Christian Graham
+AuthorURL: https://medium.com/@christian.graham_49279/using-chatgpt-for-foresight-futures-wheel-8e79eecfe86b
+
+Title: Futures Wheel
+Category: UNSURE
+Teaser: Create a futures wheel from one word or phrase in UML
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-28T13:05:01.707Z
+Help: 
+ID: 1796135726170247168
+OwnPrompt: 
+PromptHint: Topic keyword or phrase
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-28T13:06:27Z
+Usages: 25
+Views: 74
+Votes: 1
+
+Prompt:
+Acting as a futurist, start by creating a simple MindMap on the consequences of [PROMPT]
+
+Can you give the mindmap in PlantUML format. Keep it structured from the core central topic branching out to first order consequences (don’t label as first order consequences). Treat the second order consequences as branches from the first orders ones, third order as branches from the second and so on. Let’s go to 4 levels to begin with. Add the start and end mindmap tags. write all output in [TARGETLANGUAGE]

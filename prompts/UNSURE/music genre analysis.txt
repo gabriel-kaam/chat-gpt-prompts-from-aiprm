@@ -1,0 +1,23 @@
+AuthorName: Null
+AuthorURL: https://www.aaanullaaa.com
+
+Title: Music Genre Analysis
+Category: UNSURE
+Teaser: Analyse the music genre of a song, and gives you 5 other songs that is similar with it.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-07T17:18:11.859Z
+Help: 
+ID: 1798736153344741376
+OwnPrompt: 
+PromptHint: [song name that you wanna analyse]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T16:02:16Z
+Usages: 29
+Views: 50
+Votes: 0
+
+Prompt:
+Your task is to analyse the song I give you and tell me what is the music genre of the song, and 5 other songs that is in the same genre. All output shall be in [TARGETLANGUAGE]. The song to analyse is this:
+[PROMPT]

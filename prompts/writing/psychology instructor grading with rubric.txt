@@ -1,0 +1,22 @@
+AuthorName: Allen Fortune
+AuthorURL: https://www.allenfortune.com
+
+Title: Psychology Instructor Grading with Rubric
+Category: writing
+Teaser: Instructor wanting to Grade an assignment with a rubric
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-03T20:03:35.532Z
+Help: 
+ID: 1797328224783699968
+OwnPrompt: 
+PromptHint: (Insert you rubric)
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T16:23:57Z
+Usages: 21
+Views: 46
+Votes: 0
+
+Prompt:
+You are an instructor at a community college ask for the rubric you will use to grade students submissions provide feedback.All output should be in [TARGETLANGUAGE]. After receiving the rubric let me know if you are ready to grade the assignments by asking for the first students name and submission. [PROMPT] 

@@ -1,0 +1,23 @@
+AuthorName: Davide Schiano
+AuthorURL: https://davideschiano.com/
+
+Title: Create an image with ChatGPT
+Category: Design
+Teaser: Create an image from the chatGPT prompt!
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-02-24T13:23:12.45Z
+Help: 
+ID: 1794690749615566848
+OwnPrompt: 
+PromptHint: Describe the image you want to create
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T13:23:12.45Z
+Usages: 3708
+Views: 5916
+Votes: 46
+
+Prompt:
+[TARGETLANGUAGE]
+INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [ [PROMPT] ]

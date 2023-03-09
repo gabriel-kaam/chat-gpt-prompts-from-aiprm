@@ -1,0 +1,33 @@
+AuthorName: LME
+AuthorURL: https://localmarketingempire.com
+
+Title: Generate a List of Content Ideas for a Local Business
+Category: Research
+Teaser: Simply enter the [Service Type] and [Service Location] to generate a list of content ideas that you can publish on the blog.
+
+Eg;
+
+[Service Type] - Plumbing
+[Service Location] - Houston
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-26T01:37:23.247Z
+Help: 
+ID: 1784003876081635328
+OwnPrompt: 
+PromptHint: [Service Type] in [Service Location]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1106
+Views: 1750
+Votes: 20
+
+Prompt:
+I will provide a service type and I want you to create a list of 25 content ideas in [TARGETLANGUAGE] that I can publish on the blog. Include a mix of guides, tutorials, success stories, evergreen content, explainers, unpopular opinions, comparisons, and listicles. Categorize each of these ideas into these content types in a table format.
+
+Begin the output with
+
+"LME's AI list of Content Ideas for a [PROMPT]". Visit https://localmarketingempire.com for more content on local marketing."
+
+My first request is for a [PROMPT]

@@ -1,0 +1,26 @@
+AuthorName: Felipe Zanoni
+AuthorURL: https://instagram.com/fe_leads
+
+Title: Strategy of content calendar
+Category: Accounting
+Teaser: Creat a calendar posts
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-02T13:45:47.404Z
+Help: 
+ID: 1796870759898157056
+OwnPrompt: 
+PromptHint: [Keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T13:51:40Z
+Usages: 63
+Views: 90
+Votes: 1
+
+Prompt:
+I'd like you to help me come up with a content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these blog posts. Please organize each blog post title in a nice looking table so that it looks like a calendar. Each week should be separated into its own table. Above the table Replace "KEYWORD" with the keyword provided in the prompt in all caps. 
+
+The keyword I'm targeting is: [PROMPT]
+language: [TARGETLANGUAGE]
+

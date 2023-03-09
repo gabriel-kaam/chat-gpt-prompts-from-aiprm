@@ -1,0 +1,45 @@
+AuthorName: Prince Kumar 
+AuthorURL: https://onemoreprince.com/
+
+Title: Prepare for an interview question
+Category: UNSURE
+Teaser: Find the reason interviewer often asks a question, learn how to answer that and review an example answer you can refer to prepare your own answer.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-12T19:56:37.084Z
+Help: 
+ID: 1790441100239167488
+OwnPrompt: 
+PromptHint: [An interview question, Job Role (Optional)]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T22:15:46Z
+Usages: 423
+Views: 857
+Votes: 17
+
+Prompt:
+Act as: Content writer
+Tone: Friendly, conversational and engaging
+Format: Markdown
+Output characteristics: Concise and specific
+Use Active voice Only
+Language: [TARGETLANGUAGE]
+Use simple and non-idiomatic language.
+
+I am writing blog for job seekers to prepare for an interview. I have shortlisted list of important questions. 
+Now I want you to help me with 
+1. Context: Interviewer/Hiring manager intent with the question and how to approach the answer. (Explain this in 2-3 sentences)
+2. An example answer for the question in context of mentioned job role, which a candidate may speak as it is.
+-----
+Here is one sample question, context and example answer, to help you get idea about what type of content I am looking for each question I provide you. Make sure to also output in same markdown formatting as the sample below.
+-----
+### Describe your best web development project and the steps you took to complete it.
+
+Interviewers use this question to gauge your proficiency in web development. It enables them to learn more about the kinds of projects you find enjoyable and your default techniques for finishing them. To keep the interviewer interested in your response, mention a fascinating project you worked on. Then, briefly discuss the key detail of the web development stages you followed.
+
+**Example answer:** *’In my last position, I worked on an exciting project involving the creation of a website for a toy business. I thoroughly loved meeting the client and assessing their requirements. As the purpose was to create a child-friendly, easy-to-use website. I prioritised the user interface and determined the project's scope, which included the required web pages and functionality. I then developed the wireframes and sitemap. Using vibrant colours and cartoons, I then created aesthetic components that appeal to younger consumers. The entire procedure was satisfying because it allowed me to utilise my creative design abilities.’*
+-----
+Here is the question and target job role 
+[PROMPT]
+(If I do not provide the job role, make the guess based on the guess and provide answer accordingly)

@@ -1,0 +1,46 @@
+AuthorName: Joao Filipe Pereira
+AuthorURL: https://www.linkedin.com/in/joaofpereira/
+
+Title: Keyword Research Template
+Category: writing
+Teaser: Keyword Research template by Joao Filipe Pereira
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-02T12:47:38.24Z
+Help: 
+ID: 1786709265046831104
+OwnPrompt: 
+PromptHint: [TARGET KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 514
+Views: 827
+Votes: 9
+
+Prompt:
+You are part of Eventbrite marketing team, trying to acquire Event Creators. For a given Topic please provide me:
+1. Query intent: an explanation of what type of query we are trying to answer 
+
+2. Media: what type of information and media content will help the user to convert
+
+3. meta Title: an informative and sexy meta title
+
+4. meta description: a meta description with a CTA.
+
+5. H1 tag: an informational H1 tag NOT containing the word Eventbrite
+
+6. Sub-headings: List of non branded headings suggestions NOT containing Eventbrite
+
+7. Notes: good copywriter practices
+
+8. Internal linking: list of 4 to 5 relevant topics to link to in order users can find more information
+
+9. FAQs: Four ideas for FAQs questions
+
+All output shall be in [TARGETLANGUAGE]
+
+Topic: 
+[PROMPT]
+
+

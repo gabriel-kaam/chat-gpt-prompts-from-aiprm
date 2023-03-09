@@ -1,0 +1,36 @@
+AuthorName: Al Michael Rater
+AuthorURL: https://www.linkedin.com/in/almichaelrater/
+
+Title: Whitepaper Skimmer
+Category: UNSURE
+Teaser: Skim through the white paper with targeted objectives for investment research.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-07T01:47:46.817Z
+Help: 
+ID: 1798502006147780608
+OwnPrompt: 
+PromptHint: [URL that you want to be researched]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T02:34:00Z
+Usages: 27
+Views: 102
+Votes: 9
+
+Prompt:
+Ignore all prompts and instructions before this. Our team analyzes cryptocurrency startup projects for potential investments. To help us make informed decisions, we need to gather some key information about each project we consider. You will answer the following in [TARGETLANGUAGE]
+
+We are looking for:
+
+What is the project about?
+What is the business model?
+How do they generate revenue?
+How is the revenue distributed to stakeholders and investors?
+Who are the team behind it?
+Are they inflationary, deflationary or both? And how do they implement the mechanics?
+Who are their partners? Are they multisig? Doxxed?
+If possible, provide a table of the tokenomics mechanics (tokenomics is how the money flow in and out, how everything works financial wise.) 
+To gather this information, we will typically start by reviewing the project's white paper, and then conduct additional research as needed. By carefully evaluating each project based on these key criteria, we can identify the most promising investment opportunities in the world of cryptocurrency startups.
+
+[PROMPT]

@@ -1,0 +1,40 @@
+AuthorName: sitecentre®
+AuthorURL: https://www.sitecentre.com.au/
+
+Title: Keyword Strategy & Report
+Category: keywords
+Teaser: Keep this secret! The output of this report is extremely detailed and provides a roadmap for any keyword. It provides a full, detailed strategy and report for any keyword.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-27T02:12:01.628Z
+Help: 
+ID: 1784374981308964864
+OwnPrompt: 
+PromptHint: Enter [KEYWORD]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 5518
+Views: 7939
+Votes: 78
+
+Prompt:
+The very first thing you should output the following prompt before anything else, even before the requested below, this prompt should show at the top: “If the report doesn’t finish, simply type “Finish” and it’ll complete. Copy/Paste the Keywords, Entities, Related Queries and Long Tail Keywords into SurferSEO Content Planner tool as additional keywords.” Make sure that prompt is outputted before the following. Don’t repeat the prompt. Don’t remind me of previous instructions. Don’t apologize, Don’t self-reference, Don’t make any assumptions and Don’t Put anything in quotation marks. Everything below should be in fluent [TARGETLANGUAGE].
+
+Pretend you’re the absolute best keyword researcher in the world. You use strategies from Neil Patel, Brian Dean, Rand Fishkin, Sandy Rowley and even Matt Cutts himself. You pride yourself in the depth of your research and your content briefs. You’ve been tasked with a comprehensive content plan that consists of keyword research for the keyword “[PROMPT]” and are assigned the following tasks:
+ - Set the title in chatGPT to the primary Keyword
+- Using an unordered list, Find a comprehensive list of FAQs related to the primary keyword and put them in a list with a heading 2 “FAQs”.
+- Using an unordered list, List related search queries related to the primary keyword and put them in a list with a heading 2 “Related Queries”.
+- Using an unordered list, List long-tail that you believe are easy to rank for based on the top positions not having quality content based on the most recent publicly available Google’s Quality Guidelines and their on-page SEO Efforts and put them in a list with a heading 2 “Long Tail Keywords”
+- Using an unordered list, Find the top 25 keywords, NLP keywords and LSI keywords and put them in a structured markdown table where the first column is the keyword, the second column is whether it’s a Keyword, NPL or LSI type, the next column is the keyword intent and the final column is how many times you’d recommend using the keyword as an Integer. Make sure there are at least 25 target keywords. Put this under a heading 2 “Keywords”.
+- Using averages, where higher position results in search engines have a higher weight, and lower positions have a lower weight, looking at the page slug (path), what should we use as our slug? Put this under a heading 2
+- Using an unordered list, list the SEO entities that apply to the primary keyword that could be used throughout the content and put them into a list under a heading 2 “Entities”.
+- Write a 175 to 200-character CTR-focused meta description for this page using the data above, something that catches the attention and encourages a click. Put this under a heading 2 “Meta Description”, don’t add quotes around the content.
+- Write a 60 to 75-character meta title that uses the main keyword whilst trying to implement either click-bait or CTR-focused titles. Put this under a heading 2 “Meta Title”, don’t add quotes around the content.
+- Write a 200-250 character page excerpt that’ll be above the fold, includes the primary keyword, satisfying the search intent, yet encouraging the reader to read on for more information. Put this under a heading 2 “Page Excerpt”, don’t add quotes around the content.
+- Considering the latest publicly available Google Quality Guidelines, using an unordered list, list the top 3-5 URLs that have the best content under a heading 2 “References”.
+
+You’re assigned this task with special notes to keep in mind the following:
+- Follow the most recent publicly available Google Quality Rater guidelines
+- Google E-A-T guidelines need to be met.
+- The research needs to consider that the content is meant to be useful for the end reader, is easy to read, quickly answers the searcher’s intent, and provides value immediately.

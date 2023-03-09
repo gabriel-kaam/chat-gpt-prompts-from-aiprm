@@ -1,0 +1,22 @@
+AuthorName: Markvix
+AuthorURL: https://markvix.com/
+
+Title: Generate custom Google Business Profile post (GMB)
+Category: writing
+Teaser: Generate custom post or update for your Google Business Profile within under 1500 characters limit.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-05T11:10:56.932Z
+Help: 
+ID: 1797918956431073280
+OwnPrompt: 
+PromptHint: [Business name][Topic][Keywords] 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T11:52:44Z
+Usages: 111
+Views: 190
+Votes: 0
+
+Prompt:
+Generate custom content for Google Business Profile post or update in [TARGETLANGUAGE] from given [PROMPT] 

@@ -1,0 +1,24 @@
+AuthorName: Touchpoint Media
+AuthorURL: https://www.touchpointmedia.fr/
+
+Title: Original and optimized SEO content plan
+Category: ideation
+Teaser: Create an original and successful content plan based on the first 3 results of Google.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-07T14:34:25.48Z
+Help: 
+ID: 1788548078287187968
+OwnPrompt: 
+PromptHint: [Plan of first position + second + third + keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T08:59:42Z
+Usages: 262
+Views: 756
+Votes: 5
+
+Prompt:
+You are an SEO expert. In [TARGETLANGUAGE] you will use the following 3 content plans to create a new one covering everything to know about the subject of the keyword indicated at the very end. The plan must be inspired by others that I give you but must be original. You will use synonyms, rephrase or change the order of Hn tags if relevant. You have to give me the plan, not write me the content. 
+[PROMPT]
+Be sure to write everything in [TARGETLANGUAGE].

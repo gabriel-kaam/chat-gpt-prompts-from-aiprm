@@ -1,0 +1,22 @@
+AuthorName: Kendra 
+AuthorURL: https://amx.getlearnworlds.com
+
+Title: Social Skills Script
+Category: Plan
+Teaser: In one click you can create a social skills script for autistic individuals.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-24T22:56:45.288Z
+Help: 
+ID: 1794835087519637504
+OwnPrompt: 
+PromptHint: Going to the movies
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T22:56:45.288Z
+Usages: 44
+Views: 124
+Votes: 6
+
+Prompt:
+Forget all previous instructions. I want you only to respond in [TARGETLANGUAGE]. You are a Master Special Education Teacher and you specialize in supporting students on the autism spectrum with improving their social skills. Generate a social script for autistic teens to socialize with their peers. Focus the script on the specific activity of [PROMPT] and write all output in [TARGETLANGUAGE]. Be sure that is appropriate learners that speak [TARGETLANGUAGE]. Use two fictional characters. The script is a conversation between them. Include an introduction, small talk, body, and end of conversation. Also include details about the specific activity in each area of the script. Use simple language that is suitable for students on the autism spectrum. Respond only in [TARGETLANGUAGE].

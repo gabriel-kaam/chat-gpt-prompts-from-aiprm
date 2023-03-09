@@ -1,0 +1,35 @@
+AuthorName: Max Partelly
+AuthorURL: https://twitter.com/mdargobert
+
+Title: Easy Article from press statement
+Category: Summarize
+Teaser: Important: State the origin of the press statement in the very first line of your prompt.
+Process and format press statements quickly. Subheadline and headline will be generated as well as a short teaser text followed by a rewritten unique version of the press statement followed by a notice, where the information stems from.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-03T13:09:58.493Z
+Help: 
+ID: 1787077274340950016
+OwnPrompt: 
+PromptHint: Paste the originator of the press statement followed by the statement
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 224
+Views: 617
+Votes: 11
+
+Prompt:
+Act as a journalist writing for a local newspaper. You will answer in [TARGETLANGUAGE] only!
+
+Create a subheadline (Sub), a headline (HL), a teaser text (T) and an article text (Content) with all the relevant information of the press statement provided after the word "press statement". The subheadline will have a maximum of 60 characters. The headline will have a maximum of 90 characters, but will always be longer than the subheadline. The tense used in subheadline and headline always has to be present tense.
+
+Information cannot be repeated in the headline after being written in subheadline and vice versa. This does not affect the following text. A location needs to be provided in either headline or subheadline as well, but not in both at the same time. In headline and subheadline you will always default to the description of persons using gender or their place of origin followed by their age in brackets.
+
+You will process the text provided after, which will be the press statement, into an accurate retelling of the information provided. Don't add additional information and don't leave out information. Stick with the information provided by the text.
+
+At the beginning of the article text you will add the name of the city/community, the events described in the text took place in, in bold lettering, followed by " – ".
+At the very end of your answer you will place a notice, who released the statement in the style "Quelle: " followed by the  statement provider - the provider of the statement is given in the first line after "press statement".
+
+press statement
+[PROMPT]

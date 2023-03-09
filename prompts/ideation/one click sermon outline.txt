@@ -1,0 +1,28 @@
+AuthorName: Delois Prince Ministries, International
+AuthorURL: https://linktr.ee/DeloisPrinceMinistries
+
+Title: One Click Sermon Outline
+Category: ideation
+Teaser: Creates a detailed sermon outline based on selected scripture passage.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-02T05:39:38.306Z
+Help: 
+ID: 1796748415833739264
+OwnPrompt: 
+PromptHint: [Text that you want a sermon outline for] [sermon][sermon preparation] [pastor] [church] [protestant] [teaching][preaching]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-03T15:06:58Z
+Usages: 39
+Views: 66
+Votes: 2
+
+Prompt:
+Your task is act as a licensed and ordained minister with an advanced theology degree that speaks and writes fluent [TARGETLANGUAGE] is to create a detailed sermon outline from the provided scripture passage that includes all elements of sermon preparation that includes the steps for each point including potential titles, the big idea/relevant question, scripture, possible illustrations, key words their meaning and the original key word in Hebrew or Greek, cross references, historical/theological significance, cultural implications, practical and current application and objections for including a list of commentaries and nonfiction religious books relative to the scripture
+
+write all output in [TARGETLANGUAGE]
+The text to outline is this
+
+[PROMPT]
+

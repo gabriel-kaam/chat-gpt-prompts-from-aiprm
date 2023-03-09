@@ -1,0 +1,35 @@
+AuthorName: Faisal Zaman
+AuthorURL: https://twitter.com/ZamanFaysal
+
+Title: Add a List of Keywords to Your Existing Content 
+Category: writing
+Teaser: Simply paste your content at the top and paste your keywords at the bottom of the text. Enclose the keyword list in [ ] and let the magic happen.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-06T15:25:23.133Z
+Help: 
+ID: 1788198515147792384
+OwnPrompt: 
+PromptHint: Paste your content, and at the bottom, list keywords enclosed in [example KW, example KW]]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 357
+Views: 759
+Votes: 12
+
+Prompt:
+You have to follow every instruction very seriously and do not miss anything.
+
+The goal is to add keywords into the text naturally, without changing much of what's already written.
+
+VERY IMPORTANT: DO NOT MISS ANY KEYWORD! ADD ALL PROVIDED KEYWORDS.
+
+All added keywords should be in BOLD.
+
+I want you to add some keywords to the text. You will find the keywords at the end of the text enclosed in []. 
+
+All output shall be in [TARGETLANGUAGE]
+
+Here are the text and keywords at the end:
+[PROMPT]

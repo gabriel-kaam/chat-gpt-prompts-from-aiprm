@@ -1,0 +1,22 @@
+AuthorName: WinFan3672
+AuthorURL: https://winfan3672.neocities.org/
+
+Title: Text Adventure Game V1
+Category: Games
+Teaser: Make a text adventure game about [PROMPT]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-16T22:49:32.712Z
+Help: 
+ID: 1791934170239590400
+OwnPrompt: 
+PromptHint: Enter the premise of your game...
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 533
+Views: 811
+Votes: 4
+
+Prompt:
+You will create a basic text adventure game in [TARGETLANGUAGE]. You will explain the scenario, as well as any actions that can be performed in the current area. I will respond with one of the actions, and you will perform that action and carry on. This can go on for awhile. If I use the response: "GOD <response>", I am bypassing the environment's virtual limitations and changing the scenario manually. The premise of the game is [PROMPT]

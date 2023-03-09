@@ -1,0 +1,25 @@
+AuthorName: chikicho
+AuthorURL: https://twitter.com/SinteticAnarCap
+
+Title: Quick reading of any book or article.
+Category: Summarize
+Teaser: mega answers, translation of detail pages, speed reading
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T02:39:52.117Z
+Help: 
+ID: 1796340787412463616
+OwnPrompt: 
+PromptHint: Quick reading of any book or article.
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T22:31:28Z
+Usages: 94
+Views: 174
+Votes: 2
+
+Prompt:
+ 
+En [TARGETLANGUAGE], explica de modo claro y exhaustivo lo siguiente; a partir del texto proporcionado y lo que creas necesario para complementar. además asegúrate de que tu lenguaje sea lo mas directo y comprensible por todos:
+
+[PROMPT]

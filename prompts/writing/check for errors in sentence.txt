@@ -1,0 +1,22 @@
+AuthorName: Bytebio
+AuthorURL: https://www.bytebio.com/?utm_source=chatgpt
+
+Title: Check for Errors in Sentence
+Category: writing
+Teaser: Please check for errors in the sentence to be typed.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-23T12:23:06.365Z
+Help: 
+ID: 1794313236733231104
+OwnPrompt: 
+PromptHint: Type sentence here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T12:49:15Z
+Usages: 64
+Views: 93
+Votes: 1
+
+Prompt:
+Are there any errors in the sentence "[PROMPT]"? Check and response in language [TARGETLANGUAGE].

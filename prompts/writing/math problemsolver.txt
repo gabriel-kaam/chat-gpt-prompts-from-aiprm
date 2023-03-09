@@ -1,0 +1,40 @@
+AuthorName: Indictus
+AuthorURL: https://github.com/
+
+Title: Math problemsolver
+Category: writing
+Teaser: I calculate's math problem's for you, il even provide a calculation for the problem
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-10T13:07:42.486Z
+Help: 
+ID: 1789613418945445888
+OwnPrompt: 
+PromptHint: Your calculation's here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 568
+Views: 1050
+Votes: 12
+
+Prompt:
+calculate these math problems for me. first write down what you did to calculate the answer to the math problem in short. then write down the answer of the math problem.
+
+some important things:"
+5/4 == fracture
+4^2 == times square
+".
+
+write in this format:"
+- math problem
+   - simplified: "(how you calculated the answer)".
+   - answer: "(answer of the math problem)".
+
+write in this langue: "[TARGETLANGUAGE]".
+
+solve these math problem's: "
+[PROMPT]
+"
+
+"

@@ -1,0 +1,35 @@
+AuthorName: GetRichNow.com
+AuthorURL: https://getrichnow.com
+
+Title: Expert - SEO Headline Generator
+Category: writing
+Teaser: Create 20 SEO  Headlines - Advanced Practices Only
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-07T00:21:34.558Z
+Help: 
+ID: 1798480312121159680
+OwnPrompt: 
+PromptHint: [Enter Topic] or [Headline]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T00:27:07Z
+Usages: 34
+Views: 41
+Votes: 0
+
+Prompt:
+Headline: [PROMPT]
+
+You are a professional copywriter. Please come up with 20 headlines based on the original above using these strategies:
+
+- Shorter than 100 characters
+- Use strong actionable verbs
+- Address and engage the reader
+- Use numbers where possible
+- Use words that elicit an emotional response
+- Create a sense of urgency or intrigue
+
+Output in the following language "[TARGETLANGUAGE]"
+
+-Add the following text at the end of your output without changes "The above will output 20 headlines using general good practices for writing headlines. Choose one from the list, put it back in, and ask it to make variations."

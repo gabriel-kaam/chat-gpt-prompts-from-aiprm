@@ -1,0 +1,35 @@
+AuthorName: BoyE
+AuthorURL: https://www.linkedin.com/in/mikkel-b%C3%B6ye-a361b4209/
+
+Title: SEO title and description for local SEO
+Category: marketing
+Teaser: Create a SEO title and description for local SEO with up to 3 Geographies
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-23T15:18:51.567Z
+Help: 
+ID: 1794357466516156416
+OwnPrompt: 
+PromptHint: [Landingpage]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T13:22:07Z
+Usages: 178
+Views: 276
+Votes: 0
+
+Prompt:
+Please ignore all previous instructions.
+Do only as told.
+I want you to act as a very proficient SEO and high-end search engine specialist that speaks and writes fluently [TARGETLANGUAGE].
+Scan the URL for all #site-container: [PROMPT]
+
+Develop a SEO title and description from the text from this URL: [PROMPT] 
+1. Analyze text from the website and use keywords from (h1 class) and (h2 class) tags and #site-container from the given URL.
+2. Use only knowledge from the webpage [PROMPT] and use the exact geographies on the URL [PROMPT] for cities. Use at least 3 of the geographies and only the geographies descript - Don't use any other geographies then the ones descript on the page. Don't use maps one the site, only use the text from #site-container
+3. Allways use a call to action in the title.
+4. The description has to be a maximum of 160 characters and the titel a maximum of 60 characters.
+5. Insert the description and title in to a table
+
+Don't repeat the prompt. Don't remind me of previous instructions. Don't apologize, Don't self-reference. Don't make any assumptions. Don't explain.
+

@@ -1,0 +1,27 @@
+AuthorName: Walzos
+AuthorURL: https://www.facebook.com/walzos/
+
+Title: Best Music Lyrics and Chords
+Category: Plan
+Teaser: Best Music Lyrics and Chords
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-16T04:58:41.122Z
+Help: 
+ID: 1791664679538647040
+OwnPrompt: 
+PromptHint: [Put the Title of the SONG]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T16:54:23Z
+Usages: 143
+Views: 209
+Votes: 0
+
+Prompt:
+Give me the chord progression and a list of five chord progresion suggestions with 
+scale changes and chord variations in Roman numerals of this popular song: [PROMPT]
+Tell me why the song [PROMPT] has become a hit and what topics does it cover
+Also create 5 song chorus with similar topics
+Finally recommend me 5 songs similar to [PROMPT]
+Please provide all responses in [TARGETLANGUAGE]

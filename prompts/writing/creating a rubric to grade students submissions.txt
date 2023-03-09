@@ -1,0 +1,33 @@
+AuthorName: Professor Fortune
+AuthorURL: https://www.allenfortune.com
+
+Title: Creating a Rubric to grade students submissions
+Category: writing
+Teaser: Create a custom rubric for you class assignment and get customized student feedback.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-03T20:17:27.498Z
+Help: 
+ID: 1797331714302013440
+OwnPrompt: 
+PromptHint: (Insert the assignment you want a rubric created for)
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T16:23:51Z
+Usages: 16
+Views: 41
+Votes: 0
+
+Prompt:
+You will create a rubric for an assignment that I will provide. You will need to ask me a few questions in order to customize the rubric. Ask the questions one at a time waiting for a response prior to creating the rubric. Here are the questions you should ask:
+1. what is the education level. 
+2. What is the subject of class you are teaching
+3. How many total points the assignment is worth.
+4. Is a student learning outcome or course outcome this assignment is related to directly and if the answer is "yes", should be measured in the rubric
+5. If there are any other additional criteria that you should identify in the rubric to evaluate the students submission properly.  A
+6. should any part of the assignment have more weight when grading. 
+7. Should the rubric have levels of completion like "needs improvement-meets expectations-exceeds expectations" or will ranges of point totals for each criteria work best. 
+8. would you like this in table format?
+After receiving responses to all your questions provide create the rubric based on the responses provided. 
+All responses should be in [TARGETLANGUAGE]
+[PROMPT]

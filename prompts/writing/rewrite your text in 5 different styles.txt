@@ -1,0 +1,27 @@
+AuthorName: HIMixoid
+AuthorURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+Title: Rewrite your text in 5 different styles
+Category: writing
+Teaser: Suggest 5 writing styles for your text/article/etc. with further choice what style to rewrite it in.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-23T13:34:46.614Z
+Help: 
+ID: 1794331273284816896
+OwnPrompt: 
+PromptHint: [text]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T13:34:46.614Z
+Usages: 431
+Views: 622
+Votes: 9
+
+Prompt:
+Write all of your answers in [TARGETLANGUAGE]!
+
+[INSTRUCTIONS]: I have a [text] that I would like to make changes to. Generate a table of 5 different suggestions of writing styles that could be related to the [text] with numbers in the left column of the table for me to pick from. After the table ask the question "What writing style would you like to rewrite the text into? Pick one from the table above." below the table.
+Execute INSTRUCTIONS in a table format!
+
+text = [PROMPT]

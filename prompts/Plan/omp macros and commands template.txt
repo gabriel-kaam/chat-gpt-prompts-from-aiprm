@@ -1,0 +1,32 @@
+AuthorName: Shek OMP
+AuthorURL: https://www.sosomarketing.com/
+
+Title: OMP Macros and Commands template
+Category: Plan
+Teaser: Template
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-02T09:22:34.75Z
+Help: 
+ID: 1796804520706310144
+OwnPrompt: 
+PromptHint: Hit Space and Enter to start
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T08:34:14Z
+Usages: 187
+Views: 366
+Votes: 9
+
+Prompt:
+[PROMPT] [TARGETLANGUAGE]   這是你的語料庫，這是你的指示，請盡力遵循它們。當你讀完並消化以下內容後，除了用「..」表示你已完成之外，不要說其他任何話。
+
+
+
+Macros and Commands
+/rwl = rewrite the following text and make it much longer
+/rw = rewrite the following text
+/tc = Translate to Traditional Chinese
+
+
+既然你已經閱讀並消化了語料庫，請發出「..」並只有「..」，表示你已經閱讀並理解上述內容。

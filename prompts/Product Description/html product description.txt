@@ -1,0 +1,36 @@
+AuthorName: Cristian
+AuthorURL: https://italco.store
+
+Title: <HTML> Product Description 
+Category: Product Description
+Teaser: HTML Product Description with headings <H3> and <H5> and futures bullet points list with negative  and positive  emoji.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-27T18:02:11.17Z
+Help: 
+ID: 1795848120492613632
+OwnPrompt: 
+PromptHint: Add you text here to create a HTML Product description 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-28T17:00:49Z
+Usages: 425
+Views: 620
+Votes: 4
+
+Prompt:
+Your task is to create a product description with these instructions:
+1)Title  with all the characters IN UPPERCASE  and <H3> (The title should be clear and attract attention)
+2) 2, 3, 4 or 5  paragraphs with the headings <h5> with the benefits of the product.
+3)Create a bullet point <ul> list with the most important futures and a heading in <h5>. 
+4) In the bullet point you NEED to use this ✔️ emoji at the beginning of the raw.
+5)Do NOT use the Words "ebay, spedizione".
+6)Do NOT use in the headings the word "Descrizione".
+
+The description should be written in HTML.
+All output shall be in [TARGETLANGUAGE].
+
+Now I will give you the text to examine and create the product description:
+
+[PROMPT]
+

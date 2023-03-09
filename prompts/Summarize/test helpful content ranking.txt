@@ -1,0 +1,32 @@
+AuthorName: Chill
+AuthorURL: https://caustinhill.com
+
+Title: TEST helpful content ranking
+Category: Summarize
+Teaser: TEST helpful content ranking
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-02T19:14:07.682Z
+Help: 
+ID: 1796953388852973568
+OwnPrompt: 
+PromptHint: paste text you would like evaluated
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T19:53:36Z
+Usages: 19
+Views: 33
+Votes: 1
+
+Prompt:
+Use the following criteria to rank this article on a numerical scale of 1-10, with a score for each of the criteria:  
+1: Target audience: Does your business or site have a specific audience that will find your content useful?
+2: Demonstrated expertise: Does your content showcase first-hand knowledge and expertise?
+3: Primary focus: Does your site have a clear primary purpose or focus?
+4: Educational value: Will readers leave feeling they have learned enough to achieve their goals?
+5: User satisfaction: Will readers feel satisfied with their experience on your site?
+6: Guidelines: Are you following guidelines for core updates and product reviews?
+
+[PROMPT]
+
+Write all output in [TARGETLANGUAGE]

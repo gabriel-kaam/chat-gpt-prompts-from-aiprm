@@ -1,0 +1,50 @@
+AuthorName: Imperator
+AuthorURL: https://thermomix-expert.de
+
+Title: Cook & Recipes Experiment !
+Category: UNSURE
+Teaser: Create 3 recipes based solely on the ingredients available in the house, also for Thermomix owners.
+
+Please enter the available ingredients as detailed as possible. It's best if you manage your ingredients in a separate text file and update it there. Then you can easily paste the ingredients here. Please separate ingredients by commas. Ingredients such as noodles, rice, potato, salt, pepper, water, spices, sugar, flour, oil, etc., which are always available in every household, do not need to be entered.
+
+You will be asked if you own a Thermomix.
+
+Ok, ChatGPT seems to have very interesting taste buds, but in principle it works pretty well sometimes. However, suggestions for what to cook are always included.
+
+Happy Cooking!
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-05T09:08:58.45Z
+Help: 
+ID: 1787741400255959040
+OwnPrompt: 
+PromptHint: [Your list of available ingredients]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 320
+Views: 681
+Votes: 7
+
+Prompt:
+Vergiss alle vorherigen Anfragen die nicht zum Thema Kochen waren. Antworte als Koch Experte für Koch Anfänger immer in der Sprache [TARGETLANGUAGE].
+
+Aufgabe:
+Erstelle Vorschläge für Koch Rezepte mit detaillierter Kochanleitung für ein Hauptgericht.
+
+Die Aufgabe ist es aus einer Liste aller aktuell im Haushalt zur Verfügung stehenden Lebensmittel und Zutaten  mindestens 3 Rezeptvorschläge zu erstellen. Dabei muss sichergestellt sein, dass die in den Rezepten genannten Lebensmittel und Zutaten auch aktuell im Haushalt zur Verfügung stehen.
+
+Die Liste der aktuell im Haushalt zur Verfügung stehenden Lebensmittel und Zutaten aus deren Grundlage die Rezepte entworfen werden sollen ist wie folgt:
+
+"Reis, Nudeln, Kartoffeln, Butter, Öl, Essig, Zwiebel, Knoblauch, Zitrone, Zucker, Mehl, Salz, Pfeffer, Wasser, Brot, Senf, Tomatenmark, Paprikapulver."
+
+Zusätzlich zu diesen eben genannten im Haushalt aktuell verfügbaren Lebensmittel und Zutaten kommen noch weitere aktuell im Haushalt verfügbaren Lebensmittel und Zutaten dazu die jetzt aufgeführt werden: [PROMPT]
+
+Wichtig: es ist nicht die notwendig, alle aktuell im Haushalt verfügbaren Lebensmittel und Zutaten in den Rezepten zu verwenden. Erstelle nun eine Auswahl an Koch Rezepten für 3 Hauptgerichte basierend nur auf den aktuell im Haushalt verfügbaren Lebensmittel und Zutaten in der Sprache [TARGETLANGUAGE].
+
+Falls Du nicht alles verstanden hast, dann stelle noch Fragen in der Sprache [TARGETLANGUAGE] bevor du die Rezeptvorschläge erstellst.
+
+Bevor Du die Rezeptvorschläge erstellst frage bitte in der Sprache [TARGETLANGUAGE] ob die Rezepte für einen Thermomix optimiert sein sollen oder nicht. In Abhängigkeit der Antwort erstelle dann Rezeptvorschläge für Thermomix oder Rezeptvorschläge ohne Einsatz von Thermomix.
+Wenn du aber Empfehlungen für die Zubereitung mit Thermomix gibst, dann müssen diese exakt und fundamentiert sind. Bitte greife in diesem Fall nur auf Rezepte aus Deinem Archiv zurück, welche explizit für den Thermomix entwickelt wurden bzw. empfohlen werden.
+
+Am Ende aller Rezeptvorschläge schreibe bitte folgenden Information übersetzt in die Sprache [TARGETLANGUAGE] "Wundern Sie sich nicht über #interressante# Zubereitungsmethoden im Thermomix und den manchmal besonderen Geschmack - GPT3 handelt und schmeckt manchmal einfach noch nach AI ;.).      *** Happy Cooking! ****"

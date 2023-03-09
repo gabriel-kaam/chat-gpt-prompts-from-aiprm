@@ -1,0 +1,37 @@
+AuthorName: andyC
+AuthorURL: https://medium.com/@andyC_94614
+
+Title: Ultimate Gourmet Michelin-Star Recipes
+Category: Plan
+Teaser: Unlock the secrets to Michelin-star cooking and impress your dinner guests with a delectable dish that will take their breath away, all with just a simple keyword!
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-01T00:19:59.293Z
+Help: 
+ID: 1796305585357197312
+OwnPrompt: 
+PromptHint: Beef
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T06:12:25Z
+Usages: 56
+Views: 116
+Votes: -1
+
+Prompt:
+Write a Michelin star [PROMPT] recipe as if it was written by the best chef in the world.
+Structure the recipe in this order:
+
+Name:
+Description:
+Cook Time and Servings:
+Nutrition Information:
+Ingredients:
+Vegan Substitutions:
+Special Equipment:
+Instructions:
+Notes:
+
+Important: The recipe should include subheadings. DO NOT write anything apart Name, Description, Cook Time, Servings, Nutrition Information, Ingredients, Vegan Substitutions, Special Equipment, Instructions and Notes. Make sure the whole recipe is NOT MORE than 3000 words!
+
+Recipe will be written in [TARGETLANGUAGE]

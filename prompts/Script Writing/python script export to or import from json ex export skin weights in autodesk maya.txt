@@ -1,0 +1,37 @@
+AuthorName: Subbu Addanki
+AuthorURL: https://www.creaturerigging.com/
+
+Title: Python Script: Export To (or) Import From JSON. Ex: Export Skin Weights in AutoDesk Maya
+Category: Script Writing
+Teaser: Create Python Script For AutoDesk Maya
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-03T17:08:51.933Z
+Help: 
+ID: 1787137393145679872
+OwnPrompt: 
+PromptHint: Write python script: “Export Skin Weights to JSON file” for Autodesk Maya
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 103
+Views: 354
+Votes: 1
+
+Prompt:
+Write [TARGETLANGUAGE] script: [Describe Script Here] for [Software Name]
+[PROMPT]
+            ▪ [Main query/title] options:
+                • [bullet point 01]
+                • [bullet point 02]
+                • And so on
+
+            ▪ Generic options [mostly needed for all the tools]
+                • [bullet point 01 -Use ‘pymel.core as pm’]
+                • [bullet point 02 -Write comments]
+                • And so on
+
+            ▪ Specific options needed for this tool
+                • [bullet point 01]
+                • [bullet point 02]
+                • And so on

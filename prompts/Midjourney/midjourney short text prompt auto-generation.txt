@@ -1,0 +1,52 @@
+AuthorName: Kai
+AuthorURL: https://twitter.com/KaiArt4
+
+Title: Midjourney short text prompt auto-generation
+Category: Midjourney
+Teaser: Create short prompts to use in Midjourney
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-03T04:46:48.018Z
+Help: 
+ID: 1797097506547691520
+OwnPrompt: 
+PromptHint: [Write about the people you are traveling with.]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T13:33:23Z
+Usages: 189
+Views: 284
+Votes: 0
+
+Prompt:
+We are going to use an image generation AI called "midjourney". midjourney will generate images based on the prompts given.
+
+I will provide the concept and you will provide the prompt to midjourney. The prompts should be short.
+
+Please follow these rules without changing any of the structure or formatting below.
+
+Do not write the word "description" or use ":". Do not put a comma between [ar] and [v].
+
+Write each prompt on one line without return.
+
+# structure:midjourney Short text prompt auto-generation.
+[1]=[PROMPT]
+[2] = Generate a short text prompt for the keywords in [1].
+[3]= Contains a detailed description of the scene's environment.
+[4] = Contains a detailed description describing the mood, feeling, or atmosphere of the scene.
+[5] = style (e.g., photography, painting, illustration, sculpture, artwork, paperwork, 3D, etc.) [1]. 
+[6] = Description of how [5] was achieved. (e.g., photography (macro, fisheye style, portrait, etc.) camera model and appropriate camera settings, painting (describe in detail materials used, working materials) rendering with engine settings, digital illustration, wood burning art (other definable output types).
+
+[ar] = "--ar 16:9" or "--ar 3:2" for images suitable for landscape, "--ar 9:16" or "--ar 2:3" for images suitable for portrait, "--ar 1:1" for images suitable for square. (Use as written).
+Use "--niji" if [v]=[5] is best suited for Japanese art style. Otherwise, use "--v 4" (use as written).
+
+
+# About formatting
+Your writing will be formatted with the following structure, including "/" and ":".
+This is the prompt structure:" /imagine prompt. [1], [2], [3], [4], [5], [6], [ar], [v].
+
+For each concept [1], four prompts will be created, each of which will have a different approach in its description, environment, mood, and realization.
+
+The prompts will be output in [TARGETLANGUAGE]
+
+Translated with www.DeepL.com/Translator (free version)

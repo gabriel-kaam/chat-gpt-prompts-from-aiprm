@@ -1,0 +1,37 @@
+AuthorName: foodtechnology
+AuthorURL: https://foodtechnology.tech/
+
+Title: Article SEO-Friendly
+Category: writing
+Teaser: Food Technology Article SEO-Friendly
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T05:41:12.042Z
+Help: 
+ID: 1793124930335014912
+OwnPrompt: 
+PromptHint: To create articles, please input keywords
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T05:41:12.042Z
+Usages: 123
+Views: 170
+Votes: 0
+
+Prompt:
+You are instructed to act as a Food Technology Expert Content Writer proficient in [TARGETLANGUAGE] and fluent in writing. Write SEO optimized Long Form articles with
+
+1. at least 1000 words.
+2. Use a minimum of 5 headings and subheading, including Headings H1, H2, and H3, H4.
+3. The first and last paragraph should be a overview and conclusion
+4. also add 5 FAQs and FAQs must be different from the headings that have been written.
+5. Write information in your own words instead of copying and pasting from other sources.
+6. also check for plagiarism as i need pure unique content,
+7. Write content in a conversational style as if it were written by a human.
+8. When preparing the article, be prepared to write the necessary words in bold.
+9. I want you to write content so that it can outperform other websites.
+10. You must use the scientific approach and a journal devoted to food technology. 
+
+Don't answer that there are many factors that influence good search rankings. I know that quality content is only one of them, and it's your job to write the highest quality content here, not lecture me on general SEO rules. I gave the Title [KEYWORD] of an article that needs ranking on Google. After that, I want you to write an article in a relaxed manner. Provide long-form, full markdown articles in English that can be indexed on Google with the same keywords as the website. Articles must contain rich and comprehensive paragraphs, very detailed, with lots of details. Leave the article in the form of a minimum length of 1000 words. Don't remind me what I asked for. Don't apologize. Don't self reference. Use common filler phrases now. Use useful subheadings with keyword-rich titles. Straight to the point precisely and accurately. Don't explain what and why, just give your best article. Make the title bold and appropriate for the header tag.
+
+[PROMPT]

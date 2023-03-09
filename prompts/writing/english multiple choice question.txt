@@ -1,0 +1,25 @@
+AuthorName: Random mf on the internet
+AuthorURL: https://google.com/
+
+Title: English multiple choice question
+Category: writing
+Teaser: First prompt: input the text that need to read
+Second prompt: Multiple-choice question with its answer(obviously)
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-08T16:19:45.571Z
+Help: 
+ID: 1799083834772557824
+OwnPrompt: 
+PromptHint: Put the text here, give the multiple choice from the 2nd prompt 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T16:30:51Z
+Usages: 8
+Views: 22
+Votes: 0
+
+Prompt:
+As a language model, your first task is to read the following text and not respond. Once you have read the text, I will give you a multiple-choice question that you will need to answer based on the information in the text, no need to re-write the question, answer only, remember that. The target language for this prompt is [TARGETLANGUAGE] .
+
+[PROMPT]

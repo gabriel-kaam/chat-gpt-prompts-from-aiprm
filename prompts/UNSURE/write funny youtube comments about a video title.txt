@@ -1,0 +1,22 @@
+AuthorName: Kxffie
+AuthorURL: https://www.youtube.com/channel/UCoKzETf2enGb9eGPXiLZBEA?sub_confirmation=1
+
+Title: Write funny youtube comments about a video title
+Category: UNSURE
+Teaser: Write funny youtube comments based off title
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-01T23:34:32.94Z
+Help: 
+ID: 1786509677832691712
+OwnPrompt: 
+PromptHint: [YOUTUBE TITLE]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 755
+Views: 1123
+Votes: 8
+
+Prompt:
+write a funny youtube comment about the youtube video called "[PROMPT]". Only write it in [TARGETLANGUAGE] and do not repeat yourself.

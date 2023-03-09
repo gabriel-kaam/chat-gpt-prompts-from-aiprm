@@ -1,0 +1,22 @@
+AuthorName: Nico Promts
+AuthorURL: https://www.linkedin.com/in/nlafakis/
+
+Title: Create Buyer Personas based on given URL
+Category: marketing
+Teaser: Create buyer personas from a URL (best results from About Us pages)
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-13T18:36:15.856Z
+Help: 
+ID: 1790783266408882176
+OwnPrompt: 
+PromptHint: [number of personas][URL address]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T19:02:45Z
+Usages: 819
+Views: 1274
+Votes: 18
+
+Prompt:
+All output shall be in [TARGETLANGUAGE]. I want you to act as an expert content marketer. Your job is to create buyer personas. A persona is a fictional representation of a brand's typical customer. You will create [PROMPT] buyer personas. Include demographics, challenges, identifiers, and goals for each persona. Use the following URL as your reference [PROMPT]:

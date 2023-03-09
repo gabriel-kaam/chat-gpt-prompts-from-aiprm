@@ -1,0 +1,24 @@
+AuthorName: Charlie
+AuthorURL: https://www.youtube.com/
+
+Title: Meal Plan diet
+Category: Plan
+Teaser: Create an healthy and balanced diet
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-23T10:21:34.737Z
+Help: 
+ID: 1794282653428740096
+OwnPrompt: 
+PromptHint: [describe your goal and describe your eating habits]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T10:25:17Z
+Usages: 251
+Views: 491
+Votes: 4
+
+Prompt:
+MEAL PLAN for a healthy and balanced diet.
+All output shall be in [TARGETLANGUAGE] 
+The text is this [PROMPT]

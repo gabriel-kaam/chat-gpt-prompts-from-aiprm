@@ -1,0 +1,30 @@
+AuthorName: Matt MacPherson
+AuthorURL: https://edabit.com
+
+Title: Recipe from Fridge Ingredients
+Category: UNSURE
+Teaser: List the contents of your fridge (comma separated) and ChatGPT will generate a recipe. Will assume you have access to salt and pepper, butter, sugar, and other common cooking essentials.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-18T00:31:04.703Z
+Help: 
+ID: 1792322109767421952
+OwnPrompt: 
+PromptHint: bread, eggs, ketchup, pasta, etc
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T02:32:11Z
+Usages: 134
+Views: 263
+Votes: 8
+
+Prompt:
+I’m going to give you a list of ingredients in my fridge and you will come up with a recipe using some or all of the listed ingredients.
+
+Assume I have access to salt and pepper, butter, sugar, common spices and other various cooking essentials.
+
+Output the recipe in [TARGETLANGUAGE].
+
+Here is the list of ingredients:
+
+[PROMPT]

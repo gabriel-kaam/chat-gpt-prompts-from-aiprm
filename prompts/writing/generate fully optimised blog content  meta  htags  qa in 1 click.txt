@@ -1,0 +1,28 @@
+AuthorName: Md Mejbahul Alam
+AuthorURL: https://bd.linkedin.com/in/mejbahulalam
+
+Title: Generate fully optimised blog content | Meta | Htags | QA in 1 click
+Category: writing
+Teaser: Generate fully optimised blog content with meta, Htags and QA in 1 click
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-09T10:47:02.034Z
+Help: 
+ID: 1789215629258252288
+OwnPrompt: 
+PromptHint: [Your keyword here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 475
+Views: 755
+Votes: 10
+
+Prompt:
+Generate title for given keyword [TARGETLANGUAGE] 
+Generate meta description for given keyword within 160 character [TARGETLANGUAGE] 
+Write over 1000 words content with suitable heading tags focus on keywords intention, keywords topic and maintain the keyword density  [TARGETLANGUAGE] 
+Generate at least 5 question for given keyword and answer them [TARGETLANGUAGE]
+Write conclusion for given keyword [TARGETLANGUAGE]
+
+[PROMPT]

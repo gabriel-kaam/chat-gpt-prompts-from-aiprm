@@ -1,0 +1,37 @@
+AuthorName: Haseeb Mir
+AuthorURL: https://haseeb-heaven.blogspot.com/2023/02/generate-and-plot-graphs-barpieline-in.html
+
+Title: Graph Generator | Charts like BAR,LINE,AREA,PIE
+Category: Design
+Teaser: Graph Generator is a tool used to generate quick and simple graphs using QuickChart. It allows the user to simply input a query and receive a preview of the graph. The process is simple: the user types in their query using English inside curly brackets, and the program generates a graph based on the input.
+
+ It is a simple and free chart-making tool that can process data from any type of JSON, XML, CSV or Raw format. The program takes advantage of the flexibility and ease of use of QuickChart, allowing users to quickly create and share graphs.
+
+Example 1 : Top 3 BMW Car models
+Example 2 :Top 3 Smartphones in 2020
+Example 3 : {2022    Chrome    Edge    Firefox    Safari    Opera
+October    79.9 %    8.1 %    5.2 %    4.2 %    1.7 %}
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-02-16T21:22:54.361Z
+Help: 
+ID: 1791912366775205888
+OwnPrompt: 
+PromptHint: [Write your query here or Paste your data here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 891
+Views: 2116
+Votes: 19
+
+Prompt:
+I want you to act as a Graphs Generator. I will type query language and you only show me preview of that image that is it  and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in [TARGETLANGUAGE], i will do so by putting text inside curly brackets {like this} and respond back in  [TARGETLANGUAGE] language only. And my first command is [Given the data of "[PROMPT]" insert the data into https://quickchart.io/ for PIE Graph URL.
+
+Now encode this URL but DO NOT PRINT THIS and starting after "https://quickchart.io/chart?c=" part
+using the following rules: replace spaces with "%20" and commas with "%2C.
+
+Now generate me a preview of image of PIE Graph using this URL.
+Using this format.
+"![Title of Image](link of image) and don't use CODEBLOCKS here.
+And image link just copy paste here in this format [Image](link of image) Remember to cite all sources used to obtain the information. Use the following format: [Source](link of source]. Please provide concrete links and do not use fictitious or made-up links.]

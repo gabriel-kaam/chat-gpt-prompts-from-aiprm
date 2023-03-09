@@ -1,0 +1,24 @@
+AuthorName: Pete Cossaboon
+AuthorURL: https://www.PeteCossaboon.com
+
+Title: Elevator Speech
+Category: marketing
+Teaser: Create an elevator speech that will make your perfect client want to work with you
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-09T02:19:02.252Z
+Help: 
+ID: 1799234648023490560
+OwnPrompt: 
+PromptHint: [Who is your client],[What do you],[Client benefits]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T02:20:44Z
+Usages: 12
+Views: 30
+Votes: 0
+
+Prompt:
+Create a one sentence "elevator speech" for a business person to be able to quickly tell a prospect what they do, who they do it for, and what the benefit is for the prospect in what they do. All output should be in the [TARGETLANGUAGE]. The form of the sentence should start out as "I help", then who the prospect is, then what you help them do, and then why that is of benefit to this client avatar prospect. The text to summarize is this:
+[PROMPT],[PROMPT],[PROMPT]
+

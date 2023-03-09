@@ -1,0 +1,24 @@
+AuthorName: InfoMA
+AuthorURL: https://www.google.com/
+
+Title: RPS eCommerce page
+Category: writing
+Teaser: Write the best eCommerce page on which will be highlighted the most important benefits of the product.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T13:45:35.857Z
+Help: 
+ID: 1791072505616928768
+OwnPrompt: 
+PromptHint: [product description you want sales page for] 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 188
+Views: 370
+Votes: 7
+
+Prompt:
+I want you to act as a very proficient conversion copywriter that writes in fluent [TARGETLANGUAGE]. Your task is to write the text based on product decsription but must follow this structure: benefit-focused headline, 3 benefits explained in one sentence. The product description is this: 
+
+[PROMPT] 

@@ -1,0 +1,22 @@
+AuthorName: Julien
+AuthorURL: https://www.linkedin.com/in/bienvenue-sur-le-profil-de-julien-bigot/
+
+Title: Cluster Keywords
+Category: keywords
+Teaser: Cluster prompt
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-09T12:47:28.24Z
+Help: 
+ID: 1789245938162987008
+OwnPrompt: 
+PromptHint: [LIST OF 50 KEYWORDS MAXIMUM]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 163
+Views: 406
+Votes: 0
+
+Prompt:
+[PROMPT] Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE].  I want you to act as a keyword research expert that speaks and writes fluent [TARGETLANGUAGE]. I want you to cluster the keywords into groups based on their semantic relevance (two words maximum for cluster). First I want you to give me back a short over list of cluster topics found. Then I want a list in [TARGETLANGUAGE] as markdown table, with the following columns:  cluster, keyword, language. Here are the keywords : 

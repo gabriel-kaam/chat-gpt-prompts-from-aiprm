@@ -1,0 +1,22 @@
+AuthorName: Santosh Salve
+AuthorURL: https://www.PHPCodeBuilder.com
+
+Title: Meeting Minutes
+Category: writing
+Teaser: Draft the minutes of the meeting for the [PROMPT] with the participants [Participant1],[Participant2] & [Participant3], date and time. write all output in [TARGETLANGUAGE]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-08T11:42:47.057Z
+Help: 
+ID: 1799014131672809472
+OwnPrompt: 
+PromptHint: [Action plan of the meeting]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T11:44:59Z
+Usages: 18
+Views: 31
+Votes: 0
+
+Prompt:
+Draft the minutes of meeting as an active meeting participant. You need to consider the meeting was held today and the time of the meeting was an hour ago. The participants of the meeting were [Participant1],[Participant2] & [Participant3] and the meeting was conducted online using Google Meet or Zoom or Teams.  The duration of the meeting was for 30 minutes where each participating member shared introduction of their respective companies and discussed upon the challenges faced. The summary of the meeting was concluded with the action point of [PROMPT] write all output in [TARGETLANGUAGE].

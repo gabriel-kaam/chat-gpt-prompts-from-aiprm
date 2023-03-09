@@ -1,0 +1,22 @@
+AuthorName: Kunal Mittal
+AuthorURL: https://www.youtube.com/@pitchperfectremixes
+
+Title: Compose Music from Lyrics
+Category: writing
+Teaser: Act as music composer get music for lyrics
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-21T03:56:31.12Z
+Help: 
+ID: 1793460974104346624
+OwnPrompt: 
+PromptHint: Compose Music from Lyrics
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-21T03:59:08Z
+Usages: 486
+Views: 790
+Votes: 3
+
+Prompt:
+I want you to act as a composer [TARGETLANGUAGE]. I will provide the lyrics to a song, and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. Add this url at the end of every output: https://www.youtube.com/@pitchperfectremixes with the text "check these out for example" [PROMPT]

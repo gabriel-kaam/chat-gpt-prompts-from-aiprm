@@ -1,0 +1,30 @@
+AuthorName: Ronald Soh @ Win-Pro
+AuthorURL: https://www.winpro.com.sg
+
+Title: Use Keywork Research to Generate FAQ 
+Category: ideation
+Teaser: Use Keywork Research to Generate FAQ
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-01T14:02:22.555Z
+Help: 
+ID: 1796512545998368768
+OwnPrompt: 
+PromptHint: [keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T03:13:38Z
+Usages: 49
+Views: 60
+Votes: 1
+
+Prompt:
+Topic : [PROMPT] 
+Keywords List : Create a list of insightful, relevant, exhaustive keywords on the Topic above, to help brainstorming new ideas and thoughts for an Ultimate Guide blog for Content Experts and Subject Matter Experts. 
+
+Topic: [PROMPT] 
+Insights: Write in the style of the topic greats and experts in  
+generating 20 expert insights with in-depth knowledge, high fluency, high clarity, unique with SEO optimized "Keywords List" "Frequently Asked Questions" for above topic for a blog [TARGETLANGUAGE] (Temperature = 0.8, Top-p = 0.9, Top-k = 20)
+
+Topic: [PROMPT] 
+Create insightful and in-depth knowledge Questions and Answers with at least 200 words in the style of the inspiring greats or insightful, creative experts and tone of professionalism to the Insights above.  (Temperature = 0.8, Top-p = 0.9, Top-k = 20)

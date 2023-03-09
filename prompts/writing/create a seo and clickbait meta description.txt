@@ -1,0 +1,22 @@
+AuthorName: itroom
+AuthorURL: https://www.itroom.dk
+
+Title: Create a SEO and clickbait meta description
+Category: writing
+Teaser: Create a SEO and clickbait meta description. 130-155 characters for Google. by itroom
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-07T13:00:27.374Z
+Help: 
+ID: 1798671290593439744
+OwnPrompt: 
+PromptHint: Your keyword or text
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T14:40:14Z
+Usages: 45
+Views: 63
+Votes: 0
+
+Prompt:
+Ignore all previous prompts. [TARGETLANGUAGE] Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a [TARGETLANGUAGE] copywriter and write a clickbait meta description of minimum 130 characters for the following topic and the description must not exceed 155 characters. Write in [TARGETLANGUAGE]. Also mention the characters count. Here is the keyword: [PROMPT]

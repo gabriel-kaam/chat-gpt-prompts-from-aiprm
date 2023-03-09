@@ -1,0 +1,25 @@
+AuthorName: Arad
+AuthorURL: https://www.linkedin.com/in/arad-goller-a82705239/
+
+Title: Nutritional Components Of Any Food
+Category: Respond
+Teaser: Nutritional components of any food
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-03T21:21:12.905Z
+Help: 
+ID: 1787200898985099264
+OwnPrompt: 
+PromptHint: [food to show nutritional components]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1029
+Views: 1602
+Votes: 43
+
+Prompt:
+Your task is to write all the nutritional components of a certain food. Write it in bullet points format and add explanation on each bullet point in detail. Each nutritional component should be in bold. All output shall be in [TARGETLANGUAGE]. The food is the following: 
+
+[PROMPT]
+

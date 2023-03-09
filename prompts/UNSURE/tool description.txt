@@ -1,0 +1,22 @@
+AuthorName: Haotian Zheng
+AuthorURL: https://www.linkedin.com/in/haotian-zheng-771796236/
+
+Title: Tool Description
+Category: UNSURE
+Teaser: Describe tools or packages
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-27T15:01:44.142Z
+Help: 
+ID: 1795802708645765120
+OwnPrompt: 
+PromptHint: Tool
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T17:01:16Z
+Usages: 52
+Views: 135
+Votes: 3
+
+Prompt:
+I want you to act as a tool usage description for a set of tools. Describe each tool in detail, which should contain: 1. Tool Name; 2. Print the real sample as Input data [Table blocks]; 3. Code blocks: Scripts for handling the input data; 4. Print the output data [Table blocks]; 5. The explanation for all the arguments [Table blocks]; 6. How to install this tool; 7. Common errors with the tool. Now the tool name is [PROMPT]. It would be best if you used [TARGETLANGUAGE] to answer it.

@@ -1,0 +1,24 @@
+AuthorName: Brand Movers
+AuthorURL: https://www.brandmovers.dk
+
+Title: Blogpost to LinkedIn Post with 5 Headlines
+Category: writing
+Teaser: Create a LinkedIn post from a URL with 5 examples of engaging headlines
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-20T12:30:46.688Z
+Help: 
+ID: 1793228003871031296
+OwnPrompt: 
+PromptHint: Keyword
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-20T12:30:46.688Z
+Usages: 667
+Views: 1097
+Votes: 11
+
+Prompt:
+Transform a blogpost into a high-engaging LinkedIn post that captures the attention of your target audience: CEOs, CMOs, Marketing Managers, and similar positions in marketing. Generate 5 options for a short and attention-grabbing headline that will entice users to click "read more". Don't mention the target audiences in the headline. Create a 1-2 line introduction that hooks the reader and makes them want to keep reading. Distill the most important information from the blog post into bullet points, providing quick insights for the reader in an easy-to-digest format. Ensure the language is simple and the overall post is easy to read. The tone should be informative and captivating, presenting the key takeaways from the blog post without the need for the reader to visit the blog for more information. Note: The output from the prompt should be in [TARGETLANGUAGE] 
+
+The URL for the blogpost is [PROMPT]

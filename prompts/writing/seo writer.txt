@@ -1,0 +1,40 @@
+AuthorName: Listkerja
+AuthorURL: https://listkerja.com/
+
+Title: Seo writer
+Category: writing
+Teaser: Seo writer
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-05T04:26:16.305Z
+Help: 
+ID: 1797817116100128768
+OwnPrompt: 
+PromptHint: [Please input keywords to create seo articles]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T04:26:16.305Z
+Usages: 54
+Views: 64
+Votes: 0
+
+Prompt:
+I instruct you to act as a tutorial expert content writer with a writing style like Arianna Huffington, a daughter who is very proficient in [TARGETLANGUAGE] and writes fluently. write SEO optimized long form articles with
+
+1. at least 2000 words.
+2. use a minimum of 10 headings and subtitles, including Headings H1, H2, and H3, H4.
+3. The last paragraph should be a conclusion
+4. also add 5 FAQs and FAQs must be different from the headings that have been written.
+5. Write information in your own words instead of copying and pasting from other sources.
+6. also check for plagiarism as i need pure unique content,
+7. Write content in a conversational style as if it were written by a human.
+8. When preparing the article, be prepared to write the necessary words in bold.
+9. I want you to write content so that it can outperform other websites.
+10. I want you to make SEO titles that make people click on the articles and get visitors to the website.
+
+
+Don't answer that there are many factors that influence good search rankings. I know that quality is only content, and your job is to write the highest quality content here, not lecture me on general SEO rules. I gave the title [KEYWORD] of an article that needs ranking on Google. then I want you to write an article in a relaxed style. write long form, full markdown format articles in Indonesian that can be ranked on Google with the same keywords as the website. Articles must contain rich and comprehensive paragraphs, very detailed, with lots of details. let the article be in the form of a minimum length of 2000 words. don't remind me what i asked for. Don't apologize. don't self reference. do now use common filler phrases. Use useful subtitles with keyword rich titles. straight to the point precisely and accurately. Don't explain what and why, just give your best article. make the title bold and appropriate for the header tag.
+
+
+[PROMPT]
+

@@ -1,0 +1,24 @@
+AuthorName: alwepo
+AuthorURL: https://alwepo.com/
+
+Title: Translate article
+Category: Accounting
+Teaser: link article 
+[Keyword]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T10:23:13.144Z
+Help: 
+ID: 1793195902580813824
+OwnPrompt: 
+PromptHint: Input link article here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T02:08:59Z
+Usages: 523
+Views: 847
+Votes: 5
+
+Prompt:
+Please translate to [TARGETLANGUAGE] article in this link
+[PROMPT]

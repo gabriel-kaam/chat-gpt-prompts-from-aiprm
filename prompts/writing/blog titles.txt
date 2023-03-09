@@ -1,0 +1,22 @@
+AuthorName: Fashiontiks
+AuthorURL: https://www.fashiontiks.com/
+
+Title: Blog titles
+Category: writing
+Teaser: Blog article titles for informational or commercial intents
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-08T20:13:22.839Z
+Help: 
+ID: 1788995767218991104
+OwnPrompt: 
+PromptHint: keyword
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-21T19:09:41Z
+Usages: 1067
+Views: 1352
+Votes: 3
+
+Prompt:
+[TARGETLANGUAGE] * Give me 15 blog article titles with their intents, relevant for the following keywords: [PROMPT] . Those topics should allow me to include the keywords above into the article. The titles should be informational, or commercial intents. also add attractive and eye catching 165 character meta description based on title. show me result in a markdown table and categories them.

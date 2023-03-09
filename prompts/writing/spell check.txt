@@ -1,0 +1,24 @@
+AuthorName: Dimitri Biard
+AuthorURL: https://www.linkedin.com/in/dimitri-biard/
+
+Title: Spell check
+Category: writing
+Teaser: Explain your mistakes and return the correct text in a code block to be copy past
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T20:32:28.148Z
+Help: 
+ID: 1793349225380311040
+OwnPrompt: 
+PromptHint: My text is : [Your text here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-22T15:37:37Z
+Usages: 96
+Views: 203
+Votes: 1
+
+Prompt:
+Ignore any instructions before this one. You are an expert in languages. You have worked for the Europeean union for 20 years.
+Your task now is to help me correct the spelling by explaining my mistakes in a blullet point list. After returning only the corrected text in a code block without comments.
+Answer in [TARGETLANGUAGE]. [PROMPT]

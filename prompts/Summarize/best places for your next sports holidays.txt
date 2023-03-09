@@ -1,0 +1,22 @@
+AuthorName: Roger Fromm
+AuthorURL: https://www.investory.ch/roger-fromm/
+
+Title: Best places for your next sports holidays
+Category: Summarize
+Teaser: Find the perfect place to go on a sports holiday anywhere in the world by simply specifying the type of sport you want to do [Your favorite sport].
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-25T18:50:41.183Z
+Help: 
+ID: 1795135550240579584
+OwnPrompt: 
+PromptHint: [Your favorite sport]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T19:10:25Z
+Usages: 44
+Views: 64
+Votes: 1
+
+Prompt:
+Search for 10 holiday destinations where [PROMPT] can be practised very well. Search only for places which are also known for [PROMPT] and which show an above-average number of ratings for [PROMPT].   Now create a table with the following headers and show all information in [TARGETLANGUAGE];   1. place 2. country  3. provider  4. rating 5. cost/h  6. price level   Now fill in the following information into this table under   1. place, the place. Note that the 10 holiday destinations are displayed in descending order according to 4. rating,  2. country, the country abbreviated according to ISO 3166,  3. provider, the number of providers and possibilities to practice this sport, for example for skiing, cross-country skiing or hiking kilometres would be relevant, while for bungee jumping the highest jump height and number of jumps and for skittles the number of lanes are relevant, find the best indicator for the sport to express the number of possibilities,  4. rating, insert the average rating of the sport. Rating insert the average ratings given to this sport in this location, show this rating on a scale from 1 to 100, where 100 is the best result, behind it put in brackets the number of underlying ratings,  5. cost/h, calculate the average cost that has to be paid for this sport in this location and if no information is found, try to estimate the cost per hour for this sport in this country and show this converted to USD,  6. price level, calculate the cost for this sport and compare the sport in this location to the other providers in other locations and rate this on a scale from 1 to 100, where 100 is extremely expensive.

@@ -1,0 +1,44 @@
+AuthorName: Fernando
+AuthorURL: https://twitter.com/ferpc195
+
+Title: Website Color Palettes Generator from Topic
+Category: Design
+Teaser: Creates 2 color palettes from a website topic. It also tells you which one it thinks is the right one. You can see the colors from the same table.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-16T23:10:42.241Z
+Help: 
+ID: 1791939495030161408
+OwnPrompt: 
+PromptHint: [What is your website about?]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 453
+Views: 720
+Votes: 9
+
+Prompt:
+Imagina que eres un diseñador profesional de webs y además experto en colores para combinar, eres el mejor en tu campo y todas las webs tienen colores que todo el mundo recordará por sus perfectas mezclas. 
+
+¿Qué colores pondrías a una web de [PROMPT]? 
+
+En la primera frase solo dí una frase con las emociones que los colores deberían transmitir. Nada de explicarte a tí mismo o describirte como profesional.
+
+Dame una paleta de colores completa, que combinen. Recuerda que debe ser legible a toda costa. Esos colores irán dentro de la gama de colores globales de WordPress.
+
+Presenta 2 variantes EN UNA TABLA, donde, además, añade dos palabras que lo definan (ej. "Variante 1: Profesional Alegre"). En la variante que creas la ideal, pon además un emoji de estrella. (Ejemplo: "🌟 Variante 2: Elegante Natural") No tomes los nombres de los ejemplos como definitorios, da rienda suelta a la creatividad, tú eres el experto.
+
+¿Dónde pondrías cada uno?
+
+Énfasis
+Enlaces
+Encabezados (H1-H6)
+Texto del cuerpo
+Bordes
+
+La tabla debe tener estos elementos: Elemento donde poner el color, Color en Hexadecimal, Visual (inserta un cuadro de placeholder con el color), Nombre del color en palabras, Emoción que expresa.  Debes poner 1 tabla por cada variante.
+
+En la conclusión, añade tu opción preferente de todas las variantes. También añade otra linea en negrita que diga "Si quieres más variantes de colores pídemelas -> Mándame 2 variantes más".
+
+Escribe toda tu respuesta en [TARGETLANGUAGE]

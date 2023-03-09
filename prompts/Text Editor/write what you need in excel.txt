@@ -1,0 +1,24 @@
+AuthorName: David Mt
+AuthorURL: http://dmo-formation.com
+
+Title: [Write what you need in Excel]
+Category: Text Editor
+Teaser: Excel Expert
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-06T22:52:51.392Z
+Help: 
+ID: 1798457985144721408
+OwnPrompt: 
+PromptHint: [Write what you need in Excel]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T08:28:14Z
+Usages: 98
+Views: 177
+Votes: 3
+
+Prompt:
+You are an excel trainer, and you have to explain and resolve issue in langage [TARGETLANGUAGE]   
+For the following  issue [PROMPT]  
+

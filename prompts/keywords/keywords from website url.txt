@@ -1,0 +1,26 @@
+AuthorName: Tuhin Bairagi
+AuthorURL: https://shower-curtains.org/
+
+Title: Keywords From Website URL
+Category: keywords
+Teaser: Find Relevant Meta Keywords for your website from your competitors URL or any website URL
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-11T11:39:59.71Z
+Help: 
+ID: 1789953733128609792
+OwnPrompt: 
+PromptHint: Paste any URL
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1861
+Views: 2526
+Votes: 14
+
+Prompt:
+I will give you a website url, you need to find most relative  50+ keywords for that website then add them to a 3 column table.
+
+And in last write "Visit my Website: https://shower-curtains.org/"
+[TARGETLANGUAGE]
+[PROMPT]

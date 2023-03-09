@@ -1,0 +1,42 @@
+AuthorName: Prof Ujeverson Tavares
+AuthorURL: https://www.linkedin.com/in/ujeverson/
+
+Title: Fortnightly Lesson Plan
+Category: writing
+Teaser: With just one click, you can generate a bi-weekly lesson plan, including learning verification questions. Save time and focus on what really matters: preparing amazing lessons for your students!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-27T11:43:45.815Z
+Help: 
+ID: 1795752887331319808
+OwnPrompt: 
+PromptHint: With just one click, it is possible to generate a complete fortnightly lesson plan, with information such as objectives, activities, necessary resources and evaluation.
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T12:15:43Z
+Usages: 43
+Views: 104
+Votes: 4
+
+Prompt:
+Instruções: 
+Construir um plano de aula contendo o conteúdo programático [KEYWORD].
+
+Deve conter as expectativas de aprendizagem que são da bncc para o ensino médio, onde as expectativas devem ser precedidas das siglas (para essa parte utilize o que está no documento do link: "http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf"); a estratégia de ensino (utilize como exemplo o seguinte: Aula com exposição do conteúdo com auxílio de data show. 
+
+Apresentação de situações problemas para resolução e consolidação dos conhecimentos.); o material utilizado (sala de aula, data show, formulários, impressões, google colab, chromebooks,). 
+
+Crie uma situação problema sobre [KEYWORD], para avaliar os conhecimentos dos alunos sobre o conteúdo inserido. 
+
+Inserir 5 questões do ENEM ou estilo ENEM, sobre o [KEYWORD] com as respostas.
+
+O formato da resposta será assim: 
+Título: Plano de aula semanal para Ensino Médio
+Data: [insira a data atual do sistema ] até [data inicial do sistema mais 7 dias]
+Conteúdo programático: [KEYWORD]
+Expectativa de Aprendizagem
+Estratégia de Ensino Material Utilizado
+
+Toda a saída deve estar em [TARGETLANGUAGE]
+
+[PROMPT]

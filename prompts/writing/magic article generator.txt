@@ -1,0 +1,22 @@
+AuthorName: MMM SEO
+AuthorURL: https://bit.ly/m/MMMSEO
+
+Title: Magic Article Generator
+Category: writing
+Teaser: Generate a SEO Optimized article with just 1 click. Proper keyword density, h2, h3, long-form to rank easily on Google. Upvote if you like it.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-28T06:27:53.952Z
+Help: 
+ID: 1784801761488527360
+OwnPrompt: 
+PromptHint: [PASTE KEYWORDS]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 760
+Views: 1041
+Votes: 9
+
+Prompt:
+Write a 100% unique, creative and Human-written article in [TARGETLANGUAGE]* for the Keyword "[PROMPT]". The article should include Creative Title (should be in H1 Heading), Introduction, 3-10 headings (Should be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), and conclusion. Elaborate each heading. Write longer paragraphs for each headings. Explain the headings properly.  Make sure article is plagiarism free. The minimum length of the article should be 2000 words. Don't forget to use question mark (?) at the end of questions. Try not to change the original "[PROMPT]" while writing the Title. Try to use The "[PROMPT]" 5-6 times in article. try to include "[PROMPT]" in headings as well.

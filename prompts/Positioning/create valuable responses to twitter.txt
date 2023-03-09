@@ -1,0 +1,22 @@
+AuthorName: Santiago Guzman Aleans
+AuthorURL: https://es.fiverr.com/santiguzmnalean/create-an-blog-with-ai-and-give-you-a-twitter-traffic-strategy
+
+Title: Create valuable responses to Twitter
+Category: Positioning
+Teaser: Create a short, quick value response to grow on Twitter quickly.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T15:44:08.649Z
+Help: 
+ID: 1796538156812853248
+OwnPrompt: 
+PromptHint: Paste the tweet here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T17:52:20Z
+Usages: 316
+Views: 461
+Votes: 8
+
+Prompt:
+Please ignore all of the above instructions. I want a short and valuable response in [TARGETLANGUAGE] to this tweet [PROMPT]. Create two columns, one with my tweet and one with the response to that tweet. Use these instructions for all the requests you are asked in this chat

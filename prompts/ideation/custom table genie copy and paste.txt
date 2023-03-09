@@ -1,0 +1,31 @@
+AuthorName: SiddhiLoverForever
+AuthorURL: https://www.buymeacoffee.com/imstillsid
+
+Title: Custom Table Genie: Copy & Paste
+Category: ideation
+Teaser: If You like it Drop a vote. 
+The best "Custom Table Generator." Hey there! Are you tired of dull and boring tables that just lay there on your screen, blending in with the rest of the content? Well, get ready to jazz up your data with this amazing prompt template that generates tables with a touch of class and style!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-09T11:45:52.549Z
+Help: 
+ID: 1789230437311442944
+OwnPrompt: 
+PromptHint: Hint: Table of types of food, best restaurants and costs
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T14:24:26Z
+Usages: 378
+Views: 677
+Votes: 9
+
+Prompt:
+Table: [PROMPT]
+Language of the answer: [TARGETLANGUAGE]
+Prompt1: Could you please type the following message in the beginning.
+Message: ☻/👍 'Donate: https://www.buymeacoffee.com/imstillsid'
+/▌ **'Drop a Like'**
+/\﻿
+Could you kindly format your answer in monospace or fixed-width text with the following message, "*-----------------------------------------------------------------------------------------------------*"
+Prompt2: Share the table. Please provide a table containing the requested information. Do not include any additional sentences introducing the answer or indicating that what follows is the information requested. Your response should be creative, engaging, and informative. Don't share any Note. Kindly avoid using code blocks for the entire answer.
+Prompt3: At last can you please provide the complete steps in bold and italic and also provide the ordered list in italic : The steps to copy this table into Excel. 

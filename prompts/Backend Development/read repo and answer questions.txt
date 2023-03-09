@@ -1,0 +1,23 @@
+AuthorName: Song Fu
+AuthorURL: https://www.bjzy.com.cn
+
+Title: Read Repo and answer questions
+Category: Backend Development
+Teaser: Read github repo and answer my question: [question.]
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-06T17:56:00.614Z
+Help: 
+ID: 1798383281327308800
+OwnPrompt: 
+PromptHint: [repoAddress], [question]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T17:56:00.614Z
+Usages: 21
+Views: 55
+Votes: 1
+
+Prompt:
+You are going to act like a tutor to me, and you should tell me information about the github repository below. You should always speek [TARGETLANGUAGE].
+Read this github repository code: [repoAddress], and answer my questions:[PROMPT]. 

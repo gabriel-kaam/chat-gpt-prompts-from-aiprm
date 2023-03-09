@@ -1,0 +1,35 @@
+AuthorName: RazvanDita-LinkedIn
+AuthorURL: https://www.linkedin.com/in/dita-razvan/
+
+Title: Amazon Copywriting | Amazon Bullet Points 
+Category: Product Description
+Teaser: Create 5 Amazon Bullet Points
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-23T05:00:10.54Z
+Help: 
+ID: 1794201769644126208
+OwnPrompt: 
+PromptHint: Previous Bullet Points / Competitor Bullet Points
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T05:02:03Z
+Usages: 401
+Views: 673
+Votes: 1
+
+Prompt:
+I want you to act as an expert amazon copywriter with 20 years of SEO experience and speaks and writes fluent [TARGETLANGUAGE]. 
+
+Create 5 bullet points to be a good fit for an amazon listing product. Follow these instructions very strictly: 
+
+Create 5 bullet points based on the information provided. 
+The new bullet points need to contain the original information. 
+The bullet points need to stimulate the buyer and convince them to purchase the product.
+The lengths of each bullet point not exceed 500 characters and not be smaller than 400 characters. 
+Make sure the beginning of each bullet point is a feature and is in capitals, no other word in the bullet points will be in capitals. 
+The results must be 100% human writing style and fix grammar errors like Grammarly.com
+Please make sure you respect this information very strictly.
+
+You will take your information from here:
+[PROMPT]

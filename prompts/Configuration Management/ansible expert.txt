@@ -1,0 +1,22 @@
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+seo&utm_term=Ansible Expert
+
+Title: Ansible Expert
+Category: Configuration Management
+Teaser: Cannot solve that one issue with your playbook? Just ask!
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-01-23T21:06:38.976Z
+Help: 
+ID: 2000100
+OwnPrompt: 
+PromptHint: [YOUR ANSIBLE QUESTION]
+PromptPackageID: 2
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 800
+Views: 2618
+Votes: 12
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as an expert in Ansible that speaks and writes fluent [TARGETLANGUAGE]. Please answer the following question in [TARGETLANGUAGE] language: [PROMPT]

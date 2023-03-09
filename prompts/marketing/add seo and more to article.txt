@@ -1,0 +1,39 @@
+AuthorName: Julibe
+AuthorURL: https://phixel.net/
+
+Title: Add SEO and more to article
+Category: marketing
+Teaser: Create a URL, Title, Keyword, Excerpt, Intro, Conclusion, Categories, Emojis, Summary for an article.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-20T00:06:34.832Z
+Help: 
+ID: 1793040720412798976
+OwnPrompt: 
+PromptHint: Write
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T17:35:39Z
+Usages: 220
+Views: 428
+Votes: 3
+
+Prompt:
+Create in [TARGETLANGUAGE]  separated blocks:
+- URL: SEO-friendly short URL or slug.
+- Keyword: SEO-friendly focus keyword with less than 3 words
+- Title: SEO friendly title with less than 100 characters.
+- Excerpt: SEO friendly excerpt (a summary cliffhanger or short invitation to read in less than 155 characters).
+- Summary: A very short Summary with less than 300 chars.
+- Introduction: An introduction paragraph.
+- Conclusion: A conclusion paragraph, thanking for reading and invitation to subscribe and follow.
+- Categories: Create at least 10 one-word categories, comma separated (no hashtags and no joined word).
+- Emojis: At least 10 emojis.
+- Hashtags: At least 10 hashtags that are spaced separated.
+- Images: Alternative title name for Images, at least 3.
+- Call: Engagin Call to Action at less than 100 characters.
+- Subheadings: 2 or 3 posible short subheadings.
+- Quotes: 2 or 3 famous quotes.
+- Backlinks: Add some links to support the claims.
+for this:
+[PROMPT]

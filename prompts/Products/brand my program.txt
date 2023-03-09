@@ -1,0 +1,24 @@
+AuthorName: BrandStore by Jai
+AuthorURL: http://jaistone.com
+
+Title: Brand My Program
+Category: Products
+Teaser: Name A New Coaching Progam --> ex: Give me a brand name for my new coaching program that will teach [TARGET AUDIENCE] how to [RESULTS].
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-07T23:31:24.976Z
+Help: 
+ID: 1798830076884938752
+OwnPrompt: 
+PromptHint: Give me a brand name for my new coaching program that will teach [TARGET AUDIENCE] how to [RESULTS].
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T23:39:57Z
+Usages: 35
+Views: 67
+Votes: 0
+
+Prompt:
+Your task is to summarize the text I give you in a list of names. All output should be in the [TARGETLANGUAGE]. The text to summarize is:
+
+[PROMPT]

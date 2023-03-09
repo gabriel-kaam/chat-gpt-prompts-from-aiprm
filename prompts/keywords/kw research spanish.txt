@@ -1,0 +1,25 @@
+AuthorName: Joan Blanch
+AuthorURL: https://www.libertad-financiera.com
+
+Title: KW research Spanish
+Category: keywords
+Teaser: Create a keyword strategy and SEO content plan starting with 1 keyword.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-25T14:37:10.385Z
+Help: 
+ID: 1795071751529689088
+OwnPrompt: 
+PromptHint: [keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T14:40:20Z
+Usages: 35
+Views: 56
+Votes: 0
+
+Prompt:
+Tu tarea es crear un keyword research a partir de la keyword [PROMPT]. 
+Sácalo en el idioma [TARGETLANGUAGE].
+Las Keywords las muestras en una tabla agregando el volumen de búsqueda. 
+Coloca una columna con la intención de búsqueda de cada keyword.

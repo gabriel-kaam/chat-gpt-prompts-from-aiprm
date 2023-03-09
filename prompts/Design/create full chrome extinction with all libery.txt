@@ -1,0 +1,33 @@
+AuthorName: michael yard
+AuthorURL: https://www.buymeacoffee.com/mhealer02n
+
+Title: create full chrome extinction with all libery
+Category: Design
+Teaser: create full chrome extinction with all libery
+In the first step you will get all the details on how to build a plugin
+In the second action you have to write "can you expand with code"?
+and will return you an answer with everything you need
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-03-02T13:30:29.594Z
+Help: 
+ID: 1796866910324002816
+OwnPrompt: 
+PromptHint: Creating an end-to-end chrome plugin
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T12:35:17Z
+Usages: 145
+Views: 323
+Votes: 2
+
+Prompt:
+[PROMPT]Create code chorme extinction with libraries :
+1. popup.js
+2. content.js
+3 .popup.html
+4. Background.js
+5. manifest.js
+ [TARGETLANGUAGE].  
+
+

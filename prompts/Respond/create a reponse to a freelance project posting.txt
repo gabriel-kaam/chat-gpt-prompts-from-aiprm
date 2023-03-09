@@ -1,0 +1,28 @@
+AuthorName: Ben Brunyee
+AuthorURL: https://webspred.com
+
+Title: Create a reponse to a freelance project posting
+Category: Respond
+Teaser: Create a reponse to a freelance project posting from the job's description
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-06T12:10:57.172Z
+Help: 
+ID: 1788149584560906240
+OwnPrompt: 
+PromptHint: [The project description]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 165
+Views: 320
+Votes: 4
+
+Prompt:
+There is this website that posts freelance project opportunities.
+I am currently applying for projects on this website.
+One project that I taken interest into is:
+[PROMPT]
+
+Can you write a suitable first message, in [TARGETLANGUAGE], that will: make me stand out, show my interest and show my relevant expertise for this project.
+Before you write the message, you can ask me questions to ensure you have all the required details.

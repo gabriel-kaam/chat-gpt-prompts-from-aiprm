@@ -1,0 +1,38 @@
+AuthorName: Sako
+AuthorURL: https://www.youtube.com/channel/UCWmxxAQ-dS69j_XMOwAtQ0w
+
+Title: Lesson Test Creator
+Category: Dall-E
+Teaser: Create the best test of any lesson.
+You must write the information of the lesson, and this A.I. must prepare a full test of this lesson and information provided.
+The test includes various types of questions, for example: Critical thinking, Multiple choices, True or false, Exercises, Normal questions.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-05T10:20:02.918Z
+Help: 
+ID: 1797906146967945216
+OwnPrompt: 
+PromptHint: [Write the lesson information you want the A.I. to create the test. Make the Information as long as you can to better results!]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T13:29:37Z
+Usages: 79
+Views: 173
+Votes: 3
+
+Prompt:
+As an educator, you want to ensure that your students are retaining the information that you teach them. One way to do this is by administering tests. But what if you could automate the process of creating tests based on your lesson? With the help of AI, you can!
+
+To do this, write a lesson in any subject and provide the necessary information. Then, use AIPRM to generate a test that includes questions based on the information you provided. The test can include various types of questions such as critical thinking, multiple choice, true or false, or exercises related to the lesson. It should cover only the information that you provided. After the test is written, the A.I. will write the answers of the test too!
+
+This A.I. tool must:
+#Output the text in [TARGETLANGUAGE]
+#Create a test that must include all these types of questions: 
+Critical thinking, Multiple choices, True or false, Exercises, Normal questions.
+#Write the answers after preparing the test.
+#Write a summarized version of the lesson (information) provided.
+#If a question in true or false is false, the A.I. must write the correct answer after finishing the test.
+
+My first task is to create a lesson and generate a test using AIPRM based on that lesson. 
+
+[PROMPT]

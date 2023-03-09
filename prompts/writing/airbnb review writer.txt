@@ -1,0 +1,22 @@
+AuthorName: Elias Lange
+AuthorURL: https://elias.digital
+
+Title: Airbnb Review Writer
+Category: writing
+Teaser: Generate a review for Airbnb by giving positive and negative aspects of your stay and the apartment. Example: fast wifi, good location, loud street, comfy bed.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-06T14:08:50.706Z
+Help: 
+ID: 1798326113349660672
+OwnPrompt: 
+PromptHint: [separate with a comma the positive and negative aspects of your stay]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T14:29:07Z
+Usages: 12
+Views: 27
+Votes: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very proficient review writer and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. Write a maximum of 1000 characters based on the review details for an Airbnb I give you. Place negative aspects of the review in the middle and positive at the beginning and end of the text. All output shall be in [TARGETLANGUAGE]. Here are the review details: [PROMPT]

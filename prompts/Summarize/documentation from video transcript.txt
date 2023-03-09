@@ -1,0 +1,22 @@
+AuthorName: Brad Taylor
+AuthorURL: https://www.lastrev.com
+
+Title: Documentation from Video Transcript
+Category: Summarize
+Teaser: Paste a transcript for a process video and get documentation for your wiki
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-10T18:21:37.267Z
+Help: 
+ID: 1789692417742729216
+OwnPrompt: 
+PromptHint: Paste your transcript here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 104
+Views: 243
+Votes: 1
+
+Prompt:
+You are a documentation expert. I want you to create detailed documentation for my internal wiki based on this video transcript [PROMPT]. Use clear language in [TARGETLANGUAGE] and provide step by step instructions when the transcript provides a process. Create a clear and concise summary. Provide a title that is easily searchable based on the transcript. Return the content as markdown

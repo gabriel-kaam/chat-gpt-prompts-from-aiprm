@@ -1,0 +1,22 @@
+AuthorName: Vishnu Balraj
+AuthorURL: https://www.youtube.com/channel/UCoBwPbzAtCrEYxpmeQ67UlQ
+
+Title: Create Title, Description, Tag for Youtube Video
+Category: Summarize
+Teaser: Provide Title, Description and tag words for YouTube Video upload
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-10T05:33:35.321Z
+Help: 
+ID: 1789499136052297728
+OwnPrompt: 
+PromptHint: Provide input Keyword [Ex. All about Mangos], Pls upvote if you like it
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T04:37:12Z
+Usages: 631
+Views: 801
+Votes: 6
+
+Prompt:
+Your task is to provide a Catchy Title, Detailed description along with Hash tags and Search tags for youtube upload. All outputs shall be in [TARGETLANGUAGE]. The text to generate should be read from this: [PROMPT]

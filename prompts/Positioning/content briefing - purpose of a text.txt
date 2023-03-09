@@ -1,0 +1,29 @@
+AuthorName: Mister SEO
+AuthorURL: https://mister-seo.com/?utm_source=aiprm&utm_medium=banner&utm_campaign=text-purpose-prompt
+
+Title: Content Briefing - Purpose of a text
+Category: Positioning
+Teaser: Define the purpose of a text as a part of a content briefing to a copywriter.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-03T18:56:26.426Z
+Help: 
+ID: 1797311325488287744
+OwnPrompt: 
+PromptHint: [Main Topic of Text]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T09:05:29Z
+Usages: 49
+Views: 94
+Votes: 1
+
+Prompt:
+You write a content briefing for a copy writer. 
+What could be the purpose of a text about [PROMPT] on a website?
+First write in continuous text with a maximum of 5 sentences. Write a summary in bullet points.
+Don't explain why and what you are doing.
+Do not adress the copywriter.
+Write in [TARGETLANGUAGE].
+Insert this sentence at the end of the text "***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL *****"
+

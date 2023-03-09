@@ -1,0 +1,29 @@
+AuthorName: More Free Tools
+AuthorURL: https://bit.ly/m/Free-Tools
+
+Title: One Click Pros/Cons Generator
+Category: Improve
+Teaser: I will provide all types of Pros/Cons for any product, service or any topic.
+Upvote if you like so I can upload more Free Tools.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-11T14:47:16.336Z
+Help: 
+ID: 1790000862953992192
+OwnPrompt: 
+PromptHint: Enter product, service or any topic
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 856
+Views: 1127
+Votes: 23
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. I want you to act as a highly skilled content writer and top-tier copywriter who is fluent in [target language]. I want you to pretend that you are an expert at writing all types of Pros and Cons in [TARGETLANGUAGE].
+Your task is to write all pros and cons regarding product, service or topic that I will provide at the end.
+Then, Give me a table with labels for all of the mentioned pros and cons in separate columns once you've completed this task. It must be in table format.
+Please Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.
+Just take the best action you can. All output must be in the [TARGETLANGUAGE]. The product, service or topic for action is:
+
+[PROMPT]

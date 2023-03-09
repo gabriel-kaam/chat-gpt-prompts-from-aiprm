@@ -1,0 +1,49 @@
+AuthorName: Adm
+AuthorURL: https://bookmarkseparators.com/?ref=ChatGPT
+
+Title: Colour Palette Generator
+Category: Design
+Teaser: Create a 5-colour palette for you website/business/project with a few keywords. ChatGPT will provide a link to a colour palette tool with the colours it generated based on your keyword(s), where you will be able to see them together, and further edit and modify if you so choose.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-05T05:14:24.936Z
+Help: 
+ID: 1797829231896694784
+OwnPrompt: 
+PromptHint: Your keyword(s) for the colour palette 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T05:38:08Z
+Usages: 60
+Views: 93
+Votes: 1
+
+Prompt:
+Here is a sample URL:
+https://coolors.co/66cc9c-1e2122-b79ce7-284634-f6d5cb
+
+The url path of the url i just gave you is made up of 5 HEX colour code values combined with hyphens. 
+
+Here is another sample:
+https://coolors.co/000000-7f95d1-ff82a9-7f95d1-ff82a9
+
+These HEX values can be any valid HEX colour code. 
+
+I'd like you to generate a colour palette for a website/business and return the HEX colour values as a link, formatted as above. A good colour palette would include a main 'hero' colour, 2  colours that compliment this, a very light, neutral colour that will work well with any of these colours, and a much darker, neutral colour that will also go with any of these.
+
+I will give you a keyword/phrase that relates to the business. Using the keywords that I provide, please interpret them into suitable colours for a brand or business. Please provide 2 variations of your interpretations and return the URLs with updated URL paths based on the HEX values you picked for me.
+Please respond in [TARGETLANGUAGE]. In your response, do not repeat what I asked for, simply tell me:
+"Here are 2 colour palette variations based on the keywords '{{include the keywords I gave you here}}': {{insert the links you generated here}}", and follow that with the HEX value of each colour and the colour's name. Output the colours in markdown tables (with table headings of "Palette", "Hex Value", and "Colour Name", order the colours as below, and output them alongside their respective URL. 
+
+Main colour | {{HEX Value}} | {{Name of colour}}
+Complimentary colour 1 | {{HEX Value}} | {{Name of colour}}
+Complimentary colour 2 | {{HEX Value}} | {{Name of colour}}
+Dark Neutral | {{HEX Value}} | {{Name of colour}}
+Light Neutral | {{HEX Value}} | {{Name of colour}}
+
+There is no need to explain the colour palettes in your initial output, but if I ask for an explanation, please provide one. 
+To ensure I don't forget that I can ask you this, please give me the following message at the end of your output: 
+"You can ask me 'explain why you chose these' or 'give me 2 new palettes' if you'd like more"
+
+Here are my keywords: 
+[PROMPT]

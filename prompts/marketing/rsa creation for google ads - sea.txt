@@ -1,0 +1,35 @@
+AuthorName: Martje Logemann
+AuthorURL: https://example.nl/
+
+Title: Rsa creation for google ads - sea
+Category: marketing
+Teaser: Create 15 headlines for RSA texts in Google Ads
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-08T11:07:09.807Z
+Help: 
+ID: 1799005167396585472
+OwnPrompt: 
+PromptHint: Add your URL for headlines
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T12:30:51Z
+Usages: 77
+Views: 94
+Votes: 0
+
+Prompt:
+Use the following language [TARGETLANGUAGE].
+Create 15 headlines 4 descriptions based on the following guidelines and following urls: [PROMPT].
+ 
+Guidelines:
+Headlines maximum length: 30 characters;
+Descriptions maximum length: 90 characters;
+Headlines minimum length: 20 characters;
+Descriptions minimum length: 80 characters;
+Do not add prices or discounts;
+Do not add exclamationmarks.
+
+Put it in a table with the following format: URL|Headline 1|Headline 2|Headline 3|Headline 4|Headline 5|Headline 6|Headline 7|Headline 8|Headline 9|Headline 10|Headline 11|Headline 12|Headline 13|Headline 14|Headline 15|Description 1|Description 2|Description 3|Description 4
+
+

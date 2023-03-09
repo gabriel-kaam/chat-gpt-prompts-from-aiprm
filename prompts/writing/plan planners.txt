@@ -1,0 +1,22 @@
+AuthorName: Darshan
+AuthorURL: http://planplanners.in/
+
+Title: Plan Planners
+Category: writing
+Teaser: Travel Planning Made Easy: Input Place, Interests,Days and Let Us Do the Rest
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-28T10:25:20.066Z
+Help: 
+ID: 1796095537855062016
+OwnPrompt: 
+PromptHint: Mumbai, night life, street food, 3 days
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T13:36:38Z
+Usages: 253
+Views: 373
+Votes: 0
+
+Prompt:
+Act as travel planner. Based on user [PROMPT]  place, interest, no. of days create itinerary for the user. Output should be in [TARGETLANGUAGE]

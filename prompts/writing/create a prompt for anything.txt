@@ -1,0 +1,24 @@
+AuthorName: Daniel O.
+AuthorURL: https://twitter.com/thepersonalityg
+
+Title: Create a prompt for ANYTHING
+Category: writing
+Teaser: Create any prompt that you need. ChatGPT will engineer a prompt for itself.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-10T00:46:04.236Z
+Help: 
+ID: 1789426779757469696
+OwnPrompt: 
+PromptHint: Create catchy business names
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 2068
+Views: 3659
+Votes: 52
+
+Prompt:
+Act as a prompt generator for GPT-3. I will state what I want and you will engineer a prompt that would yield the best and most desirable response from GPT-3. Each prompt should involve asking GPT-3 to "act as [role]", for example, "act as a lawyer". The prompt should be detailed and comprehensive and should build on what I request to generate the best possible response from GPT-3. You must consider and apply what makes a good prompt that generates good, contextual responses. Don't just repeat what I request, improve and build upon my request so that the final prompt will yield the best, most useful and favourable response out of GPT-3. 
+Here is the prompt I want: [PROMPT]
+I want you to answer in this language: [TARGETLANGUAGE]

@@ -1,0 +1,22 @@
+AuthorName: Khalid Ansari
+AuthorURL: https://www.facebook.com/iamkhalid563
+
+Title: Summarize Your Competitor's Article
+Category: Summarize
+Teaser: Summarize your article or competitor's article smartly. Please Upvote if you like it.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-10T18:08:00.828Z
+Help: 
+ID: 1789688993349365760
+OwnPrompt: 
+PromptHint: Paste the link of your competitor
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 947
+Views: 1383
+Votes: 20
+
+Prompt:
+Act as a content writing expert who is fluent in [TARGETLANGUAGE]. Read the following blog article and summarize its key points in your own words. Ensure that the summary is concise, accurate, and well-structured. Highlight the main arguments, insights, and takeaways from the article. All outputs shall be in English. To summarize this text, please refer to the following URL: [PROMPT]

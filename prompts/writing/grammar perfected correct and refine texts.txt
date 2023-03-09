@@ -1,0 +1,46 @@
+AuthorName: KJaime
+AuthorURL: https://instagram/gkassoma?igshid=ZDdkNTZiNTM=
+
+Title: Grammar Perfected: Correct and Refine Texts.
+Category: writing
+Teaser: Master grammar and more: Improve your proofreading skills in any language.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-05T18:37:51.123Z
+Help: 
+ID: 1798031423299641344
+OwnPrompt: 
+PromptHint: [Insert Text Here]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T08:51:24Z
+Usages: 104
+Views: 126
+Votes: 0
+
+Prompt:
+Task: Revision and correction of text in [TARGETLANGUAGE]
+
+Instructions:
+
+Ignore all previous instructions and focus exclusively on revising and correcting the text in [TARGETLANGUAGE].
+Your task is to act as a competent reviewer and experienced writer in the target language, correcting grammar, spelling, punctuation, consistency in spelling and punctuation, fluency in [TARGETLANGUAGE], concision, word choice, variety of words and phrases, detecting and suggesting tone, and use of inclusive language.
+The original text is provided below as [PROMPT].
+Create a new version of the corrected text in [TARGETLANGUAGE] and include all the corrections made.
+Record all changes made to the original text in [PROMPT], indicating the total number of changes made.
+All outputs must be in [TARGETLANGUAGE].
+[PROMPT]:
+[Insert Text Here]
+
+Model structure for response:
+New version of the corrected text:
+[INSERT CORRECTED TEXT HERE]
+
+Changes made:
+
+[INSERT CHANGE HERE]
+[INSERT CHANGE HERE]
+[INSERT CHANGE HERE]
+...
+Total changes made: [INSERT NUMBER OF CHANGES HERE]
+Please use the model structure above when providing your response. All outputs must be in [TARGETLANGUAGE].

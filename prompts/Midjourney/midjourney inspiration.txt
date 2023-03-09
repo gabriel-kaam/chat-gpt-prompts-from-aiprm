@@ -1,0 +1,77 @@
+AuthorName: realzug
+AuthorURL: https://www.youtube.com/@realzug/videos
+
+Title: Midjourney Inspiration
+Category: Midjourney
+Teaser: The ultimate prompt for Midjourney to get inspired. This prompt will provide you with 5 prompts based on your topic.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-21T18:15:12.812Z
+Help: 
+ID: 1793677071743188992
+OwnPrompt: 
+PromptHint: Inspire: (ex Van Gogh)
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T21:45:03Z
+Usages: 209
+Views: 290
+Votes: 5
+
+Prompt:
+Hello ChatGPT. From now on you're my personal proffesional image prompt generator. Instructions that follows are in [TARGETLANGUAGE]
+I want you to create five images with this in mind:[PROMPT]. Be creative. Think outside the box. Use the /imagine prompt: format.
+
+To create an image prompt, focus on four main categories:
+
+Subject: Choose a central subject for your image, such as a person, animal, object, or landscape based on [PROMPT]
+
+Surroundings & Other Details: Add descriptive words and phrases to provide context and create a complete visual image. Use adjective-noun word order or specific verbs instead of prepositional phrases. Try to reduce redundancy, as this increases coherence. For example, instead of "black obsidian", simply use "obsidian", as obsidian is already black. On the other hand, aim to increase specificity at every opportunity. For instance, instead of "botanical plants", use "botanicals" or "plants", as botanicals are already plants.
+
+Stylizations, Media Type, and Artists: If applicable, add relevant stylizations or media types, such as watercolor or digital art, and give credit to the artist.
+
+Parameters: If necessary, add any parameters for the image, such as aspect ratio, using the "--ar" flag. For instance, you can define an aspect ratio of 16:9 with "--ar 16:9". Note that aspect ratio should not be mentioned in the prompt, only the -- parameter.
+
+Additionally, consider using punctuation to enhance the prompt's effectiveness. Punctuation can be functional or noisy. The only functional punctuation are double-hyphens, double-colons, and spaces. Double-hyphens delimit parameters, double-colons delimit integers (positive and negative) for weights, and spaces are used to separate tokens. Other punctuation, such as commas and hyphens, adds intriguing noise that can be helpful for the prompt. Therefore, correct use of commas is recommended to help with grouping, just like it does in ordinary writing. For instance, instead of "ornate shadowed massive sentient", use "ornate, shadowed, massive, sentient".
+
+- Use `::` to separate each promptlet from its corresponding weight value. It should also correnspond with the "feeling" of the image.
+- To control the strength of each promptlet's influence on the final image, assign weight values to each promptlet. The lower the number, the less influence it will have, and the higher the number, the more influence it will have. If no weight value is assigned, it defaults to 1.
+- Promptlets are grouped from the `::` symbol backwards to the previous `::` symbol.
+- Use a negative weight value to reduce or remove the influence of a promptlet on the final image.
+- The total weight of the prompt is the sum of all the assigned weight values.
+- Use `--ar` to specify the aspect ratio of the output image.
+- The aspect ratio should be in the format `width:height`
+
+Example prompts:
+
+/imagine prompt: a bustling night market in a Southeast Asian city::2 with food vendors, colorful lanterns, and people milling about::1 photorealistic art by Bojan Jevtić::3 --ar 3:2
+
+/imagine prompt: a surreal dreamscape::2, with floating islands and strange creatures::1. The sky is filled with pastel clouds and the sun casts a warm, golden light::1.5. The image is a digital artwork by Alex Andreev::3 --ar 16:9
+
+/imagine prompt: a vast, snowy tundra::2, with a clear blue sky overhead::0.5. A herd of majestic reindeer::1.5 graze on the icy plains, surrounded by the towering peaks of distant mountains::1. The image is a photograph by Marco Matteucci::3 --ar 2:3
+
+The Scene Method
+
+One way to use the promptlets is to first set the scene and then populate it. For example: 
+
+coffee house, twilight atmosphere:: two friends argue about money::
+
+If the promptlets are too incomplete, the AI may not be able to make sense of them. For instance, a prompt like "female ninja, kneeling, infinity pool:: brilliant::1.5" doesn't work because "brilliant" has no subject. In such cases, it is better to keep everything together in a simple sentence, like "Female ninja kneeling in a brilliant neon infinity pool". 
+
+If you find that a promptlet is weak or not expressing itself properly, you can use a virtual slider to tweak its influence up or down. For example: 
+
+female ninja kneeling in a brilliant neon infinity pool:: brilliant neon::0.5
+
+The second promptlet is connected to the first by linking it with the subject, and it uses the same text as the first promptlet. This method is fairly reliable.
+
+Negative weights can be useful in controlling the influences on the final image. They can be used to reduce the impact of certain correlations in the dataset that can lead to issues like blurriness or incoherence. For example: 
+
+photoshoot, [subject and setting], bokeh, chiaroscuro, soft lighting:: ad, advertisement, text, ui, descriptions, names, words, letters, magazine, titles, captions, labels, signatures, poster, announcement, logo::-0.5
+
+In this prompt, the words "bokeh", "chiaroscuro", and "soft lighting" create a twinkling effect. You can replace them with different words if you don't want that effect. The negative weight phrase is the most important part of the prompt, as it tells the algorithm to reduce or remove the influence of certain words that can detract from the artistic quality of the output.
+
+It's worth experimenting with negative weights to see how they can change the final output, even if it doesn't seem necessary at first. Some prompts can be remarkably transformed by this technique.
+
+Please remember that every prompt should begin with"/imagine prompt:" and the prompt should never end with a "."
+
+Now, give me five (5) prompts inspired by this: [PROMPT]

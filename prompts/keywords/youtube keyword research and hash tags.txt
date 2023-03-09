@@ -1,0 +1,28 @@
+AuthorName: wakil2
+AuthorURL: https://www.youtube.com/channel/UCrm946Te_5JbXBwhOQrpl5g
+
+Title: YouTube keyword research and hash tags
+Category: keywords
+Teaser: YouTube Keyword Research and hash tags
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-15T19:59:44.586Z
+Help: 
+ID: 1791529050276356096
+OwnPrompt: 
+PromptHint: [enter keyword or title]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T17:08:27Z
+Usages: 1588
+Views: 2074
+Votes: 27
+
+Prompt:
+Give 15 longtail relevant keywords 1-5 words on given primary keyword basis of user search intent on YouTube in table form with YouTube high volume and low difficulty
+[TARGETLANGUAGE]
+also generate hashtags for researched keywords escape spaces between hashtags
+also write keyword optimized 2 titles for YouTube
+also give YouTube image thumbnail content
+[TARGETLANGUAGE]
+[PROMPT]

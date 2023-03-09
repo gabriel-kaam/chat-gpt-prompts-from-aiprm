@@ -1,0 +1,28 @@
+AuthorName: CRONUTS.DIGITAL
+AuthorURL: https://cronuts.digital/es/
+
+Title: Digital Executive Summary
+Category: marketing
+Teaser: Digital Executive Summary with company type
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-03T10:45:53.407Z
+Help: 
+ID: 1787041014222163968
+OwnPrompt: 
+PromptHint: [Company Type] 
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T13:30:42Z
+Usages: 98
+Views: 210
+Votes: 3
+
+Prompt:
+I need you to act as an expert and innovative digital marketing consultant and help me create a executive report for a digital marketing plan with 6 digital actions organized from the most relevant to the les relevant action in terms of new bussines in table format with the follwing columns: Digital action, goals, description, impact for the business, cost level (high, Middle and Low) & kpi.
+Include 3 disruptive and out of the box actions
+For a [PROMPT]
+The output must be in [TARGETLANGUAGE]
+On top say in [TARGETLANGUAGE] "CRONUTS.DIGITAL DIGITAL STRATEGY FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps with a rocket emoji at the beginning.
+The last line down say in [TARGETLANGUAGE] "To learn more about us www.cronuts.digital Then, under the table say "If you liked this prompt please like it on the prompt search page."
+

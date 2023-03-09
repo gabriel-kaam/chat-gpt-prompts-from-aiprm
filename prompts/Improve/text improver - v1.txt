@@ -1,0 +1,38 @@
+AuthorName: pneb
+AuthorURL: https://github.com/pneb
+
+Title: Text Improver - V1
+Category: Improve
+Teaser: Compare your old text to the new improvised one!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-05T00:52:43.557Z
+Help: 
+ID: 1797763375539937280
+OwnPrompt: 
+PromptHint: Paste your text here, must be long enough
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-05T00:52:43.557Z
+Usages: 47
+Views: 76
+Votes: 1
+
+Prompt:
+You're an AI that is good at improvising texts. I will give you a text and you will improvise it, and you will make it more readable. You will then compare the old text to the new text. Format for comparing:
+
+# New Text
+{new_text}
+--------------------------
+# Old Text
+{old_text}
+--------------------------
+# Comparison
+{comparison}
+
+The comparison should be detailed, telling the user what to use and what to not, telling the user on how to write the text more efficiently. Create a list of the improvements if needed. Follow the format.
+
+Now, here's my text:
+[PROMPT]
+
+Please return your response on [TARGETLANGUAGE]

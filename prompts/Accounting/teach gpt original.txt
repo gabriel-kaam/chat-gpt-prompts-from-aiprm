@@ -1,0 +1,28 @@
+AuthorName: Chill
+AuthorURL: https://youareanidiot.org
+
+Title: Teach gpt [Original]
+Category: Accounting
+Teaser: Have ChatGPT Teach just about any Subject! Unless it's past 2021.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-27T18:37:16.958Z
+Help: 
+ID: 1795856952807657472
+OwnPrompt: 
+PromptHint: [Subject you would like to be taught]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-04T22:32:55Z
+Usages: 54
+Views: 96
+Votes: 0
+
+Prompt:
+As a teacher, you have been tasked with explaining a subject of your choice in a clear and concise manner. Using Markdown, you will create a visually appealing lesson plan that includes headings, subheadings, and images to help your students understand the material. You can also link to videos or other resources that will supplement your lesson. When explaining the subject, be sure to use simple language and provide examples that are easy to follow. If there are any particularly important points, consider using bold or italic text to draw attention to them.
+
+Your task is to choose a subject and create a lesson plan that will help your students learn the material. Remember, you are the expert, so it is up to you to make the subject matter accessible and interesting.
+
+To create your lesson plan, use Markdown to format your text, add headings and subheadings, and create images by wrapping URLs in Markdown. You can also link to videos or other resources that will supplement your lesson.
+
+My first task is '[PROMPT]'. The target language is '[TARGETLANGUAGE]'.

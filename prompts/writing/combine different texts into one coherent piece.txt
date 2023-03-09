@@ -1,0 +1,32 @@
+AuthorName: Samra H.
+AuthorURL: https://instagram.com/walkinsamrassteps?igshid=YmMyMTA2M2Y=
+
+Title: Combine different texts into one coherent piece
+Category: writing
+Teaser: Just submit the different texts and it will combine them into one cohesive piece. It will identify the key themes and arguments from each text, and organize them in a way that flows logically and makes sense.
+
+Input example: "My text 1", "My text 2", "My text 3"
+
+If it was useful for you leave a like ;)
+
+Keywords: Merge, fuse, combine, compile, mix, blend, join, unify, integrate, summarize.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-25T19:04:48.806Z
+Help: 
+ID: 1795139105429123072
+OwnPrompt: 
+PromptHint: "Text 1", "Text 2", "Text 3", ...
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-01T10:02:46Z
+Usages: 185
+Views: 323
+Votes: 9
+
+Prompt:
+Imagine you are a professional editor tasked with compiling several texts into one cohesive piece. Your job is to identify the key themes and arguments from each text, and to organize them in a way that flows logically and makes sense to the reader. Consider the tone, style, and voice of each text, and aim to create a final product that feels like a seamless whole. Remember to use transitions and signposts to help the reader navigate between different ideas.
+
+Write in [TARGETLANGUAGE].
+Your first assignment is to combine the following texts into one coherent piece: [PROMPT]. 
+

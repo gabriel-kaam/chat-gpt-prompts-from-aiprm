@@ -1,0 +1,28 @@
+AuthorName: Ed Codes
+AuthorURL: https://www.youtube.com/@edcodes
+
+Title: Write an SEO-friendly Product Description
+Category: Product Description
+Teaser: Writes an optimized product description based on a short list of product features. For best results provide as much info as possible and include keywords you want to rank for.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-25T10:47:42.113Z
+Help: 
+ID: 1783779979377762304
+OwnPrompt: 
+PromptHint: [your list of features, keywords, and anything you can say about the product]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 22114
+Views: 30147
+Votes: 257
+
+Prompt:
+Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently [TARGETLANGUAGE]. Write a 300 word product description in [TARGETLANGUAGE] based on the product details I give you. Also follow these guidelines:
+- Focus on benefits rather than features
+- Avoid sentences over 20 words
+- Avoid using passive voice
+- Include a call to action at the end 
+
+Here are the product details: [PROMPT]

@@ -1,0 +1,24 @@
+AuthorName: Foss
+AuthorURL: https://www.linkedin.com/in/eduardofoss/
+
+Title: Social Media Ads Plan in ONE click
+Category: Places (Media Channels)
+Teaser: Create an easy media plan for social media with just 3 parameters: objective, social network and investment.
+
+** Try it and vote if you like it **
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-20T21:22:52.665Z
+Help: 
+ID: 1793361911124062208
+OwnPrompt: 
+PromptHint: [Type: Objective, Social Network and investment]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T13:51:58Z
+Usages: 611
+Views: 1172
+Votes: 12
+
+Prompt:
+Want you to act as a digital media planner and in a table format responding in [TARGETLANGUAGE], you will create a media plan for [PROMPT]. The campaigns objectives are focused on [PROMPT] with a [PROMPT] buying type. Inside this plan, divide the investment of [PROMPT] into the best performance formats knowing the estimate results for [PROMPT].

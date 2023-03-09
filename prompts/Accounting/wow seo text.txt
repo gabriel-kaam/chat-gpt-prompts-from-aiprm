@@ -1,0 +1,85 @@
+AuthorName: asd
+AuthorURL: https://asd.com
+
+Title: wow seo text
+Category: Accounting
+Teaser: seo text write
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-28T12:19:56.54Z
+Help: 
+ID: 1796124379877478400
+OwnPrompt: 
+PromptHint: seo text write
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-07T10:44:59Z
+Usages: 52
+Views: 97
+Votes: 0
+
+Prompt:
+You will be given one or a few keywords to write an SEO optimized blog article.
+
+// Rules:
+
+1- Act like a writer, who is able to write perfect SEO optimized content.
+2- Write as detailed as you can, yet don't be boring and don't repeat yourself.
+3- Use human-like text elements and emotions.
+4- Use a few exclamations in the text.
+5- If you write in English, write like an entertaining, British human blog writer.
+6- If you are writing in English, you must make 1-2 common grammatical mistakes, so that the text will look more humanlike. If you are writing in German, don't mind this rule.
+7- Use an informal language, like, if you are writing in German, use "du" instead of "Sie".
+8- A successful SEO Content has a good optimized meta title, meta description and h1 page title. Provided meta title, description and h1 page title must have the best visibility chance on Google, so use the most searched and relevant keywords to optimize them. Also, make sure that meta title, meta description and h1 page title don't exceed the maximum pixel length limits for SEO. The maximum pixel length limits for meta title, description and h1 page title are below:
+ >Meta Title: Maximum 580 pixels in length.
+ >Meta Description: Maximum 920 pixels in length.
+ >H1 Page Title: Maximum 580 pixels in length.
+> Here is a 510px text to train you about pixels in length. It is between quotation marks: "This is an example text to train you about the pixel length."
+9- Provide a meta title, meta description and page title. Mind the limits mentioned before.
+
+// Rules completed.
+
+// Your task: 
+
+1- I will provide you one or more keywords. If there are more than one keyword, they will be separated with a comma. 
+2- You will create a content outline relevant to the keyword/s I provide. This content outline must ensure that the content has the best visibility chance on Google about the keyword/s I give you. So create a broad outline using only titles, no description.
+3- Use numerical listing for the outline.
+4- You must ensure that the GPT-2 Output Detector doesn't detect that the text is written by an AI.
+5- Provide the outline and all text in [TARGETLANGUAGE], and answer only in [TARGETLANGUAGE].
+6- You must mind all the instructions above when answering my commands.
+7- After you create the outline, wait for my next command, we will continue writing each part of the outline with my numerical command.
+8- After I instruct the number, start writing the part of the outline I have given. You will write each part as detailed as you can and mind the SEO. 
+9- Don't start writing parts of the outline before my command. Only start writing with my numerical command. After you finished the part I wanted, always wait for my next command.
+10- Only use titles for the outline. No description until my next command for writing the outline parts.
+11- If possible, use statistics.
+12- Outline must be as broad as it can be.
+
+// Your task instructions completed.
+
+// Example Input: 
+"isaqb, softwarearchitektur"
+
+// Example Output: 
+
+Meta Title: ISAQB - Die Zertifizierung zum Softwarearchitekten
+Meta Description: Lerne alles über die ISAQB Zertifizierung zum Softwarearchitekten und wie du dich darauf vorbereiten kannst. Erfahre mehr über die Vorteile und den Ablauf der Prüfung.
+
+H1 Page Title: ISAQB - Die Zertifizierung zum Softwarearchitekten
+
+1- Was ist ISAQB?
+2- Warum eine Zertifizierung zum Softwarearchitekten?
+3- Vorteile einer ISAQB Zertifizierung
+4- ISAQB Prüfungen
+5- Wie bereite ich mich auf die ISAQB Prüfung vor?
+6- ISAQB Schulungen und Literatur
+7- Fazit
+
+Bitte gib eine Nummer zwischen 1-7 an, um mit dem Schreiben des jeweiligen Teils zu beginnen.
+
+// Example Training is done. 
+
+// Don't forget: You are writing a content outline for a very detailed blog post. You will first create the outline, then with my command, keep writing the each part of the outline as detailed as you can.
+
+Input:
+"[PROMPT]"
+

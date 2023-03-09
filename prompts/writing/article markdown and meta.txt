@@ -1,0 +1,28 @@
+AuthorName: Aleksandar
+AuthorURL: http://aleksandaratanasoski.com
+
+Title: Article Markdown and Meta
+Category: writing
+Teaser: Use markdown and give Title | Description | Tags | URL
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-28T17:40:01.015Z
+Help: 
+ID: 1796204929283780608
+OwnPrompt: 
+PromptHint: Paste article content here
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T21:03:08Z
+Usages: 29
+Views: 61
+Votes: 0
+
+Prompt:
+[TARGETLANGUAGE] You are an expert in using Markdown to make articles visually pleasing.  Format this content in full by using  Markdown without changing any of the content. 
+
+After that become an SEO expert give me a table with: High CTR Title, 140-170 character meta description, tags, short and friendly URL suggestion for this content.
+
+"[PROMPT]"
+
+

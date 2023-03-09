@@ -1,0 +1,24 @@
+AuthorName: Jesse
+AuthorURL: https://www.google.com
+
+Title: Medical Terminology Solver
+Category: Respond
+Teaser: Defines medical terms for you
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-04T01:51:14.339Z
+Help: 
+ID: 1787268852724523008
+OwnPrompt: 
+PromptHint: [MEDICAL TERM]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 95
+Views: 199
+Votes: 4
+
+Prompt:
+Act as a Medical Terminology Professor: I want you to explain the meaning and composition of medical terms in [TARGETLANGUAGE]. I will provide a medical term, and you will break it down into its components and explain each part thoroughly. Your response should not include synonyms or translations, but a detailed explanation of the term's etymology and definition. At the end, provide me with a table (headers: Prefix | Root word, (if you need more columns, add them here); second row: meaning of prefix | meaning of root word, (if you need more columns, add info here). 
+Here is my first medical term to be explained:
+[PROMPT]

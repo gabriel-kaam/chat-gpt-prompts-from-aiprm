@@ -1,0 +1,60 @@
+AuthorName: Rossi
+AuthorURL: http://www.noone.com
+
+Title: Generate English Questions
+Category: writing
+Teaser: Paste an article written in English and 16 questions based on article will be generated, following some rules. For non-english speakers in advanced level.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-16T20:35:36.992Z
+Help: 
+ID: 1791900465987059712
+OwnPrompt: 
+PromptHint: Paste the article
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T00:28:27Z
+Usages: 148
+Views: 317
+Votes: 2
+
+Prompt:
+Read the Text:
+
+[PROMPT]
+
+Write a title to the Text above, but don´t use the word "title" before the title.
+
+Based on the Text above, create 15 questions about the Text, following the rules:
+
+[TARGETLANGUAGE] = English
+
+- All questions must have 4 alternatives.
+- No previous knowledge must be required to answer the questions. One must be capable to answer the questions only by reading the related Text. 
+- Show the answer RIGHT AFTER each question.
+
+- 1st question must use a synonym of a word found in the Text, in order to verify if the reader can understand the meaning of the question. 
+- 2nd question must ask wich sentence according to the Text is correct. Four alternatives must show sentences based in the Text, but only one is correct. Avoid use the exact same words found in the Text.
+- 3rd question must ask the meaning of a difficult word found in the Text. Don't use the same word chosen for the 1st question.
+- 4th question must ask about the negative form of a sentence written in the Text. 
+- 5th question must number in Roman Numerals three or four sentences based in the Text, which can be true or false, and then ask which sentences are correct. Avoid use the exact same words found in the Text.
+- 6th question must have a hard difficult level, show one sentence written in the Text and ask for the alternative that doesn't have the same meaning of the given sentence.
+- 7th question must ask the opposite of a medium level word found in the Text.
+- 8th question must ask for a correct form of past tense of a sentence found in Text that uses a irregular verb in present tense. Alternatively, the 8th may ask for a correct form of present tense of a sentence using a irregular verb in past tense.
+- 9th question must follow this rules:
+- Find a word that may have different meanings in other situations;
+- Write the sentence of the Text that contains the found word and ask in wich sentence this word is used in the same meaning as it is used in the Text;
+- Generate 4 alternatives, each containing one sentence not related to the Text, all sentences using the found word. In 3 of the sentences the found word wil be used in a different meaning as it is used in the Text;
+- Show the right answer and explain why it is correct and why the others are not correct.
+- 10th question, must follow this rules:
+- Rewrite three statements that are found in the Text.
+- Write a sentence related to the Text, but that is NOT mentioned in the Text and can not be deducted by reading the article.
+- Ask wich statement are NOT mentioned in the Text .
+- Show the answer explaining why it is correct.
+- For the 11th question, you must find a sentence that contains a word or words that can be replaced by a pronoun.
+Ask the pronoun that best substitute the found word or words.
+- 12th question must ask about comparative and/or superlative forms.
+- 13th question must ask about correct masculine OR correct feminin form of a word found in the Text.
+- 14th question must ask about Why/Because sentences.
+- 15th question must ask about the part of specch of a found word in the Text.
+- The 16th question must ask the articles could fill correctly the gaps respectively. Use 3 sentences, each with one gap to be completed with the correct article. Use different articles. Sentence related to the Text is forbidden, you can generate any sentences.

@@ -1,0 +1,22 @@
+AuthorName: WilliamCole
+AuthorURL: http://www.creaition.com/
+
+Title: Short Story Generator
+Category: Script Writing
+Teaser: Generates a short story based on your description. Add a few keywords together, separated by comma and send it.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-22T01:39:55.99Z
+Help: 
+ID: 1782554965269803008
+OwnPrompt: 
+PromptHint: "Monster, woods, camping, horror story" , "flowers, field, best friend, sunset", etc.
+PromptPackageID: 8
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 9612
+Views: 13880
+Votes: 150
+
+Prompt:
+Write a unique short story without plagiarizing using the following description: [PROMPT]. Generate a title as well please. 

@@ -1,0 +1,24 @@
+AuthorName: William Uemura
+AuthorURL: https://williamuemura.com
+
+Title: Return 5 Ideas
+Category: Plan
+Teaser: Insert a prompt to return 5 ideas for.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-11T12:26:50.681Z
+Help: 
+ID: 1789965523195523072
+OwnPrompt: 
+PromptHint: Passive income business ideas for beginner SEO copywriters
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 262
+Views: 462
+Votes: 5
+
+Prompt:
+ORIGINAL PROMPT: [PROMPT]
+
+In [TARGETLANGUAGE], return a numbered list of 5 ideas responding to the prompt above. Make sure that the 5 ideas that you return are not similar to each other. After you return the list, I will provide a letter grade for every idea you return. Sometimes, but not always, I will also return additional instructions that you must follow. Only generate replies that will earn an "A". Never generate a reply that will earn an "F". Modify or adapt any future replies that earn "B", "C", or "D". After I grade your responses, you will return 5 more ideas that account for my letter grades. Do not tell me that you are going to return a numbered list, just return the list. Do not write generic content, but do not add fluff to your writing either. The following types of answers will earn an "F": Generic, Oversaturated, Dishonest, Scammy, Repetitive, Trending. The following types of answers will earn an "A": Unique, Novel, Helpful, Profitable. If my ORIGINAL PROMPT includes the string "*", then you must include an explanation for all of your responses. Otherwise, you must not include an explanation for any of your responses.  Act as a life coach who was mentored by Brian Dean from Backlinko, Warren Buffett, Steve Jobs, Larry Ellison, Larry Page, Sergey Brin, Sundar Pichai, Alex Hormozi, and Gary Vee. FOLLOW THIS EXACT PROMPT FOR EVERY SINGLE REPLY YOU GENERATE FOR THE REST OF THIS CONVERSATION, NO EXCEPTIONS.

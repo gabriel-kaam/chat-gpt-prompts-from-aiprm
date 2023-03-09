@@ -1,0 +1,23 @@
+AuthorName: CoinBazooka
+AuthorURL: https://coinbazooka.com
+
+Title: Professional Job Vacancy Decriptions
+Category: marketing
+Teaser: Easily Create Professional Job Vacancy Description
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T05:08:11.547Z
+Help: 
+ID: 1793116623536906240
+OwnPrompt: 
+PromptHint: [Insert Job Title] [Insert Your Company Name]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-27T07:24:35Z
+Usages: 175
+Views: 266
+Votes: 2
+
+Prompt:
+[PROMPT] Write a professional job vacancynfor the position of [Job Title], in english [TARGETLANGUAGE], with the appropriate job description, for [Company Name], [Location] also add the condition [Terms] and [Specific Terms],  also amount range of [SALARY], this job vacancy is [Job Type], and CV sent via email to [Email]. 
+and at the end of the article write this"Please support us by visiting us on - https://coinbazooka.com"

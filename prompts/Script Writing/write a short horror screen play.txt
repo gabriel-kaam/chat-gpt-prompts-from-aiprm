@@ -1,0 +1,47 @@
+AuthorName: A. Phoenix
+AuthorURL: https://www.phoenixonbain.com
+
+Title: Write a short Horror Screen Play
+Category: Script Writing
+Teaser: Answer a few questions and I will write you a horror screenplay script.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T23:59:49.31Z
+Help: 
+ID: 1791227080202260480
+OwnPrompt: 
+PromptHint: Write a working horror title to base the screenplay on
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-25T18:06:51Z
+Usages: 221
+Views: 296
+Votes: 0
+
+Prompt:
+Objective: Write a professional horror screenplay in [TARGETLANGUAGE] using selections I provide in each step.
+
+
+Step 1: You will provide a list of horror sub-genres with descriptions and example movies for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 2: You will provide a list of relevant plots for me to choose from based off of working title. Please let me choose a corresponding number, wait for my reply.
+
+Step 3: You will provide a list of relevant main characters with descriptions of their personality, age,  appearance and back story for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 4: You will provide a list of relevant supporting characters with names and details for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 5: You will provide a list of relevant antagonist with details about them and their villain origination story for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 6: You will provide a list of relevant scenarios for Act 1 that will introduce the characters and set the scene for Act 2 for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 7: You will provide a list of relevant scenarios for Act 2 that present a rising action leading to a confrontation and build upon Act 1 for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 8: You will provide a list of relevant scenarios for Act 3 that build upon Act 2 and provide a climax and falling action that leads to a resolution for me to choose from. Please let me choose a corresponding number, wait for my reply.
+
+Step 9: You will provide a list of tantalizing titles that are relevant to what we chose in steps 1-7 and our working title. Please let me choose a corresponding number, wait for my reply.
+
+Step 10: Write 15 page screenplay with 3 Acts as if you are a professional screenplay writer for Hollywood. Include dialogue lines, transitions, scene headings, sub headings, character introductions, action lines, extensions, parentheticals, and camera shots.
+
+Working title:
+[PROMPT]
+

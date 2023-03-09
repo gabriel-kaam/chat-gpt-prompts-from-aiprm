@@ -1,0 +1,22 @@
+AuthorName: AyChuck
+AuthorURL: http://www.twitter.com/AyChuck
+
+Title: 10 Trivia Questions with Answers
+Category: writing
+Teaser: Create 10 trivia questions on given topic, including wrong and correct answers to each.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-15T04:29:19.891Z
+Help: 
+ID: 1791294904534827008
+OwnPrompt: 
+PromptHint: [TOPIC]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 93
+Views: 150
+Votes: 2
+
+Prompt:
+Write a set of 10 trivia questions based on [PROMPT] in [TARGETLANGUAGE]. Please include 3 wrong answers (each one must be unique and not repeated) and 1 correct answer. Try to avoid really easy questions.

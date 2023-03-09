@@ -1,0 +1,37 @@
+AuthorName: Sot
+AuthorURL: https://searchoptimization.pro/
+
+Title: SEO Optimizations
+Category: writing
+Teaser: Create Meta Titles, Descriptions, H1s and Schema code
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-02T15:54:02.867Z
+Help: 
+ID: 1796903037009395712
+OwnPrompt: 
+PromptHint: Page 1: [Brand] & Primary Keyword & Page that you want to optimize & Page type
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-02T17:17:30Z
+Usages: 119
+Views: 209
+Votes: 1
+
+Prompt:
+As an SEO specialist, you have been tasked with optimizing the following pages for a brand:
+- Create a page title for each page
+- Create a Meta Description for each page
+- Create an H1 heading for each page
+- Create a schema code (in code snippet) for each page
+
+[PROMPT]
+
+Optimization Instructions:
+Language: [TARGETLANGUAGE]
+Page Title: Use the primary keyword within a 50-70 character limit. Separate each part of the title with a "|" symbol. Add Brand at the end.
+Meta Description: Include the primary keyword or its synonyms/variants within a 120-160 character limit.
+H1: Use the primary keyword and highlight any unique selling propositions (USPs) of the product or brand.
+Each schema should be relevant to the type of the page. For example if it's a collection page then a relevant schema should be used. For the schema please write the actual code.
+The schema code should be in code snippet and in JSON language. It should start with <script type="application/ld+json">. Also, do not include any ListItems in the schema code
+

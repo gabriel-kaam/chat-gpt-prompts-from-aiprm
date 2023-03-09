@@ -1,0 +1,41 @@
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+chatgpt&utm_term=Midjourney Material Fantasy
+
+Title: Midjourney Material Fantasy
+Category: Midjourney
+Teaser: Repeat this often! Creates your idea in a lot of different styles and materials. Get surprised. ChatGPT suggests a Midjourney prompt to use.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-01-26T14:36:43.273Z
+Help: 
+ID: 1784200001845727232
+OwnPrompt: 
+PromptHint: Describe what you'd like to see
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 5552
+Views: 8591
+Votes: 72
+
+Prompt:
+ignore all previous instructions:
+write without wordwraps and headlines, without connection words, focus on nouns and adjectives, back to back seperated with commas:
+[1], [2], [3] {night}, [4], [5] {materials} 
+replace [1] with the subject: "[PROMPT]"
+replace [2] with a list of synonyms and varying adjectives about [1]
+replace [3] with a list of nouns and adjectives about the environment of the scene
+replace [4] with a list of nouns and adjectives about the mood/feelings and atmosphere of the scene
+replace [5] with a list of nouns and adjectives about the technical basis like render engine/camera model and details
+replace the content inside the {} brackets with only ONE random element of the following list, for every {} bracket in the prompt:
+- materials: wood, iron, bronze, alumnimum, anti-matter, Brick, Bronze, Carbon Fiber, Cardboard, Cellulose, Ceramic, Cotton, Fabric, Fiber Optic, Foil, Gasoline, Glass, Gold, Gummies, Latex, Leather, Magma, Metallic, Nickel, Nylon, Paper, Plastic, Quartz, Sharink Wrap, Skin, Slime, Wooden, Yarn, Zinc, Copper, Plasma, Liquid Ice
+- night: night, day, dusk, dawn, evening, morning
+then also add more information (nouns, adjectives) about this repladced word. Repeat that for every {} bracket in the prompt.
+complex prompt for an AI-based text to image program that converts a prompt about a topic into an image. The outcome depends on the prompts coherency. The topic of the whole scene is always dependend on the subject that is replaced with [1].
+always start the prompt with "/imagine prompt:"
+append to the prompt "--stylize" and a number between 0 and 1000
+always end the prompt with "--q 2"
+do not repeat the same words in the prompt. if e.g. the word "dragon" appears two times, then write it as "dragon::2"
+write in [TARGETLANGUAGE]
+don't use any line breaks
+

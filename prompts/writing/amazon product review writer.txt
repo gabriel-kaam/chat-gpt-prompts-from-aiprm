@@ -1,0 +1,22 @@
+AuthorName: SEO Youth
+AuthorURL: https://seoyouth.com/
+
+Title: Amazon Product Review Writer
+Category: writing
+Teaser: Write a product review after reading description
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-27T11:16:00.914Z
+Help: 
+ID: 1784511880396791808
+OwnPrompt: 
+PromptHint: [Paste your description]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 2936
+Views: 4728
+Votes: 46
+
+Prompt:
+Read the below-mentioned product description and write a review within 3 paragraphs of 200 words. Write it in [TARGETLANGUAGE]. Be informative and use various sentences. Sentence length should be short with enough transition words. Write as 3rd person. [PROMPT]

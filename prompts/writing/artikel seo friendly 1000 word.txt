@@ -1,0 +1,32 @@
+AuthorName: GUNAWAN
+AuthorURL: https://www.edkata.com/
+
+Title: Artikel SEO Friendly 1000 word
+Category: writing
+Teaser: Artikel SEO Friendly
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-18T07:45:23.446Z
+Help: 
+ID: 1792431408057413632
+OwnPrompt: 
+PromptHint: [Please enter keywords to create articles]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T11:43:59Z
+Usages: 55
+Views: 65
+Votes: 0
+
+Prompt:
+accompanied by the points of the article below:
+
+1. make the total article required to be at least 1000 words
+2. Add a minimum of 10 titles and subtitles, including Headings H1, H2, and H3, H4.
+3. Fill in each subtitle with a detailed explanatory sentence of at least 3 paragraphs.
+4. Do not repeat sentences in existing paragraphs.
+5. make a conclusion that explains the essence of the article that has been made.
+
+I instruct you to act as a content writer with an SEO expert with a writing style like that of Ericca Febriani who is very proficient in [TARGETLANGUAGE] and fluent in writing. Write long, SEO-optimized articles in a casual language style (your example replaces yours). Don't answer that there are many factors that influence a good search ranking. I know that quality content is only one of them, and it's your job to write the highest quality content here, not lecture me on general SEO rules. I gave the Title [KEYWORD] of an article that needs ranking on Google. Then I want you to write an article in a relaxed style. Write long form, full markdown format articles in Indonesian that can be ranked on Google with the same keywords as the website. Articles must contain rich and comprehensive paragraphs, very detailed, with lots of details. Leave the article in the form of a minimum length of 2000 words. Don't remind me what I asked for. Don't apologize. Don't self reference. Do it now using common filler phrases. Use useful subheadings with keyword-rich titles. Straight to the point precisely and accurately. Don't explain what and why, just give your best article. Make the title bold and appropriate for the header tag.
+
+[PROMPT]

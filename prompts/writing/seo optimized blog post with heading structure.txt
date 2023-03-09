@@ -1,0 +1,48 @@
+AuthorName: Andrea
+AuthorURL: https://emprendeleyendo.com/
+
+Title: SEO Optimized Blog Post with Heading Structure
+Category: writing
+Teaser: Write a long blog post (over 1k words) optimized for SEO to rank higher in the Google Search results. If you like it please upvote!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-17T09:43:44.631Z
+Help: 
+ID: 1792098804720467968
+OwnPrompt: 
+PromptHint: [Keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T12:50:45Z
+Usages: 387
+Views: 568
+Votes: 6
+
+Prompt:
+Write a blog post of at least 1000 words optimized for SEO using the list of keywords below
+
+[PROMPT] 
+
+Write the article in [TARGETLANGUAGE] including h1 (the title), h2, h3, h4 tags, and bullet points or Numbered list.
+The main keywords must be the first keyword of the list and its density within the text must be 1.5%.
+All the h1, h2, h3, h4 must be written in a cathcy way. For example, they can include questions. Let me know when a title or subtitle is a h1, h2, h3 or h4.
+The h1 must be the title of the article and should include the keyword 
+There should be only 1 h1
+After the h1 write 2 paragraphs. Make sure to put the keyword [PROMPT] in the first paragraph
+After every h2 write at least 2 paragraphs
+After every h3 write at least 2 paragraphs
+After every h4 write at least 2 paragraphs
+Add at least four h2 and three h3.
+80% of the h2 should include the main keyword or related ones and avoid the word "introduction".
+80% of the h3 should include the main keyword or related ones and avoid the word "introduction".
+80% of the h4 should include the main keyword or related ones and avoid the word "introduction".
+The main keyword should be included in the very first paragraph of the article.
+Please highlight in bold the important parts of the text.
+Make sure you don't fall into plagiarism, so don't copy/paste content from any source, use your own intelligence to create it.
+Make sure that the article you create uses a friendly and human tone and speaks directly to the reader.
+The article must be detailed and with examples and each section must contain at least 3 paragraphs. Also, avoid repetition throughout the article.
+I want you to write an article in a formal "we", using a friendly and conversational tone as if it were written by a professional copywriter human being. 
+At the end add 5 FAQs that should be different from already written heading. Each question must be answered in 2 short paragraphs and 3 questions must contain the main keyword.
+
+Make sure to follow each one of these rules without overruling any of them in any case and make sure you do not stop writing the answer without having written all the article.
+

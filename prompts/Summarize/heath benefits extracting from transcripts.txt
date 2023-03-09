@@ -1,0 +1,22 @@
+AuthorName: ai.art.spelunker
+AuthorURL: https://www.instagram.com/ai.art.spelunker/
+
+Title: Heath benefits extracting from transcripts
+Category: Summarize
+Teaser: List all heath benefits from video/audio transcript, presented in bulletpoints.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-23T22:48:26.713Z
+Help: 
+ID: 1794470608478924800
+OwnPrompt: 
+PromptHint: [here paste your transcript, limit to 600 words - circa 12 min video]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T20:52:45Z
+Usages: 66
+Views: 145
+Votes: 0
+
+Prompt:
+Give me all the mentioned health tips as bullet points that this doctor OR expert is mentioning in his video. I will send the transcript. Write at the end if dishes, recipes or supplements where mentioned in the video for follow up questions. Write all output in [TARGETLANGUAGE]. Here is part of the transcript: [PROMPT]

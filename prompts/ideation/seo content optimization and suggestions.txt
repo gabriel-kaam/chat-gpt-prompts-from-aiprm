@@ -1,0 +1,31 @@
+AuthorName: Sadashiv
+AuthorURL: https://www.linkedin.com/in/sadashiv-pal/
+
+Title: SEO Content Optimization and Suggestions
+Category: ideation
+Teaser: Audit your existing content and get it SEO optimized along with Meta Title and Description suggestions
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-24T08:16:25.366Z
+Help: 
+ID: 1794613544709513216
+OwnPrompt: 
+PromptHint: [Keyword], Paste your existing content
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-24T10:34:37Z
+Usages: 199
+Views: 451
+Votes: 1
+
+Prompt:
+I want you to audit the pasted content and get it SEO optimized on what areas to improve and get more suggestions to rank better on search engines. I want you to respond only in one language [TARGETLANGUAGE]. Your task is to give SEO optimization suggestions in pointers and also internal linking suggestions. 
+All the output shall be in [ENGLISH].
+
+Also create a Meta title between 60-70 characters, and a Meta description below 160 characters. 
+
+Give around 3-4 Title suggestions and also long-tail keyword suggestions that would be easy to rank.
+
+The text to summarize would be 
+
+[PROMPT]

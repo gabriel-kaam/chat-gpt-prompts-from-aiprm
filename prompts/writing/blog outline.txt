@@ -1,0 +1,22 @@
+AuthorName: WebTechTips
+AuthorURL: https://www.webtechtips.co.uk
+
+Title: Blog Outline
+Category: writing
+Teaser: Create a blog outline from a blog title
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-31T18:56:05.275Z
+Help: 
+ID: 1786077212940959744
+OwnPrompt: 
+PromptHint: [BLOG TITLE]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 1433
+Views: 1845
+Votes: 8
+
+Prompt:
+You are a SEO expert and content writer who speaks fluent [TARGETLANGUAGE]. I will give you a blog title. You will develop an big blog outline with all the details that are needed [PROMPT]. at the end add create a keyword list.

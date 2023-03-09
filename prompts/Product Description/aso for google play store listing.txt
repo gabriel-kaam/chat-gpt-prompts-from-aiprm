@@ -1,0 +1,24 @@
+AuthorName: Muhammad Ahsan
+AuthorURL: https://www.linkedin.com/in/syed-muhammad-ahsan/
+
+Title: ASO for Google Play Store Listing
+Category: Product Description
+Teaser: Create an ASO optimized Google Play Store meta data for your app or game.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-23T06:16:07.088Z
+Help: 
+ID: 1794220881191624704
+OwnPrompt: 
+PromptHint: [App Name], [Category], [Keyword/Keywords]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-06T05:34:29Z
+Usages: 52
+Views: 83
+Votes: 1
+
+Prompt:
+Write a Google Play Store ASO optimized meta data for the app [APP NAME] of category [CATEGORY] targeting the keyword [KEYWORD] where title limit is 30 characters, Short description limit is 80 characters and Long Description of about 4000 characters. Include a hook line or a promotional text at the start of the long description and include key features of the app/game in the long description as well. Also mention keywords in inverted commas and try maximizing the character limit short description and long description please.
+
+All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]

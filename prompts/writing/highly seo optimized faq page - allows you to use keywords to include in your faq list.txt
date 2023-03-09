@@ -1,0 +1,57 @@
+AuthorName: ELI5 Education
+AuthorURL: https://www.eli5.education
+
+Title:  HIGHLY SEO OPTIMIZED FAQ PAGE - Allows you to use keywords to include in your FAQ list
+Category: writing
+Teaser: IMPORTANT: TO UNDERSTAND FORMAT, PLEASE HOVER OVER THIS TEXT AND READ CAREFULLY.
+
+Place keywords in parenthesis and format like this: 
+Example: (KEYWORDS: dog, blue cat, pig). 
+
+If you want the prompt to generate random questions around a specific topic, type "TOPIC: [your topic]". 
+Example: (KEYWORDS: dog, blue cat, pig). 
+
+If you want to include your own specific questions, type "QUESTIONS: [list your questions and separate with a line break]".
+
+FULL EXAMPLES BELOW:
+
+Example input 1:
+(KEYWORDS: dog, blue cat, pig) 
+QUESTIONS: 
+What are the benefits of having pets? 
+What are the best pets?
+
+Example input 2:
+(KEYWORDS: dog, blue cat, pig) 
+TOPIC: Pets
+
+Example input 3:
+TOPIC: Pets
+
+If you want to see some examples of how these FAQs are used check out the articles in the link in the Author URL or go to www.ELI5.education
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-02T07:41:34.214Z
+Help: 
+ID: 1786632240739115008
+OwnPrompt: 
+PromptHint: Example: (KEYWORDS: Dog, blue cat, pig) QUESTIONS: What are the benefits of having pets? What are the best pets?
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-19T15:35:19Z
+Usages: 643
+Views: 1308
+Votes: 8
+
+Prompt:
+Here is a user generated input:
+[PROMPT]
+
+Using what the user entered, establish whether the user included the word "KEYWORDS". Store answer as TRUE or FALSE in a variable called KEYWORDS. 
+Establish whether the user included the word "TOPIC". Store answer as TRUE or FALSE in a variable called TOPIC. Establish whether the user included the word "QUESTIONS". Store answer as TRUE or FALSE in a variable called QUESTIONS. Do not display these variables (TOPIC, QUESTIONS, KEYWORDS) to me, just remember them.
+
+Start with a title "You asked to create an FAQ page" + (if KEYWORD = TRUE, insert "using the keywords" + include the list of keywords) + (if TOPIC = TRUE, insert "around the topic of " + insert the topic entered) + "." 
+
+Then, I want you to create an FAQ page in the [TARGETLANGUAGE]. Make each question bold. IF QUESTIONS = TRUE, use the list of questions in your FAQ. IF TOPIC = TRUE, create an FAQ list based on the topic given. IF KEYWORDS = TRUE, make sure you EVERY SINGLE WORD IN the list of keywords given in the answers of the FAQ list. IF QUESTION = FALSE, try to come up with 8 questions.
+
+For the answers, get as detailed as possible. 

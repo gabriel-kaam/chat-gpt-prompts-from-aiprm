@@ -1,0 +1,24 @@
+AuthorName: David
+AuthorURL: https://www.blockchain3r.com
+
+Title: Voice-over script
+Category: Script Writing
+Teaser: Create a voice-over script
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-26T10:11:59.588Z
+Help: 
+ID: 1795367404675792896
+OwnPrompt: 
+PromptHint: [text that you want a voice-over for]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-26T10:11:59.588Z
+Usages: 79
+Views: 133
+Votes: 2
+
+Prompt:
+Now, using this outline we will write a voice-over script for a [TARGETLANGUAGE]. I will later ask you to think about a precise chapter. You must focus ONLY on this precise chapter, NEVER repeat yourself and be concise. Is that okay?
+
+[PROMPT]

@@ -1,0 +1,22 @@
+AuthorName: Kiraky
+AuthorURL: https://kiraky.com
+
+Title: Article keyword strategy
+Category: writing
+Teaser: Create article keyword strategy
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-23T07:26:30.392Z
+Help: 
+ID: 1794238595012489216
+OwnPrompt: 
+PromptHint: [Keyword]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-02-23T07:36:00Z
+Usages: 87
+Views: 125
+Votes: 0
+
+Prompt:
+Create 100% unique a full minimum 1000 words blog post based on the title: "[PROMPT]". act as a professional SEO Writter and grammar corrector and improver and Human-written article in [TARGETLANGUAGE]. Use the outline generated above and incorporate the on-page optimization and featured snippets use cases. At the end of the article, write maximum a 60 characters SEO-optimized title, maximum a 70 characters permalink, maximum a 150 characters SEO meta description, a description for the featured image, focus keywords, and 5 tags related to the article.

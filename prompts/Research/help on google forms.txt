@@ -1,0 +1,24 @@
+AuthorName: Guilherme Coelho
+AuthorURL: https://www.instagram.com/guilhermepiobr/
+
+Title: Help on Google Forms
+Category: Research
+Teaser: Easily Create Answer Options for Google Forms Multiple Choice Questions
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-07T15:25:54.285Z
+Help: 
+ID: 1798707893911154688
+OwnPrompt: 
+PromptHint: [Write your question]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-08T19:57:32Z
+Usages: 18
+Views: 35
+Votes: 0
+
+Prompt:
+Sua tarefa é criar 8 respostas de múltipla escolha objetivas e genéricas para o Google Forms com base na  pergunta a seguir.  Sempre avalie a possibilidade de esgotar todas as possibilidades de respostas usando, se necessário, sugestões como por exemplo, "outras" ou "nenhuma das respostas acima". Receba a pergunta em qualquer língua. Por favor, em sua resposta, não escreva nada além da lista com as oito sugestões. Todas as respostas devem estar em [TARGETLANGUAGE].
+
+[PROMPT]

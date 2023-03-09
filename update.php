@@ -45,7 +45,7 @@ $prompts = json_decode(file_get_contents('https://api.aiprm.com/api2/Prompts?Com
 foreach ($prompts as $prompt) {
 	$path = 'prompts/' . $prompt->Category;
 	$name = strtolower(sanitize($prompt->Title));
-	@mkdir($path);
+	@mkdir($path, 0777, true);
 
 	file_put_contents("$path/$name.txt", file_content_from_prompt($prompt));
 }

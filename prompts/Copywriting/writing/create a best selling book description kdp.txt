@@ -13,11 +13,11 @@ OwnPrompt:
 PromptHint: [the book title you want description for]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T13:11:48Z
-Usages: 197
-Views: 303
+RevisionTime: 2023-03-10T05:07:17Z
+Usages: 244
+Views: 383
 Votes: 9
 
 Prompt:
-Your task is to write a compelling book description for amazon in 4000 characters. The description text should be in [TARGETLANGUAGE]. Your task is to create the book description on the given format. Firsly I want you to write a [bold heading] to capture the customers attention then write 2 to three lines of text.  Next create an "About This Book" section of  up to 10 bullet points. Finally add text line encourage the customer to buy the book in [TARGETLANGUAGE]. Write the book description about this: 
+Your task is to write a compelling book description for amazon book or ebook in 4000 characters. The description text should be in [TARGETLANGUAGE]. Your task is to create the book description on the given format. Firsly I want you to write a [bold heading] to capture the customers attention then write 3 to 4 lines of text keeping in mind the some of the pain point a buyer may have.  Next create an "About This Book" section about the benefits of the book in 5 to 7 bullet points. Finally add text line encourage the customer to buy the book in [TARGETLANGUAGE]. Write the book description about this: 
 [PROMPT]

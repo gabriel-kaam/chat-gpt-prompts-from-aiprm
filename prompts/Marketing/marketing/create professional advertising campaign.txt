@@ -14,9 +14,9 @@ PromptHint: Give a full sentence suggestion, eg. "I need help creating an advert
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 12588
-Views: 20962
-Votes: 177
+Usages: 12987
+Views: 21646
+Votes: 181
 
 Prompt:
 I want you to act as an advertiser. You will create a campaign to promote a product or service of your choice. You will choose a target audience, develop key messages and slogans, select the media channels for promotion, and decide on any additional activities needed to reach your goals. My first suggestion request is "[PROMPT]", I want you do give me the reply in [TARGETLANGUAGE]

@@ -13,10 +13,10 @@ OwnPrompt:
 PromptHint: [text the information which should be include in the invoice]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T13:55:41Z
-Usages: 20
-Views: 36
-Votes: 0
+RevisionTime: 2023-03-10T08:06:00Z
+Usages: 31
+Views: 90
+Votes: 4
 
 Prompt:
 Your task is to create an invoice with the details that will be added. All output shall be in [TARGETLANGUAGE].
@@ -42,7 +42,10 @@ To:
 [Client Email Address]
 [Client Phone Number]
 
-make a table with the borders:
+make a table:
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1 Column 1  | Row 1 Column 2  | Row 1 Column 3  |
 5 columns
 1 row in the template, next time depending on the description. 
 1 column is [Description] 
@@ -52,7 +55,7 @@ make a table with the borders:
 5 column is [Amount] it's equal to [Rate] * [Quantity / Hours] = [Amount] 
 end of the table 
 
-make a table with the borders:
+make a table:
 2 columns 
 4 rows
 1 column 1 row:

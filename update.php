@@ -31,7 +31,6 @@ OwnPrompt: {$prompt->OwnPrompt}
 PromptHint: {$prompt->PromptHint}
 PromptPackageID: {$prompt->PromptPackageID}
 PromptTypeNo": {$prompt->PromptTypeNo}
-RevisionTime: {$prompt->RevisionTime}
 
 Prompt:
 {$prompt->Prompt}

@@ -14,9 +14,9 @@ PromptHint: Name your category in simple but precise language. E.g. “electroni
 PromptPackageID: 6
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 2349
-Views: 4078
-Votes: 26
+Usages: 2413
+Views: 4181
+Votes: 27
 
 Prompt:
 I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Come up with five new, innovative products that are targeted at the unique needs of the audience. The category in first line and audience in second line is: [PROMPT] 

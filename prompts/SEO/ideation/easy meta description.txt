@@ -14,9 +14,9 @@ PromptHint: Enter Article Title Followed By a Comma and Article Keyword
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 6716
-Views: 9011
-Votes: 50
+Usages: 6886
+Views: 9229
+Votes: 51
 
 Prompt:
 Please ignore all previous instructions. Write a meta description, in [TARGETLANGUAGE], under 165 characters, for an article containing the title and keyword of [PROMPT]

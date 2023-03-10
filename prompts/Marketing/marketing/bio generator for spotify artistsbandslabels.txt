@@ -14,9 +14,9 @@ PromptHint: [What is your Artist/Band/Label Name - Location - Influences/Sounds 
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-03-08T18:42:04Z
-Usages: 25
-Views: 53
-Votes: 1
+Usages: 40
+Views: 80
+Votes: 2
 
 Prompt:
 Your task is to write a bio for an artist, band, or label from the text I give you in a concise, exciting, and detailed way in 5 sentences or a maximum of 5 paragraphs.  All output should be given in [TARGETLANGUAGE]. The text to summarize is this:

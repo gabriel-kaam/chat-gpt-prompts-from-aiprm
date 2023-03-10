@@ -14,9 +14,9 @@ PromptHint: [your list of keywords separated by comma]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1822
-Views: 2443
-Votes: 17
+Usages: 1855
+Views: 2489
+Votes: 18
 
 Prompt:
 I want you to act as a fancy title generator. Give me the title in the language [TARGETLANGUAGE]. I will type keywords via comma and you will reply with fancy titles. my first keywords are: [PROMPT]

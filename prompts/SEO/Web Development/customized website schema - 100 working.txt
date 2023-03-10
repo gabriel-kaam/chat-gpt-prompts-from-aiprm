@@ -14,9 +14,9 @@ PromptHint: Submit your Page url
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-03-09T05:21:06Z
-Usages: 1573
-Views: 2596
-Votes: 9
+Usages: 1605
+Views: 2641
+Votes: 11
 
 Prompt:
 Write schema markup for this url [PROMPT]. The Schema Markup should be Google Friendly and validate through schema.org [TARGETLANGUAGE]

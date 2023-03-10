@@ -14,9 +14,9 @@ PromptHint: [Type Post Keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 2879
-Views: 3821
-Votes: 26
+Usages: 3016
+Views: 3995
+Votes: 27
 
 Prompt:
 [TARGETLANGUAGE]write blogger SEO optimized content post of "[PROMPT]" with  include: title, meta description 150 characters, image alt, image title, blog under 1200 words, Faqs, Conclusion.

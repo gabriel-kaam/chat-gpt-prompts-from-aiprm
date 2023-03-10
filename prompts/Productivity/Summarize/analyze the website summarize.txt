@@ -15,9 +15,9 @@ PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 24712
-Views: 32607
-Votes: 277
+Usages: 25335
+Views: 33497
+Votes: 284
 
 Prompt:
 Your task is to analyze the website I give you and report in 200 words. All outputs shall be in [TARGETLANGUAGE]. The text to summarize should be read from this URL: [PROMPT]

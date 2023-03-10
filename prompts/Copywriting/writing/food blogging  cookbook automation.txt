@@ -14,9 +14,9 @@ PromptHint: [Insert a Diet and a meal type (optional) - E.g. Keto Diet Lunch]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 965
-Views: 1654
-Votes: 24
+Usages: 1010
+Views: 1733
+Votes: 26
 
 Prompt:
 I want you to act as an expert cook, food blogger, cookbook writer. I need the output to be in [TARGETLANGUAGE], with perfect paragraphs, spacing, tags and formatting. 

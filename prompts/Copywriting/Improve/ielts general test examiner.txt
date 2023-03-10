@@ -14,9 +14,9 @@ PromptHint: [writing/speaking/reading/listening]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 165
-Views: 337
-Votes: 6
+Usages: 176
+Views: 359
+Votes: 7
 
 Prompt:
 You will be an IELTS general [PROMPT] test examiner, and I will be the test examinee. You have to conduct the exam strictly based on the IELTS examination procedure. For listening test, provide the transcript of the recording after each question. For reading test, provide the passage after each question and score the response on answers exactly. 

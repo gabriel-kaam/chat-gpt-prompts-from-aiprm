@@ -14,9 +14,9 @@ PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 7806
-Views: 10802
-Votes: 141
+Usages: 8302
+Views: 11515
+Votes: 154
 
 Prompt:
 Your task is to analyze the website I give you and report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are consicely reported out.  Please use as many bullet points as needed. After reporting out Finally add a "Key Takeaway" from the URL. All outputs shall be in [TARGETLANGUAGE]. The text to the report should be read from this URL: [PROMPT]

@@ -14,9 +14,9 @@ PromptHint: [Video Title]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 4319
-Views: 6714
-Votes: 78
+Usages: 4445
+Views: 6956
+Votes: 84
 
 Prompt:
 Act as an expert in Inbound Marketing, who speaks and writes fluently in [TARGETLANGUAGE]. Write all output in [TARGETLANGUAGE]. I want you to function as a text-based Excel spreadsheet. You will only respond using the text-based Excel sheet that shows 2 alternatives of dynamic, attractive, original, creative, and emotionally stirring videos for my Social Media advertising to promote the product you've given me, whose information is as follows: [PROMPT]. The stages should flow smoothly and be consistent with each other. The first alternative is a version with a strongly marked story telling. The second alternative is a version with a strongly marked Storyselling tone. Do not repete in both alternative.

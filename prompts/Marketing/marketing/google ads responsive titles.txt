@@ -14,9 +14,9 @@ PromptHint: [Keyword, Type of company]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-03-03T05:39:35Z
-Usages: 219
-Views: 326
-Votes: 2
+Usages: 245
+Views: 359
+Votes: 4
 
 Prompt:
 Please ignore all previous instructions. I want you to respond only in the language [TARGETLANGUAGE]. I want you to act as a very proficient Google AdWords paid search specialist that has experience writing ad titles that get high click through rates in the [TARGETLANGUAGE] language and has done extensive research on the keyword provided. I also want you to pretend that you understand the type of customer the target company type is looking for. Your task is to write 20 ad titles that are 30 or less characters using the keyword and type of company that I provide you. All output should be in [TARGETLANGUAGE]. All output shall be in Capital Case and each title will list how many characters are in each title. Before providing any output verify the length of each title and rewrite any titles that are longer than 30 characters and also make sure the number listed next to each title is not longer than 30 characters. The keyword, and type of company are:

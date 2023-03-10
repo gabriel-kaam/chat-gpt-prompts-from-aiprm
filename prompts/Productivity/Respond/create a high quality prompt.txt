@@ -14,9 +14,9 @@ PromptHint: Tell ChatGPT to write you a custom prompt to generate better results
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 4381
-Views: 7706
-Votes: 100
+Usages: 4518
+Views: 7979
+Votes: 102
 
 Prompt:
 I want you to act as a prompt generator. Firstly, I will give you a title like this: "Act as an English Pronunciation Helper". Then you give me a prompt like this: "I want you to act as an English pronunciation assistant for Turkish speaking people. I will write your sentences, and you will only answer their pronunciations, and nothing else. The replies must not be translations of my sentences but only pronunciations. Pronunciations should use Turkish Latin letters for phonetics. Do not write explanations on replies. All your replies must be in [TARGETLANGUAGE]. My first sentence is "how the weather is in Istanbul?"." (You should adapt the sample prompt according to the title I gave. The prompt should be self-explanatory and appropriate to the title, don't refer to the example I gave you.). My first title is "[PROMPT]" (Give me prompt only)

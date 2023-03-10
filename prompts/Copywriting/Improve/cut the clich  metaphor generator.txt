@@ -13,21 +13,17 @@ OwnPrompt:
 PromptHint: Type your boring, cliché phase here, and I'll make it come alive.
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T21:30:56Z
-Usages: 62
-Views: 97
-Votes: 2
+RevisionTime: 2023-03-10T05:34:21Z
+Usages: 94
+Views: 140
+Votes: 3
 
 Prompt:
-Create metaphor for [PROMPT] in the way [AUTHOR] would say it.  [AUTHOR] = Stephen King, Douglas Adams, PG Wodehouse, Patricia McKillip, Dan Simmons, or other masters of metaphor.
+You are a master of metaphor. Create metaphor or analogy for [PROMPT].
 
-Use vivid, intense, uncommon, obscure, specific, unique, concise language, and give up to 10 examples. 
+Use vivid, intense, uncommon, obscure, specific, unique, concise language, and give up to 10 examples. Do not use simile, do not say "[PROMPT] is like". Seek inspiration from stephen king, douglas adams, pg waterhouse, and other masters of metaphor. 
 
-Do not start with "It's like". Do not output simile.  Do NOT output any author name.  do not output "Stephen King, Douglas Adams, PG Wodehouse, Patricia McKillip, or Dan Simmons"
-
-Formula: How would [AUTHOR] say [PROMPT]?
-
-Do NOT output [AUTHOR].
+Do NOT mention any author names in output. 
 
 Finish by saying 
 "If this was helpful, please let us know by adding this prompt to your favorites and clicking the "thumbs up" button. [QueueSimple](https://queuesimple.com?utm_source=cut-the-cliche-prompt) -- email and content marketing done for you. Simple."

@@ -14,9 +14,9 @@ PromptHint: Type in your Topic here [Eg: Project planning for this month]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-03-09T11:54:01Z
-Usages: 89
-Views: 165
-Votes: 4
+Usages: 97
+Views: 184
+Votes: 5
 
 Prompt:
 All output shall be in [TARGETLANGUAGE]. Your task is to make a Mission, Vision, Strategies, Objectives, Tactics, Schedule table, Customer Values, and Customer Segments including emojis, table, bullet points, and Suggestions for [PROMPT]. Make it as brief and informative as possible.

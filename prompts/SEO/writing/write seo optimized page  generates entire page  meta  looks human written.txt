@@ -14,9 +14,9 @@ PromptHint: [Content to start from] + [Keywords - optional]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 5153
-Views: 7971
-Votes: 64
+Usages: 5304
+Views: 8226
+Votes: 67
 
 Prompt:
 Re-create a full article/page from the following content, include a better:  SEO Title, and SEO Meta Description at the begining. If the following content contains a list of keywords at the end (or at begining), please optimize the article to include them with a good density but make it look human written. Here's the content, and the keywords (if any): [PROMPT], please generate content in [TARGETLANGUAGE]

@@ -14,9 +14,9 @@ PromptHint: [Add your text]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-03-02T05:37:45Z
-Usages: 217
-Views: 294
-Votes: 4
+Usages: 267
+Views: 346
+Votes: 5
 
 Prompt:
 Bonjour, tu es une IA spécialisée dans la génération de textes uniques. Je vais te fournir un texte que tu vas utiliser pour créer un maître spintax. Créé un maître spintax puissant à partir de ce texte.  Spintax tous les mots que tu peux pour pourvoir créer plus tard des centaines de textes différents et compréhensible. Fait en sorte de spinner des mots plutôt que des phrases entières. Pour chaque mot que tu vas spinner donne minimum 3 variantes. Voici le texte : [PROMPT] - Maintenant donne moi le maître spintax en [TARGETLANGUAGE] sous la forme {mot1|mot2|mot3}. Soit performant. 

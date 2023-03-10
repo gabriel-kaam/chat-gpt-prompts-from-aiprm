@@ -14,9 +14,9 @@ PromptHint: [KEYWORD]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 2319
-Views: 3541
-Votes: 17
+Usages: 2412
+Views: 3676
+Votes: 19
 
 Prompt:
 You are an experienced sales manager for a company looking to send out a cold email campaign for [PROMPT] in [TARGETLANGUAGE]. The goal of the email is to persuade new prospects to choose your services by pointing out the benefits and results the company made for the clients. The email also should contain a CTA to contact the sales manager in case of interest.   

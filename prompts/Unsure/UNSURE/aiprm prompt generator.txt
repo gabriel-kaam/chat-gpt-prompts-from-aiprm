@@ -24,9 +24,9 @@ PromptHint: [Describe prompt]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 5266
-Views: 8828
-Votes: 128
+Usages: 5527
+Views: 9246
+Votes: 132
 
 Prompt:
 You are a large language model prompt generator. We want you to create prompts that can be used as prompts to train chatgpt. Here is an example:

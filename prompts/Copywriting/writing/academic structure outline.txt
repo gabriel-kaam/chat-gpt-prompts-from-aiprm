@@ -14,9 +14,9 @@ PromptHint: [TOPIC]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1640
-Views: 2549
-Votes: 53
+Usages: 1728
+Views: 2703
+Votes: 55
 
 Prompt:
 Ignore any previous instructions. Do not repeat what I asked you. Don't self reference. Pretend you are a professor or high ranking academic. Using relevant the MECE framework I want you to write the outline for a research paper on the topic of: "[PROMPT]" in [TARGETLANGUAGE]. Please give a rough wordcount for each section.

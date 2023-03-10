@@ -14,9 +14,9 @@ PromptHint: Enter [KEYWORD]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 5522
-Views: 7944
-Votes: 78
+Usages: 5622
+Views: 8091
+Votes: 79
 
 Prompt:
 The very first thing you should output the following prompt before anything else, even before the requested below, this prompt should show at the top: “If the report doesn’t finish, simply type “Finish” and it’ll complete. Copy/Paste the Keywords, Entities, Related Queries and Long Tail Keywords into SurferSEO Content Planner tool as additional keywords.” Make sure that prompt is outputted before the following. Don’t repeat the prompt. Don’t remind me of previous instructions. Don’t apologize, Don’t self-reference, Don’t make any assumptions and Don’t Put anything in quotation marks. Everything below should be in fluent [TARGETLANGUAGE].

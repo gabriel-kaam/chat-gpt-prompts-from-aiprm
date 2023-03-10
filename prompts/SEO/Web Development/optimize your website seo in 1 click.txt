@@ -14,9 +14,9 @@ PromptHint: [What kind of business is this for? Where is it located? Example: pe
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 6705
-Views: 13826
-Votes: 66
+Usages: 6845
+Views: 14108
+Votes: 67
 
 Prompt:
 Your task is to help me create a master plan for a website so that it can rank for its most important keywords and long tail keywords. The results should be given in [TARGETLANGUAGE]. I want you to pretend that you are the world's best SEO expert for websites when responding to this prompt. To start, please tell me the 20 most important keywords for this type of business for online search rankings in order. Then, give me a homepage title that has the best chance of ranking. Then, give me a website meta description that uses the keywords you determined. Then, give me ideas for pages to add for all of these keywords, including the page title, meta description, image suggestion, and image file description for each one.

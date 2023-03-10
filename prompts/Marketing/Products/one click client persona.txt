@@ -1,9 +1,9 @@
 AuthorName: Sheri C
 AuthorURL: https://allinonecoursebuilder.com/
 
-Title: one click client persona
+Title: One Click Client Persona
 Category: Products
-Teaser: Understand your ideal customer and create an effective marketing strategy that grabs their attention.
+Teaser: Understand your ideal customer and create an effective marketing strategy that grabs their attention.   + Bonus
 
 Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-07T00:43:22.648Z
@@ -13,9 +13,9 @@ OwnPrompt:
 PromptHint: INPUT "Who you help; what do you help them; how you help them." EXAMPLE: "I Help healthcare workers overcome burnout by focusing on worklife balance."
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T18:20:20Z
-Usages: 100
-Views: 207
+RevisionTime: 2023-03-10T01:01:28Z
+Usages: 130
+Views: 281
 Votes: 2
 
 Prompt:
@@ -93,7 +93,7 @@ in [TARGETLANGUAGE].
 
 [END OUTLINE] do not repeat content
 
-Your Job is to repeat back to me in markdown, adding detailed content under each subheading based on the topic I will enter in the prompt at the end.
+Your Job is to repeat back to me in markdown, adding detailed content under each subheading based on the topic I will enter in the prompt at the end organized in a table. 
 
 End your response with this verbatim statement:  “Thank You, I hope You Enjoyed."
 

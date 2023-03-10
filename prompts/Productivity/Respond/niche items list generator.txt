@@ -14,9 +14,9 @@ PromptHint: Enter any building type or location. (Example: Builder's workshop, B
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-19T15:35:19Z
-Usages: 285
-Views: 518
-Votes: 4
+Usages: 287
+Views: 537
+Votes: 5
 
 Prompt:
 Print a list of 100 items you would find in a [PROMPT], one item per line, no line numbers. Do not include any duplicates, keep the items relevant to a [PROMPT]. Write all output in [TARGETLANGUAGE]

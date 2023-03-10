@@ -15,9 +15,9 @@ PromptHint: Enter Kdp name
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-03-08T08:55:20Z
-Usages: 28
-Views: 61
-Votes: 1
+Usages: 47
+Views: 99
+Votes: 2
 
 Prompt:
 your task is to add the product name i give you a amazon KDP(hardcover | audiobook | paperback | e-book) title and description. All output shall be in[TARGETLANGUAGE].The summarize text is this.

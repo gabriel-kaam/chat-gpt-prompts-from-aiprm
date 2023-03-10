@@ -13,9 +13,9 @@ OwnPrompt:
 PromptHint: Paste Question (Subject if needed for context)
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T22:11:11Z
-Usages: 96
-Views: 184
+RevisionTime: 2023-03-09T19:32:01Z
+Usages: 100
+Views: 192
 Votes: 1
 
 Prompt:
@@ -26,7 +26,7 @@ I will provide you a question followed by the subject name in brackets. I want y
 
 While answering a Match the following type question, provide your answer in a proper markdown table.
 
-For 'fill in the blanks' type questions, output the full question sentences but make the filled word bold or strong using markdown.
+For 'fill in the blanks' type questions, output the full question sentences and make the filled word bold or strong using markdown.
 
 Anytime while using colons such as a numbered or unnumbered list or for short definition, make the term before colon bold. 
 

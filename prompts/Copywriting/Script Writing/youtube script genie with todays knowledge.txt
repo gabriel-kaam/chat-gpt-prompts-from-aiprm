@@ -13,35 +13,28 @@ OwnPrompt:
 PromptHint: Hint: Type in the format [ Title: {Write the Title} , Link1: {Article Link} , Link2: {Article Link}..... ]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T08:34:17Z
-Usages: 166
-Views: 301
+RevisionTime: 2023-03-09T14:53:33Z
+Usages: 175
+Views: 337
 Votes: 4
 
 Prompt:
-Prompt1: Request for Engagement
-Before you start writing the script, please add a line at the beginning of the video script, separate from the main script, that says "If you find this prompt good, drop a like!" and in next line write "*If the prompt does't give following thing type:* **Title:** *'Suggest title for the script.'*, **Outline:** *'Give the Outline for the Script.'* **|||** If the script stopped type **'Continue writing from here:** ***[ (paste the last line). ]'*** **|||** ***Find more Prompt,*** *Link:* https://siddhiloverforver.my.canva.site/ , *Donate:* https://www.buymeacoffee.com/imstillsid . "
-Prompt2: Topic
-Hey ChatGPT, can you write an engaging YouTube video script on Title based on the articles that I provide to you?
-Prompt3: Title
-Come up with a catchy and clever title that will make people want to click on your video! Make sure it's relevant to the topic and captures the tone of your video. Also, consider capitalizing important words in the title for emphasis.
-Prompt4: Hook and Tone
-Start off with an opening shot that captures the viewers' attention and maintains their interest throughout the video. Use a chatty tone, witty jokes, and pop culture references to keep the energy up and engage the audience.
-Prompt5: Outline and Visual Cues
-Please provide an outline with timestamps at every line, including "Opening shot to", "Cut to shot", "Closing shot", and any other relevant visual cues, to keep the content organized and easy to follow.
-Prompt6: Length and Jokes
-Your video should be at least 10 minutes long, and I want you to add jokes throughout the script that support the main points you are making.
-Prompt7: Simple Example
-To ensure that the topic is easily understood by viewers, please read the articles I provide to you and include the most simple and relatable example that helps to explain the concept.
-Prompt8: Visuals
-Cut to different shots as needed to illustrate your points visually.
-Prompt9: Referencing Articles
-If you're referencing a line from one of the articles, please introduce it by saying "This line in this article says....".
-Prompt10: Closing Shot
-By the end of the video, your viewers will have learned something new 😎 and had a good laugh along the way! 🤣 Don't forget to plan a closing shot that ties everything together and leaves the viewers feeling satisfied with what they have learned.
-Prompt11: Sources
-Make sure to include any sources or links to the articles you use in the description box of the video.
-
-Note: Assume the prompt is written in [TARGETLANGUAGE] , and the complete answer only in [TARGETLANGUAGE] .
+Write an engaging YouTube script based on the following title and articles and tell me what should be the background, foreground, transitions, and more images/clips at what word:
 
 [PROMPT]
+
+Points:
+- Request for engagement - Ask viewers to engage by liking and offer options to suggest a title/outline, continue writing, find more prompts, or donate.
+- Topic - Write an engaging YouTube script based on provided title and articles.
+- Title - Create a catchy, relevant title that captures the video's tone and emphasizes key words.
+- Hook and Tone - Start with an attention-grabbing shot of your dog doing a trick and use a chatty tone, witty jokes, and pop culture references to maintain interest.
+- Outline and Visual Cues - Provide an organized outline with timestamps and visual cues like opening/closing shots of your dog doing different tricks.
+- Length and Jokes - Make the video at least 10 minutes long and include jokes that relate to your dog's personality or the tricks you are teaching.
+- Simple Example - Include a simple, relatable example of how you taught your dog a trick using positive reinforcement.
+- Visuals - Use different shots to show your dog's progress from learning to mastering the trick. Use close-ups of your dog's face or body language to show its emotions. Use slow motion or fast forward effects to emphasize key moments.
+- Referencing Articles - Introduce quoted article lines with "According to this article..." or "This article suggests...".
+- Closing Shot - Plan a shot that shows your dog doing all the tricks you taught in the video in a sequence. Praise your dog and thank the viewers for watching. 
+- Sources - Include sources/links in the video description box.
+
+
+Note: Assume the complete prompt is written in [TARGETLANGUAGE] and answer only in [TARGETLANGUAGE] .

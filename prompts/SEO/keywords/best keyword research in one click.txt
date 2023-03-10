@@ -14,9 +14,9 @@ PromptHint: [Topic]
 PromptPackageID: 0
 PromptTypeNo": 2
 RevisionTime: 2023-02-21T18:32:03Z
-Usages: 1465
-Views: 1989
-Votes: 13
+Usages: 1512
+Views: 2054
+Votes: 14
 
 Prompt:
 Can you give me a list of 30 long-tail keywords related to ''TOPIC'' in [TARGETLANGUAGE]with a minimum search volume of 1000 per month in the United States? Please include a mix of informational, commercial, and 'how to' keywords, along with the keyword difficulty expressed as a percentage. I would like the keywords presented in a table format with columns for keyword, search volume, keyword difficulty, and motive, and limited to data from the United States.

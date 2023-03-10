@@ -29,7 +29,6 @@ Help: {$prompt->Help}
 ID: {$prompt->ID}
 PromptHint: {$prompt->PromptHint}
 PromptPackageID: {$prompt->PromptPackageID}
-PromptTypeNo: {$prompt->PromptTypeNo}
 
 Prompt:
 {$prompt->Prompt}

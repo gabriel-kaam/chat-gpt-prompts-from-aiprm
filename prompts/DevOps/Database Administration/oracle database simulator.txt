@@ -9,10 +9,8 @@ Community: DevOps-f3e52afbf831197f
 CreationTime: 2023-02-11T21:38:35.539Z
 Help: 
 ID: 1790104375033856000
-OwnPrompt: 
 PromptHint: [Enter a DB domain (e.g. tourism). Then enter SQL queries in the following prompts].
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Target language is [TARGETLANGUAGE]

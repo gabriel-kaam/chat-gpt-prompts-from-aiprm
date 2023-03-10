@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-31T07:46:09.107Z
 Help: 
 ID: 1785908617992736768
-OwnPrompt: 
 PromptHint: [Your 3-6 keywords for the article titles, separated by comma. i.e. kw1,kw2,kw3]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 [TARGETLANGUAGE] Give me 5 blog article titles, relevant for the following keywords: [PROMPT]. Those topics should allow me to include the keywords above into the artile.

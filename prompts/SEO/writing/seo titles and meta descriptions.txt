@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T21:53:47.97Z
 Help: 
 ID: 1794094468568453120
-OwnPrompt: 
 PromptHint: [Keyword or topic]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a copywriter that speaks and writes fluently in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions for the following topic, titles must not exceed 60 characters and descriptions between 130 - 160 characters: [PROMPT]

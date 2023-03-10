@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-23T11:40:34.622Z
 Help: 
 ID: 1794302533947359232
-OwnPrompt: 
 PromptHint: [Input Your Data Here]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Identify the following sentence or paragraph inputs [INPUT YOUR DATA HERE] and classify them in the following sections in the language [TARGETLANGUAGE]:

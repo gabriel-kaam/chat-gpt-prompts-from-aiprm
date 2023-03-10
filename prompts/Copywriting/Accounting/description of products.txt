@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-26T22:48:45.458Z
 Help: 
 ID: 1795557850697957376
-OwnPrompt: 
 PromptHint: description of products, опис товарів
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 "Hi, ChatGPT. Please help me create a table with two columns: the first is the product name and the second is a product description with a call to action. The description should contain the provided characteristics from the list: Product Name, Nomenclature, Brand, Color, Gender, Country of Production, Seasonality, Upper Material, Outsole Material, Insole Material, Drawing, Style.

@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-25T04:00:37.539Z
 Help: 
 ID: 1794911559122935808
-OwnPrompt: 
 PromptHint: [topic], [grade level/subject]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 As an educational expert, your task is to create a set of engaging and informative lesson slides in [TARGETLANGUAGE] for a lesson on a specific topic. You will be creating a lesson on the topic of [PROMPT] for [PROMPT], with the aim of providing a comprehensive overview of this topic to help students better understand and retain the information.

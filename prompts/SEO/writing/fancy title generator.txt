@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-26T12:43:41.636Z
 Help: 
 ID: 1784171557598527488
-OwnPrompt: 
 PromptHint: [your list of keywords separated by comma]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as a fancy title generator. Give me the title in the language [TARGETLANGUAGE]. I will type keywords via comma and you will reply with fancy titles. my first keywords are: [PROMPT]

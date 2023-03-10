@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-20T01:04:42.207Z
 Help: 
 ID: 1793055347523710976
-OwnPrompt: 
 PromptHint: What service do you offer? briefly describe or add key words separated by coma
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to create a title with the keywords provided in less than 75 characters. The title must always use a keyword from the list of keywords provided. Your title should do several things:

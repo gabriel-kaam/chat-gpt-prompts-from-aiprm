@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-09T17:11:43.382Z
 Help: 
 ID: 1799459299685302272
-OwnPrompt: 
 PromptHint: State what happens in the scene and the characters. Direct what the characters do in the chapter and what you want to happen in the story. 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Assume you are a fiction novel writer and only write in the form of fiction novel writing. Please write for the following prompts about the chapter [PROMPT] . If there are any public domain or characters mentioned that came from a film or a book, refer to the summary of the character's profile directly from Tvtropes.com as reference for their interactions indicated in the chapter. 

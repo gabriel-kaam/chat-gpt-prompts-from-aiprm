@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-10T00:13:34.632Z
 Help: 
 ID: 1799565462762422272
-OwnPrompt: 
 PromptHint: Rewrite text without bullshit. In unique Gerben G van Dijk style
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Rewrite a text for communication professionals in other words, the writing style should be the same as the most text written on this url: https://www.frankwatching.com/archive/2022/04/15/communicatiewerk-organiseren-tips-tools/ . The output shall be in [TARGETLANGUAGE]. The lenght of the output text is almost of the same lenght as the input text, but output can turn out littlebit longer. The text to rewrite is this text: [PROMPT]

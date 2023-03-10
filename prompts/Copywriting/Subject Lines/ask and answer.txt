@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-09T20:09:26.922Z
 Help: 
 ID: 1799504025813782528
-OwnPrompt: 
 PromptHint: Past ur text there
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Ask me 15 questions and answer to them about this text in [TARGETLANGUAGE]. Put your answers into a excel table with "Questions" on the left and "Answers" on the right: "[PROMPT]"

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-15T19:19:08.365Z
 Help: 
 ID: 1791518832024870912
-OwnPrompt: 
 PromptHint: [Paste your text here by line (question and answer)]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 your job is to Write FAQs schema markup for WP page. Note always start with [<script type="application/ld+json">] and input endline this [</script>] in code section.

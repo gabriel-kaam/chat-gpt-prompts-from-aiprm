@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-20T13:45:32.695Z
 Help: 
 ID: 1793246819548131328
-OwnPrompt: 
 PromptHint: [your list of keywords]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 write 100% unique, creative and Human-written article in [TARGETLANGUAGE] for the Keyword "[PROMPT]". The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Shoud be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), faqs and conclusion. Make sure article is plagiarism free. minimum 700 words. use question mark (?) at the end of questions. Try not to change the original write content righting tips while writing the Title. Try to use "[PROMPT]" 2-3 times in article. try to include [PROMPT] in headings as well. write a content which can easily pass ai detection tools test.

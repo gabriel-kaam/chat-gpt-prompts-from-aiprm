@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-01T11:34:14.886Z
 Help: 
 ID: 1786328408175939584
-OwnPrompt: 
 PromptHint: [URL with article that you need tags for]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to create and organise in table format TAGS for an article under [PROMPT]. TAGS shouldn't be longer than 20 letters. The amount of TAGS should be 20 or more. All output shall be in [TARGETLANGUAGE].

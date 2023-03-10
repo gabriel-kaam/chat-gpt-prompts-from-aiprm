@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-16T19:59:54.323Z
 Help: 
 ID: 1791891478981898240
-OwnPrompt: 
 PromptHint: Name of your favorite recipe ! you want to cook
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as an expert cook, food blogger, cookbook writer. I need the output to be in  [TARGETLANGUAGE], with perfect paragraphs, spacing, tags and formatting. GIVE ME AN INTRO AND SOME HISTORY OF RECIPE. The temperature for the recipe is always celsius.

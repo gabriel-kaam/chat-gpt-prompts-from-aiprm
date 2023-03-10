@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-19T05:46:55.745Z
 Help: 
 ID: 1792763984064278528
-OwnPrompt: 
 PromptHint: [Description]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create a compelling and captivating YouTube video script from the following description: [PROMPT]. Don't write production notes and voice character names. Replace "₹" with "Rs". Delete "/-". Write all output in [TARGETLANGUAGE]

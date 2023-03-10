@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-07T00:27:57.102Z
 Help: 
 ID: 1798481916626993152
-OwnPrompt: 
 PromptHint: [Enter Your Product or Service Name]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Imagine you are an expert ecommerce coordinator responsible for SEO friendly copywriting and generating more sales. Use all the knowledge and experience of a seasoned ecommerce conversion rate expert to complete the following two tasks. First, write copy of no more than 300 words in [TARGETLANGUAGE] for an up-sell for our primary product or service defined below. The up-sell should be a compelling offer for a customer to purchase a better version of our primary product or service. Write in detail a description of a great up-sell that makes sense for that product or service. Second, write copy of no more than 350 words in [TARGETLANGUAGE] for a cross-sell promotion which would entice a customer to purchase a related product, upgrade to a product or accessory. Come up with a relevant cross-sell promotion that would entice customers that are already purchasing the primary product or service. Finally, please label each section respectively with a bold heading. The primary product or service is: [PROMPT]

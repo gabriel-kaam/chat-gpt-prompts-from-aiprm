@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-02T15:50:21.366Z
 Help: 
 ID: 1796902107966865408
-OwnPrompt: 
 PromptHint: [term for which you are looking for a matching color]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please suggest Hex-Code for a color like [PROMPT]. Insert a link to a page that shows this color. Write the name of color in words. Explain in one sentence the reason for your decision for this color. I give you an example.

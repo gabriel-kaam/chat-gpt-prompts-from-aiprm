@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-07T23:16:42.908Z
 Help: 
 ID: 1788679516986806272
-OwnPrompt: 
 PromptHint: Name the niche to create the website
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to respond only in language [TARGETLANGUAGE]. Without mentioning, I want you to pretend that you are a senior WordPress developer instructing a beginner to develop a  niched website in [TARGETLANGUAGE]. Never mention that you are a senior developer of WordPress. You can instruct a beginner to create a website in fluent [TARGETLANGUAGE] that will have high quality content blog posts. Your task is to create an outline to start a niche-based website. All output shall be in [TARGETLANGUAGE].

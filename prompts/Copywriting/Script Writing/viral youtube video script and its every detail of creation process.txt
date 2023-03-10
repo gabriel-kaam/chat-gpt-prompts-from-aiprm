@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-18T19:33:53.95Z
 Help: 
 ID: 1792609710034386944
-OwnPrompt: 
 PromptHint: [Title that you want a video script for]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a detailed youtube video script and every detail of its creation in timstamp. All output shall be in [TARGETLANGUAGE]. The text to generate is this:

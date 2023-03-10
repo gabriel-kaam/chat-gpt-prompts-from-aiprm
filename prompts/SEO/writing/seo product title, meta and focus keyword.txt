@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T00:46:19.912Z
 Help: 
 ID: 1793775499894591488
-OwnPrompt: 
 PromptHint: Mention the Product Name
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to Provide me a title, meta description and product focus keyword. Keep the title tag length under 60 characters & meta description length under 160 characters. Use focus keyword in first 10% of meta description. All output should be in [TARGETLANGUAGE].

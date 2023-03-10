@@ -10,10 +10,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-01-31T06:42:49.087Z
 Help: 
 ID: 1785892679553650688
-OwnPrompt: 
 PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org/wiki/Netflix
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to analyze the website I give you and report in 200 words. All outputs shall be in [TARGETLANGUAGE]. The text to summarize should be read from this URL: [PROMPT]

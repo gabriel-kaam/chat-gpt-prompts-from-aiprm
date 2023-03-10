@@ -10,10 +10,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-03-02T04:55:40.665Z
 Help: 
 ID: 1796737352765538304
-OwnPrompt: 
 PromptHint: Paste in your lecture content - Max 8000 characters
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Generate 10 multiple choice questions in [TARGETLANGUAGE] with four options to test comprehension of this lecture content and indicate the correct answer with an asterisk. [PROMPT]

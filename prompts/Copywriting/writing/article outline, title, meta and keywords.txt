@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-19T19:27:26.961Z
 Help: 
 ID: 1792970474750468096
-OwnPrompt: 
 PromptHint: Enter Keyword or Title
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please provide an outline for a  SEO-optimized long-form article. The article should have a minimum of 2000 words and aim to outrank the article titled '[PROMPT]' on Google search results. The outline should have a minimum of 10 headings and subheadings, including H1, H2, H3, and H4 headings. The headings should be appropriately bolded and keyword-rich, and the final paragraph should be a conclusion summarizing the main points of the article. The outline should also include 5 frequently asked questions (FAQs) that are informative and directly related to the content of the article. Please make sure to use the main keyword and related keywords throughout the outline in a natural and meaningful way. Langue will be [TARGETLANGUAGE]

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-23T16:36:08.393Z
 Help: 
 ID: 1794376914773995520
-OwnPrompt: 
 PromptHint: Enter your code
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please translate the text to [TARGETLANGUAGE] but do not change the code elemtents. I just want you to translate the text. Here is the code: [PROMPT]

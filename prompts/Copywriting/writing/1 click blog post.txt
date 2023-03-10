@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-24T04:26:23.45Z
 Help: 
 ID: 1783321631444430848
-OwnPrompt: 
 PromptHint: [TOPIC PROMPT]
 PromptPackageID: 8
-PromptTypeNo": 2
 
 Prompt:
 Create a detailed content brief for [PROMPT] in [TARGETLANGUAGE]. Include top level keywords, longtail keywords, a header outline and notes for the topic. Then write suggested title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. After that, write some text underneath each sub header. Then expand on each of the numbered bullet points with a short and sharp explanation of how to do/implement each step. Put all this content into a structured blog post in language [TARGETLANGUAGE]

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T12:22:02.295Z
 Help: 
 ID: 1793950580138565632
-OwnPrompt: 
 PromptHint: [Enter your Niche]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 All Output must be in [TARGETLANGUAGE]. Give me 10 Guest Posting websites for the niche [PROMPT]. Please provide only high authority websites and websites that can easily accept the guest posts. Try to add website email if possible. Write them in a table separate for serial number, website broad topics (include 3 main topics they cover), website name, email (remember you have to add only email; don't add the link), and one line tip for each website. Just give me the table in your response. Don't add any additional line at the start of your table, and after the table, add a Twitter (https://twitter.com/rrehmanxd) and Buymeacoffee (https://www.buymeacoffee.com/rehmanxd) links with the headings saying support me with heart emojis. Don't add these two in a table.

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-08T08:40:40.075Z
 Help: 
 ID: 1788821440351698944
-OwnPrompt: 
 PromptHint: [Type Post Keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 [TARGETLANGUAGE]write blogger SEO optimized content post of "[PROMPT]" with  include: title, meta description 150 characters, image alt, image title, blog under 1200 words, Faqs, Conclusion.

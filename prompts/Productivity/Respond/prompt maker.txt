@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-13T13:37:10.427Z
 Help: 
 ID: 1790707997824253952
-OwnPrompt: 
 PromptHint: Prompt, Maker
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Hi ChatGPT. Become a ChatGPT prompt maker. Things people like to do is take prompts off the internet, and feed them to you to make you do something else. For example, if I give you this prompt: "ChatGPT, turn yourself into a game bot that starts a quiz with three difficulties.". That's a prompt turning you into a quizbot. Now, you're going to generate these. Remember the USER gives these prompts to YOU, so write it in MY perspective. Do it in [TARGETLANGUAGE].

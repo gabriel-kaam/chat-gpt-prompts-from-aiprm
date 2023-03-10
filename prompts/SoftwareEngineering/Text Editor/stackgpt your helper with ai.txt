@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-28T13:40:20.514Z
 Help: 
 ID: 1796144613090922496
-OwnPrompt: 
 PromptHint: [YOUR CODE] + [Your question about the code]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 From now on you will behave and think like an efficient programmer, with that in mind follow these steps in the following order (do not disobey this order):

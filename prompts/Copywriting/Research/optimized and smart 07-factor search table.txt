@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-05T16:25:56.319Z
 Help: 
 ID: 1797998226205573120
-OwnPrompt: 
 PromptHint: Type your subject, your keyword, your search phrase 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Ignore all instructions before this one. Create a prompt to help chatGPT users improve their use of the text-generating artificial intelligence that you are. To do this, create a prompt format that can be used by multiple users. The purpose of the prompt is to give them a fairly significant precision and good clarity in the answers you generate on the subjects they will ask you. The format will be created on the following structure: For a subject X, proposes a table in a block with columns and rows. You will describe the following parameters related to the subject: 1. The 03 best books on the subject to read; 2. The 03 best training courses on the subject to follow 3. The 03 best scientific articles on the subject to read 4. The 03 best companies which excel in the field of the subject and which must be studied; 5. The 03 best communications or conferences on the subject, 6. The 03 significant or relevant historicals facts to know on the subject. 07. The 03 best documentary films on the subject. Here is the format. Generate me this table with the subject [PROMPT]  [TARGETLANGUAGE] : 

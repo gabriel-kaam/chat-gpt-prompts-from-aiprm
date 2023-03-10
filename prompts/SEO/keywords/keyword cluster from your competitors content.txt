@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-01T14:49:34.801Z
 Help: 
 ID: 1786377565062299648
-OwnPrompt: 
 PromptHint: [Paste your competitor Content for keyword cluster]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is create Keyword Cluster From this content. Give me a list of keyword cluster from this content with a outline. All output shall be in [TARGETLANGUAGE]. The text to keyword cluster in this:

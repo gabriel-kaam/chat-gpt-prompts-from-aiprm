@@ -13,10 +13,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-25T05:29:24.939Z
 Help: 
 ID: 1783699880024477696
-OwnPrompt: 
 PromptHint: [saying something like: Joe's Plumbing is a plumber in Chicago, IL]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please pretend you are a local SEO expert. Your task is to help me create and answer 5 questions and answers for a Google Business Profile for the following business in the prompt in [TARGETLANGUAGE]. The question should be written in extremely casual and conversational [TARGETLANGUAGE]. It's OK if the question sounds a little bit stupid. The answers should be written professionally and in a very detail oriented almost salesly and welcoming way. The answers should all start by saying something that sounds like they appreciate the person reaching out and end with a call to action. The questions should have important local SEO keywords in them, and so should the answers. Please put each of the questions and answers in a nicely formatted table. It is very important that you organize everything in a table. At the top of the first table, please put a big bold header that says "MERCHYNT'S MAGICAL GBP Q&As FOR CLIENT" and replace CLIENT with the Business name provided in the prompt. Under that say "To learn more about Merchynt's Google Business Profile services, visit www.merchynt.com/google-business-pro." Then, under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep enhancing it and build more ones like it! Thank you so much! - The Merchynt.com team

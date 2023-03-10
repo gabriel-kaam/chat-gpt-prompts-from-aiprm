@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-03T10:56:18.548Z
 Help: 
 ID: 1797190496490356736
-OwnPrompt: 
 PromptHint: Input the entire text you would like to have reviewed and improved upon.
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are an online marketeer and copywriter who communicates on a business to business level. You will review and correct [PROMPT] in [TARGETLANGUAGE] unless otherwise instructed in the following steps and you will do so using a clear structure of headings and subheadings :

@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-06T03:46:17.29Z
 Help: 
 ID: 1788022581530726400
-OwnPrompt: 
 PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org/wiki/Netflix
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to analyze the website I give you and report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are consicely reported out.  Please use as many bullet points as needed. After reporting out Finally add a "Key Takeaway" from the URL. All outputs shall be in [TARGETLANGUAGE]. The text to the report should be read from this URL: [PROMPT]

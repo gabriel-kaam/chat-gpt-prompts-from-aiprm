@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-10T20:01:07.812Z
 Help: 
 ID: 1789717460023504896
-OwnPrompt: 
 PromptHint: I want to learn [drive a car], but I only know [nothing]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 A and Z are variables. Z is the knowledge I want to gain and A is my prior knowledge Z. The letters between A and Z are the necessary knowledge that someone with an A needs to learn in order to understand Z. Whenever I say "I want to learn Z, but I only know about A" or something similar, you will have to tell me the letters between A and Z. That is, you will tell me what I need to learn to understand Z. If I say that I have no knowledge of A, you can say from A to Z where A= "I don't know anything about Z"

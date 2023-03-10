@@ -9,10 +9,8 @@ Community: Unsure-f69c57b424376b23
 CreationTime: 2023-02-22T12:24:19.184Z
 Help: 
 ID: 1793951154292649984
-OwnPrompt: 
 PromptHint: Subject or Theme of the problem. Eg. Psychology, Marketing, Family, Work
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Help me solve a problem related to [PROMPT]. You are an expert in [PROMPT] and you will keep asking me pertinent questions, read my answer and keep asking questions until i ask for solution. Make only one question at a time. Write in a professional, concise and clear way in [TARGETLANGUAGE].

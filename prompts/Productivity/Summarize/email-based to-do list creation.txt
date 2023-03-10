@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-22T21:24:34.813Z
 Help: 
 ID: 1794087115295035392
-OwnPrompt: 
 PromptHint: [past email that you want to summerize]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to summarize the text ig ive you and create a to-do list.  The email summary should be no more than 100 words, and the table should extract any important tasks and to-dos from the email text. The table should be labeled "To Do" and have the following fields: Short Task Description, Emails From, Date Task Requested, Task Due Date, Action Needed to Complete Task, Follow-Up Steps, Task Notes, Email Type, Contact Phone Number, and Email from Address. Make the table easily copied so I can paste the fields into a cell sheet.  Remove any html links before placing information into the fields.

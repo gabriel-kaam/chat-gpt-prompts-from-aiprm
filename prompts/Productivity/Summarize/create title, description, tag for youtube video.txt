@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-10T05:33:35.321Z
 Help: 
 ID: 1789499136052297728
-OwnPrompt: 
 PromptHint: Provide input Keyword [Ex. All about Mangos], Pls upvote if you like it
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to provide a Catchy Title, Detailed description along with Hash tags and Search tags for youtube upload. All outputs shall be in [TARGETLANGUAGE]. The text to generate should be read from this: [PROMPT]

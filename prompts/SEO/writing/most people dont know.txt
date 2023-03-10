@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-23T14:06:09.771Z
 Help: 
 ID: 1783105147984154624
-OwnPrompt: 
 PromptHint: [Enter your keyword here to get a nice FAQ & answers]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 write in [TARGETLANGUAGE] a list of 90 things about [PROMPT] that most people don't know and randomize the order of the list and explain each and be sure to mention [PROMPT]

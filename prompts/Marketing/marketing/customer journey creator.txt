@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-02T10:33:28.49Z
 Help: 
 ID: 1786675501948203008
-OwnPrompt: 
 PromptHint: [Company type] 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Por favor, describe detalladamente en [TARGETLANGUAGE] el customer journey de un proceso de compra para una empresa de: [PROMPT]. Necesito que el resultado esté en formato de tabla con las columnas: Etapa, Descripción, Touchpoints digitales, acciones de marketing a realizar y KPIS

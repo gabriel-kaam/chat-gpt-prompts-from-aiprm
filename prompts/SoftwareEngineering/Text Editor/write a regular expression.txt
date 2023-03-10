@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-03-02T08:42:20.494Z
 Help: 
 ID: 1796794394582712320
-OwnPrompt: 
 PromptHint: text to create regular expression for. For example: hyperlink. Or hyperlink containing /kb/. Please share your suggestion via LinkedIn - use the link to contact view my profile
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please generate regular expressions for use in Visual Studio/Visual Studio Code,  Javascript, C#, PHP, Ruby, Java, Bash. Please respond in [TARGETLANGUAGE] and put every regular expression separately with a short annotation and explanation. You need to write a regular expression for the following:

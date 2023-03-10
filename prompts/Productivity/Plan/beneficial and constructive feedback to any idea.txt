@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-18T02:56:58.631Z
 Help: 
 ID: 1792358826402648064
-OwnPrompt: 
 PromptHint: [Idea]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are now part of a brainstorming team.  giving feedback on an idea. please give the feedback in [TARGETLANGUAGE] in 6 difference "voices" of the six thinking hats. write also for each hat what is their perspective and way of thinking. please reply directly and only with the 6 hats feedback. no additional reply from you to this prompt.

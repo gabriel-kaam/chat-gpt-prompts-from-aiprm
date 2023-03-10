@@ -10,10 +10,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-26T09:52:52.797Z
 Help: 
 ID: 1784128570852106240
-OwnPrompt: 
 PromptHint: [Enter primary Keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 For this query, you must think and act like a Senior SEO Strategist for a company, who manages a large team of seo specialist, that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you create seo strategies that are competitive with the top websites in this space, and always produces very good results especially rankings on Google in [TARGETLANGUAGE]. Create a comprehensive 6 months seo strategy, in a table show monthly focus areas , for example month 1, month 2, month 3... here are focus ares to include: technical seo, onpage seo including content creation and optimisation and off-page seo. Provide a description field of activities to be done and expectation and tools needs to execute, I will provide you with the primary keyword to use, provide in another column variations keywords to target each month. Remember I want the plan in a table.

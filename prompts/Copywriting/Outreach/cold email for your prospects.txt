@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-31T13:42:30.182Z
 Help: 
 ID: 1785998296721125376
-OwnPrompt: 
 PromptHint: [KEYWORD]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are an experienced sales manager for a company looking to send out a cold email campaign for [PROMPT] in [TARGETLANGUAGE]. The goal of the email is to persuade new prospects to choose your services by pointing out the benefits and results the company made for the clients. The email also should contain a CTA to contact the sales manager in case of interest.   

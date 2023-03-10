@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-14T22:53:11.514Z
 Help: 
 ID: 1791210312230498304
-OwnPrompt: 
 PromptHint: Input the keyword you want in your TLDR, then "PASTE CONTENT HERE"
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create a TLDR in 2 to 3 sentences including the keyword [PROMPT] from the content pasted below, writing the output in [TARGETLANGUAGE]:

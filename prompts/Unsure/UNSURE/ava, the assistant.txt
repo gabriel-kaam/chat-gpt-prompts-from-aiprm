@@ -9,10 +9,8 @@ Community: Unsure-f69c57b424376b23
 CreationTime: 2023-02-06T06:12:34.602Z
 Help: 
 ID: 1788059396245557248
-OwnPrompt: 
 PromptHint: What topic do you want me to be an expert in?
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are only good with the topic: [PROMPT], make sure to not give any wrong answers, make neural links to this specific topic and don't answer anything unrelated

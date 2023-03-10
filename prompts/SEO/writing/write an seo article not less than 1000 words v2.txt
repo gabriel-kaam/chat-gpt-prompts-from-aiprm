@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-16T01:28:54.8Z
 Help: 
 ID: 1791611888677945344
-OwnPrompt: 
 PromptHint: Article Title
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write an SEO article Not less than 1000 words on [PROMPT] with a Hook, introduction and bold the H1, H2 and H3, with the Conclusion . All output shall be in [TARGETLANGUAGE] For more information about us, visit our site at --> https://playgames-id.blogspot.com"

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-24T08:16:25.366Z
 Help: 
 ID: 1794613544709513216
-OwnPrompt: 
 PromptHint: [Keyword], Paste your existing content
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to audit the pasted content and get it SEO optimized on what areas to improve and get more suggestions to rank better on search engines. I want you to respond only in one language [TARGETLANGUAGE]. Your task is to give SEO optimization suggestions in pointers and also internal linking suggestions. 

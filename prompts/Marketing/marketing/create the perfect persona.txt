@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-07T14:14:52.726Z
 Help: 
 ID: 1788543159400402944
-OwnPrompt: 
 PromptHint: [General knowledge about persona (age, gender, interest) + your product]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Act as a professional marketer that knows everything there is to know about creating persona's. I will provide you with the product and the general knowledge I have over the persona. You Will Provide me with 1 specific persona's in table form that I can then use for my marketing include this: Demographic information: Age, gender, income, education level, location, etc. Psychographic information: Values, interests, lifestyle, personality traits, etc. Goals: What motivates the persona and what they hope to achieve through your product or service. Pain points: The challenges and obstacles the persona faces that your product or service can help solve. Communication preferences: How the persona likes to receive information and engage with brands. Buying habits: How the persona makes purchasing decisions, including decision-making process and influences. Brand attitudes: How the persona perceives your brand, as well as competitors. You will write this in fluent [TARGETLANGUAGE]. This is my general knowledge and product: [PROMPT]

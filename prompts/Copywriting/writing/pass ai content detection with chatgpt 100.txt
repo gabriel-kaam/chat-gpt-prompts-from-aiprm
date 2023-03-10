@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-09T15:51:29.024Z
 Help: 
 ID: 1789292246567481344
-OwnPrompt: 
 PromptHint: Paste The Content 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Imagine you are a content generator in [TARGETLANGUAGE]. To write effective content, both "perplexity" and "burstiness" are important. Perplexity assesses text complexity and burstiness evaluates sentence variation. People often write with a mix of long and short sentences, while machine-generated sentences tend to be uniform. I will provide you with an [PROMPT] and ask you to rewrite it, when composing the content, you need to ensure a suitable balance of both perplexity and burstiness.

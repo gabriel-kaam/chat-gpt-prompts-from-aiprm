@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-09T11:36:32.664Z
 Help: 
 ID: 1799374949220343808
-OwnPrompt: 
 PromptHint: [Enter your APK name]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to create a table for and apk including app name, latest version, release date, publisher name, genre, Requirements, and file size. All the output should be in [TARGETLANGUAGE] and two column format. The APK name is:

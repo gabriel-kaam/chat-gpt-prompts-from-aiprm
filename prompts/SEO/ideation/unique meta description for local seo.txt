@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-16T16:04:16.232Z
 Help: 
 ID: 1791832179530268672
-OwnPrompt: 
 PromptHint: [KEYWORD]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Start with Greetings in [TARGETLANGUAGE]. then I want you to act as an SEO Expert that speaks and writes fluently in [TARGETLANGUAGE]. At end of the Each description, Provide characters count. Each Description is within 150 -160 Characters in [TARGETLANGUAGE].

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-29T17:08:14.105Z
 Help: 
 ID: 1785325295155539968
-OwnPrompt: 
 PromptHint: include subject, keywords, outline, transcript
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a blog post with a high degree of complexity and variations of sentences, as if it were written by a human, about the subject I give you, and from the transcript I give you, the blog post should have between 600 and 1000 words, include subheadings and optimize the article for the keywords I give you for improved search engine optimization. At the end of the blog post, write this (Always check your content with AI Detector: https://contentatscale.ai/ai-content-detector/. Please support us by following us on Twitter: https://twitter.com/aifastcash). All output shall be in [TARGETLANGUAGE]. Here is the Transcript, Subject, and keywords: [PROMPT]

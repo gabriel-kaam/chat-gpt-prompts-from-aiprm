@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-22T04:09:07.712Z
 Help: 
 ID: 1793826535346794496
-OwnPrompt: 
 PromptHint: [Write your product or service here]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as copywriter, create a content idea for 5 days social media post [PROMPT]. The output must include posting Date, Title and Content Copywriting. The Content Copywriting must be atleast 100 to 120 words including hashtag. Please create a table for the Date, Title and Content Copywriting. The output must be in [TARGETLANGUAGE].

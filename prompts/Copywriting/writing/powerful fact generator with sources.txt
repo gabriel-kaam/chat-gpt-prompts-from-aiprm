@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-24T12:18:41.109Z
 Help: 
 ID: 1794674512034529280
-OwnPrompt: 
 PromptHint: [KEYWORD] and add the number of facts you want in [NUMBER]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 [PROMPT] Create an interesting list of facts about [KEYWORD], give as many as are specified in [NUMBER] In  [TARGETLANGUAGE]

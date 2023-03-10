@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-20T23:16:16.442Z
 Help: 
 ID: 1793390448233152512
-OwnPrompt: 
 PromptHint: [Type: Brand social media user, social network and analysis parameters]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You will act as a content social expert and analyze the last [PROMPT] 10 posts in this social network: [PROMPT], then in a table format, selecting the post with the best [PROMPT] explain in [TARGETLANGUAGE] the parameters it is the best one.

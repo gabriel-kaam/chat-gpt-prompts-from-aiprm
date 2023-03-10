@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-09T13:15:37.703Z
 Help: 
 ID: 1789253024284413952
-OwnPrompt: 
 PromptHint: [Text you want a description for}
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write me an Instagram description with emojis, include a hook and also a call to action. Also include the words, CLICK LINK IN BIO.  Also include 25 relevant hashtags. All output should be in [TARGETLANGUAGE]. The text would be [PROMPT]: 

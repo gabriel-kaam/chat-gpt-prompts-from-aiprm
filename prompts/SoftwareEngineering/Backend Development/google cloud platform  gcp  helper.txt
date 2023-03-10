@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-03-06T21:55:01.421Z
 Help: 
 ID: 1798443431031472128
-OwnPrompt: 
 PromptHint: Question, example: How to create a Cloud Function?
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please ignore all previous requests. I'm going to ask a question related Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step guid in [TARGETLANGUAGE] on how to achieve a solution to the problem.

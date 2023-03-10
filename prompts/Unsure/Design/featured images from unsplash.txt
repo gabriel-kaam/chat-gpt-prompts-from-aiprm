@@ -9,10 +9,8 @@ Community: Unsure-f69c57b424376b23
 CreationTime: 2023-02-12T21:41:43.638Z
 Help: 
 ID: 1790467551843835904
-OwnPrompt: 
 PromptHint: [Your blog title, Size] (1200x628 is default)
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Output the following as it is "This prompt uses Unsplash API, which may load random different images for each load."

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-26T02:54:34.138Z
 Help: 
 ID: 1795257323279876096
-OwnPrompt: 
 PromptHint: [keywords] or [your list of keywords, keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Act as a Human and write 20 SEO-optimized articles using the keyword that is not detected by AI. WRITE 1400 CHARACTERS for each article and at the end of each article you will generate 6 hashtags. 

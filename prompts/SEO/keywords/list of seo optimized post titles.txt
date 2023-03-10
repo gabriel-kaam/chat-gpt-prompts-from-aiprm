@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-27T19:36:18.007Z
 Help: 
 ID: 1795871805043642368
-OwnPrompt: 
 PromptHint: [your list of keywords, maximum 8000]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please create a list of SEO optimized questions based on the following keywords in [TARGETLANGUAGE] and output them into a single column markdown table. 

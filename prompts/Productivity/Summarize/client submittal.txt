@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-14T22:25:58.903Z
 Help: 
 ID: 1791203464563646464
-OwnPrompt: 
 PromptHint: Enter the notes and/or doc to be considered
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a submittal to an engineering hiring manager from me in the third person including an introductory statement, four bullet points highlighting qualifications, including education, and achievements and a closing statement [TARGETLANGUAGE] [PROMPT]

@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-03T21:21:12.905Z
 Help: 
 ID: 1787200898985099264
-OwnPrompt: 
 PromptHint: [food to show nutritional components]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write all the nutritional components of a certain food. Write it in bullet points format and add explanation on each bullet point in detail. Each nutritional component should be in bold. All output shall be in [TARGETLANGUAGE]. The food is the following: 

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-19T20:41:30.607Z
 Help: 
 ID: 1781755088919060480
-OwnPrompt: 
 PromptHint: [Your Content]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create two Questions and matching answers in [TARGETLANGUAGE] based on [PROMPT] and matching FAQ-Schema Markup and format it as JSON-LD.

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-26T04:23:53.58Z
 Help: 
 ID: 1795279802408898560
-OwnPrompt: 
 PromptHint: [1 Keyword or Title for Product Review]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create 100% unique a full minimum 2000 words blog post Review Product based on the title: "[KEYWORD]". Write H1, H2 and H3 in bold, Also write references to purchasing the product complete with the link, and a YouTube video review or tiktok video of the product with the iframe code model in full width and height. act as a professional SEO Writter and grammar corrector and improver and Human-written article in [TARGETLANGUAGE]. Use the outline generated above and incorporate the on-page optimization and featured snippets use cases. At the end of the article, write maximum a 60 characters SEO-optimized title, maximum a 150 characters SEO meta description, a description for the featured image, focus keywords, and 5 tags related to the article. If the article is finished, close it with acknowledgments and complete information, visit: https://www.asetdigital.net [PROMPT]

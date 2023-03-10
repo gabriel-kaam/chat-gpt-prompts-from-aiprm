@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-07T08:25:46.224Z
 Help: 
 ID: 1788455303403266048
-OwnPrompt: 
 PromptHint: [your list of keywords exported from search console]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please ignore all previous queries. All Output should be in [TARGETLANGUAGE] and also in separate bulleted lists. Pretend that you are a SEO Expert and study this list of [PROMPT], and output a compact list of Semantic, LSI and NLP Keywords from that list to optimize a landing page for those keywords. 

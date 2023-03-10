@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-15T03:45:51.493Z
 Help: 
 ID: 1791283964120662016
-OwnPrompt: 
 PromptHint: [Game name]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write in [TARGETLANGUAGE] what the Android game [PROMPT] is about, in a text of about 100-130 words. Be sure to speak in the second person, without greetings, without reducing adjectives, and in the present simple.

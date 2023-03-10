@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-12T16:19:58.221Z
 Help: 
 ID: 1790386579056091136
-OwnPrompt: 
 PromptHint: Type the skill name to get top relevant interview questions
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Top 10 Interview Question of [PROMPT] and their answers in [TARGETLANGUAGE].

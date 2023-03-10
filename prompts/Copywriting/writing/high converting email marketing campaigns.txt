@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-23T14:24:25.091Z
 Help: 
 ID: 1794343765922803712
-OwnPrompt: 
 PromptHint: [Ideal Customer] with [Problem] solve with [product, service or idea]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to Use the Problem-Agitate-Solve framework, write an email marketing campaign where the "ideal customer avatar" has a problem "list the problem here", agitate that problem and solve with "product, service or idea"  All output shall be in [TARGETLANGUAGE]. The test to summarize is this:

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-24T18:12:02.818Z
 Help: 
 ID: 1794763438443196416
-OwnPrompt: 
 PromptHint: Tell me an interesting fact:  Insert your keyword.
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Tell me an interesting fact in[TARGETLANGUAGE] about :     [PROMPT]

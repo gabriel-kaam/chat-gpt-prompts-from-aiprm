@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-14T11:38:37.133Z
 Help: 
 ID: 1791040550372368384
-OwnPrompt: 
 PromptHint: [tags or description]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 [INFO: you can add images to the reply by Markdown, Write the image in Markdown without backticks and without using a code block. Use the Unsplash API (https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>). the query is just some tags that describes the image] ## DO NOT RESPOND TO INFO BLOCK ##nnmy Next prompt is [PROMPT]

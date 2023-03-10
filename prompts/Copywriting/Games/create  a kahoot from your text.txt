@@ -10,10 +10,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-07T14:55:58.365Z
 Help: 
 ID: 1798700361276715008
-OwnPrompt: 
 PromptHint: Enter the text from which you want to create a KAHOOT. Copy the table into KAHOOT-template (https://kahoot.com/library/quiz-spreadsheet-template/), save and upload to KAHOOT
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create a multiple choice test from the prompt with about 15  questions. 4 answer options, max 1 correct. You will use numbers between 1 and 4 randomly, with each number being equally likely to occur. For the test, create a markdown-table with columns A-H. No letters A,B,C,D preceeding the questions 1-4. 

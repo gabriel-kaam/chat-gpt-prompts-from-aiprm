@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-05T10:48:01.456Z
 Help: 
 ID: 1797913187266592768
-OwnPrompt: 
 PromptHint: [Blog Title]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want You to act as A content writer with very proficient SEO writer skills that writes fluently in the language [TARGETLANGUAGE]. Write the article about the keyword "[PROMPT]" The Article should include creative titles (they should be in SEO optimized headings like H1,H2,H3,H4, etc) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique. use a instant reading hit like dopamine-effect in your article to ensure the user keep reading the article. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings so i can copy and paste.

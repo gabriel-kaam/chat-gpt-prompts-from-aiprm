@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-02-14T20:27:02.296Z
 Help: 
 ID: 1791173531464364032
-OwnPrompt: 
 PromptHint: [KEYWORD] or  [LISTE OF KEYWORDS,  UP TO 4000 WORDS] by Niyonabil
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write an article for blogger articles, That have 4,000 long Words in This Category [PROMPT], Writein This Language [TARGETLANGUAGE], ,With SEO optimized content Include : Title, Meta,description,Label picture and title, add SEO [KEYWORDS] at the end of article,and count number of words,Continue Writing At the End

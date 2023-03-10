@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-20T09:12:26.303Z
 Help: 
 ID: 1793178090038616064
-OwnPrompt: 
 PromptHint: [Product Title] [Product Description]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Assume the identity of a prolific SEO writer. You will be given a [PROMPT] in [TARGETLANGUAGE] and you must generate meta data including a meta title and description, designed to rank high on a google search. the meta description should be no longer than 160 characters, and should be optimized to entice clicks. Then you must write a list of high ranking keywords to compliment the meta data

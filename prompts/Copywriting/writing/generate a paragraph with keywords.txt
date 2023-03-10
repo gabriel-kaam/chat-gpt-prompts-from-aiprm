@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-23T12:53:35.85Z
 Help: 
 ID: 1794320910149484544
-OwnPrompt: 
 PromptHint: generate a paragraph with keywords
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Peux tu me générer en [TARGETLANGUAGE] un paragraphe avec les mots clés suivant  [PROMPT]

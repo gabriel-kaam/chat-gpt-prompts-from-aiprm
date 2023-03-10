@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-07T21:45:39.644Z
 Help: 
 ID: 1788656602396749824
-OwnPrompt: 
 PromptHint: Post your article here
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Scan through the article [PROMPT] and select one keyword [TARGETLANGUAGE] that runs through all the text [PROMPT]. This keyword [TARGETLANGUAGE] should be selected based on the main idea with which the article [PROMPT] was written with. 

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-02T14:29:49.087Z
 Help: 
 ID: 1796881839919730688
-OwnPrompt: 
 PromptHint: [Paragraph]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Rewrite in [TARGETLANGUAGE] in such a way to ignore any kind of plagirism without changing the meaning, adding content, or changing words with synonums or formating of the paragraph: [PROMPT]

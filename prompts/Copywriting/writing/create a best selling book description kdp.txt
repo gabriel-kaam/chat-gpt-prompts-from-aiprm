@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-01T15:23:25.59Z
 Help: 
 ID: 1796532943045529600
-OwnPrompt: 
 PromptHint: [the book title you want description for]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a compelling book description for amazon book or ebook in 4000 characters. The description text should be in [TARGETLANGUAGE]. Your task is to create the book description on the given format. Firsly I want you to write a [bold heading] to capture the customers attention then write 3 to 4 lines of text keeping in mind the some of the pain point a buyer may have.  Next create an "About This Book" section about the benefits of the book in 5 to 7 bullet points. Finally add text line encourage the customer to buy the book in [TARGETLANGUAGE]. Write the book description about this: 

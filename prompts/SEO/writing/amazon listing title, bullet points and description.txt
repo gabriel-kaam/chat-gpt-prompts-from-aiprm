@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T10:07:27.57Z
 Help: 
 ID: 1793916712287211520
-OwnPrompt: 
 PromptHint: Add a keywords related to your product
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to add the Keywords related to your product i give you a listing title(200 characters), bullet points(200 characters for each bullet point) and description(1500 to 2000 characters). All output shall be in[TARGETLANGUAGE]. The summarize text is this

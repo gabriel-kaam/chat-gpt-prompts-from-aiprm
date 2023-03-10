@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-03T02:49:33.135Z
 Help: 
 ID: 1786921139872993280
-OwnPrompt: 
 PromptHint: [Keywords]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create a Six Thinking Hats model based on the [PROMPT], write fluent in [TARGETLANGUAGE], and act as if you are Edward de Bono. Fill out a sheet (mandatory format) describing what each hat represents and use it for personal reflection or in a group where everyone can represent a different perspective. Assign hats to each member of the group or switch perspectives as a whole. The yellow hat represents positivity and focuses on the benefits and opportunities of the decision. The green hat is for creativity and generating ideas without censorship. The red hat represents emotions and intuition. The white hat analyzes data and trends. The black hat focuses on the negative aspects and worst-case scenarios. The blue hat controls the process and intervenes when there is a lack of progress to move the discussion forward.

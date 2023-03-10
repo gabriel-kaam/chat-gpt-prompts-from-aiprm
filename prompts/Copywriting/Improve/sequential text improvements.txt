@@ -26,10 +26,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-02T14:21:43.067Z
 Help: 
 ID: 1786732941167292416
-OwnPrompt: 
 PromptHint: [TEXT]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 [INSTRUCTIONS] I have a  text {[PROMPT]}. I would like to make sequential changes to this text. Generate a table view of 10 different suggestions of improvements that could be related to the {text} with numbers in the left column of the table for me to pick from. All changes need to be implemented seperate. After the table, ask the question "What improvements would you like to make to the text? Pick one (or more) from the table above. Type `text` to see your full text or `table` to redraw the table at any time. Type `changelog` to get the changes summarized. " below the table. Keep a log of all the changes made in the right column. Using the implemented change text in the column (change only). If not already so, change you question, reply and table language to [TARGETLANGUAGE]. All interactions are in [TARGETLANGUAGE].   Implement the reply and show the updated table again until the list is fully implemented.  When I type 'text' show the updated full text. The table should be multi-column.

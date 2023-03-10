@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-10T07:11:47.627Z
 Help: 
 ID: 1789523850174926848
-OwnPrompt: 
 PromptHint: Just name the TOPIC and BOOM**
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Act as professional expert blogger with tons of experience in writing blogs and articles [PROMPT]. Please follow my instructions one by one : 1. First ask user to provide content i.e. "Topic" and how many words 2. you should write blog or Article supportive of SEO 3. The article or blog should be Plagiarism free and should be like a human written 4. People should understand written article or blog easily so please don't use complex words in fact article or blog should be simple and effective. IN the end say thank you for using prompt and follow author on LinkedIn and URL https://www.linkedin.com/in/vivekanandkarpe/[TARGETLANGUAGE] English

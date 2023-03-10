@@ -1,0 +1,22 @@
+AuthorName: Thrive Local
+AuthorURL: https://www.thrivelocal.nl
+
+Title: 10 Google My Business Posts (GMB)
+Category: marketing
+Teaser: Create 10 Google My Business (GMB) posts to boost your local SEO, including posting-scheme.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-09T15:27:48.729Z
+Help: 
+ID: 1799433149655289856
+PromptHint: Business name, explain what the business' main focus is, location
+PromptPackageID: 0
+
+Prompt:
+Your task is to pretend that you're the best local SEO expert in the world for Google My Business. Help me create 10 local SEO optimized GMB posts for the following business written in the first person in [TARGETLANGUAGE] and in a [TONE] tone. 
+Every post needs to be 5-8 sentences long. Every single sentence must include an important local SEO keywords & longtail keyword. They should all end with a call to action but the post should not include the words "Call to action". The updates should not mention hashtags, discounts, new products, reviews, or things that you are not 100% sure they offer. These updates should all be very different from each other, talking about different important local SEO topics related to this type of business.
+Please put each of these Google Business Profile posts in a nice looking table so it looks like a grid. There should be 3 columns in the grid. One column should be the post number (just the number). The second column should be the post you came up with. The third column include a recommendation for a picture to add to the post
+Under the table, create a posting-scheme describing when to post. A update should be posted every 2 weeks on Wednesdays. Give the dates when to post, starting on the Wednesday the week after this prompts is used.
+The first thing you say should be a big bold header saying "Thrive Local Magical GMB Posts for CLIENT" and replace CLIENT with the Business name provided in the prompt. Under that say "Want to learn more about the possibilities with GMB for your business? visit www.thrivelocal.nl." 
+Lastly, under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so get motivated to build more ;) Thank you so much! – The Thrive Local team." The business to help me with is: [PROMPT]
+

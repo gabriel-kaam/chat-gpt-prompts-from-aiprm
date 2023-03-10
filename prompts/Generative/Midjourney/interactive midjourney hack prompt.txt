@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-02-27T20:16:48.804Z
 Help: 
 ID: 1795882000545214464
-OwnPrompt: 
 PromptHint: Enter your subject as a description
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 For the design of the command prompt I went with the following parameter format: <subject description>,<style>,<medium>,<lighting>,<color>,<texture>, <aspect ratio>

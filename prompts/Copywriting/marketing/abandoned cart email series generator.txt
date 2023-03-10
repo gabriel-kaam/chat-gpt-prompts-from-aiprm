@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-02T00:32:19.101Z
 Help: 
 ID: 1786524215965646848
-OwnPrompt: 
 PromptHint: Write the name of your product (and shortly describe it)
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are fluent in [TARGETLANGUAGE]. Only provide your output in [TARGETLANGUAGE]. Generate a series of three abandoned cart emails for product [PROMPT], designed to engage the recipient and ultimately convert them into a paying customer. The email sequence should start with a friendly reminder about the item left in the recipient's cart and its key benefits, followed by a more persuasive email that addresses any potential objections and highlights the unique value of [PROMPT]. The final email should be a last chance offer, such as a limited-time discount or free shipping, along with a strong call to action.

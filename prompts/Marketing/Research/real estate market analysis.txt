@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-08T02:35:07.624Z
 Help: 
 ID: 1798876309221543936
-OwnPrompt: 
 PromptHint: What city/town/region/etc. would you like to analyze? 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Provide a market analysis on [PROMPT] for 2011-2021, using reputable sources.  Provide data on the following KPIs: Population Growth, Job growth, median household income, median home values, crime rate, commercial real estate cap rate. Cite you sources for each.

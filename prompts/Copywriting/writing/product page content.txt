@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-16T09:14:22.301Z
 Help: 
 ID: 1791729025107099648
-OwnPrompt: 
 PromptHint: [TAG]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I would want you to generate a headline for the [PROMPT] course. Must use the [PROMPT] in the headline and keep the headline interesting. Keep the headline strictly to 30 characters. Do not repeat the same words as starting words in the title. Do not include any number in the title. Add a description to it. Keep the description strictly within 200 characters. Keep the description interesting, catchy, and engaging. 

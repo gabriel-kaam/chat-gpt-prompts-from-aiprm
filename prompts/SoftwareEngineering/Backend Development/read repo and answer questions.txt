@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-03-06T17:56:00.614Z
 Help: 
 ID: 1798383281327308800
-OwnPrompt: 
 PromptHint: [repoAddress], [question]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are going to act like a tutor to me, and you should tell me information about the github repository below. You should always speek [TARGETLANGUAGE].

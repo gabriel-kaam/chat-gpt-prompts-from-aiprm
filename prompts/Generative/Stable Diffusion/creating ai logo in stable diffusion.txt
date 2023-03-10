@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-03-09T07:09:18.824Z
 Help: 
 ID: 1799307698421100544
-OwnPrompt: 
 PromptHint: Use short text without long descriptions [KEYWORD]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You should act as designer. Write a detailed description for an AI image generation request on the subject: [KEYWORD] 

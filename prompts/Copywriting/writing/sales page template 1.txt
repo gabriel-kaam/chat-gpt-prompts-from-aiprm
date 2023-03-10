@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-21T12:29:37.393Z
 Help: 
 ID: 1793590101092331520
-OwnPrompt: 
 PromptHint: [product description you want sales page for] 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as very proficient conversion copywriter that writes in fluent [TARGETLANGUAGE]. Your task is to write the text based on the product description but must follow this structure: benefit-focused headline, 6 short benefits that should not be longer than 5 words, 10 paragraphs with benefit headline and one to two sentences which will elaborate specific feature, and 4 user testimonials. The product description is this: 

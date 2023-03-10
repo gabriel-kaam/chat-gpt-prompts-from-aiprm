@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-03-04T17:57:16.936Z
 Help: 
 ID: 1797658825713774592
-OwnPrompt: 
 PromptHint: Lion in Nature, Old lady etc. Upvote if you like it
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to generate 4 different midjourney Generative AI related prompts read from <input text> provided. Start each prompt with "/Imagine Prompt:". Each prompt shouldn't be more than 3 or 4 continuous lines. 

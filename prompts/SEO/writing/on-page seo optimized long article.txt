@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T03:09:15.966Z
 Help: 
 ID: 1793811470472179712
-OwnPrompt: 
 PromptHint: [TITLE], [list of keywords]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I ask you to act as a skilled content writer, proficient in [TARGETLANGUAGE], and fluent in writing. Please make me an article with this title: [TITLE]. The article must be written with SEO optimization with these [list of keywords] keyword intent 1% and several requests I ask:

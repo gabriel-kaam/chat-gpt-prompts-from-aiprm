@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-29T22:24:27.933Z
 Help: 
 ID: 1785404877158211584
-OwnPrompt: 
 PromptHint: Write your Keyword Here
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 please write a blog post in a press release style like an experienced news reporter in [[TARGETLANGUAGE] for the Keyword [PROMPT]. The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Should be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list if needed, frequently asked questions and conclusion. The post should not less than 1200 words. do not change the original keyword while writing the Title. use keyword at least 2-3 times in the text body.

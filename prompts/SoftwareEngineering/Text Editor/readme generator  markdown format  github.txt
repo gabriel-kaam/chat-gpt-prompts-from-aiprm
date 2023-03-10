@@ -14,10 +14,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-23T17:18:04.575Z
 Help: 
 ID: 1794387468406222848
-OwnPrompt: 
 PromptHint: Write your topic for README and explain the structure of it
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as Markdown README generator. Using this link learn the Markdown format https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet and now generate me a README for [PROMPT] and

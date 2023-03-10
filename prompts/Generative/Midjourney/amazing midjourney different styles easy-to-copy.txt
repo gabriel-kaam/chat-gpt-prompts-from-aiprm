@@ -10,10 +10,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-03-04T00:20:26.506Z
 Help: 
 ID: 1797392863093587968
-OwnPrompt: 
 PromptHint: [text or word that you want a Midjourney description for]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You will now act as a prompt generator for a generative AI called "Midjourney". Midjourney AI generates images based on given prompts. All output shall be in [TARGETLANGUAGE]

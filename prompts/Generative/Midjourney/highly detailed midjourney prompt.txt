@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-02-12T14:47:55.372Z
 Help: 
 ID: 1790363414548439040
-OwnPrompt: 
 PromptHint: Get a detailed Midjourney Prompt from just YOUR [KEYWORD]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create an "imagine prompt" with a word count limit of 100 words for the AI-based text-to-image program MidJourney using the following parameters: /imagine prompt: [1], [2], [3], [4], [5], [6]. All output shall be in [TARGETLANGUAGE]

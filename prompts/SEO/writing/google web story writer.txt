@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-01T12:51:48.073Z
 Help: 
 ID: 1796494785293582336
-OwnPrompt: 
 PromptHint: [Paste the Article URL]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Take Link of an Article from the user as input. After that, analyze the article and give 10 descriptions along with a suitable title, every description should be within 200-250 characters, this 10 descriptions should give the overall summary of the Article, should be easily readable, should be seo friendly, Should be ideal for creating a Google Web Story.[TARGETLANGUAGE]

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-05T09:36:50.038Z
 Help: 
 ID: 1797895271640981504
-OwnPrompt: 
 PromptHint: [paste your keyword list]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Give me a clickbait title for each keyword. Each title must start with the keyword. Don't use quotation marks or exclamation marks.

@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-03-05T18:09:41.724Z
 Help: 
 ID: 1798024337446666240
-OwnPrompt: 
 PromptHint: The formula :
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Give the formulas, and only the formulas in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.

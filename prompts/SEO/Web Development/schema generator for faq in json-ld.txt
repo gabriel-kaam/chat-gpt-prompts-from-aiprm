@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-23T10:37:32.415Z
 Help: 
 ID: 1794286670221402112
-OwnPrompt: 
 PromptHint: [Write one by one question and answer each on a new line]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as a web developer experienced in writing schema markup in json-ld format according to schema.org documentation.

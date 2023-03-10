@@ -12,10 +12,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-24T17:02:35.71Z
 Help: 
 ID: 1783511936496046080
-OwnPrompt: 
 PromptHint: [LOCATION], [LENGTH OF TRIP], [TRAVELING WITH], [STYLE OF TRIP] (Relaxing, Romantic, Adventurous)
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Pretend you are the world's best trip advisor and I have hired you to plan my trip. You will use the text that I give you as a reference for the trip. This text will include location, duration of the trip, who I am traveling with, and the style of the trip Here is the information you will need to plan the trip.[PROMPT]. 

@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-22T14:52:22.359Z
 Help: 
 ID: 1793988413029081088
-OwnPrompt: 
 PromptHint: [Announcement group theme]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Génère 10 titres courts avec max 30 caractères et 5 titres long avec maximum 90 caractères. Puis 10 descriptions d'une taille MAXIMUM de 90 caractères. Les textes seront optimisés pour les campagnes Google Ads Display - utilise la thématique suivante [PROMPT]  - réponse en [[TARGETLANGUAGE]]

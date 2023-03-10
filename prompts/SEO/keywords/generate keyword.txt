@@ -10,10 +10,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-21T16:26:43.108Z
 Help: 
 ID: 1793649768065658880
-OwnPrompt: 
 PromptHint: [Keywords], [Location], [Service/Products]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to generate keyword based on google ranking chance, keywords difficulty, based on specific niche, Show keyword difficulty level, Google Ranking chance percentage out of 10, Only suggest keyword which has high ranking chance on google, show keywords difficulty below 25%, Which is already ranked on google with low DA, PA below 25  based on location on Moz tools, based on my product/services. Show them in markdown table and categories them [TARGETLANGUAGE]

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-24T22:35:13.413Z
 Help: 
 ID: 1794829669003157504
-OwnPrompt: 
 PromptHint: What is your video about? Include the number of characters, setting, video length, and topic.
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Create a script for a YouTube video in [TARGETLANGUAGE] that is fast paced with lot of cuts, based on the number of characters, video length, setting, and topic defined in the [PROMPT]. At the end of the script write this "Please support us by checking out our website and hire us to film for you! - https://dieseljackmedia.com "

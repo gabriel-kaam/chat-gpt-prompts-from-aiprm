@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-27T23:20:23.304Z
 Help: 
 ID: 1795928198706626560
-OwnPrompt: 
 PromptHint: Keyword
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Help me plan a one-month content schedule for my blog targeting specific long-tail keywords related to my main keyword "[PROMPT]". Please focus on transactional search terms and create clickbait-style titles for each blog post. Organize each blog post title in a nice looking table so that it looks like a calendar. Organize the titles in a table that resembles a calendar, with each week in a separate table labeled "CONTENT CALENDAR FOR KEYWORD" and replace \"KEYWORD\" with the keyword provided in the prompt in all caps. Reply in particular ban [TARGETLANGUAGE]. I don't understand other languages.

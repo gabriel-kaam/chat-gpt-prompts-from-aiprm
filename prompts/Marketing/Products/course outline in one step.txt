@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-07T03:25:50.267Z
 Help: 
 ID: 1798526683125637120
-OwnPrompt: 
 PromptHint: Enter your course topic - example - How to create a podcast
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Respond only in [TARGETLANGUAGE]. Can you create a course outline for the following topic: [PROMPT] include: a catchy title describing the transformation, and why they need it, also include a prefix for the course introduction explain what the course is about, also include the learning objectives for the entire course, additionally a  include a breakdown of the lessons within each module. for each lesson include the objective a bit of content for each lesson and a detailed explanation of how to complete each lesson assignment, also give me an outline for my sales page including: a sales page hook which will peak interest, pain points, course solutions , why they need it?

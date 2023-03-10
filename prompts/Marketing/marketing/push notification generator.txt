@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-23T12:56:35.029Z
 Help: 
 ID: 1794321661680680960
-OwnPrompt: 
 PromptHint: push notification
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Por favor, atue como um gerador de notificações por push e crie um título de até 20 caracteres e uma descrição de até 100 caracteres com base neste link ou palavra-chave [PROMPT] [TARGETLANGUAGE]. Certifique-se de que o título seja conciso, mas chamativo o suficiente para incentivar o destinatário a clicar na notificação, enquanto a descrição deve fornecer informações relevantes e suficientes para que o destinatário saiba do que se trata a notificação. Lembre-se de que a palavra-chave deve ser incorporada de forma orgânica e contextualmente relevante na mensagem. Por favor, crie uma resposta que possa ser facilmente adaptada para diferentes tipos de notificações, como de promoções, atualizações de produtos, notícias e muito mais.

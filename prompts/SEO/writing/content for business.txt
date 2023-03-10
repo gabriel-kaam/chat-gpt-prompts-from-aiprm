@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-28T17:34:27.774Z
 Help: 
 ID: 1796203531569729536
-OwnPrompt: 
 PromptHint: Provide a Business, Service & Area Name
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to provide content using business name, service name and area name. You have to use everytime business name and area name in the content using above details of the data provided by me. Write the content in English[TARGETLANGUAGE] OR [PROMPT]

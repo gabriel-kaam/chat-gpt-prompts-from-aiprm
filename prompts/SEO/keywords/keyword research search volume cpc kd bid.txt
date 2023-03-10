@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T09:23:47.676Z
 Help: 
 ID: 1793905723655315456
-OwnPrompt: 
 PromptHint: [Keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 you task is to add the Keyword i give you a 100+ keyword ideas with synonyms of keywords, search volume and CPC, KD, competing products, suggested bid,  Max and min bid in table format for SEO . All output shall be in [TARGETLANGUAGE].The keywords to summarize is this.

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-10T04:59:34.79Z
 Help: 
 ID: 1799637437681754112
-OwnPrompt: 
 PromptHint: [keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are SEO specialist. Write a 100% unique and human-written article in [TARGETLANGUAGE] in 2000 words long. You need to write the title which consist the keyword. Start the article with an introduction which explain why reader need to read this article. Use the keyword in the first couple of sentence in the introduction. The article need to include heading and subheading (H1 and H2), write them in an outline separately. 

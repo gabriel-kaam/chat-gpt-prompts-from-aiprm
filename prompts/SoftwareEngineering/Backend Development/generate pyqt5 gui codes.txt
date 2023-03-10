@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-17T12:41:38.002Z
 Help: 
 ID: 1792143572083146752
-OwnPrompt: 
 PromptHint: Input the behavior of your code idea
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Make me a code in [TARGETLANGUAGE] using Python PyQt5 that enables the user to [PROMPT], make the code compact as much as you can, set also the default window size to 200x200

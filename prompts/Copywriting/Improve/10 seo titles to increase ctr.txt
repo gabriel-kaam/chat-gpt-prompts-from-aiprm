@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-27T06:28:37.482Z
 Help: 
 ID: 1795673580034580480
-OwnPrompt: 
 PromptHint: [Enter The Title That You Want to Optimize]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to create 10 unique catchy, click-worthy seo titles that can increase CTR. The titles should be maximum of 60 characters. Add some phrases related to the query, to increase CTR inside (). All output shall be in [TARGETLANGUAGE] and in Secentence Case. The text to summarize is this:

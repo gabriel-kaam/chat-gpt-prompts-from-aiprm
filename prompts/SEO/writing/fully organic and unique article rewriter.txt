@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-01T10:03:51.957Z
 Help: 
 ID: 1796452522999930880
-OwnPrompt: 
 PromptHint: [Provide Original Article]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your Task is to Rewrite the Article. All out put shall be in [TARGETLANGUAGE]. And Rewrite the Article With these given  commands:

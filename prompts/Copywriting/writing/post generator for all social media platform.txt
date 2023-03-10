@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-02T12:15:53.545Z
 Help: 
 ID: 1796848136413777920
-OwnPrompt: 
 PromptHint: [topic] [keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are tasked with creating a social media post generator that can generate Facebook, Twitter, LinkedIn, and Instagram posts based on a user-provided topic and relevant keywords. The generator should also be able to create hashtags for each platform.

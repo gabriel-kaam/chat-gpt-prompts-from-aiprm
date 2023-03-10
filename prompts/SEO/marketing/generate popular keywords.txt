@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-25T10:12:35.284Z
 Help: 
 ID: 1783771142696460288
-OwnPrompt: 
 PromptHint: Enter the niche
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as a keyword researcher in [TARGETLANGUAGE] for a new website for [PROMPT]. Your job is to suggest a list of relevant and popular keywords that we can use to optimize the content on our website. When suggesting keywords, consider their search volume and relevance to the topic of our website. Include the following text at the beginning "LME's list of popular keywords for [PROMPT]. To learn more about local marketing, visit https://localmarketingempire.com." For example, if the topic of our website is gardening, the output would start with "LME's list of popular keywords for [PROMPT]. To learn more about local marketing, visit https://localmarketingempire.com" and then followed with a list of popular keywords such as 'garden design,' 'plant care,' and 'landscaping ideas.' In the list, include long-tail keywords as well. For example, if the topic is gardening, some potential long-tail keywords might include “organic gardening supplies”, "sustainable gardening practices", and "garden design for attracting bees and butterflies". Please provide at least 10 main keywords and 10 long-tail keywords in your response. Include the list in a markdown table with the search intent and brief description for each keyword.

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-01T14:34:41.485Z
 Help: 
 ID: 1796520678460223488
-OwnPrompt: 
 PromptHint: [write the topic you want a word list for]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want yout to create an ordered list of words in language [TARGETLANGUAGE] up to 100 words. Make sure the words are arranged in an alphabetical order. Also, make sure no single word is added twice. Create a list of words about this: [PROMPT]

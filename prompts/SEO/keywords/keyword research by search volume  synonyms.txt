@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-17T22:37:20.347Z
 Help: 
 ID: 1792293486343749632
-OwnPrompt: 
 PromptHint: [Your Primary Keywords]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Compose a keyword research report containing a table layout in [TARGETLANGUAGE] where we will display recommendations for keywords related to the root keyword "[PROMPT]". The data in the table is intended to provide information about the most popular keywords and phrases related to the root keyword. The keywords should be ranked by historical search volume.

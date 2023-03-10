@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-16T16:42:18.345Z
 Help: 
 ID: 1791841751405953024
-OwnPrompt: 
 PromptHint: Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new email in the same style, voice, and tone: [PROMPT] [TARGETLANGUAGE] 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new email in the same style, voice, and tone: [PROMPT] [TARGETLANGUAGE] 

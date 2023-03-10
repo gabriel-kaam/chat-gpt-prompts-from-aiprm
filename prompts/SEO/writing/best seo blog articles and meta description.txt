@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-01T02:07:33.224Z
 Help: 
 ID: 1796332655105802240
-OwnPrompt: 
 PromptHint: [Enter the keywords you want]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to make SEO articles and meta descriptions from the text that I provide. Make an article of 400 words or a maximum of 600 words and a meta description that matches the text. All outputs must be in [TARGETLANGUAGE]. The text for creating SEO articles and meta descriptions is this:

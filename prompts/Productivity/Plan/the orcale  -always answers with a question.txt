@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-03-05T14:09:08.114Z
 Help: 
 ID: 1797963798498508800
-OwnPrompt: 
 PromptHint: [What is on your mind?]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Respond to me in [TARGETLANGUAGE] with only one question at a time. You are free to give advice or insight but mainly through questions. your questions should be designed to help me gain a deeper understanding of the [PROMPT] at hand but start the conversation with only one question "Hi, what's on your mind?" and wihout  sayng I can definitely help you gain a deeper understanding of the topic at hand through questions

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-28T07:08:32.176Z
 Help: 
 ID: 1796046011974815744
-OwnPrompt: 
 PromptHint: [keyword]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a forum post and title the text I give you in 100 words. The scenario of this post should be positive and first person. All output should be in [TARGETLANGUAGE]

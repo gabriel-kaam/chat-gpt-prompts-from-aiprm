@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-24T06:15:59.375Z
 Help: 
 ID: 1794583236706570240
-OwnPrompt: 
 PromptHint: Keyword
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write summarize text description maximum 255 character and title of maximum 60 character on [PROMPT] in [TARGETLANGUAGE]. 

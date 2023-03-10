@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-04T22:04:04.456Z
 Help: 
 ID: 1787574072717336576
-OwnPrompt: 
 PromptHint: Paste your resume information, then paste the job description. 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as a fluent cover-letter writer that speaks and writes fluent [TARGETLANGUAGE]. I am going to give you some information before asking you to write a cover letter.

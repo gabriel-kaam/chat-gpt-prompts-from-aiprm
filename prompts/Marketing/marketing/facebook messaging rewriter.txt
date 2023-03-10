@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-01T17:57:03.673Z
 Help: 
 ID: 1796571606487920640
-OwnPrompt: 
 PromptHint: Enter the message segment to rewrite
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with less than 150 characters. Make each response start with [name]

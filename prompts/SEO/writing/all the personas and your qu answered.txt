@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-20T12:57:32.551Z
 Help: 
 ID: 1793234739348631552
-OwnPrompt: 
 PromptHint: [Type your question here to get a list or personas and skill sets for your prompt]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 At the very top of the response write in BOLD text, "If the output stops at any time, please type 'Continue from the last sentence.' and it will continue the output."

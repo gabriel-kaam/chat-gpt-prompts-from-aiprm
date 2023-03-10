@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-09T03:06:07.652Z
 Help: 
 ID: 1789099638373212160
-OwnPrompt: 
 PromptHint: [Enter Title OR Keyword Here]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I want you to act as an SEO expert, researcher, and content writer that speaks and writes fluently [TARGETLANGUAGE]. please create a content brief for this title "[PROMPT]"

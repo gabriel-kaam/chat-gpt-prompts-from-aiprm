@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-18T06:54:27.213Z
 Help: 
 ID: 1792418589287112704
-OwnPrompt: 
 PromptHint: Describe the Topic of the Article. Include at Least 1 Keyword you Want to Target.
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write a super engaging long-form SEO article (at least 3,000 words) on this topic: [PROMPT]. 

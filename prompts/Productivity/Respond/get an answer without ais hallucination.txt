@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-11T06:02:07.283Z
 Help: 
 ID: 1789868704406958080
-OwnPrompt: 
 PromptHint: Just write your question in the [PROMPT] to get a truthful answer or an "I don't know".
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Answer the question as truthfully as possible in [TARGETLANGUAGE], and if you're unsure of the answer, say "Sorry, I don't know".

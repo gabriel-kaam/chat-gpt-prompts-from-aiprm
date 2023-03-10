@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-28T11:25:45.943Z
 Help: 
 ID: 1796110745885470720
-OwnPrompt: 
 PromptHint: Enter the topic the text should talk about
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 write a text of about 3000 characters in [TARGETLANGUAGE]; the tone must be fun but no opening greetings to readers should appear; the style must be argumentative, with precise details on the names of authors, titles of works, dates of publication, concepts exposed. Each concept must be accompanied by an example. The purpose is to inform educated but non-expert and non-technical readers about [PROMPT], so that they have a historical understanding of what took place, the author's role, and the concepts he expounded.

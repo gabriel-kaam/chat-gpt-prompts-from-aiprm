@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-13T12:37:03.481Z
 Help: 
 ID: 1790692869196214272
-OwnPrompt: 
 PromptHint: What you want the reader to do?
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write a short improved call-to-action in Language: [TARGETLANGUAGE], containing a headline and a button text for this action: [PROMPT]

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-07T10:02:49.126Z
 Help: 
 ID: 1798626586661224448
-OwnPrompt: 
 PromptHint: [RFQ(Request For Quotation) For Alibaba Suppliers]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is Create an RFQ for Alibaba suppliers. The target language is [TARGETLANGUAGE]

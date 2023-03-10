@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-19T10:21:12.864Z
 Help: 
 ID: 1792833010224336896
-OwnPrompt: 
 PromptHint: [Paraphrasing Sentence to the Tone or Writing Style that selected]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to paraphrasing the sentence or article provided. The outcome must be follow the [TARGETLANGUAGE]. 

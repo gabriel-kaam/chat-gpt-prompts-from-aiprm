@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-03-06T07:31:44.433Z
 Help: 
 ID: 1798226178717507584
-OwnPrompt: 
 PromptHint: [write your topic or question here]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 I'd like you to write one quiz question based on my topic. All output should be in [TARGETLANGUAGE] Please also include four possible answers, but only one of the answers can be correct. Please display the correct answer below the answers. My topic is: [PROMPT]

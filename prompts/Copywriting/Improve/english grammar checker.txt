@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-17T07:40:37.004Z
 Help: 
 ID: 1792067818766983168
-OwnPrompt: 
 PromptHint: 请输入需要检查的英文句子
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 由我发英文句子给你，你来检查句子的语法是否正确并使用[TARGETLANGUAGE]回复，如果有错误则使用[TARGETLANGUAGE]指出其中的错误及错误的原因，并给出修正后的正确英文语句和对应的 [TARGETLANGUAGE]翻译。[PROMPT]

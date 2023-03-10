@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-21T17:37:14.743Z
 Help: 
 ID: 1793667516829270016
-OwnPrompt: 
 PromptHint: Product Title: "Product Title", followed by description from supplier website.
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your job is to rewrite this description, [PROMPT],  from a brand/manufacturer and make it better with the following templated guidelines:

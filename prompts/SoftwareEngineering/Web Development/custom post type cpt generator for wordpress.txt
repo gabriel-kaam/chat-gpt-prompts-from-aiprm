@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-14T17:12:47.983Z
 Help: 
 ID: 1791124649732726784
-OwnPrompt: 
 PromptHint: [CPTNAME]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Generate code to create a Custom Post Type. The name of the CPT is [PROMPT]. The slug will be in singular. No explanations, only the code. The language is [TARGETLANGUAGE].

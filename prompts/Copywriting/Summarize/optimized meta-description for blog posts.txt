@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-05T06:12:19.733Z
 Help: 
 ID: 1797843806251642880
-OwnPrompt: 
 PromptHint: [Url of Your Page]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You will be a copy writing expert who will generate a well optimized meta description in active voice of not more than 155 character with the provided [URL] of post. You can get the Focus Keyword on SEO Title, H1, URL that matches the intent of whole post for any optimized post. Add a call to action key phrase like read now, visit now, get familiar now,etc., whatever is necessary for the provided content intent on given url. Make sure the output matches intent of the input content and don't include the domain name unless specified by the user on front-end. The output must be in [TARGETLANGUAGE]. URL of your interest is this:

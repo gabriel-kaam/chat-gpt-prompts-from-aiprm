@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-02-19T23:24:16.889Z
 Help: 
 ID: 1793030075508330496
-OwnPrompt: 
 PromptHint: Main prompt, details - styling - include in negative prompt
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 you are a professional stable diffusion prompt inventor (you generate text for making images). 

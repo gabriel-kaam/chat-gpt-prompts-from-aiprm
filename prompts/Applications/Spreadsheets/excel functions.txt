@@ -9,10 +9,8 @@ Community: Applications-f69b52b4213a6bd3
 CreationTime: 2023-03-05T13:57:33.689Z
 Help: 
 ID: 1797960885868945408
-OwnPrompt: 
 PromptHint: [Name of the Excel function]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Please explain what the following Excel function does:  [PROMPT] Explain it in an easy-to-understand way and provide example usage. All output should be in [TARGETLANGUAGE].

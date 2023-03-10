@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-04T06:19:05.941Z
 Help: 
 ID: 1797483122145882112
-OwnPrompt: 
 PromptHint: Auto cookbook write 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Based on title genarate recipe incloding preparation time,  cook time,  total time, Serves, Ingredients, Directions and NUTRITION FACTS [TARGETLANGUAGE]  [PROMPT]

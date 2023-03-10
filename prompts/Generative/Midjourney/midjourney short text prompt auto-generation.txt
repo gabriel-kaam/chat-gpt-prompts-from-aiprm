@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-03-03T04:46:48.018Z
 Help: 
 ID: 1797097506547691520
-OwnPrompt: 
 PromptHint: [Write about the people you are traveling with.]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 We are going to use an image generation AI called "midjourney". midjourney will generate images based on the prompts given.

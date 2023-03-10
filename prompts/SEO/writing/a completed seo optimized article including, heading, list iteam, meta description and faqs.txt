@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-15T19:08:10.409Z
 Help: 
 ID: 1791516072357388288
-OwnPrompt: 
 PromptHint: [Submit Keyword or Title]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 [TARGETLANGUAGE] Write SEO optimised complete article with Title, Heading 2,3 tag, linking, FAQs and conclusion getting data from: [PROMPT]

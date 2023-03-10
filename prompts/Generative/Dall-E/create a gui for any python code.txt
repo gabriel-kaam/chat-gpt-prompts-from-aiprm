@@ -9,10 +9,8 @@ Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-02-19T19:36:40.148Z
 Help: 
 ID: 1792972794984923136
-OwnPrompt: 
 PromptHint: [Enter your Code]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Take the python code and create a TKinter GUI for it. Explain every step in [TARGETLANGUAGE] and only in [TARGETLANGUAGE]

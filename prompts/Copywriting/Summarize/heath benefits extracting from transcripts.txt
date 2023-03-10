@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-23T22:48:26.713Z
 Help: 
 ID: 1794470608478924800
-OwnPrompt: 
 PromptHint: [here paste your transcript, limit to 600 words - circa 12 min video]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Give me all the mentioned health tips as bullet points that this doctor OR expert is mentioning in his video. I will send the transcript. Write at the end if dishes, recipes or supplements where mentioned in the video for follow up questions. Write all output in [TARGETLANGUAGE]. Here is part of the transcript: [PROMPT]

@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-02T17:47:58.077Z
 Help: 
 ID: 1796931705958031360
-OwnPrompt: 
 PromptHint: keywords
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Give me 50 PPC keywords that could be used for "[PROMPT]" and created a table with the avg. monthly searches, and top to lowest page bid with competition ranging from (Low, Medium, high) [TARGETLANGUAGE]

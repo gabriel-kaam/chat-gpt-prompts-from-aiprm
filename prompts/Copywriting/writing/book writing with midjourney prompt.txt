@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-18T19:50:58.593Z
 Help: 
 ID: 1792614007698616320
-OwnPrompt: 
 PromptHint: [Title that you want a book on]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a book having multiple chapters and also midjourney prompt for visuals of every chapter. All task must be done in [TARGETLANGUAGE]. The text to generate is this:

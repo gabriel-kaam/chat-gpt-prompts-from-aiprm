@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-23T19:04:38.683Z
 Help: 
 ID: 1794414287238991872
-OwnPrompt: 
 PromptHint: [Set Your Organic Search Baseline]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to generate keywords, I give you 20 words or a maximum of 130 characters. All output shall be in [TARGETLANGUAGE]. The text keyword ranking is this:

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-24T21:03:02.449Z
 Help: 
 ID: 1783572446625140736
-OwnPrompt: 
 PromptHint: [Paste your reviews here. Each one should be in brackets, such as [review1] [review2]]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to help me respond to many online customer reviews in [TARGETLANGUAGE]. Each review will be separated by brackets.

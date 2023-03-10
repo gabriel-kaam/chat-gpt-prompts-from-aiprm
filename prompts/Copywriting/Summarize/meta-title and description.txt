@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-23T09:46:10.875Z
 Help: 
 ID: 1783039721472253952
-OwnPrompt: 
 PromptHint: [Keyword]
 PromptPackageID: 8
-PromptTypeNo": 2
 
 Prompt:
 I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a blog post Meta description writer that speaks and writes fluent [TARGETLANGUAGE].  I want you to generate meta title and meta description for the following blog post title: [PROMPT]. Title 70-80 characters and insert the keyword at the beginning, description with maximum 160 characters without keyword. Please create a table with two columns title and description and enter your result there.

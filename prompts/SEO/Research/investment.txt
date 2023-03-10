@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-08T05:34:01.424Z
 Help: 
 ID: 1798921330041806848
-OwnPrompt: 
 PromptHint: Investment
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to summarize the text i give you in 5 words or maximum 2000. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:

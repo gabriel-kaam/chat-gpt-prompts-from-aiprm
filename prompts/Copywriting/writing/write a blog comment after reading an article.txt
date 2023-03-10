@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-12T06:14:05.683Z
 Help: 
 ID: 1790234105460559872
-OwnPrompt: 
 PromptHint: [Paste Blog Comment URL]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Read the article from mentioned URL and write 2 paragraphs of 200 words long blog comment. Be informal and greet the author. Write it in [TARGETLANGUAGE]. Personalize the comment to sound as if you are talking to the author.[PROMPT]

@@ -9,10 +9,8 @@ Community: Unsure-f69c57b424376b23
 CreationTime: 2023-02-15T14:08:47.886Z
 Help: 
 ID: 1791440732075327488
-OwnPrompt: 
 PromptHint: [What Difficult Emotion/Situation Are You Are Facing?]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 The keywords to use in the analysis are [PROMPT]. Write all output in [TARGETLANGUAGE], Please include a headline that says,’It sounds like you are struggling with [KEYWORD]’. Include the etymology and definition of the [KEYWORD].

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-02T05:44:01.034Z
 Help: 
 ID: 1786602657558032384
-OwnPrompt: 
 PromptHint: Paste Your Text Here
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Generate a table of 5 different suggestions of writing styles for this [PROMPT] that could be related to your suggestions with numbers in the left column of the table for me to pick from.  write all output in [TARGETLANGUAGE] 

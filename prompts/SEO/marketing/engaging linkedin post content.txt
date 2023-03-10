@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-14T16:38:22.606Z
 Help: 
 ID: 1791115986913722368
-OwnPrompt: 
 PromptHint: [Topic for LinkedIn Post]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Generate LinkedIn Post  in [TARGETLANGUAGE] on Topic [PROMPT].

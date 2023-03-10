@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-16T14:27:00.166Z
 Help: 
 ID: 1791807701295300608
-OwnPrompt: 
 PromptHint: [write a keyword or a topic. eg. social media marketing or 10 tips for social media marketing]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 As a content marketer, write a catchy meta title and meta description for a blog post with the keyword [PROMPT] while ensuring that the meta title is 55 characters max and meta description is 150 characters max. All output shall be in [TARGETLANGUAGE]. 

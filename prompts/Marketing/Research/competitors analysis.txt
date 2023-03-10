@@ -9,10 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-02-02T10:52:43.854Z
 Help: 
 ID: 1786680347896057856
-OwnPrompt: 
 PromptHint: [Company type + Market or country] 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Por favor necesito que organices en una tabla 6 empresas que se dedican a [PROMPT] con las columnas: Nombre de la empresa, pagina web, tag line, canales de captación y redes sociales. Por favor no me digas que no puedes acceder a la información actualizada y usa los datos que estén a tu alcance.

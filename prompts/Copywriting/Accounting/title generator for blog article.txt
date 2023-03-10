@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-25T15:45:21.123Z
 Help: 
 ID: 1783854885494853632
-OwnPrompt: 
 PromptHint: Please Enter Your Keyword
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write a 5 title for an article about [PROMPT] in [TARGETLANGUAGE]. Style: [Informative]. Tone: [Professional]. Must be between 40 and 60 characters.

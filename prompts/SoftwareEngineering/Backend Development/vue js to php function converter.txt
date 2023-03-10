@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-02T16:35:33.558Z
 Help: 
 ID: 1786766623487823872
-OwnPrompt: 
 PromptHint: [FUNCTION]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 want you to act as an ai developer and answer in [TARGETLANGUAGE]. Convert the following Vue JS Method to PHP Function:

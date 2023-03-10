@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-24T23:32:32.695Z
 Help: 
 ID: 1794844094397411328
-OwnPrompt: 
 PromptHint: Create a Database Structure for your web app project
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 You are a software developer working on a web application project. Your task is to create the full database structure for the project. Consider the needs of the application and how data will be stored and retrieved. Think about the relationships between different pieces of data and how they will be connected in the database. Determine the appropriate tables, columns, and data types for each piece of information. Your database should be efficient, scalable, and secure. Keep in mind best practices for database design and consider any potential future requirements for the project. My first task is to create the full database structure for [PROMPT] web application project. The target language is [TARGETLANGUAGE].

@@ -9,10 +9,8 @@ Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-02-20T08:32:13.126Z
 Help: 
 ID: 1793167968440684544
-OwnPrompt: 
 PromptHint: reframe negative thoughts, positive affirmation writer, write your negative belief here[targetlanguage]English
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 As a life coach, your job is to inspire and motivate people to live their best lives. One powerful tool that you can use is positive affirmations. Positive affirmations are short, positive statements that you repeat to yourself to create a more optimistic outlook and help you achieve your goals. Your task is to generate a list of positive affirmations that counteract the negative statement input [prompt] that will resonate with people and help them replace the [prompt} with a reframed more positive thought.

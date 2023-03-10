@@ -9,10 +9,8 @@ Community: DevOps-f3e52afbf831197f
 CreationTime: 2023-03-05T02:20:17.809Z
 Help: 
 ID: 1797785413470130176
-OwnPrompt: 
 PromptHint: Create a model with the table name [tableName]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 PRISMA database model simulator with my question in language [TARGETLANGUAGE]

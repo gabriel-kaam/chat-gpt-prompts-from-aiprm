@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-01-28T06:06:15.666Z
 Help: 
 ID: 1784796316082368512
-OwnPrompt: 
 PromptHint: [COMPANYNAME : SERVICENAME] 
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Write a service review from the customer for a business in [TARGETLANGUAGE]. The review to generate for business & service is

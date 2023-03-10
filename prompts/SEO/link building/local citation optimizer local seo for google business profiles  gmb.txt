@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-06T22:43:58.74Z
 Help: 
 ID: 1788308890803503104
-OwnPrompt: 
 PromptHint: [COMPANY NAME is a TYPE OF BUSINESS in CITY] (ex: Joe's Pizza is a pizza shop in NYC)
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to help me optimize a local business profile for the following business in [TARGETLANGUAGE].

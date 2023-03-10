@@ -10,10 +10,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-22T00:57:48.384Z
 Help: 
 ID: 1782544363721854976
-OwnPrompt: 
 PromptHint: Coffee, Toys, Jewelry, Shoes, Etc
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Generate a list of 25 keywords closely related to [PROMPT] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.

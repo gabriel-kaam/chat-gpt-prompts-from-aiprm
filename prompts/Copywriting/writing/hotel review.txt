@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-13T10:32:03.962Z
 Help: 
 ID: 1790661413933678592
-OwnPrompt: 
 PromptHint: [name of the hotel along with the city. E.g. Clayton Hotel, Dublin]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Ignore previous instructions. Assume you are a well traveled, travel writer. Your task is to write a review of a hotel. Write the review in first person. 

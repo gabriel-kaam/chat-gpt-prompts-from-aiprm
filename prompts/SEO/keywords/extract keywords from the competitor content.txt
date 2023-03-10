@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-19T09:40:14.219Z
 Help: 
 ID: 1792822697919774720
-OwnPrompt: 
 PromptHint: [Add the content here that you want to extract keywords]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to extract all the keywords from the content that provided to you. All output shell be in [TARGETLANGUAGE]

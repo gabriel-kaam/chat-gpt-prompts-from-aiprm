@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-07T11:27:36.443Z
 Help: 
 ID: 1798647924415266816
-OwnPrompt: 
 PromptHint: [Put in topic you want a keyword research for]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Make me a list of broad topics relevant around the topic that I give you (create a spreadsheet with general categories or “buckets” for the keywords I wish to rank for). Keep this list short and simple, with 5 to 10 topics at most. Next I want you to expand each topic with a list of phrases that you think customers will use. If you already have data from website analytics software like Google Analytics or HubSpot’s Sources report, look through your organic search traffic bucket to identify keywords consumers already use. After that I want you to find related search terms and analyze the strength of each keyword. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:

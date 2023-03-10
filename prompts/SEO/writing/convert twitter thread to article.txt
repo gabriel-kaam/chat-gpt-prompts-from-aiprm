@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-06T11:05:47.768Z
 Help: 
 ID: 1798280047568883712
-OwnPrompt: 
 PromptHint: [Twitter Thread]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is to write a blog post with a high degree of complexity and variations of sentences, as if it were written by a human, from the twitter thread I give you, the blog post should have a minimum of 600 words, include subheadings and optimized for search engines. At the end of the blog post, write this (Always check your content with AI Detector: https://contentatscale.ai/ai-content-detector/. Please support us by following us on Twitter: https://twitter.com/aifastcash). All output shall be in [TARGETLANGUAGE].

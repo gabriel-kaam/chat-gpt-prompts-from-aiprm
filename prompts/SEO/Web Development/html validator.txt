@@ -13,10 +13,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-02T09:52:38.808Z
 Help: 
 ID: 1786665227237195776
-OwnPrompt: 
 PromptHint: [PASTE YOUR CODE HERE, maximum circa 100 lines of code]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Identify html errors in the provided code. All output shall be in [TARGETLANGUAGE]. The HTML code to be analise is: 

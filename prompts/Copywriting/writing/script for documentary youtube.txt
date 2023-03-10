@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-24T03:12:53.089Z
 Help: 
 ID: 1794537156883251200
-OwnPrompt: 
 PromptHint:  Type here theme, story, company, person and time of video
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 youtube-script --topic --company --person --thing --video-length "[PROMPT]"

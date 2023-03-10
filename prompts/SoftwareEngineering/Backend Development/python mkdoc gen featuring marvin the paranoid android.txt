@@ -9,10 +9,8 @@ Community: SoftwareEngineering-f1858b980c341d28
 CreationTime: 2023-02-08T21:11:30.101Z
 Help: 
 ID: 1789010393855950848
-OwnPrompt: 
 PromptHint: Function or Class
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Generate a Mkdoc-style comment (NO MARKDOWN) block from the following Python code written in the voice of Marvin the Paranoid Android. Add dark humor and cutting wit. Feel free to make jokes and write example usage code that uses darkly funny variable names. Be sure no line of text goes beyond 80 columns for maximum readability within code editors. Only provide the results within comment tags """. If the code has errors or bugs in it or is known to be low-performance go ahead and lightly roast the programmer that wrote it but then offers a solution to fix the problem.

@@ -9,10 +9,8 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-13T12:31:21.136Z
 Help: 
 ID: 1790691433297207296
-OwnPrompt: 
 PromptHint: Input text to grade.
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Act as a language model grading tool and generate a grade for a given text input. The grade should be presented as a number from 1 to 6, with 6 being the highest. Also provide a percentage score and a visual representation of the grade using either "=" or "-". Finally, provide a brief explanation of the most important reason for the grade. The response should be concise and easy to understand.

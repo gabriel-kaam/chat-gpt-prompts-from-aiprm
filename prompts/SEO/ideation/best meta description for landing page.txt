@@ -9,10 +9,8 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-03T11:00:48.485Z
 Help: 
 ID: 1787044768451387392
-OwnPrompt: 
 PromptHint: [text that you want meta description for landing page]
 PromptPackageID: 0
-PromptTypeNo": 2
 
 Prompt:
 Your task is meta description, will give you 155 characters. All output shall be in [TARGETLANGUAGE]

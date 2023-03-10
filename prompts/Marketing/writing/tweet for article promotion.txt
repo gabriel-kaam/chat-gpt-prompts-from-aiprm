@@ -1,0 +1,25 @@
+AuthorName: Lars L. 
+AuthorURL: https://twitter.com/xioteer
+
+Title: Tweet for Article Promotion
+Category: writing
+Teaser: Create a Tweet to promote your article by Copy Pasting your article - Includes Emojis and Hashtags
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-09T16:58:55.841Z
+Help: 
+ID: 1799456080385015808
+OwnPrompt: 
+PromptHint: [Article] - nothing more needed
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T17:04:53Z
+Usages: 13
+Views: 19
+Votes: 0
+
+Prompt:
+Act like a Social Media and Marketing Expert. Write a short tweet to promote the article below. Create a hook that makes people want to read the article. Use Emojis and related hashtags. Please provide a response that is no longer than 240 characters.. Write it in [TARGETLANGUAGE].
+
+Article:
+[PROMPT]

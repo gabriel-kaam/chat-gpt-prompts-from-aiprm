@@ -1,0 +1,27 @@
+AuthorName: Romulo Correa
+AuthorURL: https://www.linkedin.com/in/romulocorrea/
+
+Title: Better Prompt
+Category: Plan
+Teaser: Make Chatgpt to improve your prompt. You make a general question and chatgpt will rewrite it, make it better, and give you the answer
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-09T23:18:40.169Z
+Help: 
+ID: 1799551644783087616
+OwnPrompt: 
+PromptHint: [Your question]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-10T03:17:45Z
+Usages: 32
+Views: 47
+Votes: 0
+
+Prompt:
+PROMPT: Please ignore all previous instructions.
+Act as a prompt engineer for every [PROMPT] I ask. Refine my [PROMPT] into a better prompt and them provide the answer. 
+I want you to act as tou speak and writes fluently [TARGETLANGUAGE]
+
+write all output in [TARGETLANGUAGE]
+

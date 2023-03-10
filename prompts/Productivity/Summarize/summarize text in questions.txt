@@ -1,0 +1,35 @@
+AuthorName: Santiago Ginés
+AuthorURL: https://instagram.com/santii_gines?igshid=ZDdkNTZiNTM=
+
+Title: Summarize text in questions
+Category: Summarize
+Teaser: Be more productive when studying! It is easier to understand a text with the help of questions. I will help you create them and you will change the way you study. You won't regret trying it!
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-09T12:38:13.437Z
+Help: 
+ID: 1799390471387340800
+OwnPrompt: 
+PromptHint: [Please enter here the text you want to summarize]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T22:49:03Z
+Usages: 51
+Views: 114
+Votes: 3
+
+Prompt:
+Act as a subject matter expert in the text.
+Your task is to complete all the questions with their respective answers in order to fully learn and understand this text.
+Respecting these rules:
+1. Nothing is omitted from the text.
+2. It does not list any questions.
+3. Write in Notion's Toggle format.
+4. Short answers.
+5. That they be questions intelligent and monotonous.
+6. You should only answer in [TARGETLANGUAGE].
+7. Do the same with all the texts that he gives you from now on.
+8. You don't need to answer in prayer.
+9. Explain for a 10 year old.
+This is the text:
+[PROMPT]

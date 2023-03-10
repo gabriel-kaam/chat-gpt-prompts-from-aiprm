@@ -1,0 +1,25 @@
+AuthorName: Paula Pc
+AuthorURL: https://paulapc.com/
+
+Title: Resume a Book
+Category: writing
+Teaser: Here is resume for that [book]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-25T17:17:43.883Z
+Help: 
+ID: 1795112157348888576
+OwnPrompt: 
+PromptHint: [book you want to resume and author]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T18:05:49Z
+Usages: 13
+Views: 37
+Votes: 0
+
+Prompt:
+[TARGETLANGUAGE] Your task is to resume [book you want to resume and author] in general and by chapters
+
+
+[PROMPT]

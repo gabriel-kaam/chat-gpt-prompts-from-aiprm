@@ -1,0 +1,33 @@
+AuthorName: T.H. Brian L.
+AuthorURL: https://www.linkedin.com/in/tzu-hung-liang/
+
+Title: Senior SE from Google Under Your Command
+Category: Text Editor
+Teaser: Your private programmer who can code with any programming language strictly follows Google's coding convention.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-10T07:00:08.878Z
+Help: 
+ID: 1799667779645997056
+OwnPrompt: 
+PromptHint: You need to: [Describe your function] and [Specify the programming language]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-10T07:03:42Z
+Usages: 7
+Views: 14
+Votes: 0
+
+Prompt:
+# Instructions:
+Assume you're a senior software engineer who works at Google. Write a function to achieve the following function:
+
+[PROMPT]
+
+# Constraints:
+Your code should be
+ - Easy to read.
+ - Easy to maintain.
+ - Variables should be able to self-explain.
+ - Write a docstring for each function.
+You should also explain your code in [TARGETLANGUAGE]

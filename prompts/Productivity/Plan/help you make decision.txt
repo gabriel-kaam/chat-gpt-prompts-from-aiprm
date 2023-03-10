@@ -1,0 +1,22 @@
+AuthorName: LAI
+AuthorURL: https://www.facebook.com/chungsen.lai
+
+Title: Help You Make Decision 
+Category: Plan
+Teaser: Create a mind map theory point for you to make a clear decision
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-10T04:27:10.58Z
+Help: 
+ID: 1799629283073978368
+OwnPrompt: 
+PromptHint: Should I... buy the new Iphone?
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-10T04:27:10.58Z
+Usages: 9
+Views: 11
+Votes: 0
+
+Prompt:
+Use a mind map theory to create a large text mind map about "Should I [PROMPT]" Use emojis and markdown to make it more visual. Don't use excessive description, but rather keywords. Follow each point with potential gain or loss from the material impact on my life from statistical data. Again use only a few words. Add numbers to each claim. write it in [TARGETLANGUAGE]

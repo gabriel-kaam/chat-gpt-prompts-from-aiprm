@@ -1,0 +1,26 @@
+AuthorName: Thibault FAYOL
+AuthorURL: https://www.linkedin.com/in/thibault-fayol/
+
+Title: Capitalizer APA Method
+Category: writing
+Teaser: Capitalize you text using the APA style guide.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T08:31:55.512Z
+Help: 
+ID: 1799690876143013888
+OwnPrompt: 
+PromptHint: [Text you want to Capitalize using the APA Method]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-10T08:34:12Z
+Usages: 5
+Views: 13
+Votes: 0
+
+Prompt:
+[TARGETLANGUAGE]
+Capitalize the initials of the important words in the given text.
+Use the APA style for the provided titles in capitalized initials.
+You must apply the instructions to each line of text even if they are repeated
+[PROMPT]

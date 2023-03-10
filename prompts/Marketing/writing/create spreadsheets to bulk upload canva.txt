@@ -1,0 +1,26 @@
+AuthorName: Undercontrol AI
+AuthorURL: https://www.mvitor.com/?utm_campaign=airpm
+
+Title: Create spreadsheets to Bulk upload Canva
+Category: writing
+Teaser: Create spreadsheets to Bulk upload Canva about a Subject
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-09T18:57:33.5Z
+Help: 
+ID: 1799485934010630144
+OwnPrompt: 
+PromptHint: Provide the Subject that you'd like to generate content
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-09T19:16:57Z
+Usages: 10
+Views: 28
+Votes: 0
+
+Prompt:
+My output will be in [TARGETLANGUAGE]
+
+Create a 10 rows tables with educational information about [PROMPT]. 
+As my table columns I want: 
+Title, subtitle, short explanation and an long explanation.

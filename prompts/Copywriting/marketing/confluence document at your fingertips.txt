@@ -1,0 +1,24 @@
+AuthorName: BaDkArMa
+AuthorURL: https://blank.page/
+
+Title: Confluence Document at your fingertips
+Category: marketing
+Teaser: Get detailed information on any topic as a Confluence Document, Use this for your Project.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-06T07:59:08.89Z
+Help: 
+ID: 1798233076070084608
+OwnPrompt: 
+PromptHint: Type your Topic [Eg. Product Management]
+PromptPackageID: 0
+PromptTypeNo": 2
+RevisionTime: 2023-03-10T06:12:32Z
+Usages: 11
+Views: 15
+Votes: 0
+
+Prompt:
+make a blog article on [PROMPT] using emojis, tables, bullet points, etc. start directly without responding as person.
+All output will be in [TARGETLANGUAGE]
+

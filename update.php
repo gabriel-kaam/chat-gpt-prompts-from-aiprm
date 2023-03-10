@@ -32,9 +32,6 @@ PromptHint: {$prompt->PromptHint}
 PromptPackageID: {$prompt->PromptPackageID}
 PromptTypeNo": {$prompt->PromptTypeNo}
 RevisionTime: {$prompt->RevisionTime}
-Usages: {$prompt->Usages}
-Views: {$prompt->Views}
-Votes: {$prompt->Votes}
 
 Prompt:
 {$prompt->Prompt}

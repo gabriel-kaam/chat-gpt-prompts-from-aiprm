@@ -27,10 +27,9 @@ Community: {$prompt->Community}
 CreationTime: {$prompt->CreationTime}
 Help: {$prompt->Help}
 ID: {$prompt->ID}
-OwnPrompt: {$prompt->OwnPrompt}
 PromptHint: {$prompt->PromptHint}
 PromptPackageID: {$prompt->PromptPackageID}
-PromptTypeNo": {$prompt->PromptTypeNo}
+PromptTypeNo: {$prompt->PromptTypeNo}
 
 Prompt:
 {$prompt->Prompt}

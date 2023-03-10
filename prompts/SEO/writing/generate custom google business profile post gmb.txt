@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Business name][Topic][Keywords] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T11:52:44Z
-Usages: 132
-Views: 221
-Votes: 0
 
 Prompt:
 Generate custom content for Google Business Profile post or update in [TARGETLANGUAGE] from given [PROMPT] 

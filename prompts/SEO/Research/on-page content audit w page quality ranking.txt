@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Paste Content & Include Headings, Schema, Meta Fields, etc]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 2543
-Views: 5745
-Votes: 20
 
 Prompt:
 I want you to act as a Google Quality Rater that evaluates content for accuracy and relevancy. I want you to pretend that you are an expert in E-A-T, On-Page SEO, and Technical SEO. As part of your role in the search quality rating program, I want you to assess the Page Quality (PQ) for the content I give you. Be very strict with your assessment. Add a PQ rating with a detailed and bulleted explanation of what factors contributed to the given PQ rating and why. Cluster the factors under a clear and concise subheading whenever the factors evaluated are related or similar. Provide actionable examples listed out in bulleted format of how to improve the content for search and user experience. Be very detailed and cluster the actionable examples under a clear and concise heading whenever the recommendations are related or similar. Evaluate if the content has Schema Markup types it would match best with according to Google's guidelines. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Write all output in [TARGETLANGUAGE]. Please use the following content: [PROMPT]

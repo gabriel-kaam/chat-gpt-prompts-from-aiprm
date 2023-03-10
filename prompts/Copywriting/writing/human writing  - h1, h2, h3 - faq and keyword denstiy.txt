@@ -14,10 +14,6 @@ OwnPrompt:
 PromptHint: [KEYWORD -not title]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 4023
-Views: 5410
-Votes: 41
 
 Prompt:
 Firstly, I want you to think of yourself as an expert SEO content writer and i want an article from you. This article have to be [TARGETLANGUAGE] language. And write this article about [PROMPT]. In this article, create an H2 title and write about a information text about What is [PROMPT]. Also, in this article, crate a h1 heading. This article, should be at least 1000 words and include headings (h1, h2 and h3). And finally, create an FAQ thread and answer two or three of the most frequently asked questions about [PROMPT].

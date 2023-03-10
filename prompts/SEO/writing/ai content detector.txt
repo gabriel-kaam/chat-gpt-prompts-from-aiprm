@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [content to analyze - 3693 characters max.]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1504
-Views: 2023
-Votes: 15
 
 Prompt:
 want you to analyze text provided and assign an AI detection score from 0 to 100, with 100 being the most likely to be written by an AI in [TARGETLANGUAGE]

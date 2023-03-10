@@ -15,10 +15,6 @@ OwnPrompt:
 PromptHint: [Type: Objective, Social Network and investment]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-26T13:51:58Z
-Usages: 649
-Views: 1238
-Votes: 12
 
 Prompt:
 Want you to act as a digital media planner and in a table format responding in [TARGETLANGUAGE], you will create a media plan for [PROMPT]. The campaigns objectives are focused on [PROMPT] with a [PROMPT] buying type. Inside this plan, divide the investment of [PROMPT] into the best performance formats knowing the estimate results for [PROMPT].

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Post your article here
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 224
-Views: 444
-Votes: 1
 
 Prompt:
 Scan through the article [PROMPT] and select one keyword [TARGETLANGUAGE] that runs through all the text [PROMPT]. This keyword [TARGETLANGUAGE] should be selected based on the main idea with which the article [PROMPT] was written with. 

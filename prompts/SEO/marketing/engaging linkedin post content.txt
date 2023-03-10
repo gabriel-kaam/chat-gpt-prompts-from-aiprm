@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Topic for LinkedIn Post]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T17:33:16Z
-Usages: 4282
-Views: 5532
-Votes: 68
 
 Prompt:
 Generate LinkedIn Post  in [TARGETLANGUAGE] on Topic [PROMPT].

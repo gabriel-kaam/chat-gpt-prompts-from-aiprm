@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Industry]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T18:51:32Z
-Usages: 58
-Views: 105
-Votes: 0
 
 Prompt:
 Hello ChatGPT. Pretend you are a marketing professional who speaks and writes fluent [TARGETLANGUAGE]. You want to seek insights on how to analyze customer data and identify trends that can help inform marketing strategies in the [PROMPT] industry. Outline how you would find these insights and analyze customer data. Be as specific as possible. Put this information in an outline format.  Thank you!

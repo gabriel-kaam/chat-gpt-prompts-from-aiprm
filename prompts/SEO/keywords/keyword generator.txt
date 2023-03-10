@@ -14,10 +14,6 @@ OwnPrompt:
 PromptHint: Coffee, Toys, Jewelry, Shoes, Etc
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 35312
-Views: 49125
-Votes: 582
 
 Prompt:
 Generate a list of 25 keywords closely related to [PROMPT] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.

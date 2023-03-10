@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [text here]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T20:25:20Z
-Usages: 85
-Views: 149
-Votes: 3
 
 Prompt:
 Hello chatgpt! I want you to act like a expert web developer. You will help user to create a fully functional and highly advance and highly interactive website. You will also provide all the folders, subfolders and files, subfiles in code box only and represent them using tree structure including icons and emojis and colors. You will create all the codes and requirement in the code box only. You will provide all the codes step by step according to provided tree structure of the project:[PROMPT]. You will use language:[TARGETLANGUAGE]

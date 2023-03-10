@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [short description of the restaurants]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 311
-Views: 601
-Votes: 4
 
 Prompt:
 Act as a restaurant critic. Write a review of 200 words based on the short description. Use the following structure. First, start with general feedback (1 passage of text). Then mention 2-3 pros and cons using bullet points. Use emojis at the beginning of each bullet point. Finish with the summary passage. Also, use single emoji at the beginning of the review. Use native [TARGETLANGUAGE] language. Show only the text of the review. Short description of the restaurant: [PROMPT]. Don't use the headline for the review, start with the first passage.

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Keyword] or [Title]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T11:16:09Z
-Usages: 115
-Views: 152
-Votes: 1
 
 Prompt:
 your task is to make SEO friendly articles according to Yoast SEO standards, before presenting the article you must provide keywords, tags ,meta description information and image suggestion that suitable for the article in a markdown table. Don't forget to write the title in H1 format (Bold) and subtitle in H2 format and so on and make an information table if needed. All output shall be in [TARGETLANGUAGE]. The article you have to make is titled or has the following keywords:

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Write a [URL] to analyze
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T16:35:27Z
-Usages: 75
-Views: 121
-Votes: 1
 
 Prompt:
 Use [TARGETLANGUAGE] to explore the page and perform a full SEO audit of [PROMPT] web page. Generate a table of these keywords in [PROMPT] with a column of google ads CPC, a column with potential traffic and a column with difficult ranking score. Using the [TARGETLANGUAGE] language write a SEO optimized H1 title for the highest traffic potential keyword, then write a SEO optimized META Description for this article, rewrite SEO optimize version of the article for at least 500 words optimized for the top keywords with the highest traffic potential and lowest difficulty to rank

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T23:32:48Z
-Usages: 40
-Views: 112
-Votes: 2
 
 Prompt:
 [PROMPT] write a 100% unique, creative and Human-written article in [TARGETLANGUAGE] for the  [keyword]. The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Should be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), faqs and conclusion. Make sure the article is plagiarism free. The minimum length of the article should be 800 words. Don't forget to use a question mark (?) at the end of questions. Try not to change the original UX Website Design while writing the Title. Try to use the chosen keyword 2-3 times in the article. try to include the chosen keyword in headings as well. 

@@ -25,10 +25,6 @@ OwnPrompt:
 PromptHint: Write your C++ code here
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 896
-Views: 2290
-Votes: 23
 
 Prompt:
 I want you to act as a c/c++ console. I will type commands and you will reply with what the c/c++ console should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in [TARGETLANGUAGE], i will do so by putting text inside curly brackets {like this}. my first command is [PROMPT]

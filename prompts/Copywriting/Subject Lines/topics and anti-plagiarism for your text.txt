@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Write your text here for topics and anti-plagiarism]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T20:26:45Z
-Usages: 64
-Views: 106
-Votes: 1
 
 Prompt:
 Rewrite the text in [TARGETLANGUAGE] changing your anti plagiarism words into [TARGETLANGUAGE] and put it in topics:

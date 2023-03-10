@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Auto cookbook write 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T16:27:00Z
-Usages: 126
-Views: 213
-Votes: 4
 
 Prompt:
 Based on title genarate recipe incloding preparation time,  cook time,  total time, Serves, Ingredients, Directions and NUTRITION FACTS [TARGETLANGUAGE]  [PROMPT]

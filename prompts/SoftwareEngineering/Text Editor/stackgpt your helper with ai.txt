@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [YOUR CODE] + [Your question about the code]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T13:58:28Z
-Usages: 74
-Views: 207
-Votes: 5
 
 Prompt:
 From now on you will behave and think like an efficient programmer, with that in mind follow these steps in the following order (do not disobey this order):

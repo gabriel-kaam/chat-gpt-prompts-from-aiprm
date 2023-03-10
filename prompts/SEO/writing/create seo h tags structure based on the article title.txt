@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Article title you want to create H tags structure. i.e. Best Cryptocurrency to Invest In 2023 for 10x Gains]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 993
-Views: 1413
-Votes: 5
 
 Prompt:
 [TARGETLANGUAGE] Create for me, H tags structure based on the following article title:[PROMPT]. I need: one H1 tag, only two H2 tags, only 3 three H3 tags, one H4 tag, one H5 tag for the article summary or article conclusion. Do not use the article title in any of the H tags. Each H tags should be creative and unique, ready to be added to the article with the given title.

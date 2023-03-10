@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Describe the Topic of the Article. Include at Least 1 Keyword you Want to Target.
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-03T13:35:55Z
-Usages: 1401
-Views: 2133
-Votes: 16
 
 Prompt:
 Write a super engaging long-form SEO article (at least 3,000 words) on this topic: [PROMPT]. 

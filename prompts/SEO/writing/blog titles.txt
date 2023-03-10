@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: keyword
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-21T19:09:41Z
-Usages: 1089
-Views: 1382
-Votes: 3
 
 Prompt:
 [TARGETLANGUAGE] * Give me 15 blog article titles with their intents, relevant for the following keywords: [PROMPT] . Those topics should allow me to include the keywords above into the article. The titles should be informational, or commercial intents. also add attractive and eye catching 165 character meta description based on title. show me result in a markdown table and categories them.

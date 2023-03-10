@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Cover_Poster by Author_Band]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-23T18:31:36Z
-Usages: 97
-Views: 223
-Votes: 5
 
 Prompt:
 Your task is to list in [TARGETLANGUAGE]. Can you list writing per line, all the artistic information analysis, such as cover description, clothes style, artist, illustrator, art style, palette scheme, angles, colourimetry name, poses, and background description, that you can extract from the cover or poster of: [PROMPT]

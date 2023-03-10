@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Copy and past the text here]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T12:22:27Z
-Usages: 44
-Views: 96
-Votes: 1
 
 Prompt:
 I'll give your the text in English written by a human writer. You need to proofread the text and find false facts. You need to compare the text with the similar authoritative texts, and give tips about improving its content (what topics to add) and give tips about how to improve SEO (if there are any keywords to be added). It's important to check all the facts – whether all the information is true. Give only the list of tips of how to master the text's content, the list of facts that are not true, the list of tips for SEO. Don't rewrite the text. I need only tips based on your analysis. All the output need to be in [TARGETLANGUAGE]. The text to analyze is this:

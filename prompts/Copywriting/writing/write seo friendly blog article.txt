@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Keywords, Title]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-20T16:53:51.813Z
-Usages: 169
-Views: 249
-Votes: 4
 
 Prompt:
 Your first task is to write a blog article of 4000 words with headings, subheadings, and paragraphs, and include LSI keywords, tags, FAQs, a compelling title, and meta description. The target language is English.[TARGETLANGUAGE]

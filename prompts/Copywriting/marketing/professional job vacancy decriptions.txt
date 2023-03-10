@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Insert Job Title] [Insert Your Company Name]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-27T07:24:35Z
-Usages: 191
-Views: 290
-Votes: 2
 
 Prompt:
 [PROMPT] Write a professional job vacancynfor the position of [Job Title], in english [TARGETLANGUAGE], with the appropriate job description, for [Company Name], [Location] also add the condition [Terms] and [Specific Terms],  also amount range of [SALARY], this job vacancy is [Job Type], and CV sent via email to [Email]. 

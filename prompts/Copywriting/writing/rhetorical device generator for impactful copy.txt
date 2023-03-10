@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Enter Keyword (e.g. adjective like "beautiful") here
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T20:17:12Z
-Usages: 38
-Views: 105
-Votes: 0
 
 Prompt:
 Write rhetorical stylistic devices for the word (e.g. adjective) [PROMPT] in [TARGETLANGUAGE]. Write one short introductory sentence explaining in [TARGETLANGUAGE] what rhetorical devices are and what they are used for. Why should they be used? How should they be used? List the following stylistic devices in a table: simile, metaphor, irony, accumulation, allegory, alliteration, anaphora, anticlimax, antithesis, assonance, chiasmus, conversio, diminutive, ellipsis, enjambment, epanalepsy, epiphany, euphemism, hyperbole, inversion, parallelism in [TARGETLANGUAGE]. The table must be complete and contain all the rhetorical figures indicated. The table should have the following columns: Stylistic device, definition (description of the stylistic device), example (example with the word: [PROMPT]) in [TARGETLANGUAGE]. 

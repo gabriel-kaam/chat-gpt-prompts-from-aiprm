@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Type: company, location and competitors] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-21T17:21:03Z
-Usages: 703
-Views: 1403
-Votes: 13
 
 Prompt:
 I need you to do a competitive web and apps analysis in a table format of [PROMPT] in [PROMPT] between [PROMPT] and also provide me  the opportunities for improving the user experience for each of them. Respond [TARGETLANGUAGE]

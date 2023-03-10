@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: cookbook outline
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T12:40:24Z
-Usages: 40
-Views: 60
-Votes: 2
 
 Prompt:
 Based on given title generate 10 category list first then each category recipe title generate, more than 10 from each category   [PROMPT] [TARGETLANGUAGE]

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Provide Video Transcript or brief idea ]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T12:06:36Z
-Usages: 182
-Views: 338
-Votes: 6
 
 Prompt:
 Using the below information helps me write a Youtube Shorts Video Script, make sure to keep the tone engaging and close to human with curiosity and value-packed. All output shall be in [TARGETLANGUAGE]. Keep the transitions smooth plus take out all the best points from the original video transcript and put the best one in the start of video. 

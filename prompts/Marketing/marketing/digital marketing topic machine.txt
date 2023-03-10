@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Provide the number of topics you'd like to be generated. Example "5"
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T20:22:36Z
-Usages: 226
-Views: 358
-Votes: 3
 
 Prompt:
 Create a table in Markdown language of [PROMPT] Digital Marketing Blog Topics with Clickbait-Like Titles, and assign a Creative Score and SEO Score for each. The Creative Score should reflect how catchy and attention-grabbing the title is, while the SEO Score should reflect how well the title is optimized for search engines. Please also include Topic Category, and Tags in table as well. All output shall be in [TARGETLANGUAGE].

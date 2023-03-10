@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Write your Research topic here.
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T00:26:10Z
-Usages: 417
-Views: 765
-Votes: 7
 
 Prompt:
 write research results from previous research papers on [PROMPT] try to get data from 12 research papers and also discussed their prevalence and method which they used to detect and try to write 10 lines for every research and write other necessary information from each paper also and at the end of each paper information write reference also like (Azeem et al., 2020) and write bibliography at the end. Please Write in [TARGETLANGUAGE]

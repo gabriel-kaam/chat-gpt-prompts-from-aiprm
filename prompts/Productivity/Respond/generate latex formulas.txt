@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: The formula :
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T18:27:04Z
-Usages: 36
-Views: 69
-Votes: 1
 
 Prompt:
 Give the formulas, and only the formulas in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.

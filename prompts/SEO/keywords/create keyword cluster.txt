@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEYWORD]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 605
-Views: 889
-Votes: 5
 
 Prompt:
 Pretend you are a Googlebot crawling the web for high-quality, relevant content to index. I want you to create a keyword cluster for this keyword, [PROMPT] in [TARGETLANGUAGE]. Assuming the keyword difficulty is high, can you include optimised page titles, meta descriptions no longer than 157 characters, optimised alt tags for the images and search intents that satisfy the search intent and naturally utilise keywords? Formulate a table to rank these keywords on Google's top position. Take inspiration from Google, Ahrefs and SEMrush best practices for ranking in Google's top position.

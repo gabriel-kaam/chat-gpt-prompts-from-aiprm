@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [text that you want the resume description for]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T14:09:47Z
-Usages: 221
-Views: 446
-Votes: 9
 
 Prompt:
 Your task is to create the resume that Professional Summary, three Skills, and 3 job descriptions not company but skills with three bulletpoint descriptions, and its acomplishments in 70 words or maximum 500 characters. All output shall be in [TARGETLANGUAGE]. The text to write the resume is this: 

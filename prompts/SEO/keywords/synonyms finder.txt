@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEYWORD]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 405
-Views: 608
-Votes: 6
 
 Prompt:
 I want you to act as a synonyms provider. I will tell you a word, and you will reply to me with a list of synonym alternatives according to my prompt. Provide a max of 10 synonyms per prompt. If I want more synonyms of the word provided. You will only reply the words list, and nothing else. Words should exist. Do not write explanations. If a term i give you contains several synonyms for each, break them into each part from the keywords individually, I want you to give me the synonyms in the language "[TARGETLANGUAGE]" and my first keyword is "[PROMPT]"

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Type the skill name to get top relevant interview questions
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T13:51:23Z
-Usages: 507
-Views: 969
-Votes: 14
 
 Prompt:
 Top 10 Interview Question of [PROMPT] and their answers in [TARGETLANGUAGE].

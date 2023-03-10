@@ -15,10 +15,6 @@ OwnPrompt:
 PromptHint: [Newsletter Name] - [Keywords] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-22T05:25:19Z
-Usages: 841
-Views: 1471
-Votes: 10
 
 Prompt:
 Write a professional email newsletter in [TARGETLANGUAGE] for the business defined below. Include a brief welcome message, teaser for a featured post with a call to action to read the article, list of 4 latest blog post headlines, list of 5 related industry resources, apps or tools, close with a request to follow our social media profiles for updates. 

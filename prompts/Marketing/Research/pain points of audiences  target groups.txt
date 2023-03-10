@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Topic]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T09:05:14Z
-Usages: 153
-Views: 239
-Votes: 9
 
 Prompt:
 You are a market research expert with a lot of knowledge in psychology and marketing. What are the pain points of the target group of [PROMPT]? Write a list with 5 pain points. 

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [subject: "My Primary Subject" - include: "any extra info to include" - CTA: "Visit My Website"]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-26T18:48:32Z
-Usages: 868
-Views: 1301
-Votes: 16
 
 Prompt:
 Your task is to create a twitter thread. All output should be in the [TARGETLANGUAGE]. 

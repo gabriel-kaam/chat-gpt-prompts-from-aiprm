@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Write your blog section form the outline]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-25T12:29:13.862Z
-Usages: 85
-Views: 131
-Votes: 1
 
 Prompt:
 Act as an SEO content writer, I will give different sections of my Blog, You'll have to write in details, with headings, subheadings, bullet points, and main thing, Keep the same pattern for all the sections as I will give you sections one after one. All the ouput should be in [TARGETLANGUAGE] English Language.

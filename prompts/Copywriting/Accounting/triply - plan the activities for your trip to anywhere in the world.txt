@@ -16,10 +16,6 @@ OwnPrompt:
 PromptHint: [LOCATION], [LENGTH OF TRIP], [TRAVELING WITH], [STYLE OF TRIP] (Relaxing, Romantic, Adventurous)
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1115
-Views: 1858
-Votes: 47
 
 Prompt:
 Pretend you are the world's best trip advisor and I have hired you to plan my trip. You will use the text that I give you as a reference for the trip. This text will include location, duration of the trip, who I am traveling with, and the style of the trip Here is the information you will need to plan the trip.[PROMPT]. 

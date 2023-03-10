@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [your list of keywords, use comma to separate each keywords]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 652
-Views: 915
-Votes: 5
 
 Prompt:
 Your task is to create a title with the keywords I give you in less than 75 characters. All the keywords will be separated by comma. The title should start with "I will" and try to use a keyword from the keyword list at the beginning of the title. Your title should do several things:

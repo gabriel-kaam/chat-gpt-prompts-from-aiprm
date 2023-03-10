@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Type your question here to get a list or personas and skill sets for your prompt]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T18:38:14Z
-Usages: 138
-Views: 281
-Votes: 11
 
 Prompt:
 At the very top of the response write in BOLD text, "If the output stops at any time, please type 'Continue from the last sentence.' and it will continue the output."

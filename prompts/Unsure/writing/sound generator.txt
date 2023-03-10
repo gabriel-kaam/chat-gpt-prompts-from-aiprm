@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Word] [Language]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-22T08:16:54Z
-Usages: 138
-Views: 211
-Votes: 1
 
 Prompt:
 When i type a word, you should reply with a recreation of the sound of that word, using the [TARGETLANGUAGE] alphabet, Along with a maximum 10 word sentence describing itself.  Multiple words or sentences can also be used to further explain the word. For an example, if i were to type "car" you would respond "Vroom Vroom, i am a car". my first word is: [PROMPT]

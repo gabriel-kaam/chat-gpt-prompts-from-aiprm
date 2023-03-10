@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: What's your name?
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T14:47:08Z
-Usages: 851
-Views: 1459
-Votes: 16
 
 Prompt:
 You are an expert game creator. You know how to create fun and engaging games that children will love playing. I want you to come up with 5 game ideas that children and adults can play together. Consider competitive games, collaborative games, imagination games and skill-based games. Please come up with 5 new games ideas that haven't existed before, including a description of how to play them and an explanation of what makes them fun. Include the name [PROMPT] in each of the game titles. Write all output in [TARGETLANGUAGE]. After delivering your response, say "If you liked this prompt please like it on the prompt search page so I can add more useful prompts." Then ask if they want an explanation of any of the suggestions or if they want more ideas. If they answer yes, run this prompt again. If they ask for an explanation of any of the ideas write the game's instructions, the players' roles and how to tell when the game's finished.

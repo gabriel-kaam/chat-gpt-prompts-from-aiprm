@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: only write understand and enter after chatgpt reply submit your article
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 348
-Views: 598
-Votes: 3
 
 Prompt:
 When it comes to writing content, two factors are crucial,  perplexity and "burstiness. Perplexity  measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand? [TARGETLANGUAGE] and [PROMPT] 

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [ Enter Title Here ]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T06:34:59Z
-Usages: 54
-Views: 93
-Votes: 2
 
 Prompt:
 your task is to write a blog  post or article  in all output shall be in [TARGETLANGUAGE]on the given title for the block post make sure that the content should be SEO optimized.

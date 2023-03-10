@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Topic or Topics]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 729
-Views: 1157
-Votes: 13
 
 Prompt:
 Your task is to generate 10 mutliple choice questions with five possible answers each. The keywords to use in the analysis are [PROMPT]. Include an answer key. Write all output in [TARGETLANGUAGE]

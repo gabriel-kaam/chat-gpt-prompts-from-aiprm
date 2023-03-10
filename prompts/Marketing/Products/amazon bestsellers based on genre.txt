@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Write ONE genre to generate a list of 25 bestselling Amazon book titles] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T09:37:23Z
-Usages: 35
-Views: 64
-Votes: 1
 
 Prompt:
 Your task is to generate 25 bestselling Amazon book titles in a particular genre one below the other in the [TARGETLANGUAGE]. The 25 bestselling Amazon book titles in this genre are as follows:

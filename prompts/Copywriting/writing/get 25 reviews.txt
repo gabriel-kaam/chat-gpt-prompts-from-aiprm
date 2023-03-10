@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [tell us about your business, location, keywords, etc.]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-28T05:12:30Z
-Usages: 264
-Views: 390
-Votes: 5
 
 Prompt:
 I want you to write me 20 natural sounding customer reviews They should not be written in a marketing or salesy kind of way. Each one should have its own attitude and style of writing. Some of the reviews need to include slang or abbreviations. They should all be positive, but they should have mixed levels of positivity. Every one should be + or - 5 words from the previous one. When you're done all of that, mix them all up and give me them in a random order in a new list. Do this in [TARGETLANGUAGE]. Here is information about the business to include in the reviews: [PROMPT]

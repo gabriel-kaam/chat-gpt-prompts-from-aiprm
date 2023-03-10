@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Enter the message segment to rewrite
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T17:54:51Z
-Usages: 38
-Views: 79
-Votes: 1
 
 Prompt:
 Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with less than 150 characters. Make each response start with [name]

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Name of the Excel function]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T16:50:07Z
-Usages: 130
-Views: 354
-Votes: 5
 
 Prompt:
 Please explain what the following Excel function does:  [PROMPT] Explain it in an easy-to-understand way and provide example usage. All output should be in [TARGETLANGUAGE].

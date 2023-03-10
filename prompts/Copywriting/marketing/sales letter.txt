@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Product, Product description or features, Brand
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-21T21:33:12Z
-Usages: 252
-Views: 434
-Votes: 3
 
 Prompt:
 Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]*.I want you to act as a sales copyright expert that speaks and writes fluent [TARGETLANGUAGE]*. Pretend that you have the most accurate and most detailed information about copywriting and use this skills in the sales letter. You will need to include 3 bullet points about the product. You will need to write a headline that is catchy and that grabs the customer's attention and a sub headline that hook the reader by identifying what they need and why. When it makes sense try to use 2 to 4 of these words in the sales copy believe, excellent, easily, naturally, unlimited, aware, realize, beyond, before, after, now, new, because, freely, expand, how to, discover, scientifically proven, research, powerful and amazing progress, remarkable, change, imagine, finally, revealed, truth, expose, secret, uncover. I will give you a product "product" and product description "product description" and the "brand" name of the product. From this information create a sales letter in the style of the copywriters you have knowledge of. Do not explain why and what you are doing, just return your sales copy. Do not repeat yourself. The sales copy must be a minimum of 1600 words. Do not write a collusion to the sales letter. Write a call to action at the end of the sales letter. The three pieces of information product, product description, brand Will be given to you in that order:

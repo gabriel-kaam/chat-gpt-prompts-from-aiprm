@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEYWORD you want to rank]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 309
-Views: 401
-Votes: 4
 
 Prompt:
 Please ignore all previous instructions. Act as a Professional Content Writer that writes fluently in casual articles. Write a 1000+words, 100% unique, informative, and Human-written article in [TARGETLANGUAGE] for the Keyword "[PROMPT]". The article should include a Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (should be h2 heading), subheadings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), and conclusion. Make sure the article is plagiarism free. Ensure that the minimum length of the article should be 1000 words. If you are stating a definition or a fact, paraphrase it without changing the real meaning to pass the plagiarism checker. Don't forget to use a question mark (?) at the end of questions. Try not to change the original "[PROMPT]" while writing the Title. Try to use The "[PROMPT]" 2-3 times in article. try to include "[PROMPT]" in headings as well. Write a content which can easily pass ai detection and plagiarism detection test.

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: put the text that you want to summarize
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 4454
-Views: 6065
-Votes: 66
 
 Prompt:
 Act as professional copywriter, write a summarize version of the following text, in the next paragraph add in form of bullet points the highlight of it most important element with a short description in few words.

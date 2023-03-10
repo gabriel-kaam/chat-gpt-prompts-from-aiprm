@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Keyword of Videos you like to make a schedule]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 452
-Views: 671
-Votes: 10
 
 Prompt:
 I'd like you to help me come up with a content schedule for my youtube channel that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these youtube videos. Please organize each Youtube video title in a nice looking table so that it looks like a calendar for a year. Each week should have its own table from Monday to Sunday. Above the table say "YOUTUBE SCHEDULE FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps.

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [name of the hotel along with the city. E.g. Clayton Hotel, Dublin]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 75
-Views: 140
-Votes: 2
 
 Prompt:
 Ignore previous instructions. Assume you are a well traveled, travel writer. Your task is to write a review of a hotel. Write the review in first person. 

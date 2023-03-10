@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Paste your competitor Content for keyword cluster]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 651
-Views: 1714
-Votes: 9
 
 Prompt:
 Your task is create Keyword Cluster From this content. Give me a list of keyword cluster from this content with a outline. All output shall be in [TARGETLANGUAGE]. The text to keyword cluster in this:

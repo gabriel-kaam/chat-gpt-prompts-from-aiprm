@@ -16,10 +16,6 @@ OwnPrompt:
 PromptHint: [describe the product you want to sell]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 6657
-Views: 10043
-Votes: 84
 
 Prompt:
 Réponds moi en [TARGETLANGUAGE] uniquement. Tout ce que tu écris doit être en [TARGETLANGUAGE] et rien ne déroge à cette règle. Fais un tableau (ce format est requis) donnant 3 alternatives de vidéos dynamiques, engageantes et suscitant des émotions pour ma publicité Facebook pour promouvoir le produit que je t'ai donné dont voici les informations :"[PROMPT]". Les étapes doivent s'enchainer de manière fluide et être cohérentes entre elles. La 1ère alternative est une version basique. La seconde alternative est une version avec un storytelling très marqué. La 3ème alternative est une version au ton décalé avec de l'humour.

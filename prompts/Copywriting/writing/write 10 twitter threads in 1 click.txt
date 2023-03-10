@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Topic]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1422
-Views: 1796
-Votes: 13
 
 Prompt:
 Write a unique Twitter threads on the topic "TOPIC". The thread should be under 280 character and at least 10 tweets long in [TARGETLANGUAGE], be engaging, informative and use latest information. Also use thread related emoji in the end of every thread. Write topic related hashtag at least 5.

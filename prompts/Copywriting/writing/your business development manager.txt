@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [text that you want the best business plan for]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-20T05:00:13Z
-Usages: 755
-Views: 1147
-Votes: 15
 
 Prompt:
 Your task is to write business plan details with full information as like professional business development head that text I gave you in 4500 words or maximum 10000 characters.All output shall be in [TARGETLANGUAGE].The text to write business plan in this :

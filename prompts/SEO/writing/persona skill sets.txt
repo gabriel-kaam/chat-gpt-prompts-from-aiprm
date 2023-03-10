@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Type your question here to get a list or personas and skill sets for your prompt]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-03T08:42:11Z
-Usages: 390
-Views: 834
-Votes: 22
 
 Prompt:
 Create a TABLE layout of an exhaustive list of different types of personas it will take to answer the following QUESTION and state why stating the GOALS and NEEDS for each persona. For each Persona in that TABLE, list a separate set of personas associated with the personas in the TABLE layout that will benefit the personas in that table or be aligned with the personas in that TABLE and stating why, also stating their NEEDS and GOALS and HOW they are connected. 

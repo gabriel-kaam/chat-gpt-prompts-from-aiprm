@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Action plan of the meeting]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T11:44:59Z
-Usages: 25
-Views: 49
-Votes: 0
 
 Prompt:
 Draft the minutes of meeting as an active meeting participant. You need to consider the meeting was held today and the time of the meeting was an hour ago. The participants of the meeting were [Participant1],[Participant2] & [Participant3] and the meeting was conducted online using Google Meet or Zoom or Teams.  The duration of the meeting was for 30 minutes where each participating member shared introduction of their respective companies and discussed upon the challenges faced. The summary of the meeting was concluded with the action point of [PROMPT] write all output in [TARGETLANGUAGE].

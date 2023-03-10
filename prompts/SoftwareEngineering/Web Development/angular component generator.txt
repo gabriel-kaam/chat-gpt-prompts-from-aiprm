@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Angular Component Generator
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 267
-Views: 572
-Votes: 2
 
 Prompt:
 "Explain a scenario for a angular component descrption [COMPONENT DESCRIPTION] and generate the corresponding Angular component, service, and HTML template files. Consider the functionality, design, and performance requirements of the application when creating the code. Ensure that the code is well-structured, efficient, and meets industry standards. My first task is to [PROMPT]. The target language is [TARGETLANGUAGE]."

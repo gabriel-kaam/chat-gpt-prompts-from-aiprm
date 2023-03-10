@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Input the list of outlines]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T06:23:14.721Z
-Usages: 87
-Views: 104
-Votes: 2
 
 Prompt:
 Your task is to write about 700 to 900 written words on each topic in a list topics with good amount of perplexity and burstiness. each paragraph should be treated as topic. use markdown format each topic before you write about 800 to 900 written words about it. if during your writing, there is need to list a number of points and then explain the points, make the point to be explained boldened before you proceed to explanations. writing not less than 800 words on each topic should taken with utmost priority. All output shall be in [TARGETLANGUAGE]. the topic to write on is:

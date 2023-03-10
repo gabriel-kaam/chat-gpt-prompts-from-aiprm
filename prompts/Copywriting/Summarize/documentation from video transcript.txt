@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Paste your transcript here
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 105
-Views: 246
-Votes: 1
 
 Prompt:
 You are a documentation expert. I want you to create detailed documentation for my internal wiki based on this video transcript [PROMPT]. Use clear language in [TARGETLANGUAGE] and provide step by step instructions when the transcript provides a process. Create a clear and concise summary. Provide a title that is easily searchable based on the transcript. Return the content as markdown

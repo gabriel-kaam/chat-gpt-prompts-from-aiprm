@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Provide Original Article]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T16:02:13Z
-Usages: 255
-Views: 381
-Votes: 2
 
 Prompt:
 Your Task is to Rewrite the Article. All out put shall be in [TARGETLANGUAGE]. And Rewrite the Article With these given  commands:

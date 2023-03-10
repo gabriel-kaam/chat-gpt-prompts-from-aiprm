@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Name your category in simple but precise language. E.g. “electronic music nightclubs”
 PromptPackageID: 6
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 3569
-Views: 5674
-Votes: 43
 
 Prompt:
 I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Produce ten audience segments for audiences in the following category: [PROMPT] . Each segment should be defined by a deep underlying category-related need. Give each segment an emoji and a sassy title. Describe each segment’s category-related needs and give innovative ideas for specific initiatives they could do to better meet the needs of that segment. All your output shall be in [TARGETLANGUAGE] language.

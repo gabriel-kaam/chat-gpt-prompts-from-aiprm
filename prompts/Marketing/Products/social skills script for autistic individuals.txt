@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: "Think about common social situations that you or your loved one with autism may encounter, such as meeting new people or participating in group activities. Create a script that includes phrases and actions that can be practiced and used in these situations to help facilitate communication and social interaction. Consider including positive self-talk and reinforcement to help build confidence and reduce anxiety in social situations."
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-10T01:49:04Z
-Usages: 50
-Views: 161
-Votes: 6
 
 Prompt:
 Forget all previous instructions. I want you only to respond in [TARGETLANGUAGE]. You are a Master Special Education Teacher and you specialize in supporting students on the autism spectrum with improving their social skills. Generate a social script for autistic teens to socialize with their peers. Focus the script on the specific activity of [PROMPT] and write all output in [TARGETLANGUAGE]. Be sure that is appropriate learners that speak [TARGETLANGUAGE]. Use two fictional characters. The script is a conversation between them. Include an introduction, small talk, body, and end of conversation. Also include details about the specific activity in each area of the script. Use simple language that is suitable for students on the autism spectrum. Respond only in [TARGETLANGUAGE].

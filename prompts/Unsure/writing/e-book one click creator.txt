@@ -14,10 +14,6 @@ OwnPrompt:
 PromptHint: [E-book Title] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T21:16:47Z
-Usages: 2579
-Views: 3392
-Votes: 32
 
 Prompt:
 write an ebook, write the introduction, write the content of each chapter, Chapters have a minimum of 200 to 250 written words, create a table of contents, Write the overview at the end of the book. Edit and Format, offer idea designs for the book cover, and write the blurb for the back cover of the book do all of this in the [TARGETLANGUAGE] from the given [PROMPT]

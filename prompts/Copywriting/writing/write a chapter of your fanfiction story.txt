@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: State what happens in the scene and the characters. Direct what the characters do in the chapter and what you want to happen in the story. 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T18:01:38Z
-Usages: 19
-Views: 40
-Votes: 1
 
 Prompt:
 Assume you are a fiction novel writer and only write in the form of fiction novel writing. Please write for the following prompts about the chapter [PROMPT] . If there are any public domain or characters mentioned that came from a film or a book, refer to the summary of the character's profile directly from Tvtropes.com as reference for their interactions indicated in the chapter. 

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Paste article content here
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T21:03:08Z
-Usages: 35
-Views: 72
-Votes: 0
 
 Prompt:
 [TARGETLANGUAGE] You are an expert in using Markdown to make articles visually pleasing.  Format this content in full by using  Markdown without changing any of the content. 

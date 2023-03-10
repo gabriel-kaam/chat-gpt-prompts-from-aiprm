@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: You gotta try this! Just copy paste the post! [PROMPT]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-03T15:37:51Z
-Usages: 285
-Views: 396
-Votes: 5
 
 Prompt:
 As a social media user, you are scrolling through your feed and come across an interesting post. Write a comment that engages with the post and encourages further discussion. Consider the tone, content, and audience of the original post when crafting your response. Be respectful and avoid controversial topics that could derail the conversation. Remember to keep it concise and to the point.. write a relevant, Really short, max words 20, informal, engaging fun comment on my LinkedIn connection's post [TARGETLANGUAGE], and add one new perspective [PROMPT] 

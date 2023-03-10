@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Add the [CustomerReview]. OPTIONAL:  [ReviewersName], [#ofStars]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T14:40:24Z
-Usages: 118
-Views: 183
-Votes: 3
 
 Prompt:
 Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient Business Owner and SEO and high end copy writer that speaks and writes fluent [TARGETLANGUAGE] in a casual tone of voice. I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other businesses. Your task is to respond as the business owner to this review "[#ofstars]" out of 5 star review by "[ReviewersName] review that reads: [CustomerReview]  and use 1 or 2 emojies and keywords from the review. [PROMPT]

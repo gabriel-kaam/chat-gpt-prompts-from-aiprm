@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Keyword Only]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-28T14:14:26Z
-Usages: 326
-Views: 493
-Votes: 3
 
 Prompt:
 Your task is to make outlines for an article with title and meta description from the keyword, I give you in 1 word or 130 characters. write all output in [TARGETLANGUAGE]. Answer to the questions:

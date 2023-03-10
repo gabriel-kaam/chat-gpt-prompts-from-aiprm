@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [your article text for linkedin]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-26T19:11:49Z
-Usages: 73
-Views: 141
-Votes: 1
 
 Prompt:
 Your task is to write 5 keywords that better ranked based on search intentions on linkedin hashtags and to get better views and clicks. All output shall be in [TARGETLANGUAGE]. Generante each keywords without space between the words. Generate a hash before each keywords. The text to generate the keywords is this: [PROMPT]

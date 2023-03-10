@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Summarized text that you want to create the video script from]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T17:44:55Z
-Usages: 88
-Views: 165
-Votes: 0
 
 Prompt:
 Create a detailed written youtube video script that takes between 8-20 minutes to read using 1500-4000 words, that is ready to be read out loud from a first-person perspective in present tense sound like a real human. Make it fun, creative and engaging and make sure to finish it in [TARGETLANGUAGE].  

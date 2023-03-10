@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Product or Service you offer (Eg: CRM that helps realtors close more deals from their existing buyers list)
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T02:03:31.595Z
-Usages: 43
-Views: 78
-Votes: 1
 
 Prompt:
 Write a welcome email sequence in [TARGETLANGUAGE] including subject lines that convert. This email sequence should get people to know, like, and trust me, so they feel comfortable buying my [PROMPT]

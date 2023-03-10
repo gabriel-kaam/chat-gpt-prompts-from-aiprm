@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [PASTE YOUR CONTENT HERE]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1963
-Views: 4808
-Votes: 35
 
 Prompt:
 Based on the content of my page, what are 5 to 10 relevant topics I should be linking to? Before showing the list with the relevant topics, explain in a couple of sentences why those internal links will be helpful for users. All output shall be in [TARGETLANGUAGE].

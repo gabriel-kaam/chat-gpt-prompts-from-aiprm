@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Keyword
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T16:07:21Z
-Usages: 121
-Views: 208
-Votes: 2
 
 Prompt:
 Your task is to write summarize text description maximum 255 character and title of maximum 60 character on [PROMPT] in [TARGETLANGUAGE]. 

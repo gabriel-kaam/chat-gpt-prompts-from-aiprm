@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [goal you want to achieve]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-24T22:00:23Z
-Usages: 138
-Views: 294
-Votes: 3
 
 Prompt:
 Define 5 to 10 OKR with 5 KR for the OKR: [PROMPT]. And create for each KR a list of tasks to achieve them. All output shall be in the [TARGETLANGUAGE]. 

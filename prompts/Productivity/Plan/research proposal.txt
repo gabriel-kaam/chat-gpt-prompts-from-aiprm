@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Topic of Research
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-24T15:12:47Z
-Usages: 318
-Views: 549
-Votes: 8
 
 Prompt:
 I want you to act as a research proposal writer. I will provide you with a general research topic and you will need to write a proposal outlining the specific focus of the research in [TARGETLANGUAGE], the research questions that will be addressed, and the methods that will be used to conduct the research. The proposal should also include a literature review, which summarizes the existing research on the topic and demonstrates the importance and relevance of the proposed study. The proposal should be well-written and should clearly convey the value and potential contributions of the proposed research.

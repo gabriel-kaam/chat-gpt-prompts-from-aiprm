@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Name product 1 vs product 2] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-27T13:33:53Z
-Usages: 314
-Views: 562
-Votes: 12
 
 Prompt:
 Can you create a table comparing the features of two products and provide short details for each feature? The two products are [insert product names here].

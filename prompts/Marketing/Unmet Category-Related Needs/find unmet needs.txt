@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Name your category in simple but precise language. E.g. “electronic music nightclubs”.
 PromptPackageID: 6
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 1689
-Views: 2385
-Votes: 31
 
 Prompt:
 I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Please list the ten biggest unmet category-related needs in the category of [PROMPT] . By "biggest unmet category-related needs", I mean category-related needs that are shared by many people and where it is hard for them to satisfy that need with the products and services in that category on the market today. Please give each need a catchy title, emoji and give reasons for your answers. All your output shall be in [TARGETLANGUAGE] language.

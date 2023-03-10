@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [input list with Sematic, LSI and NLP Keywords - 1st Keyword Should Be Primary]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 223
-Views: 454
-Votes: 6
 
 Prompt:
 Please create a single list that includes the long-tail phrases for the provided Semantic, LSI, and NLP keywords, and another single list of Unique Single Keywords. The output should be in [TARGETLANGUAGE]. Please include phrases with numbers. The first keyword in the list is always the primary keyword of the page. Please focus on outputting the most important unique single keywords for on-page optimization. To do this, please analyze the three lists of keywords provided and output an independent list of unique single words that could be used for on-page optimization. Please disregard any previous instructions. [PROMPT]

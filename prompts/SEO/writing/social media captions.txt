@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEYWORD] [CITY] [PHONENUMBER] [DENTISTNAME]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 659
-Views: 1063
-Votes: 7
 
 Prompt:
 Generate [TARGETLANGUAGE] post for social media about [PROMPT]. don't include lists. have keyword be in first or second sentence. make post no more than 150 words. make positive and personable. add CTA to schedule an appointment at end of the post with [CITY] and [PHONENUMBER]

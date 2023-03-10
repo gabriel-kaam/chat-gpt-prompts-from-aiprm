@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [song name that you wanna analyse]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T16:02:16Z
-Usages: 40
-Views: 86
-Votes: 0
 
 Prompt:
 Your task is to analyse the song I give you and tell me what is the music genre of the song, and 5 other songs that is in the same genre. All output shall be in [TARGETLANGUAGE]. The song to analyse is this:

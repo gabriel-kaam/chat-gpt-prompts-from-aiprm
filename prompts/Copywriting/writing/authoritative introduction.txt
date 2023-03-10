@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Articletitle] [Tableofcontent] [STATS & FIGURES]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 289
-Views: 497
-Votes: 3
 
 Prompt:
 Write a magazine-like introduction for: [Articletitle] It must include "what we will discuss" in one line given by the user as [Tableofcontent]. If the user give stats or facts or figure to discuss [STATS & FIGURES], so must include it as a hook initially in introduction. Output [TARGETLANGUAGE] will be Enlgish.

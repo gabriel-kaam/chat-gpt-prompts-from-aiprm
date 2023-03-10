@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Write game name, title or Link
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T16:28:29Z
-Usages: 548
-Views: 924
-Votes: 13
 
 Prompt:
 Write Title, Short Description and Long Descriptions for Games in the Google's Play Store for the [PROMPT] in the [TARGETLANGUAGE] Title length should be 30 letters and  short descriptions should be 80 letters and long description should be 600 letters at least  and all these three should be SEO Optimized and popular keywords should be used. 

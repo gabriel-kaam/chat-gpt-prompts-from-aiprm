@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Plan of first position + second + third + keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T08:59:42Z
-Usages: 266
-Views: 767
-Votes: 5
 
 Prompt:
 You are an SEO expert. In [TARGETLANGUAGE] you will use the following 3 content plans to create a new one covering everything to know about the subject of the keyword indicated at the very end. The plan must be inspired by others that I give you but must be original. You will use synonyms, rephrase or change the order of Hn tags if relevant. You have to give me the plan, not write me the content. 

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Write about the tasks you have completed and the outcomes you have accomplished.
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T05:07:06.844Z
-Usages: 16
-Views: 34
-Votes: 0
 
 Prompt:
 Create a catchy title and a compelling description for a freelancer's portfolio work example. Include the type of work completed in the title, and end with a call-to-action prompting potential clients to contact you. Make sure to divide the text into paragraphs and bullet points: [PROMPT] .[TARGETLANGUAGE]

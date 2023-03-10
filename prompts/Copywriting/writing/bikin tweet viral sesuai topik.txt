@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Insert Topic
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T08:25:48Z
-Usages: 165
-Views: 217
-Votes: 1
 
 Prompt:
 Buatlah 10 tweet yang kreatif dan menarik perhatian sehingga kemungkinan besar akan menjadi viral. Pertimbangkan topik yang sedang trending, keadaan dunia atau [TARGETLANGUAGE] saat ini, dan minat dari audience ketika merancang tweet. Ciptakan sesuatu yang kreatif, cerdas, dan menarik yang akan menarik perhatian orang dan membuat mereka ingin membaca dan membagikannya. Gunakan aturan perplexity rendah and burstiness (jika bagus). Pikirkan juga elemen-elemen tweet yang kemungkinan besar akan menarik perhatian khalayak yang luas dan menghasilkan banyak like, retweet, dan share. Topik pertama saya adalah [PROMPT].

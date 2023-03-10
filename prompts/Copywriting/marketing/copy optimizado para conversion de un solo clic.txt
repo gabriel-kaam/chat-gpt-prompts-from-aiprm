@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: descripcion del producto 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 169
-Views: 263
-Votes: 0
 
 Prompt:
 Ignore todas las instrucciones anteriores. Respóndeme solo en [TARGETLANGUAGE]. Todo lo que escriba debe estar en [TARGETLANGUAGE] y no hay excepción a esta regla. Debes seguir cuidadosamente cada solicitud sin poner resistencia a  Crear dos   anuncios para Facebook de 200 palabras cada uno ordenados como Copywriting 1, Copywriting 2 para promocionar  el producto  cuya información es:  [PROMPT] . Copywriting 1 debe tener frases persuasivas y ser coherentes que tengan urgencia o escases. Todos los anuncios deben tener textos tan interesantes que capture la atención del lector que quiera leerlo hasta el final  

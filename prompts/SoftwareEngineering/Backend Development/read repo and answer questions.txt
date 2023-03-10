@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [repoAddress], [question]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T17:56:00.614Z
-Usages: 27
-Views: 66
-Votes: 1
 
 Prompt:
 You are going to act like a tutor to me, and you should tell me information about the github repository below. You should always speek [TARGETLANGUAGE].

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Side hustle, Freelancing, Gig economy, Passive income, Entrepreneurship, Online business, Work from home, Extra income, Part-time work, Small business, Self-employment, Microbusiness, Start-up, E-commerce, Social media marketing, Affiliate marketing, Blogging, Podcasting, YouTube, Graphic design, Writing, Translation services, Virtual assistance, Online tutoring, Web development, App development, Photography, Airbnb hosting, Delivery services, Pet-sitting, House cleaning, Personal shopping, Handyman services, Landscaping, Car detailing, Event planning, Food truck business, Catering, Consulting, Coaching.
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-25T15:23:08Z
-Usages: 121
-Views: 245
-Votes: 0
 
 Prompt:
 Your task is to find the best side hustle idea that exists in your database using the key words provided and include 10 additional keywords and hashtags, also summarize each category with SEO optimization to rank at the top of google pages. All output shall be in [TARGETLANGUAGE].

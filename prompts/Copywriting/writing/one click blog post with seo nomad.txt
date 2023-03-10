@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T17:41:02Z
-Usages: 28
-Views: 44
-Votes: 1
 
 Prompt:
 Create a detailed content brief for [PROMPT] in English. First section Include top level keywords, longtail keywords, a header outline. Then write suggested title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. After that, write some text underneath each sub header. Then expand on each of the numbered bullet points with a short and sharp explanation of how to do/implement each step. Put all this content into a structured blog post 600 words in language "english" you will reply with blog post titles in [TARGETLANGUAGE]

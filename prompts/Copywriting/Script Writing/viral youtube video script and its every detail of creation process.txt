@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Title that you want a video script for]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 596
-Views: 884
-Votes: 11
 
 Prompt:
 Your task is to write a detailed youtube video script and every detail of its creation in timstamp. All output shall be in [TARGETLANGUAGE]. The text to generate is this:

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEYWORD]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 7173
-Views: 9831
-Votes: 57
 
 Prompt:
 Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE] language. I want you to act as a keyword research expert that speaks and writes fluent [TARGETLANGUAGE]. First find the keyword ideas that are related to [PROMPT]. Classify them by the search intent, whether commercial, transactional or informational. Then cluster them into groups based on their semantic relevance. First I want you to give me back a short over list of cluster topics found. Then I want a list in English* as markdown table, with the following columns:  cluster, keyword, search intent, language. Please merge cells by clusters of the first column in one cell.

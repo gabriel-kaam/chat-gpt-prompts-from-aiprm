@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [topic] [keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T12:38:27Z
-Usages: 1078
-Views: 1495
-Votes: 11
 
 Prompt:
 You are tasked with creating a social media post generator that can generate Facebook, Twitter, LinkedIn, and Instagram posts based on a user-provided topic and relevant keywords. The generator should also be able to create hashtags for each platform.

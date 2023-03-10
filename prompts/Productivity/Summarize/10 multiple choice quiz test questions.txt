@@ -14,10 +14,6 @@ OwnPrompt:
 PromptHint: Paste in your lecture content - Max 8000 characters
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T05:54:05Z
-Usages: 160
-Views: 264
-Votes: 5
 
 Prompt:
 Generate 10 multiple choice questions in [TARGETLANGUAGE] with four options to test comprehension of this lecture content and indicate the correct answer with an asterisk. [PROMPT]

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Enter your Keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T18:33:59Z
-Usages: 131
-Views: 243
-Votes: 1
 
 Prompt:
 All Output must be in [TARGETLANGUAGE]. Give me an on-page optimization guide for the keyword "[PROMPT]." Must include all the necessary factors and 2 line description and example of how they can implement on the website. Write it in a table with a separate section for serial number, on-page optimization step, Description, and example. And at the last of the table, give me an additional tip for SEO maximum of 5 lines. Don't add anything at the start of your response. Just start the response with a table. At the end of the response add a Twitter (https://twitter.com/rrehmanxd) and Buymeacoffee (https://www.buymeacoffee.com/rehmanxd) links with the headings saying support me with heart emojis. Don't add these two to a table.

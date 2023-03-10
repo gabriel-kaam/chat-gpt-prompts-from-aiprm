@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Past ur text there
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-10T09:32:02Z
-Usages: 27
-Views: 29
-Votes: 1
 
 Prompt:
 Ask me 15 questions and answer to them about this text in [TARGETLANGUAGE]. Put your answers into a excel table with "Questions" on the left and "Answers" on the right: "[PROMPT]"

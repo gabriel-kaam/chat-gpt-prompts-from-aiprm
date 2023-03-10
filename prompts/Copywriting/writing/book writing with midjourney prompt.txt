@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Title that you want a book on]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T09:08:49Z
-Usages: 95
-Views: 156
-Votes: 2
 
 Prompt:
 Your task is to write a book having multiple chapters and also midjourney prompt for visuals of every chapter. All task must be done in [TARGETLANGUAGE]. The text to generate is this:

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [write your topic or question here]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T19:02:06Z
-Usages: 19
-Views: 26
-Votes: 1
 
 Prompt:
 I'd like you to write one quiz question based on my topic. All output should be in [TARGETLANGUAGE] Please also include four possible answers, but only one of the answers can be correct. Please display the correct answer below the answers. My topic is: [PROMPT]

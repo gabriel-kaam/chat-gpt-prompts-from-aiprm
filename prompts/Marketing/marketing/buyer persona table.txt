@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Company Type] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 963
-Views: 1561
-Votes: 32
 
 Prompt:
 Please create a detailed description in [TARGETLANGUAGE] of each buyer persona profile for a [PROMPT] company with the following topics, Demographics, Objectives, Main Challenges, Values and Motivations, Buying Behaviours, Communication Preferences, Media and Social Networks. Please organise the information in a table.

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Write heading or a short description with your targeted keywords]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-23T09:53:30Z
-Usages: 310
-Views: 484
-Votes: 8
 
 Prompt:
 Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a professional SEO and high-end copywriter who speaks and writes fluently [TARGETLANGUAGE]. I want you to pretend that you can write content so well in [PROMPT] that it can outrank other websites.The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. Do not echo my prompt. Let the article be a long Form article of a minimum of 2000 words. Must write an minimum 2000+ words article in active voice as like as human-like style, simple English, using contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms and avoiding repetitive phrases and unnatural grammatically correct sentence structure. You have to write the article using an active voice. Avoid all grammatical mistakes. You will need to research a given [PROMPT], formulate a thesis statement, and create a persuasive piece of work that is informative and engaging, with proofreading.Optimize for voice search and include the latest data and information on the keyword of [KEYWORD]. 

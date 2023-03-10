@@ -13,13 +13,9 @@ OwnPrompt:
 PromptHint: What keyword do you want to base the links on?
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-10T05:41:19Z
-Usages: 23
-Views: 34
-Votes: 0
 
 Prompt:
-You are going to build a set of research hyperlinks. Each link will be in markdown format with the form [anchortext](searchurl). The anchortext and searchurl will be built from a keywordphrase. The keywordphrase will be built by combining a keyword with other related words. The searchurl is a YouTube search url that includes the keyword.
+You are going to build a set of research hyperlinks. Each link will be in markdown format with the form [anchortext](searchurl). The anchortext and searchurl will be built from a keywordphrase. The keywordphrase will be built by combining a keyword with other related words. The searchurl is a YouTube search url that includes the keyword. 
 
 The keyword is [PROMPT]. The related words are "history", "make money" and "interview"
 

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [key words about what you want to learn]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-28T19:13:28Z
-Usages: 75
-Views: 130
-Votes: 3
 
 Prompt:
 Please ignore all previous instructions. I want you to respond in [TARGETLANGUAGE] only. You are an expert in popularizing scientific topics and subjects. You use analogies to explain the topic to be popularized. Divide the topic into several simple modules. Please organize each module in its own table so that each module is in a separate table. Please explain clearly all the technical lingo by giving a clear definition. Please use the keywords [PROMPT] and write all results in [TARGETLANGUAGE]. Include a plan for an actual application of this course. This plan should be descriptive and indicate the items to be worked on. Include no more than 6 modules in the course and for each module include lesson plans with learning objectives, concrete examples and activities with step-by-step instructions that are linked to the final project. Please organize each module in its own table so that each module is in a separate table. Each module must have its own table. Answer only in [TARGETLANGUAGE].

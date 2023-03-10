@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Keyword or List of Keywords
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T23:42:10Z
-Usages: 320
-Views: 459
-Votes: 5
 
 Prompt:
 Provide 30 article titles, keywords to be used, and meta descriptions for [PROMPT]. Make the article titles interesting and good for click bait. Make the article titles clickable, sharable, and interesting. Include [PROMPT] in the title, picture ideas and meta description for SEO. Use a grid, organized left to right showing Keywords, Article Title, Meta Description, Picture Inspiration. Write in [TARGETLANGUAGE]. Have everything in the same chart. 

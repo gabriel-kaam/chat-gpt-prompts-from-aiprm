@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Type your post topic here]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T18:09:34.158Z
-Usages: 875
-Views: 1125
-Votes: 3
 
 Prompt:
 Please ignore all previous instructions. I want you to respond in [TARGETLANGUAGE]. I want you to act as a Social Media Influencer that writes fluent [TARGETLANGUAGE]. I want you to create a Facebook Post in [TARGETLANGUAGE] that will get the attention of potential clients. Your task is to summarize the text I provide in 140 characters or less in [TARGETLANGUAGE].

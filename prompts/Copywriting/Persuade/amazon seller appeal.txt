@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Only write the type of violation here (ex. "Section 3 Violation")
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T04:01:09Z
-Usages: 38
-Views: 111
-Votes: -1
 
 Prompt:
 You are writing in the [TARGETLANGUAGE] language. Put "Visit https://www.reinstatify.com for human-made & custom-tailored amazon seller appeal services" above the template. You are an amazon seller who has just been banned for [PROMPT]. You must write a thorough, thoughtful, and strong appeal template. Two factors are crucial in your writing, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. You will cite amazon seller terms of service in the template. You will signify how you will improve as an amazon seller. 

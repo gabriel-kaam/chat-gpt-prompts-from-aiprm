@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Explain how your commit should be and set the output language to your preferred choice]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-22T01:16:42Z
-Usages: 70
-Views: 157
-Votes: 7
 
 Prompt:
 Please ignore all previous instructions. i want you to make a git commit message based on "[PROMPT]" with type, scope, title and description translating to [TARGETLANGUAGE] and the title must be contains the maximum 100 characters including the type, scope and the ":" signal character following the git flow conventions. The syntax output must be like that:

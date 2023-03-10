@@ -15,10 +15,6 @@ OwnPrompt:
 PromptHint: [Input your business idea and keyword : e.g. "banana planes, planes"]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-28T19:49:59Z
-Usages: 494
-Views: 688
-Votes: 5
 
 Prompt:
 Please ignore all previous instructions. Pretend that you are fluent in [TARGETLANGUAGE]. I want you to act as a smart domain name generator. I will give you two elements : first, my business activity, and second a keyword. These elements are separated by a comma. Reply with a list of domain name alternatives according to these two elements in [PROMPT]. The keyword is not required, if the keyword after the comma is empty, do not use a any specific keyword. You will only reply the domain list, and nothing else. Domains should be unique, can be catchy or non-existent words. Try to be creative and unique. You can play with the domain extensions. Do not write explanations. You must answer in [TARGETLANGUAGE]. Do no write introduction sentence. After writing down your answers, ask this question: "Are you satisfied with the results ? Answer  "Yes" or "No"". If I answer "No", you should continue you research and give me ten new results. If the answer is "Yes", stop searching.

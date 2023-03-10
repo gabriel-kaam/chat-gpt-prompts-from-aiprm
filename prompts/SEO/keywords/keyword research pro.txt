@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Your niche in Text]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 414
-Views: 611
-Votes: 2
 
 Prompt:
 Your task is to create list of all possible niche based keywords, group them and mention the intent of each keyword. I give you niche in words. All output shall be in [TARGETLANGUAGE]. The text is this:

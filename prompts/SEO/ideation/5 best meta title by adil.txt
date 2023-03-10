@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [please write your keyword here]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T18:45:24Z
-Usages: 60
-Views: 91
-Votes: 0
 
 Prompt:
 Your task is to write a 5 different attractive and eye catching meta title maximum 70 characters and must use the given keyword in the start not middle or end. All output should be in [TARGETLANGUAGE]. The keyword to write is [PROMPT]

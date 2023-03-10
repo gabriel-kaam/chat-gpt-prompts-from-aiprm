@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint:  [product description you want research for] 
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-06T12:55:19Z
-Usages: 46
-Views: 86
-Votes: 0
 
 Prompt:
 Act as researcher and make me a bullet list in [TARGETLANGUAGE] about main pain points, angles and problems that people associate certain product or service. Product or service is this:

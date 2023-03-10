@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Text that to know top Travel Vloggers for]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T07:25:15Z
-Usages: 72
-Views: 145
-Votes: 0
 
 Prompt:
 Your task is to summarize the text I give you in 150 words or a maximum of 1000 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:

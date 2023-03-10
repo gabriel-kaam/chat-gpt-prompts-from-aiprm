@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEYWORDS] what type of business and goal you need a marketing plan for
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T21:28:17Z
-Usages: 708
-Views: 1015
-Votes: 18
 
 Prompt:
 Ignore previous instructions. I'd like you to write in [TARGETLANGUAGE] in a highly educated manner in the field of marketing. Educate in detail on the difference between a business plan and a marketing plan for small businesses and how a marketing plan will deliver goals such as reach and grow a target audience and increase profits for [PROMPT]. Educate on the need for and difference between marketing strategies and tactics. With each month building on the next reverse-engineer a 12-month marketing plan based on the goal and user input. Provide your reasons for choosing the elements within the marketing plan and create and expand on strategies and tactics within a highly-specific schedule broken down into actionable steps. For each month give weekly video creation ideas with captions and keyword rich titles for four blog posts each month. If you have strategies or tactics that are one-off items, like a loyalty program, go deep into additional steps to accomplish them. Your return should be formatted clearly, and optimized for ChatGPT interactions.

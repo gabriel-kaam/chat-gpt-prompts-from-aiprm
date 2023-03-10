@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Insert Topic Name]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T05:06:02Z
-Usages: 48
-Views: 85
-Votes: 2
 
 Prompt:
 Your task is to Create the article on a given topic by considering the following Guidelines by Google. All the output result must be in [TARGETLANGUAGE].

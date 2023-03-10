@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Description]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-01T10:42:41.511Z
-Usages: 54
-Views: 114
-Votes: 7
 
 Prompt:
 i want you to act as a freelance, i want you to reply to a client project description giving the client a quote and explain how the project would be complete here is the client project description [PROMPT] and i want response in [TARGETLANGUAGE]

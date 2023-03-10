@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Name of your favorite recipe ! you want to cook
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T10:04:06Z
-Usages: 268
-Views: 394
-Votes: 5
 
 Prompt:
 I want you to act as an expert cook, food blogger, cookbook writer. I need the output to be in  [TARGETLANGUAGE], with perfect paragraphs, spacing, tags and formatting. GIVE ME AN INTRO AND SOME HISTORY OF RECIPE. The temperature for the recipe is always celsius.

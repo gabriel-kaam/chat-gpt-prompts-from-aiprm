@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Questions
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 377
-Views: 722
-Votes: 7
 
 Prompt:
 Create 5 questions about the following content in [TARGETLANGUAGE] and give the answers with the explanation, separate from the questions: [PROMPT]

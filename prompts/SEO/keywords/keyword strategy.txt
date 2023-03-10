@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [roofing]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-08T16:02:53Z
-Usages: 68
-Views: 104
-Votes: 2
 
 Prompt:
 Your task is to generate a list of 15 keywords based on [PROMPT]. Then generate 3 blog topics per keyword. The first blog should match an informational search intent. The second blog should be a comparison or "how to" blog. The third blog should focus on how much the list keyword costs. Once all this is complete, put everything into a table. All outputs should be in [TARGETLANGUAGE]

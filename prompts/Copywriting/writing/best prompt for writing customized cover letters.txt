@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Job Title at Company Name for the job you're applying for (title case)]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T08:09:30Z
-Usages: 294
-Views: 631
-Votes: 4
 
 Prompt:
 Please ignore any previous instructions. Ask me in [TARGETLANGUAGE] to provide the [PROMPT]. After I provide that information, then ask me how many years of work experience I have related to the role and tell me to write skip if I don't have any. After I provide that information, then ask me to copy-paste in the full job description. After I provide that information, then ask me to provide the mission statement, values, or strategy/goals of the target company I want to work for. After I provide that information, then ask me to provide three of my strongest soft skills separated by commas and three of my most important hard skills that match the job. After I provide that information, then ask me to provide three of my relevant achievements that contain numbers. After I provide that information, then write a cover letter as me for me to send to the company I'm applying for. Use standard cover letter format (with contact information for the contact person), the [TARGETLANGUAGE], contractions, and make sure it is less than 400 words long. The cover letter should use my achievements to provide evidence for the hard and soft skills I've provided and should concretely describe how those skills can be used to fulfill the tasks in the job description. Use the job title, company name, and number of years of experience I have in the job role in the first paragraph. If I don't have any years of experience related to the role, focus on my soft skills instead.

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [write the topic you want a word list for]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-07T13:15:56Z
-Usages: 48
-Views: 77
-Votes: 1
 
 Prompt:
 I want yout to create an ordered list of words in language [TARGETLANGUAGE] up to 100 words. Make sure the words are arranged in an alphabetical order. Also, make sure no single word is added twice. Create a list of words about this: [PROMPT]

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: text to create regular expression for. For example: hyperlink. Or hyperlink containing /kb/. Please share your suggestion via LinkedIn - use the link to contact view my profile
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-02T09:00:33Z
-Usages: 74
-Views: 211
-Votes: 2
 
 Prompt:
 Please generate regular expressions for use in Visual Studio/Visual Studio Code,  Javascript, C#, PHP, Ruby, Java, Bash. Please respond in [TARGETLANGUAGE] and put every regular expression separately with a short annotation and explanation. You need to write a regular expression for the following:

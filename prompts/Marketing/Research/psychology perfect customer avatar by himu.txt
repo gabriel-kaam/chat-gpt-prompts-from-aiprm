@@ -1,0 +1,21 @@
+AuthorName: Himu
+AuthorURL: https://twitter.com/withhimu
+
+Title: Psychology: Perfect customer avatar by Himu
+Category: Research
+Teaser: Create an ultimate customer avatar to know your customers better than they know themselves
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-10T09:35:28.295Z
+Help: 
+ID: 1799706868113993728
+OwnPrompt: 
+PromptHint: [product] that does [benefit of the product for customer]
+PromptPackageID: 0
+PromptTypeNo": 2
+
+Prompt:
+Create a perfect customer avatar in [TARGETLANGUAGE] for the product: [PROMPT]. 
+Include demographics, psychographic, pain profile, desire profile and shopping behaviour. Divide all 4 elements in different tables and create two columns in each table of "Character" and related profile character. Give 10 different traits for each table based on the [PROMPT]
+
+Make sure to include the personal details in pain profile like secret fear of the customer, biggest challenge currently facing in addition to other traits. In desire profile, add biggest material desire, secret personal desire and professional desire. In psychographic, add 5 favorite movies, 5 favorite books and 5 favorite celebrity name and 5 favorite internet influencer name the ideal customer follows. In demographics, give it a name that is specific to the country targeted.

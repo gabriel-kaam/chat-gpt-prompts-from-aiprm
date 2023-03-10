@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Keyword / Topic
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-04T05:59:33Z
-Usages: 96
-Views: 159
-Votes: 2
 
 Prompt:
 [TARGETLANGUAGE]write a full blog post of up to 1200 words writing like a human expert on the subject. It will have an introduction with an air of curiosity, at the beginning talking about a pain that the person suffers. put sub titles, conclusion and frequently asked questions at the end of the content. also put words that you think call attention in bold and put some link to another site related to the word or topic in question. All this in html5. Remember this is for a blog post, so no Html header or H1 is required. Start with the introduction[PROMPT]

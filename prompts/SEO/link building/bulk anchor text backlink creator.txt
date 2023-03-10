@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [KEY WORD] [URL] [REL] [TARGET]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 317
-Views: 1209
-Votes: 5
 
 Prompt:
 Make me HTML code to create acnhor text backlinks using several keywords and urls using in English [TARGETLANGUAGE]. With anchor text [KEY WORD] that points to the website [URL] and has the [REL] attribute with the title coming from the prompts [KEY WORD] and [TARGET]. With the output results with a simple HTML code format like the following "as follows <a href="website" rel="REL" title="KEY WORD" target="TARGET"> KEY WORD"</a>

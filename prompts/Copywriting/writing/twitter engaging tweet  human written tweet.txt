@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: no emojis allow
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T14:11:29.276Z
-Usages: 30
-Views: 45
-Votes: 0
 
 Prompt:
 Act like a twitter expert and write a human written tweet on [PROMPT]. tweet should be engaging. Write in [TARGETLANGUAGE]

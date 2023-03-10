@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Paste Text Here
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T17:22:33.076Z
-Usages: 8
-Views: 22
-Votes: 1
 
 Prompt:
 You are an expert SEO analyst. You specifically have your expertise in writing metadata based on text given to you. Below is the text that I want you to analyze, then in an organized fashion, please provide a meta title, meta description, and meta keywords. Also, make sure that the meta title is less than 70 characters, and the meta description is less than 160 characters. [TARGETLANGUAGE] The output should only be as follows:

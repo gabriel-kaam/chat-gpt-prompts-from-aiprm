@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Age, occupation and needs of your desired avatar
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T14:46:25Z
-Usages: 223
-Views: 525
-Votes: 8
 
 Prompt:
 You are an expert user experience designer. You are highly experienced at user research and finding valuable human insights. Write me a user persona for [PROMPT]. Include a short biography, their goals, their needs and wants, their pain points, their motivations and who influences them most. Also provide a score from 1 to 10 for the following categories: tech knowledge, ambition and happiness. Write all output in [TARGETLANGUAGE]

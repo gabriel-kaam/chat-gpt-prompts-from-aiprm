@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [FUNCTION]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 46
-Views: 258
-Votes: 1
 
 Prompt:
 want you to act as an ai developer and answer in [TARGETLANGUAGE]. Convert the following Vue JS Method to PHP Function:

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Movie 1, Movie 2, Series 1, Series 2, and so on] Series or Movies you watched
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 120
-Views: 298
-Votes: 2
 
 Prompt:
 ich nenne dir jetzt ein paar netflix serien und Filme : "[PROMPT]" und du versuche ein Muster darin zu erkennen bzw. versuche was über diese Person zu schlussfolgern die das alles gesehen hat. So viel wie du nur schaffst. Ziehe zum Schluss ein Fazit was du über die Person denkst. Antworte mir bitte alles auf [TARGETLANGUAGE]. Empfehle mir in einer schicken Tabelle zum Schluss noch basierend auf meinen Mustern jeweils 5 weitere Titel die ich mir anschauen sollte. In der Tabelle wäre es schön wenn du den Titel, Hauptdarsteller und Kategorie benennst und in Sternchenform darstellst wie gut oder schlecht die Bewertung ist.

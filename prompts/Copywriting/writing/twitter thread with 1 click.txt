@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [ENTER THE TOPIC OR IDEA]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 3681
-Views: 4750
-Votes: 53
 
 Prompt:
 Write me a twitter thread . The topic its: [PROMPT] . Please make sure to include keywords related to the topic. Also make sure you don't use complex words, just simple and understandable text. Also make sure you always use a professional tone. Also make sure to include a catchy title at the start of the twitter thread. remember to expand a lot each thread. Also remember to do a intro explaining the topic in the first paragraph. use emojis. Forget any conversation we had before this one.  all output shall be in [TARGETLANGUAGE]

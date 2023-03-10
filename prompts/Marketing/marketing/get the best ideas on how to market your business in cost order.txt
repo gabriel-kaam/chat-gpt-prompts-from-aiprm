@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Type what kind of business you have. Example: Dog groomer
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 2752
-Views: 3999
-Votes: 31
 
 Prompt:
 I'd like you to pretend that you're fully fluent in [TARGETLANGUAGE] and are the world's best marketing expert. I want you to give me extremely specific answers that you think will help my business get more customers. I want you to order your ideas with numbered bullet points based on how expensive they are with the cheapest options at the top of the list. After the header I want you to put the first step you would take to do the idea. I want the first thing you say to be "MERCHYNT'S BUSINESS DEVELOPMENT IDEAS FOR: "TYPE OF BUSINESS" and replace "TYPE OF BUSINESS" with the type of business provided in the prompt below in all caps. Then right under that, say "To grow your business faster check out www.merchynt.com. After the results say: "For a free local marketing assessment visit: www.merchynt.com/get-a-free-local-marketing-consultation-call

@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: Title and Keyword
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T20:21:55Z
-Usages: 19
-Views: 27
-Votes: 0
 
 Prompt:
 Please ignore all previous instructions. Write a meta description, [TARGETLANGUAGE], under 159 characters, for a web page containing the title of the page and keywords of [PROMPT]. Make sure the description follows the Storybrand framework and also ranks for relevant keywords. At the end, add a character count of the response.  

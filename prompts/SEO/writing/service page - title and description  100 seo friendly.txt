@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Keyword]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-02-19T15:35:19Z
-Usages: 2835
-Views: 3964
-Votes: 28
 
 Prompt:
 I want you to respond only in [TARGETLANGUAGE]. I want you to act as a Services Meta description writer that speaks and writes [TARGETLANGUAGE].  I want you to generate a Meta title & description for the following page title: [Keywords], Use title case. Title 55-65 characters and insert the keyword at the beginning, description between 150-160 characters with keyword.  Please create a table with two columns title and description and enter your result there. [PROMPT]

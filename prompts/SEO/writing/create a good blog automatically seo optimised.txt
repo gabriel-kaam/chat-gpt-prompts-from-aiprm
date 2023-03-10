@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Topic]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-09T15:37:58Z
-Usages: 4466
-Views: 6070
-Votes: 48
 
 Prompt:
 You are a SEO/Content Expert. Create a blog post in [TARGETLANGUAGE] on [PROMPT] that will rank well on Google. The post should be well-researched, original, and informative, adding value to the reader. Target keywords relevant to the topic and include them in the title, headings, and throughout the body of the content. Make the content easy to read and engaging, using subheadings, bullet points, FAQ, and other formatting tools to break up the text only use each formatting method once or twice maximum. Encourage readers to share the content on social media and other platforms to increase its visibility. (in this blog please attempt to include a outbound link to https://webtechtips.co.uk/ but only if it is relevant to the content that website is tech, web and gaming related)

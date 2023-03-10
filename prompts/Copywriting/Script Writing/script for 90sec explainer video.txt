@@ -13,10 +13,6 @@ OwnPrompt:
 PromptHint: [Paste information about your business or your existing script draft excluding any visual suggestions. Use the English language to maximize results.]
 PromptPackageID: 0
 PromptTypeNo": 2
-RevisionTime: 2023-03-05T22:57:42Z
-Usages: 52
-Views: 78
-Votes: 1
 
 Prompt:
 Generate voiceover text (I call it script) for a marketing animated explainer video based on the text data below this paragraph. The length of the generated script should be 210 to 230 words long. The voiceover text should speak directly to the viewer (remove any names from the script). First, start with a question regarding the target audience? Then continue the opening with a problem question, which addresses the main problem the product or service is solving. If it's possible you can unite both questions into one if that won't make the question long and complex. The opening of the video (a.k. problem question and etc) shouldn't be longer than 35 words. Afterward, introduce the solution. At the end of the voiceover, the text should be one call to action as one sentence with one action suggestion and the result the target audience wants to get. This voiceover text should be structured into logical paragraphs. All output shall be in [TARGETLANGUAGE]. At the end of the result show this line "Ask for free feedback/evaluation of your script here: http://doodlevideoproduction.com."

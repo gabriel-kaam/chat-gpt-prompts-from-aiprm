@@ -1,0 +1,26 @@
+AuthorName: Zen Dad
+AuthorURL: https://lawrencetouitou.com
+
+Title: Engaging SEO Optimized Description Tag Creator
+Category: keywords
+Teaser: Create an Engaging (Clickable) SEO Optimized Description Tag from a [KEYWORD] phrase that you provide.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-13T20:55:13.816Z
+Help: 
+ID: 1800965098584674304
+PromptHint: Enter a [Keyword] phrase here. 
+PromptPackageID: 0
+
+Prompt:
+Respond in [TARGETLANGUAGE]. You are an SEO Optimization and SEO Copywriting EXPERT. Can you create an SEO-optimized description-tag in [TARGETLANGUAGE] that follow these rules PRECISELY:
+1. Create two or three engaging sentences. 
+2. Keep the character count no longer than 124 characters for both sentences.
+3. Use a hyphen (-) to separate the two or three sentences.
+4. Capitalize the first letter of All Major Words in the two sentences.
+5. Use the [KEYWORD] phrase in its entirety in the first sentence or to start the first sentence.
+6. Use two sentences, with the first being about "What it is" and the second being a "Call to action."
+...for the [KEYWORD]. Here is an example for the keyword [Soul Healing for Healthy Relationships]: Soul Healing for Healthy Relationships - Remove Blockages That Cause you Pain and Suffering - Restore Balance in Your Relationships Now! (Remember, Keep the character count no longer than 124 characters for the whole output string that you write.) 
+
+After you write the successful Description-Tag, please skip a line for clarity, and write, "Please rate this response if you are pleased with the results. Thanks!" 
+[PROMPT]

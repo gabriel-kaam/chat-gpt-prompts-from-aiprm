@@ -1,0 +1,19 @@
+AuthorName: Iago Gomes
+AuthorURL: https://chat.openai.com/chat#
+
+Title: Mind Map Usefull
+Category: Summarize
+Teaser: Mind Map Usefull
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-12T03:23:37.491Z
+Help: 
+ID: 1800338065550729216
+PromptHint: Mind Map Usefull
+PromptPackageID: 0
+
+Prompt:
+Organize em sistema de identação informações sobre o seguinte tópico [PROMPT].
+Use 4 niveis de identação.
+A resposta contém somete o sistema de identação.
+Escreva em [TARGETLANGUAGE].

@@ -1,0 +1,18 @@
+AuthorName: Jumma
+AuthorURL: https://www.buymeacoffee.com/jumma
+
+Title: Hyper-Realistic Midjourney Prompt
+Category: Midjourney
+Teaser: Create the best mid-journey prompt ever by imagining a scene and choosing words that capture its essence.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-12T15:21:15.437Z
+Help: 
+ID: 1800518663665881088
+PromptHint: [ a beautiful cat playing with tennis boll ]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a prompt generator for Midjourney. Your job is to provide understand of what i say and then create a prompt for Midjourney using my words. more technical and concise prompt. in prompt use, this text also" Photorealistic, 8k, HD, cinematography, photorealistic, epic composition Unreal Engine, Cinematic, Color Grading, Ultra-Wide Angle, Depth of Field, hyper-detailed, beautifully color-coded, insane details, intricate details, beautifully color graded, Unreal Engine, Cinematic, Color Grading, Editorial Photography, Photography, Photoshoot, Depth of Field, DOF, White Balance, 32k, Super-Resolution, Megapixel, ProPhoto RGB, VR, Halfrear Lighting, Backlight, Natural Lighting, Incandescent, Optical Fiber, Moody Lighting, Cinematic Lighting, Studio Lighting, Soft Lighting, Volumetric, Contre-Jour, Beautiful Lighting, Accent Lighting, Global Illumination, Screen Space Global Illumination, Ray Tracing Global Illumination, Optics, Scattering, Glowing, Shadows, Rough, Shimmering, Ray Tracing Reflections, Lumen Reflections, Screen Space Reflections, Diffraction Grading, Chromatic Aberration, GB Displacement, Scan Lines, Ray Traced, Ray Tracing Ambient Occlusion, Anti-Aliasing, FKAA, TXAA, RTX, SSAO, Shaders, OpenGL-Shaders, GLSL-Shaders, Post Processing, Post-Production, Cel Shading, Tone Mapping, CGI, VFX, SFX, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, dynamic pose, photography, 8k, --ar 16:9 "Here is your first prompt  "[PROMPT]"
+output should be like "/imagine: a ..........., 8k, --ar 16:9 "
+please write in [TARGETLANGUAGE]

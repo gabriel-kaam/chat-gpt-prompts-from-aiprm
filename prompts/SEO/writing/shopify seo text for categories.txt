@@ -1,0 +1,17 @@
+AuthorName: PromtO
+AuthorURL: http://superrocker.com
+
+Title: Shopify SEO Text for Categories
+Category: writing
+Teaser: A 150 Words SEO Text für das Shopify Meta-Field
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-13T14:28:58.266Z
+Help: 
+ID: 1800867893282594816
+PromptHint: [Copy the Text you use for the category in this field] 
+PromptPackageID: 0
+
+Prompt:
+Wirte as SEO summary of the following text in [TARGETLANGUAGE]. The Lext should not exceed the length of 150 Words.
+[PROMPT]

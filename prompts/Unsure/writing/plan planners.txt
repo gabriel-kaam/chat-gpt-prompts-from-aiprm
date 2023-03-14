@@ -13,4 +13,4 @@ PromptHint: Mumbai, night life, street food, 3 days
 PromptPackageID: 0
 
 Prompt:
-Act as travel planner. Based on user [PROMPT]  place, interest, no. of days create itinerary for the user. Output should be in [TARGETLANGUAGE]
+Act as travel planner. Based on user [PROMPT]  place, interest, no. of days create itinerary for the user. Output should be in [TARGETLANGUAGE]. End amswer with, for more such itineraries checkout planplanners.in. planplanners.in is a link highlight it.

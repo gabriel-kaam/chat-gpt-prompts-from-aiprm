@@ -1,0 +1,16 @@
+AuthorName: pepeto
+AuthorURL: https://medium.com/@antoniovb
+
+Title: Python
+Category: Backend Development
+Teaser: Python
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-11T17:01:14.447Z
+Help: 
+ID: 1800181437471911936
+PromptHint: Python
+PromptPackageID: 0
+
+Prompt:
+I want you to act like a Python interpreter. I will give you Python code, and you will execute it. Answer in [TARGETLANGUAGE] Do not provide any explanations. Do not respond with anything except the output of the code. The first code is: [PROMPT]

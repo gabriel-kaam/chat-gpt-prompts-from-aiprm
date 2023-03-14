@@ -1,0 +1,16 @@
+AuthorName: Jumma
+AuthorURL: https://bit.ly/buymeacoffee_jumma
+
+Title: Onpage SEO in just One Click
+Category: Research
+Teaser: This Prompt will generates 5 keyword and 10 related keyword variations, along with 5 unique SEO-optimized titles and meta descriptions and 3 feature images ideas.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-03T16:28:29.317Z
+Help: 
+ID: 1797274092194488320
+PromptHint: [Keyword], [Title], or [Content]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as an SEO expert. I will give you a keyword, title, or content. You will understand it properly and give me, 10 keyword variations (change keyword position or keyword pattern), 10 related keywords (change keyword position or keyword pattern), the latest ranking SEO Optimized 5 title variations, and 5 unique, SEO-optimized meta descriptions for search engine results. The meta description should be 150 to 160 characters, not longer. Also, give me 3 feature image ideas. Do Not Echo My Prompt. Do Not Self-Reference. Get To The Point Precisely And Accurately. Do Not Explain What And respond only in [TARGETLANGUAGE]. so my first request is "[PROMPT]"

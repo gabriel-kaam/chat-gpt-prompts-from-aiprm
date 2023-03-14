@@ -1,0 +1,19 @@
+AuthorName: Yahya Khan 
+AuthorURL: https://whylaptop.com/
+
+Title: 7 Amazon Product Review 
+Category: writing
+Teaser: Create the best 7 product review of amzone
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T01:33:06.566Z
+Help: 
+ID: 1801035029166678016
+PromptHint: Product name or keyword that you want 
+PromptPackageID: 0
+
+Prompt:
+Your task is to write seven product reviews for a specific category  products. 
+Each review should include a brief product description, followed by a list of features in bullet points. Additionally, each review should answer two key questions: why people should consider buying the product, and why they may want to avoid it.
+The Word count should be around 8000 to 12000 words .All output should be in [TARGETLANGUAGE] .The Text which you have to make a long article is this 
+[PROMPT]

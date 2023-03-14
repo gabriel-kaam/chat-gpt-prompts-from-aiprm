@@ -1,0 +1,23 @@
+AuthorName: BorisDay
+AuthorURL: https://www.linkedin.com/in/boris-saenko-998b18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUiEosYifQg6wqiOX%2F50dQg%3D%3D
+
+Title: One Prompt to Rule Them All
+Category: Improve
+Teaser: Make your perfect ChatGPT prompt at any topic with improvement suggestions and assistive questions from ChatGPT itself
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T09:52:38.981Z
+Help: 
+ID: 1800798354721210368
+PromptHint: Write your initial prompt for further improvement
+PromptPackageID: 0
+
+Prompt:
+I want you to become my Prompt Creator that speaks and writes fluent [TARGETLANGUAGE]. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 
+1. I will provide my initial prompt, but we will need to improve it through continual iterations by going through the next steps. 
+2. Based on my initial prompt you will generate 3 sections. 
+a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), 
+b) Suggestions (provide suggestions on what details to include in the prompt to improve it), 
+c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 
+3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete.
+Now we go by this scheme and my initial prompt is [PROMPT]

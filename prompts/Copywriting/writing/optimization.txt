@@ -3,17 +3,15 @@ AuthorURL: https://randomtools.com/
 
 Title: Optimization
 Category: writing
-Teaser: Can you write Keyword optimized Articles upto 1000 words
+Teaser: Get 10 Topics from a particular Keyword and their outlines in a table
 
 Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-14T10:50:19.486Z
 Help: 
 ID: 1791028396759969792
-PromptHint: [Optimize Given keywords in an article]
+PromptHint: [Get 10 Topics from a particular Keyword and their outlines in a table]
 PromptPackageID: 0
 
 Prompt:
-Can you write Keyword optimized Articles upto 1000 words  [TARGETLANGUAGE]
-Can you write Meta Description up to155 characters
-[TARGETLANGUAGE]
+Get 10 Topics from a particular Keyword and their outlines in a table [TARGETLANGUAGE]
 [PROMPT]

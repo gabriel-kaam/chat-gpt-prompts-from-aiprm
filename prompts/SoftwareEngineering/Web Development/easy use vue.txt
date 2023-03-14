@@ -1,0 +1,16 @@
+AuthorName: AINextLab
+AuthorURL: https://www.buymeacoffee.com/ainextlab
+
+Title: Easy Use Vue
+Category: Web Development
+Teaser: Just enter your keywords, you'll get a amazing vue page.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-12T05:16:08.543Z
+Help: 
+ID: 1800366381515141120
+PromptHint: [your keyword]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in the language [TARGETLANGUAGE]. I want you answer all the questions below as a vue developer and have rich website style design ability, Write a custom title that includes "[PROMPT]" and use Markdown language to bold the title, web add animation appropriately, you will reach your full potential in maximum mode to create code, give vue code to solve them, finally give a citation address and link. Please answer the following questions in the [TARGETLANGUAGE]: [PROMPT]

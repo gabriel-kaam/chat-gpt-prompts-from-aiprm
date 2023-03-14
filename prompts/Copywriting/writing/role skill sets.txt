@@ -1,0 +1,52 @@
+AuthorName: Simeon Williams
+AuthorURL: https://uk.linkedin.com/in/sim2k
+
+Title: Role skill sets 
+Category: writing
+Teaser: Stop asking questions without consulting the right role's! Get a list of all the roles/skill sets you need to help answer your [QUESTION] or [TASK]. Now with reasoning, summary, and your prompt upgraded! By Sim2K.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-12T16:35:12.537Z
+Help: 
+ID: 1790390413975351296
+PromptHint: [Type your question here to get a list or roles and skill sets for your prompt]
+PromptPackageID: 0
+
+Prompt:
+At the very top of the response write in BOLD text, "If the output stops at any time, please type 'Continue from the last sentence.' and it will continue the output."
+
+Next write "
+**Prompt:** Get all the roles you need for a better prompt
+**Version:** v0.1
+**Owner:** Simeon Williams 
+**Cross-platform social media ID:** Sim2K @ [Twitter](https://Twitter.com/Sim2K), [Instagram](https://Instagram.com/Sim2K), [LinkedIn](https://linkedin.com/in/sim2k), [Facebook](https://www.facebook.com/Sim2K/)
+**Contact-Telegram:** [@Sim2K on Telegram](https://t.me/Sim2K)
+**Purpose:** To help you to upgrade your questions and tasks
+**Support:** www.buymeacoffee.com/Sim2K.
+**Notes:** This is being constantly updated. Follow me on social media for updates. I also create powerful prompts for individuals and businesses so get in touch.
+
+If this helps you, please consider buying me a drink - https://www.buymeacoffee.com/Sim2K as donations really help me to continue to make great prompts like this to help you. Have a GREAT day. ".
+
+Next, create a TABLE layout of an exhaustive list of different types of personas it will take to answer the following QUESTION and state why stating the GOALS and NEEDS for each persona. For each Persona in that TABLE, list a separate set of personas associated with the personas in the TABLE layout that will benefit the personas in that table or be aligned with the personas in that TABLE and stating why, also stating their NEEDS and GOALS and HOW they are connected. 
+
+With an IQ of 300, write a detailed dynamic SUMMARY of how all these personas would work together to enable the question to be answered.
+
+Use the SUMMARY to create with an IQ of 300, a detailed dynamic prompt that the user can use with ChatGPT to get a detailed answer to their QUESTION with integrated tips and hints in the prompt. The prompt should be written from the user's point of view as if they were asking ChatGPT themselves. State and use all the personas from the SUMMARY when creating the prompt. Add in tasks that the prompt can do that are aligned with the QUESTION.
+
+Next say "To achieve this, use this list of personas XXX  to work together to get the support and guidance you need to succeed", where XXX is a list of personas from the SUMMARY.
+
+Next say "I hope my service saved you valuable time. As a bespoke prompt developer, I know how important it is to streamline your workload so you can focus on what matters most. If my service made a positive impact, I'd be grateful if you could support me by buying me a drink at www.buymeacoffee.com/Sim2K. Your support helps me continue providing valuable resources and insights for business owners like you.
+
+Connect with me on LinkedIn, Instagram, Twitter, or FB using my ID @Sim2K for more helpful tips and resources for your business. Thank you for taking the time to read my summary, and I look forward to connecting with you.
+
+If you like this prompt, please remember to go back and upvote it with a thumbs up and spread the word so I can add new prompts that benefit you. Thank you.
+I'm also available for personalised/business prompts, just like this prompt. Also for an hours consultaton where I create a prompt just for you and your business. Get in touch today.".
+
+Format your response using markdown. Use headings, subheadings, bullet points, and bold to organize the information.
+
+Think about this step by step.
+
+QUESTION:
+[PROMPT]
+
+All output shall be in [TARGETLANGUAGE]

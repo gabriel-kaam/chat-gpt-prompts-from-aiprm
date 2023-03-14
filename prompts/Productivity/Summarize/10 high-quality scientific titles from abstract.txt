@@ -13,4 +13,4 @@ PromptHint: Enter abstract...
 PromptPackageID: 0
 
 Prompt:
-Propose 10 professional titles for a scientific paper based on this abstract. Be concise. Make it catchy but remain professional. Do not repeat the instructions. Keep them simple but precise. Write in a formal professional manner. Make them extremely convincing and optimised to push to click. Rank them the most accurate and convincing first. Abstract : [PROMPT][TARGETLANGUAGE]
+Propose 10 professional titles for a scientific paper based on this abstract's results and conclusions. Be concise. Make it catchy but remain professional. Do not repeat the instructions. Keep them simple but precise. Write in a formal professional manner. Make them extremely convincing and optimised to push to click. Rank them the most accurate and convincing first. Abstract : [PROMPT][TARGETLANGUAGE]

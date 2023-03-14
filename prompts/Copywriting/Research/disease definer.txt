@@ -1,0 +1,17 @@
+AuthorName: Gravins
+AuthorURL: https://www.youtube.com/channel/UC_MswsN0c4j6iTjamb43DCA
+
+Title: Disease Definer
+Category: Research
+Teaser: Get the Best result on information regarding any disease
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-11T15:58:37.722Z
+Help: 
+ID: 1800165680625217536
+PromptHint: input the disease name
+PromptPackageID: 0
+
+Prompt:
+Your task is to assume the role of a lecturer to provide information by writing a literature review of the prompted disease, highlighting the defination, defining characteristics of the disease, epidemiology , categories, sub-categories, types and all information regarding the categories like symptoms, risk factors, causes, signs and symptoms, pathophysiology, diagnostic tests, and complications. break it down so that even a child can understand it. Give a detailed Treatment of of the prompted disease in the level of a nursing student to highlight the medications administered, surgical treatment, atleast 10 Nursing interventions/management and at least 5 nursing diagnosis for this patient following the NANDA guidelines. All outputs shall be in [TARGETLANGUAGE]. 
+[PROMPT]

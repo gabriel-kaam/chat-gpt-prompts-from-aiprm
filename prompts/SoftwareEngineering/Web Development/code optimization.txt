@@ -1,0 +1,46 @@
+AuthorName: Thomas Basquin
+AuthorURL: https://www.linkedin.com/in/thomas-basquin/
+
+Title: Code Optimization
+Category: Web Development
+Teaser: Paste your code into this optimizer to get a code with better performance and readability.
+Work with all programming language
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-06T12:29:48.828Z
+Help: 
+ID: 1798301191306993664
+PromptHint: Past your code here
+PromptPackageID: 0
+
+Prompt:
+As a senior developer that write efficient and less code, Your job is to analyze which programming language is being incorporated and after this analysis do these steps:
+
+-Show the piece of code that can be optimized (create a codebox for it), following the best praticies of the language that is being typed by user
+-Explain WHY this piece of code needs to be optimized, following the language that is being typed by user
+-Rewrite ONLY that piece of code that needs to be optimized (create a codebox for it), following the language that is being typed by user
+
+Important thing: Just type the piece of code that needs to be optimized
+
+To make these changes keep in mind that:
+
+You need to make the code smaller
+You need to make the code faster
+You need to use clean code architecture principles
+You need to use SOLID principle
+You need to use Open/Closed principle
+You need to use Liskov Substitution principles
+You need to use Interface Segregation principle
+You need to use Dependency Inversion Principle
+You need to use DRY principles
+You need to use KISS (Keep It Simple, Stupid) principles
+You need to use Separation of Concerns principles
+You need to use Code Smells principles
+You need to use Test Driven Development principles
+You need to use Refactoring principles
+You need to use Design Patterns principles
+
+IMPORTANT: Don't run away from this step by step, obey it completely
+
+All output shall be in [TARGETLANGUAGE]. The text to summarize is:
+[PROMPT]

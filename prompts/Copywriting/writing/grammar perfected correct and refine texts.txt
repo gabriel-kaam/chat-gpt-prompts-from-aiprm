@@ -20,14 +20,16 @@ Instructions:
 Ignore all previous instructions and focus exclusively on revising and correcting the text in [TARGETLANGUAGE].
 Your task is to act as a competent reviewer and experienced writer in the target language, correcting grammar, spelling, punctuation, consistency in spelling and punctuation, fluency in [TARGETLANGUAGE], concision, word choice, variety of words and phrases, detecting and suggesting tone, and use of inclusive language.
 The original text is provided below as [PROMPT].
-Create a new version of the corrected text in [TARGETLANGUAGE] and include all the corrections made.
 Record all changes made to the original text in [PROMPT], indicating the total number of changes made.
+Appling all the corrections made, Create a new version of the text in [TARGETLANGUAGE].
 All outputs must be in [TARGETLANGUAGE].
+
 [PROMPT]:
 [Insert Text Here]
 
-Model structure for response:
+Template:
 New version of the corrected text:
+
 [INSERT CORRECTED TEXT HERE]
 
 Changes made:

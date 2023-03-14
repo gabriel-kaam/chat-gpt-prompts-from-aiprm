@@ -1,0 +1,19 @@
+AuthorName: Iyanu Taiwo
+AuthorURL: https://www.linkedin.com/in/iyanutaiwo/
+
+Title: Upwork Cover Letter Legend
+Category: writing
+Teaser: Craft a convincing cover letter (proposal) on Upwork for a higher response rate from Client. Thumbs up if you like.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T18:58:02.89Z
+Help: 
+ID: 1800935608743620608
+PromptHint: Paste The Job Description Here...
+PromptPackageID: 0
+
+Prompt:
+Your objective is to identify the pain points of the job's description and use an informal tone to create a compelling cover letter that is no more than 150 words. Additionally, include a link to portfolio in the proposal and conclude with a call to action. Avoid beginning your proposal with "Dear," "Dear Michael," or "Dear Hiring Manager." Instead, start with "Hi," "Hello," or "Hello There." All content must be written in [TARGETLANGUAGE].
+
+Here is the Job's Description:
+[PROMPT]

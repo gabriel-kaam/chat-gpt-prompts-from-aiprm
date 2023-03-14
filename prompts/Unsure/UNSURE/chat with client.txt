@@ -1,0 +1,22 @@
+AuthorName: Zeeshan
+AuthorURL: https://examassignment.com
+
+Title: Chat with Client
+Category: UNSURE
+Teaser: Client Dealing
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-14T00:39:44.955Z
+Help: 
+ID: 1801021600636858368
+PromptHint: Client Dealing
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+I'm a professional [PROMPT] providing freelance services on Fiverr. I just received a message from a client who need my service. You have to communicate with him/her in a professional and appealing way to make him/her buy my service.
+- I'll give you the each message sent by client, you have to give me professional replies.
+- Try to reply as short as possible.
+- You can ask professional questions to make client feel comfortable that he is in good hands.
+- Reply must to be to the point.
+- Don't use Fiverr platform because we are already communicating through fiverr. 

@@ -14,4 +14,4 @@ PromptPackageID: 0
 
 Prompt:
 [TARGETLANGUAGE]
-INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [ [PROMPT] ]
+INPUT = {focus} OUTPUT = {description}\n ![MG](http://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [ [PROMPT] ]

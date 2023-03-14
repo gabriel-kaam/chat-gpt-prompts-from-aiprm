@@ -1,0 +1,16 @@
+AuthorName: Richard Zhao
+AuthorURL: https://www.richardzhao2000.com/
+
+Title: Summarize Text to 200 Words
+Category: Summarize
+Teaser: Provide the text that you want to summarize. ChatGPT will summarize it within 200 words.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-12T06:34:35.64Z
+Help: 
+ID: 1800386124510916608
+PromptHint: Please insert your text here.
+PromptPackageID: 0
+
+Prompt:
+Please summarize the following text within 200 words. All output shall be in [TARGETLANGUAGE]. The text to summarize is [PROMPT]

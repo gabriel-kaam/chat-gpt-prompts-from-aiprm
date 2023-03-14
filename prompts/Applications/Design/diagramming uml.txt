@@ -1,0 +1,18 @@
+AuthorName: Antoine Boucher
+AuthorURL: https://github.com/antoinebou12
+
+Title: Diagramming UML
+Category: Design
+Teaser: Improve your diagramming skills with [DIAGRAMMING TOOL] by creating optimized diagrams for various purposes using [DIAGRAM TYPE].
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-03-14T19:50:13.285Z
+Help: 
+ID: 1801311126437490688
+PromptHint: [DIAGRAM TYPE] - Sequence, Use Case, Class, Activity, Component, State, Object, Deployment, Timing, Network, Wireframe, Archimate, Gantt, MindMap, WBS, JSON, YAML [ELEMENT TYPE] - Actors, Messages, Objects, Classes, Interfaces, Components, States, Nodes, Edges, Links, Frames, Constraints, Entities, Relationships, Tasks, Events, Modules [PURPOSE] - Communication, Planning, Design, Analysis, Modeling, Documentation, Implementation, Testing, Debugging [DIAGRAMMING TOOL] - PlantUML, Mermaid, Draw.io, Lucidchart, Creately, Gliffy
+PromptPackageID: 0
+
+Prompt:
+Use [TARGETLANGUAGE] and [PROMPT] to
+create a [DIAGRAM TYPE] diagram for [PURPOSE] using [DIAGRAMMING TOOL] scripting language. Your diagram should clearly depict [NUMBER] [ELEMENT TYPE] and should be optimized for easy understanding.
+

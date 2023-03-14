@@ -13,12 +13,13 @@ PromptHint: Your Character Information
 PromptPackageID: 0
 
 Prompt:
-Please generate a very well-detailed character profile for the following character in this format, based on the following information.
+Please generate a very well-detailed character profile for the following character in this format, neatly organized into a table, based on the following information.
 
 "Information about character."
 [PROMPT]
 
-[ Name: 
+[ 
+Name: 
 Gender: 
 Age: 
 Personality Type: 

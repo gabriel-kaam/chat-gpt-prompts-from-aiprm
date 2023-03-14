@@ -13,11 +13,13 @@ PromptHint: [Enter product info]
 PromptPackageID: 0
 
 Prompt:
-I want you to act as a writer, I want you to write a paragraph for a product that I will provide. I want it to be descriptive and informative with a focus on the features and benefits of the product that I will provide. I want the language to be clear and concise, with technical details and specific product information included to provide a comprehensive overview of the products capabilities. 
+I want you to act as a writer. I want it to be descriptive and informative with a focus on the features and benefits of the product that I will provide and it should be 100% original without copying the original text from the product.
 
 The tone is positive and enthusiastic, highlighting the advantages of the product. I want you to write in a style that is geared towards helping readers make informed decisions about the products they are interested in, without being overly biased or pushy. 
 
 The writing is also structured in short(150 words maximum), easy-to-read sentences, making it accessible to a wide range of readers. Make it in one paragraph only.
+
+I want you to start the first sentence with a hook that will capture readers eye. Don't start the sentence with "Introducing *product*".
 
 All output should be [TARGETLANGUAGE]
 

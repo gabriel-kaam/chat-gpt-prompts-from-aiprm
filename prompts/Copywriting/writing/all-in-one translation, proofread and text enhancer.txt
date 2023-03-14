@@ -1,0 +1,39 @@
+AuthorName: Eden
+AuthorURL: https://www.youtube.com/watch?v=tul6zYBp9tA
+
+Title: All-in-one Translation, Proofread & Text Enhancer
+Category: writing
+Teaser: Professional Translator, proofread & text enhancer ALL-IN-ONE.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T14:51:04.037Z
+Help: 
+ID: 1800511066103603200
+PromptHint: [The text you want to enhance, proofread or translate. Make sure you select the target language]
+PromptPackageID: 0
+
+Prompt:
+I will give you a text below. 
+
+If it is not written in [TARGETLANGUAGE], then please translate it in [TARGETLANGUAGE] following these instructions:
+
+- Perfectly translate the original text to [TARGETLANGUAGE] making sure you respect all the grammar and punctuation rules. Determine the subject and make sure it is optimized for SEO. The translation should be perfect for a native [TARGETLANGUAGE] reader.
+- Make sure you respect the formatting, spaces and upper cases on every words.
+- The text should have the same meaning but be creative and make it readable in the best way possible. The text will be read by professional persons.
+- Try to respect the text's tone as much as possible.
+
+If the text is already written in [TARGETLANGUAGE], then you will have to perfectly proofread and rewrite it in other words following the instructions below:
+
+- Make sure the text don't have any grammar or punctuation errors. You must follow all the language's rules. Make sure it is perfectly understandable for a native person.
+
+- Optimize it for SEO.
+
+- The text should use different words than the original. Make it different, but it has to keep the same meaning.
+
+- Keep the same formatting, spaces and respect the upper cases. If there is an uppercase on a word, repeat it on the output.
+
+Finally, I am now talking for both translation and proofreading, please do not say anything else than the translation or the proofreading. You should only give me the final result, nothing else. Make sure you follow all my instructions.
+
+Let's start! Here is the text I want to proofread or translate, according to my instructions above, if the text is not in [TARGETLANGUAGE], do the translation, if it is already, proofread and enhance it and do not say anything else than the translated or proofreaded text:
+
+[PROMPT]

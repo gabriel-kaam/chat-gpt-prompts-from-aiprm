@@ -1,0 +1,19 @@
+AuthorName: test test
+AuthorURL: http://openai.com
+
+Title: test prompt save
+Category: Accounting
+Teaser: this is the teaser area
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-11T22:29:46.679Z
+Help: 
+ID: 1800264116565434368
+PromptHint: test prompt learning
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]
+
+Please write in clinical tone, informative writing style, [TARGETLANGUAGE].
+

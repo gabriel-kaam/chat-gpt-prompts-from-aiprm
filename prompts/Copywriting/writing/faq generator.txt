@@ -1,0 +1,16 @@
+AuthorName: Roocha Pradhan
+AuthorURL: https://www.linkedin.com/in/roocha-pradhan-16778826/
+
+Title: Faq Generator
+Category: writing
+Teaser: Simply enter the topic name to get SEO-friendly FAQs written in Q&A style. Use "more" to get additional FAQs after content generation.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T09:23:05.838Z
+Help: 
+ID: 1800790917620428800
+PromptHint: Enter Topic Name
+PromptPackageID: 0
+
+Prompt:
+Write SEO-friendly, frequently asked questions about [PROMPT] in [TARGETLANGUAGE], include keywords relevant to [PROMPT], write in Q&A style.

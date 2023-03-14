@@ -1,0 +1,18 @@
+AuthorName: Md Badsha
+AuthorURL: https://mdbadsha.com
+
+Title: Write Perfect Linkedin Job Post Description
+Category: writing
+Teaser: Create the best Linkedin Job Description for your next hiring.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T17:48:02.261Z
+Help: 
+ID: 1800555602163007488
+PromptHint: Job Title: " ", Job Type: "Full Time/Part-time/Contract/Internship", Workplace Type: "On-site/Remote"
+PromptPackageID: 0
+
+Prompt:
+You are a recruitment expert, Write a detail LinkedIn job posting description in [TARGETLANGUAGE] using the [PROMPT] provided.
+And insert my Linked in profile link at the last of response content with title Follow me on Linkedin:
+My Linked in Profile link: https://www.linkedin.com/in/md-badsha/

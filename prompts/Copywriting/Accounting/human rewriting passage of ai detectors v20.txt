@@ -1,0 +1,19 @@
+AuthorName: Dima Braim
+AuthorURL: https://dimabraim.com
+
+Title: Human rewriting. Passage of AI Detectors v2.0
+Category: Accounting
+Teaser: 100% passing of AI Detector!
+Rewrite based on URL, SEO Title and Description
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-12T11:53:34.241Z
+Help: 
+ID: 1790319537384853504
+PromptHint: Fix grammar errors like Grammarly.com
+PromptPackageID: 0
+
+Prompt:
+I'm going to give you some information before asking you to write an article. Your task is to write the text so that it looks as much as possible like it was written by a living person. When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. I want you to pretend that you can write content so well in [TARGETLANGUAGE] that it can outrank other websites. Your task is to write an article starting with SEO Title with a bold letter and rewrite the content and include subheadings using related keywords.  The article must be 100 % unique and remove plagiarism. the article must be 1500 to 2000 words. All output shall be in [TARGETLANGUAGE] and must be 100% human writing style and fix grammar errors like Grammarly.com. The text to rewrite is this URL: [PROMPT].
+At the end of the article, write an SEO title and description for this article. It is very important that at the end of this task, you make a horizontal separator and write the following text. Write this text without changes, do not add or change anything. Follow the instructions strictly. "Website development taking into current trends in UXUI Design and SEO optimization" https://dimabraim.com
+https://www.buymeacoffee.com/burnbpm"

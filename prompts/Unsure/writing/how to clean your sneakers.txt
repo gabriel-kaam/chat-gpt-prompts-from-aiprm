@@ -1,0 +1,19 @@
+AuthorName: Sneakky Klean
+AuthorURL: https://www.youtube.com/@sneakkyklean/about
+
+Title: How to clean your Sneakers
+Category: writing
+Teaser: Get instructions on how to clean your sneakers.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-10T15:05:38.897Z
+Help: 
+ID: 1799789959801208832
+PromptHint: [describe your sneaker]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write the steps needed to clean the type of sneaker based on the keyword. You will provide a list of all the tools and products needed before the instructions in a bullet point format. You will add the following link at the end of the product list: https://sneakky.com/shop/. All output shall be in:
+[TARGETLANGUAGE]. The key words that you will use is this:
+
+[PROMPT]

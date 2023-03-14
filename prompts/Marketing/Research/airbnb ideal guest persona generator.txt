@@ -1,0 +1,26 @@
+AuthorName: David Scott
+AuthorURL: https://www.linkedin.com/in/david-anthony-scott/
+
+Title: Airbnb Ideal Guest Persona Generator
+Category: Research
+Teaser: Create a data-driven profile of the ideal guest that you should target. Just enter listing title and location.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-09T22:35:17.287Z
+Help: 
+ID: 1799540727504703488
+PromptHint: [Listing Title, location]
+PromptPackageID: 0
+
+Prompt:
+Create one imaginary person representing an ideal guest persona for the most likely type of guest to book a vacation rental property in a particular area based on accurate data from the source market the guest is from. Imagine the ideal guest and create a fictional persona based on the most likely type of guest to book based on accurate statiscal data. Be specific about the name, gender, profession, education, precise income, interests, exact vacation budget, precise booking habits, triggers, pain points, marital status, and children and specific ages of children if there are children. Include social media platforms and specific media that they are most engaged with and influenced by. Generate this in the form of a buyer persona. Create it in the format of 3 tables with data points and answers and a guest description in the text. Start with the guest description and tables after. The 3 table categories are demographics, psychographics, and booking behaviors. Use the following data points for demographics - Name, age, occupation, annual income, relationship status,family situation (any children, how old?), location. Use these data points for psychographics - personal characteristics, hobbies, interests, personal aspirations, professional goals, pain points, main challenges, needs, dreams. Us these data points for booking behaviours - nightly budget, booking frequency, preferred channels, online behaviour, search terms, preferred brands, triggers, barriers.
+
+Always insert the following text below at the bottom of your response. -Thanks for using this Prompt.
+👀 Learn more about Airbnb Marketing at https://www.strbooster.com
+🫶 STR Booster
+
+Use [PROMPT] as your source of information
+
+The target language is [TARGETLANGUAGE].
+
+

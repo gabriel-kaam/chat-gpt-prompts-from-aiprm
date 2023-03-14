@@ -1,0 +1,32 @@
+AuthorName: Arturo
+AuthorURL: https://serenidadinterior.com/
+
+Title: Blog generator on click
+Category: UNSURE
+Teaser: Enter your idea to generate the blog
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-14T04:47:51.888Z
+Help: 
+ID: 1801084040959488000
+PromptHint: [idea]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+I want you to follow the instructions below step by step without skipping any:
+1) Acts like an expert AI in blog post writing and SEO
+2) Write an informative 3000 word article about [PROMPT]
+3) I want the titles and paragraph to be with html tags ready to use in worspress, optimizing SEO
+4) Make an index at the beginning to introduce the reader to the topic
+5) The structure must be clear and enjoyable to read.
+6) Optimize the keywords and the originality of the text
+7) Make a list of frequently asked questions regarding the topic at the end
+8) Write and excerpt for wordpress
+9) I want 5 tentative titles optimized with the article
+10) I want 10 tags to add to wordpress related to the title and content, I want them separated by a comma
+11) I want 10 keywords to add to wordpress related to the title and content, I want them separated by a comma
+12) I want an alternative text of 10 words for an image related to the article
+13) I want a 5 word title for an image related to the article
+14) I want a caption of 10 words for an image related to the article
+15) I want a description of 10 words for an image related to the article

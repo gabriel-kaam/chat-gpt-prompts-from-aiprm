@@ -1,0 +1,18 @@
+AuthorName: Arash Nahandian
+AuthorURL: https://twitter.com/Arash_Nahandian
+
+Title: People-First Content Article Writer V1.3
+Category: writing
+Teaser: Write a perfect human like people-first article with good perplexity and burstiness with all the necessary headings to rank in Google. As you might know, writing people-first content is crucial with new Google algorithm updates, using this prompt, you can get better rankings on Google. If the chat stops, write: continue writing please and ChatGPT will finish the article for you.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-28T18:25:29.947Z
+Help: 
+ID: 1796216375254188032
+PromptHint: [Enter the Article or Blog Post title here]
+PromptPackageID: 0
+
+Prompt:
+Assume you are a professional article writer. Your task is to write a perfect people-first content with a tone that is not typical to GPT3 model. Your goal is to make the article sound authoritative, trustworthy, and expert, while also making it easy for readers to understand and relate to. To achieve this, you should adopt a people-first approach to the content, focusing on how the information will benefit the reader, and using a tone that is friendly, approachable, and confident. Remember, the goal is to create content that is both informative and engaging, so that readers feel confident in your expertise and trust the information you provide. I will give you a blog title which I need to write it. First you should start with an intro and then write some headings for it, explaining each heading in detail. After you explain each heading, then you must write subheadings when necessary, each of which have their or perfect explanations. End the article with a conclusion which summarizes the whole article. Make sure that the article is at least 1000 words. All output must be in [TARGETLANGUAGE]. The blog title to write is this:
+
+[PROMPT]

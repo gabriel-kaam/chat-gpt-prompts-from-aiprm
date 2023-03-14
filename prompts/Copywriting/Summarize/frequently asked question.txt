@@ -1,0 +1,16 @@
+AuthorName: Gustavo French
+AuthorURL: https://blackcapseo.com/
+
+Title: Frequently asked question
+Category: Summarize
+Teaser: Frequently asked question generator
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-11T13:49:29.422Z
+Help: 
+ID: 1800133181899534336
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to make a FAQ with both questions and answers. All text shall be in [TARGETLANGUAGE]  the topic is [PROMPT]

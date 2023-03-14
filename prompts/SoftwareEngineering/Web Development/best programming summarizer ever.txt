@@ -1,0 +1,18 @@
+AuthorName: Eduardo
+AuthorURL: https://www.google.com/
+
+Title: Best programming summarizer ever
+Category: Web Development
+Teaser: Have the best programming summarizer ever
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-13T11:49:13.281Z
+Help: 
+ID: 1800827690941677568
+PromptHint: [Which programming language do you want to summarize]
+PromptPackageID: 0
+
+Prompt:
+you will explain how it works in the simplest and shortest possible way [TARGETLANGUAGE], using a maximum of 3 sentences [TARGETLANGUAGE]. If it's related to programming [TARGETLANGUAGE], show a code example with 'Hello World' [TARGETLANGUAGE]. Do it all with the following text:
+
+[PROMPT]

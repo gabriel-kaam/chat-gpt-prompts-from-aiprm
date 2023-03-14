@@ -1,0 +1,26 @@
+AuthorName: AI Blogger
+AuthorURL: https://www.blogai.nl
+
+Title: Article Intro, Chapters, List, Conclusion & FAQ
+Category: Improve
+Teaser: Full article written; intro, h1, h2, h3, list, conclusion, faq, table & more.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-11T20:15:02.89Z
+Help: 
+ID: 1800230210696908800
+PromptHint: [Put here the title of your article, the more specific, the better]
+PromptPackageID: 0
+
+Prompt:
+Write an extensive article on the title or topic I give you.
+Start the article with h1 and keep the title the same, or change it if you think it could be better.
+If you think it's good to make a few keywords bold for the reader because those are more important, then do it too.
+Give the article a short description what the article is about.
+Then write a concise introduction that explains what we want to achieve or discuss with the article, depending on the title of the article or the topic I give you.
+Then give a short bullet list of the chapters you are going to write about in the article.
+Now give the article h2 chapters and if necessary h3 sub-topics. Clearly describe each chapter and provide information that will engage the reader or teach something, or if possible something else you deem important using the title.
+If needed, create a table where you compare things or show a list of things related to the article. 
+Close with a conclusion and 5 frequently asked questions about the article.[TARGETLANGUAGE]
+
+[PROMPT]

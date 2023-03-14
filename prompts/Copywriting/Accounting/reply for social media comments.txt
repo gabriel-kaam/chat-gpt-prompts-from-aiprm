@@ -1,0 +1,16 @@
+AuthorName: Dhananjay Vishwakarma
+AuthorURL: https://www.linkedin.com/in/dhananjayrv/
+
+Title: Reply for social media comments
+Category: Accounting
+Teaser: Generate a reply to any comments on social media
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T11:52:26.53Z
+Help: 
+ID: 1799741337889931264
+PromptHint: Generate a reply to any comments on social media
+PromptPackageID: 0
+
+Prompt:
+Generate a casual, crisp and shortest [TARGETLANGUAGE]  response to comment [PROMPT]

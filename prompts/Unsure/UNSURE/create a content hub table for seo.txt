@@ -1,0 +1,16 @@
+AuthorName: Jesse Cunningham
+AuthorURL: https://www.youtube.com/@jessecunninghamv
+
+Title: Create a Content Hub Table for SEO
+Category: UNSURE
+Teaser: Create a Content Hub for SEO, just add your keywords.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-12T10:37:54.88Z
+Help: 
+ID: 1800447358161653760
+PromptHint: Traveling in Asia
+PromptPackageID: 0
+
+Prompt:
+ I want to write a content hub on [PROMPT]. Please create a table with three columns (tier 1, tier 2, tier 3) to represent content hubs to write about keywords about this subject that a consumer would typically search on Search Engine. Make sure to nest relevant keywords under more general keywords. Do not use a keyword more than once. write it in [TARGETLANGUAGE]

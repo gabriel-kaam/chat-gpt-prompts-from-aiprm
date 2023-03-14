@@ -1,0 +1,54 @@
+AuthorName: Fanc
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1800401891319078912
+
+Title: ozon size json
+Category: Plan
+Teaser: ozon size json
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-12T07:37:14.74Z
+Help: 
+ID: 1800401891319078912
+PromptHint: ozon size json
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] 
+[PROMPT]
+请完成下面的步骤,每一步输出信息
+1. 将数据转换为公制单位（kg，cm），并以表格形式展示数据，表格线使用“|”符号表示
+2. 将上述数据翻译成俄文并按照json模板的格式转换成json数据,在代码块输出：
+json 模板:
+{
+  "content": [
+    {
+      "widgetName": "tcTable",
+      "table": {
+        "title": "Справочный размер",
+        "body": [
+          {
+            "data": [
+              "Российский размер",
+              "56",
+              "57"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "widgetName": "tcDisclaimer",
+      "disclaimer": {
+        "body": "Вышеуказанные размеры измерены в натуральном выражении, и может быть погрешность в 1-3 см. Соответствующие данные приведены только для справки, и реальные вещи имеют преимущественную силу."
+      }
+    }
+  ],
+  "version": 0.1
+}
+
+
+
+
+
+
+ 

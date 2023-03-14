@@ -1,0 +1,25 @@
+AuthorName: Kirsten Horner
+AuthorURL: https://www.kirstenhorner.com
+
+Title: Quick Webinar, Masterclass or Event Title Names
+Category: marketing
+Teaser: Create Quick Event Titles for your webinar, masterclass or workshop.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-09T06:29:16.624Z
+Help: 
+ID: 1799297622864039936
+PromptHint: [What is the main Outcome your client wants?]
+PromptPackageID: 0
+
+Prompt:
+Create a list of live event Titles.
+Use [TARGETLANGUAGE]
+At the top write: Here are some ideas for you next event Title:
+Combine these 4 parts of a sentence to create a list of 12 clickbait style event titles, ideally with some alliteration: 
+Part 01 (use a number 3, 4 or 5)
+Part 02 (use one of these words: Ways, Steps, Keys, Pillars, Laws. Or synonyms)
+PArt 03 (use one of these words: To start, become, get, create, master, activate, begin. Or synonyms)
+Part 04 (use a word like fabulous, powerful, fulfilling, extremely. Or synonyms, or similar emotive, energizing words)
+Part 05 (incorporate [PROMPT] in the title)
+

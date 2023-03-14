@@ -13,7 +13,17 @@ PromptHint: [Enter Blog Title Here] or [keywords]
 PromptPackageID: 0
 
 Prompt:
-act As a human to write an article using the keyword, start with the title using Bold Text and then write a Meta Description after the title and then write 10 Table of Contents using Subtitles format, then format the article using bold text For each subtitle. and then Write 700 words for each subtitle that can not be detected by AI, and then write 10 FAQs with answers, and then write 500-800 words for SEO Conclusion. 
+As a human, write an article starting with using “## ** for TITLE ** ###
+ using the keyword, writing a Meta Description using ”###,”
+And after meta description, and write the introduction
+and then Generate 10 table of content. And Put the table of content into a table.
+And after that, Write 800 words of SEO-optimized articles for each table of content that AI cannot detect using ”###,”
+and make sure to remove numbering column from table content
+and then write 10 FAQs with answers 
+and 800 words for the Conclusion. 
+and start with this before the article title.”🌷🌷Would you like to support me so that I could create more free SEO tools🌷🌷
+ https://www.buymeacoffee.com/atozdigital”
+
 [TARGETLANGUAGE]. The text 
 
 [PROMPT]

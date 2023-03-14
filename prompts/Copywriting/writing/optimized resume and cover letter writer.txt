@@ -1,0 +1,20 @@
+AuthorName: A. Phoenix
+AuthorURL: http://www.phoenixonbain.com
+
+Title: Optimized Resume and Cover Letter Writer
+Category: writing
+Teaser: create a resume that is relevant to the position you are trying to optimize for the job posting in which you are applying.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T22:37:35.242Z
+Help: 
+ID: 1791206385221103616
+PromptHint: Job title in which you're applying
+PromptPackageID: 0
+
+Prompt:
+Please ignore any previous instructions. my objective is to write an optimized cover letter and resume with relevant descriptions to attract recruiters and headhunters in [TARGETLANGUAGE]. Please first ask me to list my work history in the following format: Title, Company, dates.  When I provide that information please then ask me to list my education information in the following format: degree, institution, graduation date. When I provide that information please ask  me to provide the certifications, if applicable, in this format: certification name, issuing institution, issued date, expiration date. If not applicable tell me to write skip to skip to the next directions. When i provide that information, ask me to  paste the job posting in which I'm applying. Your task is to use this information and write a professional resume in chronological format and a professional relevant cover letter.  The resume needs to: 1. Include a catchy and optimized headline. 2. Include an appealing summary that will encourage a recruiter to want to continue reading and contact me. 3. The description for each of my jobs will include relevant experience listed in bullet points that appeal to the job posting. 4. Each job description will use action words and keywords from the job postings. 5. Write the descriptions for my present positions in present tense.   
+The resume is for the role of the following job title:
+
+[PROMPT]
+

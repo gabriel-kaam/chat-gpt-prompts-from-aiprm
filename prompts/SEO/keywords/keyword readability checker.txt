@@ -1,0 +1,18 @@
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/
+
+Title:  Keyword Readability Checker
+Category: keywords
+Teaser: Improve your content readabilty for SEO and make your article perfect!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-12T09:50:59.443Z
+Help: 
+ID: 1800435549362978816
+PromptHint: [Paste text]
+PromptPackageID: 0
+
+Prompt:
+Your task is to calculate the readability of the article. In the end add total percent of keyword readability in text. All output shall be in [TARGETLANGUAGE]. 
+
+[PROMPT]

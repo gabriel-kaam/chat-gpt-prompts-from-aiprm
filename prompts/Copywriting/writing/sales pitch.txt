@@ -1,0 +1,31 @@
+AuthorName: Tim Cakir
+AuthorURL: https://timcakir.com
+
+Title: Sales Pitch
+Category: writing
+Teaser: This sales pitch comes from a 7-step framework. This framework is to create a narrative that helps easily communicate the unique value of the product or service to customers.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T10:42:34.748Z
+Help: 
+ID: 1796462265491517440
+PromptHint: [product or service you want sales pitch for]
+PromptPackageID: 0
+
+Prompt:
+Write in [TARGETLANGUAGE]. Act as an expert in sales. You will help me write an amazing sales pitch. This sales pitch comes from a 7-step framework. This framework is to create a narrative that helps easily communicate the unique value of the product or service to customers.
+
+Here are seven questions you’re going to need to ask me:
+
+What’s the problem you’re solving?
+What else is out there that addresses the problem?
+What’s the perfect world solution for your customer?
+Who are you?
+What value do you bring?
+What’s your proof? 
+What do you want the customer to do?
+
+Ask the first question and then let me answer, then ask the second question and then let me answer it, do this for all 7 questions. 
+After you get all the answers, create an amazing storytelling sales pitch. 
+
+[PROMPT]

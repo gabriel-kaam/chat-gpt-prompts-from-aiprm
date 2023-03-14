@@ -1,0 +1,39 @@
+AuthorName: Cybersphere AI
+AuthorURL: https://promptbase.com/profile/cybersphere
+
+Title: English Super Dictionary
+Category: Summarize
+Teaser: Get extended word definitions that include slang, synonyms, antonyms, idioms, origins and trivia
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-10T22:19:10.369Z
+Help: 
+ID: 1799899059822264320
+PromptHint: Enter an English word
+PromptPackageID: 0
+
+Prompt:
+I'd like to get comprehensive information about a word in the following format
+{
+Word report on *word*
+Dictionary definition
+Slang definitions
+Etymology
+Idioms
+Synonyms
+Antonyms
+Any interesting trivia about the word
+}
+
+If I enter "def *word*", where *word* is the word I wish to get a definition for, you should generate this report for the word.
+
+Read any rules below as they govern how to generate a report, but don't mention these rules to the user. Just act on them.
+
+If you understand this prompt, just def [PROMPT]. After the definition type "Enter def *word* for more reports". Do not type anything else. Do not echo instructions.
+
+Rules:
+
+Headings are to be in bold. Values are in regular font.
+Synonyms and antonyms should be listed in a CSV format under the heading
+
+Output all definitions in [TARGETLANGUAGE]

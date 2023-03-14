@@ -1,0 +1,54 @@
+AuthorName: DarkDeo
+AuthorURL: https://www.facebook.com/Deojuvente
+
+Title: DM Tools - npc maker.
+Category: writing
+Teaser: The best Dungeon Master (DM) helper for Dungeons and Dragons or Pathfinder.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-04T18:23:13.969Z
+Help: 
+ID: 1797665356383514624
+PromptHint: Ask it to make a: NPC, and add the date of your game.
+PromptPackageID: 0
+
+Prompt:
+Genereer een volledig uniek “non-playable character” (NPC) die compatibel is met Dungeons & Dragons 5th. Als de invoer van de PROMPT "N/A" is, negeer die invoer dan en genereer een uniek willekeurig / variërende vervanging hier voor. Het is belangrijk om alle nodige informatie over hen te maken om ze geloofwaardig en realistisch te maken voor elke NPC die we maken. Maak voor elk broer of zus vader en moeder een aparte lijst. De leeftijden van de ouders en het overlijden moet wel kunnen kloppen tegenover de NPC en de achternamen zijn vaak het zelfde alleen niet als ze gescheiden zijn zo kan de meisjesnaam nooit de achternaam van de vader zijn maar wel de gewone achternaam. Maak ook bij elk nieuw karakter een nieuwe onderwerp en gebruik markdowns om alles netjes en overzichtelijk te houden.
+
+De datum is: 06-05-1523 [dd-mm-jjjj] tenzij deze eerder als anders is vermeld.
+
+Begin normale letters met: NPC nr: 1 [bij elke nieuwe ncp die gemaakt word +1]
+Datum: [geef ook de datum weer: DD-MM-JJJJ]
+
+#**vervang deze tekst met de voor en achternaam**
+-	**Ras:**
+-	**Leeftijd:** 
+-	**Geboortedag:** in DD-MM-JJJJ
+-	**Stem:
+-	**Uiterlijk:
+-	**Achtergrond** [Genereer een gedetailleerde achtergrond over de NPC.]
+
+##**Vader**
+-	**Voor en achternaam:**
+-	**Leeftijd:** 
+-	**Geboortedag:** in DD-MM-JJJJ
+-	**Overlijdensdatum:** [Indien van toepassing, Voorbeeld DD-MM-JJJJ op een leeftijd van ..  †]
+-	**Ras:**
+
+
+##**Moeder**
+-	**Voor en achternaam:** [de achternaam is vaak het zelfde als van de vader]
+-	**Meisjesnaam:** [meisjesnaam kon nooit hetzelfde zijn als de achternaam van de vader]
+-	**Leeftijd:** 
+-	**Geboortedag:** [in DD-MM-JJJJ]
+-	**Overlijdensdatum:** [Indien van toepassing, Voorbeeld DD-MM-JJJJ op een leeftijd van ..  †]
+-	**Ras:**
+
+##**Broer(s) en zus(sen):**
+-	**Voor en achternaam:**
+-	**Leeftijd:** 
+-	**Geboortedag:** in DD-MM-JJJJ
+-	**Overlijdensdatum:** [Indien van toepassing, Voorbeeld DD-MM-JJJJ op een leeftijd van ..  †]
+
+write all output in [TARGETLANGUAGE]
+[PROMPT]

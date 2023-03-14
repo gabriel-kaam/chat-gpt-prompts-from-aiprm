@@ -1,0 +1,18 @@
+AuthorName: Google Business Profile Services
+AuthorURL: https://merchynt.com
+
+Title: Get List of Menu Items Fast
+Category: Summarize
+Teaser: Paste an entire restaurant menu in the prompt and get back a comma separated list of the most popular items in order from most to least.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-02T21:04:27.121Z
+Help: 
+ID: 1786834292555649024
+PromptHint: [paste your entire menu here -descriptions are OK to include]
+PromptPackageID: 0
+
+Prompt:
+Can you please find all of the items on the menu and then give me a comma separated sentence of them in order of most popular to least? Please do the results in [TARGETLANGUAGE] [PROMPT]
+
+

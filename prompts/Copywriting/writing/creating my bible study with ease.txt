@@ -1,4 +1,4 @@
-AuthorName: Lições Bíblicas
+AuthorName:  Bible Lessons
 AuthorURL: https://www.youtube.com/@canallicoesbiblicasadultos457
 
 Title: Creating My Bible Study With Ease
@@ -13,5 +13,5 @@ PromptHint:  Enter one or more topics you want to get your Bible study on:
 PromptPackageID: 0
 
 Prompt:
-Preciso que me apresente um estudo bíblico, com tópicos, referências bíblicas, exemplos bíblicos e aplicação prática na vida, sobre o tema a seguir: [KEYWORD]
+I need you to present me a Bible study, with topics, biblical references, biblical examples and practical application in life, on the following topic: [KEYWORD]
 [TARGETLANGUAGE] [PROMPT]

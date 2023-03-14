@@ -1,0 +1,19 @@
+AuthorName: Paula Pc
+AuthorURL: https://paulapc.com/
+
+Title: Summarise a Book
+Category: writing
+Teaser: Here is the summarise for that [book]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-25T17:17:43.883Z
+Help: 
+ID: 1795112157348888576
+PromptHint: [book you want to summarise and author]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] Your task is to summarise [book you want to resume and author] in general and by chapters
+
+
+[PROMPT]

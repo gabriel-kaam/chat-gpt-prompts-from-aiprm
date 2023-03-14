@@ -1,0 +1,18 @@
+AuthorName: Bkeane
+AuthorURL: https://twitter.com/followeshay
+
+Title: 0% AI detection
+Category: writing
+Teaser: This ONE prompt will pass ALL AI Detection bots! Great for AI use in professional environments.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T01:01:45.806Z
+Help: 
+ID: 1801027140687486976
+PromptHint: [Text you want to sound like a REAL human wrote]
+PromptPackageID: 0
+
+Prompt:
+When it comes to writing content in [TARGETLANGUAGE], two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. The text I want you to create is: 
+
+[PROMPT]

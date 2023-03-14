@@ -1,0 +1,18 @@
+AuthorName: José Gouveia
+AuthorURL: http://goudev.io
+
+Title: Go Lang Script Generator
+Category: Backend Development
+Teaser: [Go Lang - Code generator]
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-11T03:32:15.203Z
+Help: 
+ID: 1799977849126649856
+PromptHint:  [Describe the code you need to generate]
+PromptPackageID: 0
+
+Prompt:
+Sua tarefa é criar, ou seja, gerar scripts em Go Lang de acordo com a necessidade pedida idioma [TARGETLANGUAGE] 
+
+[PROMPT]

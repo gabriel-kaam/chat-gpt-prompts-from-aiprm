@@ -13,6 +13,6 @@ PromptHint: paste the text
 PromptPackageID: 0
 
 Prompt:
-respond to the text in a nicer way and the respond must be informative and friendly, with clear instructions (easy to read) and a focus on customer satisfaction and add a few emojis to make it cute? [TARGETLANGUAGE]
+Voice tone = "a nicer way and must be informative and friendly, with clear instructions (easy to read) and a focus on customer satisfaction and add a few emojis to make it cute and keep it short"[TARGETLANGUAGE]
 
 the text: [PROMPT]

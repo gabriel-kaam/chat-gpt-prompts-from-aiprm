@@ -15,11 +15,8 @@ PromptPackageID: 0
 Prompt:
 Your task is to create a product description with these instructions:
 1)Title  with all the characters IN UPPERCASE  and <H3> (The title should be clear and attract attention)
-2) 2, 3, 4 or 5  paragraphs with the headings <h5> with the benefits of the product.
+2) 2, 3, 4 or 5  paragraphs with the headings <h4>  and <h5> with the benefits of the product.
 3)Create a bullet point <ul> list with the most important futures and a heading in <h5>. 
-4) In the bullet point you NEED to use this ✔️ emoji at the beginning of the raw.
-5)Do NOT use the Words "ebay, spedizione".
-6)Do NOT use in the headings the word "Descrizione".
 
 The description should be written in HTML.
 All output shall be in [TARGETLANGUAGE].

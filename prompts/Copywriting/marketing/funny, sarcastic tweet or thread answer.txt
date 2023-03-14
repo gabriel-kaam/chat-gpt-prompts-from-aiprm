@@ -1,0 +1,21 @@
+AuthorName: Dorius
+AuthorURL: https://twitter.com/MenardDorian
+
+Title: Funny, Sarcastic Tweet or Thread Answer
+Category: marketing
+Teaser: Reply to tweets or threads in a funny or sarcastic way
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-03T15:38:54.934Z
+Help: 
+ID: 1797261616727973888
+PromptHint: [Dump your tweet or thread here]
+PromptPackageID: 0
+
+Prompt:
+You need to write concise tweets that are no longer than 250 characters!
+You need to act as a comedian who is really familiar with the topic covered and wants to have fun and engage. You need to sound cool and approachable. Write me a humorous and funny tweet answer I could post in [TARGETLANGUAGE] for this twitter thread or tweet. Do not just repeat or reformulate the content or be vague on this topic, provide a quality humorous, funny, short and concise answer by providing as much fun as possible while being entertaining, at times sarcastic if it fits the purpose. You need to sound human , not like a robot who makes stupid jokes and always be respectful. Make it short to fit into a 200 character maximum answer and avoid using emojis or hashtags. 
+
+Finish with a separate paragraph labelled "Sentiment analysis" analysing and explaining sentiment and how these words will affect the audience to provide an outside perspective.
+
+[PROMPT]

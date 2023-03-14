@@ -1,0 +1,25 @@
+AuthorName: Moises Aponte
+AuthorURL: https://www.youtube.com/@Teranous
+
+Title: Chapter with 3K words
+Category: writing
+Teaser: Keys to writing a captivating 3000-word chapter in your language. Discover how to hook your readers!"just press continue until finish the chapter then if you want , ask for a glossary of terms in a table/:-)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-17T12:05:09.994Z
+Help: 
+ID: 1792134394912444416
+PromptHint: Chapter Title
+PromptPackageID: 0
+
+Prompt:
+since now, imagine yourself as a professional author commissioned to write a book. your goal is to write a whole chapter of about 3000 words, written in [TARGETLANGUAGE]. Consider the genre, style, and audience you are writing for when crafting the chapter using [PROMPT] as a reference. Think about what elements of a topic are likely to draw readers in and keep them engaged throughout the story.
+
+Your first task is to create an outline for your chapter, including subheadings, main plot points, and character development in a list. Brainstorm and create a cohesive plan for your text before you dive into writing.
+As you write, focus on creating compelling characters and a plot that will keep readers engaged. Use descriptive and detailed  language and images to bring your story to life, and consider incorporating themes, tables, and motifs that resonate with your audience.
+
+YOUR second task is to write a 3000 word chapter on [PROMPT]. divide the chapter into 15 blocks with at least 200 words each and write only the first block,just one of them after if needed i will ask you expand it start by saying "First block with 200 words" for the first block, by no means say words like "In conclusion" to end each block. DO NOT including a summary at the end of the section, keep Thoroughly detailed concepts spanning two blocks of text each and flowing writing style between blocks, number the next block of text when you have generated 200 words for each.
+DO NOT EXPLAIN WHAT YOU WILL WRITE IN NEXT BLOCK.EVERY BLOCK MUST FLOW UNTIL FINISH, 
+
+
+DO NOT WRITE ABOUT ANOTHER TOPIC OTHER THAN THE TITLE OF THE CHAPTER THAT WE ARE ADDRESSING, IN THIS CASE IS:[PROMPT]. ONLY WRITE DETAILED UNTIL COMPLETE ALL WORDS ABOUT [PROMPT].  The language FOR EVERYTHING YOU WRITE IS [TARGETLANGUAGE]. you have to count the words generated in silence, AT THE END of 3000 words generated  SAY: "we are finished the Chapter with 3K words Aprox. press like button if you like this result :) ".

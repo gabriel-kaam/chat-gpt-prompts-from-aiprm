@@ -1,0 +1,32 @@
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/blog/how-to-write-an-invoice-email/
+
+Title: Invoice Email Template
+Category: Improve
+Teaser: Create past due invoice email and make this process easily!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T10:14:53.782Z
+Help: 
+ID: 1800441565416787968
+PromptHint: [Client Name,Company’s Name, Invoice Amount, Invoice ID]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write overdue invoice letter to get paid. All output shall be in [TARGETLANGUAGE]. If it's write without [KEYWORDS] use the template for make a letter:
+
+Dear [Client Name],
+
+We hope this email finds you well. This is a friendly reminder from [Company’s Name] that your payment of [Invoice Amount] for [Invoice ID] is now past due.
+
+We kindly request that you make the payment as soon as possible. It is important for us to receive the payment on time to maintain our business operations.
+
+Please let us know the status of your payment. If you have already made the payment, please ignore this email. However, if you have any concerns or questions regarding the payment, please do not hesitate to contact us.
+
+Thank you for your attention to this matter and your continued business.
+
+Sincerely,
+
+[Company’s Name]
+
+ [PROMPT] 

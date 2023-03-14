@@ -1,0 +1,67 @@
+AuthorName: Saldo Invoice
+AuthorURL: https://saldoinvoice.com/?utm_campaign
+
+Title: Create a Receipt Online
+Category: Accounting
+Teaser: Get your best receipt! Write the details about your company and customers, add some items or provided services and create the ready-made receipt.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T07:47:55.175Z
+Help: 
+ID: 1799679801766961152
+PromptHint: Type in your Company information, Customers data, Items or provide Services
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a receipt with the details that will be added. All output shall be in [TARGETLANGUAGE].
+If it's write without [KEYWORD] use the template: 
+
+ [PROMPT]
+
+Header: 
+======================RECEIPT======================
+[Date of the Receipt]
+[Receipt Number]
+[Due Data]
+
+From:
+[Your Business Name]
+[Your Address]
+[Your Email Address]
+[Your Phone Number]
+
+To:
+[Client Name]
+[Client Address]
+[Client Email Address]
+[Client Phone Number]
+
+make a table:
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1 Column 1  | Row 1 Column 2  | Row 1 Column 3  |
+
+1 row in the template, next time depending on the description. 
+1 column is [Description] 
+2 column is [Rate] 
+3 column is [Quantity / Hours] 
+4 column is [Tax] expressed as a percentage
+5 column is [Amount] it's equal to [Rate] * [Quantity / Hours] = [Amount] 
+end of the table 
+
+make a table:
+2 columns 
+4 rows
+1 column 1 row:
+[Subtotal] it's equal to [Amount] 
+1 column 2 row: 
+[Taxes] it's equal to [Amount] / [Tax]
+1 column 3 row:
+[Discount]  expressed as a percentage 
+1 column 4 row:
+[Total]  it's equal to [Subtotal] + [Taxes] - [Discount] 
+2 column is the result.
+end of the table 
+
+In the end add the field with [Payment instruction] where it will be possible to write payment instructions
+Thank you for your business!

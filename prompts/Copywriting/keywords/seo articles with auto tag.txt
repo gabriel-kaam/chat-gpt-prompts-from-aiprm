@@ -1,0 +1,16 @@
+AuthorName: Fio - Grepixel
+AuthorURL: https://grepixel.com
+
+Title: SEO Articles with auto tag
+Category: keywords
+Teaser: Unique, SEO Optimized, Plagiarism free. Heading tag <h2> & <h3>, paragraph tag <p>, 1000-1500 words long & FAQ's.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T04:34:35.581Z
+Help: 
+ID: 1800718313140252672
+PromptHint: [Keyword or Title]
+PromptPackageID: 0
+
+Prompt:
+Create an long articles 1500 words for SEO purpose. Write an article about [PROMPT] in [TARGETLANGUAGE] language. The articles contain 25 paragraphs, each paragraph containing 200 words, explaining more fully. Before Conclusion add FAQ's. Title tag must be descriptive and contain keyword: [PROMPT]. Write in HTML without html and body tag. Primary title: <h1>. Sub titles: <h2>. Conclusion title: <p> Paragraphs: <p>.

@@ -1,0 +1,21 @@
+AuthorName: MAO
+AuthorURL: https://www.linkedin.com/in/%E9%A0%86%E8%B2%BF-%E5%A7%9C-85566817a/
+
+Title: Find food and view keyword in article
+Category: UNSURE
+Teaser: extract only food and view keyword in article
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-14T00:57:52.396Z
+Help: 
+ID: 1801026161695002624
+PromptHint: paste your article below 
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]
+As a data analyst for a travel blog, your task is to extract key information from a large number of travel articles. Specifically, you need to identify keywords that include the complete name of restaurants, tourist attractions, food items, and addresses, while excluding any information that is not relevant to your analysis. The results should be presented in JSON format (with NULL values where necessary), with the key values being the complete name of the restaurant, the complete name of the food item, the complete name of the tourist attraction, and the detailed address of the attraction or restaurant. The values should be filled in according to your judgement, and if there are multiple values, please use the same JSON array format to represent them. Please answer all questions according to the same principles.
+
+[TARGETLANGUAGE]：Traditional Chinese
+Article:
+

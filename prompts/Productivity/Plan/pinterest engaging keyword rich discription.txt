@@ -1,0 +1,18 @@
+AuthorName: Shivvya
+AuthorURL: https://in.pinterest.com/ShivvyaCom/
+
+Title: Pinterest Engaging Keyword rich Discription 
+Category: Plan
+Teaser: A prompt to write engaging pinterest discriptions. With relevent tags.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-14T04:41:59.168Z
+Help: 
+ID: 1801082561544577024
+PromptHint: [Put you title or Keyword Here]
+PromptPackageID: 0
+
+Prompt:
+Write a pinterest discription for title I'll give you. Sound informal and add call to action words, add relevent five tags, WORD LIMIT SHOULD NOT EXCEED 400.  and use [TARGETLANGUAGE]
+
+Title i give you is [PROMPT]

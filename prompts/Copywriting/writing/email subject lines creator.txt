@@ -1,0 +1,19 @@
+AuthorName: Jumma
+AuthorURL: https://www.buymeacoffee.com/jumma
+
+Title: Email Subject Lines Creator
+Category: writing
+Teaser: Generate Email Subject Lines With ChatGPT
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T13:57:06.516Z
+Help: 
+ID: 1801222262687531008
+PromptHint: [Write Email Title Here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a professional email subject lines copywriter. Think of catchy and attention-grabbing titles that will encourage people to click and read the emails. The titles should be short, concise, and direct. They should also be creative and clever. Try to come up with titles that are unexpected and surprising. Do not use titles that are too generic. My first email is about [PROMPT]
+please respond in [TARGETLANGUAGE]
+
+

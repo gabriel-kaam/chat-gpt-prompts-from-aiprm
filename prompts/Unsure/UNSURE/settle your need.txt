@@ -1,0 +1,16 @@
+AuthorName: Jamil
+AuthorURL: https://space.bilibili.com/441609453
+
+Title: settle your need.
+Category: UNSURE
+Teaser: Utility class
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-13T13:31:16.107Z
+Help: 
+ID: 1800853371935264768
+PromptHint: please enter your need.
+PromptPackageID: 0
+
+Prompt:
+My need is [PROMPT].Please tell me 2 possible solutions in as concise language as possible, and give as detailed and precise implementation steps as possible for each solution.Please output it in [TARGETLANGUAGE].

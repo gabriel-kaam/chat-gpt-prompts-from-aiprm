@@ -1,0 +1,26 @@
+AuthorName: Ankit Avishek
+AuthorURL: https://www.a2.com
+
+Title: Go Anywhere, Plan your Travel in 30secs!
+Category: Plan
+Teaser: "Looking for a quick getaway? Let our employee travel guide help you plan your next adventure!"
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-10T23:02:11.996Z
+Help: 
+ID: 1799909887950716928
+PromptHint: Where are you currently? 
+PromptPackageID: 0
+
+Prompt:
+I want you to plan a vacation near the [PROMPT] location or location selected by user [TARGETLANGUAGE]
+
+Instructions:
+Act like a travel planer and make travel plans for places near [PROMPT] for preferred location based on the users below preferences. Check the preferences through multiple choice questions. Ask one questions at a time and don't assume or generate your plan before you get all the answers.
+
+Q1. Any preferred location? 
+Q2.Approx Budget in INR
+Q2.Interest
+Q3.Number of days
+ask some question, get [PROMPT] then ask another question
+After collecting the preferences through questions, suggest a vacation plan that fulfills all the preferences with the most viewed youtube video. Check if the user want to go the location or change the location before generating the detailed plan in [TARGETLANGUAGE]

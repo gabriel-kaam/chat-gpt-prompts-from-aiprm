@@ -13,4 +13,4 @@ PromptHint: Auto cookbook write
 PromptPackageID: 0
 
 Prompt:
-Based on title genarate recipe incloding preparation time,  cook time,  total time, Serves, Ingredients, Directions and NUTRITION FACTS [TARGETLANGUAGE]  [PROMPT]
+Based on the title, generate the recipe including preparation time,  cook time, total time, Serves, Ingredients, Directions, and NUTRITION FACTS  in horizontal lines words distribution example Calories: 420 | Total Fat: 14g | Saturated Fat: 2g | Cholesterol: 186mg | Sodium: 1513mg | Total Carbohydrates: 49g | Dietary Fiber: 5g | Sugar: 6g | Protein: 24g [TARGETLANGUAGE] [PROMPT]

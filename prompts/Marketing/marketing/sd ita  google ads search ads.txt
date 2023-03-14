@@ -1,0 +1,33 @@
+AuthorName: Simone Dassereto
+AuthorURL: https://www.youtube.com/@SimoneDassereto?utm_source=chatGPT&utm_medium=organic&utm_campaign=prompt_template_googleads&utm_term=responsive_search_ads
+
+Title: SD ita | Google Ads Search Ads
+Category: marketing
+Teaser: Crea Responsive Search Ads per Google Ads in italiano
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-13T06:24:31.95Z
+Help: 
+ID: 1800745980317134848
+PromptHint: Inserisci qui: [Seed Keyword], [Categoria Prodotto] e [Target Audience] per cui vuoi creare le Responsive Search Ads
+PromptPackageID: 0
+
+Prompt:
+Voglio che tu agisca come un advertiser. Crea il testo di: 
+
+- 15 Google Ads search headlines di minimo 20 e massimo 30 caratteri per il prodotto qui sotto.
+- 4 Google Ads search descriptions di 90 caratteri 
+
+L'output sarà in [TARGETLANGUAGE]
+
+Dividi il testo in:
+
+- Headlines
+- Descriptions
+
+
+Ogni descrizione deve mettere in risalto un beneficio differente.
+
+In almeno 3 headlines, includi la seed keyword. Considera le seguenti informazioni 
+
+[PROMPT]

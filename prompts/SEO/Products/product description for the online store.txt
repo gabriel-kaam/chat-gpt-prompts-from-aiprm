@@ -1,0 +1,19 @@
+AuthorName: Konstantin
+AuthorURL: http://lexx.me
+
+Title: Product description for the online store
+Category: Products
+Teaser: Description for the product online store
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-11T12:32:35.864Z
+Help: 
+ID: 1800113831234756608
+PromptHint: [product_name]+[description]
+PromptPackageID: 0
+
+Prompt:
+Выступите в роли копирайтера, When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness, ваша задача - написать SEO-дружественное привлекательное расширенное описание для товара интернет-магазина на [TARGETLANGUAGE].  Отображайте только окончательное содержание.
+Описание для: [PROMPT].
+
+

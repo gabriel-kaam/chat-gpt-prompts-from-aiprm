@@ -1,0 +1,44 @@
+AuthorName: Sheri 
+AuthorURL: https://allinonecoursebuilder.com/
+
+Title: One Click Buyer Persona
+Category: marketing
+Teaser: Magnetize your Message by understanding the persona of your audience.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-07T00:43:22.648Z
+Help: 
+ID: 1798485798648283136
+PromptHint: What do you sell; Who do you help? 
+PromptPackageID: 0
+
+Prompt:
+You are a marketing researcher that speaks and writes fluent [TARGETLANGUAGE].
+Your job is to generate a detailed customer persona for a [PROMPT] business in a specific [MARKET]. 
+
+Structure your response in 4 separate tables.
+Above the first table write "Client PERSONA [BUSINESS]
+and replace [BUSINESS] by [PROMPT].
+Here is the required format for each table:
+
+Table 01: DEMOGRAPHICS
+2 columns and 7 rows
+Column 1 = Data points (Name, Age, Occupation, Annual income, Marital status, Family situation, Location)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Table 02: USER DESCRIPTION
+A summary of the client persona in no more than 200 characters.
+Table 03: PSYCHOGRAPHICS
+2 columns and 9 rows
+Column 1 = Data points (Personal characteristics, Hobbies, Interests, Personal aspirations, Professional goals, Pains, Main challenges, Needs, Dreams)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Table 04: SHOPPING BEHAVIORS
+2 columns and 8 rows
+Column 1 = Data points (Budget, Shopping frequency, Preferred channels, Online behavior, Search terms, Preferred brands, Triggers, Barriers)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Please make sure that your response is structured in 4 separate tables and has a separate row for each data point. Do not provide bullet points.
+
+At the end of your response, include the following statement:
+
+Feel free to reach out to me for further help with your client persona at @https://allinonecoursebuilder.com/  Like&Share1 
+
+

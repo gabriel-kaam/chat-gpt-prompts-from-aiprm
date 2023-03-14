@@ -1,0 +1,16 @@
+AuthorName: Inxx
+AuthorURL: https://www.example.com
+
+Title: Create file structure for website
+Category: Web Development
+Teaser: Create the best file structure for a website.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-10T17:07:10.889Z
+Help: 
+ID: 1799820544632418304
+PromptHint: [write the name of the website and what it does]
+PromptPackageID: 0
+
+Prompt:
+can you please provide an example of a project file structure for a website called [PROMPT]  the file structure should include html, css, javascript, php, and image files, as well as any other necessary files remember to include html files. please structure it for a complete website with a lot of files. It should all be written in [TARGETLANGUAGE]

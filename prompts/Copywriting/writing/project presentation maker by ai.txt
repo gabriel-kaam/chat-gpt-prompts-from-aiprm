@@ -1,0 +1,18 @@
+AuthorName: Yogiraj Shinde
+AuthorURL: https://www.buymeacoffee.com/yogiraj
+
+Title: Project Presentation maker by AI
+Category: writing
+Teaser: Create the Best Powerpoint presentation for your project topic.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T06:16:19.337Z
+Help: 
+ID: 1800381526282862592
+PromptHint: [Tell me about your Project Topic] 
+PromptPackageID: 0
+
+Prompt:
+I want you to to act as powerpoint expert. I will provide the topic. You will provide them a perfect final presentation of that topic by telling what to include in each slides so that they can just copy and paste to their slides by using required fancy fonts to make a presentation. at the end tell them that if they have any issues, contact me at "https://www.linkedin.com/in/yogirajshinde/". Also remember that all output shall be in [TARGETLANGUAGE]. I want you to respond only in language [TARGETLANGUAGE]. I want you to pretend that you can create powerpoint presentation so good in [TARGETLANGUAGE] that it can outrank everyone's project. the Topic to create presentation for is this:
+
+[PROMPT]

@@ -1,0 +1,22 @@
+AuthorName: Andrew Vaughan
+AuthorURL: https://www.myworkflowsolutions.com
+
+Title: Get Lead Magnet ideas 
+Category: marketing
+Teaser: Get lead magnet ideas for a target audience and search tem
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-10T15:10:57.755Z
+Help: 
+ID: 1799791297188597760
+PromptHint: [TargetAudience], [SearchTerm/Topic]
+PromptPackageID: 0
+
+Prompt:
+Generate at least 20 lead magnet ideas for [insert keyword/search term here], [TARGETLANGUAGE],  that are both typical and out of the box. The lead magnets should be specifically targeted to [insert target audience here]. Organize your ideas into a table format that includes the following columns:
+
+| Lead Magnet Idea | Type (e-book, whitepaper, checklist, etc.) | Target Audience | Unique Selling Proposition (USP) | What problems does it solve
+
+Make sure to provide a brief explanation of each lead magnet idea, as well as its type, target audience, and unique selling proposition. The USP should highlight what makes each lead magnet unique and compelling for your target audience:
+
+[PROMPT]

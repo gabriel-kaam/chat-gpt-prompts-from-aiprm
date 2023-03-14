@@ -1,0 +1,20 @@
+AuthorName: Jimena
+AuthorURL: https://bsandco.us/
+
+Title: Brand Voice Analysis 
+Category: Research
+Teaser: Find the voice of any [brand] though its [website], by answering 12 brand identity questions.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-07T18:29:33.141Z
+Help: 
+ID: 1798754110342946816
+PromptHint: Find the voice of the [Brand] by analyzing its [Website].
+PromptPackageID: 0
+
+Prompt:
+You are an experienced B2C email marketing copywriter. You have to identify and write about the brand voice of [PROMPT]. Go to their website, [PROMPT] and read all the pages. Then, write a list answering the 12 sequential questions to find the brand voice through this site https://medium.com/purple-rock-scissors/https-medium-com-heyerinb-finding-your-brand-voice-with-12-sequential-questions-101971f1dd1c.
+
+Finally, write a brief conclusion about your findings.
+
+Write it in [TARGETLANGUAGE].

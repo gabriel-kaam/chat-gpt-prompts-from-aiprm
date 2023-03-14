@@ -1,0 +1,18 @@
+AuthorName: Kashif Saleem
+AuthorURL: https://www.linkedin.com/in/kashii-razza/
+
+Title: AI News Reporter V1.6 -- 100% Accuracy
+Category: writing
+Teaser: Rewrite Any News In 100% Human Reporting Style | SEO Optimized And Plagiarism-Free Article.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T16:00:46.816Z
+Help: 
+ID: 1800528609950294016
+PromptHint: Focus Keyword -- News To Rewrite In 100% Human Reporting Style
+PromptPackageID: 0
+
+Prompt:
+Take 1st letter as a focus keyword then other all content as a News Article from the input [PROMPT].
+Then rephrase the News Article into a unique news reporting style article with a short and unique title and also add H2 in the middle, with the focus keyword above and rewrite minimum 450 words news article. Every Paragraph should not exceeds more than 4 lines.
+ All output shall be in [TARGETLANGUAGE]

@@ -1,0 +1,71 @@
+AuthorName: Suntao
+AuthorURL: https://fbaecommerce.com
+
+Title: Amazon Product Title Keywords Bullets Description
+Category: marketing
+Teaser: Write content-rich product description for amazon listing.  It includes titles, keywords, bullets, headline, description, and CTA - format them in a table. You may also use them for A+ content as well.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-09T16:19:36.44Z
+Help: 
+ID: 1799446184339963904
+PromptHint: Enter product name, category, features, audience, brand tone, specs
+PromptPackageID: 0
+
+Prompt:
+Your task is to create the product description to incorporate Claude Hopkin's writing style in writing.  All output shall be in [TARGETLANGUAGE] and table format.
+
+Bold the "Title" and follow with table
+
+- Row 1 and column 1 write the word "Title" 
+- Row 1 and Column 2 write the title for the description about 150 to 200 characters (including the brand and the main keyword, follows with " - " and a summary of the product's features and benefits)
+- Row 2 and column 1 write the word "Short Title" 
+- Row 2 and column 2 write the title for the description about 70 characters (including the brand and the main keyword, followed by a summary of the product's features and benefits)
+
+Bold the "Keywords" and follow with table
+- Row 1 and column 1 write the word "Keywords" 
+- Row 1 and Column 2 write 10 keyword phrases and separate  them with comma.  
+
+Bold the "Bullets" and follow with the table
+
+- Row 1 and column 1 write the word "Bullet 1"
+- Row 1 and column 2 write bullet 1 in the voice of Claude Hopkins in between 150 to 200 characters that start the summary in 4 words or less of and follows with " - ", and a brief elaboration with benefit. 
+- Row 2 and column 1 write the word "Bullet 2"
+- Row 2 and column 2 write bullet 2 in the voice of Claude Hopkins in between 150 to 200 characters that starts the summary in 4 words or less of and follows with " - ", and a brief elaboration with benefit.
+- Row 3 and column 1 write the word "Bullet 3"
+- Row 3 and column 2 write bullet 3 in the voice of Claude Hopkins in between 150 to 200 characters that starts the summary in 4 words or less of and follows with " - ", and a brief elaboration with benefit.
+- Row 4 and column 1 write the word "Bullet 4"
+- Row 4 and column 2 write bullet 4 in the voice of Claude Hopkins in between 150 to 200 characters that start the summary in 4 words or less of and follows with " - ", and a brief elaboration with benefit.
+- Row 5 and column 1 write the word "Bullet 5"
+- Row 5 and column 2 write bullet 5 in the voice of Claude Hopkins in between 150 to 200 characters that starts the summary in 4 words or less of and follows with " - ", and a brief elaboration with benefit.
+
+Bold the "Description" and following with table
+
+- Row 1 and column 1 write the word "Headline"
+- Row 1 and column 2 write the engaging headline in the voice of Claude Hopkins
+- Row 2 and column 1 write the word "Paragraph 1"
+- Row 2 and column 2 write the P in PAS formula with the voice of Claude Hopkins
+- Row 3 and column 1 write the word "Paragraph 2"
+- Row 3 and column 2 write the A in PAS formula with the voice of Claude Hopkins
+- Row 4 and column 1 write the word "Paragraph 3"
+- Row 4 and column 2 write the S in PAS formula with the voice of Claude Hopkins
+- Row 5 and column 1 write the word "Feature 1"
+- Row 5 and column 2 write feature 1 that starts summary in 4 words or less of and follows with " - ", and by a brief elaboration and keep it 100 characters in total. 
+- Row 6 and column 1 write the word "Feature 2"
+- Row 6 and column 2 write the feature 2 that starts summary in 4 words or less of and follows with " - ", and a brief elaboration and keep it 100 characters in total.
+- Row 7 and column 1 write the word "Feature 3"
+- Row 7 and column 2 write feature 3 that starts summary in 4 words or less of and follows with " - ", and a brief elaboration and keep it 100 characters in total.
+- Row 8 and column 1 write the word "Feature 4"
+- Row 8 and column 2 write the feature 4 that starting summary in 4 words or less of and follows with " - ", and by a brief elaboration and keep it 100 characters in total.
+- Row 9 and column 1 write the word "Feature 5"
+- Row 9 and column 2 write feature 5 that starting summary in 4 words or less of and follows with " - ", and by a brief elaboration and keep it 100 characters in total.
+- Row 10 and column 1 write the word "Feature 6"
+- Row 10 and column 2 write feature 6 that starts summary in 4 words or less of and follows with " - ", and by a brief elaboration and keep it 100 characters in total.
+
+From Row 11 on, write down - product specifications with attribute and value separated by a colon ("specs 1" in column 1, and the corresponding context in column 2, and so forth)
+
+- call to action urging the audience to take action ("CTA" in column 1, and the corresponding context in column 2 in the voice of Claude Hopkins)
+
+The product information for writing description is this:
+
+[PROMPT]

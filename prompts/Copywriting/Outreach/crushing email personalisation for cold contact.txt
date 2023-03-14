@@ -1,0 +1,21 @@
+AuthorName: Yvan 
+AuthorURL: https://academy.appylearny.fr
+
+Title: Crushing email personalisation for cold contact
+Category: Outreach
+Teaser: The 3-step plan for crushing email personalisation in under 2 minutes
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-11T12:14:44.224Z
+Help: 
+ID: 1800109336450822144
+PromptHint: [Paste info found on the lead profil]
+PromptPackageID: 0
+
+Prompt:
+Imagine I'm a top performing sales rep.
+write 5 icebreakers for this prospect.
+Be concise. Be fun. Write 30-40 words.
+Don't ask for a meeting
+Here's info from their LinkedIn profile [PROMPT]
+Write in [TARGETLANGUAGE]

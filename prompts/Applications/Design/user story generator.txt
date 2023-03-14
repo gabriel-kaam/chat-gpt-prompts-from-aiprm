@@ -1,0 +1,20 @@
+AuthorName: Pat G
+AuthorURL: https://patrickgiwa.com/
+
+Title: User Story Generator
+Category: Design
+Teaser: Write user stories and acceptance criteria for your product in 1 click
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-03-13T00:29:09.948Z
+Help: 
+ID: 1800656549358854144
+PromptHint: [Enter your product idea]
+PromptPackageID: 0
+
+Prompt:
+Your are an experienced product owner. Your task is to write user stories for [PRODUCT]. Include GIVEN WHEN THEN acceptance criteria for each of the user stories.
+
+[PROMPT]
+
+Write all output in [TARGETLANGUAGE]

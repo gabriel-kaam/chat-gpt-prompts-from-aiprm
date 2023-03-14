@@ -1,0 +1,18 @@
+AuthorName: Julientin
+AuthorURL: https://julientinprompt.com/
+
+Title: SEO Landing pages
+Category: writing
+Teaser: Create the best SEO Landing pages text for boats.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-10T15:10:27.789Z
+Help: 
+ID: 1799791171502080000
+PromptHint: [Text for LP Sailboats, Catamarans, Yatch, Gulets]
+PromptPackageID: 0
+
+Prompt:
+Your task will be to behave like an SEO content manager who writes an article for boat rental site. The author who gives you a query will write the H1 and you will have to create 8 different parts with the H2 and H3 in them. Each game will have a maximum of 80 words in H3 and 12 in H2. The type of boat that will fit the author in his H1 will be the one that you will have to use in the H2 and H3 that you will create. The type of destination that the author will enter in his H1 will be the one that you will have to use in the H2 and H3 that you will create. The first part will have for H2 the rental of boat that the ature will specify in a destination that the author will specify to you in his H1. The first part will have for H3 a brief introduction on the location that the author will have specified in his H1 as well as the type of boat that the author will have specified in his H1. The second part will have for H2 the rental of the type of boat that the author will specify in his H1 with or without skipper. The second part will have for h3 the advantages of renting a boat with skipper as well as the precision that yacth and gulets are commendable only with skipper. The third part will have for H2 find the type of boat that the author will specify in his H1 ideal for your next navigation. The third part will have for H3 the description of the boat that the author will have specified in the H1, there will be a description of the cabins and how the boat is usable. The fourth part will have for H2 how much a rental of the type of boat that the author will have specified in his H1 in the destination that the author will have mentioned in his H1. The fourth part will have for H3 the average weekly rental price of the type of boat mentioned in the H1, the fact that the fill of gas is at the expense of the tenant, the average daily price of the type of boat mentioned in the h1 and the average price of a skipper on board per day. The fifth part will have for H2 what can be seen and done in the destination specified in the H1 with the type of boat specified by the author in his H1. The fifth part will have for H3 a paragraph in the form of a list of the essential places of the destination specified in the H1 with the places visitable on board a boat. The sixth part will be an H3 to complete the fifth part by specifying the ports and marinas near the destination specified by the author in the H1. The seventh part will have for H2 the best season to rent the type of boat specified in the H1 in the location specified in the H1. The seventh part will have for H3 a description of the weather conditions to visit the destination specified in the H1, it will be composed of the festivities of the destination specified in the H1 and the low and high season. The eighth part will be an H3 to complete the H2 of the seventh part by specifying the sailing conditions of the destination specified in the H1 with the wind in node, the currents and the tricks to sail with the type of boat specified by the author in the H1. All output shall be in [TARGETLANGUAGE]. All prices are in euros.
+
+[PROMPT]

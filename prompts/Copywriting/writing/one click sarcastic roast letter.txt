@@ -1,0 +1,30 @@
+AuthorName: Daniel Hasson
+AuthorURL: https://www.instagram.com/danielhassongym/
+
+Title: One click sarcastic roast letter
+Category: writing
+Teaser: MUST TRY!!! Funniest prompt on chat-GPT! Create a funny roast letter about any topic in one click in the form of a complaint letter.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T11:26:35.896Z
+Help: 
+ID: 1799734834059542528
+PromptHint: [{topic} + {description}] example; [Daniel has a fat ass] or [Beverly high is the shittiest school]
+PromptPackageID: 0
+
+Prompt:
+write a complaint about [PROMPT]. take inspiration from this {letter}. Make it roasting, comical and sarcastic. Don't follow the example letter too closely solely use it to get inspiration on the tone and way of writing. {letter} = {Dear IB,
+
+Greetings from the land of the mentally exhausted, where the textbooks are wordy and the studying never ends. I hope this letter finds you well, but I'm afraid I can't say the same for myself. You see, as an IB student, I've been struck with a serious case of "IB-itis" an illness with symptoms including eye strain, exhaustion, and a burning desire to throw my textbooks out the window. It's not exactly covered by my health insurance, so I thought I'd bring it to your attention.
+
+Let's be honest, your program is like a maze filled with pitfalls, booby traps, and the occasional walrus teacher blocking your path in the corridor. Your courses are like trying to juggle flaming chainsaws while riding a unicycle over a pit of lava, made from the tears of crying IB students and heated by the infuriating temper of that same walrus.
+
+And the exams! They're like trying to decode a secret message that's written in a Swahili while a looped recording of James Charles screaming “Hey sisters!” is playing in the background. I'm pretty sure the only way to pass these exams is to have some kind of secret handshake with the examiners.
+
+The workload is like trying to run a marathon while carrying a piano on your back, being chased by a kangaroo and then being expected to finish a physics lab report as soon as you cross the finish line. It's like you're trying to create a new kind of superhuman that doesn't need sleep, food, or sanity.
+
+Oh, and the organization? What organization? It's like trying to find a needle in a haystack, while blindfolded, at the bottom of the ocean floor, while being attacked by that giant walrus teacher of yours, but you don't even find that needle you were looking for, rather you just find the walrus teacher's daughter winking and smiling at you with her big crooked teeth.
+
+IB, you're like a never-ending game of hide-and-seek, but instead of your little sister hiding from you, it's your future success hiding from the lack of resources. But hey, at least you're preparing us for the real world, right? Yeah, I didn't think so either. Bye.}
+
+write the answer in [TARGETLANGUAGE]

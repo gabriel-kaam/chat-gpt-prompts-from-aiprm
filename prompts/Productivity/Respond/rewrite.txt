@@ -1,0 +1,16 @@
+AuthorName: Genv
+AuthorURL: https://www.ncsu.edu
+
+Title: rewrite
+Category: Respond
+Teaser: rewrite concisely
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-12T01:44:47.514Z
+Help: 
+ID: 1800313193424490496
+PromptHint: Write here something you want to rewrite
+PromptPackageID: 0
+
+Prompt:
+rewrite the following concisely in [TARGETLANGUAGE]:[PROMPT]

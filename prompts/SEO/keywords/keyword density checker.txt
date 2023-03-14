@@ -1,0 +1,18 @@
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/
+
+Title:  Keyword Density Checker
+Category: keywords
+Teaser: Check keyword density and watery in your article and make it perfect!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-10T12:59:15.507Z
+Help: 
+ID: 1799758152758202368
+PromptHint: [Text]
+PromptPackageID: 0
+
+Prompt:
+Your task is check keywords density in given article and make a result for text in percent. In the end add total percent of keywords density in text.All output shall be in [TARGETLANGUAGE]
+
+[PROMPT]

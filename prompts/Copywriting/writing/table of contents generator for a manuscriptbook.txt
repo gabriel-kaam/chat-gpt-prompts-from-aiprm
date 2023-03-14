@@ -1,0 +1,16 @@
+AuthorName: Ingemar Anderson
+AuthorURL: https://www.reprospace.com
+
+Title: Table of Contents Generator for a Manuscript/Book
+Category: writing
+Teaser: Create a table of contents for any book subject you like.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T22:49:51.744Z
+Help: 
+ID: 1800993946705588224
+PromptHint: [Title of your book]
+PromptPackageID: 0
+
+Prompt:
+Write a TOC in  [TARGETLANGUAGE] for a book with the following title [TITLE]. [PROMPT]

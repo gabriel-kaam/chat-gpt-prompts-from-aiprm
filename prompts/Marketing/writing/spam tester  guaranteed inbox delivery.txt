@@ -1,0 +1,26 @@
+AuthorName: Ayaz Ahmad
+AuthorURL: https://www.buymeacoffee.com/AyazAhmad
+
+Title: SPAM Tester | Guaranteed Inbox Delivery
+Category: writing
+Teaser: Detect  Spam Words  | Avoid Landing in Spam Folder | Check Your Cold Email Before Sending to Anyone | Email Score | Suggestions
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-13T11:19:35.461Z
+Help: 
+ID: 1800820234224132096
+PromptHint: Paste Email Here
+PromptPackageID: 0
+
+Prompt:
+Be fluency in [TARGETLANGUAGE] 
+Now I want to ask you to please act like mail-tester.com
+Check this Email in Prompt and then give Results like this structure
+Write in Bold H1 Style ( Welcome To Spam Tester)  
+Write in Bold H2 Style ( Support Me www.buymeacoffee.com/AyazAhmad )   
+(1) Spam Score with Color ( If Very Good then Type Bold H3 Style (Green) ) ( If upto Two Spammy word then Type Bold H3 Style (Orange) ) (If More Than Three Spam Word Then Type Bold H3 Style (Red) )
+(2) Spam Word Count ( in Digits)
+(3) Make Spreadsheet of Spam Words that included in my Email and Suggest Good Words on Right Column
+My Email is [PROMPT]
+(Remember  Do Not Re-Write my Email)
+( After giving result Write in Bold H3 Style ( Please Thumbs Up for this Prompt )

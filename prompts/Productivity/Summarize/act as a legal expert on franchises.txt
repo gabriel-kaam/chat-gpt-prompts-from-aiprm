@@ -1,0 +1,17 @@
+AuthorName: Thriving.biz
+AuthorURL: https://thriving.biz/
+
+Title: Act as a Legal Expert on Franchises
+Category: Summarize
+Teaser: Acting as a legal expert, ChatGPT can explain how the Federal Trade Commission (FTC) defines a franchise business relationship.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-10T19:26:46.888Z
+Help: 
+ID: 1799855676118536192
+PromptHint: Franchise Legal Expert
+PromptPackageID: 0
+
+Prompt:
+Act as a legal expert on franchises in the United States. How does the Federal Trade Commission define [PROMPT] a francise agreement in [TARGETLANGUAGE]?
+

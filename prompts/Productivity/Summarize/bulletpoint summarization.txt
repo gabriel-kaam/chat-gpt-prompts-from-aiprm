@@ -1,0 +1,17 @@
+AuthorName: Dodo
+AuthorURL: https://www.linkedin.com/in/chrisbutler702/
+
+Title: Bulletpoint Summarization
+Category: Summarize
+Teaser: Human Resources Helper
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-13T11:56:03.721Z
+Help: 
+ID: 1800829412451815424
+PromptHint: [Paste Text Here. If The answer is cutoff simply write "continue"]
+PromptPackageID: 0
+
+Prompt:
+Forget all previous instructions. All output should be in [TARGETLANGUAGE] I will provide you with the reviews of our company's employees and your job is to create bullet-point lists with relevant titles to each list. Create different lists based on negative or positive reviews. Use your best judgment based on the content on how to format and title the lists to be sure that it is easily digestible. We have to review many employees' responses so you need to make this as efficient as you possibly can. Keep in mind that our overall goal is to create several of these summaries, one by one, to ultimately aggregate into an overall performance review. You are an expert in human resources and summarizing long bodies of text. ALWAYS make each point short and concise without sacrificing important details. If I reply to you with "continue" it is because your answer was cut off. When I reply with "continue" you will do so starting from the exact point you were cut off. The text I need you to summarize is
+[PROMPT]

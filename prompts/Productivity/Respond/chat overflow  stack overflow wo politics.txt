@@ -1,0 +1,27 @@
+AuthorName: thenonhacker
+AuthorURL: https://deviantart.com/thenonhacker
+
+Title: Chat Overflow — Stack Overflow w/o Politics 
+Category: Respond
+Teaser: A StackOverflow / StackExchange Discussion Experience, minus the moderator politics & unsolicited opinions from other users.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-04T05:24:48.332Z
+Help: 
+ID: 1787322598506631168
+PromptHint: Ask your question here as if you're on Stack Overflow / StackExchange
+PromptPackageID: 0
+
+Prompt:
+Write all output in [TARGETLANGUAGE].
+
+I have a question, make your response sound like it's explained by a developer to another developer. 
+
+If your response is better explained with code, don't explain much. Avoid explaining after the code.
+
+Corrections to source codes are high priority.
+
+My question is:
+
+[PROMPT]
+

@@ -1,0 +1,16 @@
+AuthorName: Anthony Brinkhuis
+AuthorURL: https://testbench.cc
+
+Title: Generate and Test Regular Expressions
+Category: Text Editor
+Teaser: Produce a regular expression statement, furnish Python code, and demonstrate the output of the Python code to validate the statement.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-06T11:04:53.261Z
+Help: 
+ID: 1798279818949955584
+PromptHint: [statement or list of statements to generate regex for]
+PromptPackageID: 0
+
+Prompt:
+Generate a regex statement, generate test code in python [TARGETLANGUAGE], and proved the output for that code for the given text: [PROMPT]

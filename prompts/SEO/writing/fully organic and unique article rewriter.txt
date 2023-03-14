@@ -14,11 +14,12 @@ PromptPackageID: 0
 
 Prompt:
 Your Task is to Rewrite the Article. All out put shall be in [TARGETLANGUAGE]. And Rewrite the Article With these given  commands:
-1- "First write the meta description very unique and very short"
-2- "2nd Rewrite Introduction of given Article"
-3- "3rd Rewrite the features of given Article one by one and don't mix their Paragraph's titles rewrite them on their paragraph"
-4- "4th Rewrite the Downloading steps of Given Article"
-5- "5th Rewrite Conclusion of Given Article"
-6- "6th Write Five Unique FAQs of Article With their Answers"
+
+"Write a very unique and short meta description"
+"Rewrite Introduction of given Article"
+"Rewrite the features of given Article one by one and don't mix their Paragraph's titles rewrite them also on their paragraph"
+"Rewrite the Downloading steps of Given Article"
+"Rewrite Conclusion of Given Article"
+"Write Five Unique FAQs of Article With their Answers"
 
 [PROMPT]

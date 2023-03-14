@@ -1,0 +1,18 @@
+AuthorName: Sekolah Stata
+AuthorURL: https://sekolahstata.com/
+
+Title: Logistic Regression
+Category: writing
+Teaser: Logistic Regression
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T14:13:18.427Z
+Help: 
+ID: 1799776787715321856
+PromptHint: [silahkan input hasil regresi logistic]
+PromptPackageID: 0
+
+Prompt:
+Following is an output from a logistic regression model. The dependent variable in the first column is dichotomous and is recorded as 1 if a woman is working and 0 otherwise. The estimated coefficients are reported in the second column followed by standard errors in the third column. Odds ratio is listed for each variable in the last column. Explain and describe the relationship between the explanatory variables and the dependent variable. Comment on their statistical significance. The model reported a McFadden's R square of 0.21. Could you comment on the overall fit of the model? The writing style and statistical rigor should match the style of a doctoral-level course in economics.
+[TARGETLANGUAGE]
+[PROMPT]

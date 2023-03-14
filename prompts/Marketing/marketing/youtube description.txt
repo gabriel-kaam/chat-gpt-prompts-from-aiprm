@@ -1,0 +1,27 @@
+AuthorName: Louis Deslus
+AuthorURL: https://www.youtube.com/channel/UCkExyQJukMvaBCf4fOuKJoQ/?sub_confirmation=1
+
+Title: Youtube description
+Category: marketing
+Teaser: Create a Youtube video description from the title
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-15T12:48:56.918Z
+Help: 
+ID: 1791420637299081216
+PromptHint: [Title of the video]
+PromptPackageID: 0
+
+Prompt:
+I am a youtuber 
+You are my assistant 
+To publish a video I need a description 
+You're the one who will do it
+You have to be on first name basis 
+Use a friendly tone 
+Make you want to watch the video 
+And above all, include all the words in the title at least 3 times and at least once by respecting the order of the words in the title
+
+You can skip lines to structure the paragraphs 
+
+The whole thing must be written in [TARGETLANGUAGE] from the title of the video that is [PROMPT].

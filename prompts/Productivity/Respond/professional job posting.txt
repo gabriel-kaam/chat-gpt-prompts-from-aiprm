@@ -1,0 +1,16 @@
+AuthorName: Hutach
+AuthorURL: https://sites.google.com/view/hutach/startseite
+
+Title: Professional Job Posting
+Category: Respond
+Teaser: Create a professional job posting [title]
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-10T13:32:32.809Z
+Help: 
+ID: 1799766530049970176
+PromptHint: Title of the job posting + further information, if applicable
+PromptPackageID: 0
+
+Prompt:
+Interagiere als Recruiting Spezialist und schreibe für mich eine professionelle Stellenanzeige. Schreibe sie in der "Du" Form und in Stichpunkten und nutze dabei die typische Gliederung (Deine Aufgaben, Dein Profil, Wir bieten) . Schreibe auf [TARGETLANGUAGE] die Stellenanzeige für folgenden Job:  [PROMPT]

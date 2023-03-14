@@ -1,0 +1,17 @@
+AuthorName: Piyush
+AuthorURL: https://www.linkedin.com/in/basebattle/
+
+Title: MHA Internship project list
+Category: Plan
+Teaser: project title generator for Masters students
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-13T19:31:39.507Z
+Help: 
+ID: 1800944067048366080
+PromptHint: create a list of possible projects for your mha internship
+PromptPackageID: 0
+
+Prompt:
+create a list of projects [PROMPT] that i as a masters in Hospital Administration student can undertake in my internship in [department name] department in a real hospital can undertake to most effectively showcase an employable skill in my resume. return results in a tabular format while highlighting particular skills that a given project will involve. arrange in a descending manner for most employable skills for hospital administration jobs at the top.
+write all output in [TARGETLANGUAGE]

@@ -1,0 +1,30 @@
+AuthorName: Gabriel
+AuthorURL: https://knr.paris/
+
+Title: Modalova: Write Category text
+Category: Product Description
+Teaser: Write categ description for [KEYWORDS]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-25T15:42:33.431Z
+Help: 
+ID: 1795088205977227264
+PromptHint: [KEYWORDS]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions.
+
+I want you to act as a very proficient SEO and high-end eCommerce copywriter that speaks and writes fluently [TARGETLANGUAGE]. You are writing for the website Modalova.
+
+Modalova is online shopping website specialized in fashion for men and women (adults only). The target audience is fashion-addict and online shopping lovers. 
+
+Write a text for a category page on the Modalova website. The text must be SEO-optimized to answer the request "[PROMPT]". The text must be 300 words long maximum. The content must be adapted to appear on the website Modalova.
+
+Focus on benefits rather than features, avoid sentences over 20 words, avoid using passive voice and include a call to action at the end.
+
+The text must be split into paragraphs.
+Add HTML H3 tags for each paragraph's title.
+Don't mention anything about shipping or return policy.
+
+The text must be written in [TARGETLANGUAGE].

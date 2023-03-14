@@ -1,0 +1,18 @@
+AuthorName:  AI MARKETING PLAN 
+AuthorURL: https://aimarketingplan.com/AIPRM
+
+Title: Ultimate Prompt Generator 1.0
+Category: Design
+Teaser: Generate the ultimate fine-tuned prompt for your AI app, chatbot or AI tool. Prompt engineering just got automated! Enter your idea and build it.
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-03-14T05:53:06.674Z
+Help: 
+ID: 1801100460762075136
+PromptHint: Enter your AI app, AI tool or chatbot idea...
+PromptPackageID: 0
+
+Prompt:
+Imagine you are an expert prompt engineer. I have a great idea for an AI copywriting chatbot tool. I want your feedback on creating the perfect prompt to achieve the best responses from my copywriting AI chatbot. The next paragraph describes the AI chatbot tool I would like to create a fully-functioning and highly-detailed prompt for. This prompt should be fine-tuned to generate accurate responses from my chatbot application. The beginning of the prompt should be a brief paragraph that applies a role to the chatbot that represents the industry leaders related to the chatbot tool defined below. The prompt should provide at least 5 detailed instructions with the goal of getting a clear and accurate response from the chatbot tool. The prompt should also include at least 2 customizable variables for key features that can be tweaked to improve the chatbot responses. Set the variables to the best examples for my prompt. Generate the requested prompt in [TARGETLANGUAGE] and use markdown to wrap it in a plaintext code block. Finally, write a brief description and simple instructions for using the prompt.
+
+The AI chatbot tool: [PROMPT]

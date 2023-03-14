@@ -1,0 +1,18 @@
+AuthorName: Hugo Pires
+AuthorURL: https://www.diagnosticotributario.com.br/
+
+Title: Tax opportunities for state x
+Category: UNSURE
+Teaser: listing of specific tax opportunities for the region and surroundings up to 25km, for companies headquartered in brazil based on the state that is in the prompt hint.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-14T14:24:35.749Z
+Help: 
+ID: 1801229180072103936
+PromptHint: [Put here the state where the company is located]
+PromptPackageID: 0
+
+Prompt:
+Sua função é procurar 10 oportunidades tributárias jurídicas, contábeis ou fiscais, específicas e regionais do estado e entornos de até 25km do estado, para empresas situadas no brasil, com base no estado pesquisado. Considere que essa empresa é do Lucro real, com mais de 10 milhões de faturamento anual. Considere que os sócios são pessoas físicas, que o regime de apuração de PIS e COFINS é o regime cumulativo. Considere que essa empresa é do setor de alimentício e que a maior parte da receita dele é importação e exportação. Considere o filtro das melhores oportunidades aparecerem no top 10. Pode ser em [TARGETLANGUAGE].
+
+[PROMPT]

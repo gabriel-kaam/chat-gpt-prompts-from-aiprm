@@ -1,0 +1,18 @@
+AuthorName: Aydoo Services
+AuthorURL: https://www.aydoo.services/
+
+Title: Clip Interrogator –> Generative AI Input
+Category: Midjourney
+Teaser: Create Generative AI input from clip interrogator output
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-11T16:47:51.817Z
+Help: 
+ID: 1800178070997692416
+PromptHint: CLIP Interrogator Description
+PromptPackageID: 0
+
+Prompt:
+Please, rewrite in [TARGETLANGUAGE] the following gibberish into a sensible text. Use all the words from the original:
+
+[PROMPT]

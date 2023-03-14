@@ -1,0 +1,16 @@
+AuthorName: Flapper
+AuthorURL: https://flapper.ai
+
+Title: Text Spinning {a|b}
+Category: writing
+Teaser: Apply text spinning {a|b} to your content
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T11:46:50.914Z
+Help: 
+ID: 1800464705945600000
+PromptHint: Paste your text
+PromptPackageID: 0
+
+Prompt:
+Create a great text in [TARGETLANGUAGE] by adding intense Textspinning, that will replace Words with other correct Synoyms or Words using the syntax {word1|word2|word3}, based on the following Text: [PROMPT]

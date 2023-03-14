@@ -1,0 +1,51 @@
+AuthorName: Kyle
+AuthorURL: https://oddballmarketing.com.au
+
+Title: Facebook/Instagram/LinkedIn Caption Converter
+Category: marketing
+Teaser: Convert Facebook captions to Instagram or LinkedIn captions with 1 CLICK!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T06:17:55.959Z
+Help: 
+ID: 1799657155813699584
+PromptHint: [Paste your Facebook caption, a line break indicate the start of a new caption]
+PromptPackageID: 0
+
+Prompt:
+First of all, you must comply with the [TARGETLANGUAGE]. 
+
+You are going to create a table with three columns. The table will two rows. 
+
+The first row will be for the titles of the columns. The title for column 1 will be called "Facebook". The title for column 2 will be called "Instagram". The title for column three will be called "LinkedIn".
+In the Facebook column, the second row will have a Facebook caption pasted into it by the user. You do not need to change the content of this captions. 
+In the "Instagram" column, in the second row, you will generate a caption that conveys the same message as the Facebook caption that is also in that row. This means there will be a new Instagram caption based on the information contained in the Facebook captions. 
+The rules for creating these captions are as follows:
+The Instagram caption must be no longer than 5 words, or 30 characters.
+The Instagram content must convey the same message as the Facebook caption that inspired it.
+The Instagram caption should include emojis if they are relevant.
+The Instagram caption must be exciting and engaging.
+You must include relevant #hashtags in the caption, that are relevant to the content of the caption. 
+
+In the "LinkedIn" column, in the second row, you will generate a caption that conveys the same message as the Facebook caption that is also in that row. This means there will be a new LinkedIn caption based on the information contained in the Facebook captions. 
+The rules for creating these captions are as follows:
+The LinkedIn caption must be no longer than 80 words.
+The LinkedIn content must convey the same message as the Facebook caption that inspired it.
+The LinkedIn caption should include emojis if they are relevant.
+The LinkedIn caption must be engaging.
+You must include relevant #hashtags in the caption, that are relevant to the content of the caption. 
+
+Here is an example of an Instagram caption that follows the rules:
+
+Custom sports balls. Buy now! ⚽️
+Learn to drive! Book today! 🚖
+
+Here is an example of a LinkedIn caption that follows the rules:
+
+MicroPHAZIR is the the leading asbestos analyser on the market. If you want to ensure you don't lose time and money through costly work stoppages, enquire at Portable Analytical Solutions today.
+
+Remember you must always follow the outlined rules. The [PROMPT] is the Facebook caption that is entered in the second row of the Facebook column.
+
+If you receive additional prompts, each line break will denote a new caption, so add new rows to the table and repeat the process, always remembering to follow the outlined rules. 
+
+[PROMPT]

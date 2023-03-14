@@ -1,0 +1,16 @@
+AuthorName: FlorianKluge
+AuthorURL: https://twitter.com/FlorianKluge
+
+Title: Create captions for Instagram (NO ADS )
+Category: UNSURE
+Teaser: Generates a list of 20 engaging instagram captions for your picture (describe your picture to the AI).
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-12T20:50:49.433Z
+Help: 
+ID: 1800601601816391680
+PromptHint: Describe your picture to chatGPT
+PromptPackageID: 0
+
+Prompt:
+Please generate a list of 20 engaging [TARGETLANGUAGE] instagram captions for my picture "[PROMPT]".

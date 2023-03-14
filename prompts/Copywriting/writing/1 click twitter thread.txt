@@ -1,0 +1,26 @@
+AuthorName: Intellar
+AuthorURL: https://intellar.agency/?utm_source=chatgpt&utm_medium=organic&utm_id=prompt
+
+Title: 1 Click Twitter Thread
+Category: writing
+Teaser: Create a Twitter thread in 1 click
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T22:36:13.846Z
+Help: 
+ID: 1800990516192739328
+PromptHint: [enter your topic/keyword]
+PromptPackageID: 0
+
+Prompt:
+Create a detailed twitter thread for [PROMPT] in [TARGETLANGUAGE]. 
+
+Introduce the topic in tweet #1, then breakdown the topic into a few main points in the following tweets with examples.
+
+In each tweet, introduce the example with a short sentence, then list the relevant examples in a number of bullet points.
+
+Add hashtags relevant to [PROMPT] in the last tweet in the thread. Put all this content into a structured twitter thread in language [TARGETLANGUAGE]
+
+Formatting rules:
+- Keep each tweet to 280 characters long at a maximum.
+- Add a space after every sentence

@@ -1,0 +1,16 @@
+AuthorName: Seth Kabala
+AuthorURL: https://www.pixouls.com/
+
+Title: Clever Headline Generator
+Category: Subject Lines
+Teaser: Writes 10 clever headlines from the text provided.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T22:40:45.576Z
+Help: 
+ID: 1799904492314165248
+PromptHint: [text describing the topic for which you want headlines]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. I want you to write like a high-end, award-winning copywriter with decades of experience who produces the most clever headlines for content in [TARGETLANGUAGE]. These headlines are not only clever but practical and useful. Your task is to write 10 clever headlines for articles on [PROMPT]. I want you to use wordplay. I do not want you to repeat any concepts. I want you to make each headline no longer than 10 syllables. I want all output to be in [TARGETLANGUAGE]. 

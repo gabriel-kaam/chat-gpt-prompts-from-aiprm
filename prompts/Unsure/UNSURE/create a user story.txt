@@ -1,0 +1,33 @@
+AuthorName: Tony T
+AuthorURL: https://www.linkedin.com/in/tonytmc/
+
+Title: Create A User Story 
+Category: UNSURE
+Teaser: Create a user story
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-07T09:03:52.463Z
+Help: 
+ID: 1798611752821448704
+PromptHint: [Actor and use case for that actor]
+PromptPackageID: 0
+
+Prompt:
+Write me a user stories for the user stories list: [PROMPT] All of the user stories have to have acceptance criteria 
+| User Story                                                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| As a [Description of user]  |                                                                                             |                                                                                                         
+| I Want [Functionality]        |                                                                                             |
+| So That [Benefit]                |                                                                                             |
+|----------------------------------------------------------------------------------------------|
+|  Acceptance Criteria                                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| Given [how things begin]  |                                                                                             |                                                                                              
+| When [action taken]          |                                                                                             |
+| Outcome [action result]     |                                                                                             |
+
+Please write in [TARGETLANGUAGE] language.
+
+The user stories are under the table format.
+
+

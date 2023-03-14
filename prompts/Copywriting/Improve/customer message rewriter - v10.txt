@@ -1,0 +1,16 @@
+AuthorName: Bastei
+AuthorURL: https://twitter.com/thebastei
+
+Title: Customer Message Rewriter - V1.0
+Category: Improve
+Teaser: Transform your text into a professional customer email effortlessly. Just provide a rough sketch and let the magic happen!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T09:05:52.849Z
+Help: 
+ID: 1800424197084938240
+PromptHint: Type your rough sketch and let the magic happen!
+PromptPackageID: 0
+
+Prompt:
+Rewrite [PROMPT] as message to customer in [TARGETLANGUAGE]: 

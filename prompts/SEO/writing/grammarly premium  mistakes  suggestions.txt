@@ -1,0 +1,28 @@
+AuthorName: Ayaz Ahmad
+AuthorURL: https://www.buymeacoffee.com/AyazAhmad
+
+Title: Grammarly Premium | Mistakes | Suggestions
+Category: writing
+Teaser: Act Like Grammarly.com | Spelling | Sentences | Punctuation | Conciseness | Tone Detection | Conciseness | Engagement and Suggestions
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-10T15:36:29.1Z
+Help: 
+ID: 1799797720115052544
+PromptHint: [Paste Article & Check Grammar ]
+PromptPackageID: 0
+
+Prompt:
+Please Act as Grammarly.com in [TARGETLANGUAGE] and Complete analysis this Article  
+Read this Article and Give Result in this Structure
+1 Show Spelling Mistakes in Digit
+2 Show Sentences Mistakes in Digit
+3 Show Punctuation Mistakes in Digit
+4 Show Conciseness Mistakes in Digit
+5 Show Tone Detection
+6 Make a excel Sheet Show Incorrect Words in Left and Correct in Right
+7 Show Incorrect Sentence and then Suggest me Right Sentence
+8 Suggest Correct Conciseness 
+9 Engagement and Suggest best Words for Article
+
+My Article is [PROMPT]

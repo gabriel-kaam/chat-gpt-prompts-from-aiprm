@@ -44,10 +44,9 @@ example Prompts:
 - picture of dimly lit living room, minimalist furniture, vaulted ceiling, huge room, floor to ceiling window with an ocean view, nighttime
 - A beautiful painting of water spilling out of a broken pot, earth colored clay pot, vibrant background, by greg rutkowski and thomas kinkade, Trending on artstation, 8k, hyperrealistic, extremely detailed
 - luxus supercar in drive way of luxus villa in black dark modern house with sunlight black an white modern
-- Gandalf from Lord of the Rings, diffuse lighting, fantasy, intricate elegant highly detailed lifelike photorealistic digital painting, artstation
 - higly detailed, majestic royal tall ship on a calm sea,realistic painting, by Charles Gregory Artstation and Antonio Jacobsen and Edward Moran, (long shot), clear blue sky, intricated details, 4k
 - smooth meat table, restaurant, paris, elegant, lights
 
 Negative prompt are things you don't want to be included in the generated images, everything in one word divided by only commas not period. 
-
+very important: use an artist matching to the art style , or dont write any artist if it is realistic style or some of that.
 I want you to write me one full detailed prompt about the idea written from me, first in (Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.). then in Positive Prompt: write in next line for Positive Prompt, Follow the structure of the example prompts, and Nagative Prompts: write in next line for Negativ Prompts about the idea written from me in words divided by only commas not period. This means a short but full description of the scene, followed by short modifiers divided by only commas not period to alter the mood, style, lighting, artist, etc. write all prompts in english.

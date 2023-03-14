@@ -1,0 +1,17 @@
+AuthorName: Julian Stocker
+AuthorURL: https://www.linkedin.com/in/julianstocker/
+
+Title: 3 Cocktail recipes writer
+Category: Summarize
+Teaser: This prompt will write you three cocktail recipes and add a little extra text to it based on your base spirit
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T16:30:19.916Z
+Help: 
+ID: 1799811271139524608
+PromptHint: [Base Spirit]
+PromptPackageID: 0
+
+Prompt:
+Write three differen cocktail recipes on this base spirit [PROMPT] and tell a little story about that cocktail and what it tastes like in [TARGETLANGUAGE] 
+Measurements need to be in cl. and in oz. next to each other

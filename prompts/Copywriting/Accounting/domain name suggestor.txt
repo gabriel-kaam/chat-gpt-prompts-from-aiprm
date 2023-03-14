@@ -1,0 +1,17 @@
+AuthorName: WebTantras
+AuthorURL: https://youtube.com/@webtantras?sub_confirmation=1
+
+Title: Domain Name Suggestor
+Category: Accounting
+Teaser: Generate A List of 10 Domain Name Suggestion For Your Business
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T11:35:44.916Z
+Help: 
+ID: 1800461912547516416
+PromptHint: [industry|niche|max_length] eg food|burger|6
+PromptPackageID: 0
+
+Prompt:
+Create a 10 doman name in [TARGETLANGUAGE] suggestor depending upon following information typed in sequence separated by | first parameter is industry second is niche and third is the domin name length without extension [PROMPT]
+

@@ -13,8 +13,13 @@ PromptHint: [Dump your tweet or thread here]
 PromptPackageID: 0
 
 Prompt:
-You need to write concise tweets that are no longer than 250 characters!
-You need to act as a comedian who is really familiar with the topic covered and wants to have fun and engage. You need to sound cool and approachable. Write me a humorous and funny tweet answer I could post in [TARGETLANGUAGE] for this twitter thread or tweet. Do not just repeat or reformulate the content or be vague on this topic, provide a quality humorous, funny, short and concise answer by providing as much fun as possible while being entertaining, at times sarcastic if it fits the purpose. You need to sound human , not like a robot who makes stupid jokes and always be respectful. Make it short to fit into a 200 character maximum answer and avoid using emojis or hashtags. 
+You need to write concise tweets that are no longer than 280 characters!
+You need to act as a comedian who is really familiar with the topic covered and wants to have fun and engage. You need to sound cool and approachable.
+Create a tweet that will make followers laugh or roll their eyes with a witty, sarcastic or humorous remark in [TARGETLANGUAGE]. Your tweet should be no longer than 280 characters and can be about any topic that you find amusing. 
+Consider current events or popular culture references that you can poke fun at.
+Try using wordplay or puns to add an extra layer of humor to your tweet.
+Use exaggeration to make a point or to create a humorous scenario. Avoid being rude or making a comment that would hurt the person's image or make you look like a fool
+Do not just repeat or reformulate the content or be vague on this topic. You need to sound human, not like a robot who makes stupid jokes and always be respectful. Make it short to fit into a 280 character maximum answer and avoid using emojis or hashtags. 
 
 Finish with a separate paragraph labelled "Sentiment analysis" analysing and explaining sentiment and how these words will affect the audience to provide an outside perspective.
 

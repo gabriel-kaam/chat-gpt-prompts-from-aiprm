@@ -13,13 +13,15 @@ PromptHint: [Add your topic or keyword]
 PromptPackageID: 0
 
 Prompt:
-Können Sie mir bitte eine Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils maximal 30 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. 
+Können Sie mir bitte insgesamt drei Listen mit Überschriften zum Thema „[PROMPT]“ erstellen? Ich plane, diese Überschriften für Google Ads zu verwenden. 
 
-Gebe diese Liste in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift ausgegeben. Die Spaltenüberschrift soll auf Deutsch „Überschriften (max. 30 Zeichen)“ lauten. Die Spaltenüberschrift sollte in die „[TARGETLANGUAGE]“ übersetzt werden.
+Gebe diese Listen in Form von Tabellen aus. Jede Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift ausgegeben.
 
-Können Sie mir bitte eine weitere Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils maximal 60 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+Die erste Liste soll 30 Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils 20 bis 30 Zeichen inklusive Leerzeichen lang sind? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Spaltenüberschrift soll auf Deutsch „Überschriften (max. 30 Zeichen)“ lauten. Die Spaltenüberschrift sollte in die „[TARGETLANGUAGE]“ übersetzt werden.
 
-Könnten Sie mir bitte eine Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils mindestens 60 und maximal 90 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+Können Sie mir bitte eine weitere Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils 30 bis 60 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
+
+Könnten Sie mir bitte eine Liste mit 30 knackigen Überschriften zum Thema „[PROMPT]“ erstellen, die jeweils mindestens 70 und maximal 90 Zeichen inklusive Leerzeichen haben? Ich plane, diese Überschriften für Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige Überschrift bzw. Headline. Die Spaltenüberschrift soll „Longheadlines & Descriptions (max. 60 Zeichen)“ lauten.
 
 Das Ergebnis sollte in der Sprache „[TARGETLANGUAGE]“ ausgegeben werden.
 

@@ -1,0 +1,18 @@
+AuthorName: Vishal Dave
+AuthorURL: https://meetanshi.com/
+
+Title: Topical Gaps Finder by Article Outline
+Category: writing
+Teaser: Find content gaps in your [Article Outline] and analyze it for comprehensiveness.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T04:34:06.954Z
+Help: 
+ID: 1802167744532307968
+PromptHint: [Article Outline - List of the Headers]
+PromptPackageID: 0
+
+Prompt:
+Pretend like you are an SEO specialist and can write high-value articles that cover every aspect of the topic. Analyze the following content outline, and find out the topical gaps in it:
+[PROMPT]
+I want the output in [TARGETLANGUAGE]

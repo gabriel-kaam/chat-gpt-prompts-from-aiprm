@@ -1,0 +1,16 @@
+AuthorName: Carsten Icks
+AuthorURL: https://icksmedia.de
+
+Title: chatgtp4 seo optimized article
+Category: writing
+Teaser: CHATGTP4 optimized SEO article writing. Creates a full SEO article for your topic and keyword. You can define additionel terms to be included in the article for TF IDF optimization.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-14T21:01:37.615Z
+Help: 
+ID: 1801329096219955200
+PromptHint: Insert [KEYWORD]. Give some "context:" and add a "termlist:" with additional terms (TF-IDF)
+PromptPackageID: 0
+
+Prompt:
+Add the following into the [PROMPT]: I want you to be a professional copywriter with SEO skills. Write a full SEO article for the [KEYWORD] provided. Take the [CONTEXT] into account. Use the terms that are provided as a [TERMLIST] and inlcude them in the copy multiple times, using the technique TF-IDF. Include Title. Include Meta Description. Start with h1 headline and a table of contents with the outline of the article. Make sure that the output of the table of contents is in html and not converted to a link, so that the chat.opeinai.com  Domain is not part of the Link. Now create at least 10 sub headlines and use h2, h3 and h4 headlines to structure the page. Then write at least 150 words for every single sub headline, sot the complete text should be at least 2000 words long. Use the provided [KEYWORD] at least 10 times in the whole article and also in at least 3 headlines including the h1. Add an FAQ section with at least 5 questions at the end of the article. make suggestions for at least five headlines for additional related articles that could dive deeper into the topics, but don't include these suggestions in the article outline. Write in [TARGETLANGUAGE]. 

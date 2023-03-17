@@ -1,0 +1,25 @@
+AuthorName: Adrian Górak
+AuthorURL: https://www.buymeacoffee.com/adriangorak
+
+Title: Professional Newsletter Generator
+Category: writing
+Teaser: Quickly create professional newsletter for your company on any topic.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-15T18:02:17.286Z
+Help: 
+ID: 1801646351994576896
+PromptHint: [Company name], about [Topic].
+PromptPackageID: 0
+
+Prompt:
+Create interesting and unique newsletter for a company [PROMPT] In [TARGETLANGUAGE].
+
+You must emphasize the Title, Headline, and Content using bigger fonts
+
+Answer should include:
+**Title** (clickbaity e-mail title, include emojis, include company name) - 
+**Header** (short header) - 
+**Content** (e-mail body of the newsletter, also include emojis) - 
+
+Do not create your own promotions unless its in prompt.

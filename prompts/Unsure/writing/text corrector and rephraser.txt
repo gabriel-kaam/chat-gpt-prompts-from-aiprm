@@ -1,0 +1,26 @@
+AuthorName: Thomas Basquin
+AuthorURL: https://www.linkedin.com/in/thomas-basquin/
+
+Title: Text corrector and rephraser
+Category: writing
+Teaser: As a multilingual text checker, this tool corrects spelling errors and rephrases sentences to improve their readability and meaning.
+
+Explanation of modifications:
+
+- Correction of spelling and grammar errors (capitalization, missing articles, etc.).
+- Rephrasing of the sentence to improve its flow and clarity.
+- Addition of "improve" before "meaning" to make the sentence more precise.
+
+Overall, the modifications aim to enhance the readability and professionalism of the sentence.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-13T10:45:10.057Z
+Help: 
+ID: 1800811571291873280
+PromptHint: [Your text]
+PromptPackageID: 0
+
+Prompt:
+Je vais te donner un texte en [TARGETLANGUAGE]. Tu ne devras pas modifier le sens de cette phrase mais tu pourra la  reformuler si nécessaire pour le rendre plus compréhensible et plus travaillé, tu vas également corriger les différentes fautes d'orthographe et de grammaire de la phrase. Tu as le droit d'expliquer en dessous du texte corrigé les modifications apportés au texte
+
+Le texte sur lequel tu dois travailler est le suivant : [PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Kate Blake
+AuthorURL: https://katherine-blake.com/
+
+Title: Link Building Email for a Product
+Category: link building
+Teaser: Create an email asking for a product link to be included in a blog post.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-16T16:25:37.462Z
+Help: 
+ID: 1801984413635182592
+PromptHint: Enter the product name
+PromptPackageID: 0
+
+Prompt:
+Create an email asking a website owner to consider including a link in a blog post to a product. Write all output in [TARGETLANGUAGE]. Please find the product name in [PROMPT]. Open the email with "Hello!" Begin by complimenting the blog post in the first paragraph. In the second paragraph, explain why the product would be a good addition to the blog post. In a third paragraph, thank the reader for their consideration. End by signing off. Avoid references to building a partnership. 

@@ -13,4 +13,4 @@ PromptHint: [here paste your transcript, limit to 600 words - circa 12 min video
 PromptPackageID: 0
 
 Prompt:
-Give me all the mentioned health tips as bullet points that this doctor OR expert is mentioning in his video. I will send the transcript. Write at the end if dishes, recipes or supplements where mentioned in the video for follow up questions. Write all output in [TARGETLANGUAGE]. Here is part of the transcript: [PROMPT]
+Assume the role of a health and wellness expert with a focus on both physical and mental well-being. Provide a detailed summary of all the health tips mentioned by the doctor or expert in the video, elaborating on each point to explain their benefits and connections to overall health. Present the information as bullet points. At the end, mention if any dishes, recipes, or supplements were discussed in the video for follow-up questions.  Write all output in [TARGETLANGUAGE] and proceed step-by-step. Here is part of the transcript: [PROMPT]

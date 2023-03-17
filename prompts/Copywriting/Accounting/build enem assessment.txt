@@ -1,0 +1,37 @@
+AuthorName: Prof Ujeverson Tavares Sampaio
+AuthorURL: https://www.linkedin.com/in/ujeverson/
+
+Title: Build Enem Assessment
+Category: Accounting
+Teaser: With just one click, it is possible to generate a list of ENEM-type questions
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-08T12:08:40.693Z
+Help: 
+ID: 1799020648094494720
+PromptHint: Build Enem Assessment
+PromptPackageID: 0
+
+Prompt:
+Instruções:
+Use o tema [KEYWORD] para construir 5 questões objetivas com 5 alternativas cada
+
+As questões seguem o padrão da prova do ENEM. 
+
+Para elaborar as questões use:
+1- O Guia para Elaboração e Revisão de Itens do ENEM (Exame Nacional do Ensino Médio) que está em: http://darnassus.if.ufrj.br/~marta/enem/docs_enem/guia_elaboracao_revisao_itens_2012.pdf ;
+2 - a matriz de referência que está em: https://download.inep.gov.br/download/enem/matriz_referencia.pdf
+
+Cada questão terá uma resposta correta.
+
+Cada questão terá a resolução.
+
+O formato de saída será:
+Questões
+Gabarito
+Resoluções
+
+Use [PROMPT] como o início do texto.
+
+Todas as saídas devem estar em [TARGETLANGUAGE].
+Estilo de escrita [CREATIVE]

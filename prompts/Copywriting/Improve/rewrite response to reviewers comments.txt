@@ -1,0 +1,18 @@
+AuthorName: Zhuofu Pan
+AuthorURL: https://github.com/zhuofupan
+
+Title: Rewrite Response to Reviewer's Comments
+Category: Improve
+Teaser: Rewrite Your Response to Reviewer's Comments
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T09:41:24.491Z
+Help: 
+ID: 1802245077167497216
+PromptHint: [Reviewer's Comment and Your Original Response]
+PromptPackageID: 0
+
+Prompt:
+I need to respond to reviewers' comments in order to meet the publication standards of IEEE Transactions journals. I need you to act as an [TARGETLANGUAGE] translator, spelling proofreader, grammar checker, and rhetorical improver. I will give you the reviewer's comment and my original response. Your task is to rewrite my response in more elegant and polished [TARGETLANGUAGE], making sure the rewriten sentences more friendly and academic. The reviewer's comment and my original response is:
+
+[PROMPT]

@@ -1,5 +1,5 @@
 AuthorName: lorro
-AuthorURL: https://no.site
+AuthorURL: https://laurentvandessel.be
 
 Title: Detailed product review
 Category: Products
@@ -21,7 +21,7 @@ The content should be at least 1000 words long. Write the content in a conversat
 
 Don't write in a commercial centric tone of voice, but a trustworthy tone of voice. You are not an owner of the product but you did have the chance to test it extensively. Make it personal. Don't mention explicitly you tested the product yourself. Don't mention you're a professional copywriter. Do not greet the reader.
 
-Explain everything very clearly like you would be talking to a newbie who doesn't know the product. Don't use words like impressive or fantastic. Write the product review in the informal "you" form of address. You are allowed to express personal feelings about the product. Make a comparison with other similar products you have used in the past and how they relate to the reviewed product in terms of user experience.
+Explain everything very clearly like you would be talking to a newbie who doesn't know the product. Don't use words like impressive or fantastic. Write the product review in the informal "you" form of address. You need to express personal feelings about the product. Make a comparison with other similar products you have used in the past and how they relate to the reviewed product in terms of user experience. 
 
 I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other websites. 
 Write a long, fully markdown formatted article in [TARGETLANGUAGE]. The article should contain rich and comprehensive, very detailed paragraphs, with lots of detailed information. Content should be written in the informal "you" form of address.
@@ -32,4 +32,4 @@ Do not echo my prompt. Let the article be a long form product review. Do not rem
 
 The content should be closed with a pros & cons section without headings, highlighting 3 pros and 1 cons in a list. Don't output a heading for the pros or the con. The output should be written in [TARGETLANGUAGE]. Don't write a conclusion paragraph.
 
-The product review should use the given product information below: [PROMPT]
+The product review should use the given product information below: [PROMPT]. Don't use the same headings and subheadings as the given product information. Mix the content a little bit. Please don't use the exact same document structure.

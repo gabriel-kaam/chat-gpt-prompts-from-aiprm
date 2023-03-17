@@ -1,0 +1,18 @@
+AuthorName: Shiftbase
+AuthorURL: https://www.shiftbase.com
+
+Title: Backlink suggestions
+Category: link building
+Teaser: Create internal and external backlinks for your blog articles. Only for ChatGPT 3.5.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-16T14:52:21.643Z
+Help: 
+ID: 1801960943069163520
+PromptHint: [Paste website url]
+PromptPackageID: 0
+
+Prompt:
+Google values outbound links. I'll give you a link to a good blog. For this blog, I want a table containing internal links, external deeplinks and in the last column the anchor text. 
+Here is the link: [PROMPT]
+Write the output in [TARGETLANGUAGE]

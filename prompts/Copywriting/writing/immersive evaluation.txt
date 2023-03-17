@@ -1,0 +1,36 @@
+AuthorName: Greg
+AuthorURL: https://gregreichedesign.com/
+
+Title: immersive evaluation 
+Category: writing
+Teaser: Help you make engaging evaluation from the primary document .
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T06:36:07.69Z
+Help: 
+ID: 1801473674193399808
+PromptHint: Provide the source text.
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. Write two multiple-choice questions along with the correct answer from the 'source text' given in [PROMPT]. Write in easy, conversational language. Avoid using jargon. Each question should come with 4 multiple choices. The distractor should be plausible and written in a logical order. All the options should be mutually exclusive and should have similar length and complexity. All the options should be less than 5 words. Read the [PROMPT] and determine which questions to write that will helpful for students to learn the concept written in the [PROMPT]. Write question in WH Format. Write in Active Tone. Use the same format and wording for all questions to reduce confusion The question must be clear and directly related to the source text, and the options are specific and relevant. Here is an example.
+
+Source text: A person's thoughts and communication style can be processed in three different ways according to Neuro-linguistic programming (NLP): visually, auditorily, and kinaesthetically. A good administrative assistant will be able to recognise each type of personality and communicate more effectively once they have a clear understanding of these three characteristics.
+Based on their body language and the language they use, an administrative assistant can determine whether people communicate visually, auditorily or kinaesthetically:
+Visual:
+The visual person processes their world through pictures and what they see, which also includes using pictures in decision-making. It is common for visual people to look up when they speak or think (as they see imaginary pictures in front of them in the air).
+Auditory:
+A person with an auditory sense organises the world around them and makes decisions based on what they hear. It is common for them to look down horizontally while listening, and they also put their head to one side.
+Kinaesthetic:
+People who are kinaesthetic make decisions based on their feelings. Their eyes drop down to the ground when they hear someone talk to them.
+
+Question: What are the ways of processing a person’s thoughts and communication style according to NLP?
+Options: a) Visual
+b) Auditory
+c) Kinaesthetics
+d) Above all
+Correct answer: Above all
+
+The text to write is this:
+
+[PROMPT}

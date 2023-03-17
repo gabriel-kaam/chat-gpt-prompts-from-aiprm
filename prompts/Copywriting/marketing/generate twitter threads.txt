@@ -1,0 +1,18 @@
+AuthorName: Jumma
+AuthorURL: https://www.buymeacoffee.com/jumma
+
+Title: Generate Twitter Threads
+Category: marketing
+Teaser: Want to create engaging Twitter threads but don't have the time? Let our AI-powered Twitter Thread Generator Prompt do the heavy lifting for you! Our Prompt can quickly and efficiently create a series of tweets that flow seamlessly together and keep your followers engaged.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T13:45:50.628Z
+Help: 
+ID: 1801219427803586560
+PromptHint: [insert topic here].
+PromptPackageID: 0
+
+Prompt:
+Act as if you're a social media expert. Give me a 10 tweet thread about [PROMPT] The thread should be optimized for virality and contain hashtags and emoticons. Each tweet should not exceed 280 characters in length.
+please respond in [TARGETLANGUAGE]
+

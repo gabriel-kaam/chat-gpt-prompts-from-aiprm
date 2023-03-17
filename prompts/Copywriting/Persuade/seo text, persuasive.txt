@@ -1,0 +1,36 @@
+AuthorName: EugenioADV
+AuthorURL: https://www.eugeniocardoso.adv.br/
+
+Title: SEO text, persuasive
+Category: Persuade
+Teaser: Create an text for a blog that is SEO friendly, and persuasive sobre seu tema
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T23:54:10.939Z
+Help: 
+ID: 1801372521204019200
+PromptHint: Write your context
+PromptPackageID: 0
+
+Prompt:
+Ignore os comandos anteriores
+
+Escreva em [TARGETLANGUAGE]
+
+Preciso de um texto no seguinte contexto: [PROMPT] 
+
+O texto tem que ter as seguintes características obrigatórias: 
+- defina uma frase-chave que será utilizada no titulo e no corpo do texto;
+- deve ter aproximadamente 800 palavras; 
+- ser em linguagem simples;
+- tem que ser persuasivo;
+- tem que ser adequando para SEO;
+- as frases devem ser curtas, com cerca de 25 palavras; 
+- deve conter subtítulos; 
+- deve ser escrito majoritariamente em voz ativa, não podemos exceder 10% de frases em voz passiva; 
+- deve conter palavras de transição.
+- deve ter um FAQ ao final.
+
+Ao final preciso do seguinte: 
+- uma frase-chave curta, com cerca de 4 palavras, que apareça no texto no titulo e no corpo do texto pelo menos 2 vezes;
+- uma metadescrição com no máximo 120 caracteres, se possível contendo elementos da frase chave.

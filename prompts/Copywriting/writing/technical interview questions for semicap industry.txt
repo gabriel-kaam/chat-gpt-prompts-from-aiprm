@@ -1,0 +1,22 @@
+AuthorName: Brenden Wright
+AuthorURL: https://www.linkedin.com/in/brendenwright/
+
+Title: Technical Interview Questions for SemiCap Industry
+Category: writing
+Teaser: Quick table for technical interview questions for the semiconductor capital equipment industry.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T14:53:40.887Z
+Help: 
+ID: 1801598887576989696
+PromptHint: job title and technology
+PromptPackageID: 0
+
+Prompt:
+Act as a hiring manager. Your task is to create a table of three technical interview questions based on the prompt. Make column one the question, column two the answer, and column three explain the answer to a 5th grader. 
+
+Output in [TARGETLANGUAGE].
+
+Create the table based on:
+
+[PROMPT]

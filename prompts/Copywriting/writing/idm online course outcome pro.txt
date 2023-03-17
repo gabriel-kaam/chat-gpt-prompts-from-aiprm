@@ -1,0 +1,85 @@
+AuthorName: IDM Instructional Design Mastery
+AuthorURL: https://idmastery.com
+
+Title: IDM Online Course Outcome Pro
+Category: writing
+Teaser: Create a professional course outcome for your online course based on instructional design principles.
+
+Generates a script-like course outcome (e.g. for use in an audio or video), a more compact version (e.g. for written web use), and an outcome-based course teaser.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T23:17:54.247Z
+Help: 
+ID: 1802088167231459328
+PromptHint: [Enter the title and/or description of your online course]. 
+PromptPackageID: 0
+
+Prompt:
+You are an unique expert in instructional design. One of your core fields of interest are highly structured, consistent and measurable course outcomes for online courses.
+
+Here's important things for you to know:
+
+#1 A course outcome for an online course is defined as the knowledge, skills and mindset a student will gain when completing the respective course. 
+
+#2 Action verbs aka dynamic verbs describe activities, that can be be observed by a 3rd party when done by someone. Example: The verb "understand" is not a action verb, because you can not observe if a person understands something. In contrast "make an example" or "describe" are categorized as action words, because you can observe that the person does it, measure how good the person does it and get evidence if the person understands a topic. Other often used non-action verbs are "know", "learn".
+
+#3 Please note that the following output includes a fixed disclaimer that will be mentioned in the prompt on top of your output. Disclaimer: *** Important note: Due to the nature of Natural Language Processing (NLP) and the model of ChatGPT, you may need to revise the output slightly. Please replace verbose phrases such as «You will be able to create…» with «You will create…» to make the outcome fully observable and measurable. Other examples: «You will develop the skills to analyze…» -> «You will analyze…», «You will learn how to build…» -> «You will build…». ***
+
+Then, Please draft the detailed course outcome  in [TARGETLANGUAGE]  for an online course entitled [PROMPT]. Don't put out the draft, but keep it in mind.
+
+Use action verbs. Do not use  non-action verbs such as 'know', 'understand', 'be able to', 'learn' in the detailed course outcome. Instead, please use action verbs from this lists for knowledge, skills, and mindset. 
+
+Action verbs for KNOWLEDGE: Define, Characterize Describe, Classify Identify, Convert Label, Defend List, Discuss Name, Distinguish Recognize, Establish Recall, Estimate Repeat, Explain State, Express, Extend, Generalized, Illustrate, Indicate, Infer Locate, Paraphrase, Predict, Recognize, Relate, Review, Rewrite, Summarize, Translate 
+
+Actions verbs for SKILLS: Apply, Analyze, Arrange, Appraise, Change, Appraise, Assemble, Argue, Choose, Breakdown, Collect, Assess, Compute, Calculate, Combine, Choose, Demonstrate, Categorize, Comply, Compare, Discover, Compare, Compose, Conclude, Dramatize, Contrast, Construct, Contrast, Employ, Criticize, Create, Defend, Interpret, Diagram, Design, Describe, Manipulate Model Modify Operate Practice Predict Prepare Produce Relate Schedule Show Sketch Solve, Use Write, Differentiate Discriminate Distinguish Examine Experiment Identify Illustrate Infer, Model Outline Point out Question Relate Select Separate Subdivide Test, Develop Devise Explain Formulate Generate Plan Prepare Rearrange Reconstruct Relate Reorganize Revise Rewrite, Set up Synthesize Tell, Write, Discriminate Estimate Evaluate Explain Interpret Judge, Justify Predict Rate Relate Select Support Value
+
+Actions verbs for MINDSET: adopt, reframe, criticize, evaluate, order, appraise, judge, support, compare, decide, discriminate, recommend, summarize, assess, choose, convince, defend, estimate, grade, measure, predict, rank, score, select, test, argue, conclude, consider, critique, debate, distinguish, editorialize, justify, persuade, rate, weigh, Ask, Acknowledge, Attend, (to), Follow, Listen, Meet, Observe, Receive	Agree, Allow, Answer, Ask, Assist, Attempt, Choose, Communicate, Comply, Conform, Cooperate, Demonstrate, Describe, Discuss, Display, Exhibit, Follow, Give, Help, Identify, Locate, Notify, Obey, Offer, Participate, (in), Present, Read, Relay, Reply, Report, Respond, Select, TryAdopt, Aid, Care, (for), Complete, Complement, Contribute, Delay, Encourage, Endorse, Enforce, Evaluate, Expedite, Foster, Guide, Initiate, Interact, Join, Justify, Maintain, Monitor, Praise, Preserve, Propose, Query, React, Respect, Seek, Share, Study, Subscribe, Suggest, Support, Thank, Uphold	Anticipate, Collaborate, Confer, Consider, Consult, Coordinate, Design, Direct, Establish, Facilitate, Follow, through, Investigate, Judge, Lead, Manage, Modify, Organize, Oversee, Plan, Qualify, Recommend, Revise, Simplify, Specify, Submit, Synthesize, Test, Vary, Weigh, Act, Administer, Advance, Advocate, Aid, Challenge, Change, Commit, (to), Counsel, Criticize, Debate, Defend, Disagree, Dispute, Empathize, Enhance, Excuse, Forgive, Influence, Motivate, Negotiate, Object, Persevere, Persist, Praise, Profess, Promote, Promulgate, Question, Reject, Resolve, Seek, Serve, Strive, Solve, Tolerate, Volunteer
+
+Start KNOWLEDGE with "By completing this course,…", SKILLS with «You will…» and MINDSET with «During this course…». Talk directly to the learner. 
+
+Revise your draft. Replace verbosely phrases such as 'you will be able to', 'you will develop the skills to…', 'you will learn to…', 'You will apply your knowledge to…'. 
+Avoid writing verbosely. You will write in a very direct straight-forward style. Just use 'you will' + an action/dynamic verb. 
+Put out this header:
+
+*** Important note: Due to the nature of Natural Language Processing (NLP) and the model of ChatGPT, you may need to revise the output slightly. Please replace verbosely phrases such as «You will be able to create…» with «You will create…». Other examples: «You will develop the skills to analyze…» -> «You will analyze…», «You will learn how to build…» -> «You will build…». ***
+
+Put out the revised draft.
+
+
+Watch out that KNOWLEDGE, SKILLS and MINDSET sections are all about the same length. 
+
+I a second step shorten the detailed course outcome down to the compact course outcome, stripping out personal addresses such as "You will", "By completing this course, you will be able to" etc. Keep the verbs.
+
+Finally write a short outcome-based course teaser in one sentence. Make sure that all 3 aspects are covered in the teaser as well. Do not the verb "learn" the outcome-based course teaser.
+
+
+Here's an structure example:
+
+// YOUR COURSE TITLE OR DESCRIPTION //
+Manage Your Personal Finance
+// DETAILED COURSE OUTCOME //
+
+KNOWLEDGE
+By completing this course, you will recall personal finance management principles and techniques, including budgeting, saving, investing, debt management, and retirement planning.
+
+SKILLS
+You will develop the skills to create and maintain a personalized financial plan, track and analyze personal spending, optimize savings and investments, and effectively manage debt.
+
+MINDSET
+During the course you will adopt a proactive and disciplined approach to personal finance, valuing financial literacy, and taking responsibility for their financial well-being. Strive for long-term financial stability and resilience through informed decision-making and prudent financial management practices.
+
+// COMPACT COURSE OUTCOME //
+
+KNOWLEDGE
+Gain a comprehensive understanding of personal finance management principles and techniques, including budgeting, saving, investing, debt management, and retirement planning.
+
+SKILLS
+Develop the skills to create and maintain a personalized financial plan, track and analyze personal spending, optimize savings and investments, and effectively manage debt.
+
+MINDSET
+Adopt a proactive and disciplined approach to personal finance, valuing financial literacy, and taking responsibility for their financial well-being. Strive for long-term financial stability and resilience through informed decision-making and prudent financial management practices.
+
+// OUTCOME-BASE COURSE TEASER //
+
+Gain knowledge and skills to effectively manage personal finances and develop a proactive and disciplined mindset towards financial management for long-term stability and resilience.
+

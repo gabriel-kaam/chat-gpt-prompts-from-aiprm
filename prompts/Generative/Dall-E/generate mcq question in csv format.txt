@@ -1,0 +1,17 @@
+AuthorName: GyanOk Team
+AuthorURL: https://gyanok.com
+
+Title: Generate MCQ question in csv format
+Category: Dall-E
+Teaser: Generate  MCQ question in csv format by gyanok.com
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-16T09:55:02.492Z
+Help: 
+ID: 1801886120246763520
+PromptHint: [Type Category]
+PromptPackageID: 0
+
+Prompt:
+generate 25 [KEYWORD] multiple-choice questions with four options  and corresponding answers (1, 2, 3, 4) in a csv format [TARGETLANGUAGE]
+ [PROMPT]

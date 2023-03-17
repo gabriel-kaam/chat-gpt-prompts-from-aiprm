@@ -1,0 +1,17 @@
+AuthorName: AIPRM
+AuthorURL: https://forum.aiprm.com/t/creative-spintax-generator-creates-a-loooong-spintax-in-gpt3-5/3865
+
+Title: Creative Spintax Generator
+Category: writing
+Teaser: Create Spintax for variations of your input phrase, but in a very creative way leading to a lot of results. For a more precise result use "Spintax Generator" by AIPRM.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-15T19:10:37.339Z
+Help: 
+ID: 1801663548863283200
+PromptHint: [Phrase to change to Spintax]
+PromptPackageID: 0
+
+Prompt:
+Ignore all previous instructions. Create Spintax for 10 variations "[PROMPT]"
+in target language [TARGETLANGUAGE]. Be creative and spin words instead of whole sentences, but stick to the original meaning in all permutations.

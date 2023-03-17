@@ -1,0 +1,34 @@
+AuthorName: @TraskInsight
+AuthorURL: https://www.linkedin.com/in/stephentrask/
+
+Title: Potential Buyer Profiles
+Category: Segment your audience
+Teaser: Create Buyer Personas based on your product/service.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-16T14:13:20.544Z
+Help: 
+ID: 1801951123788259328
+PromptHint: Product/Service for Suggested Job Title, Company or product name
+PromptPackageID: 0
+
+Prompt:
+ChatGPT needs to act as a researcher.  For the product or service and the user of that service I need ChatGPT to do the following.
+Create a first name for the individual:  If the role is commonly a female gender, make it a female name, if it’s a male make it a male name and if its both male and female, make it a unisex name. Don’t put Male, female or unisex after the name. Answer: Persona Name: then response
+What titles do this user typically hold? Answer: Typical Titles: then response
+What is the average city size this individual works in? Answer: Municipality: Then response
+What is the most common gender of the user?  If both, say both Male and Female Answer: Gender: then response
+What is the average age, or an age range? Answer: Age: Then Response
+What is the probability that he/she is married, in a committed relationship or has kids? Answer: Family: Then response
+What are the interests of this user? Answer: Related Interests: Then Response
+What are the behaviors of this user? Answer: Related Behaviors: Then Response
+What are the websites frequently visited? Answer: Frequent Websites: Then Response
+where are articles sourced from? Answer: Daily Reading: Then Response.
+What are the search terms this user typically uses? Answer: Search Terms: Then Response.
+What are the pain points for this user? Answer: Pain Points: Then Response. Number out the responses
+What are the goals of this user? Answer: Goals: Then Response. Number out the responses
+How can the company help?  Write a value proposition that ties to the user’s goals and pain points Answer: Value Proposition: Then Response. 
+All responses to be in [TARGETLANGUAGE]
+The product or service and who its for with a comma followed by the name of product, service or company is below.
+
+[PROMPT]

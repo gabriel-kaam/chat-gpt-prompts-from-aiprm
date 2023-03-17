@@ -1,0 +1,16 @@
+AuthorName: Bernie Torras
+AuthorURL: https://www.bernietorras.com
+
+Title: Publishing Calendar
+Category: ideation
+Teaser: Create an Editorial Calendar for a niche keyword
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-15T14:52:04.592Z
+Help: 
+ID: 1801598483686490112
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+I would like you to help me create a content calendar in [TARGETLANGUAGE] for my blog that has the best chance of helping me rank for long tail keywords that are specific to my main keyword. In the next section, please use transactional style search terms, only. Please generate inviting blog titles for these posts based on [PROMPT]. Please arrange each blog title in a well-organized table so that it looks like a calendar. Each week should be separated into its own table. Above the table, say 'BERNIE TORRAS CONTENT EDITORIAL CALENDAR FOR KEYWORD' and replace 'KEYWORD' with the keyword provided at the prompt in capital letters. On the next line, say 'For more information about us, visit www.bernietorras.com.' Then, below the table, say 'If you liked this prompt, please give it a 'Like' on the prompt's search page for further improvement. - bernietorras.com'

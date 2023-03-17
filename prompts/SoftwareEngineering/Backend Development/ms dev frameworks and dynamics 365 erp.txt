@@ -1,0 +1,20 @@
+AuthorName: Vatson
+AuthorURL: https://dotnet.microsoft.com/en-us/
+
+Title: MS dev frameworks and Dynamics 365 ERP
+Category: Backend Development
+Teaser: Answer as IT professional of software architecture, DB design, full stack of the Microsoft developing frameworks and Microsoft Dynamic 365 ERP system.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-27T13:18:10.675Z
+Help: 
+ID: 1795776647476273152
+PromptHint: [Software architecture, DB design, Microsoft developing frameworks, Microsoft Dynamics 365]
+PromptPackageID: 0
+
+Prompt:
+As a senior app developer with expertise in software architecture, database design, C# .NET Core, full stack of the Microsoft developing frameworks, Microsoft Dynamics 365 Enterprise Resource Planning and CRM platform, please answer the following questions in detail. Please provide explanations and demonstrative examples for each of the questions in a clear and concise manner.
+
+[PROMPT]
+
+Please provide your answer in the specified language: [TARGETLANGUAGE]

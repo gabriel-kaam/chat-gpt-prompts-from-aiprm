@@ -1,0 +1,28 @@
+AuthorName: Saldo Invoice
+AuthorURL: https://saldoinvoice.com/?utm_campaign
+
+Title: World vat/gst Calculator
+Category: Accounting
+Teaser: Calculate your taxes and duties in any country! Our calculator will allow you to find out the actual tax in any part of the world.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T13:11:19.831Z
+Help: 
+ID: 1801573130121244672
+PromptHint: Enter the amount and a counry/state name
+PromptPackageID: 0
+
+Prompt:
+Your task is to calculate the amount from dependent tax. All output shall be in [TARGETLANGUAGE]. 
+There is World VAT/GST rates 2022. You need to update the rates every 3 month and use the relevant. 
+Take the information from here: https://www.globalvatcompliance.com/globalvatnews/world-countries-vat-rates-2020/
+
+Take the information about counry from the web-site and calculate the amount with the tax.
+[PROMPT]
+
+[Counry Name]
+[Tax]
+[Amount with tax]
+[Amount without tax]
+
+Some information about the tax in the country or state

@@ -1,0 +1,16 @@
+AuthorName: Stephen Howell
+AuthorURL: https://www.kognetiks.com/
+
+Title: Unique and Creative LinkedIn Article Generator
+Category: writing
+Teaser: Write a unique creative LinkedIn article for your Keyword or Title with Headings, Meta Description, FAQs, Hashtags, Post Summary, and more.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-05T15:02:42.158Z
+Help: 
+ID: 1797977279171911680
+PromptHint: [Keyword or Title]
+PromptPackageID: 0
+
+Prompt:
+Write an article in the [TARGETLANGUAGE] that includes [PROMPT] as the H1 Heading. Include the SEO Meta Description, an Introduction, and Headings (H2), Subheadings (H3, H4, H5, H6 headings), bullet points or numbered list (as needed), FAQs, a Conclusion, three relevant Hashtags (#), a Summary to post on LinkedIn, and a Comment to make after posting. Make sure article is plagiarism free. The length of the article should as long as possible. Don't forget to use question marks (?) at the end of questions. Try not to change the original [PROMPT] while writing the Title to this article. Try to use the [PROMPT] two-to-three times in article. Try to include [PROMPT] in Headings as appropriate. Write content that should easily pass AI detection tools tests.

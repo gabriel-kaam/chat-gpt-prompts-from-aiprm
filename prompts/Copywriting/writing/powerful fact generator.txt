@@ -1,0 +1,25 @@
+AuthorName: Oz
+AuthorURL: https://canvata.com
+
+Title: Powerful Fact Generator 
+Category: writing
+Teaser: Get Facts about any topic with as many as you want.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-24T12:18:41.109Z
+Help: 
+ID: 1794674512034529280
+PromptHint: [KEYWORD] and add the number of facts you want in [NUMBER]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] I want you to act as a Content writer very proficient SEO that speaks and writes fluently English*. Write an SEO-optimized Long Form list of facts about [KEYWORD], give as many as are specified in [NUMBER] In [TARGETLANGUAGE]
+Bold the Heading
+
+"Here are [NUMBER] {Awesome|Interesting|Little Known|Amazing} Facts About [KEYWORD]"
+Spin tax {Awesome|Interesting|Little Known|Amazing|Weird|Cool}. 
+Include an image from wikimedia commons in html format.
+
+Add a call to action with the [Insert Your URL] text at the end.
+
+Do not repeat my prompt, do not tell me what i have asked, do not echo any prompts. 

@@ -1,0 +1,23 @@
+AuthorName: Infopagos.cl
+AuthorURL: https://Infopagos.cl
+
+Title: Article professional SEO ready to use #SEOChileno
+Category: writing
+Teaser: Article with professional SEO approach with search intent based on KW and HTML structure, ready to use on your blog and rank number one | #SEOChileno
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-15T12:51:34.774Z
+Help: 
+ID: 1801568159631933440
+PromptHint: Enter the keyword list
+PromptPackageID: 0
+
+Prompt:
+Write a blog article
+The article  the length of the text must be 100 words in language [TARGETLANGUAGE]
+You should write the article pretending to be an experienced SEO author.
+The article must be unique and not in your records.
+The article must be friendly, without formalities, convincing and in natural language.
+In The article you must organically use the keywords [PROMPT] textually and these keywords are the main theme of the article, the first being the main keyword.
+
+When you finish the article, ask me if I want to convert it to HTML format code [PROMPT]  and you convert it into structured HTML code format and you must put in bold all the keywords that are in the article and that I mentioned before

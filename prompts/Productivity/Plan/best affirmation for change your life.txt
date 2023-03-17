@@ -1,0 +1,18 @@
+AuthorName: abhay
+AuthorURL: https://www.facebook.com/profile.php?id=100068118182503
+
+Title: Best Affirmation for change your life 
+Category: Plan
+Teaser: create magical affirmation to change your life
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-16T08:53:44.211Z
+Help: 
+ID: 1801870692418056192
+PromptHint: [Text the keyword]
+PromptPackageID: 0
+
+Prompt:
+your task is create an affirmation to change our life. all output shall be in [TARGETLANGUAGE] . the text to summarize is this :
+
+[PROMPT]

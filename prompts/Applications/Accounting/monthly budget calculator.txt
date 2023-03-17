@@ -1,0 +1,19 @@
+AuthorName: Financial App
+AuthorURL: https://saldofinanceapp.com/
+
+Title: Monthly Budget Calculator
+Category: Accounting
+Teaser: Create your best budget plan for a month with 50/20/30 rule !
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-03-12T10:58:07.484Z
+Help: 
+ID: 1800452444191461376
+PromptHint: [Monthly after-tax income]
+PromptPackageID: 0
+
+Prompt:
+Your task is calculate monthly budget use a 50/30/20 rule. 
+All output should be in [TARGETLANGUAGE]. 
+
+[PROMPT]

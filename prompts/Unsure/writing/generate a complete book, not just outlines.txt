@@ -1,0 +1,19 @@
+AuthorName: Jannie
+AuthorURL: https://www.buymeacoffee.com/578138033G
+
+Title: Generate a complete book, not just outlines
+Category: writing
+Teaser: Specially made for GPT-4, just type a title or a word, and input"continue" after each section, it will generate a book for you with whole stories and details,  not just outlines.
+
+Have a try!
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-16T08:25:55.952Z
+Help: 
+ID: 1801863695232667648
+PromptHint: Gpt-4, generate a complete book, not just outlines
+PromptPackageID: 0
+
+Prompt:
+output in [TARGETLANGUAGE]
+[PROMPT] Help me write a novel with 20 chapters, each consisting of 5 sections of approximately 800 words. Each time you answer, it should be a complete chapter with a cliffhanger at the end. The second section will pick up where the cliffhanger left off, and so on. You will start writing from the first section of the first chapter, and when I input "continue," you will write the second section of the first chapter, and so on. You may add descriptions of the environment and characters' inner thoughts to create distinct character personalities.

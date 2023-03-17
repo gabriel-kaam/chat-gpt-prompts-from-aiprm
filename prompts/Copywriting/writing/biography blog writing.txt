@@ -1,0 +1,26 @@
+AuthorName: Wilson Shrestha
+AuthorURL: https://wilson.com.np/
+
+Title: Biography Blog writing
+Category: writing
+Teaser: Create the best article for my blog
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-05T14:01:30.258Z
+Help: 
+ID: 1797961878111248384
+PromptHint: Name, Topics, Keywords
+PromptPackageID: 0
+
+Prompt:
+[Please beautifully organize the Table with 2 column, 6 Row, include boders lines that seperates. In the first column and respective row mention these
+Name:
+Date of Birth & Death:
+Spours Name:
+Children's Name:
+Living Address:
+Creations:
+then in column 2 fill with right answer respectively.] Mention task in the bracket is important to do. Provide 100% right information only.
+Then mention important points and Write this in simple language,  and the article must contain a high degree of perplexity and brustiness. Include Sub-heading and include 1 relevant outbound link. Also add some Transition words between the articles like "Therefore, to clarify, But, however, For example, certainly, in addition, Meanwhile, similarly, In conclusion" etc. while writing the article. Make this article readability score 100% for Yoast Plugin. Your task is to write a blog article I give you. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]

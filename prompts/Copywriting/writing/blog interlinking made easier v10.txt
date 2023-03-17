@@ -1,0 +1,33 @@
+AuthorName: Costantine Edward
+AuthorURL: https://twitter.com/EdwardCoster
+
+Title: Blog Interlinking Made Easier V.1.0
+Category: writing
+Teaser: Internal Linking is made easier, Just place your blog URLs and BOOM!! The prompt will create intros with contextual links.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T11:53:57.539Z
+Help: 
+ID: 1801553658937335808
+PromptHint: [Paste here your Blog URLs]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently English. Analyze the following list of blog URLs and determine their main topics. Then, create a blog introduction paragraph for each URL with two or three contextually relevant anchor texts that interlink the blogs to each other in a meaningful way. Start with the first URL, don't interlink it to its paragraph rather put only two anchor URLs from other URLs, and do the same for the rest of the URLs provided. 
+
+Instructions:
+
+Research the content of each URL to understand the main topic, key points, and relevance.
+Identify common themes or related subjects that can be used to create a contextual connection between at least two URLs.
+Write a captivating opening sentence that grabs the reader's attention and sets the tone for the rest of the paragraph.
+Craft the introduction paragraph by interweaving the chosen URLs into the narrative, making sure to maintain a natural flow and logical structure.
+Use descriptive language, engaging hooks, and thought-provoking questions to pique the reader's curiosity and motivate them to explore the linked content further.
+Ensure that the final paragraph has a cohesive and polished feel, and effectively introduces the content of the blog post while showcasing the value of the interlinked URLs.
+After writing the introduction paragraph remember to encourage readers to dive deep and explore more about the blog post
+
+Example of what I want you to write: 
+
+URL 1: Be specific here one URL at a time and don't skip any url
+Paragraph with anchor text and links
+
+[PROMPT]

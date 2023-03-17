@@ -1,0 +1,20 @@
+AuthorName: MXB Tech
+AuthorURL: https://mxbtech.ca/
+
+Title: Evaluate SEO Content
+Category: ideation
+Teaser: Paste your full article/page here to evaluate your content for SEO on a scale of 1 to 10, and to know the main keywords of this page
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-16T19:47:48.396Z
+Help: 
+ID: 1802035294460178432
+PromptHint: Paste the content or article here
+PromptPackageID: 0
+
+Prompt:
+étaillé distinct pour chaque produit recommandé.
+
+Les avis sur les produits utilisent souvent des liens d'affiliation vers des produits répertoriés sur un site d'e-commerce. Par conséquent, si un internaute trouve un avis utile et suit le lien fourni pour acheter le produit, le créateur de l'avis est récompensé par le vendeur. Consultez également l'article Position de Google concernant les programmes d'affiliation.
+
+Les avis sur les produits peuvent être d'une aide précieuse pour permettre aux internautes de choisir le produit qu'ils souhaitent acheter. Lors de leur rédaction, concentrez-vous sur leur qualité et leur authenticité, et non sur leur longueur, en suivant autant de bonnes pratiques que possible. Cette approche est sans conteste la plus bénéfique pour les internautes qui lisent vos avis.  Après avoir determiné les 5 points principaux, evalue moi cette article selon ces 5 critères et donne moi un note sur 10 pour chacun d'entre eux et donne moi les mots clés principales pour l'article complet. Repond moi en [TARGETLANGUAGE], voici l'article : [PROMPT]

@@ -1,0 +1,20 @@
+AuthorName: Mangaip Blog
+AuthorURL: https://www.mangaip.com
+
+Title: Best Outline For Blog V 1.0.0
+Category: writing
+Teaser: Best Outline Article For Blog, 100 % Unique with heading, sub heading and FAQs
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-17T05:50:25.171Z
+Help: 
+ID: 1792040086729383936
+PromptHint: [Insert Topic or Title]
+PromptPackageID: 0
+
+Prompt:
+Create long-form content outline in markdown [TARGETLANGUAGE]. The content outline should include a minimum of 20 headings and subheadings. The outline should be extensive and cover the whole topic. Use fully detailed subheadings that engage the reader. The outline should also have a conclusion followed by a list of FAQs relevant to the topic. Please provide a catchy title for the article. Don't write the article, only the outline for writers. The topic of the article is: [KEYWORD]
+
+On the last, write: Please visit my blog: https://www.mangaip.com
+
+[PROMPT]

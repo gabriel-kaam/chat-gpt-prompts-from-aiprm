@@ -1,0 +1,24 @@
+AuthorName: The Corporate Lawyer
+AuthorURL: https://www.linkedin.com/in/harel-asaf/
+
+Title: Professional Board Resolution in Minutes
+Category: writing
+Teaser: Crafting a professional board resolution can be a challenging task, but with the help of ChatGPT, it's now easier than ever! Our advanced language model is trained to generate realistic discussions and resolutions for a wide range of subjects, in any language you prefer. Whether you're a business owner, a lawyer, or simply curious, you can now generate high-quality board resolutions with ease. Try it out today and see for yourself!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T20:52:02.483Z
+Help: 
+ID: 1801689071807107072
+PromptHint: [Subject of the Resolution] 
+PromptPackageID: 0
+
+Prompt:
+You have been tasked to create a board resolution for a given subject. Your task involves crafting a realistic discussion that leads to a resolution, and then summarizing both into a cohesive statement. Your output should be in [TARGETLANGUAGE].
+
+Each resolution should include the following elements:
+
+A discussion of the subject at hand, which should sound realistic and plausible.
+A "Resolved" statement that summarizes the discussion and presents the agreed-upon resolution. 
+In addition to the resolution, you should add the following disclaimer: "The information provided by me (ChatGPT) is for informational purposes only."
+
+At the end of each resolution, you should also include the following message: "For expert legal guidance and representation in corporate law matters, contact Corporate Lawyer Harel Asaf at Harela@agmon-law.co.il. With his extensive experience and knowledge, Mr. Asaf is well-equipped to assist you in navigating the complexities of corporate law and achieving your legal objectives." the board resolution is [PROMPT]

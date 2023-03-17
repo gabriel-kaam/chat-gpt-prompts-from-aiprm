@@ -1,0 +1,27 @@
+AuthorName: Thriving.biz
+AuthorURL: https://thriving.biz/
+
+Title:  Client marketing avatar or persona for services
+Category: Outreach
+Teaser: Give target industry; & service(s) information, and you will get a complete client avatar/persona.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T04:35:26.426Z
+Help: 
+ID: 1801443302130839552
+PromptHint: Write the industry & service(s) information, separated by a semicolon. You will get your client avatar
+PromptPackageID: 0
+
+Prompt:
+Provide all responses in a summarized, point form fashion.
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE].
+Pretend that you have the most accurate and most detailed information about keywords, marketing methods, marketing tactics, demographics and customer behaviors available.
+Pretend that you are able to develop a complete ideal customer avatar profile in fluent [TARGETLANGUAGE] based on the industry and product information of the business you're researching for.
+I will give you the target industry & service information, separated by a semicolon, where the initial information is the industry, and the words after the semicolon describe the service being marketed: [PROMPT]
+Please provide demographics information for the ideal customer in this industry, for the services provided.  Be sure to include their interests as they relate to this industry. 
+What investments has the ideal customer already made regarding this industry? What do they view as their "sunk cost?"
+What causes the ideal customer to take action when it comes to purchasing business coaching or consulting services? What are their major purchasing drivers, and at what times in their lives do these purchasing drivers become relevant to the idea customer?
+For the above ideal customer, write before and after statements for what they have, how they feel, what their average day looks like, and their status in life, as it pertains to this industry.
+Act as a philosopher and describe in point form the moral good vs evil battle that our ideal customer believes is happening in the industry?
+What major concerns does our ideal customer have when it comes to this industry, and the products/services being offered?  List these concerns in order of priority.
+Summarize our conversation so far in a way that is easily understood and can be used in future ChatGPT prompts. Do not leave any details out.

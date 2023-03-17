@@ -1,0 +1,34 @@
+AuthorName: drewperd
+AuthorURL: https://www.7rise8.com
+
+Title: Email Copywriting Series Outline
+Category: marketing
+Teaser: Create an email marketing campaign outline for a specific product in a specific niche that solves a specific problem. 
+**To Use This Prompt:**
+Insert the Title of the product, the Niche that your product fills, the main Problem that your product solves, the Number of Emails you want in the series, and the Call To Action (what you want them to do - "sign up for our webinar", "check out the product page", "buy now", "buy now before time runs out", "learn more", etc)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T22:38:33.163Z
+Help: 
+ID: 1802078264127393792
+PromptHint: [Title, Niche, Problem, Number Of Emails In Series, Call To Action]
+PromptPackageID: 0
+
+Prompt:
+Write an OUTLINE with a main idea and bullet points for the email series below. 
+
+After you finish the outline of ALL emails, at the very bottom of the output, ask the question "Would you like me to write the first email?" 
+
+If the user wants you to write the full email, then after you write that email, and after each email after it, you are to ask "Would you like me to write the next next email?"
+
+Make it feels urgent and important and use a forceful tone with high certainty and authority. Include more of what they should know and why it's important and what it will cost them to ignore it. Let them know what they are losing by NOT doing these things. Help them understand that these are things that all good marketers use and know and that they MUST understand these things.  Make it engaging and thought provoking.  Limit paragraphs to 1-3 sentences. Identify any sentences that are long, and break them up into shorter, punchier sentences. Don't shorten the overall content.
+
+The product title is [TITLE]
+The product niche is [NICHE]
+The main problem the product solves is [PROBLEM]
+Number of emails to write: [NUMBER OF EMAILS IN SERIES]
+[CTA] is The Call To Action
+
+[PROMPT]
+
+Output should be in [TARGETLANGUAGE]

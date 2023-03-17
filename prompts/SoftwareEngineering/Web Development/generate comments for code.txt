@@ -1,0 +1,21 @@
+AuthorName: MrBoogi
+AuthorURL: https://users.cs.utah.edu/~germain/PPS/Topics/commenting.html
+
+Title: Generate Comments For code
+Category: Web Development
+Teaser: Copy paste the code you want comment for.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-16T14:53:02.998Z
+Help: 
+ID: 1801961116524601344
+PromptHint: Paste the code
+PromptPackageID: 0
+
+Prompt:
+Can you generate comments for the code below, using all the necessary best practices for the given code language [TARGETLANGUAGE] .
+The goal is for any developer to be able to read the code and understand it easily. 
+You can comment in function if you have to.
+Please don't generate too many comments either. 
+The code: [PROMPT]
+Use a block code

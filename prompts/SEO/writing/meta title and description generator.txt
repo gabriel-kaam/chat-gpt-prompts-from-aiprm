@@ -1,0 +1,16 @@
+AuthorName: ujjaval verma
+AuthorURL: https://howtotechblogs.com/
+
+Title: Meta title and description generator
+Category: writing
+Teaser: Put the url and get the meta title and description
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-15T17:11:39.966Z
+Help: 
+ID: 1801633612551159808
+PromptHint: [put url]
+PromptPackageID: 0
+
+Prompt:
+WRITE THE TITLE AND META DESCRIPTION[TARGETLANGUAGE] FOR GIVEN URL[PROMPT]

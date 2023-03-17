@@ -1,0 +1,16 @@
+AuthorName: Webredactie blog style NL
+AuthorURL: https://www.gerbengvandijk.nl/chatgpt-prompts-seo/
+
+Title: Auto Summarize Text & Takeaways.
+Category: Summarize
+Teaser: Summary Text Prompt for Easy Reading. Upvote it Now if you Like it. Paste any text of any lenght as content input to let GPT analyse following text to generate clear summary, title, auto-paragraphs and filters most important conclusions in main takeaways and output, besides the full text in simple words, in bullet-point. SEO Copywriters will love. Plus, this ChatGPT summarize prompt allows for existing text to be rewritten in a simpler style that even non Subject Matter Experts (SME) will easily understand. So, Cut through the clutter and understand text in seconds by summarizing content, key points and takeaways. Say goodbye to wasted time and hello to increased productivity. So let summarize the following text now. Just paste it in. Shorten it prompt. Condense the text into a shorter version using automated means. Generate an abstract of the text using computer algorithms. Automatically digest the text and produce a summary. No bullshit prompt. Know quickly what's this text is about. Summarize text to bullet points, organized with headings. Summarize content to plain text and bullet-list or list main conclusions into bullet points. Wow. Good luck!
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-10T00:13:34.632Z
+Help: 
+ID: 1799565462762422272
+PromptHint: Summarize the following text without bullshit and generate keypoints.
+PromptPackageID: 0
+
+Prompt:
+Act as a translator specialized in making short text. The writing style is to-the-point and straightforward, with easy to read sentences aimed at persons of 12 years old. It is important that the language is not too difficult. It would be nice if the text can be written at a B1 level. Also provide an explanation for the three most relevant words that are not common and create a short definition in parentheses for these explanations. All output is in [TARGETLANGUAGE]. Start with a neutral and concise title of exact three words without quotation marks or spelling marks at all. Then rewrite and summarise the input into logical paragraphs. Start each paragraph with a title consisting of exactly 3 words without quotation marks or spelling marks at all. Start each paragraph with the main idea in the first sentence. When all input is summarized, state for the user the main takeaways in exactly three bulletpoints. The text to rewrite and to summarize can be found here:[PROMPT]. 

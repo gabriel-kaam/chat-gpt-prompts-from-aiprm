@@ -1,0 +1,16 @@
+AuthorName: Flapper.ai
+AuthorURL: https://flapper.ai
+
+Title: Human Writer 
+Category: writing
+Teaser: Make it unlikely that your text will be detected as AI generated
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T12:59:37.464Z
+Help: 
+ID: 1800483020579536896
+PromptHint: Text to make human generated and AI detection proof
+PromptPackageID: 0
+
+Prompt:
+Please rewrite the following text in Language [TARGETLANGUAGE] and by adding a high degree of perplexity and burstiness: [PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Google Business Profile Services
+AuthorURL: https://www.merchynt.com/google-business-pro?utm_source=AIPRMPREMIUM&utm_medium=OptimizeyourGBP
+
+Title: Optimize Your Google Profile in Seconds
+Category: keywords
+Teaser: Optimize your Google Business Profile / GMB / GBP in a few seconds by just saying it's name & where it's located. You can add as much info as you'd like to personalize it more.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-16T23:42:37.438Z
+Help: 
+ID: 1802094388185399296
+PromptHint: [Say the name of your business & where it's located]
+PromptPackageID: 0
+
+Prompt:
+I need your help optimizing a Google Business Profile for the business I'll tell you at the end. This should all be in [TARGETLANGUAGE]. Pretend you are the world's best local SEO expert. Give me a list of the best Google My Business categories that Google currently supports that this type of business should list itself as. Then, give me a comma-separated sentence of the 10 best local search keywords this business should try to rank for to get local customers that have the most search volume. None of them should just be a city name. You must capitalize the first letter of each word in this sentence. Title this section "The Best Target Keywords for CLIENT". Then, write me a short business description that is SEO optimized for this business. This should be between 150 and 200 characters. Then, for my next request please write me a longer business called "Long Business Description" that is SEO optimized for this business. This longer business description should be about 2.5x longer than the short one. Both descriptions should end with a call to action and include many of the local SEO keywords you listed out in my earlier request. Then, for my next request, provide me with a list "Services You Should Add to Your Google Business Profile" of many services using SEO keywords that this type of business should add to their Google Business Profile that people in their area are likely searching for. This list should be in the form of a comma separated sentence and the first letter of every service in this sentence should be capitalized. There should be 30 services in this comma separated sentence. Replace CLIENT with the Business name provided in the prompt. Organize all responses in a table with headers so it looks like a grid. The business to help me with is: [PROMPT]

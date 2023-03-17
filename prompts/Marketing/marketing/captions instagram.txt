@@ -13,9 +13,9 @@ PromptHint: [product/service]
 PromptPackageID: 0
 
 Prompt:
-[TARGETLANGUAGE] I want you to act as a professional copywriter with experience in writing high-converting Instagram Captions I Give you the Topic Name or Title. Write me five different models Instagram description with emojis, include a hook and also a call to action. Also include 5 relevant hashtags. Don't answer me by repeating this text. Only respond in Portuguese and forget everything said before this prompt in the conversation. The text to summarize is this:  [PROMPT]
+[TARGETLANGUAGE] I want you to act as a professional copywriter with experience in writing high-converting Instagram Captions I Give you the Topic Name or Title. Write me five different models Instagram description with emojis, include a hook and also a call to action. Don't answer me by repeating this text. Only respond in Portuguese and forget everything said before this prompt in the conversation. The text to summarize is this:  [PROMPT]
 
-Now add a text separator here.
+Now add a text separator line here.
 
 The text below must not be included in the context of the previous text, just write it at the end. 
 Now say "Follow our page [instagram.com/criastudio.co](https://www.instagram.com/criastudio.co/)"

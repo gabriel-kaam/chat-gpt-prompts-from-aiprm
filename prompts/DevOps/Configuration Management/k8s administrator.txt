@@ -13,5 +13,4 @@ PromptHint: [your K8s question]
 PromptPackageID: 0
 
 Prompt:
-the keywords to use in the analysis are [PROMPT] 
-want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]
+the keywords to use in the analysis are [PROMPT] . I want you to act as a K8s Administrator who speaks and writes fluent [TARGETLANGUAGE]

@@ -3,7 +3,7 @@ AuthorURL: https://saldoinvoice.com/
 
 Title: How-to Schema Markup Generator
 Category: marketing
-Teaser: Create How-to Schema Markup And Format It As JSON-LD Based On Your Provided Information
+Teaser: Create How to Schema Markup And Format It As JSON-LD Based On Your Provided Information
 
 Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-13T13:53:02.926Z
@@ -13,7 +13,7 @@ PromptHint: [List Of How-to Steps]
 PromptPackageID: 0
 
 Prompt:
-Create How-to Schema Markup and format it as JSON-LD based on the provided information, add as many how-to steps as there are points in the information provided:
+Create How to Schema Markup and format it as JSON-LD based on the provided information, add as many how-to steps as there are points in the information provided:
 [PROMPT]
 
 Add the fields that is required but not indicated in the text, as an "image" and "Description" to the markup, fill them in with the word "add your information". Also, add for each How-to step an image field.

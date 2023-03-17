@@ -14,5 +14,5 @@ PromptPackageID: 0
 
 Prompt:
 Use [TARGETLANGUAGE] and [PROMPT] to
-create a [DIAGRAM TYPE] diagram for [PURPOSE] using [DIAGRAMMING TOOL] scripting language. Your diagram should clearly depict [NUMBER] [ELEMENT TYPE] and should be optimized for easy understanding.
+write a [DIAGRAM TYPE] diagram for [PURPOSE] with [DIAGRAMMING TOOL] script. Your diagram should clearly depict [NUMBER] [ELEMENT TYPE] and should be optimized for easy understanding.
 

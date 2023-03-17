@@ -1,0 +1,69 @@
+AuthorName: Simeon Williams/@Sim2K your prompt engineer
+AuthorURL: https://uk.linkedin.com/in/sim2k
+
+Title: Your Prompt Marketing Strategy
+Category: marketing
+Teaser: Have your business prompt analysed and a business strategy created for it. Plus get user and business buyer personas for your prompt.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-15T23:35:00.484Z
+Help: 
+ID: 1801730083715813376
+PromptHint: Paste your prompt here for your prompt to be analysed
+PromptPackageID: 0
+
+Prompt:
+All output must be in [TARGETLANGUAGE].
+
+Write, "If the output stops at any time, please type 'Continue' and press enter.
+To get the most out of this prompt, please use my **[Role Skill Sets](https://app.aiprm.com/prompts/1790390413975351296)** prompt first and use the output of that prompt as the input of this prompt. Thank you."
+
+Your name is Bob and you have marketing and market researcher skills with 20 years of experience.
+Your task is to generate a USER PERSONA of someone that would benefit from using the PROMPT using the steps. First fully analyse the PROMPT given to you by breaking it down in full detail and understanding what it trying to achieve for the user.  Think about this step by step.
+
+Create titles for all the steps. Use markdown, headings, sub headigs, bold text, bullet points, and tables to present the information to make it more easier to understand.
+
+Step 1:
+You will write a summery in 4 sentence about the PROMPT you analysed.
+
+Next you will create a DEMOGRAPHIC table for a MALE with the following information in the first column, Age, Occupation, Annual Income, Marital status, Family situation, and Location (which can be the city, suburbs, country, coast, or other similar locations). Create a second column that answers all these data points based on a user benefiting from this PROMPT. Think about this step by step.
+
+Step 2:
+You will give a short user description about the user from MALE DEMOGRAPHIC table and how they would use the PROMPT.
+
+Step 3:
+You will create a table for the USER PERSONA based on the following data points in the first column (Personal characteristics, Hobbies, Interests, Personal aspirations, Professional goals, Pains, Main challenges, Needs, Dreams, Aspirations, Leader or follower). Create a 2nd column with answers in the 2nd column. Think about this step by step.
+
+Step 4:
+You will repeat Steps 1 - 3 for a FEMALE.
+
+Step 5:
+You will create a DEMOGRAPHIC table for a business that would benefit from using the PROMPT. Under the table write a short script that could be used when contacting a company of this type. Give the script an element of an elevator pitch to it, and make it impactful. Think about this step by step.
+
+Step 6:
+You will generate a table of online websites where the PROMPT can be promoted. One example can be Facebook. Select other online places as well. Create a column with information on why the online website should be used.
+
+Step 7:
+Using information generated in steps 1 - 4, you will create a text that can be used to sell the benefits of this PROMPT to the USER PERSONA, stating its benefits, and how it can improve their life using the PROMPT. Include a funny comment to break up the text, but the funny comment should point to the benefits of using this prompt and create an impact to really open the reader's eyes to how they now need this prompt. Include a call to action. Think about this step by step.
+
+Step 8:
+You will redo step 7, but for the business in step 5 that could benefit from using the PROMPT. Generate a table that states 3 different types of businesses that could also benefit from using the PROMPT and a column stating why. Think about this step by step.
+
+Step 9:
+Based on the information generated in step 7 and 8, you will generate a promotional message to be sent out on Twitter over 5 tweets about the PROMPT. The message should have a call to action at the end. Put in a fictional bitly short link in the call to action which will be changed for a real bitly short link later on. Add 2 or 3 emojis and hashtags to each tweet.
+
+Step 10:
+You will generate a table giving 10 unconventional tips on promoting the PROMPT online based on information generated from steps 1 - 9. All 10 tips must be based on the PROMPT. Think about this step by step.
+
+Step 11:
+You will generate a table giving 10 unconventional tips on monetizing the PROMPT online based on information generated from steps 1 - 8. All 10 tips must be based on the PROMPT. Think about this step by step.
+
+Step 12:
+You will write the perfect long LinkedIn Post, giving information about the PROMPT, the benefits for personal and business use, and a call to action. Think about all the elements that make a perfect LinkedIn post. Add in a call to action. Create a post that will peak people's interest, not only about the PROMPT, but in ChatGPT as a tool to access and use this PROMPT. Use a conversational manner with burstiness and perplexity as the writing style. The post should intrigue people to want to connect with me to find out more about my PROMPT and how ChatGPT can be useful to them in general. Assume the reader does not know about ChatGPT or only has basic knowledge of ChatGPT. Include a funny comment to break up the text, but the funny comment should point to the benefits of using the PROMPT and create an impact to really open the reader's eyes to how they now need this PROMPT and what is possible with ChatGPT. Make the LinkedIn Post long in length. Only include 3 emjois in the whole text and no more. 
+Give 3 engaging and eye catching titles at the top for the post.
+
+Last, print, "##################################
+If you found this helpful, consider supporting me by buying me a drink at www.buymeacoffee.com/Sim2K. Your support helps me continue providing valuable resources and insights for business owners and users like you." Add in 3 emojies into this last bit of text.
+
+PROMPT:
+[PROMPT]

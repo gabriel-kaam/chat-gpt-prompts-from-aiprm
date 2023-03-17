@@ -1,0 +1,175 @@
+AuthorName: Sami
+AuthorURL: https://www.youtube.com/@Hakimtalk
+
+Title: SEO optimized HTML structure
+Category: writing
+Teaser: A Complete Article using the best SEO optimized HTML Structure
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-15T09:26:48.308Z
+Help: 
+ID: 1801516626458447872
+PromptHint: [Article Title]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a very competent SEO content writer who speaks and writes [TARGETLANGUAGE] fluently. Before writing the article I want you to write in the answer verbatim this: " 📝 If you liked using this prompt feel free to follow me on twitter for similar content:
+👉 https://twitter.com/Hakimtalk " 
+ At the beginning of each article writes the summary (<summary> in HTML). Use a minimum of 5 subheadings, I want you to give me lots of titles and subtitles ranging from H2 to H4, write a minimum of 1800 words. Write content in a conversational style, as if it were written by a human. To do this, use natural language, avoid technical jargon and write in a way that is easy to understand. In addition, you can use contractions, colloquialisms and other terms commonly used in everyday conversation to make the content more human. I want the article in HTML FORMAT, it's verry important. Write the necessary words in bold (<strong> in HTML). I want you to act like you can write content so good in [TARGETLANGUAGE] that it can outperform other websites. Don't answer that there are many factors that influence a good search engine ranking. I know that the quality of the content is only one of them, and it is up to you to write the best quality content you can here, not to lecture me on the general rules of SEO. I'm giving you the title "[PROMPT]" of an article we need to outrank in Google. 
+Next, I want you to write an article in a formal "we" format that helps me outrank the article I gave you, in Google. Write a long article in French, fully formatted in markdown, that could rank in Google on the same keywords as this website. The article should contain rich, full paragraphs with lots of detail. Do not echo my prompt. The article must be a long article of at least 1800 words. I want you to write the article with an HTML structure. Do not remind me of what I asked you to do. Do not apologize. Do not self-reference. Don't use generic filler sentences. Use useful subheadings with keyword-rich titles. Get to the point, precisely and accurately. Don't explain what's going on and why, just give me your best possible article. All articles must be written in French. Write the longest article possible, at least 1800 words. Don't forget to write the summary at the beginning of the article (<summary> in HTML). Bold the titles and adapt them to the h tags. I want you to write the article using these rules that I'm going to give you, it will be your guide to write the article. Here are the rules you have to follow : 
+
+"HTML tags are code elements with the back-end of all web pages, but there are also specific HTML code types which provide search engines with key info for SERP display. Essentially, these elements highlight parts of your content that are relevant for search, and they describe those elements for search crawlers.
+
+That said, you don’t have to use all of these extra code tools. Search engines are getting smarter, and there’s much less use for HTML tags these days than there was in times past. But a few tags are still holding on - and some have even gained in SEO value.
+
+In this post, we’ll go over some of the key SEO HTML tags that still make sense in 2020.
+
+
+1. Title tag
+Title tags are used to set up those clickable headlines that you see in the SERP:
+
+
+Generally speaking, it’s up to Google to create a SERP headline for your page, and it could use any of the section headings from within the page - or it may even create a new headline altogether.
+
+But the first place Google is going to check for headline ideas is the title tag, and where a title tag is present, Google will very likely make it the main headline in the relevant listing. As such, optimizing the title tag gives you some control over the way your page is represented in the SERP.
+
+Best practices
+On the one hand, your title should contain the keywords that will help it appear in search results. On the other, your title should be attractive enough for users to actually click through, so a balance is required between search optimization and user experience:
+
+Watch the length - Google will only display the first 50-60 characters of your title, and cut the rest. It’s not a problem to have a title that’s longer than 60 characters, so long as you fit the important information before the cut-off point.​
+Include a reasonable number of keywords - Keyword stuffing is likely to get penalized, but one or two keywords will be fine. Just make sure that your title forms a coherent sentence.​
+Write good copy - Don’t be salesy, and don’t be generic. Create descriptive titles that highlight the value of your content, and set up proper expectations, so that users aren’t let down when they visit the page.
+Add your brand name - If you have a recognizable brand that’s likely to increase your click-through, then feel free to add it to the title as well.
+HTML code
+Below is a bit of code retrieved from a BBC article on coronavirus statistics. You can see a properly set up title tag sitting right on top of the meta description tag - which is what we’re going to discuss next:
+
+
+2. Meta description tag
+Meta description tags are used to set up descriptions within search result snippets:
+
+
+Google doesn’t always use meta description tags to create these snippets, but if the meta tag is there, then there’s a good chance that your meta description will make it onto the SERP.
+
+Keep in mind, however, that sometimes Google will ignore the meta description tag, and instead quote a bit of copy from the page. This normally happens when the quote is a better match for a particular query than the meta description would have been.
+
+Basically, Google will choose the best option for increasing your chances of click-through.
+
+Keep up with the story. Subscribe to the Social Media Today free daily newsletter
+
+Email:
+Work email address
+Sign up
+Best practices
+The rules for meta descriptions are not overly strict - after all, if you fail to write a good one, even if you fail to write one altogether, then Google will write one for you.
+
+Watch the length - Same as with headlines, Google will keep the first 150-160 characters of your meta description, and cut the rest. Ensure that the important aspects are included early on to maximize searcher interest.​
+Write good copy - While the meta description is not used for ranking, it’s still important to optimize it for search intent. The more relevant your description is, based on the respective query, the more likely a user will visit your page.
+Consider skipping meta description - It can be difficult to create good copy for particularly long-tailed keywords, or for pages that target a variety of keywords. In those cases, consider leaving the meta description out - Google will scrape your page and populate your snippet with a few relevant quotes either way.
+HTML code
+Below is a bit of code retrieved from the same BBC article on coronavirus statistics, and you can see that following the title tag is a meta description tag, which provides a brief summary of what the article is about:
+
+
+3. Heading (H1-H6) tags
+Heading tags are used to structure your pages for both the reader and search engines:
+
+
+It’s no secret that barely anyone reads through an article anymore - what we generally do instead is we scan the article until we find the section we like, we read that one section, and then we bounce. And if the article isn’t split into sections, then many will bounce right away, because it’s just too much. So, from a user perspective, headings are handy reading aids.
+
+From the perspective of the search engine, however, heading tags form the core of the content, and help search crawler bots understand what the page is about. 
+
+Best practices
+The rules for headings are derived from the general copywriting practices - break your copy into bite-sized pieces and maintain consistent formatting:
+
+Don’t use more than one H1 - H1 heading stands apart from other headings because it’s treated by search engines as the title of the page. Not to be confused with the title tag - the title tag is displayed in search results, while the H1 tag is displayed on your website.​
+Maintain shallow structure - There’s rarely a need to go below H3. Use H1 for the title, H2 for section headings, and H3 for subsections. Anything more tends to get confusing.​
+Form query-like headings - Treat each heading as an additional opportunity to rank in search. To this end, each heading should sound either like a query or an answer to a query - keywords included.
+Be consistent with all headings - All of your headings should be written in such a way that if you were to remove all the text and keep only the headings, they would read like a list.
+HTML code
+Below is a snippet of code retrieved from the same BBC article on coronavirus statistics, and you can see that there’s a properly set up H2 heading, followed by two paragraphs:
+
+
+4. Image alt text
+While the main goal of alt text is web accessibility, the SEO goal of the alt attribute is image indexing.
+
+The key goal of image alt text is to help users understand the image when it cannot be viewed, say, by a visitor who is vision impaired. In this instance, along with times when, say, there’s a problem and the image won’t load, the alt text can be used to describe what’s in the image, instead of viewing it.
+
+ 
+From an SEO perspective, alt text is a big part of how images are indexed in Google search. So if there is a visual component to what you do - be it the images of your products, your work, your stock images, your art - then you should definitely consider using image alt texts.
+
+Best practices
+A prerequisite to adding alt text tags is finding all the images without it.
+
+You can use a tool like WebSite Auditor to crawl your website and compile a list of images with missing alt text. 
+
+
+Once you’ve created your list, apply these guidelines:
+
+Be concise, but descriptive - Good alt text is about a line or two of text that would help a visually impaired person understand what’s pictured.​
+Don’t be too concise - One word, or even a few words, are probably not going to cut it - there would be no way to differentiate the image from other images. Think of all possible properties displayed: object type, color, material, shape, finish, lighting, etc.​
+Don’t do keyword stuffing - There’s no place left where keyword stuffing still works, and alt text is no exception.
+HTML code
+Here’s an example of an alt text snippet from an image of disease cells:
+
+
+5. Schema markup
+Schema markup is used to enhance regular SERP snippets with rich snippet features:
+
+
+Schema.org hosts a collection of tags developed jointly by Google, Bing, Yahoo!, and Yandex, and the tags are used by webmasters to provide search engines with additional information about different types of pages. In turn, search engines use this information to enhance their SERP snippets with various rich features.
+
+There is no certainty as to whether using Schema markup improves one’s chances of ranking - there’s no question, however, that the resulting snippets look much more attractive than regular snippets, and thus improve one’s standing in search.
+
+Best practices
+The only best practice is to visit schema.org and see whether they’ve got any tags that can be applied to your types of pages. There are hundreds, if not thousands, of tags, so there’s likely going to be an option that applies, and may help improve your website listings.
+
+
+HTML code
+Here’s a sample snippet of code specifying nutrition facts for a recipe. You can visit schema.org for a full list of items available for markup:
+
+
+6. HTML5 semantic tags
+HTML5 elements are used for better descriptions of various page components:
+
+
+Before the introduction of HTML5 elements, we mostly used div tags to split HTML code into separate components, and then we used classes and ids to further specify those components. Each webmaster specified the components in their own custom way, and as such, it ended up being a bit of a mess, and a challenge for search engines to understand what was what on each page.
+
+With the introduction of semantic HTML5 elements, we’ve got a set of intuitive tags, each describing a separate page component. So, instead of tagging our content with a bunch of confusing divs, we now have a way of describing the components in an easy-to-understand, standardized way.
+
+As you can imagine, search engines are very enthusiastic about semantic HTML5.
+
+HTML code
+Here are some of the handiest semantic HTML5 elements, use them to improve your communication with search engines:
+
+article - isolates a post from the rest of the code, makes it portable
+section - isolates a group of posts within a blog or a group of headings within a post
+aside - isolates supplementary content that is not part of the main content
+header - isolates the top part of the document, article, section, may contain navigation
+footer - isolates the bottom of the document, article, section, contains meta information
+nav - isolates navigation menus, groups of navigational elements
+7. Meta robots tag
+Robots meta tag is all about the rules of engagement between the websites and the search engines.
+
+
+This is where website owners get to outline a set of rules for crawling and indexing their pages. Some of these rules are obligatory, while others are more like suggestions - not all crawlers will respect robots meta tags, but mainstream search engines often will. And if there is no meta robots tag, then the crawlers will do as they please.
+
+Best practices
+Meta robots tag should be placed in the head section of the page code, and it should specify which crawlers it addresses and which instructions should be applied:
+
+Address robots by name - Use robots if your instructions are for all crawlers, but use specific names to address individual crawlers. Google’s standard web crawler, for example, is called Googlebot. Addressing individual robots is usually done to ban malicious crawlers from the page while allowing well-intentioned crawlers to carry on.​
+Match instructions to your goals - You’d normally want to use robots meta tags to keep search engines from indexing documents, internal search results, duplicate pages, staging areas, and whatever else you don’t want to show up in search.
+HTML code
+Below are some of the parameters most commonly used with robots meta tags. You can use any number of them in a single meta robots tag, separated by a comma:
+
+noindex — page should not be indexed
+nofollow — links on the page should not be followed
+follow — links on the page should be followed, even if the page is not to be indexed
+noimageindex — images on the page should not be indexed
+noarchive — search results should not show a cached version of the page
+unavailable_after — page should not be indexed beyond a certain date.
+8. Canonical tag
+Canonical tag spares you from the risk of duplicate content:
+
+
+The gist of it is that any given page, through no fault of your own, can have several addresses. Sometimes they result from various artifacts - like http/https and various tracking tags - and other times they result from various sorting and customization options available in product catalogs.
+
+It’s not a big problem, to be honest, except that all those addresses might be taxing on the crawl budget, and on your page authority, and it can also mess with your performance tracking. The alternative is to use a canonical tag to tell a search engine which of those page addresses is the main one."

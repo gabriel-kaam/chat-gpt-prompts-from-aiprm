@@ -1,0 +1,18 @@
+AuthorName: Andrew Lemacks
+AuthorURL: https://lemacksmedia.com
+
+Title: Overdub Voice Script Generator
+Category: Script Writing
+Teaser: Create a script to read for descript, allowing you to generate your overdub voice with a topic of your choosing. 
+
+Drop a like if it helped!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-23T20:54:09.227Z
+Help: 
+ID: 1794441846097973248
+PromptHint: What do you want your script subject to be?
+PromptPackageID: 0
+
+Prompt:
+Create a voice script, 10 minutes long in [TARGETLANGUAGE] to read and record, using this subject [PROMPT]

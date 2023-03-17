@@ -1,0 +1,18 @@
+AuthorName: Jonah Wolfraim
+AuthorURL: https://jonahwolfraim.com
+
+Title: SEO Article Machine
+Category: writing
+Teaser: Created by an experienced content marketer. I use this prompt daily.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T16:45:56.559Z
+Help: 
+ID: 1801627139033006080
+PromptHint: article title/topic/keyword
+PromptPackageID: 0
+
+Prompt:
+You're writing an article in [TARGETLANGUAGE]. The topic is [PROMPT]. The article should have subtitles that are SEO-optimized. Avoid using the terms: “in this article” and “in conclusion.” Where possible, use specific real-world examples, quotes, and data. Format everything in markdown. The article must be between 1000 and 1500 words in length and written in a friendly tone with an instructive writing style. 
+
+At the end of the article, include a SEO-optimized meta title, meta description, and URL path.

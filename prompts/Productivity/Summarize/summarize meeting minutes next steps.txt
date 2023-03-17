@@ -1,0 +1,17 @@
+AuthorName: Stan Girard
+AuthorURL: https://primates.dev
+
+Title: Summarize | Meeting Minutes | Next Steps
+Category: Summarize
+Teaser: Extract essential information, decisions and next steps with owners
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-15T21:29:19.205Z
+Help: 
+ID: 1801698453299126272
+PromptHint: [Your text to summarize]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to act as a highly competent summarizer. I want you to pretend to understand very well what this is about. Your task is to write a summary starting with "Summary" with the bolded word. Emphasize essential information, decisions, and insights that could be helpful by categorizing them. Also, prepare a bullet-point list describing specific next steps for each person mentioned. The entire output should be written in a 100% human writing style, correct any grammar issues, and change to the active voice. The text to be rewritten in [TARGETLANGUAGE] is as follows:
+ [PROMPT] 

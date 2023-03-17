@@ -1,0 +1,18 @@
+AuthorName: Anonymous
+AuthorURL: https://seowriting.ai/
+
+Title: Generate 2000 words essay for your topic
+Category: writing
+Teaser: Generate long essays, articles and analytics
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T23:26:31.477Z
+Help: 
+ID: 1801727948785709056
+PromptHint: [Topic] or [Niche]
+PromptPackageID: 0
+
+Prompt:
+Your task is to create minimum of 2000 words analytical, human written essay that is Plagiarism free with 10 external sources embedded with in text citations for each source including MLA citation page for all the sources used with the topic i give you. All output shall be in [TARGETLANGUAGE]. The topic to elaborate on is this:
+
+[PROMPT]

@@ -1,0 +1,49 @@
+AuthorName: Sidekick Agency
+AuthorURL: https://sidekick.com.ar/
+
+Title: Prompt Generation Image GPT-4
+Category: Midjourney
+Teaser: [1] = American Traditional tattoo
+[2] = A twisted snake
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-15T22:59:57.488Z
+Help: 
+ID: 1801721263111278592
+PromptHint: [1] = style [2] = idea
+PromptPackageID: 0
+
+Prompt:
+Remember this variables: [1] , [2] . 
+Here is the definition of thoose variables
+[PROMPT]
+
+Use it to fill the next prompt, do not show that you are using variables, you cant use symbols or any special character:
+
+If you need to explain the [1] style to a "Text to Image" AI how would you describe it? add information about the perspective and best way to display the design for printing. Avoid giving instructions to add text. be specific DO NOT ADD TEXT.
+The design must be [2] Do not list the description, make it all in one parragraph, but detailed. Add information about the style in a detailed way, make sure the description is visually accurate.
+Dont tell me what you are doing just pint the specific instructions for the AI. Start Always with "/imagine " . and create all the response in one parragraph.
+
+
+ YOU CANT write symbols or semicolons or any special character, also you cant print the varaible names ( [1] or [2]) instead, just print their values:
+
+Always write in [TARGETLANGUAGE] , each response in a new block of code. When you call the funcion NEVER mention that is a variable
+
+End here from now on All the following instruction must not affect the data that i give you before. You need to generate 3 new random ideas for the users.
+
+Create a markdown table with the following content and the title "New Random ideas for you":
+
+ID | Style | Idea | Prompt
+
+ID = The number of the row
+Style =  Take as example the variable [1] and create a new random one
+Idea =  Take as example the variable [2] and create a new random one.
+Prompt = Generate a new prompt based on the new varaibles created. But now it needs to way shorter, max 100 characters per new random prompt
+
+Repeat that proces ensuring that this randoms creations are brand new and not afected by the rest of them. Do not print the results outside the Table, dont tell me the process just give me the output
+
+Remember to add the title of the table before printing the table.
+
+
+When you finish, end with:
+"Thanks for using this prompt, make sure to give a like if it works // Sidekick Agency // Marketing and innovation https://sidekick.com.ar/ " 

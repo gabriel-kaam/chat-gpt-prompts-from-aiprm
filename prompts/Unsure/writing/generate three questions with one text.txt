@@ -1,0 +1,18 @@
+AuthorName: Paulo Ricardo Diniz
+AuthorURL: https://usina.online
+
+Title: Generate Three Questions with one Text.
+Category: writing
+Teaser: Create three objetive questions with only one correct answer, with a full explanation about the answer.
+Paste one text to use as a reference.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-17T01:07:56.158Z
+Help: 
+ID: 1802115857653170176
+PromptHint: [You must use a text as a reference. Paste it here.]
+PromptPackageID: 0
+
+Prompt:
+Act as a professional quiz writer and create three detailed questions, each with five answer options, where only one of them is correct. Indicate the correct answer and provide a brief explanation to justify the correct response. Consider the text [PROMPT], to make the quiz enjoyable and challenging for a wide range of students. 
+You must use [TARGETLANGUAGE] correctly.

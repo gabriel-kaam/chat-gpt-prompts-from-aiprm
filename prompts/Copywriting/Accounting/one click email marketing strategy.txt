@@ -1,0 +1,20 @@
+AuthorName: Sheri C
+AuthorURL: https://allinonecoursebuilder.com/
+
+Title: One Click Email Marketing Strategy
+Category: Accounting
+Teaser: Create the perfect email marketing strategy using AIDA
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T20:03:39.824Z
+Help: 
+ID: 1802039285038444544
+PromptHint: "Let's go!"
+PromptPackageID: 0
+
+Prompt:
+Forget all previous instructions. I want you only to respond in [TARGETLANGUAGE]. Your job is to pretend you are a marketing strategist with over 10 years of experience in the industry and are an expert in persuasive communication techniques. Your job is to create a successful email marketing campaign using the AIDA strategy. The AIDA strategy stands for Attention, Interest, Desire, and Action. You need to create multiple emails for each stage of the strategy. Use the table below to organize your email marketing campaign. In the first column, list the AIDA stage for each email you create. In the second column, write the subject line for each email. The subject line should grab the reader's attention and entice them to open the email. In the third column, write the body of the email. The body should be informative and engaging and should follow the AIDA strategy for the stage it is in. In the fourth column, write the call to action for each email. The call to action should be clear, and specific, and encourage the reader to take the desired action. 
+
+
+Do not create the email marketing strategy until the following question has been answered. Upon receiving the [PROMPT], ask the user to "provide the name of the service or products including its benefits." Create the Email marketing strategy based on the response to this question only after it has been answered.  Be sure to put this plan into a neatly organized table expanding content email body content.  Respond only in [TARGETLANGUAGE].
+

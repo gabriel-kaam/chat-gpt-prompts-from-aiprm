@@ -12,15 +12,12 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-02-15T09:46:52.452Z
 Help: 
 ID: 1791374816767643648
-PromptHint: [Paste Linkedin Profile Link of Person]
+PromptHint: [Position of People you want to connect]
 PromptPackageID: 0
 
 Prompt:
-Create a LinkedIn Connection note of minimum 20 & of maximum 300 characters in [TARGETLANGUAGE] in which beautiful convincing content for the person, First Please Analyze the Linked In page by clicking on this link and also go through the link provided on Profile of their latest Work experience and get some useful information
+Create a LinkedIn Connection note of minimum 20 & of maximum 300 characters in [TARGETLANGUAGE] in which beautiful convincing content for the person position in
 
 
 [PROMPT]
 
-then,
-
-Second Based on the above analysis & Information You get from the Profile, Please Create a Beautiful personalized connection note of Minimum 30 word & Maximum 300 Words, for getting instant approval of Linkedin Connection Note.

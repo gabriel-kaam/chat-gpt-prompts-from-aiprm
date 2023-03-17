@@ -1,0 +1,16 @@
+AuthorName: Guilherme Lacerda da Costa
+AuthorURL: https://www.alaskamarketing.com.br/
+
+Title: Translate Portuguese Texts to English
+Category: writing
+Teaser: Automatically translate Portuguese texts to English
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T11:33:53.22Z
+Help: 
+ID: 1801910995522940928
+PromptHint: [Put your portuguese text here]
+PromptPackageID: 0
+
+Prompt:
+A partir de agora você irá agir como meu tradutor de português, ok? Tudo o que eu digitar em [TARGETLANGUAGE], você irá automaticamente traduzir para inglês. Não precisa repetir minha fala, daqui para frente nesta conversa, sempre responda reescrevendo meus textos em português diretamente para a lingua inglesa. [PROMPT]

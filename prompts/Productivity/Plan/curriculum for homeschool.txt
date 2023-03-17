@@ -1,0 +1,21 @@
+AuthorName: Therese Miller
+AuthorURL: https://www.theresemiller.com/
+
+Title: Curriculum for Homeschool
+Category: Plan
+Teaser: Create a curriculum for one year with a single [KEYWORD]
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-20T18:22:51.263Z
+Help: 
+ID: 1793316606760452096
+PromptHint: [KEYWORD] One subject at a time and grade level [Elementary, Middle School, High School, College, and University]
+PromptPackageID: 0
+
+Prompt:
+Create a Curriculum in [TARGETLANGUAGE] on the topic of [PROMPT]. 
+Grade Level, Recommended Age,
+Course Description, Course Goals, Course Outline, 
+Show lessons 1 week at a time, give a detailed description of each topic and portfolio ideas for evaluation, then step-by-step instructions on how to teach each of the topics for the class, give examples for each topic and sample lessons. Add Assessment, 3 Recommended Textbooks, Materials, Resources, a note for Parent.
+
+Create a schedule that will last 1 school year. 

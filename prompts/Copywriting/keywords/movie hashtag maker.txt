@@ -1,0 +1,20 @@
+AuthorName: o2o
+AuthorURL: http://o2o.kr/
+
+Title: Movie Hashtag maker
+Category: keywords
+Teaser: Create a lot of hashtags of a movie!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T08:02:49.814Z
+Help: 
+ID: 1802220269214101504
+PromptHint: put any movie title!
+PromptPackageID: 0
+
+Prompt:
+Q: Make as much as hashtags in english, for any sns. according to the synopsis of titanic (movie)
+A: #Titanic #RoseAndJack #UnsinkableLove #SOS #IcebergAhead #HeartOfTheOcean #NeverLetGo #TragicRomance #ShipwreckSurvivor #EpicLoveStory #CelineDion #MyHeartWillGoOn #LeoAndKate #RoseDeWittBukater #JackDawson #RoseCalvert #IJumpYouJump #WomenAndChildrenFirst #CaptainSmith #WhiteStarLine #OceanLinertitanic #NationalGeographic #JamesCameron #AcademyAwards #BestPicture #HistoricalFiction #DramaFilm #Blockbuster #CultClassic
+---
+Q:Make as much as hashtags in [TARGETLANGUAGE], for any sns. according to the synopsis of [PROMPT] (movie) 
+A:

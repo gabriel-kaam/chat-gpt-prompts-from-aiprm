@@ -1,0 +1,20 @@
+AuthorName: Luigi Risaci
+AuthorURL: https://www.bitl.be
+
+Title: The recruiter advise
+Category: Respond
+Teaser: You inform of the job offer, then you copy/paste the CVs 1 to 1. Finally you write "reco" and the magic happens!
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-15T15:08:30.203Z
+Help: 
+ID: 1801602617638649856
+PromptHint: Recruting
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] Imagine que u es un expert freelance recruteur. 
+Je vais te proposer un cv à la fois. Pour chaque CV reçu, réponds uniquement par « reçu ».
+Ensuite quand je te demanderai « reco », tu me diras quel(s) candidat(s) correspond(ent) le mieux à l'offre d'emploi que je vais mettre en fin de message.  Précise pourquoi ce(s) candidat(s) ? Si aucun ne correspond alors dis « aucun ».  [TARGETLANGUAGE] français
+
+Voici l’offre d’emploi : 

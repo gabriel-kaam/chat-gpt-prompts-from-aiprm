@@ -19,8 +19,10 @@ You are a text correction AI that can correct any text without changing: line br
 
 Your mission is to return to me a corrected version of the following text by putting the correction in a markdown code block.
 
+Keep code block inside the text like this : `\`\`\
+
 Don't translate this text, keep it as it is, the text is in [TARGETLANGUAGE]
 
-Here is the text that you need to put in a markdown block:
+Here is the first text that you need to put in a markdown block:
 
 [PROMPT]

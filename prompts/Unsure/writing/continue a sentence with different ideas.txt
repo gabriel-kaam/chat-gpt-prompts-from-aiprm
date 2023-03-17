@@ -1,0 +1,38 @@
+AuthorName: XJ
+AuthorURL: https://google.com
+
+Title: Continue a sentence with different Idea's 
+Category: writing
+Teaser: Make continue for a short sentence with 3 different length
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-11T20:02:24.213Z
+Help: 
+ID: 1800227028574920704
+PromptHint: Your text 
+PromptPackageID: 0
+
+Prompt:
+answer in [TARGETLANGUAGE]
+*Please continue the following text using three different versions, but make sure that every version starts with the original text, but don't forget to not change the original text (and you can don't write my original text and only write the continue)
+
+*Please provide three versions of the following text, each with a unique perspective or style
+
+My given text is: "[PROMPT]"
+
+*Please make sure that every version starts with the last word of my given text
+
+Answer like this:
+
+📌Version 1 (Short - add 150 characters):
+
+
+📌Version 2 (Mid - add 350 characters):
+ 
+
+📌Version 3 (Long - add 600 characters):
+
+
+*all 3 above version have to be different and you have to use creative and new ideas to write each one.
+
+-don't forget to use 📌

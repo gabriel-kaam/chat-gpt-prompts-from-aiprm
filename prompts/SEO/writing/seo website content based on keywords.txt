@@ -1,0 +1,32 @@
+AuthorName: Green Mind Agency
+AuthorURL: https://greenmindagency.com/
+
+Title: SEO website content based on keywords
+Category: writing
+Teaser: write a TYPE page content for the below:
+
+focused keywords: 1, 2, 3
+
+keyword	cluster
+keyword	cluster
+keyword	cluster
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-18T11:44:50.41Z
+Help: 
+ID: 1792491667471990784
+PromptHint: SEO website content based on keywords and its cluster
+PromptPackageID: 0
+
+Prompt:
+please write website content in [TARGETLANGUAGE] based on the below keywords and their cluster.
+
+please follow the below:
+
+- Use the focused keywords in the title, description, slug, keywords, first paragraph, and any heading tag
+- Title must be 60 character max including the targeted keywords
+- Descriptions must be 140 character max including the target keywords
+- make a heading and subheadings for each section if needed
+- please include all the keywords in the output within the heading or paragraphs, don't leave any of the keywords not to be included on the content
+
+[PROMPT]

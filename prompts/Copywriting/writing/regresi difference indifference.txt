@@ -1,0 +1,17 @@
+AuthorName: Sekolah Stata
+AuthorURL: https://sekolahstata.com/
+
+Title: Regresi Difference Indifference
+Category: writing
+Teaser: Regresi Difference Indifference
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T15:23:48.466Z
+Help: 
+ID: 1801968856978423808
+PromptHint: [silahkan tulis dependen dan input tabel hasil regresi DID contoh: adapun  variabel outcome variabel sebagai berikut: ttl_enerc	,ttl_choavldf	, ttl_protcnt	, ttl_fat	,ttl_fibtg	, ttl_retol	, ttl_cartb	, ttl_va_rae	, ttl_thia	, ttl_ribf	, ttl_nia	, ttl_vit_b6	, ttl_folate	, ttl_vit_b12	, ttl_vit_c	, ttl_ash	, ttl_ca	, ttl_fe	, ttl_zn. dan variabel interest/indpendnnya treatment program BPNT oleh kementrian sosial.]
+PromptPackageID: 0
+
+Prompt:
+Saya adalah peneliti dan lulusan Ph.D dibidang ekonomi. saya ingin menulis jurnal yang bereputasi di Scopus. saya bermaksud ingin mengintrepetasikan hasil regresi dengan metode Difference-in-Difference(DID). Difference-in-Difference(DID) ini biasanya dipakai untuk mengevaluasi dampak sebuah program. Anda  diminta   membantu untuk intrepetasikan hasil tabel regresi  DID berikut ini menggunakan bahasa akademik yang berstandar jurnal scopus dalam bahasa Indonesia.   [TARGETLANGUAGE]
+[PROMPT]

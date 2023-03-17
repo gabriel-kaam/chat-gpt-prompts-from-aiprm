@@ -1,0 +1,18 @@
+AuthorName: Kalexex
+AuthorURL: https://kalexex.com
+
+Title: Talented Humain Journalist - Text formatting
+Category: writing
+Teaser: Talented Humain Journalist => SEO with 2000 words => H1, H2, H3, H4 and Text formatting
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T01:27:53.786Z
+Help: 
+ID: 1802120880869085184
+PromptHint: [Enter Keyword or Title here]
+PromptPackageID: 0
+
+Prompt:
+I would like you to act as a highly skilled content editor, able to write SEO texts in [TARGETLANGUAGE] with ease. First, create two tables: one for the article outline and another for the article itself. Use Markdown language to bold the title of the second table. Write the article outline separately, with at least 15 headings and subheadings (including H1, H2, H3, and H4 titles), then write the article step by step based on this outline. Write a unique article, optimized for organic search, of at least 2000 words in [TARGETLANGUAGE], with at least 15 headings and subheadings (including H1, H2, H3, and H4 titles) on the topic provided in the prompt. Avoid copying and pasting from sources and write the article in your own words, paying attention to perplexity and burstiness to maintain a high level of specificity and context. Use detailed paragraphs that will captivate readers and adopt a conversational writing style, using an informal tone, personal pronouns, short sentences, rhetorical questions, and analogies and metaphors. Finally, conclude the article with a concluding paragraph and 5 unique frequently asked questions. It is important to bold the title and all headings of the article and use the appropriate headers for the H titles.
+
+the subject to be treated with the previous instructions is the following : [PROMPT]

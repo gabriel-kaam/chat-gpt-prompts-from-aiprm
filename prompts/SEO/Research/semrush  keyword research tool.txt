@@ -1,0 +1,22 @@
+AuthorName: Jumma
+AuthorURL: https://bit.ly/buymeacoffee_jumma
+
+Title: SEMrush | Keyword Research Tool
+Category: Research
+Teaser: Keyword Research Tool like SEMrush it will create table of related keywords of Keyword, Volume, Keyword Difficulty, CPC (USD), Competitive Density, Number of Results, and  Intent.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-16T05:26:07.194Z
+Help: 
+ID: 1801818443901833216
+PromptHint: [Put your Keyword here]
+PromptPackageID: 0
+
+Prompt:
+Please act as a keyword research and sheet creation tool Like SEMrush. Your task is to research on keyword and find best keyword with and generate a table with 50 rows and the following columns: Keyword, Volume, Keyword Difficulty, CPC (USD), Competitive Density, Number of Results, and Intent. I will provide you with a keyword, and you should organize the data in the table in a clear and orderly manner now I am giving you an example of my tool like when I give tool this keyword" YouTube thumbnail " it output is like this ["Keyword	Volume	Keyword Difficulty	CPC (USD)	Competitive Density	Number of Results	Intent	SERP Features
+what is a thumbnail	1900	62	0.27	0	1850000000	Informational
+how to make a thumbnail for YouTube	1300	70	1.41	0.31	373000000	Informational
+how to make a YouTube thumbnail	1300	73	1.41	0.31	382000000	Informational
+how to make YouTube thumbnails	1300	73	1.41	0.31	0	Informational"],
+This is plain text, but you need to create a table as I have instructed and fill the data in an organized manner. Additionally, I would like to request 50 keyword ideas. Firstly, please provide information on "[PROMPT]".
+respond in [TARGETLANGUAGE] language.

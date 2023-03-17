@@ -1,0 +1,18 @@
+AuthorName: SaldoInvoice
+AuthorURL: https://saldoinvoice.com/
+
+Title: Add Keywords To Text
+Category: keywords
+Teaser: Make your article perfect with adding keyword to your text!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-13T12:02:29.11Z
+Help: 
+ID: 1800831028890427392
+PromptHint: [Paste text + keywords:]
+PromptPackageID: 0
+
+Prompt:
+Your task is add one, two or three seo-keywords  to proposed text. Do not change keys. Add an within the meaning of the text. Do not change. All output should be in [TARGETLANGUAGE]. 
+
+[PROMPT]

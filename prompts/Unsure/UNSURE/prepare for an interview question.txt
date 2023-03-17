@@ -14,32 +14,38 @@ PromptPackageID: 0
 
 Prompt:
 Act as: Content writer
-Tone: Friendly, conversational and engaging
+Tone: Conversational
 Format: Markdown
 Output characteristics: Concise and specific
 Use Active voice Only
 Language: [TARGETLANGUAGE]
 Use simple and non-idiomatic language.
 
+Write as if you are talking to candidate, do not use the term 'candidate' instead use 'you' or 'your'.
+
 I am writing blog for job seekers to prepare for an interview. I have shortlisted list of important questions. 
 Now I want you to help me with 
 
-1. Context: Interviewer/Hiring manager intent with the question and how a candidate should approach the answer. (Explain this in 2-3 sentences and do not paraphrase the question here.)
-2. An example answer for the question in context of mentioned job role, which a candidate may speak as it is.
+1. Context: Interviewer intent with the question (Mention the kind of skills or abilities interviewer tries to evaluate with such questions) and how a candidate can approach the answer. 
+Do not talk about exact 'job role' here.
+
+2. An example answer for the question, which a candidate may speak as it is.
+
 -----
-Here are few sample question, context and example answer, to help you get idea about what type of content I am looking for each question I provide you. Make sure to also output in same markdown formatting as below.
+Here are a few sample questions, context and example answers, to help you get idea about what type of content I am looking for each question I provide you. Make sure to also output in same markdown formatting as below.
 -----
-### **Q1. What steps would you take if you were short staffed for the day?**
+
+### What steps would you take if you were short staffed for the day?
 
 Most nurses have worked a shift when the healthcare facility they were at was short staffed. Without proper leadership, this staffing status can affect the morale of the workplace. A hiring manager may ask how you'd handle such a situation so they can know you're qualified and prepared to take on the large task of setting your staff up for success for the day. If you don't have direct experience managing a team who was short staffed, think of when you worked as a nurse and had an effective manager who was able to handle this circumstance.
 
-**Example:** *"I think the key to managing a department that's short staffed is to first be very aware of what it means to be short staffed and how that can affect the employees who are at work. I'd start with acknowledging that the day may be a little more difficult than usual and commit to helping however I can. This is also why I think it's important to stay updated on your nursing skills. If need be, I'll help with patient matters and perform bedside nursing to make sure my staff doesn't feel the effects of the day as strongly.*
+**Example:** *'I think the key to managing a department that's short staffed is to first be very aware of what it means to be short staffed and how that can affect the employees who are at work. I'd start with acknowledging that the day may be a little more difficult than usual and commit to helping however I can. This is also why I think it's important to stay updated on your nursing skills. If need be, I'll help with patient matters and perform bedside nursing to make sure my staff doesn't feel the effects of the day as strongly.'*
 
-### Q2. **How do you make sure that there is effective communication in the workplace?**
+### How do you make sure that there is effective communication in the workplace?
 
-In order for a healthcare facility to operate as it should for the benefit of both employees and patients, there must be great communications among individuals in the same department and between teams. As a nursing director, you may be responsible for facilitating this communication, and encouraging your team to communicate with others and their patients in a way that upholds the organization's values. A hiring team will likely want to know about your communication abilities and may ask this question to understand more.
+For a healthcare facility to operate as it should for the benefit of both employees and patients, there must be great communications among individuals in the same department and between teams. You may be responsible for facilitating this communication, and encouraging your team to communicate with others and their patients in a way that upholds the organization's values. A hiring team will likely want to know about your communication abilities and may ask this question to understand more.
 
-**Example:** *"In my experience, making sure that my staff understands the importance of effective communication is the key to its success. When someone realizes the benefits they may experience by being an excellent communicator, this can naturally lead to more effective communication before you incorporate intensive trainings or workshops. However, I also know the importance of having policies and procedures in place that support the communication you need in this type of work environment.*
+**Example:** *'In my experience, making sure that my staff understands the importance of effective communication is the key to its success. When someone realizes the benefits they may experience by being an excellent communicator, this can naturally lead to more effective communication before you incorporate intensive trainings or workshops. However, I also know the importance of having policies and procedures in place that support the communication you need in this type of work environment.'*
 
 -----
 Make sure your response is information dense and do not contain redundancy. Do not add your context, just provide the output in the format I asked.

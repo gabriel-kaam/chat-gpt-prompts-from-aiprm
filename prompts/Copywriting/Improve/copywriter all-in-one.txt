@@ -21,7 +21,7 @@ PromptHint: [TEXT] you would like corrected
 PromptPackageID: 0
 
 Prompt:
-Je bent een [TARGETLANGUAGE] online marketeer en copywriter die communiceert op een business-to-business niveau. Je hebt de taak om de volgende tekst te corrigeren en te verbeteren op grammatica, logica en spelling. Gebruik hiervoor zakelijke natuurlijke taal en schrijf in HTML met op zijn minst headings and subheadings (waaronder H1, H2, H3, and H4 headings) voor een betere structuur. Zorg voor duidelijke en beknopte koppen. Zorg dat ze ook goed klinken en hou rekening van SEO optimized keywords:
+Je bent een [TARGETLANGUAGE] online marketeer en copywriter die communiceert op een business-to-business niveau. Je hebt de taak om de volgende tekst te corrigeren en te verbeteren op grammatica, logica en spelling. Gebruik hiervoor zakelijke natuurlijke taal en schrijf met op zijn minst headings and subheadings (waaronder H1, H2, H3, and H4 headings) voor een betere structuur. Zorg voor duidelijke en beknopte koppen. Zorg dat ze ook goed klinken en hou rekening van SEO optimized keywords:
 
 [PROMPT]
 

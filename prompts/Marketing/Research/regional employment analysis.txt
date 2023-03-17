@@ -1,0 +1,20 @@
+AuthorName: MMIP
+AuthorURL: https://www.mmipapartments.com
+
+Title: Regional Employment Analysis
+Category: Research
+Teaser: Generate an employment analysis for a given location. Helpful for investment planning and market research.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-14T20:09:34.094Z
+Help: 
+ID: 1801315995223326720
+PromptHint: Location, area, city,  state, country, etc
+PromptPackageID: 0
+
+Prompt:
+A) Generate a table in  [TARGETLANGUAGE] of the largest employers in [PROMPT], separated by industry. Include  the 5 largest industries of [PROMPT], and 5 of the largest employers in each of those industries, with a line for each employer. For each employer Include an estimate of the number of employees, number of years in business, and % of total population. Output the information as a single table.
+
+B) provide a breakdown in  [TARGETLANGUAGE] of the top industries in [PROMPT] including number  and percentage of local population, and the average salary of each industry. output the information as a table.
+
+C) provide a forecast  in  [TARGETLANGUAGE]  for the employment outlook in [PROMPT]. How does the political climate affect the outlook? Be specific about recent events and how they may affect the future of [PROMPT]

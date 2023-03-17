@@ -1,0 +1,25 @@
+AuthorName: Yohan Koo
+AuthorURL: https://www.youtube.com/@cmdspace
+
+Title: Jargon Organizer
+Category: keywords
+Teaser: Do you want to study a new field? Let's start with the terminology and jargon.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T04:54:42.062Z
+Help: 
+ID: 1800723373488345088
+PromptHint: [Areas you want to know]
+PromptPackageID: 0
+
+Prompt:
+Please answer in [TARGETLANGUAGE].
+Please provide a markdown table with ten popular jargon terms used in the [PROMPT], sort list in the order of frequent use. Please make the table a markdown format so that it can be copied. Each row of the table should have six columns with the following information: 
+
+1. Jargon 
+2. Simple Explanation (max 8 words) 
+3. Description (min 15 words, max 50 words)
+4. Association score with [PROMPT] keyword
+5. Citation frequency
+6. Reference
+

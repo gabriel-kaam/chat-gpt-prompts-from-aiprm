@@ -1,0 +1,24 @@
+AuthorName: Ludo SALENNE
+AuthorURL: https://www.youtube.com/c/LudovicSalenne
+
+Title: Create a Buyer Persona
+Category: marketing
+Teaser: Create a Full Buyer Persona in one click !
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-15T12:36:53.344Z
+Help: 
+ID: 1801564462646562816
+PromptHint: [Your product or service - Your location]
+PromptPackageID: 0
+
+Prompt:
+All output should be in [TARGETLANGUAGE]
+
+[PROMPT]
+
+En tant qu'expert en marketing et en étude de marché spécialisé dans [VOTRE DOMAINE D'ACTIVITÉ], peux-tu créer un Buyer Persona complet pour une entreprise dont le marché se situe dans la zone géographique [VOTRE ZONE GÉOGRAPHIQUE] ?
+
+Structure ta réponse uniquement avec ces 6 parties en prenant soin de les séparer : les critères socio-démographiques dans un tableau, une courte description du Persona, un tableau pour la psychographie, un tableau pour ses comportements d'achat, une liste des 5 problématiques clés que rencontre le Persona et pour lequel mon produit est une solution sous la forme d'une question et une liste des 5 arguments clés à mettre en avant pour le convaincre d'acheter.
+
+Merci de rédiger ta réponse en français et de la présenter dans un style d'écriture analytique et sérieux.

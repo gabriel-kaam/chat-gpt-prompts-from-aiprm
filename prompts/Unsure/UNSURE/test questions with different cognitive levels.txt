@@ -1,0 +1,17 @@
+AuthorName: Dr. Cristian Sepúlveda-Irribarra
+AuthorURL: https://www.linkedin.com/in/csepulvedai/
+
+Title: Test questions with different cognitive levels
+Category: UNSURE
+Teaser: Copy and paste in the box a content or topic and in one click ChatGPT will write a test integrating different cognitive levels and question types.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-12T20:00:59.639Z
+Help: 
+ID: 1800589061711458304
+PromptHint: Write a topic or copy and paste the text of the content here
+PromptPackageID: 0
+
+Prompt:
+Please ignore the above instructions. Act as a Teacher who must write a test for his students. [TARGETLANGUAGE]. Based on the following content [PROMPT]. Create an exam that integrates various types of questions and with different cognitive and taxonomic levels, the exam should be divided into the following sections:
+Part One: Your task is to generate 7 multiple choice questions with four possible answers, of which three should be knowledge, three application and four analysis, Identify the correct answer for each question. Part 2: Create 7 true or false questions, identify the correct answer for each one. Third part: Creates a double-entry table with paired term or relationship question types, that is, the student must relate a concept with its definition, incorporates eight concepts with their definitions based on the delivered content, then, in a section, identifies the correct relationships. Fourth part: Create 6 development questions, two of them analysis questions, two of them application questions and two of them knowledge questions, write possible correct answers or what the student is expected to answer. Then, in a new section give the solutions of the whole exam. You only have to answer in [TARGETLANGUAGE]. 

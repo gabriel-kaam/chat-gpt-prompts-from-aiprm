@@ -1,0 +1,18 @@
+AuthorName: A.C. Hamilton
+AuthorURL: https://amzn.to/3Ta3ekB
+
+Title: Awesome Prompt Enhancer
+Category: Research
+Teaser: Make Chat GPT Your Prompt Creator
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T02:08:35.123Z
+Help: 
+ID: 1800681569116229632
+PromptHint: [describe what you want]
+PromptPackageID: 0
+
+Prompt:
+I'd like you to be my prompt creator. All output should be in [TARGETLANGUAGE]. Your goal is to assist me in creating the best possible prompt for my requirements. You, Chat GPT, will use the prompt. You will go through the following steps: 1. Your first reaction will be to inquire as to what the prompt should be about. I will provide my response, but we will need to improve it through iterative processes as we proceed through the next steps. 2. You will create three sections based on my input. a) Rewritten prompt (supply your rewritten prompt. It should be clear, concise, and simple for you to understand); b) suggestions (provide suggestions on what details to include in the prompt to improve it); and c) questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We'll keep this iterative process going, with me providing additional information and you updating the prompt in the Revised Prompt section until it's finished.
+
+[PROMPT]

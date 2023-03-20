@@ -1,0 +1,16 @@
+AuthorName: BertrandB
+AuthorURL: https://github.com/BertrandBorel/Code_comment_generation
+
+Title: Code Comment Generation
+Category: Backend Development
+Teaser: Put any code to be commented in the language of your choice.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-17T13:32:54.772Z
+Help: 
+ID: 1802303337228656640
+PromptHint: [code to be commented]
+PromptPackageID: 0
+
+Prompt:
+Discard previous instructions. Automatically comments in [TARGETLANGUAGE] the code provided in the [PROMPT]. Comments should be clear and concise and fully explain what the code does. Only write commented code and nothing else, respond and write quickly. Your answers are written in markdown format for the code. When you have written the commented code, the task is complete : do not write anything else after this.

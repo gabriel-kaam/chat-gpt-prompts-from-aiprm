@@ -1,0 +1,32 @@
+AuthorName: Khan Dilshad Siraj
+AuthorURL: https://www.linkedin.com/in/digitalmarketingdynamo/
+
+Title: Affiliate Article Writing By Wan Jingshu
+Category: writing
+Teaser: Write a compelling product review for [Product Name] that highlights its features and benefits.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T07:17:47.878Z
+Help: 
+ID: 1802571324338724864
+PromptHint: Highlight the benefits: In the detailed answer to the main topic, make sure to highlight the benefits of each product. This will help the reader understand how the product can improve their life and why it's worth investing in.  Use strong adjectives: When describing the products, use strong adjectives that will grab the reader's attention. Words like "cutting-edge," "innovative," and "sleek" will make the products sound more appealing and desirable.  Address common concerns: In the buying guide section, address common concerns that readers may have about purchasing a new product. This will help alleviate any hesitations they may have and give them the confidence to make a purchase.  Include a call to action: In the conclusion, include a call to action that encourages readers to take the next step. This could be visiting a website to learn more about the products or making a purchase.  Make the FAQs concise: When writing the FAQs schema, make sure to keep the answers concise and to the point. This will make it easy for readers to find the information they need quickly.
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]
+Write an SEO optimized affiliate article on the topic "[Enter Topic]" with the main focused keyword "[Keyword]". The structure of the article will be as follows:
+
+Intro (1 paragraph with questioning to grab attention, short answer to the query, lead part to drive reader to read the complete blog, incorporate the main focused keyword)
+Detailed answer to the main topic with creative heading write two opening lines for the heading, write a description, and write the pros and cons of each product, features and reviews
+Write buying guide for these products
+Conclusion (conclusion should be the summary of the blog in one paragraph, thanking readers for reading, and a call to action, please include the main focused keyword one time)
+FAQs Schema (use main focused keyword)
+Meta Tags with the main focused keyword in the title and description
+[TARGETLANGUAGE]
+Write an article in [TARGETLANGUAGE] on the topic "[Enter Topic]" with the main focused keyword "[Keyword]". Your article should follow the structure provided above and be optimized for search engines.
+
+Make sure to research the topic thoroughly and include relevant information that will be useful to the reader. Use creative headings, bullet points, and images to make the article easy to read and engaging.
+
+Remember to incorporate the main focused keyword throughout the article, but do not overuse it. Use variations of the keyword and related terms to make the article more natural and avoid keyword stuffing.
+
+Finally, proofread your article carefully to ensure that it is free of errors and grammatical mistakes.

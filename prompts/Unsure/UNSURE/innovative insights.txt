@@ -1,0 +1,19 @@
+AuthorName: Dániel
+AuthorURL: https://www.instagram.com/danielzapatillas_/
+
+Title: Innovative Insights
+Category: UNSURE
+Teaser: Get 1. A disruptive idea and 2. Consumer behaviour insights
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-20T12:07:01.783Z
+Help: 
+ID: 1803368887623086080
+PromptHint: [Industry, topic, product, service... that you want to get innovative insights from]
+PromptPackageID: 0
+
+Prompt:
+The answer will be in [TARGETLANGUAGE].
+
+1. What will be the next disruptive [PROMPT] product?
+2. What do people love about [PROMPT]?

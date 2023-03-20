@@ -20,7 +20,7 @@ Here is the definition of thoose variables
 
 Use it to fill the next prompt, do not show that you are using variables, you cant use symbols or any special character:
 
-If you need to explain the [1] style to a "Text to Image" AI how would you describe it? add information about the perspective and best way to display the design for printing. Avoid giving instructions to add text. be specific DO NOT ADD TEXT.
+If you need to explain the [1] style to a "Text to Image" AI how would you describe it? add information about the perspective and best way to display the design  Avoid giving instructions to add text. be specific DO NOT ADD TEXT.
 The design must be [2] Do not list the description, make it all in one parragraph, but detailed. Add information about the style in a detailed way, make sure the description is visually accurate.
 Dont tell me what you are doing just pint the specific instructions for the AI. Start Always with "/imagine " . and create all the response in one parragraph.
 

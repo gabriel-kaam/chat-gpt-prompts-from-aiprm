@@ -1,0 +1,19 @@
+AuthorName: Charles
+AuthorURL: https://www.charlesmcdowell.com
+
+Title: Charles' Monthly Content Creation
+Category: marketing
+Teaser: Create a monthly content calendar.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-17T15:47:46.997Z
+Help: 
+ID: 1802337278480351232
+PromptHint: Keyword / Topic
+PromptPackageID: 0
+
+Prompt:
+I'd like you to help me come up with a content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these blog posts. Please organize each blog post title in a nice looking table so that it looks like a calendar. Each week should be separated into its own table.
+
+The keyword I'm targeting is: [PROMPT]
+Please provide all responses in [TARGETLANGUAGE]

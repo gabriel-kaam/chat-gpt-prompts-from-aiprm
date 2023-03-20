@@ -13,5 +13,6 @@ PromptHint: [Keyword]
 PromptPackageID: 0
 
 Prompt:
-Write a Instagram reel description for [PROMPT] (Do it with emoji and funny, and at the end add 20 related hashtags)
+Write a Instagram Reel description for [PROMPT] (Do it with emoji and funny, and at the end add 20 related hashtags) 
+After Write a tweet for that video and after for Youtube Shorts video title
 [TARGETLANGUAGE] English 

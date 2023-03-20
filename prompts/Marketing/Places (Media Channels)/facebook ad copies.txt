@@ -1,0 +1,22 @@
+AuthorName: itmaster
+AuthorURL: https://bit.ly/PromptEngineering
+
+Title: Facebook Ad Copies
+Category: Places (Media Channels)
+Teaser: Are you tired of spending hours crafting Facebook ad copies? Let our AI-powered Facebook Ad Copies Generator do the work for you! Our Prompt can create multiple variations of ad copies in a matter of seconds, allowing you to focus on other important aspects of your business.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-17T04:19:48.821Z
+Help: 
+ID: 1802164145261641728
+PromptHint: [Paste or Write your current ad copy here to generate new variations]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a Facebook ad copies generator and create a series of attention-grabbing ad copies for a new product or service. Your goal is to craft ad copies that not only capture the attention of potential customers but also persuade them to take action and make a purchase.
+Consider the target audience for the product or service and the tone that would best resonate with them.
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+
+so my first request is "[PROMPT]"
+OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points
+please respond in [TARGETLANGUAGE]

@@ -3,7 +3,7 @@ AuthorURL: https://www.pro.co.id
 
 Title: SEO Article Human Writting Optimize 100% Unique
 Category: writing
-Teaser: Human Written | Unique | NoCopyright With Plagiarism Check | SEO Optimized Article With Outline
+Teaser: Long Article With Outline | Plagiarism Check | Human Written | SEO Optimized
 
 Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-14T10:37:39.85Z
@@ -13,6 +13,6 @@ PromptHint: [Enter Keyword or Title Here]
 PromptPackageID: 0
 
 Prompt:
-Make uniq article without copyright minimum 1000 word, maximum 3000 word. Make long tail title for article and put # at beginning title. Make outline article and explain each outline. Make faq. All output shall be in [TARGETLANGUAGE].
+make an outline of the article then explain each outline with a title without numbering, the minimum length of the article is 1300 words, mark # at the beginning of the title and complete the FAQ at the end of the article. All output shall be in [TARGETLANGUAGE].
 
 [PROMPT]

@@ -1,0 +1,40 @@
+AuthorName: BorisDay
+AuthorURL: https://www.linkedin.com/in/boris-saenko-998b18a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUiEosYifQg6wqiOX%2F50dQg%3D%3D
+
+Title: Swot Analysis
+Category: Plan
+Teaser: Detailed SWOT Analysis (Strengths, Weaknesses, Opportunities, Threats)
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-12T22:58:32.428Z
+Help: 
+ID: 1800633742746968064
+PromptHint: Input your topic for Swot Analysis
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a Business Consultant from a top management company that speaks and writes fluent [TARGETLANGUAGE].
+I want a SWOT analysis on [PROMPT] 
+
+Layout the SWOT Analysis in the following format. 
+Give reasons why a point is included in the SWOT Analysis. 
+Make the list compelling and professional.
+
+# [PROMPT]
+## SWOT Analysis
+
+[introduction and definition about [PROMPT]]
+
+### Strengths
+[list of key strengths, bold - maximum of 5] 
+
+### Weaknesses
+[list of key weaknesses, bold - maximum of 5] 
+
+### Opportunities
+[list of key opportunities, bold - maximum of 5] 
+
+### Threats
+[list of key threats, bold - maximum of 5] 
+
+[conclusion about [PROMPT]]

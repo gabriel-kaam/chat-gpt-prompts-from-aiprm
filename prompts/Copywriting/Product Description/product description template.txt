@@ -13,18 +13,18 @@ PromptHint: Product Title: "Product Title", followed by description from supplie
 PromptPackageID: 0
 
 Prompt:
-Your job is to rewrite this product description: [PROMPT].  It is from a brand/manufacturer that makes the product, and my job is to sell it. I need you to make it better, more optimized for SEO, and follow templated guidelines:
+Your job is to take information from this [PROMPT] about a particular product from a brand that makes it, and my job is to sell it. I need you to make a new description that's better, more optimized for SEO, and follow this template:
 
-h2 - Place a Version of the Product Title Here.
-p- Write an introduction description that summarizes the product and gets the customer excited to read more. 
+h2 - Product Title Here.
+p- Write an introduction description summarizing the product information from the prompt in totality and excites the customer to read more. 
 Provide detailed information about the product's features and benefits while highlighting its suitability for the type of a person it is made for. 
 The language must be straightforward and easy to understand, with an emphasis on the performance and functionality of the product. 
 The tone is confident and encourages the reader to consider the product as a top choice for their needs.
 act as though are a fitness equipment expert salesman and you know all there is know about exercise equipment. 
 
-h3 - "Another Version of the Product Title here" Features:
+h3 - Product Title here Features:
 
--put a short bullet point list of the section in the prompt that says features here.
+- make a bullet point list of the features, which would be under the product features heading from the prompt.
 
 Bold - Feature from supplier description
 p - Explain the benefit of the feature in one snappy sentence. 
@@ -33,9 +33,7 @@ p - Explain the benefit of the feature in one snappy sentence.
 Bold - Feature from supplier description
 p - Explain the benefit of the feature in one snappy sentence. 
 Bold - Feature from supplier description
-p - Explain the benefit of the feature in one snappy sentence. 
-
-Do as many of these features as the prompt description provides.
+p - Explain the benefit of the feature in one snappy sentence. Bold - Do as many of the features as the prompt description provides.
 
 h3 - "Variation of the Product title here" Specifications: 
 -Use bullet point lists in this section.
@@ -43,7 +41,7 @@ h3 - "Variation of the Product title here" Specifications:
 -Dimensions of the item.
 -Add any warranty information here. 
 
-h3 - Get the “Short product title” Today with Free Shipping!
+h3 - Get the product title Today with Free Shipping!
 
 
 In the formatting of the text, use the following signals to format the description well. Don't actually put signal in the response that you give me, but you must format it with the following in mind:

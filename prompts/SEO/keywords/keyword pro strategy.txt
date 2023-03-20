@@ -1,0 +1,16 @@
+AuthorName: Hiam Custódio
+AuthorURL: https://www.instagram.com/hiam.ads/
+
+Title: Keyword pro strategy
+Category: keywords
+Teaser: Create a strategy keiwords for your plan [KEYWORD]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T14:40:27.978Z
+Help: 
+ID: 1802320337606807552
+PromptHint: [Keyword] or list of keywords
+PromptPackageID: 0
+
+Prompt:
+crie uma tabela com as melhores palavras-chave em [TARGETLANGUAGE] do nicho [PROMPT] [KEYWORD], com informações detalhadas sobre as palavras, mostre a média de buscas mensais com base no planejador de palavras do Google, de forma precisa e de acordo com cada palavra única no pais da linguagem [TARGETLANGUAGE], divida em tópicos, Não use de forma alguma palavras-chave muito genéricas como "introdução" ou "conclusão" ou "tl:dr". Foque apenas nas palavras-chave com a maior intenção de compra. Não use aspas simples, aspas duplas ou qualquer outro caractere de delimitação em nenhuma das colunas que você preencher. A tabela em markdown deve estar em [TARGETLANGUAGE] e ter as seguintes colunas: CPC, média de buscas, palavra-chave, intenção de pesquisa. o CPC e a média de buscas devem ser baseados na moeda e pais da linguagem [TARGETLANGUAGE], sendo a média de buscas baseadas no planejador de palavras-chave do google e de forma precisa somente para cada palavra-chave. o CPC deve ser o lance da parte superior. As palavras-chave devem ser as mais buscadas e as com mais intenção de compra do nicho. Aqui está a palavra-chave para começar novamente: [PROMPT] [KEYWORD].

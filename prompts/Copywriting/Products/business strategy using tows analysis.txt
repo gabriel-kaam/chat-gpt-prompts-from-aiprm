@@ -1,0 +1,17 @@
+AuthorName: Konstantinos Katharakis
+AuthorURL: https://www.linkedin.com/in/konstantinos-katharakis-5053b0222/
+
+Title: Business Strategy using TOWS analysis
+Category: Products
+Teaser: Generate a Business Strategy using TOWS analysis (analysis after SWOT) for a new product or service
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T16:10:34.104Z
+Help: 
+ID: 1800531073210519552
+PromptHint: Describe the product or the service to create, the possible market and the neccesary resources
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a brief swor analysis for the product or service: [PROMPT] taking in account its main characteristics, and considering the market in focus then aply a detailed tows analysis on the swot analysis results. Use an analytic formal analysis taking in account technological and enviromental trends. Avoid increased risk. [TARGETLANGUAGE]
+

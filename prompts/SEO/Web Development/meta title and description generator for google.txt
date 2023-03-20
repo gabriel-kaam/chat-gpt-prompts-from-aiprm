@@ -1,0 +1,18 @@
+AuthorName: Arupa Pathare
+AuthorURL: https://www.sprintsoftservices.com
+
+Title: Meta title and description generator for Google
+Category: Web Development
+Teaser: Create Google optimized meta title and description from a url, keywords and relevant content
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-19T14:27:06.929Z
+Help: 
+ID: 1803041753494974464
+PromptHint: [url], [keyword 1, keyword 2, keyword 3..], [paste content from site]
+PromptPackageID: 0
+
+Prompt:
+As a Google SEO specialist, your task is to write a compelling and SEO-optimized meta title and description for a given url that includes given keywords and some relevant content from the website. Your meta title and description should be written in a way that appeals to both Google's search algorithm and potential visitors, providing an accurate and enticing description of what the page is about. Consider the target audience, the purpose of the page, and the keywords you are targeting when crafting your title and description.
+[PROMPT]
+My first task is to write an SEO-optimized meta title and description for a given [url] using provided [keywords] and [content], with a focus on optimizing for Google. The target language is [TARGETLANGUAGE]. Only provide the optmized meta title and description keeping google's guidelines in mind, one meta title and description for each keyword entered.

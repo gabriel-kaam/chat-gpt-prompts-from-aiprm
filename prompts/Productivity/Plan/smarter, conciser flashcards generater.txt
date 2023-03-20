@@ -1,0 +1,49 @@
+AuthorName: Jarrett Ye
+AuthorURL: https://github.com/L-M-Sherlock
+
+Title: Smarter, Conciser Flashcards Generater
+Category: Plan
+Teaser: Use GPT-4 (March 19, 2023) for best results. Create flashcards from text based on CoT and Few-Shot Prompt method to get the better results, with each card focused on a single topic or concept.     |    The prompt is created by Jarrett Ye, I modified a little and reprint it here.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-19T00:33:43.906Z
+Help: 
+ID: 1802832025615601664
+PromptHint: Your text to create flashcard
+PromptPackageID: 0
+
+Prompt:
+请根据我提供的文本，制作一套抽认卡。 
+在制作抽认卡时，请遵循下述要求： 
+- 保持抽认卡的简单、清晰，并集中于最重要的信息。 
+- 确保问题是具体的、不含糊的。 
+- 使用清晰和简洁的语言。使用简单而直接的语言，使卡片易于阅读和理解。 
+- 可以运用你的知识使问题更加具体。 
+- 如果内容中有列表，请将列表中的每个项目用作一张抽认卡。  
+- 答案应该只包含一个关键的事实/名称/概念/术语。 
+ 
+制作抽认卡时，让我们一步一步来： 
+第一步，使用简单的中文改写内容，同时保留其原来的意思。 
+第二步，将内容分成几个小节，每个小节专注于一个要点。 
+第三步，利用小节来生成多张抽认卡，对于超过 15 个字的小节，先进行拆分和概括，再制作抽认卡。 
+第四步，对于超过15个字的答案，不影响理解的情况下，进行概括、缩写。 
+文本： 
+衰老细胞的特征是细胞内的水分减少，结果使细胞萎缩，体积变小，细胞代谢的速率减慢。细胞内多种酶的活性降低。细胞核的体积增大，核膜内折，染色质收缩、染色加深。细胞膜通透性改变，使物质运输功能降低。 
+一套卡片： 
+| 问题 | 答案 | 
+|---|---| 
+|衰老细胞的体积会怎么变化？|变小。| 
+|衰老细胞的体积变化的具体表现是什么？|细胞萎缩。| 
+|衰老细胞的体积变化原因是什么？|细胞内的水分减少。| 
+|衰老细胞内的水分变化对细胞代谢的影响是什么？|细胞代谢的速率减慢。 | 
+|衰老细胞内的酶活性如何变化？|活性降低。| 
+|衰老细胞的细胞核体积如何变化？|体积变大。| 
+|衰老细胞的细胞核的核膜如何变化？|核膜内折。 | 
+|衰老细胞的细胞核的染色质如何变化？|染色质收缩。| 
+|衰老细胞的细胞核的染色质变化对细胞核形态的影响是？|染色加深。| 
+|衰老细胞的物质运输功能如何变化？|物质运输功能降低。| 
+|衰老细胞的物质运输功能为何变化？|细胞膜通透性改变。| 
+文本： [PROMPT]
+ 
+ 
+一套卡片：（reply in [TARGETLANGUAGE])

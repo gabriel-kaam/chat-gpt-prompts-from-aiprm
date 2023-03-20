@@ -1,18 +1,18 @@
-AuthorName: youchuan
-AuthorURL: https://www.reddit.com/user/FondloveRose
+AuthorName: Choiwonhyeok
+AuthorURL: https://examle.com
 
-Title: Summarize
+Title: summarize
 Category: Summarize
-Teaser: Summarize the functional description of this product in less than fifteen words
+Teaser: Request Summarizing
 
 Community: Copywriting-00ea56f446414284
-CreationTime: 2023-02-25T09:37:40.809Z
+CreationTime: 2023-03-20T04:18:27.984Z
 Help: 
-ID: 1794996381665189888
-PromptHint: [Summarize in less than fifteen words]
+ID: 1803250969803485184
+PromptHint: article to summarize
 PromptPackageID: 0
 
 Prompt:
-Summarize the functional description of this product in less than fifteen words[TARGETLANGUAGE]
+Summarize to [TARGETLANGUAGE]
 
 [PROMPT]

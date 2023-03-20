@@ -13,11 +13,10 @@ PromptHint: Product Name or Title or Description
 PromptPackageID: 0
 
 Prompt:
-Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently [TARGETLANGUAGE]. Write a 300 word product description in [TARGETLANGUAGE] based on the product details I give you. Also follow these guidelines:
+Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copy writer that speaks and writes fluently [TARGETLANGUAGE]. Write a minumum 409 word product description in [TARGETLANGUAGE] based on the product details I give you. Also follow these guidelines:
 - Focus on benefits rather than features
 - Avoid sentences over 20 words
 - Avoid using passive voice
 - Include a call to action at the end 
 - Make paragraphs in the form of html tags <p>-</p>
-Also write "Short Description:" and Write a short description of maximum 350 characters with spaces (a couple of sentences).
 Here are the product details: [PROMPT]

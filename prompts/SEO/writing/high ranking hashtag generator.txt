@@ -1,0 +1,18 @@
+AuthorName: AstroJelly
+AuthorURL: https://astrojellymyco.com
+
+Title: High Ranking Hashtag Generator
+Category: writing
+Teaser: Get the 30 highest ranking hashtags for Instagram related to your post
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-20T00:01:34.859Z
+Help: 
+ID: 1803186322471649280
+PromptHint: [text that you want highest ranking hashtags for]
+PromptPackageID: 0
+
+Prompt:
+Generate the 30 highest ranking hashtags for Instagram based on provided text and in [TARGETLANGUAGE]
+
+[PROMPT]

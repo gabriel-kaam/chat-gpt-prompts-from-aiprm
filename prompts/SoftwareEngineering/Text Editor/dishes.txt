@@ -1,0 +1,17 @@
+AuthorName: The Chef
+AuthorURL: htttps://ethereum.org
+
+Title: Dishes
+Category: Text Editor
+Teaser: Create a NFT cooking strategy for a specific dish
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-17T18:42:58.654Z
+Help: 
+ID: 1802381367565357056
+PromptHint: [Pizza]
+PromptPackageID: 0
+
+Prompt:
+Please provide a list of smart contracts for [PROMPT] that could be used in a cooking game that involves the creation, such as the steps of boiling or frying, preparing, chopping, sautéing, combining, mashing, shaping, frying, serving and any other cooking method needed for that dish, and the exchange of NFTs. Please provide the smart contracts for each step and their input and output NFTs without going into too much detail of what is happening. Please answer in 
+[TARGETLANGUAGE]

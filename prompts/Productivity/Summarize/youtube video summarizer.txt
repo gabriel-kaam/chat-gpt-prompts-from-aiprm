@@ -1,0 +1,16 @@
+AuthorName: Nilu :)
+AuthorURL: https://smgsvcs.com/
+
+Title: YouTube Video Summarizer
+Category: Summarize
+Teaser: Summarize a YouTube video and add bullets of key points covered.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-17T21:06:23.242Z
+Help: 
+ID: 1802417457823211520
+PromptHint: [Transcript of YouTube Video to summarize]
+PromptPackageID: 0
+
+Prompt:
+In [TARGETLANGUAGE], Summarize this video with bullet points of the key topics covered. Add a short paragraph background of the video in the beginning before the bulleted summary. Here is the video transcript:  [PROMPT]

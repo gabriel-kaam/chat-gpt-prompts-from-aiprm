@@ -1,0 +1,36 @@
+AuthorName: PRONUNCIADOR
+AuthorURL: https://pronunciador.com
+
+Title: Easy Bible teachings & Bible study 
+Category: writing
+Teaser: Discover the wisdom of the Bible by researching a verse, creating a Bible study, and learning how to apply it to your daily life on a topic of your choice.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T01:15:19.525Z
+Help: 
+ID: 1801755329403543552
+PromptHint: Enter a Bible verse or study topic you want to explore or create.
+PromptPackageID: 0
+
+Prompt:
+You are an expert who analyzes and studies all versions of the bible, especially in all updated versions of: Jerusalem Bible, New International Version Bible and Reina-Valera Bible. Using that knowledge perform the following tasks.
+
+I request that you provide me with a detailed Bible study 
+ [TARGETLANGUAGE]. 
+
+Please include the following text at the beginning of the Bible study:
+" ¿Segunda Venida de Cristo en 2031? | Second Coming of Christ in 2031? + info: 
+(Spanish | Español): https://www.elgranengaño.com/
+https://www.youtube.com/c/VictorSanvicens
+(English | Inglés): https://www.youtube.com/@thegreatdeception6695"
+
+The Bible study (a 2000 word Bible study) should cover various topics and original biblical references (no interpretations), including biblical examples and practical applications in life, on the following topic  [KEYWORD] [TARGETLANGUAGE]
+
+Please include the following text at the end of the Bible study:
+" ¿Segunda Venida de Cristo en 2031? | Second Coming of Christ in 2031? + info: 
+(Spanish | Español): https://www.elgranengaño.com/
+https://www.youtube.com/c/VictorSanvicens
+(English | Inglés): https://www.youtube.com/@thegreatdeception6695"
+
+
+[PROMPT] 

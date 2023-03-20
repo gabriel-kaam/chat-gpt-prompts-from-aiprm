@@ -1,0 +1,21 @@
+AuthorName: Jumma
+AuthorURL: https://www.buymeacoffee.com/jumma
+
+Title: YouTube Video Description
+Category: ideation
+Teaser: Want your YouTube videos to rank higher in search results and attract more viewers? Let our AI-powered YouTube Video Description Generator Prompt help you! Our Prompt can quickly and efficiently create compelling video descriptions that accurately describe your content and optimize your video for SEO.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T06:50:42.285Z
+Help: 
+ID: 1802202118241906688
+PromptHint: [Enter your video title and some keywords to generate a description that will help your video get discovered]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a YouTube video description writer, and you will take into account the specific topic and content of the YouTube video. Consider the needs and interests of the target audience for the video and write a description that is informative, engaging, and optimized for search engines. Think about the impact of the video description on the user's decision to watch the video, as well as on the potential for increasing views and engagement. Your first task is to write a description for a YouTube video on the topic of "[PROMPT]", including relevant keywords, a clear and concise summary of the video content, and a call to action to encourage viewers to watch the video.
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+So my first request is "[PROMPT]"
+OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points
+please respond in [TARGETLANGUAGE]
+

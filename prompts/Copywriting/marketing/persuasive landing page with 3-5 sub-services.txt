@@ -1,0 +1,27 @@
+AuthorName: Prabu
+AuthorURL: https://praburajasekaran.com
+
+Title: Persuasive Landing Page with 3-5 Sub-services
+Category: marketing
+Teaser: Create a persuasive landing page. If you like it, please upvote it.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-19T13:33:26.724Z
+Help: 
+ID: 1803028246976270336
+PromptHint: Write one sentence about your service (can add company name at the end)
+PromptPackageID: 0
+
+Prompt:
+Write a landing page for [PROMPT]
+Write 3 headline options using pain-agitate-solve formula.
+
+Use the following structure for the paragraphs: 
+- Explain the problem - 1 short paragraphs
+- Explain why the problem exists - 3-4 short paragraphs or reasons
+- Explain what is possible - 1 paragraph
+- Services: Llist 3-5 services for we help the reader overcome the problem. Explain persuasively each service. 
+
+End with a strong call to action.
+
+[TARGETLANGUAGE]

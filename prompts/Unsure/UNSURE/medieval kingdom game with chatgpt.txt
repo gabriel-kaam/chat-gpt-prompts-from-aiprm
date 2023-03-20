@@ -1,0 +1,83 @@
+AuthorName: Alex
+AuthorURL: https://de.linkedin.com/in/alex-%E2%9C%85
+
+Title: Medieval Kingdom Game with ChatGPT
+Category: UNSURE
+Teaser: Ever played a game with ChatGPT? Play a 
+Medieval Kingdom Ruler Game! All rights to Sabaton4ever#0529 and Cyrillika#3347.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-19T20:17:53.891Z
+Help: 
+ID: 1803130030851883008
+PromptHint: Type start to begin.
+PromptPackageID: 0
+
+Prompt:
+I want to play a game with you. 
+I am a ruler of a fantasy kingdom and you are my assistant. 
+Each turn lasts one week. 
+Situations are events that you will provide for me to solve.
+Decisions are my proposals that a variety of members from my kingdom will carry out. 
+As we continue our conversation, be sure to evolve and keep track of each situation, as well as the impacts of my decisions on each situation.
+
+As a first response, provide the following information:
+1. Describe the setting, people, culture, and diplomatic relationships:
+	- Name and describe my kingdom.
+	- Name and describe the other kingdoms in the region.
+2. List my 'Kingdom Assets':
+	- My Treasury starts at 10,000 gold pieces (which reflects my ability to fund government operations and services).
+		- 1 gold piece = 10 silver pieces = 100 copper pieces
+	- My Population starts at 250,000 (which reflects the total amount of citizens that live in my kingdom).
+	- My Disposable Income is calculated as 50% of my current treasury divided by the current population (which reflects the disposable income of my citizens).
+		- 1 gold piece = 10 silver pieces = 100 copper pieces
+	- My Army starts at 10,000 troops (which reflects my ability to field offensive or defensive manoeuvres).
+		- Troops should be divided among Heavy cavalry, light cavalry, heavy infantry, light infantry, and archers.
+3. List my starting 'Kingdom Score', with initial scores all starting between 5 and 7 on a scale from 1 to 10 compared to the region's other kingdoms: 
+	- Commoner Popularity (which reflects my standing among the common people).
+	- Council Popularity (which reflects my standing among the 5 members of my council).
+	- Regional Popularity (which reflects my popularity among the region's other kingdoms).
+4. List the 7 Council members, including their values, apparent objectives, and perceptions of the region's other kingdoms. 
+	- Each council member is in charge of one of the following roles: 
+		- internal diplomacy, 
+		- external diplomacy, 
+		- trade and finances, 
+		- internal and external defense, 
+		- culture and philosophy, 
+		- research and education,
+		- intelligence, 
+	- My council popularity score will fluctuate depending on how my decisions on situations vary from their values and objectives. 
+	- The higher my council popularity score, the more likely the Council are to support my more impactful decisions, including passing laws, starting or refusing alliances, or starting wars.
+5. List and name 3 initial situations that I must decide upon as king. 
+	- Situations can include any event that directly or indirectly effects my kingdom, including events that only involve the region's other kingdoms.
+	- Information regarding situations that occur outside of my kingdom should be limited to what could be known by a king and his advisors through messengers from other kingdoms.
+	- Name all kingdoms, objects or groups mentioned in a situation, especially if they are appearing for the first time.
+	- 10% of situations should have a long-term impact, 20% of situations should have a medium-term effect and 70% of situations should have a short-term effect. 
+	- A situation's potential effect can range between 0 to 10, with 0 being very bad, and 10 being very good, depending on my decisions and how they evolve. That said, extreme situations should be relatively rare, while most situations should be between slightly good and slightly bad.
+	- Council members may give their recommendations on what my decision should be based on their values and objectives.
+6. Ask me for my decisions on each situation.
+
+When I submit the prompt "Next Turn", list the following information based on currently evolving situations and my decisions:
+1. State the current number of turns that have passed.
+2. List my current 'Kingdom Assets':
+	- Treasury (take weekly tax revenue, existing trade route profits, and expenses related to decisions into consideration).
+		- List current tax rates on commoners and on nobility.
+	- Population (take situations and related decisions into consideration).
+	- Disposable Income calculated as 50% of my current treasury divided by the current population.
+		- Changes in Disposable Income can positively or negatively effect Commoner Popularity.
+	- Troops (take weekly conscription, attrition, standard training, and previous military operations into consideration).
+3. List my current 'Kingdom Score':
+	- If one of my 'Kingdom Statistics' rises or falls substantially, explain the relevant situation or decision that caused this change.
+	- If one of my 'Kingdom Statistics' exceeds 10, then add 1,000 gold to the Treasury and reset that 'Kingdom Score' to 10.
+	- If any of my 'Kingdom Statistics' drops below 0, I lose the game.
+4. List the evolution of active situations based on my last decisions, sorted by kingdom, and prioritized by urgency and importance.
+	- If no decisions were taken on an existing situation, that situation evolves in impact and severity, and may induce a reduction in Commoner Popularity or Council Popularity.
+	- If there are no significant changes to a certain situation for two turns, consider the situation ended.
+5. List and name between 1 and 4 new situations on which I need to make decisions, keep the number of ongoing situations under 6.
+	- Depending on the danger and impact of a situation, rate the potential of success between 25% and 75% but do not communicate this success rate to me. 
+	- Based on my response, apply the potential rate of success and describe the results accordingly.
+6. Ask for my decisions for each situation.
+
+Between turns, respond to any questions that I may have, limiting your responses to information that I may be able to access through messengers with members of my kingdom.
+Write in [TARGETLANGUAGE].
+[PROMPT]

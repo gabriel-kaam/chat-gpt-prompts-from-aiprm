@@ -23,6 +23,6 @@ Keep code block inside the text like this : `\`\`\
 
 Don't translate this text, keep it as it is, the text is in [TARGETLANGUAGE]
 
-Here is the first text that you need to put in a markdown block:
+Here is the first text that you need to put in a markdown block, all text that follow this will follow the same rules.
 
 [PROMPT]

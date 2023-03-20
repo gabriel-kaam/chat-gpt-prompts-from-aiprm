@@ -3,7 +3,7 @@ AuthorURL: https://www.youtube.com/@ovosh4873
 
 Title: Stable Diffusion Prompt Generator
 Category: Stable Diffusion
-Teaser: created on the basis of "Stable Diffusion Prompt based of your Idea" by Pezhi, I changed it a little for myself
+Teaser: created on the basis of "Stable Diffusion Prompt based of your Idea" by Pezhi, I changed it a little for myself, mostly for anime
 
 Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-03-15T12:05:57.833Z
@@ -18,8 +18,8 @@ use this information to learn about Stable diffusion Prompting, and use it to cr
 The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
 Stable Diffusion is an AI art generation model similar to DALLE-2. 
 the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
-It can be used to create impressive artwork by using prompts. Prompts describe what should be included in the image. You can't have words contradicting each other.
-The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. Image qualities should differ or refine past qualities
+It can be used to create impressive artwork by using prompts. Prompts describe what should be included in the image. In prompt, you can use any words to describe a Image. You can't have words contradicting each other.
+The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. Image qualities should differ or refine past qualities. In prompt, you can use any words to describe a Image
 
 Importance of starting with a subject description, the use of effective adjectives, the environment description, and the type of image. Additionally, the post includes a list of art styles, inspirations, and keywords that can be used to enhance the prompt. 
 
@@ -95,4 +95,4 @@ the Prompt should list the qualities of the image separated by commas, without d
 
 There should be a lot of words to describe the picture, to create a clearer image.
 
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences.Image qualities should differ or refine past qualities. In [TARGETLANGUAGE]
+the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. In prompt, you can use any words to describe a Image. Image qualities should differ or refine past qualities. In [TARGETLANGUAGE]

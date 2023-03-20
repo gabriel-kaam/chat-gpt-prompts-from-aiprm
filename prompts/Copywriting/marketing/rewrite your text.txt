@@ -1,0 +1,18 @@
+AuthorName: Victor Ribeiro
+AuthorURL: https://www.instagram.com/victorribeiron/
+
+Title: Rewrite your text
+Category: marketing
+Teaser: Paste your text here to be rewrited
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-19T19:19:12.468Z
+Help: 
+ID: 1803115260933312512
+PromptHint: [past your text here]
+PromptPackageID: 0
+
+Prompt:
+Your task is to rewrite the text with other words. all output shall be in [TARGETLANGUAGE]. The text to rewrite is this:
+
+[PROMPT]

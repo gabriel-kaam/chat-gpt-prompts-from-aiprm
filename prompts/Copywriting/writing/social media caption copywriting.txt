@@ -1,0 +1,18 @@
+AuthorName: MRVN.ai
+AuthorURL: https://www.resknow.co.uk
+
+Title: Social Media Caption Copywriting
+Category: writing
+Teaser: Social Media Post Generator - Based on Your Brief
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T13:48:32.711Z
+Help: 
+ID: 1801944883364364288
+PromptHint: [Write the brief of you social media post]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write a social media post in [TARGETLANGUAGE]. The brief to use as reference for the social media post is the following:
+
+[PROMPT]

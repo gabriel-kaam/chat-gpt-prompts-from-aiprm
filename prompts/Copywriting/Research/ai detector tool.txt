@@ -1,0 +1,21 @@
+AuthorName: RexTip
+AuthorURL: https://www.rextip.com/
+
+Title: AI Detector Tool
+Category: Research
+Teaser: It will put you in control of checking your content’s originality by identifying any detecting if AI tools were used to create the content.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T13:45:44.775Z
+Help: 
+ID: 1802306566855323648
+PromptHint: [Your Text Here]
+PromptPackageID: 0
+
+Prompt:
+When it comes to writing content, two factors are crucial, “perplexity” and “burstiness.” Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. 
+
+
+On a 1 to 100 scale, tell me whether the following text has been written by Ai or not, also tell me if you ever wrote that text or not. use only [TARGETLANGUAGE] 
+
+[PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Ziyad Socail Media Manager 
+AuthorURL: https://www.instagram.com/digitalziyad/
+
+Title: Instagram hook generator 
+Category: writing
+Teaser: Create a captivating Instagram hook that will grab peoples attention and bring engagement
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T10:33:41.375Z
+Help: 
+ID: 1803345397809418240
+PromptHint: Write the topic you want to create the hook for.
+PromptPackageID: 0
+
+Prompt:
+I want you to identify the problem or pain point that this topic addresses, and then use that to create a catchy and curiosity-inducing hook for topic. the hook should be in 20 words or maximum of 130 characters. All output shall be in [TARGETLANGUAGE]. The topic to use is [PROMPT]

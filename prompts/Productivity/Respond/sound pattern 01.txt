@@ -1,0 +1,16 @@
+AuthorName: Raposo, Gutemberg
+AuthorURL: https://lipeidiomas.com.br
+
+Title: Sound pattern #01
+Category: Respond
+Teaser: Create a list of words with the sound pattern [IE]
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-17T10:46:57.353Z
+Help: 
+ID: 1802261572782129152
+PromptHint: [Time]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] a list of [TARGETLANGUAGE] words bilt with: "consonant", "i", "consonant" and "e". 

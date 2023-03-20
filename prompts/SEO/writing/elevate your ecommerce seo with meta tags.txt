@@ -1,0 +1,23 @@
+AuthorName: Furat Jarad
+AuthorURL: https://www.linkedin.com/in/furatjarad/
+
+Title: Elevate Your Ecommerce SEO with Meta Tags
+Category: writing
+Teaser: Create SEO Optimized Title Tag and Meta Description for e-commerce products websites .. example: " men clothes in USA from tommy hilfiger  "
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-18T15:06:25.55Z
+Help: 
+ID: 1802689258402873344
+PromptHint: [your product or category name] in [ your targeted market] from [ your brand]
+PromptPackageID: 0
+
+Prompt:
+Buyer intent SEO title tag generator, the output to be in [TARGETLANGUAGE]
+
+Generate 20 SEO title tags using [PROMPT]  with max of 65 characters that reflects the transactional intent for e-commerce websites with proper call to actions and popular terms for e-commerce  try to  include all inserted [PROMPT] in the same title tag or meta description + consider to use the following words
+the words are: buy, shop, online, affordable price, for sale, best, free delivery, specs, "in" + (targeted market) mentioned in [PROMPT], "from" + (brand) mentioned in [PROMPT] Also, generate 20 meta description with max of 155 characters using the same words mixed with [PROMPT]. the output should be in a table of title tag and meta descriptions against them.
+Don't suggest a country name along without adding "in" before it
+Don't use duplicate words in the same title or meta description  
+
+

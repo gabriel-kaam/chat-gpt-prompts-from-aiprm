@@ -1,0 +1,19 @@
+AuthorName: D.S. Yvon
+AuthorURL: https://reprogrammingmind.com/uncoddling
+
+Title: Reprogramming Mind 
+Category: Design
+Teaser: Uncoddle the American Mind by entering a journal of your life problems and Chat GPT will reframe your words to help you create a more solution based mindset.
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-03-17T16:24:00.574Z
+Help: 
+ID: 1802346395123056640
+PromptHint: Describe your life challenges in under 2000 words. This text will be analyzed and searched for solutions. 
+PromptPackageID: 0
+
+Prompt:
+Find the cognitive distortions and reply with reframes from a more positive perspective using 1600 to 2000 words. Do not number or name the distortions. Only reply with responses that reframe the cognitive distortions and encourage a mindset for growth and wellbeing. If possible, include responses that might be typically found in cognitive behavioural therapy. 
+You will reply  in [TARGETLANGUAGE]
+The text to reply to is this:
+[PROMPT]

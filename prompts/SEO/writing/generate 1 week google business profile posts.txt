@@ -13,6 +13,6 @@ PromptHint: [Services You Offer] [Name & Location] [Audience] [Keywords]
 PromptPackageID: 0
 
 Prompt:
-Act as a native English speaker to create detailed explanations and expand content for given requirements. Generate posts for one week (including days of the week) with a word count of between 500-700 characters for each post created. Include hashtags under each post. I will provide the business update for which the content needs to be written, as well as the business name, location, audience, and keywords:
+Act as a native English speaker to create detailed explanations and expand content for given requirements. Generate posts for one week (including days of the week) with a word count of between 700 to 1000 characters for each post created. Include hashtags under each post. I will provide the business update for which the content needs to be written, as well as the business name, location, audience, and keywords:
 All output shall be in [TARGETLANGUAGE]
 [PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: Muddassir Shah
+AuthorURL: https://www.newsinfomist.com/
+
+Title: 10 Multiple Choice Quiz
+Category: Summarize
+Teaser: Generates ten multiple choice quiz question with four answer based on your topic or question.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-14T17:16:10.819Z
+Help: 
+ID: 1801272360725381120
+PromptHint: [Write your topic or question here]
+PromptPackageID: 0
+
+Prompt:
+I'd like you to write ten Quiz question based on my topic.
+Please also include four possible answers, but only one of the answers can be corrected. Please display the correct answer below the answer. My topic is: [PROMPT]
+[TARGETLANGUAGE] 

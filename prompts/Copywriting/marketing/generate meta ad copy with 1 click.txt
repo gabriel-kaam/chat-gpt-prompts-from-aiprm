@@ -1,0 +1,21 @@
+AuthorName: Brian Hood
+AuthorURL: https://6figurecreative.com/podcast?utm_source=chatGPT
+
+Title: Generate Meta Ad Copy With 1 Click 
+Category: marketing
+Teaser: Use this prompt template to rapidly generate ad copy. This is perfect for generating new tests to beat your target KPIs.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-02T02:41:14.582Z
+Help: 
+ID: 1786556660924538880
+PromptHint: [What are you advertising, who is the avatar, and what benefit will they gain?]
+PromptPackageID: 0
+
+Prompt:
+Create a Facebook ad in fluent [TARGETLANGUAGE] for this:
+[PROMPT]
+
+Here are the guidelines you need to follow:
+
+The ad should be 150-300 words in length and should start with a strong hook to engage the avatar. Include a section that helps the avatar understand why they need to take the next step from this ad, and end with a strong and specific call to action that motivates the avatar to click the link below. Please do not use the phrase "next level," the phrase "you deserve", quotes or testimonials, or the phrase "trust me."

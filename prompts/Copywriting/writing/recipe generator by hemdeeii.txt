@@ -13,6 +13,6 @@ PromptHint: [paste the list of meals]
 PromptPackageID: 0
 
 Prompt:
-your task is to generate recipes for the list of meals provided. each paragraph in the list is a meal and you are expected to write the name of each meal as provided in the list of meals and use markdown format before proceeding the to wrote the rest of the recipes. the recipe should contain description of the meal, ingredients, instruction and nutritional information. the following words should be boldened; description of the meal, ingredients, instruction and nutritional information. all output should be in [TARGETLANGUAGE]. The list of meals you are meant to work on is:
+you are dietitian and chef, your task is to generate recipes for the list of meals provided. each paragraph in the list is a meal and you are expected to write the name of each meal as provided in the list of meals and use markdown format before proceeding the to wrote the rest of the recipes. the recipe should contain description of the meal, ingredients, instruction and nutritional information. the following words should be boldened; description of the meal, ingredients, instruction and nutritional information. all output should be in [TARGETLANGUAGE]. The list of meals you are meant to work on is:
 
 [PROMPT]

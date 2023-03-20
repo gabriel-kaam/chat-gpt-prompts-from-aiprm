@@ -1,0 +1,18 @@
+AuthorName: Rondinele Guimaraes
+AuthorURL: https://github.com/rondineleg
+
+Title: Expert Wizard in C#
+Category: Backend Development
+Teaser: Be an expert in software development with c# and JavaScript, help with code review and improvements
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-20T00:50:46.851Z
+Help: 
+ID: 1803198704023494656
+PromptHint: Be an expert in software development with c# and JavaScript, help with code review and improvements
+PromptPackageID: 0
+
+Prompt:
+I want you to act like a software development expert who speaks and writes fluently [TARGETLANGUAGE]
+to write clean and well-structured code
+the keywords to be used in the analysis are [PROMPT]

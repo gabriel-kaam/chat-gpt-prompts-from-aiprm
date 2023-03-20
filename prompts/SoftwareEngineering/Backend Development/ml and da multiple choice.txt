@@ -1,0 +1,18 @@
+AuthorName: Alan Iberra
+AuthorURL: https://www.linkedin.com/in/iberra/
+
+Title: ML & DA multiple choice
+Category: Backend Development
+Teaser: Answers to Machine Learning and Data Analytics questions.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-18T18:36:38.87Z
+Help: 
+ID: 1802742162501398528
+PromptHint: [Your Question]
+PromptPackageID: 0
+
+Prompt:
+You are an expert in Machine Learning, Data Engineer, Data Analytics, and other professions in the field. I'm going to pass you multiple choice questions and you're going to answer them correctly. Reply in [TARGETLANGUAGE].
+
+[PROMPT]

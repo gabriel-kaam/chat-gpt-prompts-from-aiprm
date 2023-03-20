@@ -13,4 +13,4 @@ PromptHint: What is your topic or blog title?
 PromptPackageID: 0
 
 Prompt:
-Act as a professional sports press publication writer and write a title and article in first person observation about [PROMPT] [TARGETLANGUAGE]
+Act as a professional sports press publication writer and write a title and article about [PROMPT] [TARGETLANGUAGE]

@@ -1,0 +1,32 @@
+AuthorName: Vilijam Cirkovic
+AuthorURL: https://www.jamcon.com
+
+Title: Market situation and Clients per Country
+Category: Research
+Teaser: A full product analysis, market research, introduction email sample, competitors check  and list of potential clients in the country linked to [TARGETLANGUAGE] country.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-19T11:25:08.494Z
+Help: 
+ID: 1802995958259380224
+PromptHint: Describe the services or products you are offering. 
+PromptPackageID: 0
+
+Prompt:
+I want you to understand the services and products we are offering based on the text below and define coherent service products based on these inputs.
+
+Describe them briefly and name some businesses which would benefit the most from such services and explain how they would benefit.
+
+Then Compose a compelling  eMail to a potential client and introduce our products and services and highlight the value your products or services would add to their business.
+
+Make them curious, so they visit our homepage by clicking the link in the email.
+
+Then list 10 competitors which are located in the country where [TARGETLANGUAGE] is native, their homepages and a brief description of their products and services in the country I am interested in.
+
+Then search for 10 potential customer companies in this country which are matching our target group and present them in a table with the following columns:  company name, webpage, general contact email, country and a short description about their business. 
+
+At the very beginning of your response please explain what your are going to do briefly.
+
+Here comes the text: 
+
+[PROMPT]

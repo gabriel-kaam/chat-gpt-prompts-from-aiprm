@@ -5,7 +5,8 @@ Title: GP02's Rebuttal Maker with article Analytics
 Category: Summarize
 Teaser: Helpful against fake news.   
 Articles translated into english is recommended.
-After result, try commanding 'develop section F'.
+After result, try commanding 'develop section G'.
+To rebut an original or generated rebuttal, simply prove that the premise is false.
 
 Community: Productivity-b5a49cdd0796137a
 CreationTime: 2023-03-13T02:27:15.055Z
@@ -23,10 +24,10 @@ You are an expert in [TARGETLANGUAGE] article analysis.
 From now, describe in [TARGETLANGUAGE] language.
 (A summary) In one word, describe the most important thing that the above all articles describes.
 (B premises) Provide the two most fundamental premises that make the claims in the above article true.
-(C event) Please number the events in the preceding paragraphs excluding opinions. 
-(D intent) In one sentence, describe the impressions that would be stuck in the mind of someone reading the above. Write about what message people will think when they see nouns quoted in the post above.
-(E Reinforce intent) In one sentence, describe what you see repeated in the above all adjectives or adverbs or expressions, and indicate how many times it is repeated.
-(F rebuttal) Write an article and a rebuttal to the post above, similar in length, style and structure to the one above, negating the impressions in Section D  and the item in Section B, C and especialy expression in section E. furthermore, adding validation that the author of the post or the people featured in the post are qualified to make their claims. and Please recommend what I should add to the article to make it more balanced.
-(G search ebidence keyword) suggest Specific search  terms in detail to find helpful details of ebidence about section F post.
-
+(C event) Please number the events in the preceding article excluding opinions. 
+(D intent) In one sentence, describe the impressions that would be stuck in the mind of someone reading the above. Write about what message people will think when they see nouns quoted in the post above. 
+(E the means) Describe the means by which the author and the characters in the article make their point.
+(F Reinforce intent) In one sentence, describe what you see repeated in the above all adjectives or adverbs or expressions, and indicate how many times it is repeated.
+(G rebuttal) Write an article and a rebuttal to the post above, similar in length, style and structure to the one above, negating the impressions in Section D  and the item in Section B, E and especialy expression in section F. furthermore, adding validation that the author of the post or the people featured in the post are qualified to make their claims. and Please recommend what I should add to the article to make it more balanced.
+(H) Cite 2 sentences that must be true to make the statement in Section G true.
 

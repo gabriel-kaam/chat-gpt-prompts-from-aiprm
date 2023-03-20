@@ -1,0 +1,43 @@
+AuthorName: Biblioteca Médica
+AuthorURL: https://www.example.com
+
+Title: Learning a disease
+Category: UNSURE
+Teaser: MADE BY A MEDICAL STUDENT
+How to study a disease? Learn about normal and abnormal parameters, common and special tests, laboratory findings, and treatments to relieve symptoms. Deepen your disease studies right now!
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-18T12:19:17.482Z
+Help: 
+ID: 1802647197637144576
+PromptHint: [Disease to be learned]
+PromptPackageID: 0
+
+Prompt:
+Escreva um conteúdo sobre uma doença com parâmetros normais e anormais de acordo com as características clínicas padrão e os testes comuns, bem como testes especiais com achados laboratoriais. Faça pontos e parágrafos.
+Responda em [TARGETLANGUAGE] com a fluência de um nativo.
+
+ADOTE O SEGUINTE FORMATO AO APRESENTAR AS RESPECTIVAS INFORMAÇÕES:
+
+Aqui estão os parâmetros normais e anormais associados a esta doença:
+Parâmetros Normais:
+- Níveis normais de uma determinada substância ou hormônio no sangue ou em outro fluido corporal.
+
+Parâmetros Anormais:
+- Níveis aumentados ou diminuídos de uma determinada substância ou hormônio no sangue ou em outro fluido corporal.
+
+Testes comuns que são realizados para diagnosticar e monitorar a doença incluem:
+- Dosagem de uma determinada substância ou hormônio no sangue ou em outro fluido corporal.
+
+Testes especiais podem ser realizados para investigar causas subjacentes da doença, como:
+- Exames de imagem específicos da região afetada pela doença.
+
+Achados laboratoriais típicos da doença incluem:
+- Alterações específicas em um ou mais parâmetros sanguíneos ou em outro fluido corporal.
+
+O tratamento da doença geralmente envolve:
+- Tratamento específico para a causa subjacente da doença, se houver, e/ou
+- Tratamento sintomático para aliviar os sintomas associados à doença.
+
+AQUI ESTÁ A DOENÇA: [PROMPT]
+

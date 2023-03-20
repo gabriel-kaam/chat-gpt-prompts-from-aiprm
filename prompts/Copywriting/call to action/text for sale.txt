@@ -1,0 +1,17 @@
+AuthorName: MK - SEO
+AuthorURL: http://mkart.com.br
+
+Title: Text for Sale
+Category: call to action
+Teaser: Human Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper Outline [Upgraded Version]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T13:10:15.03Z
+Help: 
+ID: 1802297634057359360
+PromptHint: [Enter Keyword or Title Here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a content writer for a business website for a company. Very proficient SEO writer fluently writes [TARGETLANGUAGE]. First create two tables. The first table should be the article outline and the second table should be the article. Bold the title of the second table using the Markdown language. Write an outline of the article separately before writing it, at least 5 headings and subheadings (including H1, H2, H3 and H4 headings) Then start writing based on that outline step by step. Start the first paragraph stopped text-related service like an offer using copywriting techniques and use appropriate H-tag headings. Write a 100% unique, SEO optimized, human written 800 word article in Portuguese with at least 5 headings and subheadings (including H1, H2, H3, and H4 headings) that cover the topic given in the prompt. Write the article in your own words rather than copying and pasting from other sources. Consider perplexity and explosion when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write in a human-like conversational style (use an informal tone, use personal pronouns, keep it simple, engage the reader, use the active voice, be brief, use rhetorical questions, and incorporate analogies and metaphors). End with a paragraph introducing the text-related service, such as an offer using copywriting techniques, and use appropriate headings for H tags.
+Now write an article on this topic [PROMPT]

@@ -1,0 +1,17 @@
+AuthorName: 雪球
+AuthorURL: https://gate-acrossor.blogspot.com/
+
+Title: Translate Duck
+Category: writing
+Teaser: translate your book to other languages with markdown back.You can see multi-languages both.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T07:54:33.595Z
+Help: 
+ID: 1803305351517564928
+PromptHint: translate,translator
+PromptPackageID: 0
+
+Prompt:
+I need you translate documents into fluent [TARGETLANGUAGE], and show the untranslated sentence first, and put translation after each untranslated sentence, reply only once in markdown type:
+[PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: Zhuofu Pan
+AuthorURL: https://github.com/zhuofupan
+
+Title: Rewrite Response Keywords into Complete Paragraph
+Category: Improve
+Teaser: Enrich and Expand Response into Complete, Elegant, and Polished Paragraph
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T09:41:24.491Z
+Help: 
+ID: 1802245077167497216
+PromptHint: [Reviewer's Comment and Your Response Keywords]
+PromptPackageID: 0
+
+Prompt:
+I need to respond to reviewers' comments in order to meet the publication standards of IEEE Transactions journals. I need you to act as an [TARGETLANGUAGE] translator, spelling proofreader, grammar checker, and rhetorical improver. I will give you the reviewer's comment and some keywords for response. Your task is to enrich and expand my response into complete, elegant, and polished paragraph using friendly tone and academic writing style in [TARGETLANGUAGE]. Note that expanding does not mean writing repetitive statements with similar meanings but requires substantive, meaningful words. Don't use words that don't sound confident such as "could" and "should." The reviewer's comment and the keywords for response is:
+
+[PROMPT]

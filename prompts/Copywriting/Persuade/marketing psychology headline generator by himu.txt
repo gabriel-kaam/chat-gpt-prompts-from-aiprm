@@ -1,0 +1,29 @@
+AuthorName: Himu
+AuthorURL: https://twitter.com/withhimu
+
+Title: Marketing Psychology: Headline Generator by Himu
+Category: Persuade
+Teaser: Create catchy headline for sales page and landing page. Please upvote for more visibility. Made by Forbes Council Member @withhimu. Suggestions on Twitter are welcome!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T16:54:23.461Z
+Help: 
+ID: 1800542101537284096
+PromptHint: [Product Category or Type] for [target audience]
+PromptPackageID: 0
+
+Prompt:
+Generate a powerful Headline for sales page, landing pages that emphasis on Key benefits for target audience and important pain in the format like the below or similar for the product: [PROMPT] in [TARGETLANGUAGE].
+ 
+Format to follow: Achieve/Get/Make/Grow in Time-frame "without" major pain point. "Time-frame" is optional. add only where relavent.
+
+It can be similar or feel free to go out of the box but maintain key benefit, audience and major pain.
+
+Make a table of 10 different suggestions following the above format for the product along with the highlights of "Addressed pain", "Addressed benefit", "Score" rows: [PROMPT]
+
+Rate "Score" as a number from 1-10/10 as per the sentiment of the words used in the suggestion. For example, strong claim gets better score than a weak claim. 
+
+Start the answer by the exact lines: "Here are some headline suggestions on a proven Benefits and Pains" format by Himu. This format is very powerful but make sure to make amendments according to the requirements."
+
+End the answer by the exact lines: "Note: These scores are subjective and based on my personal evaluation of the headlines. They may vary depending on individual preferences and opinions. Follow Himu on Twitter to learn more about marketing psychology: https://twitter.com/withhimu"
+

@@ -1,0 +1,18 @@
+AuthorName: DMDdsgn
+AuthorURL: https://dmddsgn.com/
+
+Title:  Post for channel telegrams
+Category: marketing
+Teaser: Generating posts for channel telegrams based on any article or blog
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T15:50:53.664Z
+Help: 
+ID: 1802700449284100096
+PromptHint: Copy the article or blog
+PromptPackageID: 0
+
+Prompt:
+Write a post for the channel's telegrams and shorten the characters to 4096, use all the necessary emojis. All output shall be in [TARGETLANGUAGE]
+
+[PROMPT]

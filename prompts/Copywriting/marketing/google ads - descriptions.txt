@@ -1,0 +1,18 @@
+AuthorName: MRVN.ai
+AuthorURL: https://www.resknow.co.uk
+
+Title: Google Ads - Descriptions
+Category: marketing
+Teaser: Google Search Ads - Description Generator - Based on Business Type
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T12:17:33.19Z
+Help: 
+ID: 1801921984473595904
+PromptHint: [Your Business Type]
+PromptPackageID: 0
+
+Prompt:
+Your task is to create 8 Google Search Ads Description with a limit of maximum 90 characters per description including spacing in [TARGETLANGUAGE]. The type of business this description is for is the following:
+
+[PROMPT]

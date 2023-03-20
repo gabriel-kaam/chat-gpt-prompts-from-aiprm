@@ -1,0 +1,16 @@
+AuthorName: Alvin
+AuthorURL: https://primocollab.com
+
+Title: Enticing SEO Description for E-commerce
+Category: writing
+Teaser: Writes an enticing SEO description curated for E-commerce
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-20T02:24:40.225Z
+Help: 
+ID: 1803222332106596352
+PromptHint: [Write your product title here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as an SEO Specialist and write a compelling and enticing SEO meta description for an e-commerce website selling home improvement products with only 155 character limit. Use the product title [PROMPT] as the keywords for the meta description. Make sure to include the price in the meta description and use words that reflects a sale, an on-going discount or promotion to entice users and give a sense of urgency. Write the meta description in [TARGETLANGUAGE] language

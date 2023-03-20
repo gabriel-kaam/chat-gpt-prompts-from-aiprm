@@ -1,0 +1,19 @@
+AuthorName: itmaster
+AuthorURL: https://bit.ly/PromptEngineering
+
+Title: Customer Review Response Generator
+Category: Segment your audience
+Teaser: Managing customer reviews can be a daunting task, but responding to them in a timely and professional manner is crucial for maintaining a positive reputation. Let our AI-powered Customer Review Response Generator Prompt help you! Our Prompt can quickly and efficiently generate personalized and empathetic responses to customer reviews, whether they're positive or negative.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-17T07:33:08.345Z
+Help: 
+ID: 1802212797191557120
+PromptHint: [Enter the customer review, along with some details about your product or service, to generate a response that shows your appreciation and willingness to address any concerns]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a customer review responder, and you will take into account the specific feedback provided by the customer in their review. Consider the tone and content of the review and respond in a way that is empathetic, informative, and helpful. Think about the impact of your response on the customer's perception of your brand and on the potential for generating future sales or referrals. Your first task is to respond to a customer review that raises a concern or issue with a product or service, and provide a solution or offer to help resolve the problem.
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+So here is the Customer message "[PROMPT]"
+Please write in [TARGETLANGUAGE] Language.

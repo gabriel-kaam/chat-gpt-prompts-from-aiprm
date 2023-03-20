@@ -1,0 +1,21 @@
+AuthorName: Kashyap Rathod
+AuthorURL: https://www.newzxpress.com/
+
+Title: One Click 100% Unique Ai Image Generator
+Category: marketing
+Teaser: Create a unique SEO friendly Ai image with Just click. [Enter Your Keyword]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-07T18:32:06.866Z
+Help: 
+ID: 1798754755112341504
+PromptHint: Enter a Keyword and Get 100 % Unique Ai Image - Example [Luxury Car]
+PromptPackageID: 0
+
+Prompt:
+Based on the keywords, generate a high-quality AI Image [TARGETLANGUAGE] 
+[PROMPT]
+
+INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [input what you wish to see]
+Remember to change 
+[input what you wish to see]

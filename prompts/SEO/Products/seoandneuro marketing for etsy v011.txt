@@ -1,0 +1,18 @@
+AuthorName: Mtnerylmz
+AuthorURL: https://forum.aiprm.com/u/metin_eryilmaz/summary
+
+Title: Seo&Neuro Marketing for Etsy v0.1.1
+Category: Products
+Teaser: Enter product name, get rewritten name, description and tags for it.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-18T18:36:01.655Z
+Help: 
+ID: 1802742006410375168
+PromptHint: Enter your product name, and a small description of what it is
+PromptPackageID: 0
+
+Prompt:
+I'm gonna give you a product name and a small description for you to understand what the product is. I want you to write me an updated seo friendly name, product description and 12 tags for it but everything must be extremely seo friendly. SEO means Search Engine Optimization. Use neuro marketing as much as possible. There is no packaging info, no material info and no size info on the product, so do not specify them. The procduct that I'm about to tell you, are getting sold in my shop on etsy. I want the name, description and the tags to be extremely seo friendly and neuro marketed. People can search in the etsy search bar for example "gift ideas" and I want to be in the main page when they do. Gift ideas were an example. Its not what people always search. Keep that in mind. I dont know what people usually search for but i want to be seen when they search for anything related to my product. I want to be able to sell my product. Give the tags in a list. Give the descriptions long and with multiple seperate headlines. Give your answers in [TARGETLANGUAGE] language. 
+
+Heres the product name, [PROMPT]

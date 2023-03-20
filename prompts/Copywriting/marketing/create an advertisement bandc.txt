@@ -1,0 +1,40 @@
+AuthorName: Carlos Bruckmann
+AuthorURL: https://mispropiedades.net/
+
+Title: Create an advertisement B&C
+Category: marketing
+Teaser: Create an advertisement B&C
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T17:57:23.271Z
+Help: 
+ID: 1802732282403098624
+PromptHint: [Create attractive, effective, and eye-catching advertisements for properties in Lima, Peru, optimizing SEO and local SEO.]
+PromptPackageID: 0
+
+Prompt:
+Activities to be carried out:
+
+all outputs Shall be in [TARGETLANGUAGE]  The text to sumarize IS [PROMPT]
+
+Write a title for the property listing in [TARGETLANGUAGE]. The text to be summarized is [PROMPT].
+
+Write a descriptive text for the property listing in [TARGETLANGUAGE]. The text to be summarized is [PROMPT].
+
+Create a summary sheet using the following format:
+
+Price: [Price in $]
+Price per m2: [Price/m2]
+Total área: [Area in m2]
+Floor: [Floor]
+Years : [Year of construction]
+Bedrooms: [# Bedrooms]
+Bathrooms: [# Bathrooms]
+Parking spaces: [# Parking spaces]
+Maintenance fee: [Price in S/. ]
+Address: [Address]
+Commission for the sale of the property: [Percentage]
+All outputs shall be in [TARGETLANGUAGE]. The text to be summarized is [PROMPT].
+
+Create a folder titled "Venta de [Property Type] en [District] [Price in $] [Area in m2] [Zone]". in [TARGETLANGUAGE]. The text to be summarized is [PROMPT].
+

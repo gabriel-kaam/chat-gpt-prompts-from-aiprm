@@ -1,0 +1,76 @@
+AuthorName: Preston Jenkins
+AuthorURL: https://google.com
+
+Title: Next.js 13.2.* updated docs Codebase Optimizer
+Category: Web Development
+Teaser: ChatGPT with updated Next.js 13.2 docs relating to Client and Server components, and some other things.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-20T02:34:21.677Z
+Help: 
+ID: 1803224770893058048
+PromptHint: Paste your [output.txt] made with the GitHub repo zackees/gptrepo. This prompt will suggest changes based on the beta docs.
+PromptPackageID: 0
+
+Prompt:
+I am a Next.js expert developer, but I don't have any knowledge of the new changes made in Next.js 13.2. You have provided me with relevant documentation for Next.js 13.2, which I will use ONLY as a reference. I am going to be provided with a Git repository, which is stored in a file named "output.txt", and includes instructions on how to navigate through the file. I will parse this file's contents first, before doing anything else. Once I can understand how this file is structured, I will use my current knowledge plus the reference documentation provided to suggest specific changes to your Git repository.
+
+
+
+# Documentation that you can use as a reference, it has no direct connection to my Git repository, except for changes to how this updated Next.js 13.2 works #
+
+Changes to data fetching methods:
+- Previous Next.js data fetching methods such as getServerSideProps, getStaticProps, and getInitialProps are not supported in the new app directory.
+- Instead, the new data fetching system is built on top of the native fetch() Web API and makes use of async/await in Server Components.
+- Whenever possible, its recommended to fetch data inside Server Components. Server Components always fetch data on the server.
+- Dynamic Rendering is meant to be the equivalent of Server-Side Rendering, e.g. getServerSideProps(). With Dynamic Rendering, both Server and Client Components are rendered on the server at request time. The result of the work is not cached.
+
+
+Server and Client Components in Next.js 13.2.4
+- In the new update, it is recommended to make use of React's server and client components
+- With Server and Client Components, React can render on the client and the server meaning you can choose the rendering environment at the component level.
+- By default, the app directory uses Server Components, which allows one to easily render components on the server and reducing the amount of JavaScript sent to the client.
+- You can interleave Server and Client Components in a component tree by importing a Client Component into a Server component, or by passing a Server Component as a child or a prop to a Client Component. Behind the scenes, React will merge the work of both environments.
+
+Client Component Specific Information:
+- A component becomes a Client Component when using the "use client" directive at the top of the file (before any imports).
+- These components (and files) can be placed anywhere inside your application. They do not need to be in app/, specifically.
+- You only need to mark components as 'use client' when they use client hooks such as useState or useEffect. It's best to leave components that do not depend on client hooks without the directive so that they can automatically be rendered as a Server Component when they aren't imported by another Client Component. This helps ensure the smallest amount of client-side JavaScript.
+- Client components in Next.js are prerendered on the server and hydrated on the client, you can think of Client Components as how Next.js 12 and previous versions worked (i.e. the pages/ directory).
+
+
+When to use Server vs Client Components?
+- Both components:
+-- Fetch Data (It's possible to fetch data in Client Components, its recommend to fetch data in Server Components unless there is a specific reason for fetching data on the client. Moving data fetching to the server leads to better performance and user experience.)
+- Server Components:
+-- Fetch Data
+-- Access backend resources (directly)
+-- Keep sensitive information on the server (access tokens, API keys, etc)
+-- Keep large dependencies on the server / Reduce client-side JavaScript
+- Client Components:
+-- Add interactivity and event listeners (onClick(), onChange(), etc)
+-- Use State and Lifecycle Effects (useState(), useReducer(), useEffect(), etc)
+-- Use browser-only APIs
+-- Use custom hooks that depend on state, effects, or browser-only APIs
+-- Use React Class components
+
+Importing Server Components into Client Components:
+- Server and Client Components can be interleaved in the same component tree. Behind the scenes, React will merge the work of both environments.
+- However, in React, there's a restriction around importing Server Components inside Client Components because Server Components might have server-only code (e.g. database or filesystem utilities).
+-- For example, importing a Server Component in a Client Component will not work.
+-- Instead, you can pass a Server Component as a child or prop of a Client Component. You can do this by wrapping both components in another Server Component.
+- Passing props from Server to Client Components (Serialization)
+-- Props passed from the Server Components to Client components need to be serializable. This means that values such as functions, Dates, etc, cannot be passed directly to client components.
+
+Moving Client Components to the Leaves:
+- To improve the performance of your application, we recommend moving Client Components to the leaves of your component tree where possible.
+- For example, you may have a Layout that has static elements (e.g. logo, links, etc) and an interactive search bar that uses state.
+- Instead of making the whole layout a Client Component, move the interactive logic to a Client Component (e.g. <SearchBar />) and keep your layout as a Server Component. This means you don't have to send all the component Javascript of the layout to the client.
+
+# End reference documentation #
+
+All output shall be in [TARGETLANGUAGE]. 
+
+"output.txt" will have instructions for how to parse the structure of it, but anyways, here is the full Git Repository represented by "output.txt":
+
+[PROMPT]

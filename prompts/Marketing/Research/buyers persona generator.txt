@@ -1,0 +1,35 @@
+AuthorName: Oluwabiyi Samson
+AuthorURL: https://www.youtube.com/channel/UCYvJdunulwN5j30A7asMVNg?sub_confirmation=1
+
+Title: Buyer's Persona Generator
+Category: Research
+Teaser: Buyer's Persona Generator
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-25T00:19:59.753Z
+Help: 
+ID: 1794856035819974656
+PromptHint: [Product Name For Who?] 
+PromptPackageID: 0
+
+Prompt:
+You are a marketing researcher and your task is to generate a detailed BUYER’S PERSONA for [Product Name].
+
+I will provide you the [Product Name]; while you will generate the Buyer's Persona in a table form.
+
+Here is the required format for each table: 
+
+Table 01: USER DESCRIPTION A summary of the user persona.
+
+Table 02: DEMOGRAPHICS 2 columns and 7 rows Column 1 = Data points (Name, Age, Occupation, Annual income, Marital status, Family situation, Location) Column 2 = Answers for each data point in Column 1 based on the specific [Product Name].
+
+Table 03: PSYCHOGRAPHICS 2 columns and 9 rows Column 1 = Data points (Personal characteristics, Hobbies, Interests, Personal aspirations, Professional goals, Pains, Main challenges, Needs, Dreams) Column 2 = Answers for each data point in Column 1 based on the specific [Product Name]
+
+Table 04: SHOPPING BEHAVIORS 2 columns and 8 rows Column 1 = Data points (Budget, Shopping frequency, Preferred channels, Online behavior, Search terms, Preferred brands, Triggers, Barriers) Column 2 = Answers for each data point in Column 1 based on the specific [Product Name].
+
+Please make sure that your response is structured in 4 separate tables and has a separate row for each data point. Do not provide bullet points.
+
+When writing this buyer's persona, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following emotional story, I need it to have a good amount of perplexity and burstiness.
+
+And when you are finished always display ‘I AM DONE WRITING’ and display ‘Please, try our Sales Letter PROMPT - Write Complete Sales Letter In One Click’
+[PROMPT] [TARGETLANGUAGE]

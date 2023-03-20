@@ -1,0 +1,17 @@
+AuthorName: Ricardorg
+AuthorURL: https://www.linkedin.com/in/ricardo-rosales-ganter-03362b242/
+
+Title: Clean code
+Category: Configuration Management
+Teaser: Create clean nextjs code without description
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-03-17T18:10:09.838Z
+Help: 
+ID: 1802373109752532992
+PromptHint:  write what you need to create
+PromptPackageID: 0
+
+Prompt:
+
+Create a code for nextjs in full [TARGETLANGUAGE], where the function exists and its return() with its respective export default of [PROMPT]. I only want the code and I don't want text that describes that code or that explains it, optimize it as much as you can

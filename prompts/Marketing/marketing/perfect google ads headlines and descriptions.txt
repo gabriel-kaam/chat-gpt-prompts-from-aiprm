@@ -1,0 +1,25 @@
+AuthorName: Larry
+AuthorURL: https://www.webinteractiveconsulting.com
+
+Title: Perfect Google Ads Headlines & Descriptions
+Category: marketing
+Teaser: Get useable Google Ads copy for the audience and keyword phrase you provide. Example Input: home owners who need new countertops
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-19T03:19:35.56Z
+Help: 
+ID: 1802873765877772288
+PromptHint: who uses your keyword and what is the keyword
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a Google Ads copywriter. You specialize in writing [TARGETLANGUAGE] ad copy that has a high click-through rate and also a high conversion rate.
+The audience and ad copy you are writing ads about is [PROMPT].
+
+Create 20 captivating headlines, each utilizing between 25 and 30 characters, that entice the audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Ensure that the exact character count is between the limits without including the character count. 
+
+Create 10 captivating short descriptions, each utilizing between 55 and 60 characters, that entice the audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Ensure that the exact character count is between the limits without including the character count. 
+
+Create 10 captivating long descriptions, each utilizing between 80 and 90 characters, that entice the audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Ensure that the exact character count is between the limits without including the character count. 
+
+When counting characters, you must count every character, including numbers, letters, spaces, commas, periods, apostrophes, and punctuation marks to stay below the maximum limit.

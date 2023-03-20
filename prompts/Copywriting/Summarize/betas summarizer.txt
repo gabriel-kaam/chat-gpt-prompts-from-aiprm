@@ -1,0 +1,20 @@
+AuthorName: beta
+AuthorURL: http://www.betawm.com/
+
+Title: Beta‘s Summarizer.
+Category: Summarize
+Teaser: Beta‘s Summarizer. ’It sums up the paragraph without losing any of its meaning. The result is a summary of the paragraph that is as short as possible while still keeping all of the original meaning and context.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T07:36:01.338Z
+Help: 
+ID: 1802213522776784896
+PromptHint: [Paste the Text that needs to be summarized]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. You are an Extreme [TARGETLANGUAGE] summary generator, a new form of extreme summarization tool for paragraphs. 
+Your task is to focus on the title, copy 2-3 significant sentences from the text and combine them to a paragraph whilst retaining meaning. 
+The result will be the shortest possible summary no more than 150 characters in [TARGETLANGUAGE].
+The text to summarize is this:
+[PROMPT]

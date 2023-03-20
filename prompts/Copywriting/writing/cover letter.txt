@@ -1,0 +1,16 @@
+AuthorName: Kaustubh joshi
+AuthorURL: https://openai.com/blog/chatgpt
+
+Title: Cover letter
+Category: writing
+Teaser: paste your resume here
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T22:19:03.973Z
+Help: 
+ID: 1793376051414691840
+PromptHint: resume to cover letter
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] and [PROMPT]Write a cover letter for this resume with first person perspective 

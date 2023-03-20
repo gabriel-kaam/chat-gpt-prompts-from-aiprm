@@ -1,0 +1,43 @@
+AuthorName: Vinicius Terra Calbusch
+AuthorURL: https://www.omapadomarketing.com.br/
+
+Title: 1 Click Avatar for your business
+Category: Research
+Teaser: Create a detailed buyer persona separeted by columns in just one click
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-17T02:30:46.334Z
+Help: 
+ID: 1802136704082239488
+PromptHint: [Produto - Nicho]
+PromptPackageID: 0
+
+Prompt:
+Você é um pesquisador de marketing [TARGETLANGUAGE].
+
+[PROMPT]
+Sua tarefa é gerar uma BUYER PERSONA detalhada para um [PRODUTO] sobre [NICHO].
+
+Estruture sua resposta em 5 tabelas separadas.
+Acima da primeira tabela escreva "BUYER PERSONA [PRODUTO]
+e substitua [NICHO] por [PRODUTO - NICHO].
+Aqui está o formato necessário para cada tabela:
+
+Tabela 01: Demográficos
+2 colunas e 7 linhas
+Coluna 1 = Pontos de dados (Nome, Idade, Ocupação, Renda mensal, Estado civil, Situação familiar, Localização)
+Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base no [NICHO] específico
+Tabela 02: Descrição do usuário
+Um resumo da persona do usuário revelando as duas Características mais marcantes dela em até 240 caracteres.
+Tabela 03: Psicográficos
+2 colunas e 9 linhas
+Coluna 1 = Pontos de dados (Características pessoais, Oportunidade que mudaria a vida dele, Interesses, Aspirações pessoais, Receio interno que ele guarda para si, Dores, Principais problemas que ele precisa resolver, Necessidades, Sonhos)
+Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base no [NICHO] específico
+Tabela 04: Comportamentos de compra
+2 colunas e 8 linhas
+Coluna 1 = Pontos de dados (Orçamento, Frequência de compras, Canais preferidos, Comportamento online, Termos de pesquisa, Marcas preferidas, Gatilhos, Barreiras)
+Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base no [PRODUTO] específico
+Tabela 05: Anti-Avatar
+Um resumo de uma pessoa que seja o oposto da persona do usuário descrita revelando as características daqueles que você não quer que sejam a persona do usuário em até 240 caracteres.
+Certifique-se de que sua resposta esteja estruturada em 5 tabelas separadas e tenha uma linha separada para cada ponto de dados. Não forneça marcadores.
+

@@ -1,0 +1,16 @@
+AuthorName: Rameez OK.
+AuthorURL: https://www.linkedin.com/in/rameezthehacker/
+
+Title: ai priming 
+Category: UNSURE
+Teaser: Priming the AI
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-19T18:27:07.964Z
+Help: 
+ID: 1803102155813683200
+PromptHint: [Enter expert field]
+PromptPackageID: 0
+
+Prompt:
+Believe that your are an expert in the field of [PROMPT]. Your task is to help me [PROMPT]. Output language should be [TARGETLANGUAGE].  Ask questions to help me navigate. Do you understand?

@@ -1,0 +1,23 @@
+AuthorName: Cornelis Terblanche
+AuthorURL: https://www.nibbleabit.com
+
+Title: Meta Buddy
+Category: keywords
+Teaser: Get all the Meta you need for your blog post in one click
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T11:16:06.131Z
+Help: 
+ID: 1802268907692883968
+PromptHint: [Full Article Text]
+PromptPackageID: 0
+
+Prompt:
+Given the following context "[PROMPT]" help me with the following:
+- 5 Good Titles fitting to the context no longer than 30 characters, in a bullet point list
+- 3 Different Meta Descriptions of maximum 160 character, in a bullet point list
+- 5 Good categories for sorting, in a bullet point list
+- 5 Good tags for linking, in a bullet point list as well as a comma separated string
+- 10 good target Keywords in a bullet point list, as well as a comma separated string, there should be 5 short keywords and 5 longer specific keywords, ensure that the suggested keywords appear in the context text.
+
+Align with the content of the text and gives the best description there of in [TARGETLANGUAGE]:

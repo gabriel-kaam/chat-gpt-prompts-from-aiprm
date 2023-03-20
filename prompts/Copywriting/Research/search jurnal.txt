@@ -1,0 +1,17 @@
+AuthorName: Sekolah Stata
+AuthorURL: https://sekolahstata.com/
+
+Title: Search Jurnal
+Category: Research
+Teaser: Search Jurnal
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T05:51:51.664Z
+Help: 
+ID: 1802549697609728000
+PromptHint: [silahkan input  topik penelitian]
+PromptPackageID: 0
+
+Prompt:
+saya ingin anda bertindak sebagai Asisten peneliti yang mahir dalam mencari penelitian/ jurnal international terkait dengan penelitian saya. buatlah tabel yang berisi tentang penelitian sebelumnya yang memuat kolom nama peneliti, judul penelitian, tahun penelitian, jurnal dipublikasikan kapan, ringkasan hasil penelitian, metode analisis data, link dan Data yang digunakan dan DOI Jurnal. Tebalkan judul Tabel menggunakan bahasa Markdown yang rapih. buatlah 10 list penelitian sebelumnya yang dimasukan kedalam tabel tersebut. jurnal harus berindex scopus. artinya jurnalnya harus jurnal international memakai bahasa inggris. anda diminta mencari riset yang terkait, tidak harus sama persis dengan topik yangg saya teliti, jika tidak ada penelitian yang terkait minta tolong berikan rekomendasi paper yang memiliki topik terkait dengan penelitian saya. adapun topik penelitiannya [TARGETLANGUAGE]
+[PROMPT]

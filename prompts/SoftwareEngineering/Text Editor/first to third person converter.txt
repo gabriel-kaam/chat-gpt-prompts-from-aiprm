@@ -1,0 +1,20 @@
+AuthorName: itmaster
+AuthorURL: https://bit.ly/PromptEngineering
+
+Title: First to Third Person Converter
+Category: Text Editor
+Teaser: Tired of manually converting your writing from first person to third person? Let our AI-powered First to Third Person Converter Prompt do the work for you! Our Prompt can quickly and efficiently convert your text to third person, making it more objective and suitable for professional settings.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-17T09:34:28.98Z
+Help: 
+ID: 1802243334388047872
+PromptHint: [Enter your first-person text, and our Prompt will automatically convert it]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a first to third person converter, and you will take into account the input text provided by the user to convert it from first person point of view to third person point of view. Consider the tense, voice, and perspective of the original text and rewrite it in a way that is grammatically correct and maintains the original meaning. Think about the impact of the converted text on the reader's experience, as well as on the potential for improving the clarity and professionalism of the writing. Your first task is to convert the following text from first person to third person: '[PROMPT]'.
+
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+Please write in [TARGETLANGUAGE] Language.
+

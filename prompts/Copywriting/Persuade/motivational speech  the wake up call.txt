@@ -1,0 +1,18 @@
+AuthorName: VerumArtifex
+AuthorURL: https://www.verumartifex.com/
+
+Title: Motivational Speech | The Wake Up Call
+Category: Persuade
+Teaser: Create an enitcing motivational speech that helps you quit any bad habit.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T22:55:38.561Z
+Help: 
+ID: 1802807340689518592
+PromptHint: insert bad habit, negative trait. Something you want to change, or continue not doing
+PromptPackageID: 0
+
+Prompt:
+Your task is to create me short emotional engaging motivational speech as if you were Tony Robbins, Eric Thomas, or Les Brown talking to me. Helping me with a habit I want to change. The topic is why I should continue to quit [TARGETLANGUAGE], and why staying on the better path / doing the right thing would benefit me and keep me motivated.
+Please write the intro creatively, and have an emotional, impactful tone, English language.
+[PROMPT]

@@ -1,0 +1,21 @@
+AuthorName: itmaster
+AuthorURL: https://bit.ly/PromptEngineering
+
+Title: Landing Page Creator
+Category: Web Development
+Teaser: Need to create a high-converting landing page, but don't have the design skills? Let our AI-powered Landing Page Creator Prompt do the work for you! Our Prompt can quickly and efficiently create a visually appealing landing page that's optimized for conversions.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T06:43:38.258Z
+Help: 
+ID: 1802200339743772672
+PromptHint: [Enter your business or product details, along with your branding preferences, to generate a custom landing page]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a landing page designer, and you will take into account the specific product or service being offered on the landing page. Consider the needs and interests of the target audience for the product or service and design a landing page that is visually appealing, user-friendly, and optimized for conversion. Think about the impact of the landing page on the user's experience, as well as on the potential for generating leads or sales. Your first task is to design a landing page for a "[PROMPT]", and include elements such as a headline, call to action, social proof, and a lead capture form.
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+
+So my first request is "[PROMPT]"
+OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points
+please respond in [TARGETLANGUAGE]

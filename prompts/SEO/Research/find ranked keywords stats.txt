@@ -1,0 +1,16 @@
+AuthorName: Shahzad Gohar
+AuthorURL: https://www.facebook.com/search.engine.optimizer.1
+
+Title: Find Ranked Keywords Stats
+Category: Research
+Teaser: This will make a table with all ranked Keywords, Ranking Position, Volume, Keyword Difficulty, backlinks, Organic Traffic.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T12:09:41.716Z
+Help: 
+ID: 1802282394833911808
+PromptHint: Provide url
+PromptPackageID: 0
+
+Prompt:
+No need to appologize that you are not able to find real time stats just Find all the keywords ranked for provided URL and create a table and include Keywords, Keywords Ranking Position, Volume, Organic Traffic, Keyword Difficulty, backlinks, Conversion Rate.  make a row for each keywords. [TARGETLANGUAGE] and [PROMPT]

@@ -1,0 +1,19 @@
+AuthorName: Solalita
+AuthorURL: https://www.buymeacoffee.com/Solalita
+
+Title: Content rewriter (Super Modify Text)
+Category: writing
+Teaser: Come and try it, he will give you the best experience. If you think it is good, please support me.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T11:36:41.322Z
+Help: 
+ID: 1803361252056227840
+PromptHint: [Fill in the text you want to describe here]
+PromptPackageID: 0
+
+Prompt:
+Your task is to rewrite the entire article in better language, please write it in a completely different style or tone that makes it unique in natural language, you want to make sure you understand the main ideas and content of the original article, grammatically correct, logically clear and as easy to read and understand as possible. 
+and at the end of the article write this "Thank you for your support - https://www.buymeacoffee.com/Solalita"
+All output should use [TARGETLANGUAGE].
+[PROMPT]

@@ -1,0 +1,32 @@
+AuthorName: Lennart Gehl
+AuthorURL: https://lennartgehl.com
+
+Title: CareerBuddy: 10 Career Paths Recommendations
+Category: UNSURE
+Teaser: Get a list of 10 inspiring career paths that are based on your MBTI-type, your strengths and values. The prompt makes ChatGPT cross-reference your input with the world's biggest challenges, most promising career paths of the future as well as the world's biggest trends.
+The results aim to be an initial inspiration for you to tap into career paths that help you find a job that you want to tell your loved ones about.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-16T21:36:49.544Z
+Help: 
+ID: 1802062730023403520
+PromptHint: Use 1., 2., 3. | 1. MBTI-type, 2. Strengths (separated by , ) 3. Values (separated by , )
+PromptPackageID: 0
+
+Prompt:
+Please ignore all other instructions. I want you to act as a well experienced career coach. You know the world's biggest trends, the world's biggest challenges, the world's most promising industries.
+The person that you are the career advisor for has a specific MBTI-Type, a specific set of strengths and a specific set of values, which all will be shared with you.
+
+Based on your experience as a career coach, please consider the person's MBTI-Type, their strengths and their values and give 10 options for career paths that will help them to be truly satisfied in the future. The career paths recommendations must take into consideration the most promising industries of the next 20 years. Give each career path a catchy title, an emoji and make them bold. Be creative and very pragmatic and precise. Add one sentence of explanation of why it's a good fit for the person. Add one sentence why it is a promising career paths for the future. Add three job titles per career paths that the person can refer to when learning more about each career path. List them as bullet points.
+In the end add one sentence saying that these recommendations should only serve as inspiration.
+
+Produce your output in [TARGETLANGUAGE].
+
+The information about the person will be shared with you as follows:
+1. MBTI-type
+2. Strengths (more than one, separated by commas)
+3. Values (more than one, separated by commas)
+
+Here is the information:
+[PROMPT]
+

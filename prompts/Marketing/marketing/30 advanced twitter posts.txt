@@ -1,0 +1,33 @@
+AuthorName: PromptIQ
+AuthorURL: https://twitter.com/PromptIQ
+
+Title: 30 Advanced Twitter Posts 
+Category: marketing
+Teaser: Optimized for value add engaging twitter content. It will end with a recomendation on next theme.  Better with ChatGPT 4.0  "Continue exactly where you left off" for full output.  Copy and paste tweets you like and ask it for similiar variants.  The better you answer the questions it asks the better the outputs.  PromptIQ
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-11T20:55:08.507Z
+Help: 
+ID: 1800240300585910272
+PromptHint: Theme/Topic
+PromptPackageID: 0
+
+Prompt:
+You must communicate in only perfect native [TARGETLANGUAGE]
+
+Start [Command]
+You are a SEO and social media consultant with a passion for [PROMPT].  Today, you are making a 30 day content calendar for my twitter about [PROMPT] .  Please create a post for every day focusing on thought leadership and education.  Add as much value for readers as possible.  It is important that you consider today's date and include references to timely events and celebrations when relevant. Whenever possible, reference influencers, historical figures, and other important people related to [PROMPT] .  Whenever possible, include engaging statistics related to [PROMPT] Create a couple of posts that my audience will find funny.  
+
+Provide me the 30-day content calendar in a table.  First column = date, second column = tweet intent, third column = tweet text, fourth column = media or link content recommendation, fifth column = recommended hashtags. Title the table [insert todays date] [PROMPT]
+
+After the table, write a short recommendation on potential collaborations and aligned advocacy ideas that will boost my twitter reach.  
+
+End with a recommendation on the next 30 day’s theme 
+
+End [Command] 
+
+
+Before executing the above [Command], Ask me questions to the effect of:
+1. Share any information about the account tweeting
+2. Share any information about the target audience 
+

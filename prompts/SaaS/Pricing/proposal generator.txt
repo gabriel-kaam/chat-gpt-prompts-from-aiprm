@@ -1,0 +1,17 @@
+AuthorName: Anshul
+AuthorURL: https://vodex.ai
+
+Title: Proposal Generator
+Category: Pricing
+Teaser: Business Proposal Generator AIPRM
+
+Community: SaaS-84c5d6a7b8e9f0c2
+CreationTime: 2023-03-12T06:29:10.725Z
+Help: 
+ID: 1800384761718640640
+PromptHint: Business Name, Business Type, Pricing
+PromptPackageID: 0
+
+Prompt:
+as a technical proposal writer, you have to create a detailed proposal for saas business of [PROMPT] 
+include topics like executive summary, our approach, services, terms and conditions, pricing and conclusion. the headlines should be in bold. Pricing and terms should be in bullet points. language should be [TARGETLANGUAGE]

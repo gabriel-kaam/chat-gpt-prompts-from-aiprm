@@ -1,0 +1,26 @@
+AuthorName: sagrika
+AuthorURL: https://www.linkedin.com/in/sagrika-agrawal-323553151/
+
+Title: Review mining
+Category: marketing
+Teaser: For review mining- Copy paste reviews [PROMPT]
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-04T03:36:08.187Z
+Help: 
+ID: 1797442111273172992
+PromptHint: Copy paste upto 50 reviews [PROMPT]
+PromptPackageID: 0
+
+Prompt:
+You have to do review mining
+
+I will give you  reviews 
+
+Create 10 columns  number   Review	Pain points	Features	Benefits	Results Anxiety	Use cases	Persona
+
+Now read every review and write the points associated with each in the column
+
+ALL output should be in [TARGETLANGUAGE]
+
+reviews are  [PROMPT] 

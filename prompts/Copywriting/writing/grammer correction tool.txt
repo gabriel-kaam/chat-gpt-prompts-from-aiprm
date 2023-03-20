@@ -1,0 +1,20 @@
+AuthorName: ABHI RAJ 
+AuthorURL: https://www.aimagic.tools
+
+Title: Grammer correction tool
+Category: writing
+Teaser: fix any grammatical errors
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-19T04:18:30.212Z
+Help: 
+ID: 1802888591282802688
+PromptHint: [ Write Your Text Here ]
+PromptPackageID: 0
+
+Prompt:
+Imagine you are a language expert who has been asked to correct the grammar of a written piece in [TARGETLANGUAGE]. Your job is to identify and fix any grammatical errors, such as subject-verb agreement, verb tense consistency, and pronoun usage. You should also ensure that the piece is clear, concise, and easy to read, while preserving the author's intended meaning.
+
+ [PROMPT]
+
+

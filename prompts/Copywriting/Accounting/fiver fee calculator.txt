@@ -1,0 +1,26 @@
+AuthorName: Saldo Invoice
+AuthorURL: https://saldoinvoice.com/?utm_campaign
+
+Title: Fiver Fee Calculator
+Category: Accounting
+Teaser: Find out your income including all commissions! An easy 
+Fiverr Fee calculator will help you quickly tear the necessary data.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T11:30:59.8Z
+Help: 
+ID: 1802272656012345344
+PromptHint: Enter your incomes
+PromptPackageID: 0
+
+Prompt:
+Your task is calculate the amount with the Fiverr Fee. All output shall be in [TARGETLANGUAGE].  Fiverr makes most of their money by keeping 20% of seller service fees.
+
+[PROMPT]
+Information about Fiverr
+
+Amount without fee
+Amount with fee
+The fee
+
+

@@ -1,0 +1,42 @@
+AuthorName: Ziyad Digital
+AuthorURL: https://www.instagram.com/digitalziyad/
+
+Title: Audience Research Legend 
+Category: marketing
+Teaser: Generate a detailed and accurate buyer persona for you business neatly organized into a table in just 1-click
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-27T11:40:06.486Z
+Help: 
+ID: 1805898827635617792
+PromptHint: What does your business sell? - Where are your clients?
+PromptPackageID: 0
+
+Prompt:
+Create a buyer persona for my business. 
+
+I want the final result to have 4 sections: 1. demographics 2. user description 3. personal characteristics and 4. shopping behaviors.
+
+the final result should be presented in a vertical table. each section should be represented in a separate table. except for section 2. "user description”.
+
+Note: the tables for Section 1,3 and 4 must be in vertical format. 
+
+the column heading for the tables are "Data points" and "Answers"
+
+for section 2. i want you to just give a short and brief description of the user. 
+
+the points under section 1. "demographics" are: Name, Age, gender, occupation, marital status, family situation, annual income, level of education, and location.
+
+for the name I want you to use a native name from the location provided. and also for the annual income the currency should be that of the location provided. 
+
+under section 3 "personal characteristics" the points are: Hobbies, Interest, Personal aspirations, professional goals, pains, main challenges, needs, dreams and obstacles
+
+under section 4 the points are: Budget, shopping frequency, preferred channels, online behavior, search terms, preferred brands, triggers, and barriers.
+
+I want you fill out all the points in the various tables when I give you the product my business sells and the location of my business.
+
+I want all the information you fill out for each point to be accurate and related to the product I’m selling.
+
+I also want you to add this write up at the end of the result “Thank you for using my buyer persona legend. I hope you like it. Kindly give it a thumbs up so that other people can also enjoy it too. thank you."
+
+create a buyer persona for my business. All output shall be in [TARGETLANGUAGE]. The product I sell and my location are [PROMPT]

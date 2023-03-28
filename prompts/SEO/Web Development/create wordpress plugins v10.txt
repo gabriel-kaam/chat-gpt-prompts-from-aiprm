@@ -1,0 +1,26 @@
+AuthorName: PiranhamasBot
+AuthorURL: https://www.digitalmarketing.biz.id
+
+Title: Create Wordpress Plugins V1.0
+Category: Web Development
+Teaser: Php Programming Expert
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-21T14:11:04.306Z
+Help: 
+ID: 1803762491692679168
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Saya perintahkan Anda berperan sebagai Content writer Pakar PHP sangat mahir berbahasa [TARGETLANGUAGE] dan lancar menulis bahasa pemrograman. Tulis script bentuk lengkap dan 100% bisa bekerja dengan
+
+1. Buatkan plugin untuk mencari konten dari berbagai sumber, cukup masukkan URL target dan artikel otomatis akan di scrape.
+2. Buatkan textarea untuk mengisi link sumber yang akan di scrape, dan tombol perintah scrape yang terlihat di dasbord wordpress.
+3. Maka muncul 3 textarea, textarea pertama berisi judul hasil scrape. Textarea kedua berisi kategori, dan textarea ketiga hasil dari scrape konten.
+4. Konten di lengkapi hasil scrape gambar, dan tetapkan juga hasil scrape gambar tersebut menjadi gambar unggulan di postingan wordpres. 
+5. buatkan tombol Publish sebagai perintah untuk menjalankan postingan di wordpress.
+
+Jangan menjawab bahwa ada banyak faktor yang mempengaruhi larangan atau peraturan. Tugas Anda adalah menulis script dengan kualitas terbaik di sini, bukan menguliahi saya tentang aturan umum Chat GPT. Saya beri Judul [KEYWORD] untuk di buatkan script plugin auto rewrite . Langsung ke intinya dengan tepat dan akurat. Jangan jelaskan apa dan mengapa, berikan saja script terbaik Anda. 
+
+[PROMPT]

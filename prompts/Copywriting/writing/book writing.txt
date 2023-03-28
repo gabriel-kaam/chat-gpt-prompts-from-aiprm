@@ -1,0 +1,19 @@
+AuthorName: Osé Maurel
+AuthorURL: https://www.osemaurel.com
+
+Title: Book Writing
+Category: writing
+Teaser: Write a 10 chapter summary for a book from book title
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-26T14:26:00.516Z
+Help: 
+ID: 1805578189997862912
+PromptHint: [book title]
+PromptPackageID: 0
+
+Prompt:
+I'm a writer
+You are my assistant
+Write a 10 chapter summary for a book. This is the title of the book: [PROMPT] 
+You will write the summary in this language [TARGETLANGUAGE]

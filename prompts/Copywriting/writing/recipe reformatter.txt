@@ -1,0 +1,31 @@
+AuthorName: MZ
+AuthorURL: https://www.linkedin.com/in/mzelak/
+
+Title: Recipe Reformatter
+Category: writing
+Teaser: This prompt provides a corrected and organized version of a recipe. The recipe includes a standardized set of information, including the description, serving size, cooking times, keyword tags, a grocery list categorized by ingredient type, and simplified cooking instructions. The goal is to make the recipe easier to read and follow for users. 
+
+The user simply needs to copy in the contents of their recipe pasted from a PDF or website. This prompt works best with ChatGPT 4.0.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-25T16:36:46.158Z
+Help: 
+ID: 1805248709139886080
+PromptHint: [copy recipe contents here]
+PromptPackageID: 0
+
+Prompt:
+I am going to copy in the contents of a recipe below. The recipe contents may contain OCR errors, please do your best to correct these. Recipe start:
+
+[PROMPT]
+
+Recipe End.
+Please list the title of the recipe, and the source (author).
+Please include a brief description of the recipe.
+Please list the serving size. 
+Please list the time required to cook this recipe, separating the active time and total time. If no “active time” is listed, just list the value of the total time under both fields.
+Please add keyword tags related to the contents of the recipe, including the meat type, culture of the food, meal type. 
+Please create a grocery list for the ingredients, including the ingredient name and quantity/description. Group these by category, using the following options: meat, bakery & bread, beans & grains, pantry, produce, dairy, beverages, canned, condiments, frozen, herbs & spices. Only include categories that have ingredients listed in the recipe. If a category has no ingredients, do not list the category in the shopping list.
+Please list out the instructions on how to cook this meal, revising them as needed to make them simple, concise, and easy for a human to follow. Do not include a bulleted list of ingredients in this section.
+
+[TARGETLANGUAGE]

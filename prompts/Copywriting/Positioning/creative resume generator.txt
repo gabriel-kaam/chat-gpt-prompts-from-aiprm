@@ -1,0 +1,19 @@
+AuthorName: Enhancv
+AuthorURL: https://enhancv.com
+
+Title: Creative Resume Generator
+Category: Positioning
+Teaser: Make a modern and creative resume tailored to a job description.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-23T12:15:00.733Z
+Help: 
+ID: 1804458060081795072
+PromptHint: Write your job title, and paste your job description.
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] Assume the role of a job applicant as a [PROMPT] and create a resume for the job description below. Include a creative and intriguing title under the name in the header, a placeholder for the location where you live, a placeholder address in City and State format, a summary section, a strengths section, language sections, experience sections with bullet points containing numbers and results, skills section, education section, awards section, favorite books section, quotes section, and most proud of section. The experience section should be a list of experience items that include position, company, description, location, and bullets - each bullet should be at least 15 words, dates in “from MM/YYYY to MM/YYYY” format and location if relevant. Always return complete bullet points. Make sure bullet points are descriptive, long, and variable. Use “resulting in” only once in those bullet points. Include numbers and results and use varied language and wording expressions. Include quantifiable achievements. Make bullet points about different work situations. Make sure to always return unique job descriptions. Education must include degree, institution, date “from MM/YYYY to MM/YYYY” format and location. Quotes section should include a favorite relevant quote. Books section should include a list of 3 favorite books. Most Proud Of, Awards and Strengths sections should contain title and description. Most proud of, Awards and Strengths title should be max 8 words, description should be max 20 words. Include name as string, title as string. In the Strengths descriptions, include numbers and results and actual work situations from experience. Language section should include languages and proficiency. Activity should assume the name title, and each activity should be maxed at 8 words.. Only output the resume content without any explanation or additional text. Make sure you always return a complete resume. Tailor the resume to the job description below: 
+
+[PROMPT]
+

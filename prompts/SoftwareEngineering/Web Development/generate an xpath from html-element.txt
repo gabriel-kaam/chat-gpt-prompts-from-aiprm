@@ -1,0 +1,23 @@
+AuthorName: Hanna
+AuthorURL: https://www.linkedin.com/in/hanna-blashchuk-34189b226/
+
+Title: Generate an xPath from HTML-element
+Category: Web Development
+Teaser: Get XPath expression from a web site's HTML content.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-23T13:51:58.948Z
+Help: 
+ID: 1804482463444234240
+PromptHint: [Write html and data]
+PromptPackageID: 0
+
+Prompt:
+Generate an Xpath for a given [html element], assuming I want to get this [result].
+Note, however, that the [result] must not be written in xpath.
+Consider that there can be several elements by Xpath. In this case, return all of them. 
+For example, for this html <a _ngcontent-client-app-c261="" rel="nofollow noopener noreferrer" role="link" class="component--field-formatter link-accent ng-star-inserted" href="http://www.pinpointe.com" target="_blank" title="www.pinpointe.com" aria-label="www.pinpointe.com"> www.pinpointe.com <icon _ngcontent-client-app-c261="" size="custom" key="icon_new_tab" color="inherit" class="external-icon ng-star-inserted"><svg viewBox="0 0 24 24" class="custom inherit"><path d="M0 0h24v24H0z" fill="none"></path><path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></icon><!----><!----><!----></a> I want to get www.pinpointe.com and right xpath will be - //a[@class='component--field-formatter link-accent ng-star-inserted']/text()
+
+All output shall be in [TARGETLANGUAGE].
+
+[PROMPT]

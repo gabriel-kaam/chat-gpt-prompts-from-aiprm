@@ -1,0 +1,19 @@
+AuthorName: Curty Digital by Egidio
+AuthorURL: https://curty.us/
+
+Title: "Copy" for Description, Tags and Product Title
+Category: Products
+Teaser: Rewrite product title, tag and description with Copywriting technique
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-24T23:49:33.945Z
+Help: 
+ID: 1804995238067175424
+PromptHint: [Insert the Title and Description]
+PromptPackageID: 0
+
+Prompt:
+You are an expert copywrtier specializing in ecommerce, your task today is to define the title of a product with a maximum of 30 characters, the tags and the description. Be creative and persuasive using copywriting techniques: 
+
+ All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]

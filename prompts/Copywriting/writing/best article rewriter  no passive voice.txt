@@ -1,0 +1,19 @@
+AuthorName: Larbi
+AuthorURL: https://cryptozoom.info/
+
+Title: Best Article Rewriter | No Passive Voice
+Category: writing
+Teaser: Rewrite this text and make it SEO optimized for the keyword [KEYWORD], no passive voice
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T21:30:00.809Z
+Help: 
+ID: 1803510567126953984
+PromptHint: Rewriting an Article
+PromptPackageID: 0
+
+Prompt:
+I want you to rewrite this text in [number of words] words,  and make it SEO optimized for the keyword [KEYWORD], no passive voice, and make it friendly to hook the reader.
+
+All output should be in [TARGETLANGUAGE].
+The article to rewrite is this: [PROMPT]

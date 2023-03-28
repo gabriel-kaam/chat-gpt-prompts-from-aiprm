@@ -1,0 +1,17 @@
+AuthorName: Gabriel Zavitoski
+AuthorURL: https://www.linkedin.com/in/gabriel-zavitoski-43677420/
+
+Title: Metadata Optimizations from URL
+Category: keywords
+Teaser: Optimize title and meta descriptions based on URL and keyword inputs.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-20T19:10:50.546Z
+Help: 
+ID: 1803475543585452032
+PromptHint: Insert the target URL and keyword to generate optimize Title and Descripton
+PromptPackageID: 0
+
+Prompt:
+Create title, meta description around 150 characters for this page [URL] using the keyword [KEYWORD], and the language must be [TARGETLANGUAGE].
+[PROMPT]

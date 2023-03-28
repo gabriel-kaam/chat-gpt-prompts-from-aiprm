@@ -1,0 +1,16 @@
+AuthorName: bioshala
+AuthorURL: https://www.notion.so/aa81977411f84fac89eedd52260b956e?v=26066b4ead8e4d74a5ecc7a58eb3dee8
+
+Title: term explantion generator
+Category: writing
+Teaser: gererate bolne ke liye
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-21T10:10:49.658Z
+Help: 
+ID: 1803702032276914176
+PromptHint: write the term here
+PromptPackageID: 0
+
+Prompt:
+I will give you one term, you are suppose to answer in 3 steps. Sterp 1 to provide non traditional explanation which shall include a new perspective in point wise form. step02 is to come with mind-boggling fun facts with relevant examples. step  03 is to give me very brief stories in oderly point each point shall create a very very small caviate. My topic in [TARGETLANGUAGE] [PROMPT]

@@ -1,0 +1,24 @@
+AuthorName: Himanshu Agarwal
+AuthorURL: https://www.twge.in/
+
+Title: Amazon Title
+Category: Product Description
+Teaser: Write Amazon Product title of maximum 180 Characters which is acceptable by Amazon
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T10:45:02.882Z
+Help: 
+ID: 1801898704794542080
+PromptHint: Share all the product details which you have like Brand Name, Product Name, Product Features, Size, etc 
+PromptPackageID: 0
+
+Prompt:
+Can you write Amazon Product Title 
+Dont use more then 180 Characters in the Title
+Ensure it doesn’t include any surety words like 100%, perfect, unique, perfect, best, High quality – This is very important
+By using the following information 
+[PROMPT]
+
+
+
+write all output in [TARGETLANGUAGE]

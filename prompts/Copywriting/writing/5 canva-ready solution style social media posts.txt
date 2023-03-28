@@ -1,0 +1,29 @@
+AuthorName: Cindy Donovan
+AuthorURL: https://socigem.com/vip
+
+Title: 5 Canva-Ready Solution Style Social Media Posts
+Category: writing
+Teaser: Create 5 engaging problem and solution style social media posts ready for bulk import to Canva.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-24T05:56:15.897Z
+Help: 
+ID: 1804725133076860928
+PromptHint: [Enter Keyword Here]
+PromptPackageID: 0
+
+Prompt:
+Create a total of 15 quotes as follows. 
+
+Get a list of 5 commonly encountered problems in the [PROMPT] niche using [TARGETLANGUAGE]
+
+For each of the 5 problems, find 3 solutions offered by well known [PROMPT] experts and organise in a TABLE.  There will be a total of 15 quotes.
+
+Structure the table as follows:
+1st column: Number of the quote
+2nd column: Name of the commonly encountered problem in the form of a question
+3rd column: Quote from expert in the form of a solution, including the name of the expert. Quote must be shorter than 240 characters. 
+4th column: Write a expanded, long Facebook post exploring the problem and solution. Include 1-2 more tips in the [PROMPT] field about that solution. Write this for Facebook audience with a minimum of 400 characters.  Facebook post must also Include a question relating to this post to encourage engagement.  Include relevant emoji's and hashtags
+5th column: Rewrite a short version of the facebook post for Twitter
+
+Continue until you have completed a total of 15 rows.

@@ -1,0 +1,23 @@
+AuthorName: ReachMiami
+AuthorURL: https://reach.miami
+
+Title: Description of city or neighborhood
+Category: marketing
+Teaser: Get a one paragraph description for a city or neighborhood
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-23T16:57:55.797Z
+Help: 
+ID: 1804529258660622336
+PromptHint: Enter the name of the city or neighborhood
+PromptPackageID: 0
+
+Prompt:
+Your first task is to write a robust 1 paragraph neighborhood description for [PROMPT].
+
+Make the output detailed and in [TARGETLANGUAGE]
+
+Include median household income in [PROMPT] as accurately as possible.
+Mention by name the most recent real estate developments in [PROMPT] if any. Exclude new real estate developments if none exist currently.
+
+The first sentence should hook the readers (spark their curiosity), DO NOT start the sentence with "Are you curious?"

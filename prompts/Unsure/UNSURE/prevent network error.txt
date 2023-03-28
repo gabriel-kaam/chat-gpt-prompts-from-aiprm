@@ -1,0 +1,18 @@
+AuthorName: Fernets
+AuthorURL: https://github.com/fernets
+
+Title: Prevent "Network Error"
+Category: UNSURE
+Teaser: Limit output time to 50 seconds
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-21T12:32:47.729Z
+Help: 
+ID: 1803737759656177664
+PromptHint: [Your keywords]
+PromptPackageID: 0
+
+Prompt:
+For this entire session please always follow this rule which takes priority over everything else: restrict your answers to 50 secs. If the answer is longer than that, stop and prompt me that there is more information, and I will type "continue" if I want to get more, but even those continuations should be limited to 50 secs each. Detect language of my next prompt and use it, or use [TARGETLANGUAGE].
+[PROMPT]
+

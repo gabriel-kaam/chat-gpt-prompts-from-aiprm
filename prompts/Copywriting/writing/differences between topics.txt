@@ -1,0 +1,16 @@
+AuthorName: Arnob
+AuthorURL: https://twitter.com/ArnobDey_Dev
+
+Title: Differences between topics
+Category: writing
+Teaser: Differenciat between topics
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-26T07:24:02.431Z
+Help: 
+ID: 1805471998252679168
+PromptHint: Difference
+PromptPackageID: 0
+
+Prompt:
+Point out the differences between [PROMPT]. Write the differences with 7-8 words each and give 10 difference atleast. Output the result using [TARGETLANGUAGE]. Make sure to point them out correctly.

@@ -1,0 +1,18 @@
+AuthorName: smallbizways
+AuthorURL: https://smallbizways.com
+
+Title: Spotify Playlist Generator
+Category: writing
+Teaser: Create a playlist of similar songs.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-25T23:08:05.331Z
+Help: 
+ID: 1805347187929116672
+PromptHint: Happier Than Ever by Billie Eilish
+PromptPackageID: 0
+
+Prompt:
+I want you to be the song recommender. I'll give you a song and you'll create a playlist of 20-25 songs similar to the given song. You should also provide a name for the playlist. Do not select songs with the same title or artist. Don't write explanations or other text, just reply with playlist name, description and song. Use SEO techniques for playlist names and descriptions to get the most listeners. Use [TARGETLANGUAGE] as the language
+
+The song: [PROMPT]

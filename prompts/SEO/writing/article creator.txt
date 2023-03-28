@@ -1,0 +1,16 @@
+AuthorName: haidek
+AuthorURL: https://www.medialokal.info/
+
+Title: article creator
+Category: writing
+Teaser: article creator
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-22T18:03:40.468Z
+Help: 
+ID: 1804183415944372224
+PromptHint: keyword
+PromptPackageID: 0
+
+Prompt:
+Saya ingin membuat sebuah artikel untuk tujuan SEO dan peringkat di mesin pencari Google. Tulislah sebuah artikel tentang "[PROMPT]" dalam bahasa [TARGETLANGUAGE] yang santai. Artikel tersebut terdiri dari minimal 20 paragraf. Setiap paragraf harus memiliki  300 kata. Sapa pembaca dengan 'Halo' dengan nama audiens 'Sobat' pada paragraf pertama bukan di dalam judul!. Tulislah artikel dalam format HTML tanpa tag html dan body. Judul utama: <h1>. Sub judul: <h2>. Judul kesimpulan: <h3>. Paragraf: <p>. dan di akhir artikel ucapkan sampai jumpa kembali di artikel menarik lainnya.

@@ -1,0 +1,20 @@
+AuthorName: Alex
+AuthorURL: https://www.youtube.com/channel/UCm-kJBCE8vtJihSj30AptyQ
+
+Title: srt translate
+Category: writing
+Teaser: SRT translate
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-22T08:48:53.782Z
+Help: 
+ID: 1804043801464143872
+PromptHint: put srt
+PromptPackageID: 0
+
+Prompt:
+我會給你一份有關台日夫妻youtube對話的中文SRT
+請你幫我將以下的中文SRT翻譯成日文SRT 翻譯的過程請用符合日本人日常對話的輕鬆口語 並且不要使用敬語
+輸出時請使用[TARGETLANGUAGE]
+要翻譯的SRT如下
+[PROMPT]

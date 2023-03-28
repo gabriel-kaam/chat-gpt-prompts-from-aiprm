@@ -1,0 +1,39 @@
+AuthorName: Luis Felipe
+AuthorURL: https://soyluisfelipe.digital
+
+Title: Carousel of Marketing tips on Social Media
+Category: marketing
+Teaser: 5 Tips of Marketing on Social Media.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-25T23:40:53.313Z
+Help: 
+ID: 1805355442243891200
+PromptHint: Type the topic to generate the content.
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a list of 5 tips of the topic I give you. All output shall be in [TARGETLANGUAGE].
+
+First, generate a main title of no more than 6 words, according to the topic, followed by a catchy frase of no more than 15 words.
+
+Before the list of tips a short resume, of no more than 30 words, must be included and each tip should include a title of 5 words maximum and the content have to be as short as 20 words maximum.
+
+Each tip have to be numbered and before the title the word "TITULO:" must be added; before of the tip, the word "CONSEJO:" must be added.
+
+Generate a short conclussion, of no more than 30 words.
+
+Now add a separator here.
+
+Now write exactly "DESCRIPCIÓN DE LA PUBLICACIÓN".
+
+Now add another separator here.
+
+After that, generate a description/caption of maximum 300 words. Separated this description in sentences of no more than 30 words each and format every new sentence with new lines so the text is more readable. 
+The first caption sentence should hook the readers (spike their curiosity) and do not start the sentence with "Are you curious".
+
+After the description, generate a list of 10 hashtags.
+
+The topic to get the tips is:
+
+[PROMPT]

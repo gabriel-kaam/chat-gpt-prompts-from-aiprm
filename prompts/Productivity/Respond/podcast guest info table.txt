@@ -1,0 +1,19 @@
+AuthorName: Paul Cowen
+AuthorURL: https://www.theaiconsultant.co.uk
+
+Title: Podcast Guest Info Table
+Category: Respond
+Teaser: Find books, podcasts and Twitter handle for Podcast guests.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-24T13:40:19.813Z
+Help: 
+ID: 1804841918925103104
+PromptHint: Podcast Guests plus Identifier (one per line) e.g. Ananyo Bhattacharya	Science journalist
+PromptPackageID: 0
+
+Prompt:
+Given the names in [PROMPT] below.  Please can you create me a table with the name and any books that they have written plus the topic of the book also includes any podcast that they host and the topic and finally their Twitter handle.  
+So the table should have 6 columns and include column headings.  Column 1 is name, column 2 is book titles, column 3 is topic of said books, column 4 is podcast title (if any) and column 5 is the podcast topic, and finally column 6 is their twitter handle.  If the person has written multiple books include them each on a new line within the same cell.  Write the table output in [TARGETLANGUAGE] Thanks:
+
+[PROMPT]

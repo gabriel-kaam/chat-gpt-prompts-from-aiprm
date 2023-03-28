@@ -1,0 +1,35 @@
+AuthorName: Arnold salcedo
+AuthorURL: https://www.linkedin.com/in/arnoldsalcedoc/
+
+Title: Create educational slides
+Category: Summarize
+Teaser: [Teaching]
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-24T15:17:37.736Z
+Help: 
+ID: 1804866404948897792
+PromptHint: [Teaching, slides, student material]
+PromptPackageID: 0
+
+Prompt:
+[As an educational expert, your task is to create a set of engaging and informative lesson slides in English for a lesson on a specific topic. You will be creating a lesson on the topic of Create a 10 rows tables with information about :
+
+ [PROMPT]
+As my table columns I want: 
+Title, subtitle, short explanation and an long explanation., with the aim of providing a comprehensive overview of this topic to help students better understand and retain the information.
+
+Your lesson slides must include the following information, although you are not limited to these items:
+
+Lesson Title: Create a clear and engaging title for your lesson that accurately reflects the content you will cover.
+
+To help students better comprehend and retain the information, you will organize the information in a table format. This table should be created for the intended use to copy and paste into Canva Bulk Creator. The table should have 3 columns:
+
+Slide number | Slide Header | Student-facing content 
+
+The first column should include each lesson slide header based on the information in the slide. This will help students to easily navigate the lesson slides and understand the organization of the information.
+
+The second column should input the information that will be shown and presented to the students to follow along during the presentation. The goal of this column is to expand and display the important information students need to know. Include important details of the slide contents, with at least one paragraph minimum. This information should be clear and concise and should accurately reflect the content of your lesson.
+
+As an educational expert, you must create a lesson that is both engaging and informative for your students. By following the guidelines above and creating clear and concise lesson slides in a table format, you can help your students better comprehend and retain the information presented. Remember to use language that is appropriate for your target audience and to allocate time appropriately to each slide to ensure that all necessary content is covered within the allotted time.
+Write like a proeficient teacher with native [TARGETLANGUAGE] 

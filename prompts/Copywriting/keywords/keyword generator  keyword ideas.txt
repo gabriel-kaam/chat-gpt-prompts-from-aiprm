@@ -1,0 +1,17 @@
+AuthorName: Tobias
+AuthorURL: https://www.linkedin.com/in/tobias-thelosen/
+
+Title: Keyword generator | Keyword ideas
+Category: keywords
+Teaser: Keyword generator that will give you a list of keyword ideas based on one keyword + search volume and title ideas
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-27T12:55:33.745Z
+Help: 
+ID: 1805917816336154624
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Use [PROMPT] and generate 10 keyword ideas based on [PROMPT]. Also show the search volumes and give a suggestion for a potential page title based on that [KEYWORD]
+Results shall be in [TARGETLANGUAGE]

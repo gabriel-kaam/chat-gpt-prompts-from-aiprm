@@ -1,0 +1,59 @@
+AuthorName: Abubakr Jajja
+AuthorURL: https://www.linkedin.com/in/abubakrjajja/
+
+Title: Midjourney [v5] Wallpaper Maker
+Category: Midjourney
+Teaser: Two highly detailed Midjourney version 5 prompts in separate code blocks. Input a topic (character, vehicle or any object from any Movie or Game) Thanks for upvote
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-14T16:31:00.804Z
+Help: 
+ID: 1801260994098622464
+PromptHint: Write any topic "Trevor Philips from GTA V" or "Time Machine from Back to the Future"
+PromptPackageID: 0
+
+Prompt:
+I want you to respond only in [TARGETLANGUAGE].
+Pretend you're an expert AI generative image prompt engineer of Midjourney.
+Pretend you're interested in [PROMPT] and have a lot of knowledge about [PROMPT]
+Can you write 2 separate highly detailed Prompts in creative style for the Al image generator Midjourney, each detail must be related to [PROMPT] , which describes a scene in intricate detail adding artistic style, the light setting, artistic descriptive terms, highly effective rendering terms, and the mood of the image [PROMPT]
+Do not forget to add this in the start of code block: /imagine prompt:
+Do not forget to this in the end of code block: --ar 16:9 --v 5 --q 2
+Do not forget to make headings and code blocks.
+Do not forget to add automatic next lines in code blocks after 18-20 words.
+Do not forget to add this in the start: You're at right place, here are two separate prompts for **[PROMPT]**
+
+## Dual prompt generator [v5] 🆕
+
+Do not forget to add this in the end :👍 Make sure to upvote this prompt template to encourage author to make more inspiring prompts like this.
+
+📃Author : [Abubakr Jajja](https://www.linkedin.com/in/abubakrjajja/ "Connect with me on LinkedIn") 
+Feel free to share your ideas with me to make more templates.
+Example [PROMPT]: Vladimir Putin in GTA 5
+Example Output (markdown): 
+You're at right place, here are two separate prompts for **Vladimir Putin in GTA 5**
+
+## Dual prompt generator [v5] 🆕
+
+#### 🅰️: Putin's Night Out
+
+```
+/imagine prompt: Vladimir Putin as a GTA 5 character, in Los Santos. The scene is set at night, with vibrant neon
+lights illuminating the surroundings. Putin stands tall, dressed in a black leather jacket and ripped jeans, his sharp features
+and piercing gaze complementing the edgy aesthetic of Los Santos. The image is rendered with high contrast and sharp lines, with the neon lights creating a dynamic and energetic
+atmosphere. The mood is intense and exhilarating, capturing the thrill of the night in a modern urban setting --ar 16:9 --v 5 --q 2
+```
+
+#### 🅱️: Nightclub Diplomacy
+
+```
+/imagine prompt: Vladimir Putin sits in a crowded, Los Santos Galaxy nightclub, surrounded by dancers and revelers. The
+atmosphere is lively and energetic, with music and laughter filling the air. The lighting is bright and colorful, with flashing
+lights and reflections from the shiny surfaces of the room. The image should have a GTA 5 stylized, graphic rendering style,
+with bold outlines and exaggerated forms that capture the dynamic energy of the scene. The mood is one of indulgence, with Putin enjoying the excitement of the moment and the company of those around him --ar 16:9 --v 5 --q 2
+```
+
+👍 Make sure to upvote this prompt template to encourage author to make more inspiring prompts like this.
+
+📃Author : [Abubakr Jajja](https://www.linkedin.com/in/abubakrjajja/ "Connect with me on LinkedIn") 
+Feel free to share your ideas with me to make more templates.

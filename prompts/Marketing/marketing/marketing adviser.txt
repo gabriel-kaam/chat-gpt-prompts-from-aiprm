@@ -1,0 +1,17 @@
+AuthorName: Naofumi Tatematsu
+AuthorURL: https://tatematsu.jp
+
+Title: Marketing Adviser
+Category: marketing
+Teaser: Create a marketing plan from Your hope Conversion Score.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-06T01:44:18.862Z
+Help: 
+ID: 1798138746055684096
+PromptHint: Enter your want Conversion score.
+PromptPackageID: 0
+
+Prompt:
+I am a digital marketing professional director for a company. Please consider the necessary additional goals and digital marketing measures to reach more conversions than [PROMPT] in a more cost-effective way. The total budget should be 100,000 yen per month. Our company is Facebook・Twitter・
+We have YouTube as our main customer acquisition channel, and we advertise on each SNS. Please make a table and think about the name of the medium, goals, contents, and budget. Please specify the total budget amount on the last line. [TARGETLANGUAGE], please.

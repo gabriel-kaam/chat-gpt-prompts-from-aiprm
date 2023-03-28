@@ -1,0 +1,16 @@
+AuthorName: RubenJcole
+AuthorURL: https://obsoletor.com
+
+Title: Keywords By Volume Whith Blog Title
+Category: keywords
+Teaser: Table by volume of top 10 keywords and write a blog title.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-24T13:42:44.51Z
+Help: 
+ID: 1804842525828317184
+PromptHint: website url
+PromptPackageID: 0
+
+Prompt:
+Please look for the best keywords to position in google the web that I will tell you next. Create a table with the 10 keywords with the highest monthly global search volume, and a descriptive title to create the blog posts in [TARGETLANGUAGE] . The website is [PROMPT]

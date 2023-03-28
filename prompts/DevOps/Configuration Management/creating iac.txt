@@ -1,0 +1,16 @@
+AuthorName: STIX
+AuthorURL: https://www.semantix.ai
+
+Title: Creating IaC
+Category: Configuration Management
+Teaser: Create your own IaC right now
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-03-27T13:19:03.474Z
+Help: 
+ID: 1805923729168130048
+PromptHint: [write technology name] [describe resource] [describe cloud]
+PromptPackageID: 0
+
+Prompt:
+Using the [TARGETLANGUAGE] Create me a code using IAC technology [PROMPT] to provision resource [PROMPT] in cloud [PROMPT] with security standards recommended by NIST and ISO27017.

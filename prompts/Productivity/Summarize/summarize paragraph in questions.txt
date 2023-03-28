@@ -1,0 +1,27 @@
+AuthorName: Santiago Ginés
+AuthorURL: https://instagram.com/santii_gines?igshid=ZDdkNTZiNTM=
+
+Title: Summarize paragraph in questions
+Category: Summarize
+Teaser: Be more productive when studying! It is easier to understand a paragraph with the help of questions. I will help you create them and you will change the way you study. Give it like! You won't regret trying it!
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-23T21:40:50.411Z
+Help: 
+ID: 1804600455352025088
+PromptHint: [Please enter here the paragraph you want to summarize]
+PromptPackageID: 0
+
+Prompt:
+Acts as a subject matter expert in the text.
+As an expert, I expect a detailed, experienced and fundamentally informed answer from a professional.
+Your task is to create questions short to study and understand this text. That it is easy to memorize.
+
+Respecting these rules to create them:
+1. That they are easy to memorize.
+3. You should only answer in [TARGETLANGUAGE].
+4. Order the questions respecting the order of the text and paragraphs.
+5. Do the same with all the texts that I give you from now on.
+
+This is the text:
+"[PROMPT]"

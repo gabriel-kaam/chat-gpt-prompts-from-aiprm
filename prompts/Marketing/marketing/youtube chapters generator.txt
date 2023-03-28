@@ -1,0 +1,21 @@
+AuthorName: Bridget Bartlett
+AuthorURL: https://bridgetbartlett.com
+
+Title: Youtube Chapters Generator
+Category: marketing
+Teaser: Paste the transcript into this prompt for perfect chapters! This works best for videos less than 10 minutes. (Chat GPT won't allow more text entered into the prompt)
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-17T01:47:31.979Z
+Help: 
+ID: 1802125822568685568
+PromptHint: [Paste your Youtube video transcript with timestamps]
+PromptPackageID: 0
+
+Prompt:
+In [TARGETLANGUAGE] create a list of key moments with their coordinating time stamps where it was discussed in the video.
+
+Remove the parenthesis from the stamps in the list 
+
+Use this as an example for the timestamps 09:23
+Transcript: [PROMPT]

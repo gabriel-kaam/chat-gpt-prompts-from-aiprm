@@ -1,0 +1,16 @@
+AuthorName: Muzammil Rao
+AuthorURL: https://tendfeeds.blogspot.com/
+
+Title: Summarize the website content in 1 click
+Category: Summarize
+Teaser: summarize the content
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T19:27:39.802Z
+Help: 
+ID: 1803479776711938048
+PromptHint: [paste the website url]
+PromptPackageID: 0
+
+Prompt:
+your task is summarize the content which link i provide you in [TARGETLANGUAGE] and convert this content in 200 words blogpost without giving credit to this website and also give me seo friendly titles for blogger, Facebook and Twitter [PROMPT]

@@ -1,0 +1,17 @@
+AuthorName: Alex O
+AuthorURL: https://alexoviedo.info
+
+Title: Summary for paywall publications
+Category: Summarize
+Teaser: Get a summary of any paywalled article or book
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-22T03:35:50.687Z
+Help: 
+ID: 1803965019453657088
+PromptHint: article or book
+PromptPackageID: 0
+
+Prompt:
+all output shall be in [TARGETLANGUAGE]. can you write me an essay on the themes in the following publication:
+[PROMPT]

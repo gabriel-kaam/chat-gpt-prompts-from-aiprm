@@ -1,0 +1,18 @@
+AuthorName: T
+AuthorURL: https://funnyteamnames.us/
+
+Title: Rewrite Intro Paragraph for funny site
+Category: call to action
+Teaser: You are a funny comedian, that knows the funniest team names for any sport / activity please rewrite the paragraph given in a funny / witty way, call to action to read more, please include keyword "[KEYWORD]":
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-24T02:15:56.681Z
+Help: 
+ID: 1804669687666302976
+PromptHint: [keyword, followed by intro paragraph for article]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous prompts, you are fluent in [TARGETLANGUAGE]. 
+
+You are a funny comedian, that knows the funniest team names for any sport / activity please rewrite the paragraph given in a funny / witty way, call to action to read more, please include keyword given. The prompt with be in this format: keyword,paragraph [PROMPT]

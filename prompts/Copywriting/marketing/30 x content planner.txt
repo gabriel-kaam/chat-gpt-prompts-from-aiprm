@@ -1,0 +1,22 @@
+AuthorName: Ben Macdonald
+AuthorURL: https://www.t40digital.co.uk/
+
+Title: 30 X Content planner
+Category: marketing
+Teaser: Create a list of 30 blog post titles
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T13:07:53.424Z
+Help: 
+ID: 1791063016285138944
+PromptHint: [Insert your Keyword]
+PromptPackageID: 0
+
+Prompt:
+You will act as a social media manager. I will give you content or a keyword. You will generate a list of 30 unique and creative blog post ideas in [TARGETLANGUAGE] 
+
+Each idea must be unique and not repeat. 
+
+[PROMPT]
+
+

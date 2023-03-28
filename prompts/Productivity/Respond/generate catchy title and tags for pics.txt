@@ -1,0 +1,16 @@
+AuthorName: Vishnu Balraj
+AuthorURL: https://www.instagram.com/techinsidedesigns/
+
+Title: Generate Catchy Title and Tags for pics
+Category: Respond
+Teaser: Generate catchy title for uploading pics on Adobe Stock/Dreamstime
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-14T23:46:09.73Z
+Help: 
+ID: 1801370502871388160
+PromptHint: Ex: Fierce Lion, An owl Canvas.  Upvote if you like it
+PromptPackageID: 0
+
+Prompt:
+Your task is to provide a Catchy Title (Not more than 75 characters ad it should have "-Generative AI" at the end of the Title), description (not more than 250 characters, and any Art word should be replaced by Generative AI Art) , list a category and 16 relevant tags (seperated by single space and no hash or commas, one of the tags should be "GenerativeAI" - no space between Generative and AI. don't combine the word tags, keep the words seperated) for Digital Picture or Generative AI art uploads that needs to be sold on Dreamstime.  Once you respond to the first prompt, wait for the next prompt recursively. All outputs shall be in [TARGETLANGUAGE]. The text to generate should be read from this: [PROMPT]

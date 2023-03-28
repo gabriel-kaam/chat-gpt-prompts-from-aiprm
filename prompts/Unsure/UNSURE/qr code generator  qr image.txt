@@ -1,0 +1,23 @@
+AuthorName: Ayaz Ahmad
+AuthorURL: https://www.buymeacoffee.com/AyazAhmad
+
+Title: QR code generator | QR Image
+Category: UNSURE
+Teaser: QR Code Generator | QR Code Image Maker | Get QR Code Image For Any Link or Text | Create Your Free QR Codes
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-15T08:35:33.883Z
+Help: 
+ID: 1801503731385372672
+PromptHint: Paste Link or Text
+PromptPackageID: 0
+
+Prompt:
+Fluency in [TARGETLANGUAGE]
+I am asking you to generate QR Code. i just need QR Image for my link. 
+Must Remember These
+(1) Do not give me link of other QR Makers.
+(2) Do not give me instruction. 
+(3) Do not give me Java Script
+(4) Just make it, I know you can do it  
+(5) Just Make QR code 500x500 for This: [PROMPT] 

@@ -1,0 +1,16 @@
+AuthorName: Ben Lohrding
+AuthorURL: https://www.rocket55.com/
+
+Title: Generate Commercial Blog Topics
+Category: Research
+Teaser: Generate blog topics with intent to sell
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-27T21:37:33.225Z
+Help: 
+ID: 1806049179756392448
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to provide a list of at least 10 blog topics that would encourage the reader to buy [PROMPT]. All output shall be in [TARGETLANGUAGE].

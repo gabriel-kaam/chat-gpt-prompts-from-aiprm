@@ -1,0 +1,16 @@
+AuthorName: NoNamed
+AuthorURL: https://www.alusinfo.com/
+
+Title: Rewrite Article with Fully Optimized SEO
+Category: writing
+Teaser: Create title, meta description, keywords, headings, and coclusion with fully optimized SEO, human written with 100% unique rewrite article.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-26T17:43:10.652Z
+Help: 
+ID: 1805627809184604160
+PromptHint: Input article url
+PromptPackageID: 0
+
+Prompt:
+Create 1500 word include title, keywords, meta descriptions, introductions, heading (H1 or H2 or H3), and conclusions from existing article with [TARGETLANGUAGE] language from url [PROMPT].  rewrite article as though it were made by people and check grammar and spelling correction so that it becomes a blog article that complies with SEO provisions. Pay attention to against how words are used to avoid having your articles flagged as plagiarized. always explain headings (H1 or H2 or H3).If you receive the instruction "Continue writing please", please continue rewrite article from the last sentence.

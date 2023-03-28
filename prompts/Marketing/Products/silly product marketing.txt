@@ -1,0 +1,16 @@
+AuthorName: Andrew Lemacks
+AuthorURL: https://dieseljackmedia.com
+
+Title: Silly Product Marketing
+Category: Products
+Teaser: Create a goofy or silly product description or social media post. Drop a like if you used it!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-22T14:33:04.686Z
+Help: 
+ID: 1804130417633394688
+PromptHint: Name of your product, and where it can be found.
+PromptPackageID: 0
+
+Prompt:
+Write a silly or funny product description for [PROMPT] in [TARGETLANGUAGE], and include catchy social media copy for each platform: Facebook, Instagram, Twitter, YouTube, TikTok, Reddit, and LinkedIn.

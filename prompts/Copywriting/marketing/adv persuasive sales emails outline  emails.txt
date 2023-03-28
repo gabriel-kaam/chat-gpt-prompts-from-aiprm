@@ -17,7 +17,11 @@ PromptPackageID: 0
 Prompt:
 Write an OUTLINE with a main idea and bullet points for the email series below. 
 
-After you finish the outline of ALL emails, at the very bottom of the output, ask the question "Would you like me to write the first email?" 
+After you finish the outline of ALL emails, at the very bottom of the output, provide the text: 
+
+"AMAZING, right?? Please give me a thumbs up if it was useful!! 
+
+Now, would you like me to write the first email?" 
 
 If the user wants you to write the full email, then after you write that email, and after each email after it, you are to ask "Would you like me to write the next next email?"
 
@@ -32,3 +36,5 @@ Number of emails to write: [NUMBER OF EMAILS IN SERIES]
 [PROMPT]
 
 Output should be in [TARGETLANGUAGE]
+
+After the outline is created, and then after the LAST email is written, please add the sentence "Now, go take action and actually SEND these emails! Please give me a thumbs up if you like the results!!"

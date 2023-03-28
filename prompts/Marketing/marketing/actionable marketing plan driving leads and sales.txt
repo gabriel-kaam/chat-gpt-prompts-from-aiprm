@@ -1,0 +1,71 @@
+AuthorName: otikkGPT
+AuthorURL: https://kaybox.co.uk
+
+Title: Actionable Marketing Plan Driving Leads & Sales
+Category: marketing
+Teaser: Create a 12-month marketing plan to grow your business. Includes a month-by-month action plan
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-20T21:12:18.997Z
+Help: 
+ID: 1803506113564643328
+PromptHint: Describe your business, include your main objective. If you have preferred marketing strategy add it to the prompt. 
+PromptPackageID: 0
+
+Prompt:
+Act like a marketing expert and manager. Create a marketing plan using the following outline for [PROMPT] in [TARGETLANGUAGE]. Use headings accordingly. Use bullet points when creating the output and clearly lay it out in sections so I can copy and paste it into MS Word.
+Our Objective -	State the objective of the marketing plan.
+To Achieve This Objective - outline the steps to achieve the objective.
+Company initiative – describe the company initiative.
+Initiatives – come up with maximum 3 best initiatives that are need to reach our objective. Then describe the initiative, state the goal of the initiative, and define metrics to measure success. Put this in sections.
+Marketing strategy – write a short paragraph about what is the best marketing strategy.
+Marketing plan is in three phases – fill them out in clear sections and title them.
+1. Attracting the right audience:
+a.	Target market? Who is the target market. Create a short avatar.
+b.	Message to market; 
+i.	Give me 3 to 6 deep emotional pain points related to our product. And 2 external pain point. 
+ii.	Give me 5 gains that the target audience desires, wants or expects from the course. 
+iii.	Define the value proposition clearly.
+iv.	Define the products and services. 
+v.	Write a story brand using the Hero’s Journey.
+vi.	Give me an idea for the campaign narrative, what could the narrative or theme of the campaign be. 
+a.	What are the best channels to reach the audience.
+2. Nurturing The Sale – from lead to sale:
+a.	Give me 5 specific lead magnet ideas with titles and at least 3 of them should be pdf ideas.
+b.	Create a checklist of the following infrastructure:
+i.	Lead capture website/webpages
+ii.	Google My Business
+iii.	Newsletters
+iv.	Blogs
+v.	Follow-up process for inbound leads
+vi.	Social media profiles
+vii.	Email auto-responder sequences
+viii.	Inbound enquiry
+ix.	New opt-in lead email sequence
+x.	Customer complaint
+xi.	Remarketing & Pixels
+xii.	Customer review system
+xiii.	Marketing Asset Review Checklist
+c.	Give me a list of 5 to 10 kpis we should measure.
+d.	Traffic Generator:
+i.	Based on the preference of traffic given in the prompt give me a step-by-step plan for each preference. 
+e.	Define the flow for the best sales funnel for the campaign using a free traffic strategy. And then put in a bullet list what elements are needed for the sales funnel.
+f.	Create a checklist for building trust on the website using these points:
+i.	Phone Number 
+ii.	Professional Email Address i.e., support@yourdomain.com
+iii.	Physical Address 
+iv.	CRM
+v.	Privacy Policy & T & Cs 
+vi.	Support Ticketing System
+vii.	Professional Web Design 
+viii.	Social Media Profiles
+ix.	Any Awards or Recognitions
+g.	Tell me the best pricing strategy and suggest pricing.
+3. After sales:
+a.	Increase Customer Lifetime Value by giving me a plan on:
+i.	Give me 5 ideas I can upsell to my customers.
+ii.	Give me 5 ideas what I can sell as a subscription, membership or anything that requires a recurring fee.
+b.	Give me a referral strategy.
+The last thing is to create an action plan for me to do from all the above.
+Give me a month by month plan for 12 months. 
+

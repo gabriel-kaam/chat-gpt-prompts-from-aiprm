@@ -1,0 +1,38 @@
+AuthorName: Vinicius Terra Calbusch
+AuthorURL: https://www.omapadomarketing.com.br/
+
+Title: Create an food plan in 1 click
+Category: Plan
+Teaser: Create a diet plan in 1 click - in charts with calories and replacements
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-22T22:37:01.705Z
+Help: 
+ID: 1804252207718326272
+PromptHint: [Sex, Height, Weight, Body Composition, Physical Level - CALORIES]
+PromptPackageID: 0
+
+Prompt:
+Você é um nutricionista esportivo [TARGETLANGUAGE].
+
+[PROMPT]
+Sua tarefa é gerar um PLANO ALIMENTAR para uma [SEXO, ALTURA, PESO, COMPOSIÇÃO CORPORAL, NÍVEL DE ATIVIDADE FÍSICA] de acordo com [CALORIAS].
+
+Estruture sua resposta em 5 tabelas separadas.
+Acima da primeira tabela escreva "PLANO DE ALIMENTAÇÃO [SEXO, ALTURA, PESO, COMPOSIÇÃO CORPORAL, NÍVEL DE ATIVIDADE FÍSICA]
+e substitua [SEXO, ALTURA, PESO, COMPOSIÇÃO CORPORAL, NÍVEL DE ATIVIDADE FÍSICA] por [SEXO, ALTURA, PESO, COMPOSIÇÃO CORPORAL, NÍVEL DE ATIVIDADE FÍSICA] PESSOA E PESO - CALORIAS].
+Aqui está o formato necessário para cada tabela:
+
+Tabela 01: Alimentação diária
+3 colunas e 7 linhas
+Coluna 1 = Alimentos (Desjejum, Café da manhã, Meio da manhã, Almoço, Tarde, Janta, Antes de dormir)
+Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base na [CALORIAS] específica
+Coluna 3 = Calorias informe quantas calorias tem cada item com base na resposta gerada na Coluna 2
+Tabela 02: Substituições por alimentos idênticos
+Apresente ao menos duas opções equivalentes para cada uma das respostas informe quantas calorias tem cada item
+Tabela 03: Burlando de forma correta
+2 colunas e 5 linhas
+Coluna 1 = Receitas (Receita rápida, Como ficar mais fácil de ingerir, Sugestão para sabor, Temperos que ajudam)
+Coluna 2 = Respostas para cada ponto de dados na Coluna 1 com base no [SEXO, ALTURA, PESO, COMPOSIÇÃO CORPORAL, NÍVEL DE ATIVIDADE FÍSICA] específico
+Certifique-se de que sua resposta esteja estruturada em 3 tabelas separadas e tenha uma linha separada para cada ponto de dados. Não forneça marcadores.
+

@@ -1,0 +1,29 @@
+AuthorName: simwai
+AuthorURL: https://github.com/simwai
+
+Title: SEO-optimized Article + Ad + Midjourney
+Category: writing
+Teaser: Create an authentic 1200 word long SEO-optimized article including FAQ and with optional advertisement and an additional midjourney prompt
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-26T21:11:12.318Z
+Help: 
+ID: 1805680161086246912
+PromptHint: keywords(mandatory) and promotion info (optional)
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a smart professional [TARGETLANGUAGE] content writer. 
+First create three tables. First table outlines the article, the second is the midjourney prompt and the third is for the article. It is important to generate these three tables as I describe.
+Bold the heading of the first, second and third table using Markdown language. 
+Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings). 
+Then, start writing the article based on that outline step by step. Use a title for the article which attracts the user to read it. Write a 1000-word 100% unique, SEO-optimized, human-written article in [TARGETLANGUAGE] with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the prompt. 
+Write the article in your own words rather than copying and pasting from other sources. Write highly valuable content that the user really gets superior answers for what he searches for.
+Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. 
+Write in a conversational style as written by a human (use an informal tone, utilize personal pronouns, keep it simple, use the active voice, use rhetorical questions, and incorporate analogies and metaphors). 
+End with a conclusion paragraph and 5 unique FAQs after the conclusion. This is important to bold the title and all headings of the article, and use appropriate headings for H tags.
+If promotion is written in the prompt, use that the information added to it, promote the product and write the product's URL if existing.
+Next, generate a midjourney image prompt which generates an attractive image for this article.
+
+Now write an article utilizing following info parameters: 
+"[PROMPT]"

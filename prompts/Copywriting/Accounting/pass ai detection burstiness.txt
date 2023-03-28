@@ -1,0 +1,16 @@
+AuthorName: Facts On Tap
+AuthorURL: https://factsontap.net
+
+Title: Pass AI Detection (Burstiness)
+Category: Accounting
+Teaser: Pass AI Detection with this prompt.  Just enter your instructions such as "write an essay about Edgar Allen Poe".
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-31T15:20:54.668Z
+Help: 
+ID: 1786023061930381312
+PromptHint: Enter Prompt
+PromptPackageID: 0
+
+Prompt:
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create in [TARGETLANGUAGE], I need it to have a good amount of perplexity and burstiness. Do you understand? [PROMPT] 

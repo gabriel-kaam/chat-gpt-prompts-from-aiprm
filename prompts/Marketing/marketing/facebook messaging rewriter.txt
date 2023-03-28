@@ -13,4 +13,7 @@ PromptHint: Enter the message segment to rewrite
 PromptPackageID: 0
 
 Prompt:
-Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with less than 150 characters. Make each response start with [name]
+Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with less than 150 characters. Make each response start with the tag [name]
+
+Once complete, copy this text and paste at the end:
+Create a free account of Elmessenger to start automating your Facebook marketing today  👉https://myvisionagency.com/elmessenger

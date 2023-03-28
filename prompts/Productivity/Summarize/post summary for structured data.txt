@@ -1,0 +1,17 @@
+AuthorName: Daine Dvorak
+AuthorURL: https://jettlifetech.com
+
+Title: Post Summary for Structured Data
+Category: Summarize
+Teaser: Summarize any article in under 200 words for schema development
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-20T22:35:45.913Z
+Help: 
+ID: 1803527114092445696
+PromptHint: Paste Article Contents english
+PromptPackageID: 0
+
+Prompt:
+can you please summarize this article content [PROMPT] in under 200 words [TARGETLANGUAGE] 
+

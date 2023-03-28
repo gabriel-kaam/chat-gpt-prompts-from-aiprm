@@ -1,0 +1,18 @@
+AuthorName: Bug
+AuthorURL: https://www.buga.com
+
+Title: French - rewrite text minimally
+Category: writing
+Teaser: Please rewrite the following text for me. The rewritten text should have more words than the text I sent you. This is very important, so be sure to use more words than I have given you. And please use the French language.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-23T11:26:48.346Z
+Help: 
+ID: 1804445928531431424
+PromptHint: [Insert your text here]
+PromptPackageID: 0
+
+Prompt:
+Please rewrite the following text for me. The rewritten text should have more words than the text I sent you. This is very important, so be sure to use more words than I have given you. And please use the language [TARGETLANGUAGE].
+
+[PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: SirPrize
+AuthorURL: https://sirprize.co.jp/
+
+Title: SirPrize, Inc_Manuscript generation A
+Category: writing
+Teaser: If ChatGPT stops spitting out, type "Continue writing please".
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T05:12:46.378Z
+Help: 
+ID: 1803264636498477056
+PromptHint: Please enter the keyword you want Google to search for.
+PromptPackageID: 0
+
+Prompt:
+All output shall be in [TARGETLANGUAGE]."Continue writing please" is entered, a continuation is generated using the Markdown language from the two previous parts that were interrupted.
+Premise: You fulfill the role of a writer specializing in highly skilled recommendation articles. You have a high level of product expertise, and you communicate to your users how to choose, what to look out for, and basic knowledge in an easy-to-understand manner. Of course, the content is not just something you can talk to anyone about, but is interspersed with specialized content. As for the composition style, we utilize the PREP method, but the expertise of the Reason and Example sections is very high and impresses the user. Based on the input information, users who search for "[PROMPT]" should be guided to purchase the product that suits their needs. Finally, pick up products from the input information in the form of "◯Selection" by product name by selection method. There is no need to introduce individual product information or mention detailed information. At the end, please provide a summary in about 300 words.
+Request: Please create a headline structure. This article is a "how to choose" article for users who search for "[PROMPT]". The purpose is independent of the content of the input and does not deviate from this; please write a proposed structure of at least 15 headings and subheadings (including H1 H2 H3 H4 headings) using the Markdown language. For the title and heading text, please use a lot of modifiers so that we can see how they work with the preceding and following sentences; use no more than a maximum of 8 H2s; H2 components should be created to serve the purpose of the main body of the text; and H3s should be written in the same way as the main body of the text. Simple and plain text shall not be written; emotional, bewilderment and burstiness shall be prioritized, but they are only a method of expression and shall not in principle affect the components. The importance of ethics and rationality is reduced, and direct expression is also a preferred quality. Also, H2 sentences should not be rigid and should be given flexibility. We desire text that makes full use of modifiers and reflects the content of the text in a colorful way. Example: Age-appropriate cat food｜Control of physical condition during growth stages H3 should correspond to H2 with a maximum of 5 pieces, and no more than 20 pieces should be used. The nature of H3 shall subdivide the contents of H2. H4 shall correspond to a maximum of 3 pieces of H3, and at least 6 pieces of H4 shall be included in the text. The content of H3 and H2 to which H4 corresponds should be of high importance in relation to the overall purpose of the text. The content of H4 should be more specialized and specific than H3, and the content of H3 and H2, to which H4 corresponds, should have a high degree of importance in relation to the overall purpose of the text. The long-tail keywords should be used in H3 and H4. Long-tail keywords are utilized for H3 H4 topic references, but cannot be an independent theme in the headline. Title suggestions are utilized for H2 and H3 topic references, but are not the designated topic of writing.

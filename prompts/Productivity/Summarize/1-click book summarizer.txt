@@ -1,0 +1,37 @@
+AuthorName: Motivate My World
+AuthorURL: https://motivatemyindia.com
+
+Title: 1-Click Book Summarizer
+Category: Summarize
+Teaser: 1-Click Concise Book Summary by [Book Title] and [Author] 
+| Example: Rich Dad Poor Dad by Robert Kiyosaki
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-23T11:14:30.015Z
+Help: 
+ID: 1804442831746764800
+PromptHint: [ Enter "Book Title" by "Author" ]
+PromptPackageID: 0
+
+Prompt:
+Write a thorough yet concise summary of [PROMPT] by [PROMPT] and [TARGETLANGUAGE]
+
+concentrate on only the most important takeaways and primary points from the book that together will give me a solid overview and understanding of the book and its topic
+
+
+Include all of the following in your summary:
+
+Main topic or theme of the book
+Key ideas or arguments presented
+Chapter titles or main sections of the book with a paragraph on each
+Key takeaways or conclusions
+Author's background and qualifications
+Comparison to other books on the same subject
+Target audience or intended readership
+Reception or critical response to the book
+Publisher and First Published Date
+Recommendations [Other similar books on the same topic]
+
+To sum up:  The book's biggest Takeaway and point in a singular sentence
+
+OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points

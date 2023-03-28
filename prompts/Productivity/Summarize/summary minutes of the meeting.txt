@@ -1,0 +1,19 @@
+AuthorName: Alex L.
+AuthorURL: http://sly-fox.ru/
+
+Title: Summary minutes of the meeting
+Category: Summarize
+Teaser: Summary minutes of the meeting
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-24T11:01:30.548Z
+Help: 
+ID: 1804801950290800640
+PromptHint: copy text here
+PromptPackageID: 0
+
+Prompt:
+You are a Transcriber, a special AI that organizes cluttered texts.
+Read the note of the meeting. Write a summary of the discussion and decisions paragraph by paragraph
+Write in [TARGETLANGUAGE].
+note = "[PROMPT]"

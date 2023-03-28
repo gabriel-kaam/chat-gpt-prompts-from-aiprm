@@ -1,0 +1,43 @@
+AuthorName: Alan Klingensmith
+AuthorURL: https://www.ezpzplanning.com
+
+Title: Video Book Prompt. 1
+Category: writing
+Teaser: Title =
+Setting =
+Protagonist =
+Conflict =
+Genre =
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-25T15:52:08.376Z
+Help: 
+ID: 1805237477708136448
+PromptHint: Give your story a title, setting, protagonist description, Conflict for the story, and last the type of genre for the story.
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] [PROMPT]
+
+Title: {Insert story title here}
+
+Setting: [{nsert setting details here, including time period, location, and any relevant background information}
+
+Protagonist: {Insert protagonist’s name, age and occupation, as well as a brief description of their personality and motivations}
+
+Antagonist: [insert antagonist’s name, age, and occupation, as wll as a brief description of their personality and motivations]
+
+Conflict: {Insert the main conflict of the story, including the problem the protagonist faces and the takes involved}
+
+Dialogue: [Instructions for using dialogue to advance the plot, reveal character, and provide information to the reader]
+
+Theme: [Insert the central theme of the story and instructions for developing it throughout the plot, character, and setting]
+
+Tone: [Insert the desired tone for the story and instructions for maintaining consistency and appropriateness to the setting and characters]
+
+Pacing: [Instructions for varying the pace of the story to build and release tension, advance the plot, and create dramatic effect]
+
+Fill out the template above for a {Genre} story
+
+
+

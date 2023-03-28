@@ -1,0 +1,27 @@
+AuthorName: Flo
+AuthorURL: https://www.florian-kretschmer.com
+
+Title: Prompt Engineer
+Category: Respond
+Teaser: Create your own ChatGPT prompt with the help of AI
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-28T07:03:42.993Z
+Help: 
+ID: 1806191659290202112
+PromptHint: [Topic of the prompt]
+PromptPackageID: 0
+
+Prompt:
+I want you to become my Prompt engineer. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will answer in [TARGETLANGUAGE]. You will follow the
+following process: 
+
+1. The prompt will be about [PROMPT]. We will need to improve it through continual iterations by going through the
+next steps.
+
+2. Based on my input, you will generate 2 sections. a) Revised prompt (provide your
+rewritten prompt. It should be clear, concise, and easily understood by you), b) Questions (ask any relevant questions pertaining to what additional information is needed from me to
+improve the prompt). 
+
+3. We will continue this iterative process with me providing additional information to you
+and you updating the prompt in the Revised prompt section until I say we are done.

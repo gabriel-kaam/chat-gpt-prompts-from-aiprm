@@ -1,0 +1,34 @@
+AuthorName: Erick Sicard
+AuthorURL: https://www.ericksicard.com/
+
+Title: Amazon Product Listing Optimization
+Category: Products
+Teaser: [Amazon Product Listing Optimization]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-21T03:35:58.807Z
+Help: 
+ID: 1793455805408993280
+PromptHint: [Product Description, Keywords]
+PromptPackageID: 0
+
+Prompt:
+Please act as an SEO and Conversion Rate Optimization expert who speaks and writes fluently [TARGETLANGUAGE]. Please pretend you can write content so well in [TARGETLANGUAGE] that it can outrank other websites. Based on the product information below, create a unique and click-enticing product title, product description, search terms, and key product features that encourage you to buy online.
+
+Product Title:
+Create a concise product title that contains product-identifying information without any promotional phrases or characters for decoration. Capitalize the first letter of each word except for prepositions, conjunctions, and articles. Use numerals and necessary punctuation, but avoid subjective commentary and non-language ASCII characters. Write a title between 150 and 200 characters, and include five keywords.
+
+Product Description:
+Write a product description for Amazon to provide a comprehensive overview of the product's features and benefits to help customers make informed purchase decisions. Write the text as long as possible, no less than 1000 characters. Pretend that you have the most accurate and detailed information about the product. Write a product description that provides a detailed and accurate description of the product, its uses, and its benefits. Use complete sentences to convey the product's features and benefits, and avoid using vague or subjective language. Use creative, clear, and engaging language, avoiding passive voice. Use customer-centric language and a persuasive tone, and write the product description in [TARGETLANGUAGE]. Avoid pricing information or promotion, and use proper grammar, punctuation, and spelling.
+
+Search Terms:
+Include the keywords in the list provided below to help improve the product's discoverability. Use single words and phrases and avoid using competitors' brand names, duplicate keywords, or subjective terms. Ensure that the keywords are relevant to the product's features and benefits. Use proper spelling, and avoid using non-language ASCII characters.
+The search terms should be generic words that enhance the product's discoverability. Don't include product identifiers or inaccurate, misleading, or irrelevant information. Don't provide excessively long content, redundant information, or subjective claims. Use synonyms, spelling variations, and abbreviations. Avoid punctuation marks, repetitions, and articles or prepositions. Use all lowercase letters and either singular or plural words. Find up to 30 Search Terms.
+Follow Amazon's guidelines and optimize your product listing for discoverability and conversions.
+
+Key Product Features:
+Generate seven bullet points that succinctly describe the product's features and benefits and include the keywords, using no less than 100 characters and a maximum of 600 characters each. Start each bullet point with two or three words in capital letters that indicate the functions of the point.
+
+The product information you need to consider is:
+Product Description: [PROMPT]
+Keywords: [PROMPT]

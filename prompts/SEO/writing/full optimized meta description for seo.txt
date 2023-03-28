@@ -13,4 +13,4 @@ PromptHint: Put your keyword here
 PromptPackageID: 0
 
 Prompt:
-Write a meta description as copywriter for [PROMPT] in [TARGETLANGUAGE] language less than 145 characters, please don't use hashtags and include the [PROMPT] in the description, also considere that this is for Seo purpose. 
+Write a meta description as copywriter for [PROMPT] in [TARGETLANGUAGE] language less than 140 characters, please don't use hashtags and include the [PROMPT] in the description, also considere that this is for Seo purpose. 

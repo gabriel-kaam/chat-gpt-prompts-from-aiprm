@@ -96,3 +96,24 @@ the Prompt should list the qualities of the image separated by commas, without d
 There should be a lot of words to describe the picture, to create a clearer image.
 
 the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. In prompt, you can use any words to describe a Image. Image qualities should differ or refine past qualities. In [TARGETLANGUAGE]
+
+the second method of study:
+it is very important that positive hints are usually created in something like this structure (optional ones can not be used): 
+(Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.)
+Subject: Person, animal, landscape
+Action: dancing, sitting, surveil
+Verb: What the subject is doing, such as standing, sitting, eating, dancing, surveil
+Adjectives: Beautiful, realistic, big, colourful
+Context: Alien planet's pond, lots of details
+Environment/Context: Outdoor, underwater, in the sky, at night
+Lighting: Soft, ambient, neon, foggy, Misty
+Emotions: Cosy, energetic, romantic, grim, loneliness, fear
+Artist: Pablo Picasso, Van Gogh, Da Vinci, Hokusai 
+Art medium: Oil on canvas, watercolour, sketch, photography
+style: Polaroid, long exposure, monochrome, GoPro, fisheye, bokeh, Photo, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
+Art style: Manga, fantasy, minimalism, abstract, graffiti
+Material: Fabric, wood, clay, Realistic, illustration, drawing, digital painting, photoshop, 3D
+Colour scheme: Pastel, vibrant, dynamic lighting, Green, orange, red
+Computer graphics: 3D, octane, cycles
+Illustrations: Isometric, pixar, scientific, comic
+Quality: High definition, 4K, 8K, 64K

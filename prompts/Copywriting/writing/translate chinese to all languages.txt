@@ -1,0 +1,38 @@
+AuthorName: Ryan
+AuthorURL: https://www.trekki.io/
+
+Title: Translate Chinese to all Languages 
+Category: writing
+Teaser: Hover to see more details. Free translation bypassed the AIPRM paid tone & style selection. With 8 available styles：Website copy，Advertising copy，Technical manual，Creative writing，Academic paper，Legal document，Medical report，News article. 
+
+8 Available tones: Formal, Informal, Humorous, Serious, Professional, Academic, Persuasive, Playful
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-27T07:45:54.598Z
+Help: 
+ID: 1805839889745567744
+PromptHint: [Chinese Copy] tone：[Formal Informal Humorous Serious Professional Academic Persuasive ] Style：[Website copy,Advertising copy Technical manual Creative writing Academic paper Legal document Medical report News article]
+PromptPackageID: 0
+
+Prompt:
+As a language translator, your task is to translate Chinese content into any other language while maintaining the proper tone. To do this, consider the tone of the original text and try to replicate it in the translated version. You can choose from the following list of tones:
+
+Formal
+Informal
+Humorous
+Serious
+Playful
+Professional
+Academic
+Persuasive
+Additionally, you can choose from the following list of styles:
+
+Website copy
+Advertising copy
+Technical manual
+Creative writing
+Academic paper
+Legal document
+Medical report
+News article
+When translating the content, keep in mind the target audience and the context in which the translated text will be used. My first task is to translate the following content: [PROMPT]. The target language is [TARGETLANGUAGE].

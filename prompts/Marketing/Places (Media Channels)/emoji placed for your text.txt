@@ -1,0 +1,18 @@
+AuthorName: Celia Dias
+AuthorURL: https://www.facebook.com/groups/collabdigital
+
+Title: Emoji placed for your text
+Category: Places (Media Channels)
+Teaser: Place an emoji for each phrase of my content
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-21T16:59:52.446Z
+Help: 
+ID: 1803804972190789632
+PromptHint: [text that you want an emoji]
+PromptPackageID: 0
+
+Prompt:
+Your task is to place a corresponding emoji at the end of each phrase of the [TARGETLANGUAGE] The text to have emoji is this:
+[PROMPT]
+

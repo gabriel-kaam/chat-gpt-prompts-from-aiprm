@@ -1,0 +1,27 @@
+AuthorName: Steve Stark
+AuthorURL: https://starkwebdesign.com
+
+Title: Video Series Creator
+Category: Script Writing
+Teaser: Create an outline for a 3 part video series based on a specific keyword or phrase
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T23:51:45.397Z
+Help: 
+ID: 1802096686492024832
+PromptHint: [the topic of your video series]
+PromptPackageID: 0
+
+Prompt:
+The task you are give is to create a outline for a 3-part video series.
+
+Include titles for each video.
+
+Write a script for each video.
+
+Create 3 examples of names for the video series.
+Provide 20 additional related keywords.
+ 
+All output will be in [TARGETLANGUAGE]
+
+The keyword to use for the video series is [PROMPT]

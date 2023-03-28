@@ -1,0 +1,16 @@
+AuthorName: Himu
+AuthorURL: https://withhimanshu.com
+
+Title: Psychology:Headline Virality analyser by Himu
+Category: marketing
+Teaser: Check virality score for your Headlines
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-19T16:37:01.855Z
+Help: 
+ID: 1803074447784271872
+PromptHint: Add complete blog post/headline
+PromptPackageID: 0
+
+Prompt:
+Create a virality score based on the title of the blog post: [PROMPT] in [TARGETLANGUAGE]. Make tables with original headline, virality score, where score is a number in the format 1/10. Also add the suggested power words, emotion words suggestion in separate column. Make two tables. first for the original headline provided in the prompt and second with all the suggested headlines.

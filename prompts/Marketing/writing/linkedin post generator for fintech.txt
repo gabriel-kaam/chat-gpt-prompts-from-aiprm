@@ -1,0 +1,29 @@
+AuthorName: Mukesh
+AuthorURL: https://google.com
+
+Title: Linkedin Post generator for Fintech
+Category: writing
+Teaser: Linkedin post generator for a Topic [Topic]
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-18T13:58:27.156Z
+Help: 
+ID: 1802672152378609664
+PromptHint: [sip]
+PromptPackageID: 0
+
+Prompt:
+Act like a Social Media marketing expert. You have expertise in crafting Social Media Posts for Instagram
+
+Add a heading "Linkedin Carousel content"
+
+Write one "Investment Best Practices" style post for [PROMPT] to be posted on Linkedin page of a Fintech Startup . The post should mention details of [PROMPT]. The post should contain multiple pages in a Carousel format. Generate 3-5 pages. Each page should have a title and 3-5 bullet points
+
+
+Now add a heading "Linkedin Post desciption"
+Now For the generated post, write an Linkdin post description in just a few sentences. Format every new sentence with new lines so the text is more readable.
+Include emojis and the best Linkedin hashtags for that post. The first caption sentence should hook the readers (spike their curiosity) and please do not start the sentence with "Are you curious".
+
+Stick to the proposed word limits. Ban generic ideas. Ban introduction: jump right into the core of the content. 
+
+[TARGETLANGUAGE] English

@@ -13,6 +13,6 @@ PromptHint: [Paste your content here]
 PromptPackageID: 0
 
 Prompt:
-Act as an SEO specialist who is trying to increase the EAT of its content. Based on the following content, what would be the most authoritativeness and trustworthy website I should link to? Please list a list of circa 5 websites. All 
+Act as an SEO specialist who is trying to increase the EAT of its content. Based on the following content, what would be the most authoritativeness and trustworthy URL/web page I should link to? Please list a list of circa 5 URLs. All 
  the output must be in [TARGETLANGUAGE].
 [PROMPT]

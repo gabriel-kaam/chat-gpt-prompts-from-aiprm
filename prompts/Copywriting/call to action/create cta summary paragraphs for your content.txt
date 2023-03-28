@@ -1,0 +1,17 @@
+AuthorName: Michael Finch
+AuthorURL: https://www.linkedin.com/in/michaelbfinch/
+
+Title: Create CTA Summary Paragraphs for Your Content!
+Category: call to action
+Teaser: Pesky blog post summary paragraphs take too much time... Not anymore! Just paste your content and receive the perfect summary.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-31T22:04:09.827Z
+Help: 
+ID: 1786124543782551552
+PromptHint: [Enter entire body of content - 1 single blog post]
+PromptPackageID: 0
+
+Prompt:
+Create a summary paragraph of the following content that I will tell you about. Provide a call-to-action that is inspiring, hopeful, and based on the content I will tell you about. Do not repeat verbatim all of the main points from the content. Try to incorporate a sense of playful humor, but make the humor sound natural and connected to the content I will tell you about. Please make sure to respond in [TARGETLANGUAGE] The content for you to write a summary paragraph of is the following: [PROMPT]
+

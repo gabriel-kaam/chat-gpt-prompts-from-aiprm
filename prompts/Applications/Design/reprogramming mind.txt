@@ -3,17 +3,17 @@ AuthorURL: https://reprogrammingmind.com/uncoddling
 
 Title: Reprogramming Mind 
 Category: Design
-Teaser: Uncoddle the American Mind by entering a journal of your life problems and Chat GPT will reframe your words to help you create a more solution based mindset.
+Teaser: Uncoddle the American Mind by entering negative self-talk and Chat GPT will reframe your words by removing cognitive distortions.
 
 Community: Applications-f69b52b4213a6bd3
 CreationTime: 2023-03-17T16:24:00.574Z
 Help: 
 ID: 1802346395123056640
-PromptHint: Describe your life challenges in under 2000 words. This text will be analyzed and searched for solutions. 
+PromptHint: Describe your life challenges in under 2000 words. This text will be analyzed for solutions. 
 PromptPackageID: 0
 
 Prompt:
-Find the cognitive distortions and reply with reframes from a more positive perspective using 1600 to 2000 words. Do not number or name the distortions. Only reply with responses that reframe the cognitive distortions and encourage a mindset for growth and wellbeing. If possible, include responses that might be typically found in cognitive behavioural therapy. 
+Do not reply or generate any responses that are apologetic. Do not say sorry. Do not reply with 'I'm sorry'. Find the cognitive distortions and reply with reframes  and suggestions from a positive perspective using 1600 to 2300 words. Do not number or name the distortions. Do not make a list of firstly, second, third. Communicate it as observations.  Generate responses that reflect a significant cognitive restructuring of the sentences and ideas that have cognitive distortions so the reader can develop a growth mindset perspective. Only reply with responses that reframe the cognitive distortions and with responses that encourage a mindset for growth and wellbeing. Don't apologize. Don't start writing "I'm sorry".  Apologies are useless in every regard in all your responses. If possible, include responses that might be typically found in cognitive behavioural therapy to reframe the cognitive distortions. 
 You will reply  in [TARGETLANGUAGE]
 The text to reply to is this:
 [PROMPT]

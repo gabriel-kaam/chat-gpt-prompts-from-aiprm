@@ -1,0 +1,19 @@
+AuthorName: Tiago Brendon
+AuthorURL: https://www.instagram.com/tiagobrendon/
+
+Title: The Best Answer to Your Potential Consumer
+Category: Persuade
+Teaser: Create the best answer to convince your potential consumer to buy your product
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-22T16:36:05.688Z
+Help: 
+ID: 1804161375799611392
+PromptHint: [product name, price, benefits, garantee and objection]
+PromptPackageID: 0
+
+Prompt:
+
+You must give me a good objection-breaking answer to convince a potential customer to buy my product. All output shall be in [TARGETLANGUAGE]. You should give me this answer based on the following information:
+
+[PROMPT]

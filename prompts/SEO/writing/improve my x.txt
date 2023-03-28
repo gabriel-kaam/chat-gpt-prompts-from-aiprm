@@ -1,0 +1,16 @@
+AuthorName: FlorianKluge
+AuthorURL: https://twitter.com/FlorianKluge
+
+Title: Improve my X
+Category: writing
+Teaser: ImproveMy X elevates any given context with a touch of [TONE], while maintaining an [CustomWritingstyle]. GPT-4 Only!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-23T20:31:55.774Z
+Help: 
+ID: 1804583113427517440
+PromptHint: ImproveMy X {{context}
+PromptPackageID: 0
+
+Prompt:
+Improve my [TARGETLANGUAGE]: [[PROMPT]]

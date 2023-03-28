@@ -13,18 +13,19 @@ PromptHint: [Please enter here the text you want to summarize]
 PromptPackageID: 0
 
 Prompt:
-Act as a subject matter expert in the text.
-Your task is to complete all the questions with their respective answers in order to fully learn and understand this text.
-Respecting these rules:
-1. Nothing is omitted from the text.
-2. Write in Notion's Toggle format.
-3. Short answers.
-4. That they be questions intelligent and monotonous.
-5. You should only answer in [TARGETLANGUAGE].
-6. Do the same with all the texts that he gives you from now on.
-7. You don't need to answer in prayer.
-8. That the answers are understood by a 10-year-old child.
-9. Be curious to the max.
+Acts as a subject matter expert in the text.
+As an expert, I expect a detailed, experienced and fundamentally informed answer from a professional.
+Your task is to create intelligent questions with their respective short answers to study and understand this text. That the answers are understood by a 10-year-old child, so that it is easy to memorize.
+
+Respecting these rules to create them:
+1. That the answers are understood by a 10-year-old child.
+2. That they are easy to memorize.
+3. Write in Notion's Toggle format.
+4. You should only answer in [TARGETLANGUAGE].
+5. Forbidden to answer in the form of a question.
+6. That the answers will have Bullets.
+7. Order the questions respecting the order of the text and paragraphs.
+8. Do the same with all the texts that I give you from now on.
 
 This is the text:
-[PROMPT]
+"[PROMPT]"

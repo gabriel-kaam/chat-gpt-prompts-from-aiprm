@@ -1,0 +1,16 @@
+AuthorName: The Launch Squad
+AuthorURL: https://thelaunchsquadlab.com/
+
+Title: 6-month Content Generator & Organizer
+Category: writing
+Teaser: Create 6 months of High-converting Blog Headlines with weekly post schedule.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-21T01:16:09.224Z
+Help: 
+ID: 1803567477184270336
+PromptHint: [Key phrase or keyword]
+PromptPackageID: 0
+
+Prompt:
+I'd like you to help me come up with a monthly content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyphrase, “[PROMPT]”. Please target transaction-style search terms only. Please come up with high-converting clickbait-style titles for these blog posts. Please organize each blog post title in a nice-looking table. Each week should be separated into its own row. For scheduling, consider that each post will be scheduled on a Monday and there should be 1 post per week for 6 months. Output results using the  [TARGETLANGUAGE] language.

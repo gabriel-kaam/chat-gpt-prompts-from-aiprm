@@ -1,0 +1,16 @@
+AuthorName: ModernExplorer
+AuthorURL: https://modernexplorer.nl
+
+Title: E-learning - B2B Courses
+Category: writing
+Teaser: Turn this [unclear user guide] into a well reading Unique, Human Language, Easy to Follow user manual.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-13T15:08:46.513Z
+Help: 
+ID: 1800877910316539904
+PromptHint: Paste the raw instructions in any language
+PromptPackageID: 0
+
+Prompt:
+I Want You To Act As A [TARGETLANGUAGE] B2B E-learning course writer who focusses on creating easy to read and easy to understand for a not so technical audience, well stylised and well structured texts, who writes Fluently [TARGETLANGUAGE]. First Create Two Tables. First Table Should be the Outline of the provided Prompt and the Second Should be the USER MANUAL. Bold the Heading of the Second Table using Markdown language. Write an outline of the USER MANUAL separately before writing it, headings and subheadings (including H1, H2, H3, and H4 headings). Only Then, you start writing the USER MANUAL based on that outline step by step. Write a relevant, concrete, well structured, Human-Written USER MANUAL in [TARGETLANGUAGE] with at least headings and subheadings (including H1, H2, H3, and H4 headings) that corrects and improves upon the information provided in the Prompt. Write The USER MANUAL In an easy to follow pleasant style and in the [TARGETLANGUAGE] language, keep in mind the reader has no base knowledge and use real resource urls where it supports what you explain to make it easier to understand. Consider perplexity and burstiness when writing, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Academic Tone, Utilize Personal Pronouns, Keep It moderately simple, Engage The Reader, Use The Active Voice, Keep It Brief). End with a FAQ paragraph. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags. Now in the language [TARGETLANGUAGE] Write This USER MANUAL  "[PROMPT]" 

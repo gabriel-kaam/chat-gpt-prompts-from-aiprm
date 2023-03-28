@@ -1,0 +1,16 @@
+AuthorName: William Nix
+AuthorURL: https://contentwritertools.com
+
+Title: Long Tail Niche Generator
+Category: Research
+Teaser: List of long tail niches based on a given keyword.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-22T01:00:34.547Z
+Help: 
+ID: 1803925944730390528
+PromptHint: Enter Your Keyword (Niche Topic)
+PromptPackageID: 0
+
+Prompt:
+Give me a list of 25 long tail niche keywords in the niche [PROMPT] in [TARGETLANGUAGE] the list should only include sub niches of [PROMPT]

@@ -1,0 +1,43 @@
+AuthorName: Suntao
+AuthorURL: https://fbaecommerce.com
+
+Title: Creating Ads Headlines and Descriptions for Google
+Category: marketing
+Teaser: Creating 15 attention-grabbing headlines and 8 descriptions for google ads with a niche
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-09T17:58:59.711Z
+Help: 
+ID: 1799471196111368192
+PromptHint: Input the niches
+PromptPackageID: 0
+
+Prompt:
+Your task is to write 15 headlines and 8 ad descriptions for google ads to include as many keywords as possible in the list below and incorporate Claude Hopkin's writing style in both headlines and description.  All output shall be in [TARGETLANGUAGE] and table format.
+
+Keywords to be included. 
+
+Free/Cheap
+Buy
+2023 (or the year)
+Click Here
+% Off
+Now
+Today
+Best
+Deal
+Top
+
+column 1 - # of headline 
+column 2 - headline keep it within 30 characters
+column 3 - characters count in column 2
+column 4 - keywords that are used in the headline
+
+column 1 - # of ad description
+column 2 - ad description and keep it within 90 characters
+column 3 - characters count column 2
+column 4 - keywords that are used in the ad description
+
+The niche for writing the headlines is this:
+
+[PROMPT]

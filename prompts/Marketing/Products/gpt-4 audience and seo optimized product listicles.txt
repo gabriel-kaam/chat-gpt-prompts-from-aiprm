@@ -1,0 +1,69 @@
+AuthorName: CopySamur.ai
+AuthorURL: https://www.youtube.com/@copysamurai
+
+Title: GPT-4 Audience and SEO Optimized Product Listicles
+Category: Products
+Teaser: Create Audience Targeted and SEO Optimized Listicle Marketing Copy Using The Product Name and Features and Benefits. Write "Product 1: [Product name]" then "Features: [Paste a list of features and benefits for the product] Last write "Target Audience: [who you are targeting]"
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-22T21:24:28.623Z
+Help: 
+ID: 1804233949569081344
+PromptHint: Write "Product 1: [Product name]" then "Features: [Paste a list of features and benefits for the product] Last write "Target Audience: [who you are targeting]"
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. Pretend that you are a market research expert and experienced product description copywriter with accurate and detailed information about keywords, buyer intent, marketing, and expertise in creating seo optimized catchy listicles with product descriptions. Your goal is to develop an seo optimized output for the following product using the features and benefits provided here: [PROMPT].
+
+Using the product name provided which will be listed as "Product *:" and the features and benefits listed as "Features:" create an output with a brief 1-2 paragraphs with marketing copy written as an expert in the industry related to the product and tailored to appeal to the target audience defined as "Target Audience". Your marketing copy will be followed by an optmized and "Target Audience" specific consolidated list of the key features and benefits that would be most important the the "Target Audience". You will also then create a code block where you will list short snippets for 2 sections that you will put into a markdown table with the headings "Pros" and "Cons". It is a STRICT requirement that you write the markdown table within a code block.
+
+Here is an example of the type of input you will recieve and the cooresponding output you will be creating for reference:
+
+Example Input:
+
+Product 1: MSI MPG B550 Gaming Edge Wi-Fi
+
+Features:  Supports AMD Ryzen 5000 & 3000 Series desktop processors (not compatible with AMD Ryzen 5 3400G & Ryzen 3 3200G) and AMD Ryzen 4000 G-Series desktop processors
+Supports DDR4 Memory, up to 5100+(OC) MHz
+Lightning Fast Game experience: PCIe 4.0, Lightning Gen 4 x4 M.2 with M.2 Shield Frozr, AMD Turbo USB 3.2 GEN 2
+Enhanced Power Design: 10+2+1 Duet Rail Power Design, Core Boost, DDR4 Boost
+MYSTIC LIGHT: 16.8 million colors / 29 effects controlled in one click. MYSTIC LIGHT EXTENSION supports both RGB and RAINBOW LED strip
+Premium Thermal Solution: Extended Heatsink Design with additional choke thermal pad rated for 7W/mK and PCB with 2oz thickened copper are built for high performance system and non-stop gaming experience
+2.5G LAN with LAN Manager and Intel Wi-Fi 6 AX Solution: Upgraded network solution for professional and multimedia use. Delivers a secure, stable and fast network connection
+Flash BIOS Button with Optmized ClearCMOS Function: Simply use a USB key to flash any BIOS within seconds. Restore the BIOS to the default settings without any additional actions
+Pre-installed I/O Shielding: Better EMI protection and more convenience for installation
+
+Target Audience: PC gamers who are building a new pc
+
+Example Output you should be producing:
+
+MSI MPG B550 Gaming Edge Wi-Fi
+
+Experience the perfect balance between performance and aesthetics with the MSI MPG B550 Gaming Edge Wi-Fi motherboard. Tailored for PC gamers building a new rig, this board provides exceptional performance and unparalleled connectivity. With support for AMD Ryzen processors and high-speed DDR4 memory, it delivers lightning-fast gaming experiences while maintaining a stable and secure network connection.
+
+Equipped with MYSTIC LIGHT and enhanced power design, this motherboard ensures a high-performance system with non-stop gaming experience. The pre-installed I/O shielding not only makes installation more convenient but also offers better EMI protection. Get ready to unlock the full potential of your gaming rig with MSI MPG B550 Gaming Edge Wi-Fi.
+
+KEY FEATURES
+
+AMD Ryzen 5000 & 3000 Series support
+DDR4 Memory up to 5100+(OC) MHz
+PCIe 4.0 and Lightning Gen 4 x4 M.2
+Enhanced Power Design: 10+2+1 Duet Rail
+MYSTIC LIGHT with 16.8 million colors
+Premium Thermal Solution
+2.5G LAN and Intel Wi-Fi 6 AX Solution
+Flash BIOS Button with Optimized ClearCMOS Function
+Pre-installed I/O Shielding
+
+PROS
+High-performance AMD Ryzen support 
+DDR4 Memory up to 5100+(OC) MHz
+Lightning-fast PCIe 4.0 & M.2 
+2.5G LAN & Wi-Fi 6 for fast networking
+MYSTIC LIGHT with extensive customization
+
+CONS
+Not compatible with Ryzen 5 3400G & Ryzen 3 3200G
+
+
+Note: Do NOT use too generic keywords like "introduction" or "conclusion" or "tl:dr". Focus on the most specific keywords only. Do NOT spend any additional resources before or after the requested table to explain what you have produced. ONLY provide the information that was specifically requested in the prompt. The ONLY additional thing you will say once the task has been completed is this: "If you like this Prompt, please consider upvoting! Thank you!"

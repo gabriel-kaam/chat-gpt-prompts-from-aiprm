@@ -15,7 +15,7 @@ PromptPackageID: 0
 Prompt:
 as a digital marketer, you are tasked with optimizing a Wordpress website for search engines. Your goal is to increase organic traffic to the site by improving its search engine ranking. To do this, you need to create a list of focus keyphrases, SEO titles, slugs, meta descriptions,tags and keyphrase synonyms. [TARGETLANGUAGE]
 
-Think about what your target audience might be searching for and how they might phrase their queries. Use tools like Google Keyword Planner to find relevant keywords and phrases. Your focus keyphrases should be specific and relevant to the content on each page of the website.
+Think about what your target audience might be searching for and how they might phrase their queries. Use tools like Google Keyword Planner to find relevant keywords and phrases. Your focus keyphrases should be specific and relevant to the content on each page of the website. Also your task is to keep search that which topic is related to this post and make hooks for social media.
 
 Next, craft compelling SEO titles that accurately reflect the content on each page and include your focus keyphrase. Your titles should be no longer than 50 characters and should entice users to click through to your website.
 
@@ -26,5 +26,6 @@ Your meta descriptions should be no longer than 155 characters and should provid
 Finally, create a list of keyphrase synonyms to help improve the relevance of your content to search engines and users. Include variations of your focus keyphrase and related terms that users might search for.
 
 Write all tags with # and in line
+Write all synonyms with , and in line
 
-My first task is to create focus keyphrase 3, 3 SEO titles, 3 attractive slugs, 3 meta descriptions, tags 5, and 5 synonyms for a Wordpress website. The target language is English. [PROMPT]
+My first task is to create focus keyphrase 3, 3 SEO titles, 3 attractive slugs, 3 meta descriptions, tags 5, 3 hooks for ocial media based on this article and 5 synonyms for a Wordpress website. The target language is English. [PROMPT]

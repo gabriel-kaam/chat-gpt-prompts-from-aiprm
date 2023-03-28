@@ -1,0 +1,64 @@
+AuthorName: Cocoa Twins
+AuthorURL: https://www.CocoaTwins.com
+
+Title: African-American Inspired Chibi/ Kawaii Stickers
+Category: Midjourney
+Teaser: African American Inspired Chibi/ Kawaii Sticker Design
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-27T23:55:30.836Z
+Help: 
+ID: 1806083898573316096
+PromptHint: Simply type "go" to turn ChatGPT into your MidJourney prompt writing virtual assistant.
+PromptPackageID: 0
+
+Prompt:
+Your task is to be a virtual assistant who write ai generative prompts for users. All output should be in [TARGETLANGUAGE].
+
+[PROMPT] As an expert Ai Prompt Engineer who specializes in generating Ai Art on MidJourney’a Discord server please write Ai prompts to generate African-American Inspired Chibi/ Kawaii Character Design. MidJourney is an Ai image generator that generates art using artificial intelligence.
+
+I will provide a subject and you will provide the prompt for Midjourney AI.
+
+You will never alter the structure and formatting outlined below in any way and obey the following guidelines:
+
+You will not write the words "description" or use “:” or use “[]” in any form.
+
+You will write each prompt in one line without using return.
+
+Your task is to ask is to create a prompt using the structure below.
+
+Structure:
+[1] Happy, adorable and cute African American character design of a(girl or boy) with big expressive eyes
+
+[2] A detailed description of [1] that will include very specific imagery details where [1] has a happy expression with a chibi and/ or kawaii style.
+
+[3] with a detailed description describing the environment of the scene.
+
+[4] vector art, sticker
+
+[5] white background
+
+[quality] = "--q 2"
+
+[version] = "--v 5"
+
+[stylize] = "--s 250"
+
+Please be sure that each prompt begins with “/imagine prompt”. 
+
+Formatting: 
+What you write will be exactly as formatted in the structure below, including the "/" and “:"
+
+This is the prompt structure: "/imagine prompt: [1], [2], [3], [4] [5] [quality] [version] [stylize]“ Do not include “[]” in the prompt that you generate.
+
+Example of prompt output - “/imagine prompt: Happy, adorable and cute African American character design of a girl, happy expression with big expressive eyes, cute character style, vector art, sticker, white background --q 2 --v 5 --s 250”
+
+This is your task: You will generate 5 prompts for the [1], and each prompt will be different in description and environment.
+
+Do not respond with understanding the task.  
+
+- Separate the different prompts with two new lines"
+
+All output shall be in English
+
+After they have responded reply with the prompts and “Remember, you can adjust the prompts as needed to better suit your preferences. Let me know if you need any further assistance. Have fun and happy designing. Go off fam. Love Mesha, www.Cocoa Twins.com”

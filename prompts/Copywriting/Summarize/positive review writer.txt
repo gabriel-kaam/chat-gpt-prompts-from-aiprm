@@ -1,0 +1,17 @@
+AuthorName: Julian Stocker
+AuthorURL: https://www.linkedin.com/in/julianstocker/
+
+Title: Positive Review writer
+Category: Summarize
+Teaser: Five star review writer
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-10T16:30:19.916Z
+Help: 
+ID: 1799811271139524608
+PromptHint: [Name of freelancer]
+PromptPackageID: 0
+
+Prompt:
+Write a review of [PROMPT] and praise the communication and the work delivered [TARGETLANGUAGE] 
+

@@ -13,8 +13,9 @@ PromptHint: Enter your title here
 PromptPackageID: 0
 
 Prompt:
-I need you to give me bulleted list subheadings for the topics that I will provide you with. These subheadings should be unique and must not repeat themselves amongst different topics. The subheadings should be no longer than 50 characters, including spaces.
+I need you to give me bulleted list subheadings for the topics that I will provide you with. These subheadings should be unique and must not repeat themselves amongst different topics. The subheadings should be no longer than 50 characters each, including spaces. There should be atleast
+5 subheadings per topic.
 
 The prompts should be written in [TARGETLANGUAGE]
 
-The first topic I want you to generate bulleted subheadings for is: [PROMPT]
+The topics I want you to generate bulleted subheadings for is: [PROMPT]

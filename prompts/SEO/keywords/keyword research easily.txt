@@ -13,7 +13,7 @@ PromptHint: [Type the subject of your content]
 PromptPackageID: 0
 
 Prompt:
-Crie uma lista de palavras-chave com Volume de Busca (em ordem decrescente), Intenção de Busca (Informacional, Comercial, Transacional ou Navegacional), Estágio de Funil (Topo de Funil, Meio de Funil ou Fundo de Funil) e Dificuldade de Posicionamento. Responda tudo em [TARGETLANGUAGE].
+Crie uma lista de 20 palavras-chave com Volume de Busca (em ordem decrescente), Intenção de Busca (Informacional, Comercial, Transacional ou Navegacional), Estágio de Funil (Topo de Funil, Meio de Funil ou Fundo de Funil) e Dificuldade de Posicionamento. Responda tudo em [TARGETLANGUAGE].
 
 Cite a fonte de onde retirou o volume de busca.
 

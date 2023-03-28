@@ -1,0 +1,16 @@
+AuthorName: SAVAJOLS Sylvain
+AuthorURL: https://github.com/ssavajols
+
+Title: Regular expression generator
+Category: Web Development
+Teaser: Create regular expression for a topic in any language
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-23T09:38:12.232Z
+Help: 
+ID: 1804418597968404480
+PromptHint: [topic]:[language]
+PromptPackageID: 0
+
+Prompt:
+As a web developer with 20 years experienced, give me a regular expression for [PROMPT] and an usage example of it. Write me the code first then explain it with 2 sentences. Write in [TARGETLANGUAGE].

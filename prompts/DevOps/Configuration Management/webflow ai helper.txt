@@ -1,0 +1,20 @@
+AuthorName: Simon Kefas
+AuthorURL: https://www.nettskaperne.no/
+
+Title: Webflow AI Helper
+Category: Configuration Management
+Teaser: Make AI help you with your Webflow problems.
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-03-20T15:45:36.412Z
+Help: 
+ID: 1803423894363963392
+PromptHint: Simply give some info of your Webflow project. Like relevant objects. And then the functionality you want.
+PromptPackageID: 0
+
+Prompt:
+Hi can you help me to find out how i can make this functionality work in Webflow? Ether by code or built-in functions in Webflow. Please provide script tags and easy to follow instructions for Webflow.
+
+Info and functionality: [PROMPT]
+
+Make sure to write the response in [TARGETLANGUAGE]

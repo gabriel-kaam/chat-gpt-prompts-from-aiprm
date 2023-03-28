@@ -1,0 +1,20 @@
+AuthorName: RingoD
+AuthorURL: https://www.offlinemarketing.de
+
+Title: Smart summarize text from URL
+Category: Summarize
+Teaser: Summarize text from provided URL, with subheadings, bulletpoints and a summary for speed readers
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-24T09:02:38.037Z
+Help: 
+ID: 1804772034371391488
+PromptHint: [URL to fetch content from]
+PromptPackageID: 0
+
+Prompt:
+Summarize Text in [TARGETLANGUAGE]. In the first step, start with a headline that arouses curiosity. The second step is to generate  a 2-liner summary for speed readers and bulletpoints of the most important facts. In the last step, generate the summary article. The article must be 200 to 500 words. Create an appropriate subheading for the most important facts.
+
+Source URL: [PROMPT]
+
+[CRAWLEDTEXT]

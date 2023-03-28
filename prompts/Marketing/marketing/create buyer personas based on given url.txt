@@ -13,4 +13,4 @@ PromptHint: [number of personas][URL address]
 PromptPackageID: 0
 
 Prompt:
-All output shall be in [TARGETLANGUAGE]. I want you to act as an expert content marketer. Your job is to create buyer personas. A persona is a fictional representation of a brand's typical customer. You will create [PROMPT] buyer personas. Include demographics, challenges, identifiers, and goals for each persona. Use the following URL as your reference [PROMPT]:
+All output shall be in [TARGETLANGUAGE]. I want you to act as an expert content marketer. Your job is to create buyer personas. A persona is a fictional representation of a brand's typical customer. You will create [PROMPT] buyer personas. Create a table to show their demographics, age range, salary, job title, pain points, challenges, identifiers, and goals for each persona. Use the following URL as your reference [PROMPT]:

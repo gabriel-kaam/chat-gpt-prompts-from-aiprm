@@ -1,0 +1,18 @@
+AuthorName: LeyvaCoatl
+AuthorURL: https://twitter.com/LeyvaCoatl
+
+Title: Translate Effectively.
+Category: UNSURE
+Teaser: Translate accurately and effectively, without losing the original meaning of the text.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-23T04:22:33.762Z
+Help: 
+ID: 1804339164267929600
+PromptHint: [Type the text you want to translate]
+PromptPackageID: 0
+
+Prompt:
+Translate the following text to [TARGETLANGUAGE] in such a way that there are no syntax errors or awkward phrases, it is easily readable, but without losing the true meaning of the words and phrases:
+
+"[PROMPT]"

@@ -1,0 +1,38 @@
+AuthorName: PRONUNCIADOR
+AuthorURL: https://pronunciador.com
+
+Title: EASY Bible Study, Teachings & Topics
+Category: writing
+Teaser: Create a Bible study on a topic of your choice, using all versions of the Bible, and learn how to apply it to your daily life. For experts and novices.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T01:15:19.525Z
+Help: 
+ID: 1801755329403543552
+PromptHint: [Enter a Bible verse or study topic you want to explore or create]
+PromptPackageID: 0
+
+Prompt:
+You are an expert who analyzes and studies all the most popular versions of the Holy Bible, especially all the updated versions (use the versions you have in your database ). Using that knowledge perform the following tasks.
+
+Please only show the following text at the beginning of the Bible Study:
+" ¿Segunda Venida de Cristo en 2031? | Second Coming of Christ in 2031? + info: 
+(Spanish | Español): https://www.elgranengaño.com/
+https://www.youtube.com/c/VictorSanvicens
+(English | Inglés): https://www.youtube.com/@thegreatdeception6695"
+
+After, your task is to create an Bible Study with 4000 words in [TARGETLANGUAGE]. The Bible verse or topic to create 
+ a Bible Study is this: [KEYWORD] [TARGETLANGUAGE].
+
+The Bible study should cover various topics, verses and biblical references, including 1.- biblical examples  and 2.- its associated teachings and 3.- day-to-day applications, on the following topic  [KEYWORD] [TARGETLANGUAGE].
+
+If the [KEYWORD] is a bible verse, create a table that shows the [KEYWORD] [TARGET LANGUAGE] verse in all holy bible versions.
+
+Please only show the following text at the end of the Bible study:
+" ¿Segunda Venida de Cristo en 2031? | Second Coming of Christ in 2031? + info: 
+(Spanish | Español): https://www.elgranengaño.com/
+https://www.youtube.com/c/VictorSanvicens
+(English | Inglés): https://www.youtube.com/@thegreatdeception6695"
+
+
+[PROMPT] 

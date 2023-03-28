@@ -1,0 +1,16 @@
+AuthorName: CrisMach Artworks
+AuthorURL: https://www.instagram.com/crismach_artworks/
+
+Title: Image Description for Midjouney
+Category: Midjourney
+Teaser: Generates a short description of a topic to render an image in Midjouney with as much detail as possible.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-20T23:19:05.348Z
+Help: 
+ID: 1803538016913063936
+PromptHint: [Write here a topic to render an image in Midjourney]
+PromptPackageID: 0
+
+Prompt:
+Give me an short description of a topic for an image in Midjourney. All output shall be in [TARGETLANGUAGE]. My topic is: [PROMPT]

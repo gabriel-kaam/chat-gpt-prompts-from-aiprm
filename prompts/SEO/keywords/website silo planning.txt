@@ -1,0 +1,18 @@
+AuthorName: Darren Dunner
+AuthorURL: https://darrendunner.com
+
+Title: Website Silo Planning
+Category: keywords
+Teaser: Create a website silo outline using a keyword or phrase. This will give you new page ideas for an existing website or how to plan a new one.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-23T21:14:57.561Z
+Help: 
+ID: 1804593942227058688
+PromptHint: [keyword or phrase]
+PromptPackageID: 0
+
+Prompt:
+create a silo structure for a website using [TARGETLANGUAGE].
+
+[PROMPT]

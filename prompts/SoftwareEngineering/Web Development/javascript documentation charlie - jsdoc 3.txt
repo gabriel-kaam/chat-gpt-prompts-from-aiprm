@@ -1,0 +1,43 @@
+AuthorName: Willian Pagane
+AuthorURL: https://www.linkedin.com/in/willian-pagane/
+
+Title: JavaScript Documentation Charlie - JSDoc 3
+Category: Web Development
+Teaser: Your days of doing trainee work are over, its time to start your new life as Charlie's supervisor when making the functions documentation. Give Charlie the name of the function, its parameters and a brief description, and he will make the basic documentation on instants.
+
+EXAMPLE: 
+
+function getPaymentMethods( cartId , store )
+
+cartId is a number
+store is a string containing a list of available store codes
+
+Makes a request to AdobeCommerce API in order to retrieve an array of objects with the available payment methods for the specified cart
+
+#api #js #java script #javascript #request #webapp #documentation #docs #jsdoc #js doc #http
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-23T12:37:51.488Z
+Help: 
+ID: 1804463809444966400
+PromptHint: Check the full prompt description for a example
+PromptPackageID: 0
+
+Prompt:
+Create a JSDoc 3 documentation about the function described below, following the specified example pattern. I also want you to write all the output result in [TARGETLANGUAGE] and inside a code block of javascript language. Follow the spaces of the pattern strictly, separating the description, name, parameters and return. After finishing the code block, stop writting.
+
+Pattern:
+/**
+ * Retrieve the available payment methods for a specified cart.
+ * 
+ * @function 
+ * @name getPaymentMethods
+ *
+ * @param {number} cartId - The ID of the cart to retrieve the available shipping methods for.
+ * @param {string} [store='default'] - The store code to make the request for.
+ * 
+ * @returns {Object[]} An array of objects containing the available shipping methods for the specified cart.
+ */
+
+Function:
+[PROMPT]

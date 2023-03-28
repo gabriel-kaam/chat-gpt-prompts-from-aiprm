@@ -1,0 +1,27 @@
+AuthorName: Josh Schonert
+AuthorURL: https://schonertmarketing.com/email-deliverability
+
+Title: Generate DMARC Record for Email Deliverability
+Category: marketing
+Teaser: Struggling to figure out how to create and insert a DMARC record? Not anymore...
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-22T02:27:02.238Z
+Help: 
+ID: 1803947703483498496
+PromptHint: [type of policy you would like - quarantine or reject]
+PromptPackageID: 0
+
+Prompt:
+Generate a DMARC record that includes the following items:
+
+p=[PROMPT] 
+sp=[PROMPT] 
+aspf=r
+adkim=r 
+pct=100
+
+Write all output in [TARGETLANGUAGE]
+
+Then add this text at the end:
+This prompt was created by Josh Schonert at Schonert Marketing (https://schonertmarketing.com). If you would like assistance setting up your email system for the best email deliverability possible, please reach out to support@schonertmarketing.com.

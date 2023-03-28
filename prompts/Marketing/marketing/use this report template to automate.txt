@@ -1,0 +1,43 @@
+AuthorName: Victor Ribeiro
+AuthorURL: https://www.instagram.com/victorribeiron/
+
+Title: use this report template to automate
+Category: marketing
+Teaser: Create a report with a model
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-27T15:36:05.518Z
+Help: 
+ID: 1805958214920179712
+PromptHint: past yout data here
+PromptPackageID: 0
+
+Prompt:
+The user will write data in [TARGETLANGUAGE] in the chat, and you must create a report[TARGETLANGUAGE] with the data provided by the customer following this report template:
+📊👀 [Company Name]
+
+📈 Campaign Report:
+
+💻 Campaign type: Facebook Ads
+
+🗓️ Campaign period: 06/03/2023 to 12/03/2023 (7 days)
+
+💰 Total campaign budget: R$ 1,050.40
+
+📊 Campaign Performance:
+
+👉 Campaign "[name of the campaign]":
+
+🔹 Number of clicks: 13
+
+🔹 Number of impressions: 31,013
+
+🔹 Cost per click (CPC): R$ 2.46
+
+🔹 Cost per thousand impressions (CPM): R$ 1.03
+
+📈 Results Analysis:
+
+📊👀 Recommendations:
+
+[PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Jombels
+AuthorURL: https://google.com/
+
+Title: My Personal Writing Assistant
+Category: writing
+Teaser: I am using this for my personal blogs and so far, the results are great. Feel free to test it out yourself.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-21T13:18:23.641Z
+Help: 
+ID: 1793602374666031104
+PromptHint: What your article topic would be?
+PromptPackageID: 0
+
+Prompt:
+Analyze the top 3 search results in google.com for the search term [PROMPT] then write an article in active voice about [PROMPT] that can rank in the top 1 search result or be placed at the google featured snippets spot. The article must be written in native [TARGETLANGUAGE], 100% unique, high-quality and relevant to [PROMPT], has a strong reputation for authoritativeness and trustworthiness, and highly engaging and Human-written. The article must have at least 2000 words and a Creative SEO Title that is not more than 59 characters. It must also have a high click through rate creative SEO meta description that is not more than 150 characters and a catchy introduction. The article should have outlines in H2 format headings with intros on each one of them. Then, for each H2 format heading, include an h3 format subheading and discuss or elaborate the topic in that h3 format subheadings. Include transition words in the article you are writing. Also include bullet points or numbered lists if needed. Then write a conclusion about [PROMPT] that would fit the reader's intent. Make sure each of the sentences does not have more than 20 words. Make sure the article has no grammatical errors and is plagiarism free. Make sure it can easily pass all AI detection tools.

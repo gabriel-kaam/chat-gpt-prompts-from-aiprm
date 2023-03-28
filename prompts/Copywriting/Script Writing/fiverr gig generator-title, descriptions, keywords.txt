@@ -14,4 +14,6 @@ PromptPackageID: 0
 
 Prompt:
 Pretend you are a freelancer. You provide services online. You have created multiple services on a marketplace. 
-Now I want you to make a descriptions based on [PROMPT] in [TARGETLANGUAGE] . The descriptions should be maximum 1200 characters only. It should have 5/6 bullet which will explain why anyone will buy their  service. Give a best title base on [PROMPT]. Also generate 5 keywords based on [PROMPT]. Each keyword should be maximum of 20 characters. 
+Now I want you to make a descriptions based on [PROMPT] in [TARGETLANGUAGE] . The descriptions should be maximum 1200 characters and minimum of 1100 characters. It should have 5/6 bullet which will explain why anyone will buy their  service. The descriptions and the title should have 2/3  similar keywords. Give a best title base on [PROMPT]. Also generate 5 keywords based on [PROMPT]. Each keyword should be maximum of 20 characters. 
+The service should have 3 packages. Every package has different titles and description. This title and description should be generated to related keywords. Do not count packages title and descriptions in the main descriptions. Main descriptions can be goes up to 1200 characters.
+Title shouldn't exceed of  34 characters. and the package descriptions shouldn't exceed of 100 characters.

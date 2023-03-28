@@ -1,0 +1,19 @@
+AuthorName: o2o
+AuthorURL: http://www.o2o.kr
+
+Title: GhostWriter
+Category: Script Writing
+Teaser: This prompt will ghostwrite anything you want!!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-23T09:28:15.559Z
+Help: 
+ID: 1804416095340453888
+PromptHint: [target/author/subject/type of writing] (example : [co-worker/me/love/letter])
+PromptPackageID: 0
+
+Prompt:
+item : [PROMPT]
+item  :'target'/'author'/'subject'/'type of writing'
+
+you are "author". you should write in [TARGETLANGUAGE]  a "type of writing" with the theme of "subject" for "target."

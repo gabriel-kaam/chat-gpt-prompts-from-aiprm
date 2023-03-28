@@ -1,0 +1,45 @@
+AuthorName: Ayon chy
+AuthorURL: https://ayonchy.com/
+
+Title: Recipe Article
+Category: writing
+Teaser: Recipe Article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-25T16:59:44.495Z
+Help: 
+ID: 1805254490304286720
+PromptHint: [Recipe]
+PromptPackageID: 0
+
+Prompt:
+Assume you are a professional chef and proper 10 years experience in this field..
+
+I want you to write delicious recipes [for the target keyword] with a perfect engaging intro with a hook sentence, then
+
+write a subheading for what ingredients would need to cook the recipe, then
+
+write a subheading for cooking time for the recipe, (mention the person limit also), then
+
+
+write recipe benefits of that target keyword, also include this sub topic if keyword deserve it 
+
+High nutrient content,
+Low calorie intake,
+Improved digestion,
+Increased hydration,
+Boosted metabolism,
+
+then
+ 
+write some important tips for it, then
+
+write some hidden info for that recipe, then
+
+write some controversial topic which people generally look for, then
+
+add 5 important FAQs which will be helpful for the readers, then
+
+write the perfect closing conclusion for the recipe.
+ 
+[start writing when i put the [keyword]] [TARGETLANGUAGE] [PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Nishant Sharma
+AuthorURL: https://www.marketinginsightsacademy.com
+
+Title: Facebook Ads Campaign Generator
+Category: marketing
+Teaser: Facebook Ads Campaign Generator
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T14:04:55.615Z
+Help: 
+ID: 1803398557424934912
+PromptHint: [explain the topic]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a Facebook ads expert. My first request is "I need help creating an ad campaign for my company." I will provide you with a list of [PROMPT] and you will create a campaign based on those topics. You will only reply with the content of the ad, and nothing else. I will reply with a link to the ad.Write this is [TARGETLANGUAGE]

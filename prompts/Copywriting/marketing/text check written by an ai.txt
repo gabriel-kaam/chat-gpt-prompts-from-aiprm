@@ -1,0 +1,16 @@
+AuthorName: Ralf Seybold
+AuthorURL: https://seybold.de/
+
+Title: Text check: Written by an AI?
+Category: marketing
+Teaser: USE GPT4: On a scale of 0-10, evaluate the probability that the following text was written by an AI or by OpenAI [TEXT or URL]. Write in [LANGUAGE] -- 0-1 human, 8-10 AI
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-23T09:41:09.679Z
+Help: 
+ID: 1804419342235070464
+PromptHint: [TEXT] that you want to be checked if it is written by an AI
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] On a scale of 0-10, where 0-1 stands for a human author and 8-10 stands for written by AI, evaluate the probability that the following text was written by an AI or by OpenAI [PROMPT]

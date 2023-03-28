@@ -1,0 +1,17 @@
+AuthorName: barrylee
+AuthorURL: https://lihaoz.com/
+
+Title: Give 3 related questions
+Category: Respond
+Teaser: Give 3 related questions after the original questions, you can use the number in front of the related question as the new input
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-21T02:22:00.746Z
+Help: 
+ID: 1803584051068792832
+PromptHint: [Normal User Input]
+PromptPackageID: 0
+
+Prompt:
+for each of the future input,  give 3 related qestions after your original response. All output shall be in [TARGETLANGUAGE]. If I reponse with the number in front of the related questions, use the question content as the new input. The text to answer is this: 
+[PROMPT]

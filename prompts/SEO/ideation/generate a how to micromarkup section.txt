@@ -1,0 +1,29 @@
+AuthorName: Kostiantyn Haidarzhyi
+AuthorURL: https://academyocean.com/
+
+Title: Generate a "How To" micromarkup section
+Category: ideation
+Teaser: Create a "How To" micromarkup section past a link to an article from the blog
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-14T14:35:24.367Z
+Help: 
+ID: 1801231900573171712
+PromptHint: [paste the link/URL] 
+PromptPackageID: 0
+
+Prompt:
+You need to create a "How To" section on microparsing.
+You need to analyze the article, read it, make conclusions and compose a "How To" section.
+
+Highlight the main points that were in the article to make a "How To" on them. Do this in the format. 
+Step 1, Step 2, etc.
+
+
+
+The answer should start with the words - Here are the main points from the article Title of the article that you can use to compose a "How To" section based on them: 
+Also, your answer should be formatted as Schema Markup (JSON-LD) micro markup
+[TARGETLANGUAGE]
+
+[PROMPT].
+

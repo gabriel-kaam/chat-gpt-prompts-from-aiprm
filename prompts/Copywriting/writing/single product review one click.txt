@@ -1,0 +1,16 @@
+AuthorName: Yahya Khan 
+AuthorURL: https://whylaptop.com/
+
+Title: Single Product Review [One Click]
+Category: writing
+Teaser: Make a product review with features and why people buy it
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T05:36:41.862Z
+Help: 
+ID: 1801096330161160192
+PromptHint: [enter you product name and description ]
+PromptPackageID: 0
+
+Prompt:
+Tou have to make a review of product description  which I provide in [PROMPT] You have to consider these three points first small review words then 5 product specs {table format } and then add this question  { Why & which type of people by it?}  and then also include 3 pros and 2 cons {pros and cons lines should be very short } and at  last Final Verdict also make a professional title  output should be in [TARGETLANGUAGE]

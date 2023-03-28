@@ -1,0 +1,18 @@
+AuthorName: Nicholas Berkley-Gough
+AuthorURL: https://www.linkedin.com/in/nicholasberkleygough/
+
+Title: SEO-Optimized Article in One Click
+Category: writing
+Teaser: Get an SEO-optimized article written in one click after running Keyword Strategy. Use carefully — it's good...
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-23T02:42:21.709Z
+Help: 
+ID: 1804313947885801472
+PromptHint: [Keyword]	[Search Intent]	[Title]	[Meta Description]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to pretend to act as a very proficient SEO and high-end copywriter that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write such good content in [TARGETLANGUAGE] that it converts readers at a higher rate than other websites. I want you to pretend that you can write such excellent content in [TARGETLANGUAGE] that it can outrank other websites. Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. I give you the title [Title] for an article with the Meta Description [Meta Description] that we need to outrank in Google and other search engines. Then, I want you to write an article in the style of the Harvard Business Review but 'we form' that helps me outrank other articles in Google. Optimize the article for [Search Intent] intent with a strong call to action at the end. The article should also use the [Keyword] 7 or more times. Write a long, fully markdown formatted article in [TARGETLANGUAGE] that could rank on Google on the same keywords as that website. The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. Also suggest a diagram in markdown mermaid syntax where possible.  Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurate. Do not explain what and why, just give me your best possible article. All output shall be in [TARGETLANGUAGE]. 
+
+[PROMPT]

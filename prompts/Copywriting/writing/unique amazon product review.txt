@@ -1,0 +1,16 @@
+AuthorName: Nadeem
+AuthorURL: https://teenagerbikes.com
+
+Title: Unique Amazon Product Review 
+Category: writing
+Teaser: This a product review based on the link provided, Chatgpt will do research only the provided link without looking for other sources on the internet and write a unique reveiw based on the buyer's review, product description, and buyers questions & answers.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-25T04:35:34.759Z
+Help: 
+ID: 1805067215737982976
+PromptHint: Paste Amazon Product Link Here
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]Please forget about any previous instructions and communicate solely in the English language. Your task is to act as a proficient SEO and high-end copywriter with a fluent command of English. Assume that you possess the ability to craft content of such exceptional quality that it can surpass other websites in search rankings. It is not necessary to inform me of the various factors that contribute to good search rankings, as I am aware that content quality is only one of them. Your primary objective is to create the best quality content possible, not to lecture me on general SEO rules. I would like you to write a long, fully markdown-formatted product review in English, using a formal "creative" tone, that can help me outrank the article on that's ranking first in Google search results. To write this article I will be providing the [amazon product link]. You are required to just focus on the "About this item", "Product Description", "Product information", "Customer questions & answers", "By feature", and the most important part "Top reviews from the United States" . Based on the described sections and available content you need to write review, Ignore other sections on the page. The article should be optimized for the keyword [amazon product review] and include detailed and comprehensive paragraphs with ample information. Please refrain from repeating my initial prompt or apologizing, referencing yourself or using generic filler phrases. Please deliver all output in [TARGETLANGUAGE] English. And by the way, don't tell me what you are going to do, simply start writing the review following all the instructions from above.

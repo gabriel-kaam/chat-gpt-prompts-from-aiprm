@@ -1,0 +1,24 @@
+AuthorName: Gyana Ranjan
+AuthorURL: https://instagram.com/mr.gyan_491
+
+Title: Create eye-Catchy News Headlines From The content
+Category: writing
+Teaser: Generate CLickbait Headlines and Excerpt From The content
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T06:35:56.965Z
+Help: 
+ID: 1800386465612685312
+PromptHint: Insert the content here
+PromptPackageID: 0
+
+Prompt:
+Act as News Headlines Writer
+- Generate 5 clickbait news headlines in informative, descriptive tone in english which will trigger the user to click this article in a crowd
+- Generate 2 viral tweets 
+- Generate an Synopsis(within 30Words)
+- Suggest Important meta tags
+- Suggest Idea For a Featured Image
+- Generate Highlights OF the Content If Possible
+- Language [TARGETLANGUAGE]
+[PROMPT]

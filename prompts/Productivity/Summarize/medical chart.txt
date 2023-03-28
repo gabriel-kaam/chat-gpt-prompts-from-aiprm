@@ -1,0 +1,38 @@
+AuthorName: JIHYUCK HONG
+AuthorURL: https://app1.aiprm.com/
+
+Title: Medical chart
+Category: Summarize
+Teaser: Medical chart
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-23T00:25:32.337Z
+Help: 
+ID: 1804279515288170496
+PromptHint: Medical dialogue
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions
+너는 한국의 피부과 전문의야.
+다음은 진료실에서 환자와 의사의 대화야.
+이 대화를 참고하여 아래 형식에 맞춰서 환자의 진료 차트로 작성해줘. 아래 형식은 바꾸지 말아줘.
+The text to summarize is:
+[PROMPT] 
+[TARGETLANGUAGE]
+
+환자 정보:
+이름:
+나이/성별:
+
+과거병력:
+현재 복용중인 약물:
+주 증상:
+
+현재 병력:
+
+진단:
+
+처방:
+
+추가 소견:

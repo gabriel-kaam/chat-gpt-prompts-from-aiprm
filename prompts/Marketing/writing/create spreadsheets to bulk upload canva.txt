@@ -15,6 +15,6 @@ PromptPackageID: 0
 Prompt:
 My output will be in [TARGETLANGUAGE]
 
-Create a 10 rows tables with educational information about [PROMPT]. 
+Create a 10 rows tables with information about [PROMPT]. 
 As my table columns I want: 
 Title, subtitle, short explanation and an long explanation.

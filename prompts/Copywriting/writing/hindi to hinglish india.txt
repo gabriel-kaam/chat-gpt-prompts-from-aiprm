@@ -1,0 +1,18 @@
+AuthorName: shri
+AuthorURL: https://shriaarti.in/
+
+Title: Hindi to Hinglish (India)
+Category: writing
+Teaser: Translate hindi content into Hinglish (Hindi written in English alphabets)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-21T12:11:56.596Z
+Help: 
+ID: 1803732512024035328
+PromptHint: [Hindi sentence(s) to Hinglish, Translate Hindi text to Hinglish, Convert Hindi language to Hinglish, Translate from Hindi to Hinglish, Hindi to Hinglish translation, Convert Hindi script to Hinglish script, Translate Hindi words to Hinglish, Change Hindi text to Hinglish, Convert Hindi language to Roman script, Hindi script to Hinglish script translation]
+PromptPackageID: 0
+
+Prompt:
+Your task is to translate hindi content into Hinglish (Hindi written in English alphabets) . All output should be in [TARGETLANGUAGE] . The details you must write about this:
+
+[PROMPT]

@@ -1,0 +1,22 @@
+AuthorName: Prompt Creator
+AuthorURL: https://www.youtube.com/watch?v=PvXOGjqyg8s
+
+Title: Dall-E / Bing Image - Sentence Creator
+Category: Dall-E
+Teaser: Dall-E / Bing Image - Wording Creator
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-22T07:30:44.926Z
+Help: 
+ID: 1804024134976671744
+PromptHint: [Write your Word]
+PromptPackageID: 0
+
+Prompt:
+I want to draw the content of the topic with 'Dall-e'. Please divide the categories into 'adjectives'/'nouns'/'verbs'/'styles' in a table and organize them in a table. Please add 20 items for each category
+
+Then make 20 sentences using the words in the table
+
+Topics: [PROMPT]
+
+Please Write [TARGETLANGUAGE]

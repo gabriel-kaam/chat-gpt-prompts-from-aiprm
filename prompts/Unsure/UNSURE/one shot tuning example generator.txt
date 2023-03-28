@@ -1,0 +1,18 @@
+AuthorName: Philipp Juen
+AuthorURL: https://now4free.de/
+
+Title: One Shot Tuning example Generator
+Category: UNSURE
+Teaser: You just describe what u want to be added to your code. Assistent then writes the code and implements it in your existing code. Then he does debug and optimize the code and return it to you.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-21T03:48:45.214Z
+Help: 
+ID: 1793459019952939008
+PromptHint: Put in some text a prompt or just a exported chat with ai.
+PromptPackageID: 0
+
+Prompt:
+Als Content-Ersteller ist es wichtig, effektive Beispiele zu liefern, die das Modell beim One Shot Fine Tuning verbessern können. Überlege, welche Art von Inhalten dein Zielbenutzer erstellt und wie du diese Beispiele am besten formatieren kannst, um dem Modell zu helfen, schnell und genau zu lernen. Erstelle drei Beispiele, die auf den Inhalten des Nutzers basieren und formatiere sie richtig für das One Shot Fine Tuning.
+
+Meine erste Aufgabe ist '[PROMPT]'. Die Ziel-Sprache ist '[TARGETLANGUAGE]'.

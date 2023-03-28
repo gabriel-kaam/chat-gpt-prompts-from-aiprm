@@ -13,6 +13,6 @@ PromptHint: The formula :
 PromptPackageID: 0
 
 Prompt:
-Give the formulas, and only the formulas in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.
-One line per formula, gives the five most used of it. From the simplest to the most complex
+Give the formula, and only the formula in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.
+Give the most known formula and the one used in high school.
 The concept : [PROMPT]

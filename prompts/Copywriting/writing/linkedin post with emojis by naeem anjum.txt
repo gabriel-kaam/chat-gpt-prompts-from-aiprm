@@ -1,0 +1,18 @@
+AuthorName: Naeem Anjum
+AuthorURL: https://www.linkedin.com/in/thisnaeem/
+
+Title: LinkedIn Post with Emojis by Naeem Anjum
+Category: writing
+Teaser: Create enganing LinkedIn post from topic with emojis and hashtags
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-27T08:51:57.715Z
+Help: 
+ID: 1805856512263053312
+PromptHint: [topic to write post for]
+PromptPackageID: 0
+
+Prompt:
+your task to write enganing LinkedIn post from topic with emojis and hashtags in [TARGETLANGUAGE]. 
+topic to write post is
+[PROMPT]

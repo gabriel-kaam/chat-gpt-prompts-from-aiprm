@@ -1,0 +1,16 @@
+AuthorName: WebRefresh
+AuthorURL: https://www.webrefresh.co/
+
+Title: Page Title & Meta Description Generator
+Category: marketing
+Teaser: Create a Page Title & Description from [URL], with [BRAND]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-30T04:49:28.863Z
+Help: 
+ID: 1785501769481322496
+PromptHint: [url], [brand]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you have the most accurate and most detailed information about keywords available. Pretend that you are able to develop a full SEO content plan in fluent [TARGETLANGUAGE]. I will give you the URL [PROMPT] and the brand name [PROMPT]. For this URL write a simple but very click-enticing SEO title tag to use for that URL. Then also write an attractive meta description that has the chance for a high click-thru-rate for the URL with 120 to a maximum of 155 words, including the brand name. The meta description shall be value based, so mention value of the article and have a simple call to action to cause the searcher to click.  Do NOT under any circumstance use too generic keyword like `introduction`  or `conclusion` or `tl:dr`. Focus on the most specific keywords only. Use Australian English spelling.

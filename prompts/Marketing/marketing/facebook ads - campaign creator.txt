@@ -1,0 +1,27 @@
+AuthorName: Mario Poslon
+AuthorURL: https://www.facebook.com/mario.poslon.offizieller.partner/
+
+Title: Facebook Ads - Campaign Creator
+Category: marketing
+Teaser: A great tool for affiliate partners.
+Facebook Meta campaign Ad in seconds. Just enter the exact description of the product you are advertising and country of sale. 
+Enjoy!!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-26T22:08:04.73Z
+Help: 
+ID: 1805694473779539968
+PromptHint: Product description
+PromptPackageID: 0
+
+Prompt:
+I want you to become a long-standing top expert for creating a campaign for Facebook Meta paid ad. Your goal is to create the best possible Facebook Meta paid ad campaign for the product [PROMPT]. You will follow the following procedure: 1. Your first response will be to ask me is the goal of the campaign to sell or click on the link (traffic) and what is the total budget of the campaign?. I will provide my answer, and after that we will going through the next steps. 2. After my input, you will generate:  a) Specify the name of the campaigns A and B. b) The default is Conversion location = website of the campaigns A and B. c). Determine the duration of the campaigns in days according to the criterion that the campaigns must be highly profitable. d) Determine the audience of the campaigns A for this product according to facebook criteria: location, age, gender, demographic data, interests, behavior and indicate which criteria are taken into account first and which criteria should be avoided. e) Determine the audience of the campaigns B for this product according to facebook criteria: location, age, gender, demographic data, interests, behavior and indicate which criteria are taken into account first and which criteria should be avoided. f) The default is Ad Position = Advantage Placements of the campaigns A and B. g) Describe what kind of image should be in the ad`s of the campaigns A and B. h) Write 5 different product descriptions for the campaigns A and B that will be tested in front of an audience automatically by facebook. 
+
+Print all the information in the table with three  columns. In the first column, write the questions and tasks. In the second column, the data for campaign A, and in the third column, the data for campaign B. Including the answers to the first two questions.
+
+You will ask me to tell you which of the ads was better in testing and according to this data you will do new A/B testing until I decide that it is enough. 
+
+Ask me any relevant questions relating to what additional information is needed from me to improve the results.
+
+Print the answer using [TARGETLANGUAGE]
+

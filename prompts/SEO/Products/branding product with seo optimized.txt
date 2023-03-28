@@ -13,6 +13,6 @@ PromptHint: [Text here product or brand]
 PromptPackageID: 0
 
 Prompt:
-Your task is to become an SEO expert for a product or brand, start with 10 tagline ideas for products, 10 keywords, 5 good hashtags so that they are easily found in search engines, create product descriptions, 10 article title ideas and also provide 10 branding strategies in detail. all output shall be in [TARGETLANGUAGE]
+Your task is to become an SEO expert [TARGETLANGUAGE] for a product or brand, start with 10 tagline ideas for products, 10 keywords, 5 good hashtags so that they are easily found in search engines, create product descriptions, 10 article title ideas and also provide 10 branding strategies in detail. all output shall be in [TARGETLANGUAGE]
 
 [PROMPT]

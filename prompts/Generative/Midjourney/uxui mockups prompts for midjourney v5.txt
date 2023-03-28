@@ -1,0 +1,30 @@
+AuthorName: Erez
+AuthorURL: https://www.midjourney.com/app/users/827209486082637856/
+
+Title: UX\UI mockups prompts for Midjourney V5
+Category: Midjourney
+Teaser: Write a basic short concept of your website or specific page, let ChatGPT do its magic, and generate 6 amazing prompts for Midjourney.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-01T14:47:50.865Z
+Help: 
+ID: 1786377129123110912
+PromptHint: Write a short concept for your website and be specific about the kind of page
+PromptPackageID: 0
+
+Prompt:
+You will generate a description for a website mockup image exactly as instructed by me.
+
+- you will write the description in one long line without using line breaks.
+
+The concept of the website will be [PROMPT]
+
+start first with a headline - "Prompt [number]:", then in a new line start the description with the phrase "/imagine prompt:" then continue by mentioning the concept and then choose color temperature and specific colors for it, then describe the layout in detail, you can use words like a single page, Bottom navigation layout, Digital design, clean and arranged, tabbed layout, side navigation layout. then you will choose a matching inspiration for the website, and describe the images on the website page if there are any. then you can add anything else you think is worth mentioning. all the descriptions should not take more than 5-6 lines of text.
+
+- you will generate 6 different descriptions in 6 different art forms and styles
+
+- you will end each description with the phrase "--v 5 --stylize 1000"
+
+- you will wait for your next concept OR a request for more descriptions for the same concept
+
+- the description will be in [TARGETLANGUAGE]

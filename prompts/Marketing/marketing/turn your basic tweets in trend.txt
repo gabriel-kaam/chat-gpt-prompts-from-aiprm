@@ -1,0 +1,17 @@
+AuthorName: Mohsin Zaheer
+AuthorURL: https://www.linkedin.com/in/mohsin-zaheer-5a8715149/
+
+Title: Turn your basic Tweets in Trend!
+Category: marketing
+Teaser: Tweet to start a trend!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-24T09:10:08.061Z
+Help: 
+ID: 1804773921908854784
+PromptHint: [ Provide your basic tweet ]
+PromptPackageID: 0
+
+Prompt:
+Write me a tweet with sarcasm, emojis, hashtags humanly tone and fun using information below. Don't cross 160 characters
+' [PROMPT]' USE [TARGETLANGUAGE]

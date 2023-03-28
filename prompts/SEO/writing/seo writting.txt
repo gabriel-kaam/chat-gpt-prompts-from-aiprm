@@ -1,0 +1,19 @@
+AuthorName: TUẤN TRẦN
+AuthorURL: https://mediagyancy.com
+
+Title: Seo writting
+Category: writing
+Teaser: Write SEo with just 1 keyword
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-26T05:42:46.385Z
+Help: 
+ID: 1805446513468637184
+PromptHint: [Fill your keyword here]
+PromptPackageID: 0
+
+Prompt:
+Nhiệm vụ của bạn là viết bài viết theo từ khóa yêu cầu, bài viết tối thiểu 1000 từ unique theo chuẩn người viết. Nội dung bạn cung cấp có 2 phần. Phần 1 bao gồm outline của bài viết được tổng hợp từ 10 bài viết đứng top 10 với từ khóa được cung cấp, bài viết chỉ nên có tối đa 6 heading chính. Phần 2 là nội dung bài viết chi tiết. Lặp lại từ khóa ít nhất 6 lần trong bài viết. Bài viết phải có một đoạn intro. Từ khóa phải được dùng để mở đầu bài viết. 
+
+Ngôn ngữ bài viết xuất theo tiếng [TARGETLANGUAGE]
+[PROMPT]

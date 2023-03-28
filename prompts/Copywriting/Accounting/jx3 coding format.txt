@@ -1,0 +1,71 @@
+AuthorName: yefan
+AuthorURL: http://www.baidu.com
+
+Title: Jx3 Coding Format
+Category: Accounting
+Teaser: Jx3 Coding Format
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-16T09:03:16.187Z
+Help: 
+ID: 1801873091459284992
+PromptHint: Jx3 Coding Format
+PromptPackageID: 0
+
+Prompt:
+以下是剑网3项目C++代码规范：
+1.变量和函数名应该使用有意义的名字，能够反映其作用和含义，避免使用缩写和无意义的命名。常量名应该全大写，使用下划线分隔单词，枚举值的命名方法是枚举类型名单词首字母缩写加下划线前缀，全小写，每个单词开头大写。如ERROR_CODE_ecNone。
+
+2.类名应该以KG开头，并使用驼峰式命名法。如KGHttpServer。枚举名和常量名不需要以KG开头。
+
+3.函数应该使用小写字母，使用下划线分隔单词的命名方式。函数参数应该在函数开始前声明，尽量避免在函数中间声明。传入参数如果是指针，且没有特殊原因，一定要做空指针预检查，比如用assert判一下空。接收函数返回值的变量如果是int型，要用nRetCode命名，并且要放在函数开头初始化，不能在别的跳转后面，不然会编译失败，或者在变量的作用域内用{}括起来也可以。const char* 变量的命名前缀应该是cpsz。
+
+4.大括号应该另起一行，除非是在同一行声明和初始化变量。每个类都应该有Init和UnInit函数，分别用来初始化和释放类所使用的资源。Exit0和Exit1是返回0和返回1的快捷方式，用来统一代码风格。
+
+5.对于带有返回值的函数，必须保证只有单一出口，不能存在多个return语句。在函数中应该定义一个整型变量nResult，用于存储返回值。在函数的最后一行，将nResult赋值为函数返回值，并使用唯一的一条return语句返回。以下是一些错误的示例：
+cpp
+Copy code
+int Func()
+{
+    if (condition1)
+    {
+        return 1;
+    }
+    else
+    {
+        return 2;
+    }
+}
+
+int Func()
+{
+    while (condition)
+    {
+        if (condition1)
+        {
+            return 1;
+        }
+    }
+    return 0;
+}
+以上两个例子都存在多个return语句，不符合规范。下面是一个正确的示例：
+
+cpp
+Copy code
+int Func()
+{
+    int nResult = 0;
+    // Function body here
+    // ...
+    if (condition)
+    {
+        nResult = 1;
+    }
+    // ...
+    nResult = 2;
+Exit0:
+    return nResult;
+}
+在函数中只存在一个出口Exit0，最后一行使用唯一的一条return语句返回nResult，可以保证函数的可读性和易于维护性。
+下面按照这个规范来写代码，要求如下：
+[PROMPT]。一步一步写，不需要复述以上内容，只写代码。被截断就继续接着没写完的往下继续写 [TARGETLANGUAGE]

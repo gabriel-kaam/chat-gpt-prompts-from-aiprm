@@ -1,0 +1,44 @@
+AuthorName: Caterina Basile
+AuthorURL: https://www.linkedin.com/in/caterina-basile-097951207/
+
+Title: Seo writing IT v2_Storie
+Category: writing
+Teaser: Crea un h1, h2, descrizione e meta descrizione sulla base del seguente input: [PROMPT]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-09T15:06:12.198Z
+Help: 
+ID: 1799427711610130432
+PromptHint: Enter the text
+PromptPackageID: 0
+
+Prompt:
+Agisci come se fossi un esperto copywriter seo. Crea un titolo h1, un sottotitolo h2, una lunga descrizione e una meta descrizione basati sul seguente prompt: [PROMPT].
+
+Il titolo h1 dovrebbe essere composto da un massimo di 60 caratteri e dovrebbe essere creato integrando ' "nome del contenuto" - "Storie educative di + materia/materie del gioco + "per bambini di" + età suggerita". Se nel prompt è presente la dicitura "Ep. 2", non inserirla nel titolo.
+Ad esempio: "Dove sono gli animali? - Storie logiche per bambini di 3 anni".
+
+Il sottotitolo h2 deve avere una lunghezza massima di 150 caratteri, spazi e punteggiatura inclusi.
+Ad esempio: "Un'avventura di amicizia e ragionamento logico con Peter il contadino e i suoi amici animali"
+
+La lunga descrizione dovrebbe consistere in 3 paragrafi, ognuno dei quali non deve superare i 150 caratteri.
+Ciascuno dei 3 paragrafi è composto dal seguente schema: domanda h3 + risposta h4. La domanda nei paragrafi deve contenere il titolo h1 per intero.
+Un esempio di descrizione creata in base al prompt fornito potrebbe essere:
+
+Paragrafo 1)
+Cosa imparerai da "Dove sono gli animali? - Storie logiche per bambini di 3 anni?"
+Con la storia imparerai a sviluppare il ragionamento logico e le abilità visivo-spaziali.
+
+Paragrafo 2)
+Quali valori imparerai da "Dove sono gli animali? - Storie logiche per bambini di 3 anni?"
+Con la storia imparerai i valori dell'amicizia.
+
+Paragrafo 3)
+Chi sono i protagonisti di "Dove sono gli animali? - Storie logiche per bambini di 3 anni?"
+I protagonisti sono Peter il contadino e i suoi amici animali.
+
+Crea una meta descrizione con una lunghezza massima di 150 caratteri (spazi e punteggiatura inclusi). La meta descrizione è una frase di massimo 150 battute, deve essere sempre assolutamente più corta di 150 caratteri e nel conteggio sono compresi gli spazi e la punteggiatura.
+
+ Ricorda di avere un approccio seo-friendly.
+
+Output in [TARGETLANGUAGE]

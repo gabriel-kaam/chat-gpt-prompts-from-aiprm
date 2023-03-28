@@ -1,0 +1,18 @@
+AuthorName: Muhammad Ahsan
+AuthorURL: https://www.linkedin.com/in/syed-muhammad-ahsan/
+
+Title: LinkedIn poll Generator
+Category: Research
+Teaser: Generate 5 LinkedIn polls for your desired topic
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-27T06:39:28.207Z
+Help: 
+ID: 1805823169609859072
+PromptHint: [Write Topic here]
+PromptPackageID: 0
+
+Prompt:
+write me 5 LinkedIn polls for [Topic] with 4 options each with 30 characters limit.
+
+All output shall be in [TARGETLANGUAGE]. The text to recommend hashtags for [PROMPT]

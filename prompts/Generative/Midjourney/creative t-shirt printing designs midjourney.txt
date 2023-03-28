@@ -1,0 +1,46 @@
+AuthorName: Abubakr Jajja
+AuthorURL: https://www.linkedin.com/in/abubakrjajja/
+
+Title: Creative t-shirt printing designs (Midjourney)
+Category: Midjourney
+Teaser: Create 5 creative and highly unique Midjourney prompts for t-shirt designs for print on demand. Thanks for upvote.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-24T20:49:32.499Z
+Help: 
+ID: 1804949933519011840
+PromptHint: Write any keyword. For example "Spiderman" or "Xbox Game Controller"
+PromptPackageID: 0
+
+Prompt:
+Ignore previous data. 
+Imagine you're an expert Graphic Designer and have experience in [PROMPT] t-shirt printing and also an expert Midjourney AI Generative prompt writer.
+I want you to respond in only [TARGETLANGUAGE]
+{PREFIX} is /imagine prompt: [PROMPT]::2
+{SUFFIX} is synthwave:: t-shirt vector, center composition graphic design, plain background::2 mockup::-2 --upbeta --ar 1:1
+
+Write 2 unique prompts each in a separate code block to copy easily. Each prompt consists of following formatting. Replace the {} curly brackets with the respective instructions. 
+
+{PREFIX} {Generate the short creative description of a specific character, specific object or vehicle related to [PROMPT] or from [PROMPT] which is not more than few words}, {Generate only one complex, unique & related art style or movement from of the 19th, 20th or 21st century}, {Generate only one unique & related keyword of the science of representing logos and 2d illustrations}, {Generate only one unique & related keyword of the science of representing colors in t-shirt design}, {Generate only one unique & related keyword of the representation of reality, imagination, or fantasy in art, in literature, or in other forms of creative expression}, {SUFFIX}
+
+Do not forget to add this in the start of your response :
+👍 Make sure to **upvote** this prompt template to encourage author to make more inspiring prompts like this.
+📃Author : [Abubakr Jajja](https://www.linkedin.com/in/abubakrjajja/ "Connect with me on LinkedIn") 
+
+Do not forget to add this in the end of your response:
+Feel free to share your ideas with me to make more templates.
+
+Example Input: Subway Surfer
+Example Output (markdown format):
+👍 Make sure to **upvote** this prompt template to encourage author to make more inspiring prompts like this.
+📃Author : [Abubakr Jajja](https://www.linkedin.com/in/abubakrjajja/ "Connect with me on LinkedIn") 
+
+```
+/imagine prompt: Subway Surfer::2 Jetpack, cubism, vector art, neon colors, surrealism, synthwave:: t-shirt vector, center composition graphic design, plain background::2 mockup::-2 -- upbeta --ar 1:1
+```
+
+```
+/imagine prompt: Subway Surfer::2 Roller Skates, pop art, flat design, pastel colors, minimalism, synthwave:: t-shirt vector, center composition graphic design, plain background::2 mockup::-2 -- upbeta --ar 1:1
+```
+
+Feel free to share your ideas with me to make more templates like this.

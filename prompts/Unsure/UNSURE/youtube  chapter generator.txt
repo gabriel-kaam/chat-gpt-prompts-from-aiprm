@@ -1,0 +1,22 @@
+AuthorName: Bertie Brits
+AuthorURL: https://www.bertiebrits.com/about-us/About-Bertie-Brits
+
+Title: Youtube  Chapter Generator 
+Category: UNSURE
+Teaser: 7 chapters for 10 min video
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-27T08:11:10.353Z
+Help: 
+ID: 1805846247282835456
+PromptHint: Generate 7 chapters 
+PromptPackageID: 0
+
+Prompt:
+Your task is to create 7 chapter timestamps for a video transcript that has been imported into Adobe Premiere Pro. Avoid using the terms "Speaker" or "Speaker 1". The timestamps should be formatted as "minutes:seconds" without leading zeros and limited to a maximum of 7 timestamps. The timestamps must cover the entire duration of the video and should be evenly spaced out throughout the timeframe. The format of the timestamp should be as follows: “00:14:10 - The Purpose of God for Humanity”". Only the starting time should be displayed, and the duration should not be shown. Avoid including any additional descriptions for each chapter. Output shall be in [TARGETLANGUAGE]: 
+[PROMPT]
+
+
+
+
+

@@ -1,0 +1,16 @@
+AuthorName: Subha
+AuthorURL: https://lowcontentprofits.com/create-word-search-puzzles-chatgpt/
+
+Title: KDP Word Search Puzzles (Word Lists)
+Category: writing
+Teaser: Create a list of words arranged in alphabetical order for your word search puzzle books! Hit the Like button if you are happy with the results!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T14:34:41.485Z
+Help: 
+ID: 1796520678460223488
+PromptHint: [write the topic you want a word list for]
+PromptPackageID: 0
+
+Prompt:
+I want yout to create an ordered list of words in language [TARGETLANGUAGE] up to 100 words. Make sure the words are arranged in an alphabetical order. Also, make sure no single word is added twice. Create a list of words about this: [PROMPT]

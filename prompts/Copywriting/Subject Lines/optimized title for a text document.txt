@@ -1,0 +1,18 @@
+AuthorName: Benoit
+AuthorURL: https://benoit.fr
+
+Title: Optimized title for a text document 
+Category: Subject Lines
+Teaser: Title a text file so that it is easily searchable in Mac OS Finder
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-24T13:13:41.563Z
+Help: 
+ID: 1804835215378743296
+PromptHint: Please copy and paste the text from the document you want to title
+PromptPackageID: 0
+
+Prompt:
+Can you come up with a title that would make it easy to find the following text in a Finder search: [PROMPT]
+
+[TARGETLANGUAGE]

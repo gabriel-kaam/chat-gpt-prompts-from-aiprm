@@ -1,0 +1,34 @@
+AuthorName: Zeeshan
+AuthorURL: https://Zestihub.com
+
+Title: Gig decription Zee
+Category: Summarize
+Teaser: Gig description with stuffed keywords, FAQ's and requirement to get the project started. Zee
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-21T22:20:21.041Z
+Help: 
+ID: 1803885622763720704
+PromptHint: [Keywords of the gig]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+Part 1:
+I'm experienced in [PROMPT], and I just started selling my service on Fiverr.com. Write a description with a highly SEO-optimized package description and the repetitive keyword "[PROMPT]".
+-It should be professional and appealing.
+- Must be more than 1000 characters
+- Must be less than 1200 characters
+-Enough distance between repetitive keyword "[PROMPT]"
+-Stuff the description with keyword "[PROMPT]" as much as possible.
+-----------------------------------
+Part 2:
+Provide the 6 FAQ's related my service.
+- Make sure to stuff the answers of the question with keywords "[PROMPT]".
+- Answer of the FAQ's must be less than 250 words.
+--------------------------
+Part 3:
+Create the requirements to required to get the project started.
+- Stuff the requirement text with keywords "[PROMPT]".
+- Requirement should be in less than 300 characters.
+--------------------------

@@ -1,0 +1,59 @@
+AuthorName: Simeon Williams/@Sim2K your prompt engineer
+AuthorURL: https://uk.linkedin.com/in/sim2k
+
+Title: All the roles and your Qu Answered
+Category: writing
+Teaser: Stop asking questions without consulting the right role's! Get a list of all the Roles/skill sets you need, from your [QUESTION] or [TASK]. Your Qu Answered too! By Sim2k.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-20T12:57:32.551Z
+Help: 
+ID: 1793234739348631552
+PromptHint: [Type your question here to get a list or roles and skill sets for your prompt]
+PromptPackageID: 0
+
+Prompt:
+At the very top of the response write in BOLD text, "If the output stops at any time, please type 'Continue from the last sentence.' and it will continue the output."
+
+Next write "
+**Prompt:** Get all the roles you need, and your question answered
+**Version:** v0.3
+**Owner:** Simeon Williams 
+**Cross-platform social media ID:** Sim2K @ [Twitter](https://Twitter.com/Sim2K), [Instagram](https://Instagram.com/Sim2K), [LinkedIn](https://linkedin.com/in/sim2k), [Facebook](https://www.facebook.com/Sim2K/)
+**Contact-Telegram:** [@Sim2K on Telegram](https://t.me/Sim2K)
+**Purpose:** To help you to upgrade your questions and tasks
+**Support:** www.buymeacoffee.com/Sim2K.
+**Notes:** This is being constantly updated. Follow me on social media for updates. I also create powerful prompts for individuals and businesses so get in touch.
+
+If this helps you, please consider buying me a drink - https://www.buymeacoffee.com/Sim2K as donations really help me to continue to make great prompts like this to help you. Have a GREAT day. ".
+
+Create a distinct concatenated exhaustive list of the type of personas it will take to answer the following QUESTION and this list will be called, (TheList). For each Persona in that (TheList), add to a second distinct concatenated list called (TheList2) a separate set of personas associated with the personas in the (TheList) that will benefit the personas in the (TheList) or be aligned with the personas in the original (TheList). Combine (TheList) and (TheList2) to create one list called (TheList3), then remove (TheList) and (TheList2). Then use the skill set, wisdom, and knowledge of the personas in the (TheList3) and to answer the QUESTION. 
+
+Do not write the (TheList), (TheList2), and the (TheList3).
+
+The answer to the question should be at least 350 words long.
+ALWAYS answer the QUESTION as truthfully as possible. If you aren't completely sure of the answer, say I don't know, DO NOT explain or try to make anything up.
+
+The conclusion should ALWAYS contain at least 400 or more words.
+
+[Voice and style guide: Use simple language to convey complex ideas so that they are clear and easy to understand. Break down complex concepts into easy-to-understand frameworks and models. Provide actionable and practical takeaways. Write in a conversational, relatable style as if you were explaining something to a friend. Use natural language and phrasing that a real person would use in everyday conversations. Format your response using markdown. Use headings, subheadings, bullet points, and bold to organize the information. Return only the main response. Remove pre-text.]
+
+ALWAYS write a CONCLUSION. BEFORE the conclusion, create a table for at least 3 or more major websites with a link to the major website, that is useful to the user based on the QUESTION asked.
+
+After the CONCLUSION, give a 5 unconventional TIPS and HINTS related to the question. The TIPS should be amazing and insightful and should be something that is connected to the QUESTION and the answer in a smart and dynamic way.
+
+ALWAYS create a table listing ALL of the Personas used from the (TheList3) at the end and give the table the title "List of personas/Skill sets consulted".
+
+At the bottom say "I hope my service saved you valuable time. As a bespoke prompt developer, I know how important it is to streamline your workload so you can focus on what matters most. If my service made a positive impact, I'd be grateful if you could support me by buying me a drink at www.buymeacoffee.com/Sim2K. Your support helps me continue providing valuable resources and insights for business owners like you.
+
+Connect with me on LinkedIn, Instagram, Twitter, or FB using my ID @Sim2K for more helpful tips and resources for your business. Thank you for taking the time to read my summary, and I look forward to connecting with you.
+
+If you like this prompt, please remember to go back and upvote it with a thumbs up and spread the word so I can add new prompts that benefit you. Thank you.
+I'm also available for personalised/business prompts, just like this prompt. Also for an hours consultaton where I create a prompt just for you and your business. Get in touch today.
+
+Please search on here for 'Sim2K' to find more of my amazing prompts".
+
+QUESTION:
+[PROMPT]
+
+All output shall be in [TARGETLANGUAGE]

@@ -1,0 +1,17 @@
+AuthorName: Eyüp KUTLU
+AuthorURL: https://eyupkutlu.com
+
+Title: Article GPT4+%100 Human, Topic and Seo keywords
+Category: keywords
+Teaser: [keyword]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-26T13:13:59.275Z
+Help: 
+ID: 1784179181329051648
+PromptHint: Topic of Article, SEO keywords list
+PromptPackageID: 0
+
+Prompt:
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently language will be [TARGETLANGUAGE].  Write a 3000 word 100% Unique, SEO-optimized, Human-Written article in [TARGETLANGUAGE] with at least 15 headings and subheadings . Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 10 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article.
+Now Write An Article and article containing the title and keywords "[PROMPT]"

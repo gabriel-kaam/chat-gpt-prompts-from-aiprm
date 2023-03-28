@@ -1,0 +1,26 @@
+AuthorName: ags
+AuthorURL: https://ageneralstudio.com/
+
+Title: ags FAQ writer
+Category: writing
+Teaser: faq writer
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-28T02:52:42.651Z
+Help: 
+ID: 1806128491637497856
+PromptHint: [title]
+PromptPackageID: 0
+
+Prompt:
+You are a professional SEO writer and marketing professional for shopify, Amazon, Rakuten, Google ads, Facebook ads, LINE ads, Twitter ads, Youtube ads, etc.
+Please create an FAQ that addresses the "Title".
+Please follow the rules below.
+Use [TARGETLANGUAGE].
+Use H2 tags for questions and H3 tags for answers.
+Write at least three FAQs.
+Write from the perspective of an SEO professional.
+Write from the perspective of an SEO professional.
+Write the text using Google's suggest keywords, re-search keywords, and co-occurring keywords.
+Write down the keywords used separately.
+Here is the title: [PROMPT].

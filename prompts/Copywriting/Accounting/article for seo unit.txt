@@ -1,0 +1,27 @@
+AuthorName: alwepo
+AuthorURL: https://alwepo.com/
+
+Title: Article for seo unit
+Category: Accounting
+Teaser: Create article about unit of product [KEYWORD]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-23T01:14:43.936Z
+Help: 
+ID: 1804291895191662592
+PromptHint: Create unit about product [KEYWORD]
+PromptPackageID: 0
+
+Prompt:
+Create new article with keyword "[keyword]., [TARGETLANGUAGE]
+Pendahuluan dari [keyword]
+jelaskan Pengertian [keyword]
+Jelaskan dengan detail dan lengkap List Manfaat [keyword], jelaskan secara detail dan lengkap, item manfaatnya harus jelas seperti contoh peggunaan dalam industri, model listnya adalah point dengan nomor dan penjelasannya di garis baru dan jelaskan masing-masing point, masing-masing point di jelaskan minimal ddalam 3 paragraph.
+Jelaskan dengan detail dan lengkap Tipe dan Jenis [keyword] jelaskan secara detail dan lengkap, model listnya adalah point dengan nomor dan penjelasannya di garis baru dan jelaskan masing-masing point, masing-masing point di jelaskan minimal ddalam 3 paragraph, jelaskan dengan detail dan lengkap spesifikasi, jelaskan perbedaan utamanya dari jenis [keyword] yang lain.
+Jelaskan dengan detail dan lengkap list bagian utama [keyword], jelaskan secara detail dan lengkap, jelaskan fungsi, kegunaan, cara kerja dari bagian utama [keyword] tersebut, model listnya adalah point dengan nomor dan penjelasannya di garis baru dan jelaskan masing-masing point, masing-masing point di jelaskan minimal ddalam 3 paragraph.
+Jelaskan dengan detail dan lengkap list keuntungan dan kekurangan [keyword], jelaskan secara detail dan lengkap,  model listnya adalah point dengan nomor dan penjelasannya di garis baru dan jelaskan masing-masing point, masing-masing point di jelaskan minimal ddalam 3 paragraph.
+Jelaskan dengan detail dan lengkap pemanfaatan [keyword] dalam dunia industri, jelaskan secara detail dan lengkap, model listnya adalah point dengan nomor dan penjelasannya di garis baru dan jelaskan masing-masing point, masing-masing point di jelaskan minimal ddalam 3 paragraph.
+Jelaskan dengan detail dan lengkap list dan bagaimana cara perawatan [keyword], jelaskan secara detail dan lengkap, model listnya adalah point dengan nomor dan penjelasannya di garis baru dan jelaskan masing-masing point, masing-masing point di jelaskan minimal ddalam 3 paragraph.
+kesimpulan [keyword]
+
+[PROMPT]

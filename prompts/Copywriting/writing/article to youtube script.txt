@@ -1,0 +1,16 @@
+AuthorName: Future Finance
+AuthorURL: https://www.youtube.com/@futurefinance.
+
+Title: Article to YouTube Script
+Category: writing
+Teaser: Creating a YouTube Script with an article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-22T19:56:37.93Z
+Help: 
+ID: 1804211842680356864
+PromptHint: Creating a YouTube Script for you if you paste in an article
+PromptPackageID: 0
+
+Prompt:
+Write this in a more conversational style like a YouTube video: [PROMPT] in [TARGETLANGUAGE]

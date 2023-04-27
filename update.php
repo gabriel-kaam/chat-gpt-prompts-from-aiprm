@@ -1,5 +1,7 @@
 <?php
 
+define('DATA_URL', 'https://api.aiprm.com/api3/Prompts?Community=&Limit=10&Offset=0&OwnerExternalID=user-uGYvFVhqDuXSFLXmGL33vjmL&OwnerExternalSystemNo=1&SortModeNo=2&UserFootprint=');
+
 function sanitize($string) {
 	$string = str_replace([
 			'&'
@@ -36,7 +38,7 @@ Prompt:
 EOF;
 }
 
-if(!$data = @file_get_contents('https://api.aiprm.com/api2/Prompts?Community=&Limit=10&Offset=0&OwnerExternalID=user-Sym2oNwW2gUBywbi1gqkKPyB&OwnerExternalSystemNo=1&SortModeNo=2')) {
+if(!$data = @file_get_contents(DATA_URL)) {
 	echo "[-] Could not get Data from API - ";
 	die(1);
 }

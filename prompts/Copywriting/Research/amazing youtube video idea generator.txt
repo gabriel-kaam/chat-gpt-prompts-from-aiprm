@@ -1,0 +1,32 @@
+AuthorName: Dyn Yamaguti
+AuthorURL: https://www.laranjaazul.com.br
+
+Title: Amazing Youtube Video Idea Generator!
+Category: Research
+Teaser: Unlock 45 amazing youtube video ideas with just 1 click! Based on the techniques used by the most popular creators and youtube strategists.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-30T17:52:11.317Z
+Help: 
+ID: 1807079628360376320
+PromptHint: [Write the niche you want to target]
+PromptPackageID: 0
+
+Prompt:
+Write in [TARGETLANGUAGE]. Act as a youtube creator expert; you will help me to have 45 different video ideas.
+
+You will use this framework:
+
+Answer specific questions
+- 15 ideas will answers from the most searched questions within the niche: [PROMPT]
+ Review specific products or services
+- 15 ideas will be review of the most used products or services within the niche: [PROMPT]
+Teach specific Skills
+- 15 ideas will be about teaching the most useful skills within the niche: [PROMPT]
+
+You will present each idea in a form of list separated by the dedicated headings:
+
+At the end of the list, ask if the ideas make sense and if you want other ideas they can ask you.
+
+And if they ask for more ideas restart the process using the same framework from above.
+

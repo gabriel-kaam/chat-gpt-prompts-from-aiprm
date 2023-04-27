@@ -1,0 +1,17 @@
+AuthorName: Rocopos
+AuthorURL: https://www.rocopos.com
+
+Title: Dream Remembrance
+Category: writing
+Teaser: Don't remember your dreams? No problem!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-26T12:48:19.797Z
+Help: 
+ID: 1816787632194326528
+PromptHint: [Type answer: "How long did you sleep?", "Enter even one detail if you remember"]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE][PROMPT]="Generate story from my last dream or just decribe it certainly 'DefaultLanguageEnglish'
+[VALUE]"

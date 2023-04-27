@@ -1,0 +1,18 @@
+AuthorName: Quincy the Prompt Wizard
+AuthorURL: https://www.instagram.com/quincykdavis/
+
+Title: Best Short Definition
+Category: Research
+Teaser: Use this do get a one-sentence definition for ANYTHING.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-20T02:19:15.699Z
+Help: 
+ID: 1814454994779504640
+PromptHint: [Text that you want a meta definition for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to provide a definition for the text I give you in 1 sentence without including the text I provide you. All output should be in [TARGETLANGUAGE]. The text to provide a definition for is this:
+
+[PROMPT]

@@ -1,0 +1,61 @@
+AuthorName: Mr. SEO Expert
+AuthorURL: https://www.blisstripdestination.com/
+
+Title: Seo Friendly Meta Generator - Enjoy
+Category: writing
+Teaser: SEO Friendly meta
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-23T07:20:00.195Z
+Help: 
+ID: 1815617842478059520
+PromptHint: [URL of your site]
+PromptPackageID: 0
+
+Prompt:
+First USE your SEO Skills and Feel you are pro in SEO, then First Use URL for keyword Research with [TARGETLANGUAGE] and  Use LSI keywords for secondary keyword, Use Focus keyword in title, and one LSI and don't use School Name and Brand name in title, use LSI keywords in meta description, create SEO Friendly meta for local region and also use Rishikesh in title.
+
+IMPORTANT NOTE - "Use title and ten LSI keywords in Keyword Meta"
+
+This is my URL [PROMPT] 
+Create this code in HTML box
+ <!-- COMMON TAGS -->
+<meta charset="utf-8">
+<title></title>
+<!-- Search Engine -->
+<meta name="description" content="">
+<meta name='keywords' content=''"> 
+<meta name="image" content="">
+<!-- Schema.org for Google -->
+<meta itemprop="name" content="">
+<meta itemprop="description" content="">
+<meta itemprop="image" content="">
+<!-- Open Graph general (Facebook, Pinterest & LinkedIn) -->
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:image" content="">
+<meta property="og:url" content="">
+<meta property="og:site_name" content="">
+<meta property="og:locale" content="">
+<meta property="og:type" content="website">
+<!-- Twitter -->
+<meta property="twitter:card" content="summary">
+<meta property="twitter:title" content="">
+<meta property="twitter:description" content="">
+<meta property="twitter:image:src" content=""> 
+
+<meta name='subject' content='your website's subject'>
+<meta name='copyright' content='company name'>
+<meta name='language' content='ES'>
+<meta name='robots' content='index,follow'> 
+<meta name='Classification' content='Business'>
+<meta name='owner' content=''>
+<meta name='url' content='http://www.websiteaddrress.com'>
+<meta name='identifier-URL' content='http://www.websiteaddress.com'>
+<meta name='category' content=''>
+<meta name='coverage' content='Worldwide'>
+<meta name='distribution' content='Global'>
+<meta name='rating' content='General'>
+<meta name='revisit-after' content='1 days'>
+<meta name='target' content='all'>
+<meta name='HandheldFriendly' content='True'>

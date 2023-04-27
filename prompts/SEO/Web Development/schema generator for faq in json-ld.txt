@@ -18,3 +18,6 @@ You need to give the code schema FAQPage in type="application/ld+json", for next
 [PROMPT]
 output the text of questions and answers provided by the user in the markup code to [TARGETLANGUAGE]
 
+At the bottom write 
+
+Support: https://www.buymeacoffee.com/andrewshe

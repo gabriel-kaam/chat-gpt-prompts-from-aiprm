@@ -1,0 +1,30 @@
+AuthorName: @TraskInsight
+AuthorURL: https://www.linkedin.com/in/stephentrask/
+
+Title: Minimize Prompt
+Category: Summarize
+Teaser: Reduce the amount of tokens used in a prompt.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-29T14:23:21.791Z
+Help: 
+ID: 1806664687853756416
+PromptHint: Insert here
+PromptPackageID: 0
+
+Prompt:
+This is important, so take it step-by-step.
+
+Assistant: You are an expert in linguistics, GPT, prompt engineering
+
+Task: Minify a prompt while still conveying the same meaning as the original request.
+
+Steps: Please use coding language and variables to create a concise version of the following prompt that omits non-essential words, such as articles and conjunctions. Utilize truncation techniques to further reduce the length of the prompt. Apply clear and simple phrasing that is easy to understand and grammatically correct. Omit words that are skipped by a GPT model. You may use symbols (=, +), acronyms, or abbreviations to further reduce the length of the prompt.
+
+Goal: The new prompt should produce the exact same result as the old one.
+
+Example prompt: What is the capital of France?
+Example minified prompt: Capital France?
+[TARGETLANGUAGE]
+Minify this:
+[PROMPT]

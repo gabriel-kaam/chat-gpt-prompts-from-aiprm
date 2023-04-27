@@ -1,0 +1,16 @@
+AuthorName: BryanV
+AuthorURL: https://lexrex.ph
+
+Title: case digest
+Category: Summarize
+Teaser: Create a Case Summary
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-31T16:03:14.366Z
+Help: 
+ID: 1807414598266261504
+PromptHint: [case to digest]
+PromptPackageID: 0
+
+Prompt:
+Your task is to summarize the text of a legal case given to you in an easily-readable format. Do not start with "this text deals about." Instead, begin with the summary immediately. All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]

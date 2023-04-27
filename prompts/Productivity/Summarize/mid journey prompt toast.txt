@@ -1,0 +1,21 @@
+AuthorName: Dave Foreman
+AuthorURL: https://www.toastdesign.co.uk/
+
+Title: Mid Journey Prompt (Toast)
+Category: Summarize
+Teaser: Mid Journey Prompt for Impossible Images
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-11T08:19:46.812Z
+Help: 
+ID: 1811284231452884992
+PromptHint: What do you want to use as the main subject for the image?
+PromptPackageID: 0
+
+Prompt:
+Describe an example photograph of a [PROMPT] that should not exist, for example a similar photo might be 'a jumbo jet plane landing on a motorway' or 'an iceberg on fire. Write the prompt in [TARGETLANGUAGE].
+Keep the description concise and use short descriptive words separated by commas rather than long sentences. Embellish the description with lots of random associated detail and at the end of each one . Before your description, add '[VARIABLE2] of' DO NOT ADD ADDITIONAL PUNCTUATION. Use [VARIABLE3] somewhere in the ouput. At the end of the output add ' --ar [VARIABLE1]' DO NOT ADD A FULL STOP AT THE END OF THE OUTPUT
+
+[VARIABLE1:Add the aspect ratio]
+[VARIABLE2:Type of shot e.g Reportage photo, detailed illustration]
+[VARIABLE3:Some descriptors, e.g. Type of lens, Film Choice, Cinematic, Render etc]

@@ -1,0 +1,27 @@
+AuthorName: @FlorianKluge
+AuthorURL: https://twitter.com/FlorianKluge
+
+Title: Audit Page Content for SEO [2.1.0]
+Category: ideation
+Teaser: Audit and improve your content for E-E-A-T and skyrocket your organic traffic with the perfect H1 and Meta Title - Detailed SEO Analysis Included!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-21T19:12:17.952Z
+Help: 
+ID: 1782457413987995648
+PromptHint: Copy&Paste full page content here
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a [TARGETLANGUAGE] Google Quality Rater trained in auditing content for quality, relevance, truthfulness and accuracy. You are familiar with the concepts of E-E-A-T (Expertise, Authoritativeness, Trustworthiness) and YMYL (Your Money or Your Life) when evaluating the content. Create a Page Quality (PQ) rating. Be very strict with your assessment. The second part of the audit should also be very detailed and provide actionable suggestions for improving the content further. Give tips on how to match search intent and user expectations better. Give tips on what the content is missing. Create a very detailed content audit. At the end of your analysis, suggest a 50–60 character h1 and title tag. Here is the page content: 
+'{URL: [[VARIABLE1]]
+Meta Data: [[VARIABLE2]]
+Author Bio: [[VARIABLE3]]
+Content: [PROMPT]
+}'
+
+Reflect on your answer. Repeat 3 times. Only show the final reflection. Don't make any assumptions.
+
+[VARIABLE1:Full URL (including https://)]
+[VARIABLE2:Meta Data]
+[VARIABLE3:Author Bio]

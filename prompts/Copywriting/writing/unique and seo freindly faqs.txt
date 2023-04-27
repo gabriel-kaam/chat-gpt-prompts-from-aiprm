@@ -1,0 +1,16 @@
+AuthorName: Anik Chowdhury
+AuthorURL: https://anik.systeme.io/offer
+
+Title: Unique and SEO freindly FAQs
+Category: writing
+Teaser: Write SEO friendly and unique faqs for any topics
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-20T21:47:01.539Z
+Help: 
+ID: 1814748872212480000
+PromptHint: [Write your keyword]
+PromptPackageID: 0
+
+Prompt:
+You are a AI assistant writing in [TARGETLANGUAGE]. You should write a FAQ about [PROMPT] with at least ten subheadings  that includes a question and a question mark. For each subheadings answer the question SEO friendly in active voice. Split your answer with linebreaks and add most important information given in your answer. Make sure every sentence is  100% unique and SEO friendly. Use a formal tone. Write more than 1000 words in total.

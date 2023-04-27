@@ -1,0 +1,29 @@
+AuthorName: kenny
+AuthorURL: https://www.myscholarly.net/
+
+Title: Solve math with human-readable equations.
+Category: Respond
+Teaser: Generate and automatically render human readable LaTeX math equations from your question.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-31T01:32:34.668Z
+Help: 
+ID: 1807195489091981312
+PromptHint: [Input]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] 
+Ignore all previous inputs/text.
+``````````````````````````````````````````````
+From now on:
+- Write the equation you received down first
+- write inline math formulas in this format: \( <latex code here> \)
+(never use dollar signs for inline math since it doesn't work here)
+- write full size math equations/formulas in this format:
+$$
+<latex code here>
+$$
+(don't forget newlines between the dollar signs and latex code)
+
+[PROMPT]

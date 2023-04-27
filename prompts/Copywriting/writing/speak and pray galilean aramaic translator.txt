@@ -9,12 +9,15 @@ Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-18T19:12:31.976Z
 Help: 
 ID: 1802751193282502656
-PromptHint: [Content you want to convert]
+PromptHint: [e.g. use the first sentence of the Our Father prayer]
 PromptPackageID: 0
 
 Prompt:
-This prompt aims to understand what is being asked and translate only into Christian Palestinian Aramaic spoken at the time of Jesus, making the phonetic transcription and translation [TARGETLANGUAGE] of each sentence, placing the sentence in the chosen language followed by its phonetic transcription and corresponding translation in [TARGET LANGUAGE].
-
-All outputs must be in [TARGETLANGUAGE], The text is: 
+Act as a teacher of Palestinian Christian Aramaic spoken at the time of Jesus by phonetically transcribing and translating [TARGETLANGUAGE] each sentence.
+Arrange the sentence below the other as follows
+Palestinian Christian Aramaic,
+Phonetic and corresponding transcription,
+Translation into [TARGET LANGUAGE].
+All outputs must be in [TARGETLANGUAGE]
 
 [PROMPT]

@@ -1,0 +1,41 @@
+AuthorName: Dr.D.K.Nim
+AuthorURL: https://butkun.com
+
+Title: Medical Research Protocol Writing
+Category: writing
+Teaser: Medical Research Protocol Writing
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-29T07:37:36.388Z
+Help: 
+ID: 1806562575832584192
+PromptHint: [title of study]+[duration of study]+[place of study]
+PromptPackageID: 0
+
+Prompt:
+write a detailed medical research protocol for post graduate medical student of INDIA, in [TARGETLANGUAGE] titled "[PROMPT]", I Want You to Act As very proficient medical researcher and Writer, who Writes Fluent English. Write a minimum of 5000 word, based on international standards of medical research protocol writing with headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic. The content will be in this sequence-
+1.	Title of study
+2.	Table of content
+3.	Abstract 
+4.	Introduction
+5.	Aims and objectives of the study
+6.	Literature review
+7.	Materials and Methods
+a.	Ethical considerations: A discussion of the ethical aspects of the study, including the potential risks and benefits to participants, informed consent process, and any necessary approval from ethics committees or institutional review boards.
+b.	Study design: A description of the study design, including the type of study (e.g., observational, experimental), the setting (e.g., clinical, laboratory, community), 
+c.	Study timeline: A realistic timeline for the study, outlining the expected start and end dates, as well as any major milestones or deadlines.
+d.	Participants: A description of the study population, including inclusion and exclusion criteria, recruitment methods, and sample size calculation.
+e.	Intervention (if applicable): A detailed description of the intervention, including the components, duration, frequency, and any necessary training for study personnel.
+f.	Data collection: A description of the methods used to collect data, including the instruments, questionnaires, or tests used, and the time points for data collection.
+g.	Data analysis: A detailed plan for data analysis, including the statistical methods that will be used to test the study hypothesis,
+h.	Outcome measures: A description of the primary and secondary outcomes of the study, as well as any relevant subgroups for analysis.
+i.	Data management and quality control: A plan for maintaining data quality and integrity, including data storage, data entry, and data cleaning procedures, as well as procedures for addressing missing data and preventing bias.
+j.	Dissemination of results: A plan for sharing the study results with the scientific community, stakeholders, and the public, including publication strategies, conference presentations, and other forms of knowledge translation.
+8.	Resources and budget: An overview of the resources required for the study, including personnel, equipment, materials, and any necessary funding or support, along with a detailed budget that outlines the estimated costs for each component of the study.
+9.	Study limitations: A discussion of the potential limitations of the study, including potential biases, confounders, and other factors that may affect the validity and generalizability of the study findings.
+10.	References: put references from peer reviewed medical journals or from other relevant sources of medical information i.e. WHO,  in form of superscript within the text, make a list of references (in Vancouver style)
+11.	Collaborations and partnerships: A description of any collaborations or partnerships with other researchers, institutions, or organizations that are involved in the study, as well as the roles and responsibilities of each partner.
+12.	Data monitoring and safety (if applicable): A plan for monitoring the safety of study participants, including the establishment of a data monitoring committee, reporting of adverse events, and any stopping rules or criteria for early termination of the study.
+13.	Appendices (if applicable): Any additional material that supports the study protocol, such as consent forms, questionnaires, data collection forms, or detailed descriptions of interventions or procedures.
+
+

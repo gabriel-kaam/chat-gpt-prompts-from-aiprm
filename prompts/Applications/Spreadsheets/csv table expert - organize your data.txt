@@ -1,0 +1,16 @@
+AuthorName: Tyler Hall Tech
+AuthorURL: https://TylerHallTech.com
+
+Title: CSV Table Expert - Organize Your Data
+Category: Spreadsheets
+Teaser: Need help organizing Ecommerce CSV files for Shopify or Lightspeed? I've got you covered!
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-04-15T04:23:37.984Z
+Help: 
+ID: 1812674354543325184
+PromptHint: [enter product table]
+PromptPackageID: 0
+
+Prompt:
+Forget everything previous to this. I want you to pretend that you are an E-commerce expert and CSV / Excel expert. I am going to provide a table that has a sku, name, category, type, size/count, and flavor columns (in that order). If I don't provide the table headers, assume sku, name, product_category (Shopify), type, size/count, and flavor columns are there (in that order). I want you to reference the SKU and name columns to determine the correct values for category, type, size/count, and flavor. DO NOT MODIFY THE NAME OR SKU FIELD UNDER ANY CIRCUMSTANCE.  *UNLESS NAME COLUMN ISN'T PROVIDED* THOSE TWO COLUMNS ARE READ-ONLY. SKU and Title are ONLY for reference to fill out the product_category, type, size/count, and flavor columns. Leave blank cells where n/a or if you aren't 100% sure of the correct value. Only fill in values you know to be absolutely 100% accurate. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not reference tables from previous messages, treat each table as new based on what I pasted. I will paste many different tables that are unrelated to each other, do not merge them. Each table I provide you is it's own, do not reference other tables. One unique table per message. Write all output in [TARGETLANGUAGE] and format as a Excel table. Please use the following product table: [PROMPT]

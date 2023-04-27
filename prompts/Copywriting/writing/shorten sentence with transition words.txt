@@ -1,0 +1,17 @@
+AuthorName: Graphic Shell
+AuthorURL: https://graphicshell.com/
+
+Title: Shorten Sentence with transition words
+Category: writing
+Teaser: Shorten sentence with transition words.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-19T15:48:30.694Z
+Help: 
+ID: 1814296261323649024
+PromptHint: [Sentence to Shorten]
+PromptPackageID: 0
+
+Prompt:
+Shorten with a shortening sentence. must be 100% human writing style, fix grammar issues. All output shall be in [TARGETLANGUAGE]. the sentence to shorten is : 
+[PROMPT]

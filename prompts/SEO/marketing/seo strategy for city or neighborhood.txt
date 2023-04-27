@@ -1,0 +1,28 @@
+AuthorName: ReachMiami
+AuthorURL: https://reach.miami
+
+Title: SEO strategy for city or neighborhood.
+Category: marketing
+Teaser: SEO strategy for a Real Estate website.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-04T03:38:49.489Z
+Help: 
+ID: 1787295927585992704
+PromptHint: Enter the name of a city or neighborhood
+PromptPackageID: 0
+
+Prompt:
+Your first task is to write a robust 4 paragraph neighborhood description for [PROMPT].
+
+Make the output detailed and in [TARGETLANGUAGE]
+
+Include median household income in [PROMPT] as accurately as possible.
+Mention by name the most recent real estate developments in [PROMPT] if any. Exclude new real estate developments if none exist currently.
+Include information about famous people who have lived in [PROMPT] especially if a former president or politician has owned a property in [PROMPT].
+
+The first sentence should hook the readers (spark their curiosity), DO NOT start the sentence with "Are you curious?"
+
+Your second task is to create a markdown table with the latitude and longitude of [PROMPT]. Latitude in the first column and longitude in another.
+
+Your third task is to Develop a full SEO content plan about [PROMPT] in fluent [TARGETLANGUAGE]. The target keyword is "[PROMPT] Real Estate". From this keyword create a markdown table with a keyword list for an SEO content strategy plan on the topic [PROMPT]. Cluster the keywords according to the top 3 Real Estate super categories and name the super category in the first column called keyword cluster. Add in another column with 7 subcategories for each keyword cluster or specific long-tail keywords for each of the clusters. List in another column the human searcher intent for the keyword. Cluster the topic in one of three search intent groups based on their search intent being, whether commercial, transactional or informational. Then in another column, write a simple but very click-enticing title to use for a post about that keyword. Then in another column write an attractive meta description that has the chance for a high click-thru-rate for the topic with 120 to a maximum of 155 words. The meta description shall be value based, so mention value of the article and have a simple call to action to cause the searcher to click.  Do NOT under any circumstance use too generic keyword like `introduction`  or `conclusion` or `tl:dr`. Focus on the most specific keywords only. Do not use single quotes, double quotes or any other enclosing characters in any of the columns you fill in. Do not explain why and what you are doing, just return your suggestions in the table. The markdown table shall be in [TARGETLANGUAGE] and have the following columns:  keyword cluster, keyword, search intent, title, meta description.

@@ -1,0 +1,27 @@
+AuthorName: Dallin Bastian
+AuthorURL: https://www.linkedin.com/in/dallin-bastian-2868551a
+
+Title: Best Expert Answers
+Category: Plan
+Teaser: Why not use a one-shot expert prompt that can do it all?
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-28T19:16:01.707Z
+Help: 
+ID: 1806375951614078976
+PromptHint: Ask any question, (more detail is better) and follow along with the process.
+PromptPackageID: 0
+
+Prompt:
+My request is: [PROMPT] Follow these instructions step-by-step with careful attention to detail, and do not skip any steps.
+1. Analyze My Request: Carefully read and prudently consider my request.
+2. Rephrase My Request: Rephrase my request to verify that you fully understand my request and ask me if your rephrasing of my request is correct before proceeding.
+3. Validate Rephrasing: If I do not accept your rephrasing of my request, return to step 1.
+4. Select Expert: Evaluate my request, show me a numbered list of the professionals or experts who are best suited to respond to my request and ask me which one is acceptable before proceeding.
+5. Validate Experts: If I disapprove of your experts, repeat step 4.
+6. Select Reference Materials: What reference materials, academic sources, governing bodies, or documentation would the expert most likely use to respond to my request? Show me a numbered list of the reference materials the expert would use to respond to my request and ask if those are acceptable before proceeding.
+7. Validate Reference Materials: If I disapprove of the reference material, repeat step 6.
+8. Select Skills: Consider the appropriate skills, expertise and experience required of the most qualified professional to respond to my request. Show me a bulleted list of the skills, expertise and experience and ask me if they are acceptable before proceeding.
+9. Validate Skills: If I do not approve your selections, repeat step 8.
+10. Respond to My Request: You take the role of the professional with all the skills, expertise and experience selected and respond to my request step by step with those reference materials using best practices. Concisely explain your reasoning.
+Respond in [TARGETLANGUAGE].

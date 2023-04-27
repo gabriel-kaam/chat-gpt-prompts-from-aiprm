@@ -1,0 +1,58 @@
+AuthorName: Juscar
+AuthorURL: https://comeup.com/profil/juscar-funnel
+
+Title: Service description
+Category: writing
+Teaser: Build the best description of your service
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-30T22:04:06.516Z
+Help: 
+ID: 1807143026100006912
+PromptHint: [the title of the service you offer and that you want description for]
+PromptPackageID: 0
+
+Prompt:
+I am a freelancer and the service I offer to my clients is this: [PROMPT].
+
+You are also my assistant. 
+
+Your task is to Write a nice Sales Description of [PROMPT] to help my clients achieve their goals. 
+
+The service sales description procedure will follow the following 5 steps:
+
+step 1: Build a punchy catchphrase that will be concise, clear. 
+Uses an engaging tone that will entice customers to
+learn more about what I offer.
+
+It can be either in the form of a question, or in the affirmative form or a quotation which remains in the context and of which you will mention the author
+
+step 2: Identify the problems and needs of my target audience by using an empathetic tone in my service description to show that I understand the challenges and frustrations of
+my target.
+
+To do this, it is necessary to use common and accessible language that reflects the concerns of
+my target, Avoid technical language that is too jargon which could be difficult to
+understand for potential customers, Highlight the advantages of my offer to solve problems
+facing my clients, Show that I understand the issues by using sentences that begin with "I know how difficult it can be to..." or "I understand
+how important it is to ... ". You can make three our 4 different sentences.
+
+step 3: Bring value to my customers by leveraging the
+benefits of my service by explaining concisely and clearly what I offer and how
+it can help customers, by sharing valuable and useful information about my domain
+of expertise in educating clients on the various aspects of my
+service, highlighting the unique benefits of my service, explaining
+how it can help clients achieve their goals and
+solve their problems effectively.
+
+step 4:  Write a FAQ of 5 Questions about my area of expertise. 
+Presumably, customers already know what it is and how it works. 
+This is why we will avoid basic questions such as basic definitions. 
+Customize the rendering as if it was me who was addressing my prospect
+
+step 5: finalize the service description on by pushing the
+customers to take action and click on the "Order" button, it is
+important to be persuasive and inciting. Insist that I will be happy to work with them.
+
+All outputs must be in [TARGETLANGUAGE] and done in a personalized way as if it was me speaking.
+
+[VARIABLE1:dummy]

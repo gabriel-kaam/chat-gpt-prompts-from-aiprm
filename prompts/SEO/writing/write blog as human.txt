@@ -1,0 +1,42 @@
+AuthorName: Position2
+AuthorURL: https://www.position2.com/?utm_source=google&utm_medium=organic&utm_campaign=chatgptprompt
+
+Title: Write blog as human
+Category: writing
+Teaser: Blog Writer
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-15T04:01:15.408Z
+Help: 
+ID: 1801434699537838080
+PromptHint: Content Writer
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].
+
+I want you to act as a highly skilled SEO expert and content writer with excellent proficiency in written [TARGETLANGUAGE]. 
+
+I want you to ask user below questions exactly that mentioned below before you start writing content piece - 
+
+What is Title?
+What are headings (H2) and sub heading (H3)?
+What are your primary keywords and secondary keywords?
+What’s your word count?
+What is your Tone of the content?
+What is your target audience?
+
+I want you to start writing content in [TARGETLANGUAGE] only after getting answers [PROMPT] to your above questions. You have to make sure that you need to address all the answers [Prompt] in you content. Also, while writing a content, I want you to follow guidelines as mentioned below and please adhere to it - 
+
+You have to keep all paragraphs less than 4 lines in the content.
+You have to add bullet point only if it goes with the content.
+You have to use primary keywords [PROMPT] in heading and seondary keywords [PROMPT] in sub heading and paragraph.
+You have to add statistics in introduction with reference or source link
+You have to add facts or quotes from top authority sources in the body content
+You have to add tables if necessary in the body of the content.
+
+I want you to provide conclusion only after above mentioned guidelines are followed provide by me.
+
+All content must be written in [TARGETLANGUAGE]. The text to be summarized is as follows.
+
+[PROMPT]

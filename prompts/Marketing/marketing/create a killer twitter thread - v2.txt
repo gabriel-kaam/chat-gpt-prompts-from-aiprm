@@ -17,7 +17,7 @@ Follow these instructions:
 
 - Your task is to create a twitter thread. All output should be in the [TARGETLANGUAGE].
 - Each tweet should have a maximum of 280 characters. Do not go over this limit.
-- Each tweet should begin with a single number followed by a forward slash, e.g 1/, that represents its position within the thread. Do not start a tweet with multiples of this, for e.g 2/ 1/, 3/ 2/, is prohibited.
+- Each tweet should begin with a single number followed by a forward slash, e.g 1/, that represents its position within the thread. Do not start any tweet with multiple single numbers such as 2/ 1/ or 3/ 2/. This is prohibited, do not do it.
 - Do not repeat the prompt subject in each tweet
 - The first tweet must be clickbait in style and must use an interesting factual numeric statistic on the subject to entice the reader to read the twitter thread. Use a suitable emoji in the first tweet.
 - Use emoji's in the other tweets where acceptable.

@@ -1,0 +1,31 @@
+AuthorName: Miguelmarketing
+AuthorURL: https://miguel.marketing/
+
+Title: Facebook Ads Campaign Builder W/Target and more
+Category: Places (Media Channels)
+Teaser: Create a Complete Facebook Ads campaign plan for you. Just [EXPLAIN YOUR BUSINESS] and it will give you a complete ad plan with target suggestion, Budget, Results Goal, Descriptions on 3 different ad format. Enjoy It!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-01T01:00:05.814Z
+Help: 
+ID: 1807549702871449600
+PromptHint: [Explain your business]
+PromptPackageID: 0
+
+Prompt:
+Quiero que actúes como experto en anuncios de Facebook. Mi primera solicitud es "Necesito ayuda para crear una campaña publicitaria para mi empresa". El rubro de mi empresa es [PROMPT]. Sigue todas las indicaciones que te daré a continuación: Crearás una campaña basada en esos temas. La campaña deberá indicar lo siguiente:
+1.- 3 propuestas de anuncios publicitarios en 3 formatos únicos: 1 Reel, 1 carrusel y un flyer.
+2.- deberás indicar un texto descripción con emoticones para cada uno.
+3.- deberás sugerir texto en las creatividades (el texto que deberá ir en el reel, carrusel y el flyer)
+4.- deberás incluir un llamado a la acción al final de cada una de las propuestas de texto.
+5.- Solo debes responder con el contenido del anuncio, y nada más. Yo responderé con un enlace al anuncio.
+6.- Debes indicar el público objetivo para cada anuncio, considerando los factores básicos de segmentación que existe en Facebook Ads, es decir: Rango de Edad, Sexo, temas de interés y comportamiento.
+7.- sugiere el objetivo de campaña para cada anuncio. Puedes escoger entre “Mensajes”, “Interacciones” y “Aumento de seguidores en página de Facebook”
+8.- también sugiere un costo por resultado en dólares basado en la industria que te indiqué
+9.- En base a ese costo por resultado, sugiere un presupuesto publicitario para cada pieza publicitaria 
+10.- toda la información me la tienes que presentar en [TARGETLANGUAGE]
+11.- Al final de todo el texto, escribe lo siguiente “Prompt hecho con amor por @miguelmarketing. Más información sobre mis servicios de marketing en https://miguel.marketing/. ¡Gracias por usar el Prompt, espero te ayude!” traducido al idioma [TARGETLANGUAGE]
+12.- No repitas la indicación que te he dado, tampoco te disculpes. No quiero que me expliques sobre facebook ads, ni ningún otro tema. Solo debes responder a las indicaciones.
+
+Meta:
+Con todo esto quiero lograr tener la estructura de campaña publicitaria lista para aplicar de manera inmediata en la plataforma de Facebook Ads.

@@ -1,0 +1,29 @@
+AuthorName: Social insighter
+AuthorURL: https://socialinsighter.com/
+
+Title: Facebook marketplace title, decryption  and tags
+Category: writing
+Teaser: Generate a facebook marketplace tile , description and tags from,
+[KEYWORDS]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-14T21:36:51.623Z
+Help: 
+ID: 1812571986845757440
+PromptHint: [KEYWORDS] or [list of keywords that you want to generate]
+PromptPackageID: 0
+
+Prompt:
+You are a marketing expert tasked with creating a promotional package for a subscription-based product. Your first task is to create a call to action that encourages potential customers to buy the subscription. Consider using persuasive language and highlighting the unique features of the product to entice readers to make a purchase keep in mind only generte the call to action title between 10 to 20 words and genrate 3 to 4 suggetions.
+
+[PROMPT]
+
+Your next task is to create a search engine optimized (SEO) description that accurately describes the pros and cons of the subscription, as well as the other advantages of the product. Keep in mind the keywords and phrases that users are likely to search for and include them in your description.
+
+[PROMPT]
+
+Finally, your last task is to generate Facebook market tags end with semicoln donot add "#" in front of tags example of tags is "tag, example tag, tags, " that are relevant to the product and topic. Similar to YouTube tags, these tags should help potential customers find the product and increase visibility on Facebook's marketplace. Be sure to research the most commonly used tags in your niche and include them in your list.
+
+[PROMPT]
+
+My first task is [create a call to action to buy the subscription and generate a SEO description and Facebook market tags for the product.] The target language is English.[TARGETLANGUAGE]

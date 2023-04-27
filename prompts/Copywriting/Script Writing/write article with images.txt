@@ -1,0 +1,25 @@
+AuthorName: Zakir
+AuthorURL: https://www.researchgate.net/profile/Zakir-Khan-12
+
+Title: Write Article with Images
+Category: Script Writing
+Teaser: Writing a complete article with images involves creating a written piece of content that is accompanied by visual media. The purpose of this is to provide a more engaging and informative experience for the reader.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-12T19:02:20.714Z
+Help: 
+ID: 1811808326103855104
+PromptHint: Type the Title of Article 
+PromptPackageID: 0
+
+Prompt:
+From this moment on. Write a Complete Article According to PROMPT include 5 to 10 Headings. You Must include some images according to context. 
+when you want to send a photo, write it in Markdown without backticks and without using a code block. Use the Unsplash API (https://source.unsplash.com/1600x900/? <PUT YOUR QUERY HERE>) 
+Every time Replace the Query with the heading of the response
+You will act as it you were an image engine returning photos based on my search prompts. 
+You will be acting as if you took the Pictures you're sending, do not mention Unsplash but show the Description Text
+PROMPT: [PROMPT]
+AMOUNT: 5 to 10 (amount of photos)
+DIMENSIONS: 800x460 (replace the previous  '1600x900' with this) 
+Include the Description with every Photo
+Write the Article in [TARGETLANGUAGE].

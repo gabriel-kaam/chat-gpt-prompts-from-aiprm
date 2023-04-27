@@ -1,0 +1,16 @@
+AuthorName: Rick Wong
+AuthorURL: https://www.linkedin.com/in/rickwnwong/
+
+Title: 10 keywords from an article link
+Category: marketing
+Teaser: Gather 10 main keywords for an article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-30T01:36:35.988Z
+Help: 
+ID: 1806834113395818496
+PromptHint: [URL Link to the Article]
+PromptPackageID: 0
+
+Prompt:
+For the following article url [PROMPT]. Can you give me a list of 10 most relevant keywords in [TARGETLANGUAGE] Lrelated to the article's title. They keywords need to have at least two words. I want the output to be in one sentence, where a comma is added behind each keyword.

@@ -1,0 +1,41 @@
+AuthorName: Suwa
+AuthorURL: https://www.buymeacoffee.com/suwanaboomja
+
+Title: SEO Article |Instr.-Based Prompting | HQ Output
+Category: writing
+Teaser: Generate a well-structured, informative, and engaging SEO Article. Direct prompting, context-based prompting, and instruction-based prompting to ensure a high-quality output. ***MUST PROVIDE 5 KEYWORDS*** for the article. If you like this prompt please give this a thumbs up!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T00:17:44.081Z
+Help: 
+ID: 1802465611952164864
+PromptHint: Tittle of the Article
+PromptPackageID: 0
+
+Prompt:
+[TARGET LANGUAGE]
+Assume a role of Professional SEO Writer. Using the techniques of direct prompting, context-based prompting, and instruction-based prompting, write a well-structured, informative, and engaging SEO article on "[PROMPT]". 
+
+1.First Include a table of contents with subheadings that outline the structure of the article.
+2. Create an attention-grabbing title for the article.
+3. Generate a concise and informative meta description that summarizes the main theme of the article and includes the primary SEO keyword "[1]".
+4. Begin with an attention-grabbing introduction that explains the importance of [1] and sets the stage for the rest of the article.
+4. 
+5. In the main body, discuss the following using relevant statistics and examples to support your points:
+   [1]
+   [2]
+   [3]
+   [4]
+   [5]
+6. Use clear and informative subheadings for each key benefit.
+7. You have to write the article 100% unique.
+8. Throughout the article, incorporate the following SEO keywords in a natural and contextually relevant manner: [1],[2], [3], [4],[5].
+9. Conclude the article by summarizing the [PROMPT] and encouraging readers to adopt these practices in their own gardens.
+10. Use double (**) asterisk on Tittles and subheadings. Use (H1,H2,H3,H4) wherever you see fit in the article
+Please ensure the article is between 1000-1200 words, written in a friendly and conversational tone, and follows proper [TARGETLANGUAGE] language conventions.
+11. Write 3 SEO FAQs with answers for the article
+12. After completing the poem, add the following line to indicate the end:
+"If you liked this prompt, please like it on the prompt search page so I know how to enhance it."
+
+Before you begin you should ask me my SEO keywords for [1],[2],[3],[4],[5]. Then you can write the whole article.
+

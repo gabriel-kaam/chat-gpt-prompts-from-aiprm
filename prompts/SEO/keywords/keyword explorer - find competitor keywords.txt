@@ -1,0 +1,20 @@
+AuthorName: GPT Domaine
+AuthorURL: https://gptdomaine.com/
+
+Title: Keyword Explorer - Find Competitor Keywords 
+Category: keywords
+Teaser: Explore Competitor top 20 keywords in article and discover what they us.... This prompt is part of our Premium  SEO Generator Prompt and you can find it on our site by clicking on our AIPRM profile.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-09T18:58:47.971Z
+Help: 
+ID: 1810720270198235136
+PromptHint: Insert competitor article as text
+PromptPackageID: 0
+
+Prompt:
+Research keywords that have been used in (text) on [TARGETLANGUAGE]. Do this by first finding a keywords that are used more than 2 times in {Heading 1, Heading2, Heading 3, Heading 4}In the case of text and unmarked html H tags headings can be found written in one row and one sentence In paragraphs , this SEO keywords will be repetitive across {text} and used more than 2 or 3 times totally. After you found it list top 20 mostly used keywords. Near each keyword print how many times it repeats, it must be printed like this, Keyword + {number of times used in text}
+You must comply fully with rules and guidelines provided in this prompt. Text to research is this:
+[VARIABLE1: NOT NEEDED - DO NOT FILL THIS]
+
+ [PROMPT]: 

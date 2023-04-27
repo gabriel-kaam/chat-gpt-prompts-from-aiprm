@@ -1,0 +1,16 @@
+AuthorName: @FlorianKluge
+AuthorURL: https://twitter.com/floriankluge
+
+Title: Better content outlines 2.1.1
+Category: writing
+Teaser: Supercharge your content production! Generate very detailed content outlines for your human writers. Includes FAQs and attention-grabbing headings.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-23T13:50:22.457Z
+Help: 
+ID: 1783101174661255168
+PromptHint: [Insert Topic or Title]
+PromptPackageID: 0
+
+Prompt:
+Develop a comprehensive [TARGETLANGUAGE] markdown outline for a long-form article for the topic "[PROMPT]", featuring at least 20 engaging headings and subheadings that are detailed, mutually exclusive, collectively exhaustive and cover the entire topic. Conclude with a summary and pertinent FAQs. Provide a captivating title without writing the article itself. 

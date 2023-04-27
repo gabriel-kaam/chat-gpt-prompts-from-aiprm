@@ -1,4 +1,4 @@
-AuthorName: Google Business Profile Services
+AuthorName:  Google Business Profile Services
 AuthorURL: https://www.merchynt.com/google-business-pro?utm_source=AIPRM&utm_medium=Review+Response+Bot&utm_campaign=Review+Response+Bot&utm_id=chatgpt
 
 Title: Review Response Bot
@@ -6,16 +6,16 @@ Category: writing
 Teaser: Get 3 customer review responses by simply pasting in your customer's review. These responses are written in casual English with an appreciative and apologetic tone. It can address multiple complaints, as well as mixed reviews. Just simply paste your customer review into the prompt and let us do our thing! Responses are optimized for local SEO.
 
 Community: Copywriting-00ea56f446414284
-CreationTime: 2023-01-24T18:51:00.593Z
+CreationTime: 2023-04-15T18:29:01.63Z
 Help: 
-ID: 1783539219952820224
+ID: 1812887104934637568
 PromptHint: [paste your customer review here]
 PromptPackageID: 0
 
 Prompt:
 Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
 
-Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses to the prompt in this format. Please organize the responses in a table. At the top of the first table, please put a big bold header that says "MERCHYNT'S REVIEW RESPONDING BOT". Under that say Under that say "To learn more about Merchynt's Google Business Profile services, visit www.merchynt.com/google-business-pro." Under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep supporting it and build more ones like it! Thank you so much! - The Merchynt.com
+Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses to the prompt in this format. Please organize the responses in a table. 
 
 The customer review to help me with is:
 

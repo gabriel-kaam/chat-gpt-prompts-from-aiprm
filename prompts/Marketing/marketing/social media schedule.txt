@@ -1,0 +1,16 @@
+AuthorName: Therese Miller
+AuthorURL: https://theresemiller.com/
+
+Title: Social Media Schedule
+Category: marketing
+Teaser: Create a social media schedule for the [KEYWORD] of your choice
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-08T18:01:35.197Z
+Help: 
+ID: 1788962600164528128
+PromptHint: [KEYWORD] or [A list of keywords for your campaign]
+PromptPackageID: 0
+
+Prompt:
+Please create a social media post schedule for topics such as [PROMPT]  in the form of a table, where I am posting to Facebook, Instagram, Twitter, Pinterest, Tik Tok, and YouTube. The type of posts include; tips, tricks, quotes, facts, statistics, activity ideas, inspiration, lesson plan ideas, recipes, and lists. The format of these posts can be text, images, short videos or long format videos.[TARGETLANGUAGE]

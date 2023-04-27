@@ -1,0 +1,16 @@
+AuthorName: Justin Parker
+AuthorURL: https://www.youtube.com/channel/UCjJEWmtviRLT1BVJwjUWMZg
+
+Title: Master any Topic, 80/20 rule
+Category: Plan
+Teaser: Use the 80/20 Rule to learn what 20% of skills produce 80% of results
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-11T18:03:30.961Z
+Help: 
+ID: 1811431133381132288
+PromptHint: enter "subject" you would like to learn about
+PromptPackageID: 0
+
+Prompt:
+Identify the 20% of [PROMPT] that will yield 80% of the desired results and provide a focused learning plan to master it. Please output in [TARGETLANGUAGE]

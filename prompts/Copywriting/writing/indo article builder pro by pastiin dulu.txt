@@ -1,0 +1,16 @@
+AuthorName: Pastiin Dulu
+AuthorURL: https://pastiin.com
+
+Title: Indo Article Builder Pro by Pastiin Dulu
+Category: writing
+Teaser: Create an article of at least 700 words with a fairly detailed discussion, of course, the style of language like an Indonesian blog. Equipped with necessary headings, so it doesn't look like AI at all.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-27T03:13:06.2Z
+Help: 
+ID: 1805771235708375040
+PromptHint: ***Enter the topic in Indonesian language***
+PromptPackageID: 0
+
+Prompt:
+buat artikel panjang 2000 kata dengan pembahasan terperinci tentang "[PROMPT]" dengan bahasa [TARGETLANGUAGE] yang informatif berpendidikan namun santai. dilengkapi dengan heading tag dan pembahasan setiap heading minimal 3 paragraf. jangan menggunakan kata kunci yang berulang. gunakan kata ganti adalah dengan ialah, yaitu, yakni, merupakan. Buat juga judul artikel yang SEO friendly dan juga meta description 70 kata. gunakan kata ganti Anda dengan kamu. Sebelum heading pertama, buat 4 paragraf sebagai pembuka artikel.

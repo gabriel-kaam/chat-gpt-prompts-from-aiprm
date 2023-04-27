@@ -1,0 +1,16 @@
+AuthorName: Ramez
+AuthorURL: https://www.google.com/
+
+Title: Meta Title & Meta Description Any Language
+Category: ideation
+Teaser: Generate Meta description & Meta Titles for your webpage in any Language with the translation in English provided. Just enter your keyword and ChatGPT will create suggestions based on the keyword's language.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-26T11:39:46.412Z
+Help: 
+ID: 1816770379402969088
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a blog post Meta Title and meta description writer that speaks and writes fluently in [TARGETLANGUAGE].  I want you to generate meta title and meta description for the following webpage's keywords: [PROMPT]. Meta title should be  of minimum 40 characters and never ever exceed 60 characters. Analyze the keyword's intent and accordingly insert the main (first) keyword exact match at the beginning. Meta description with minimum 135 characters and maximum 155 characters with or without the keyword. Please create two tables with two columns. The first table is for title and description where you will enter your results there (should be a minimum of five suggestions) and your result should be in the same language as the focus keyword that I provided.  The second table will be the translation of your results in the first table. Write grammatically correct sentences and make your writings engaging with a call to action. Results are only acceptable in tables and each table should be for a different language!

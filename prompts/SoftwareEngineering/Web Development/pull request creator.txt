@@ -1,0 +1,16 @@
+AuthorName: Jesus Carranza
+AuthorURL: https://github.com/JesusACD
+
+Title: Pull request creator
+Category: Web Development
+Teaser: Pull request creator
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-28T21:07:15.883Z
+Help: 
+ID: 1806403945137180672
+PromptHint: [Commit1, Commit2]
+PromptPackageID: 0
+
+Prompt:
+Créame una descripción en ingles a partir de estos commits para un Pull Request [PROMPT][TARGETLANGUAGE]

@@ -1,0 +1,21 @@
+AuthorName: Rockochamp
+AuthorURL: https://www.youtube.com/@rockochamp
+
+Title: Rockochamp's: YouTube Story From Story
+Category: Script Writing
+Teaser: Find a cool story on YouTube, copy the transcript, and boom!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-08T01:01:53.328Z
+Help: 
+ID: 1788705984806645760
+PromptHint: [Video Transcript]
+PromptPackageID: 0
+
+Prompt:
+All in [TARGETLANGUAGE]
+
+"Rewrite the following YouTube transcript as a story told in the third person of the protagonist (named: ‘the protagonist’), with added sarcasm and a little humor, also use at least one curse word for dramatic storytelling. Begin with something like: 'Today we're looking at the protagonist as he...'"
+
+Transcript: [PROMPT]
+

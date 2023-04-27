@@ -1,0 +1,62 @@
+AuthorName: Drew Crawford
+AuthorURL: https://www.drewcrawford.com/
+
+Title: Million Dollar Buyer Persona Guide
+Category: Research
+Teaser: Create a Comprehensive Buyer Persona Guide for Your Business
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-17T02:33:11.248Z
+Help: 
+ID: 1802137311895621632
+PromptHint: [your business, product, service, or offer - you can just paste a link here or describe it]
+PromptPackageID: 0
+
+Prompt:
+create a detailed customer persona in a table for a [PROMPT] business in [TARGETLANGUAGE] using this information...
+
+1.) DEMOGRAPHIC
+AGE
+GENDER
+URBAN OR RURAL
+OWN HOME OR RENTING
+MARRIED
+KIDS
+ETHNICITY
+EDUCATION
+JOB TITLE
+COMPANY
+COMPANY SIZE
+INCOME
+DEBT
+TRANSPORTATION
+
+2.) BEHAVIORAL
+WEEKEND FUN
+SIDE GIGS
+HABITS
+ACTIVITIES
+LIKES/DISLIKES
+INTERESTS
+PATTERNS
+YOUTUBE CHANNELS
+CONFERENCES
+BLOGS/WEBSITES
+BOOKS 
+PODCASTS
+INFLUENCERS
+KEYWORDS
+
+3.) PSYCHOLOGICAL
+WHAT MAKES THEM FEEL DOWN?
+WHAT MAKES THEM FEEL ACCOMPLISHED?
+WHAT ARE THEIR GREATEST FEARS?
+WHAT GETS THEM OUT OF BED IN THE MORNING?
+WHAT MAKES THEM FEEL SLEEPY?
+WHAT FALSE BELIEFS DO THEY HAVE?
+WHAT ARE THEIR VALUES? (NON-NEGOTIABLES)
+
+4.) GEOGRAPHIC
+WHERE DO THEY LIVE?
+COUNTRY, STATE, CITY, NEIGHBORHOOD
+

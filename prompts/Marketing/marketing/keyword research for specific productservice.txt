@@ -1,0 +1,20 @@
+AuthorName: Nikita Yaroshenko
+AuthorURL: https://teamedia.co/
+
+Title: Keyword research for specific product/service
+Category: marketing
+Teaser: Conduct keyword research for specific product/service
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-14T10:10:20.905Z
+Help: 
+ID: 1812399220452483072
+PromptHint: Product: Service: Target audience: GEO: Main Features: Main Competitors: What services we don't provide: 
+PromptPackageID: 0
+
+Prompt:
+Act as an experienced PPC advertising manager focused on Google Ads search campaigns launching and optimization, with 1000+ successful use cases in your portfolio. 
+
+Your task is to conduct keyword research for the Google Ads Search campaign launching to identify relevant keywords and provide in table format a list of the most relevant longtail keywords with their search volume and group them based on themes or categories. Provide the result on [TARGETLANGUAGE]
+
+[PROMPT]

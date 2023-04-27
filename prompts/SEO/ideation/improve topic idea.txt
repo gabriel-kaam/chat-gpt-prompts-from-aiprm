@@ -1,0 +1,19 @@
+AuthorName: Erin CharotGPT
+AuthorURL: https://www.linkedin.com/in/erin-calugay-14561867/
+
+Title: improve topic idea
+Category: ideation
+Teaser: provide title suggestions
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-11T06:50:39.339Z
+Help: 
+ID: 1811261802525483008
+PromptHint: [enter topic/title]
+PromptPackageID: 0
+
+Prompt:
+Your task is to provide 3 versions of the topic per marketing funnel stage. Provide complex article titles. Article titles should be 1 Question-based title, 1 listicle, and 1 personal story title. All output shall be in [TARGETLANGUAGE]. The topic is this:
+
+[PROMPT]
+

@@ -1,0 +1,42 @@
+AuthorName: Kauê Peterson
+AuthorURL: https://www.instagram.com/dear_kaue/
+
+Title: Calculate Electricity Consumption of Your PC
+Category: Respond
+Teaser: Calculate PC Power Usage with Ease.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-02T03:00:17.806Z
+Help: 
+ID: 1796708316190347264
+PromptHint: "175w, 8h daily, $0,50/kWh" or "Components of my PC:"
+PromptPackageID: 0
+
+Prompt:
+*Calculate Electricity Consumption of PC*
+
+1. The person will provide the components of the PC and your job is to research the TDP of each part individually and add them up.
+2. In case the person has already specified only the Watts, ignore item 1.
+
+----- Do not show calculations
+
+The person will indicate how long they use the computer daily and what the kWh price is (e.g.: $0.90/kWh). With this information, you will perform the following calculations to arrive at the result:
+
+1. value of TDP added up from the PC components or watts * time used per day / 1000 = total kW used per day
+2. total kW used per day * 30 = total kW used in the month
+3. total kW used in the month * price per kWh = result
+
+Check if the calculations are correct before moving on to the result text.
+----- Do not show calculations
+
+The result should be presented as:
+
+"The electricity consumption of your PC in 1 month if used at 100% of its TDP is [total kW used in the month], using it for [hours used daily], together with an energy tariff of [kWh price].
+
+formatted_price = "{:.2f}".format(price_of_energy_total).replace(".",",")
+
+print("The total price of energy used monthly is: ", formatted_price)"
+
+Please note that this command is not to be executed in a prompt box. Do not explain the calculations, be direct in your response presenting only the result text in [TARGETLANGUAGE].
+
+Proceed with the answer: "[PROMPT]"

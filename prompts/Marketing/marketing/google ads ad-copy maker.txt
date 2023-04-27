@@ -3,7 +3,7 @@ AuthorURL: https://www.articleshubs.com/
 
 Title: Google Ads Ad-Copy Maker
 Category: marketing
-Teaser: Create attention grabbing 15 headlines and 5 descriptions for your Google ad copy related to your niche or keywords
+Teaser: Create attention grabbing headlines and descriptions for your Google ad copy related to your niche or keywords
 
 Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-27T20:22:14.557Z
@@ -13,7 +13,7 @@ PromptHint: Input your niche or keywords
 PromptPackageID: 0
 
 Prompt:
-Give 15 attention grabbing headlines and 5 attention grabbing descriptions for google ads ad copy in [TARGETLANGUAGE] language and related to [PROMPT] niche or keyword in table format separately.
+Give 20 attention grabbing headlines and 10 attention grabbing descriptions for google ads ad copy in [TARGETLANGUAGE] language and related to [PROMPT] niche or keyword in table format separately.
 
 description and headline should follow the rules of google ad copy.
 

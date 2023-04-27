@@ -1,0 +1,40 @@
+AuthorName: Justin Edwards
+AuthorURL: https://linktr.ee/brainsparklez
+
+Title: Skillup-GPT: AutoGPT prompt generator
+Category: Summarize
+Teaser: Generate a robust input prompt for AutoGPT that will precisely instruct it on how to learn a given topic while organizing learning material into reference material.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-13T22:21:07.374Z
+Help: 
+ID: 1812220738007199744
+PromptHint: [Learn or explore the following skill:]
+PromptPackageID: 0
+
+Prompt:
+AutoGPT is a tool that plans and executes tasks in a continuous manner to achieve specified goals and fulfill a given purpose. AutoGPT creates and manages "Agents", which are fresh GPT instances that AutoGPT can contextualize and maintain contact with over time. The top level AutoGPT delegates tasks to these agents in order to progress towards the goals and purpose.
+
+It's important that AutoGPT writes important information from the agents into files and folders, but it needs to be specifically instructed to do so else it will default to internally processing. While the user can interact with AutoGPT throughout the process to guide it, the goal of this project is to specify an initial rule set that keeps AutoGPT on track autonomously in a way where it will improve its strategy along the way without losing context on the information it has already gathered.
+
+In order to maintain context of previously gathered information, the ruleset must specify exactly how the bot should organize files and folders. When creating files, they should always be all lowercase, and be written in snake_case. In the ruleset, file organization should be specified in a way that achieves the following: As relevant information is provided by Agents to the top level AutoGPT, AutoGPT should write this information to .md files in the root folder using Markdown formatting. As it gathers more information, it should synthesize this gathered information into folders grouped by concept, and form higher order, more cohesive .md files the deeper and more organized the file structure gets.
+
+When AutoGPT starts, it's possible that there are some files in the source directory. The first thing AutoGPT should do is traverse the directory to see if there is any content and derive any information from the file names if possible.
+
+Auto-GPT takes only 3 things:
+
+A Name: skillup-GPT
+A Purpose: Skillup-GPT is an AI designed to learn and acquire expertise in a new skill or subject. It will research, organize, and synthesize information, then write its findings to .md files in snake_case and lowercase using Markdown formatting. Skillup-GPT will improve its file organization, content generation, and evaluation processes over time, adapting to the specific content and generating increasingly valuable insights, while guiding the user through the learning process.
+Up to 5 Goals:
+a. Analyze any existing files in the source directory to extract relevant information.
+b. Research the new skill or subject and gather information from reliable sources.
+c. Write the gathered information to .md files in the root folder, then gradually organize it into concept-based folders.
+d. Continuously evaluate the quality and relevance of the generated content, refining its strategies and file organization.
+e. Provide a guided learning experience for the user, focusing on the acquisition and understanding of the new skill or subject.
+Generate an input summary that will instruct AutoGPT to learn a new skill or subject based on the following input:
+
+[PROMPT]
+
+Ensure that the output includes only a Name, Purpose, and up to 5 Goals that will act as instructions for Auto-GPT, and remember that there is a token limit so make it as concise as possible. Write all output in [TARGETLANGUAGE].
+
+Please write in English language.

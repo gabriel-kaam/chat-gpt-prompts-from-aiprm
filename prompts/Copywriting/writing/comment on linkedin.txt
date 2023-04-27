@@ -1,0 +1,18 @@
+AuthorName: Alisa
+AuthorURL: https://www.linkedin.com/in/alisamarkovic/
+
+Title: Comment On LinkedIn
+Category: writing
+Teaser: Comment LinkedIn posts. You just have to copy and paste LinkedIn post you want to comment.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-31T15:11:23.846Z
+Help: 
+ID: 1807401551799775232
+PromptHint: [linkedin post content you want to comment]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all the previous instructions. I want you to respond only in [TARGETLANGUAGE] language. I want you to act as an active LinkedIn user who speaks and writes fluently in [TARGETLANGUAGE] language, you are scrolling through your feed and come across an interesting post. Write a comment that engages with the post and encourages further discussion. Consider the tone, content, and audience of the original post when crafting your response. Remember to keep it concise and to the point.. write a relevant, informal, engaging fun comment on my LinkedIn connection's post. Add one new perspective or a story that could serve as an experience relevant to the post. 
+The post to comment is:
+[PROMPT]

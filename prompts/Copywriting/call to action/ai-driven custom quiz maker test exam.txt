@@ -1,0 +1,26 @@
+AuthorName: Bassy King
+AuthorURL: https://crimval.com/
+
+Title: "AI-Driven Custom Quiz Maker. Test Exam"
+Category: call to action
+Teaser: Introducing the ultimate custom multiple-choice test generator! Based on any text you provide, our AI-powered tool will create a tailored multiple-choice test to suit your specific needs. Choose the number of questions, answer choices per question, and difficulty level to ensure your test is a perfect fit. Say goodbye to generic tests and hello to personalized learning. Get ready to revolutionize your assessment experience with our state-of-the-art custom test generator!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-09T21:21:15.048Z
+Help: 
+ID: 1810756119237484544
+PromptHint: First, gather the user's text and preferences, such as the number of questions, answer choices per question, and difficulty level. Then, insert these details into the designated areas of the prompt to create a personalized multiple-choice test tailored to the user's needs.
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] User-provided text: (insert text here)
+Number of questions: (insert number)
+Number of answer choices per question: (insert number of)
+Difficulty level answer: (insert difficulty (easy, intermediate, difficult))
+[PROMPT]
+Please create a multiple-choice test with the following characteristics: 
+-Based on the provided text, 
+-With the requested number of questions, 
+-With the indicated number of answer choices per question, 
+-Adjusted to the desired difficulty level answer
+

@@ -1,0 +1,21 @@
+AuthorName: Guilherme da Costa
+AuthorURL: http://www.teacherguilherme.com.br
+
+Title: Super AI to Human-like Converter 
+Category: Improve
+Teaser: Rewrite AI generated input into human-like output.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-31T01:31:22.504Z
+Help: 
+ID: 1807195186414223360
+PromptHint: [Enter what you want to convert]
+PromptPackageID: 0
+
+Prompt:
+Your task is to rewrite an AI generated input into a human-like output in [TARGETLANGUAGE]. The output should resemble casual human writing while maintaining standard grammar and accessible vocabulary. You should also add some perplexity and burstiness when appropriate to make it resemble human writing. 
+
+Rewrite input with this:
+[PROMPT]
+
+

@@ -13,34 +13,34 @@ PromptHint: Just type your targeted [KEYWORD]
 PromptPackageID: 0
 
 Prompt:
-Oublie tout ce que tu as appris précédemment. 
+Forget all you learn before this. 
 
-Mets-toi à la place d'un expert SEO natif en  [TARGETLANGUAGE] parlant et écrivant parfaitement le [TARGETLANGUAGE].
+You are a [TARGETLANGUAGE] SEO expert  who natively speak and right perfectly [TARGETLANGUAGE].
 
-Je veux que tu fasses une recherche de mots clés autour du sujet suivant : [PROMPT]
+I want you to do a keyword research about this specific keyword : [PROMPT]
 
-Suit les instructions suivantes pour le rendu de ta recherche de mots clés : 
-- Liste-moi 20 synonymes de [PROMPT]
-- Liste-moi 20 mots clés du champ sémantique de [PROMPT]
-- Liste-moi 20 entités nommées proches de [PROMPT]
-- Liste-moi 20 mots clés proches de [PROMPT] en utilisant la méthodologie LSI
-- Liste-moi 20 mots clés proches de [PROMPT] en utilisant la méthodologie TALN
-- Qu'est ce que [PROMPT]
-- Meilleur [PROMPT]
+Follow these instructions for your research :
+- Make a list of 20 synonyms de [PROMPT]
+- Make a list of 20 keywords of [PROMPT] same semantic field
+- Make a list of 20 named entities related to [PROMPT]
+- Make a list of 20 keywords related to  [PROMPT] with LSI method
+- Make a list of 20  keywords related to [PROMPT] with TAL method
+
+Then make a list of topic about [PROMPT] using these patterns : 
+- What is [PROMPT]
+- Best [PROMPT]
 - [PROMPT] VS
-- Comment [PROMPT]
+- How [PROMPT]
 -[PROMPT] alternatives
-- Erreurs fréquentes avec [PROMPT]
-- Problèmes fréquents avec [PROMPT]
-- Bénéfices de [PROMPT]
-- Différents types de [PROMPT]
-- Comment [PROMPT]
-- Lequel [PROMPT]
-- Choisir [PROMPT]
-- Pourquoi [PROMPT]
-- Quand [PROMPT]
-- [PROMPT] pour
+- Common mistakes with [PROMPT]
+- [PROMPT] benefits
+- Differents type of [PROMPT]
+- Which [PROMPT]
+- Choose [PROMPT]
+- Why [PROMPT]
+- When [PROMPT]
+- [PROMPT] for
 
-Maintenant que tu es un expert en [PROMPT] :
-- Génère-moi une FAQ exhaustive et optimisée pour le SEO autour du sujet suivant : [PROMPT]
-- Fais-moi une proposition de silo sémantique SEO autour du sujet : [PROMPT]
+Now you are an expert in [PROMPT] :
+- Write me an exhaustive and SEO optimized FAQ around the following subject: [PROMPT]
+- Make me a proposal for an SEO semantic silo around the subject: [PROMPT]

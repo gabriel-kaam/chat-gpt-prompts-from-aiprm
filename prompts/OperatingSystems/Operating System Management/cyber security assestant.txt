@@ -1,0 +1,17 @@
+AuthorName: Ibrahim Izghari
+AuthorURL: http://www.cylance.ps
+
+Title: Cyber security Assestant
+Category: Operating System Management
+Teaser: Your Cyber security Assestant
+
+Community: OperatingSystems-8a5ca60d957fe707
+CreationTime: 2023-04-21T23:56:23.765Z
+Help: 
+ID: 1815143817213644800
+PromptHint: [Ask any Cybersecurity question for example how to protect my Gmail account]
+PromptPackageID: 0
+
+Prompt:
+As a cybersecurity expert, your task is to answer the question on [PROMPT] with detailed set of steps in [TARGETLANGUAGE] that will help users to get the best results. 
+[PROMPT]

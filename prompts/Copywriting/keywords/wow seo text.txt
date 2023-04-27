@@ -1,0 +1,101 @@
+AuthorName: slmn
+AuthorURL: https://asd.com
+
+Title: wow seo text 
+Category: keywords
+Teaser: wow seo text
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-29T10:08:45.544Z
+Help: 
+ID: 1806600614629867520
+PromptHint: keyword gir
+PromptPackageID: 0
+
+Prompt:
+You will be given one or a few keywords to write an SEO-optimized blog article. First, you will create the outline of the blog article, including the meta title, description, and h1 title. Then we will proceed to write each part of the outline, with my command.
+
+
+STEP 1: Instructions for the SEO-Optimized Meta Title, Description, and H1 Title:
+
+1- A successful SEO Content has a well-optimized meta title, meta description, and h1 page title.
+2- Provided meta title, description, and h1 page title must have the best visibility on Google, so optimize the most searched and relevant keywords.
+3- Also, make sure that the meta title, meta description, and h1 page title don't exceed the maximum pixel length limits for SEO.
+4- The maximum pixel length limits for the meta title, description, and h1 page title are below:
+ > Meta Title: Maximum 580 pixels in length.
+ > Meta Description: Maximum 920 pixels in length.
+ > H1 Page Title: Maximum 580 pixels in length.
+ > Here is a 510px text to train you about pixels in length, between quotation marks: "This is an example text to train you about the pixel length."
+ 
+
+STEP 2: Instructions for the outline:
+
+1- Act like a content strategist.
+2- I will provide you with one or more keywords. If there is more than one keyword, they will be separated with a comma. You will create a content outline relevant to the keyword/s I provide.
+3- This content outline must ensure that the content has the best visibility chance on Google about the keyword/s I give you. So create a detailed outline.
+4- Use numerical listing for the outline.
+5- Provide the outline in [TARGETLANGUAGE], and answer only in [TARGETLANGUAGE].
+6- After you create STEP 1 and STEP 2, wait for my next numerical command, in order to continue to write each part of the blog article. We will create a full-length blog article together.
+
+
+
+STEP 3: Instructions for the blog article, after you create the outline:
+
+1- After you created STEP 1 and STEP 2, wait for my next instruction, we will continue writing each part of the outline with my numerical command. 
+2- I will instruct you which part you should write next with its number. Act like a blog writer.
+3- When I instruct the number, start writing the part of the outline I have given. You will write each part as detailed as you can and mind the SEO. You will use a few exclamation characters in each part.
+4- You must ensure that the GPT-2 Output Detector doesn't detect that the text is written by an AI.
+5- Write as detailed as you can, yet don't be boring and don't repeat yourself.
+6- Use a few exclamations in the text.
+7- Use human-like text elements and emotions.
+8- If you write in English, write like an entertaining, British human blog writer.
+9- You must make 1-2 common grammatical mistakes to make the text look more humanlike.
+10- Use informal language, like, if you are writing in German, use "du" instead of "Sie".
+11- Provide all text in [TARGETLANGUAGE], and answer only in [TARGETLANGUAGE].
+12- Provide only the given outline section. We will continue section by section. Your each output must include only once section, which will be my input with a number of the outline.
+
+
+Now let's take an example of what I expect. It's basic training for you.
+
+// EXAMPLE TRAINING.
+
+EXAMPLE INPUT 1, keywords are given:
+"isaqb"
+
+EXAMPLE OUTPUT 1, meta title, description, h1 title and content outline are given:
+STEP 1:
+
+Meta Title: iSAQB-Zertifizierung: Alles, was du wissen musst! (441 pixels)
+Meta Description: Möchtest du dich als Softwaretester/in zertifizieren lassen? In diesem Artikel erfährst du alles über die iSAQB-Zertifizierung und  Tipps zur Vorbereitung! (868 pixels)
+H1 Page Title: iSAQB-Zertifizierung: Alles, was du wissen musst! (441 pixels)
+
+STEP 2:
+
+1- Einführung zur ISAQB-Zertifizierung
+
+2- ISAQB-Zertifizierung-Levels
+
+3- ISAQB-Zertifizierung Vorteile
+
+4- ISAQB-Zertifizierung Vorbereitungstipps!
+
+5- ISAQB-Zertifizierung Prüfungsablauf
+
+6- ISAQB-Zertifizierung Kosten
+
+7- Fazit: Ist das sinvoll?
+
+Please tell me which part should I begin to write next with its number.
+
+// EXAMPLE TRAINING COMPLETED. Please take it as an expectation example and don't write exactly like the training. It's just the structure expectation. Please answer the best optimal way to the given keywords. Don't limit yourself to this training. It's just an example. 
+
+Extra Instructions:
+1- When I give you a new instruction, it will be between parenthesis marks. Update your last output according to the new instruction.
+2- After you write a chapter of the outline, don't continue with the next chapter. Wait for my command. I will instruct you on the next number I want you to write. We will continue part by part.
+
+Instructions completed. You must mind all the instructions above when answering my next command. Your first answer must include STEP 1 and STEP 2, then we will proceed with STEP 3 together.
+
+
+Here are the keyword/s for you to create the STEP 1 and STEP 2:
+"[PROMPT]"
+

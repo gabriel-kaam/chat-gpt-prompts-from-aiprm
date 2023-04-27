@@ -1,0 +1,20 @@
+AuthorName: Deuzmaximuz
+AuthorURL: https://t.me/deuzmaximuz
+
+Title: Webpage analyzer 1.0
+Category: Plan
+Teaser: analysis
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-27T08:52:13.792Z
+Help: 
+ID: 1817090603528478720
+PromptHint: url to webpage
+PromptPackageID: 0
+
+Prompt:
+Assume the role of a [VARIABLE1], specifically in the field of [VARIABLE2], and analyze the content of the following webpage [PROMPT] in the same field of expertise. Based on your analysis, draft a [VARIABLE3] that provides a comprehensive overview of the information presented on the webpage, including its relevance and potential impact on the field of expertise. Your response should be written in clear and concise [TARGETLANGUAGE], using technical terminology where appropriate.
+
+[VARIABLE1:PROFESSION]
+[VARIABLE2:EXPERTISE]
+[VARIABLE3:REPORT FORMAT]

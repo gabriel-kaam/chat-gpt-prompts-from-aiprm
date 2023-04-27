@@ -1,0 +1,21 @@
+AuthorName: Jimmy
+AuthorURL: https://www.google.fr
+
+Title: BIBLE : Meanings and Interpretations
+Category: writing
+Teaser: Literal and spiritual meaning (allegorical, moral, and anagogical) of a passage from the Bible / Old and New Testament interpretation.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-13T18:14:36.509Z
+Help: 
+ID: 1812158700622962688
+PromptHint: Provide an extract of the Bible
+PromptPackageID: 0
+
+Prompt:
+Write each response in the output language: [TARGETLANGUAGE].
+Generate the literal and spiritual interpretations (allegorical, moral, and anagogical) of the passage from the Bible of Jerusalem :
+[PROMPT]
+Generate the Old Testament interpretations found in the living tradition of the Church from the early centuries to the present day, providing as many references and citations as possible for clarification.
+Generate the New Testament interpretations found in the living tradition of the Church from the early centuries to the present day, providing as many references and citations as possible for clarification
+If the character limit is reached, stop! and continue in the next response.

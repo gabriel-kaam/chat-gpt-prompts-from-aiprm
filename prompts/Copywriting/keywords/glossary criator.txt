@@ -1,0 +1,19 @@
+AuthorName: Daniel Moreira
+AuthorURL: https://www.for-tech.co
+
+Title: Glossary criator
+Category: keywords
+Teaser: To create glossary for your own market
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-19T17:09:21.537Z
+Help: 
+ID: 1814316607233843200
+PromptHint: market
+PromptPackageID: 0
+
+Prompt:
+quero criar um artigo no formato para linkedin  que será um glossário sobre o [PROMPT]. comece com uma introdução com até 200 palavras falando sobre a importância de ter familiaridade com estes termos, seguisse para um glossário com 20 termos e sua explicação detalhada de cada termo com pelo menos 50 palavras, focado o público que não trabalha na área [PROMPT] e tem menor familiaridade com os termos técnicos. finalize com uma conclusão com até 200 palavras sobre como a empresa vai ajudar a tornar o mercado mais transparente e amigável
+
+[TARGETLANGUAGE]
+[PROMPT]

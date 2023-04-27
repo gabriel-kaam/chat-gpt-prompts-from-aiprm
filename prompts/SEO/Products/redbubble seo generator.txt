@@ -1,0 +1,22 @@
+AuthorName: Reydefine
+AuthorURL: https://reydefine.com
+
+Title: Redbubble SEO Generator
+Category: Products
+Teaser: Create titles, tags and description for a design or main keyword on Redbubble
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-28T18:26:50.344Z
+Help: 
+ID: 1806363572700442624
+PromptHint: Describe your design (appearance, elements, style, main keyword, theme... be specific).
+PromptPackageID: 0
+
+Prompt:
+Optimise my Redbubble listing for SEO visibility by following these steps:
+-Use the information in [PROMPT]
+-Write all output in [TARGETLANGUAGE]
+-Create a Traffic Grabbing Title that adheres to the Redbubble algorithm's relevancy, competition, and traffic guidelines.
+-Generate, based on BubbleSpider, 25 high-volume, relevant SEO tags to increase visibility and improve listing statistics separate them with a comma. Never use the tag "Redbubble" nor variations of it.
+-Craft a keyword-rich description with min lenght 250 and max. length 400 characters. Don't mention anything about design measures, physical products, paper or any other stuff in which might be printed. Focus on the design and the theme.
+-Don't give me any aditional info or notes. Please don't use ""

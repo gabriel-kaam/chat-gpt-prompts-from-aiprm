@@ -1,0 +1,16 @@
+AuthorName: Joel Hauer
+AuthorURL: https://au.linkedin.com/in/joelhauer
+
+Title: Socio-economic specific marketing messaging
+Category: Positioning
+Teaser: Create a socio-economic trend specifc marketing messaging. Give the country, year & business description.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-12T11:18:34.498Z
+Help: 
+ID: 1811691614494777344
+PromptHint: [Country], [Year], [Business description]
+PromptPackageID: 0
+
+Prompt:
+In [TARGETLANGUAGE] Considering the diverse aspects of the [PROMPT] psyche in [PROMPT], including social, cultural, environmental, economic, technological, and political factors, develop tailored marketing messages to drive increased awareness and sales for a [PROMPT], In your answer justify your messaging based on key events that affect the psyche of the time:

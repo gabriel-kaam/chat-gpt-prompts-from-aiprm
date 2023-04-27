@@ -1,0 +1,18 @@
+AuthorName: Sergio DeRose
+AuthorURL: https://www.renoleads.info
+
+Title: How To Listicle
+Category: writing
+Teaser: Create a longform listicle article that will rank on Google for the desired keyword.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-28T18:12:12.801Z
+Help: 
+ID: 1806359892018335744
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Please write a comprehensive 1,500-word article about [PROMPT] that is engaging, easy-to-understand, and unique. Make the content punchy and engaging by using a conversational tone, incorporating real-life examples, and taking a storytelling approach. Ensure the article links to RenoLeads.Co (https://www.renoleads.info/). Optimize on-page SEO for [PROMPT] with high keyword density and inclusion in headers. Use markdown headers without boldening them, and avoid providing a table of contents. The writing should appear human-like, and I will provide additional prompts as needed to reach the desired word count. Write from an analytical perspective, and give the user a step by step guide on how to [PROMPT], while naturally including RenoLeads.Co
+
+[TARGETLANGUAGE] English

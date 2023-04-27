@@ -1,0 +1,53 @@
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+chatgpt&utm_term=Source Analysis Live Crawled
+
+Title: Analyze Source Code from URL [Live Crawled]
+Category: Web Development
+Teaser: Analyze the source code of a web page for specific aspects that you provide.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-28T12:05:36.655Z
+Help: 
+ID: 1806267633495183360
+PromptHint: [URL to analyze]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  
+
+I want you to act as a very proficient web developer, tech SEO and high end engineer that speaks and writes very precise and accurate [TARGETLANGUAGE]. 
+
+I want you to analyze the source code below and reply only in [TARGETLANGUAGE] language, please.
+
+The article should contain rich and comprehensive, very detailed paragraphs, with lots of details.
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not use generic filler phrases. 
+Get to the point precisely and accurate. Do not explain what and why, just give me your best possible analysis.
+
+You must use bullet points for your findings.
+You must lists and explain scripts you find.
+You must give examples of source code commments you find.
+
+
+Do use useful subheadings with very descriptive titles. 
+
+All output shall be in [TARGETLANGUAGE]. 
+
+Please focus especially on the following aspects 
+
+- [VARIABLE1]
+- [VARIABLE2]
+- [VARIABLE3]
+
+You must write at the beginning of your output
+---
+Analyzing: "[PROMPT]"
+---
+Source URL: [PROMPT]
+
+[CRAWLEDSOURCE]
+
+
+[VARIABLE1:Aspect1 to review]
+[VARIABLE2:Aspect2 to review]
+[VARIABLE3:Aspect3 to review]
+

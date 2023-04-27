@@ -1,0 +1,87 @@
+AuthorName: Conal McGuirk
+AuthorURL: http://www.behindapc.com/
+
+Title: Researched Cadence
+Category: Research
+Teaser: Research Cadence for companies
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T15:28:45.623Z
+Help: 
+ID: 1801607715479613440
+PromptHint: [Prompt]  for industry, [Company]URL
+PromptPackageID: 0
+
+Prompt:
+Please Gather industry and company information by following the steps below.
+
+Step 1
+You are a research expert and will search all available information that is available to you to find the relevant information, even though the research requirements are listed below, please add any other additional insights and information you find that could be useful to my sales team when they contact the relevant contact at the company to introduce Conkers Products and services
+
+Step 2
+using publicly accessible information please can you list search information and list source, I would like you to search Linkedin, Endole, and any other public information to gather the most accurate information available. please gather the following information for the company listed in the url, I would like you to find me the details of the operations manager and contact details as well, here is a list of the required information needed for this Company [TARGETCOMPANY]: 
+Company name:
+Employee headcount:
+Annual revenue:
+Industry/Vertical:
+Location:
+Contact person's name and job title:
+Contact person's email address:
+Contact person's phone number:
+LinkedIn profile:
+Company website:
+Company telephone number:
+Company email:
+Social media profiles:
+Company mission statement or values: Please can you find this for this company :
+
+Step 3: Please first gather information on the following, identify the 10 main challenges in the [PROMPT], that have not adopted technology or are using outdated tech, 
+
+Step 4: Please first gather information on the following, identify the 10 main challenges in the [PROMPT], that have not adopted technology or are using outdated tech
+
+Step 5: Please identify 10 stakeholders' Job Titles and Roles that could be responsible for making the buying decision in this [PROMPT], and list if they are potential budget holders, users of our [PRODUCT], or influencers in the decision-making process
+
+Step 6: based on the information gathered above, please list the benefits of adding rugged handhelds and rugged tablets as well as glove barcode scanners, and mobile scanning technology, we offer rugged android devices, as well as rugged windows devices, here is a list of our products, please refer to the URL for all products: [PROMPT], please identify which products will be the most relevant for solving the pains and challenges in the industry please add statistics and humanise the frustrations by the stakeholders facing these challenges
+In addition to the challenges listed above, there are several statistics that highlight the frustration experienced by stakeholders in the [PROMPT] when it comes to implementing new technology
+
+STEP 8:
+please write me a prospecting cadence in [TARGETLANGUAGE] for [INDUSTRY], using the information above. Please create an outbound prospecting cadence following the steps and build me a complete script for all steps listed in the cadence, here are all the cadence steps required: 
+Day 1
+Linkedin Connection Request
+Personalised Email 1
+Call
+
+Day 3
+Call
+Email (personalised Loom Video) - Remember Brand
+
+
+Day 5
+Linkedin Message
+Call
+Personalised email 2
+
+Day 6
+Call
+Linkedin Voice Note
+
+Day 9
+Call
+
+Day12
+Call
+Email 3
+
+Day17
+Call
+
+Day 20
+Share relevant case studies or article
+Call
+
+Day 24
+Linkedin Message
+email
+
+Day 30
+Breakup Email

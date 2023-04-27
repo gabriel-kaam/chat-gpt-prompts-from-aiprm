@@ -1,0 +1,31 @@
+AuthorName: Moonpixel Creative
+AuthorURL: https://www.moonpixel.co/
+
+Title: Whimsical Style Sparks
+Category: writing
+Teaser: What do you want 'Whimsified' today? Write 4 small paragraphs in a whimsical and creative style on anything you want. Go on, be whimsical!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-27T00:41:05.844Z
+Help: 
+ID: 1795586121925910528
+PromptHint: What topic do you want whimsicalized? 
+PromptPackageID: 0
+
+Prompt:
+Write a 3-4 sentence paragraph in [TARGETLANGUAGE] using a whimsical and creative style about the following:
+
+[PROMPT]
+
+For each paragraph, write a creative title, and a unique subtitle. 
+Do not use any numerical or bullet points. 
+Add 3 hashtags after each paragraph (on a new line) that are fun and creative.
+
+Do not put things in quotes. 
+
+Repeat this process for a total of 5 times. 
+
+Format everything in Markdown as follows:
+## for the title
+### for the subtitle
+**bold text** for the hashtags

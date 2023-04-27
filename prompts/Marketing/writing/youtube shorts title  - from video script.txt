@@ -1,0 +1,26 @@
+AuthorName: Tai
+AuthorURL: htpps://www.lutare.com
+
+Title: Youtube Shorts title  - from video script
+Category: writing
+Teaser: creat youtube shorts title from a video script
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-29T15:11:34.535Z
+Help: 
+ID: 1806676820901486592
+PromptHint: [script here]
+PromptPackageID: 0
+
+Prompt:
+create titles for youtube shorts videos, from this script from videos [PROMPT]
+
+the titles should contain no more than 30 characters, counting spaces.
+
+In addition, they should arouse curiosity, and should be complementary to what is being said in the video.
+
+The titles must have a good hook to make people want to watch the video to find out what the curious title is about.
+
+Each new sentence that is submitted should be taken with a new script, for a new title.
+
+All output shall be in [TARGETLANGUAGE].

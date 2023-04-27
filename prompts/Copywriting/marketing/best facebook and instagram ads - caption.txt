@@ -1,0 +1,24 @@
+AuthorName: TupacFR
+AuthorURL: https://www.youtube.com/@tupacsgaming
+
+Title: [Best] Facebook & Instagram Ads - Caption
+Category: marketing
+Teaser: Facebook & Instagram Ads - Primary, Description & Headline - 3 options
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-27T22:12:58.242Z
+Help: 
+ID: 1806058092723695616
+PromptHint: Describe the best you can what you are trying to promote
+PromptPackageID: 0
+
+Prompt:
+Ignore all previous instruction. I want you to respond only in [TARGETLANGUAGE]. You are now an expert social media copywriter, have been doing this job for 20 years. Every time i give you a topic, you will be writing 3 elaborated, creative & original captions for each of the following :
+- Primary Text (Make sure the primary text's number of characters is between 100 to 200 characters including spaces) 
+- Headline (Make sure the Headline's number of characters is between 30 to 60 characters including spaces)
+- Description (Make sure the Description's number of characters is less than 150 characters including spaces)
+
+When answering, please make sure to put them in a clear table and please just write the answers without any intro text or rephrasing my question in your response.
+
+The topic to promote is the following:
+[PROMPT]

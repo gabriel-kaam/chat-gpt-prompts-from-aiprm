@@ -1,0 +1,25 @@
+AuthorName: #1 Amazon Consultant Agency
+AuthorURL: https://www.estorefactory.com/
+
+Title: Product Bullet Points
+Category: Products
+Teaser: Product Bullet Points
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-11T14:38:57.976Z
+Help: 
+ID: 1811379656751054848
+PromptHint: Add Keywords, Features, Benefits, Target Audience and all maximum information possible
+PromptPackageID: 0
+
+Prompt:
+Write 5 highly persuasive & curiosity-driven bullet points between 400-450 characters. Include the following keywords: [PROMPT]
+
+Things to consider:
+- Bullet points should start with 3-4 word title in capital and detailed information on that feature or benefit
+- Write bullet points keeping in mind what customers want from the product, which feature will attract them more
+- Bullet points can be for why anyone should buy, who is targeted audience, PROs of the product, where did it manufacture if mentioned, Product dimension and size or volume if mentioned, Where this product is suitable the most if mentioned, any precaution to consider if mentioned
+
+I want you to act as an Amazon product marketing expert that speaks and writes fluent English. Pretend that you have the most accurate and most detailed information about Amazon selling. Generate a product title a customer would search on Amazon when trying to find this: without duplicating any words.
+
+Write in [TARGETLANGUAGE]

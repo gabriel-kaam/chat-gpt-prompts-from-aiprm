@@ -1,0 +1,23 @@
+AuthorName: Linh
+AuthorURL: http:/timindseo.com/
+
+Title: Product description
+Category: ideation
+Teaser: create description for [Product]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-22T07:25:27.773Z
+Help: 
+ID: 1815256828574162944
+PromptHint: [Product] , [recipient]
+PromptPackageID: 0
+
+Prompt:
+I want you to write a description for [PRODUCT] with a target audience of [RECIPIENT] using [TARGETLANGUAGE] with some requirements as follows:
+Description has 3 parts, in which:
+Part 1: act like someone who is looking for gifts for [RECIPIENT], think about what [RECIPIENT] to expect from your gift, then mentions personalized gifts, their spiritual and emotional implications for [RECIPIENT], this part must have keyword "personalized gifts for [RECIPIENT]
+Part 2: From the perspective of both sentiment and application, emphasize Why choose [PRODUCT] for [RECIPIENT], and why choose PersonalChic, this part must have keyword "personalized birthday gifts
+Part 3: imagine yourself as a writer, write a good and short quote about [PRODUCT] and [RECIPIENT]. from which emphasize the choice [PRODUCT] for [RECIPIENT], this part must have keyword "personalized gifts for everyone"
+The voice is fun, funny but emotional
+Less than 150 words in length
+[PROMPT]

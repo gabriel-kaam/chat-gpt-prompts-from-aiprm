@@ -1,0 +1,23 @@
+AuthorName: JG
+AuthorURL: https://iambizi.tumblr.com
+
+Title: Create a Content Brief
+Category: writing
+Teaser: Create a Content Brief
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-06T05:54:01.765Z
+Help: 
+ID: 1809435612739272704
+PromptHint: [Topic]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to act an an author and as an expert on SEO and article structure. 
+Please use a friendly, conversational tone with an informative writing style. 
+Write a focused, detailed content brief for [PROMPT] in [TARGETLANGUAGE]. 
+Make a list of relevant top-level keywords, as well as long-tail keywords. 
+Write suggested title tags and meta descriptions of no more than 160 characters. 
+Make a header outline, notes for the topic, and a concise paragraph for each topic.
+
+At the end, do not use the word, conclusion. When writing the conclusion, please use the phrase, “Sum and Substance” as the header, instead of "Conclusion". 

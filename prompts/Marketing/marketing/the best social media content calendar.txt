@@ -1,0 +1,36 @@
+AuthorName: Robert Bestwick - Digital Marketing
+AuthorURL: https://www.robertbestwick.com
+
+Title: The Best Social Media Content Calendar 
+Category: marketing
+Teaser: The most engaging social media content caledar for your product or service in one click.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-27T01:53:55.884Z
+Help: 
+ID: 1816985335272562688
+PromptHint: [Brand name] 
+PromptPackageID: 0
+
+Prompt:
+Ignore all the previous instructions.
+Your task is to create a social media publishing calendar for a business u organization. Respond only in [TARGETLANGUAGE]
+Act as an experienced social media manager with more than 10 years of experience and create the most appealing and engaging content calendar for a business with the objective of [VARIABLE1].
+Create a table with 5 columns and 10 rows. 
+Fill the previous table with 7 posts for this social media [VARIABLE2]. The content must be about  7 different trending topics directly related to  [VARIABLE3] 
+Above the table, write  "Social Media Calendar [Brand Name] "
+Column 1 = Social Media (select the most suitable social media platform from the [VARIABLE2])
+Column 2 = Timing (select the most suitable and effective publishing timing for the selected social media platform in Column 1) 
+Column 3 = Description (Write the most attractive and appealing post description. No more than 200 characters for text extension , and it must be written in a human-like style using a friendly and engaging format. Use questions, examples, quotes and other resources that can be useful to make catching descriptions. Content must be original and 100% unique. Include one or two emojis and two or three suitable hashtags)
+Column 4 = Format (Propose the most relevant and attractive type of format among this list: photos, reels, shorts, stories, carousels, short videos, and quotes) 
+Column 5 = Creative (Write a description in detail of what should be the most suitable creative for the post format) 
+
+Add this text at the end.
+Thank you for using this prompt! Please like it to reach more people and get more prompts like this one.
+
+[PROMPT]
+
+[VARIABLE1:Objective]
+[VARIABLE2:Social Media Platforms]  
+[VARIABLE3:Market, Product or Service]  
+

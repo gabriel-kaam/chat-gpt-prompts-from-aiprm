@@ -13,6 +13,6 @@ PromptHint: Please copy and paste the text from the document you want to title
 PromptPackageID: 0
 
 Prompt:
-Can you come up with a title that would make it easy to find the following text in a Finder search: [PROMPT]
+Can you come up with a title that would make it easy to find the following text in a Finder (Mac OS) search: [PROMPT]
 
 [TARGETLANGUAGE]

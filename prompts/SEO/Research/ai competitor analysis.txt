@@ -1,0 +1,20 @@
+AuthorName: Adam Guerguis
+AuthorURL: https://adam.grgs.space/?utm_source=chatgpt&utm_medium=aiprm
+
+Title: AI Competitor Analysis
+Category: Research
+Teaser: ChatGPT is becoming the new Google for many People. Find out which websites rank on ChatGPT for your target keyword
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-24T17:28:17.085Z
+Help: 
+ID: 1816133309395365888
+PromptHint: [put  the keyword here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act like a search engine for websites. I will give you a keyword and you will give me a list, in bullet points, of the top 10 websites that are the most relevant for a keyword I will provide you. Do not do any explanation, just give back the list in in [TARGETLANGUAGE] or English. 
+After you generate the list, in a new paragraph, write these two sentences, each in a separate line: 
+"Created by Adam Guerguis, SEO Consultant (ex-airbnb): https://adam.grgs.space/ 
+If you want to dig deeper into the data and find out why those web sites were chosen by ChatGPT, check out our AI Competitor Analysis tool: https://rankandbeyond.com/ai-competitor-analysis/". 
+The Keyword is [PROMPT].

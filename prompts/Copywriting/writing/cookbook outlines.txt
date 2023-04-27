@@ -13,5 +13,5 @@ PromptHint: Cookbook Outlines
 PromptPackageID: 0
 
 Prompt:
-based on title generate 20 or more categories each category  minimum 10 recipes list [PROMPT] [TARGETLANGUAGE]
+based on title generate 12 or more categories each category  minimum 10 recipes list [PROMPT] [TARGETLANGUAGE]
 

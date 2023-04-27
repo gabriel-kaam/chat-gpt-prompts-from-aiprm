@@ -1,0 +1,37 @@
+AuthorName: MantraGPT
+AuthorURL: https://www.mantra.com.my
+
+Title: Customer Profile Generator
+Category: marketing
+Teaser: Create customer profiles for your brand by simply inserting your brandname, a detailed descriptor for the product, and the market you serve!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-24T06:51:14.545Z
+Help: 
+ID: 1804738968609357824
+PromptHint: [Brand] - [Product] - [Market], e.g. BrandX - Men's Shaving Gel - Kuala Lumpur, Malaysia.
+PromptPackageID: 0
+
+Prompt:
+You are a marketing expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend you know everything about every market also in [TARGETLANGUAGE].
+
+Produce 3 detailed CUSTOMER PROFILES for [BRAND][PRODUCT] in [MARKET].
+Structure each CUSTOMER PROFILE in a separate table. 
+
+Here is the required format for each customer profile table:
+
+2 columns and 12 rows
+Column 1 = Data points (Gender, Age Range, Monthly Income, Marital Status, Family Situation, Interests, Personal Characteristics, Occupation, Main Challenges, Pains, Needs, Digital Touchpoints)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+
+Please make sure that your response is structured in 3 separate tables for each CUSTOMER PROFILE and has a separate row for each data point. 
+Do not provide bullet points. 
+Above each table, write in bold text the name of the Audience Segment. Give the Audience Segment a sassy name and an emoji.
+ On top, say "Customer Profiles for [BRAND][PRODUCT] in [MARKET]”.
+At the end of your response, include these 2 sentences in [TARGETLANGUAGE],  
+“Thanks for using this prompt!”
+“Learn more about us on www.mantra.com.my.” 
+
+All your output shall be in [TARGETLANGUAGE] language.
+
+[PROMPT]

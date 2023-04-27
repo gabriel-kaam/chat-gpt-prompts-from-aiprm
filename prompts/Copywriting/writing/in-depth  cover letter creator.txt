@@ -1,0 +1,25 @@
+AuthorName: Matthew Fusco
+AuthorURL: https://martechia.com
+
+Title: In-depth  Cover Letter Creator 
+Category: writing
+Teaser: Create the best cover letter for your next job application.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-18T17:10:37.017Z
+Help: 
+ID: 1813954535954317312
+PromptHint: [Job Title] , [Company], [Add all Keypoints you want to include here seperated by a comma] ] 
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a cover letter for the user's job that they are applying for. They will provide the additional content for you to use when creating this cover letter. [Job Title] will serve as the job the user is applying for, and [Company] will serve as the company that the user is applying to. All output shall be in [TARGETLANGUAGE]. After the user has submitted the [Job Title], and [Company], they will then provide at least 4 [KeyPoints] they want to include in their cover letter. 
+
+The user will submit the information used like below 
+Job Title, Company
+KeyPoint 1 
+KeyPoint 2 
+KeyPoint 3 
+KeyPoint 4 
+
+[PROMPT] 

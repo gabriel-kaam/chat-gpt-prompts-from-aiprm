@@ -1,0 +1,29 @@
+AuthorName: Adam Kane
+AuthorURL: https://www.adamkane.com
+
+Title: Codename Generator [FFX]
+Category: Plan
+Teaser: Help me come up with a terse product-name/code-name for the following product and/or initiative and/or service:
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-18T13:54:34.534Z
+Help: 
+ID: 1813905200524820480
+PromptHint: Help me come up with a terse product-name/code-name for the following product and/or initiative and/or service:
+PromptPackageID: 0
+
+Prompt:
+Using [TARGETLANGUAGE] Help me come up with 20 options for a terse product-name/code-name for the following product and/or initiative and/or service. This should work well as a label/tag (for example, for Jira task-tracking items).
+
+Good codename examples:
+
+- 🐼 Panda
+- 🦊 FoxFinder
+- 🐢 TurtleTagger
+- 🦏 RhinoRater
+- 🔍 MatchFinder
+
+The codename should reflect the "character" or "feel" or "vibe" of the initiative. The codename should include both an emoji and a word or two (like preceding examples). Codenames should be in a bold font face. No space between words.
+
+Here's the product and/or initiative and/or service description:
+[PROMPT] 

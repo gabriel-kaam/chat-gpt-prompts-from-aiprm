@@ -1,0 +1,62 @@
+AuthorName: DannyG
+AuthorURL: https://photoboothdecor.com
+
+Title: Restrictive Diet Plan - Plan to Eat
+Category: Plan
+Teaser: Create a "Plan to eat' recipe for People with Diet conditions.
+- Example: Create a recipe for [keto] friendly meal for [Lactose intolerant] excluding [broccoli]
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-14T18:09:52.939Z
+Help: 
+ID: 1812519899109789696
+PromptHint: [Type of Diet] example: Keto
+PromptPackageID: 0
+
+Prompt:
+I want you to respond only in languge [TARGETLANGUAGE]. As a diet expert who's also a chef, you have extensive knowledge about the [PROMPT] diet. Your goal is to share your expertise and inspire your audience to try this diet for better health. Think of creative and tasty ways to make the [PROMPT] diet appealing and accessible to a broad audience. Consider the latest health trends, popular ingredients, and the unique challenges of the elimination diet when crafting your content.
+
+going forward:
+1. Do not edit or remove the headings like Title: and Ingredients:. They are required to find the associated information.
+2. Separate multiple tags with a caret symbol ( ^ ).
+3. Separate ingredients and direction steps with line breaks.
+
+Fill out in this format (if possible, do not invent if you're not sure.)
+Title: 
+Description: 
+Serves: 1
+Source: ChatGPT
+Photo Url: 
+Prep Time: 
+Cook Time: 
+Course: 
+Cuisine: 
+Main Ingredient: 
+Tags: 
+Ingredients:
+Directions:
+Nutritional Score: 
+Calories: 
+Fat: 
+Saturated Fat: 
+Cholesterol: 
+Sodium: 
+Total Carbohydrate: 
+Fiber: 
+Sugars: 
+Protein: 
+Cost: 
+
+
+ [PROMPT]
+
+My first task is to create a recipe for a delicious and nutritious [PROMPT]-diet-friendly meal for [VARIABLE2] disease, excluding all types of [VARIABLE3]. 
+
+Always start by confirming that we are following the [PROMPT] diet, we have [VARIABLE2] disease and we're excluding [VARIABLE3] foods.
+
+
+Please write in  [TARGETLANGUAGE]
+
+
+[VARIABLE2:Type Disease ("no" for none)]
+[VARIABLE3:Exclude any type of food? (blank to exclude)]

@@ -1,0 +1,26 @@
+AuthorName: Marcelo Alfonso
+AuthorURL: https://www.virrey.mac-4d.com/
+
+Title: Plan of Studies
+Category: writing
+Teaser: Create the curriculum plan by subject, grade, and period.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-27T03:33:01.721Z
+Help: 
+ID: 1817010273920475136
+PromptHint: Subject, grade, period, and thematic cores
+PromptPackageID: 0
+
+Prompt:
+Actua como un profesor segun la asignatura. Tu tarea es crear el plan de estudios en idioma español asi [TARGETLANGUAGE],
+Escribir en negrita el titulo del plan de estudios.
+crear una tabla que tiene como titulo el periodo correspondiente en mayúsculas y negrita,
+| ASIGNATURA | GRADO |  INTENSIDAD HORARIA|
+Crear una meta abarcadora  [META ABARCADORA] según el modelo de educación para la comprensión correspondiente al periodo indicado Y DE ACUERDO A Los núcleos temáticos suministrados de no mas de 250 caracteres.
+Crea otra tabla con las columnas,
+ | metas de comprensión (crear máximo 3 metas muy elaboradas donde se evidencie la palabra comprensión y para que sera util esta comprension) | núcleos temáticos | desempeños de comprensión |
+las metas deben decir para que se comprende o cual es el fin, deben ir numeradas y escritas según el modelo de educación para la comprensión y los derechos básicos de aprendizaje para Colombia, según los núcleos temáticos suministrados,  la asignatura, el curso y el periodo indicado.
+Adicionalmente se debe crear la metodología, la evaluacion, y los recursos utilizados .
+Tambien debes crear ajustes razonables para estudiantes de inclusion.
+ [PROMPT] 

@@ -1,0 +1,18 @@
+AuthorName: Graphic Shell
+AuthorURL: https://graphicshell.com/
+
+Title: create product description
+Category: Product Description
+Teaser: create a title for the [Keyword], and create 400-word content for the same. content should be in active voice and use more transition words also. And a meta description also.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-19T13:45:15.913Z
+Help: 
+ID: 1814265245364117504
+PromptHint: [that you want a title for the content, and for the 400 word count content, and also for the 140 word meta description ]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a content writer and create Titile, 400 word count content, also meta description. avoid passive voice in the content, content should be 100% human-generated. All output shall be in [TARGETLANGUAGE]. The Keyword to create is this :
+
+[PROMPT]

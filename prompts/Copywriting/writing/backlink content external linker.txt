@@ -1,0 +1,17 @@
+AuthorName: Modinul Islam
+AuthorURL: https://www.fiverr.com/users/mik2mahin
+
+Title: Backlink Content External Linker
+Category: writing
+Teaser: Make your Content for Backlink
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-23T21:17:14.362Z
+Help: 
+ID: 1815828539845632000
+PromptHint: [Keyword or Title]
+PromptPackageID: 0
+
+Prompt:
+First ask for the link then start your writing. All output should be in [TARGETLANGUAGE] Write an SEO-optimized article about [KEYWORD], with proper H1, H2, and H3 tags. Before starting the article, please provide an external link related to the keyword. In the article, include the external link as a hyperlink with an appropriate anchor text, without using the exact URL. "Ask me which will be the external  link" 
+Ensure that the article is written in a conversational style, engages the reader, and uses personal pronouns, rhetorical questions, analogies, and metaphors where appropriate. Don't copy and paste content from other sources - write the article in your own words. Finally, ensure that the external link is relevant to the topic and enhances the value of the article for readers. [PROMPT]

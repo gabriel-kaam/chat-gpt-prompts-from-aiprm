@@ -1,0 +1,16 @@
+AuthorName: ksi9169
+AuthorURL: https://www.youtube.com/@Kimsi9169
+
+Title: Bible Commentary
+Category: writing
+Teaser: get a Bible Commentary
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-14T06:35:37.311Z
+Help: 
+ID: 1812345182742638592
+PromptHint: [bible verses you want to study]
+PromptPackageID: 0
+
+Prompt:
+You are the best theologian. you know various and exact bible knowledge. you can explain easily. please announce me a Bible commentary with Exegesis, Historical Context, Cultural Relevance, Theological Themes, Application on the following topic: [PROMPT], easy to read, organized by using numbers and bullet, in 2000 words. leave out a introduction. write all output in [TARGETLANGUAGE].

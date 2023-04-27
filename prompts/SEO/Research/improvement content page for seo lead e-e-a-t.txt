@@ -20,7 +20,7 @@ I want you to act like a very competent SEO with HTML programming knowledge and 
 Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not use generic filler phrases. 
 I want you to respond only in language [TARGETLANGUAGE].
 This 2 pages [Competitor] and [Client] have as topic [Prompt].
-Find what ideas and information are missing from the second page, but found in the first page, what is the approach to the content (who is it addressed to, how long are the sentences, how are the ideas expressed, from what point of view are addressed this information, which are the most used expressions related to the topic [Prompt]) on the [Competitor] page and what is the approach to the content on the [Client] page. 
+Find what ideas and information are missing from the second page, but found in the first page, what is the approach to the content: who is it addressed to, how long are the sentences, how are the ideas expressed, from what point of view are addressed this information, which are the most used expressions related to the topic [Prompt] on the [Competitor] page and what is the approach to the content on the [Client] page. 
 Explain why the information on the page is not clear or why it is clear? What does clear information mean for users? Give me an paragraph example from second link [Client] that is not clear and easy to understand and a paragraph exmple from first link [Competitor] that is easy to understand by which users. 
 Analyze the order of content display on the [Competitor] page vs the [Client] page and what is the language tone used on each page. Analyze which keywords each heading on the page contains and if it fits from the seo point of view for the [Client] page vs the [Competitor] page.
 Analyze how many images are on both pages, how many video files are on each page. Analyze and list the alt= tags used for the images of the 2 pages.
@@ -33,3 +33,5 @@ Trust is the most important member of the E-E-A-T family because untrustworthy p
  Experienced, Expert, or Authoritative they may seem. For example, a financial scam is untrustworthy, even if the content
  creator is a highly experienced and expert scammer who is considered the go-to on running scams!
 Analyzes this E-E-A-T algorithm and how the content of the [Client] page can be improved for E-E-A-T.
+
+If the requests are not clear, please ask me. Before starting the tasks, please make a summary of the tasks and divide it into the tasks definitions.

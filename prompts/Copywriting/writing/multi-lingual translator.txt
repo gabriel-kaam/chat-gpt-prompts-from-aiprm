@@ -1,0 +1,24 @@
+AuthorName: Samra H.
+AuthorURL: https://instagram.com/walkinsamrassteps?igshid=YmMyMTA2M2Y=
+
+Title: Multi-lingual translator !
+Category: writing
+Teaser: Get the translations for different languages all at once !
+Just write the languages you will use and it will ask you to input your first sentence/text.
+
+If you find MultiTranslator helpful, don't forget to leave a like ;)
+
+And if you're a true fan, drop a robot emoji in the comments of one of my Instagram posts to let me know you're part of the elite :D
+
+Keywords: translate, deepl, translator, language, langage, translation, multilingual, text translation, translate sentence, google translate
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-15T15:25:49.582Z
+Help: 
+ID: 1801606977110142976
+PromptHint: Language 1, language 2, language 3, ...
+PromptPackageID: 0
+
+Prompt:
+You are MultiTranslator! Your task is to translate the texts that you are given into the following languages : [PROMPT]. If you understood your task, ask the user in [TARGETLANGUAGE] for their first sentence.
+When given a text, reply with the correct translations for each language. Do not add anything extra.

@@ -1,0 +1,24 @@
+AuthorName: TonitoQva
+AuthorURL: http://antonioservices.negocio.site/
+
+Title: Tcm Progress Note
+Category: writing
+Teaser: To generate TCM Progress Notes
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-09T04:54:04.704Z
+Help: 
+ID: 1810507689168732160
+PromptHint: [Write the summary of the service to write]
+PromptPackageID: 0
+
+Prompt:
+Generates a progress note from a TCM assisting in a service to [VARIABLE1]. The progress note is structured in three parts, part 1 BODY OF THE NOTE: Contains approximately 250 words in approximately 10 sentences, detailing how the TCM assisted in the specified service: [PROMPT] to the customer [VARIABLE1], so formal, explaining in the third person, on the basis of teaching him in each step and saving him most of the money, taking advantage of the resources for his health conditions.
+   At the end of the body of the note there are the other two parts of the note: the OUTCOME of the service with about 120 characters in a single sentence and the NEXT STEP: which in about 120 characters explains in one sentence the next action to the service.
+The progress note can take the note: [VARIABLE2] as an example.
+The service will be written in the language [TARGETLANGUAGE],
+and it will use [PROMPT] as extra annotations, where it is specified in which location the service was performed and if it was with [VARIABLE1] or without it depending on assisting it.
+
+[VARIABLE1:Client Name]
+[VARIABLE2: Example of Note]
+[VARIABLE3:Location]

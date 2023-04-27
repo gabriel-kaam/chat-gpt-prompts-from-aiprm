@@ -1,0 +1,16 @@
+AuthorName: Health Practice AI
+AuthorURL: https://healthpractice.ai
+
+Title: Creates a new related health article
+Category: writing
+Teaser: Creates a new article for health practitioners on a health condition related to an existing article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-31T22:40:14.325Z
+Help: 
+ID: 1807514506415566848
+PromptHint: [Enter the text copied of your original article - copy from your website]
+PromptPackageID: 0
+
+Prompt:
+Please act as an expert copy writer, specialising in writing in the alternative and complimentary medicine field. Imagine you are explaining a complex concept in a friendly and approachable manner to someone who is curious but not familiar with the topic. Please analyze the tone, voice and style of the content provided in [PROMPT] and use this the same style to write a second article in a format similar to {PROMPT] but is related a different health condition that is related to the original health condition. For example a new article on IBD when the original article is on IBS. Start you response, with the new health condition of the article, followed by a title, SEO keywords, and the content. Please use  [TARGETLANGUAGE] as the target language.

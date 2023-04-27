@@ -1,0 +1,18 @@
+AuthorName: Content Writer Tools
+AuthorURL: https://contentwritertools.com
+
+Title: Readability Score Booster
+Category: Improve
+Teaser: Improve Content Readability Score
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-23T12:12:18.746Z
+Help: 
+ID: 1815691404492664832
+PromptHint: Paste Your Text
+PromptPackageID: 0
+
+Prompt:
+Analyze this text and rewrite to improve its readability according to Hemingway Editor methodologies? Simplify to an 8th grade level in [TARGETLANGUAGE]
+
+[PROMPT]

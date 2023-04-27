@@ -1,0 +1,37 @@
+AuthorName: Damien Schneider
+AuthorURL: https://damien-schneider.art
+
+Title: Structure Notes with Markdown
+Category: Improve
+Teaser: Restructure your notes in a better way to highlights important keywords, and have a better structure for making reading and learning easier.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-13T09:56:20.177Z
+Help: 
+ID: 1812033306318082048
+PromptHint: Just copy / paste your note.
+PromptPackageID: 0
+
+Prompt:
+Réécrit moi cette note avec plus de markdown pour faire ressortir les éléments clés (**keywords**) et ajouter de la strucuture et de la lisibilité avec les éléments de markdown suivant :
+
+- listes à puces (* liste)
+- listes numérotées (1. element 1, 2. element 2, 3. element 3.....)
+- mots en gras (**gras**) -> Pour tous les motrs et éléments importants, j'en veux le plus possible !
+- mots en italique (*italique*) -> Uniquement pour les noms
+- bloc de citation (> Les blocs de citation) -> uniquement pour les citations
+- titres h1 (# Titre1) -> Le titre de la note
+- titres h2 (## Titre2) -> Le titre des catégories de la note (tu peux utiliser en plus des listes numérotés)
+- titres h3 (### Titre3) -> Le titre des csous-catégories de la note (tu peux utiliser en plus des listes numérotés)
+- code incorporé (« code incorporé ») -> Si du code est présent dans la note
+- blocs de code (```code```) -> Si un script est présent dans la note
+- liens ([Texte d’affichage du lien](http://www.sampleurl.com)) -> Si un lien est présent dans la note
+
+Utilise obligatoirement tout le formattage pour servir la lisibilité, la clarté et l'organisation de la note sans ne perdre aucune informations.
+J'insite sur les mots en gras, il doit y en avoir le plus possible, y compris à l'intérieur d'autres éléments de structure.
+
+Je veux que la note soit dans la langue suivante : [TARGETLANGUAGE]
+
+Voici la note :
+
+[PROMPT]

@@ -1,0 +1,17 @@
+AuthorName: Mark Felix
+AuthorURL: https://www.youtube.com/@ultraoffers4u710/videos
+
+Title: 20 Content Ideas Related To Any Topic
+Category: Dall-E
+Teaser: ARE YOU A WRITER? Create 20 content ideas related to your [topic] that [your audience] would find interesting and beneficial.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-04-25T06:42:06.775Z
+Help: 
+ID: 1816333082794655744
+PromptHint:  [topic]
+PromptPackageID: 0
+
+Prompt:
+ [TARGETLANGUAGE] [PROMPT] Create 20 content ideas related to a [topic] make it interesting and beneficial.
+ [TARGETLANGUAGE] [PROMPT] add a short description to each idea.

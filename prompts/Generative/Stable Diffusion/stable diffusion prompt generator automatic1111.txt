@@ -1,11 +1,11 @@
 AuthorName: TheHero
-AuthorURL: https://netflix-demo-3f46f.web.app/
+AuthorURL: https://www.fiverr.com/s/X3Qz3e
 
 Title: Stable Diffusion Prompt Generator Automatic1111
 Category: Stable Diffusion
 Teaser: Turn your Concept/Ideas into Beautiful Images with these amazing generated prompts for Stable Diffusion!
 
- - Please consider giving it a like and Keep an eye out for updates
+- Please consider giving it a like and Keep an eye out for updates
 
 Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-03-14T21:55:42.431Z
@@ -34,13 +34,15 @@ You can add "()" in the prompt increases the model's attention to enclosed words
 - a (word:1.5) - increase attention to word by a factor of 1.5
 - a (word:0.25) - decrease attention to word by a factor of 4 (= 1 / 0.25)
 
-With "()", a weight can be specified like this: (words:1.4). If the weight is not specified, it is assumed to be 1.1. Specifying weight only works with "()" not with "[]". Remember You can use these for both the prompt and the negative prompt.
+With "()", a weight can be specified like this: (words:1.4). If the weight is not specified, it is assumed to be 1.1. Specifying weight only works with "()" not with "[]". 
 
 Prompt Editing Technique:
-- Prompt editing allows you to start sampling one picture, but in the middle swap to something else. The base syntax for this is - [from:to:when]
+- Prompt editing allows you to start sampling one picture, but in the middle swap to something else. The base syntax for this is - [from:to:when] here "from", "to" and "when" are prompt words
 - Where "from" and "to" are arbitrary texts, and "when" is a number that defines how late in the sampling cycle should the switch be made. The later it is, the less power the Generative AI model has to draw the to text in place of from text. If when is a number between 0 and 1, it's a fraction of the number of steps after which to make the switch. If it's an integer greater than zero, it's just the step after which to make the switch.
-- Additionally "[to:when]" adds to to the prompt after a fixed number of steps that is indicated by "when" and "[from::when]" removes from from the prompt after a fixed number of steps that is indicated by "when".
-- Example: a [fantasy:cyberpunk:16] landscape. More advanced example - fantasy landscape with a [mountain:lake:0.25] and [an oak:a christmas tree:0.75][in foreground::0.6] [in background:0.25] [shoddy:masterful:0.5].
+- Additionally the syntax [to:when] (where "to" is arbitrary text) adds "to" to the prompt after a fixed number of steps that is indicated by "when" and the syntax [from::when] (where "from" is arbitrary text) removes "from" from the prompt after a fixed number of steps that is indicated by "when". Examples: 
+- a [fantasy:cyberpunk:16] landscape. 
+- fantasy landscape with a [mountain:lake:0.25] and [an oak:a christmas tree:0.75][in foreground::0.6] [in background:0.25] [shoddy:masterful:0.5].
+- [a cat:a dragon:0.2] which prompts cat for 20% of image generation, then switches to dragon.
 
 Alternating Words Technique:
 - Convenient Syntax for swapping every other step - [word|another word]
@@ -64,13 +66,13 @@ Concept: A Beautiful Painting of a Women in Cloak Armor
 
 Prompt: modelshoot style, (extremely detailed CG unity 8k wallpaper:1.3), full shot body photo of the most beautiful artwork in the world, (Cloak Armor:1.2), professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, (trending on ArtStation:1.3), trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
 
-Negative Prompt: cartoon, 3d, (disfigured:1.5), ((bad art)), ((deformed)),((extra limbs)), close up,((b&w)), weird colours, blurry, (((duplicate))), morbid, ((mutilated)), out of frame, extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), ((mutation)), ((ugly)), blurry, ((bad anatomy)), cloned face, out of frame, ugly, extra limbs, gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (extra arms), (((extra legs)))
+Negative Prompt: cartoon, 3d, (disfigured:1.5), ((bad art)), ((deformed)),((extra limbs)), close up,((b&w)), weird colours, blurry, (((duplicate))), morbid, ((mutilated)), out of frame, extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), ((mutation)), ((ugly)), blurry, ((bad anatomy)), cloned face, out of frame, ugly, extra limbs, gross proportions, (malformed limbs), ((missing arms))
 
 Concept: Model shoot of a women with rainbow color hair and intricate clothing 8k
 
 Prompt: (extremely detailed photo 8k), full body shot photo of the most beautiful artwork in the world, A beautiful woman, (rainbow hair), wearing intricate futurist colorful clothing, (cinematic lighting:1.5), very detailed face and eyes, elaborate fantasy background, high-quality photo, photorealistic painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski
 
-Negative Prompt: lowres, (deformed, distorted, disfigured: 1.3), ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((extra limbs)), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, long body, long neck, ((jpeg artifacts))
+Negative Prompt: lowres, (deformed, distorted, disfigured: 1.3), ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((extra limbs)), (extra head),  cropped, worst quality, low quality, jpeg, long body, long neck, ((jpeg artifacts))
 
 Concept: A Cyberpunk character posing on the street with rays and good lighting. 
 

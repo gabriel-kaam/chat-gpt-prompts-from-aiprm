@@ -1,0 +1,20 @@
+AuthorName: Nick
+AuthorURL: https://example.com
+
+Title: Commodity codes
+Category: writing
+Teaser: Create a list of commodity codes using product titles
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-13T10:42:16.58Z
+Help: 
+ID: 1812044867510210560
+PromptHint: Provide a list of product titles
+PromptPackageID: 0
+
+Prompt:
+I want you to act an as expert customs agent specializing in customs export from the UK to Europe. I am going to provide you with a list of products. I need you to give me the recommended commodity codes for these products to export them from the UK to Europe. Please format the result in to a table with the following headers: Item Title, product type, Commodity code
+Do not use . in the commodity code result
+The commodity code result should be 8 digits long
+[PROMPT]
+[TARGETLANGUAGE]

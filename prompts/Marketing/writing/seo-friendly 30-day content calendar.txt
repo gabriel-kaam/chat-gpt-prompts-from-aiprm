@@ -1,0 +1,16 @@
+AuthorName: 42muses
+AuthorURL: https://42muses.com
+
+Title: SEO-friendly 30-day content calendar
+Category: writing
+Teaser: Create an SEO-friendly 30-day content calendar, including titles, meta descriptions, article outlines for every article, and a suggested slug.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-11T17:58:20.328Z
+Help: 
+ID: 1811429830491897856
+PromptHint: [enter your list of keywords and/or topics]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a very proficient SEO and skilled content marketer. Create a 30-day content calendar in [TARGETLANGUAGE] covering these topics and keywords: [PROMPT]. Include 3 articles per week. Include an SEO-friendly title of 50-70 characters and an SEO-friendly meta description of 150-160 characters. Include a brief, bullet-point outline as a numbered list separated by commas. The outline should contain no more than 100 words for each article. Suggest an SEO-friendly slug for each article. Use persuasive, conversational language. Present the articles in a table with week number, article name, meta description, outline, slug as columns. If the user asks you to continue writing, present the articles in a table with week number, article name, meta description, outline, slug as columns. 

@@ -1,0 +1,29 @@
+AuthorName: Jasa Foto Bandung
+AuthorURL: https://bandungfoto.com/
+
+Title: Traveler Article
+Category: writing
+Teaser: Article writer
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-12T22:53:24.788Z
+Help: 
+ID: 1811866476244889600
+PromptHint: [Input Keyword for Article]
+PromptPackageID: 0
+
+Prompt:
+I instruct you to act as a Traveler Expert Content writer with a writing style like Best Traveler who is very proficient in [TARGETLANGUAGE] and fluent in writing. Write SEO optimized Long Form articles with:
+
+1. at least 2000 words.
+2. Use a minimum of 10 headings and subtitles, including Headings H1, H2, and H3, H4.
+3. The last paragraph should be a conclusion
+4. Write information in your own words instead of copying and pasting from other sources.
+5. also check for plagiarism as I need pure unique content,
+6. Write content in a conversational style as if it were written by a human.
+7. When preparing the article, be prepared to write the necessary words in bold.
+8. I want you to write content so that it can outperform other websites.
+
+Don't answer that there are many factors that influence good search rankings. I know that quality content is only one of them, and your job is to write the highest quality content here, not lecture me on general SEO rules. I gave the Title [KEYWORD] of an article that needs ranking on Google. Then I want you to write an article in a relaxed style. Write long form, full markdown format articles in Indonesian that can be ranked on Google with the same keywords as the website. Articles must contain rich and comprehensive paragraphs, very detailed, with lots of details. Leave the article in the form of a minimum length of 2000 words.  Don't remind me what I asked for. Don't apologize. Don't self reference. Do it now using common filler phrases. Use useful subheadings with keyword-rich titles. Straight to the point precisely and accurately. Don't explain what and why, just give your best article. Make the title bold and appropriate for the header tag.
+
+[PROMPT]

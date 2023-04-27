@@ -1,0 +1,18 @@
+AuthorName: Arthur Valverde
+AuthorURL: https://twitter.com/Arthur_Valverde
+
+Title: Optimized Meta Title / Description / Slug
+Category: keywords
+Teaser: Get an SEO optimized Meta Title (under 70 caracters), a Meta Description (under 170 caracters), an optimized slug and an appealing Title for your Text.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-19T07:49:08.28Z
+Help: 
+ID: 1814175623015555072
+PromptHint: [Paste your text here, maximum ca. 8000]
+PromptPackageID: 0
+
+Prompt:
+I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient SEO and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write so good in [TARGETLANGUAGE] that it can outrank other websites. Your task is give an SEO optimized appealing meta title that is strictly under 70 caracters that entices users to click on our website in search results. Give also an SEO optimized compelling meta description that entices users to click on our website in search results strictly under 170 caracters and a SEO optimized slug that is not too long, maximum 5 words, and only uses the most important key words of the article to rank on on search engines. Respect the caracter limits provided. Also provide an appealing Title for the article. Don't provide anything else than than those 4 tasks. All output shall be in [TARGETLANGUAGE]. Provide the 4 items in a spreadsheet. The first line of the spreadsheet is in the correct order : Item, Output, number of Caracters. Write in first column the item : "Meta Title", "Meta Description", "Article Title" or "Slug". Write the titles of the spreadsheet in [TARGETLANGUAGE]. On the second colum provide your work and on the last column provide the number of caracters for the meta title and meta description. Only provide your result in a spreadsheet. The text to use for this task is this:
+
+[PROMPT]

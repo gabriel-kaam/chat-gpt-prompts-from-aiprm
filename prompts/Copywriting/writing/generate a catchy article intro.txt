@@ -1,0 +1,17 @@
+AuthorName: Ankit shrivastava
+AuthorURL: https://twitter.com/iamankitshri
+
+Title: Generate a catchy article intro
+Category: writing
+Teaser: Generate a beautifule article introduction
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-21T11:45:02.663Z
+Help: 
+ID: 1814959766531989504
+PromptHint: [articleIntro]
+PromptPackageID: 0
+
+Prompt:
+Write the short article Introduction in a way that will excite the reader about the topic in [TARGETLANGUAGE] for the given [PROMPT] 
+

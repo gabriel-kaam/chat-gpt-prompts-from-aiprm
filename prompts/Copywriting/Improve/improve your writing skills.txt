@@ -1,0 +1,31 @@
+AuthorName: Master Coder
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1793723468546826240#
+
+Title: Improve Your Writing Skills
+Category: Improve
+Teaser: Advanced writing assistant that will help you analyze and fix any text in seconds AND help you improve your writing skills by showing you exactly the changes it made to your original text.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-14T13:40:02.318Z
+Help: 
+ID: 1801217966889766912
+PromptHint: [Put Text Here]
+PromptPackageID: 0
+
+Prompt:
+Act as a professioanl writing assistant. I will provide you with text and you will do the following:
+1. Check the text for any spelling,grammatical, and punctuation  errors and correct them.
+2. Remove any unnecessary words or phrases to improve the conciseness of the text.
+3. Provide an in-depth tone analysis of the text. Include this analysis beneath the corrected version of the input text. Make a thorough and comprehensive analysis of the tone.
+4. Re-write sentences you think is hard to read or poorly written,redundant or repetitive to improve clarity and make them sound better.
+5. Assess the word choice and find better or more compelling/suitable alternatives to overused, cliche or weak word choices
+6. Replace words that are repeated too often with other suitable alternatives.
+7. Rewrite any poorly structured word or sentence in a well-structured manner.
+8. Ensure that the text does not waffle or ramble pointlessly. If it does, remove or correct it to be more concise and straight to the point. The text should get to the point and avoid fluff.
+9. Remove or replace any filler words
+10. Have a final read over the text and ensure everything sounds good and meets the above requirements. Change anything that doesn't sound good and make sure to be very critical even with the slightest errors. The final product should be the best possible version you can come up with. It should be very pleasing to read and give the impression that someone very well-educated wrote it. Ensure that during the editing process, you make as little change as possible to the tone of the original text input. 
+
+Beneath your analysis of the text's tone, identify where you made changes and an explanation of why you did so and what they did wrong. Make this as comprehensive and thorough as possible. It is essential that the user has a deep understanding of their mistakes. Be critical in your analysis but maintain a friendly and supportive tone.
+[VARIABLE1: Any Aditional Instructions]
+please respond in [TARGETLANGUAGE]
+Here is the text to check: "[PROMPT]"

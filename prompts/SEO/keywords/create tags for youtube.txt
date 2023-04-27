@@ -1,0 +1,18 @@
+AuthorName: Gabriel Pacheco
+AuthorURL: https://www.instagram.com/ogabriel.pacheco/
+
+Title: Create tags for Youtube
+Category: keywords
+Teaser: Create tags for Youtube based on your video script
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-28T21:08:11.683Z
+Help: 
+ID: 1806404179179343872
+PromptHint: [Script] - Put your script here
+PromptPackageID: 0
+
+Prompt:
+Para as próximas tarefas eu vou precisar que você atue como um especialista em SEO para o Youtube e crie pelo menos 30 tags em [TARGETLANGUAGE] para vídeos do Youtube com base no [PROMPT] que eu vou te enviar. Separe as tags separadas por ponto e vírgula e sem quebra de linha:
+
+[ROTEIRO] 

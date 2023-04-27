@@ -1,0 +1,37 @@
+AuthorName: Tudo
+AuthorURL: https://www.facebook.com/alex.letudo/
+
+Title: Email strategy Tudo V1
+Category: marketing
+Teaser: Add which type of email flow you need
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-30T15:49:07.397Z
+Help: 
+ID: 1807048657955184640
+PromptHint: [Description]
+PromptPackageID: 0
+
+Prompt:
+I have an e-commerce and need to create an email sequence: [PROMPT].
+
+It is important to take into account the rules of the sales funnel in the email strategy.
+
+ Can you give me a list of emails that make up the sequence that I can program and automate on my e-commerce site to generate more turnover. The goal is to cover as many prospects as possible by email and create the most unique experience possible according to the psychology of the prospect.
+
+Depending on whether the customer has a strong purchase intention or not, more or less balance the content of the emails between non-commercial values ​​and commercial emails. This could prevent the customer from receiving too many commercial emails and getting tired depending on whether they are ready to buy or not.
+
+The delay between each email must be progressive.
+
+The email list should be as comprehensive as possible. If you're out of ideas, invent other emails depending on where the prospect is in the sales funnel.
+
+For each point can you keep only the title and detail me with a list numbering each email that must be sent with the deadline for each email. I don't need a descriptive list of what the email does, but just an exhaustive list of the emails that make up the sequence with the sending times between each email. The response should be boolean rather than textually described.
+I need the Trigger associated with this sequence. I would need a short description in parentheses of when the sequence applies, what actions the prospect takes to land in that sequence.
+
+In addition, for each numbered email that makes up a sequence, I need below:
+1. Briefly describe the copywriting strategy used to create the email.
+2. Give examples of values ​​that can be added in the email to better pass the pill by integrating content that is not commercial, but value-oriented to avoid tiring the prospect with purely commercial emails.
+3. Tell me more about the psychology of the buyer at the time of receiving this email, since if he does not buy after a certain number of emails, there must be something psychologically happening concerning the brakes of 'purchase.
+It is absolutely necessary that these 3 points be written for each email that appears in a sequence and not put these 3 points only for the entire sequence.
+
+[TARGETLANGUAGE]

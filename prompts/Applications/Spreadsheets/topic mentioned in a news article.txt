@@ -1,0 +1,32 @@
+AuthorName: Vincent Rizzo
+AuthorURL: http://www.datamaran.com
+
+Title: Topic mentioned in a news article
+Category: Spreadsheets
+Teaser: Detects whether a topic is mentioned in a news article
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-04-15T16:14:24.008Z
+Help: 
+ID: 1812853224932368384
+PromptHint: article with title
+PromptPackageID: 0
+
+Prompt:
+Your task is to determine whether a topic is mentioned in a news article and if it is relevant to consider that the news article deals with this topic.
+Answer in [TARGETLANGUAGE] giving a number from 0 to 5 reflecting the relevance of the mention.
+To say a topic is mentioned you must have very good reasons to think so, if not assign a 0 relevance.
+Do not extrapolate. Just give the a list of scores, nothing else.
+Set your temperature to 0. You must be reliable and always answer the same.
+The topics we are looking for are:
+- [VARIABLE1]
+- [VARIABLE2]
+- [VARIABLE3]
+
+The news article is the following
+[PROMPT]
+
+[VARIABLE1:Topic1:Business continuity, Refers to the plans, actions, protocols and training conducted to ensure continuity of core business operations during and after crises that may disrupt commercial activities. It also covers strategies to adapt business models to actual or potential changes in the external environment.:Business continuity, Refers to the plans, actions, protocols and training conducted to ensure continuity of core business operations during and after crises that may disrupt commercial activities. It also covers strategies to adapt business models to actual or potential changes in the external environment.|Business ethics, Refers to the guidelines or codes that dictate fair, ethical and moral executive and employee conduct, as well as training on the subject and implementation by staff and management. It also covers ethical standards at the leadership level in decision-making processes.|Business model innovation, Refers to new business models realizable through technological advances and increased digital access that provide innovative approaches to redefining traditional service offerings]
+[VARIABLE2:Topic2:Corporate criminal liability, Refers to the cases in which a legal person is criminally responsible for a criminal offense and the preventative corporate policies, procedures, and processes designed to meet legal compliance obligations and mitigate corruption risks. References to criminal investigations, legal proceedings, and penalties for misconduct are also included in this topic.:Corporate criminal liability, Refers to the cases in which a legal person is criminally responsible for a criminal offense and the preventative corporate policies, procedures, and processes designed to meet legal compliance obligations and mitigate corruption risks. References to criminal investigations, legal proceedings, and penalties for misconduct are also included in this topic.|Corporate culture, Refers to the fundamental beliefs and guiding principles that dictate behavior within a company and determine how the company's employees and leaders interact and handle business transactions with all stakeholders|Corporate reputation, Refers to how a company presents itself to the outside world regarding performance, particularly on sustainability issues, and strategic decisions. It covers the positive and negative perceptions of stakeholders and associated risks based on the company’s past actions and its perceived ability to deliver value]
+[VARIABLE3:Topic3:Physical disasters & failures, Refers to catastrophic events resulting from natural processes or human error and negligence, including significant failure of critical public or private utility systems and assets.:Physical disasters & failures, Refers to catastrophic events resulting from natural processes or human error and negligence, including significant failure of critical public or private utility systems and assets.]
+

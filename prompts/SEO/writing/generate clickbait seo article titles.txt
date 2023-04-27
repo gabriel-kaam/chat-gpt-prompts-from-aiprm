@@ -1,0 +1,16 @@
+AuthorName: Kapil Nawani
+AuthorURL: https://www.kapilnawani.com
+
+Title: Generate clickbait SEO article titles
+Category: writing
+Teaser: Generate clickbait SEO article titles
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-21T09:48:40.312Z
+Help: 
+ID: 1814930480429264896
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Generate 5 clickbait title ideas in [TARGETLANGUAGE] for the keyword [PROMPT] and include a power word, a positive or negative sentiment word and a number in the title

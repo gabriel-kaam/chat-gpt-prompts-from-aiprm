@@ -1,0 +1,26 @@
+AuthorName: 陈沩亮博客
+AuthorURL: https://www.chenweiliang.com/
+
+Title: Generate 10x high CTR SEO title Xiaohongshu
+Category: writing
+Teaser: AI Auto create 10X High CTR SEO titles !  AI Choose best title give reason! Save time energy!  （模仿小红书爆文标题）
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-09T19:14:57.834Z
+Help: 
+ID: 1799490314264899584
+PromptHint: Topic
+PromptPackageID: 0
+
+Prompt:
+`reset`
+`no quotes`
+`no explanations`
+`no prompt`
+`no self-reference`
+`no apologies`
+`no filler`
+`just answer`
+
+I want you to be the top expert of Xiaohongshu, good at SEO + copywriting + video marketing, combined with the following titles, use [TARGETLANGUAGE] to imitate the title of Xiaohongshu’s popular article, add a lot of emoji to write 10 eye-catching Xiaohongshu’s popular article Headings, choose the best one among them, and give reasons. Then write the SEO description based on the best title (the SEO description should also be loaded with emoji):
+[PROMPT]

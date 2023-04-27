@@ -1,0 +1,19 @@
+AuthorName: Zain Qureshi
+AuthorURL: https://www.zeeseekers.com/
+
+Title: Human Rewriter Tool
+Category: writing
+Teaser: Rewrite your content With AI Human Writer
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-23T19:22:29.834Z
+Help: 
+ID: 1815799664042307584
+PromptHint: [Paste your Content here]
+PromptPackageID: 0
+
+Prompt:
+Your task is to rewrite the entire text in better words and make it unique with natural language and make sure that the text will be 100% human written also pass the AI Detection. and at the end of the article write this "Please Visit Our Website -https://www.zeeseekers.com/
+All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this:
+
+[PROMPT]

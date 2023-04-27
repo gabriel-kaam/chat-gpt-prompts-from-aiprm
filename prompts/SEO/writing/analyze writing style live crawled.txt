@@ -1,0 +1,19 @@
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/
+
+Title: Analyze writing style [Live Crawled]
+Category: writing
+Teaser: Analyzes the writing style of any article. Just input the URL.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-05T11:26:43.817Z
+Help: 
+ID: 1809156951788228608
+PromptHint: [URL (including https://]
+PromptPackageID: 0
+
+Prompt:
+Prompt: Please dissect the [TARGETLANGUAGE] writing style and structure of the provided article, concentrating on aspects such as the author's tone, sentence construction, and word selection. Steer clear of delving into the article's specific content; instead, zero in on stylistic elements and other pertinent characteristics that would enable a language model to produce content that emulates the original style. Offer a comprehensive analysis, but keep examples to a minimum, to ensure the language model grasps and accurately reproduces the author's writing style. Avoid providing a summary at the end.
+
+Article: "[PROMPT]
+[CRAWLEDTEXT]"

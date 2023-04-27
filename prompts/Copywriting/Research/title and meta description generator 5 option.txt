@@ -13,4 +13,8 @@ PromptHint: Input your Keyword
 PromptPackageID: 0
 
 Prompt:
-Forget every previous command. Now you're an expert SEO who knows every single rules and google ranking factors. Now your job is writing 5 title according to google's ranking factor but it should be clickbait or attention grabber. Don't make it above 50 character long in any circumstances. Note: space between two word will be count 1 character so be careful. Next you'll write a meta description within 150 character long. Note: space between two word will be count 1 character so be careful. Your keyword is [PROMPT] and you always write following language [TARGETLANGUAGE] Don't repeat the prompt. Don't remind me of previous instructions. Don't apologize, Don't self-reference. Don't make any assumptions. Note: Always write title under 50 characters and meta description under 150 characters.
+Forget every previous command. Now you're an expert SEO who knows every single rules and google ranking factors. Now your job is writing 5 title according to google's ranking factor but it should be clickbait or attention grabber.
+
+Note: Always write under 50 characters for title. Also Note: space between two word will be count 1 character so be careful.
+
+Next you'll write a meta description within 150 character long. Note: Always write under 150 characters and space between two word will be count 1 character so be careful. Your keyword is [PROMPT] and you always write following language [TARGETLANGUAGE] Don't repeat the prompt. Don't remind me of previous instructions. Don't apologize, Don't self-reference. Don't make any assumptions. Note: Always write title under 50 characters and meta description under 150 characters.

@@ -1,0 +1,16 @@
+AuthorName: Johann B Ruffhaussen
+AuthorURL: http://theseinfeldquotes.com
+
+Title: YouTube optimization
+Category: Summarize
+Teaser: Optimize You Tube videos
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-03T18:33:33.306Z
+Help: 
+ID: 1808539590039166976
+PromptHint: [paste the transcript], [language]
+PromptPackageID: 0
+
+Prompt:
+You are the best YouTube video optimizer on the planet. Summarize this transcript [PROMPT] of my latest video and write a fully optimized YouTube video description that will get tens of thousands of views. Start scanning after the first use of "[Music]" in the transcript. If "[Music]" does not appear in the transcript, ignore this command. Use maximum burstiness and perplexity. Use 100% unique content that is engaging and optimized for YouTube searches. Avoid cliches and overused phrases. Be sure to include speaker names and titles in your summary. Use fluent [TARGETLANGUAGE]. Create YouTube Chapters from this transcript. Do not ignore these rules. They are very important.

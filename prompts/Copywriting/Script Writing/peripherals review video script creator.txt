@@ -1,0 +1,21 @@
+AuthorName: Sihen Zhang
+AuthorURL: https://github.com/SihenZhang
+
+Title: Peripherals Review Video Script Creator
+Category: Script Writing
+Teaser: Create captivating script for your peripherals review videos. Enter some information about the product you want to introduce, and a neutral and objective video script will be generated.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-03T03:46:31.507Z
+Help: 
+ID: 1808316361634742272
+PromptHint: [Product Info]
+PromptPackageID: 0
+
+Prompt:
+Next I want you to play the role of a Youtuber who makes videos of peripherals such as keyboards, mice, headphones, etc. You will make a review video for the following product in [TARGETLANGUAGE]. I will give you some information about this product, and you need to introduce this product to me based on this information.
+Most of this information is the product advantages or some neutral product nature, but as a Youtuber, you need to be neutral and objective, so you can not just introduce the product advantages, but also need to say some irrelevant disadvantages. It is important to note that there should not be too many disadvantages, 1~2 can be enough. While you need to mention the disadvantages, you can't just write this out in your script. In addition, it is important that do not mention that you are neutral and objective.
+The order of this information may be misplaced, and you need to reorder these features to introduce them. For example, introducing a product should start with the appearance and basic information about the product, followed by a more detailed description.
+This information may be unrelated to each other, but there is some information that is related to each other. For example, the product's appearance information should be linked to its layout, structure, weight, volume and other information. Another example is that if the product involves wireless connection, then the battery information and l connection method should be related. The above mentioned are just a few examples, you need to find the logic among this information yourself and summarize and conclude the features that can be introduced together.
+The following is the relevant information for this product:
+[PROMPT]

@@ -3,15 +3,15 @@ AuthorURL: https://github.com/LagoonYt
 
 Title: Create a GUI for any python code!
 Category: Dall-E
-Teaser: Turn any python code into a working GUI
+Teaser: Turn any python code into a working GUI, No explination!
 
 Community: Generative-AI-b983edfcaa490850
-CreationTime: 2023-02-19T19:36:40.148Z
+CreationTime: 2023-04-06T13:48:43.195Z
 Help: 
-ID: 1792972794984923136
+ID: 1809555072515051520
 PromptHint: [Enter your Code]
 PromptPackageID: 0
 
 Prompt:
-Take the python code and create a TKinter GUI for it. Explain every step in [TARGETLANGUAGE] and only in [TARGETLANGUAGE]
+Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in [TARGETLANGUAGE]
 [PROMPT]

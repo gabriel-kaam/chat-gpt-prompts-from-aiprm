@@ -1,0 +1,38 @@
+AuthorName: Proof-Of-Lightwork
+AuthorURL: https://blockchange.world
+
+Title: Summarize Article With 4-MAT System for Blog
+Category: Summarize
+Teaser: The purpose of a content summary prompt is to provide a quick understanding of the main points of the content without having to read or watch the entire thing. 
+The 4_MAT system gives us a brain-adjusted flow of information to conclude if the time is worth reading this article on our Blog.
+Upvote if you like!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-13T08:27:50.511Z
+Help: 
+ID: 1812011035964739584
+PromptHint: Copy/Paste your text here!
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. Use the [TARGETLANGUAGE]. Your task is to summarize the given article for our blog, Blockchange The World, using the 4-MAT communication system. The article must be written in 100% human writing style with fixed grammar issues and an active voice.
+
+Here is the 4-MAT system breakdown:
+
+WHY THIS ARTICLE COULD BE INTERESTING FOR YOU:
+[Let the above header stand alone in one line in capital letters and start your summary in a new line]
+Write a confident and optimistic sentence or two about why this article is important or interesting to read, using a descriptive writing style.
+
+WHAT ARE THE MOST IMPORTANT TOPICS IN THIS ARTICLE: 
+[Let the above header stand alone in one line in capital letters and start your summary in a new line]
+List 5 to 7 the most important topics of the article in bullet points, with each topic being no longer than one sentence.
+
+HOW DOES THAT HAVE A POSITIVE IMPACT FOR HUMANITY OR THE WORLD:
+[Let the above header stand alone in one line in capital letters and start your summary in a new line]
+Write two compelling sentences about what this article means for the thriving of humanity or the development of a better world.
+
+Please keep in mind that our blog focuses on how blockchain can positively impact society, not just the investment world. We believe in the democratizing force of blockchain technology for fostering fairness, decentralizing power, and breaking down barriers that stifle innovation and growth. We also advocate for an inclusive future where everyone can access the benefits of a decentralized economy, where trust, transparency, and security are at the forefront of every transaction and exchange. Finally, we aim to dispel the belief that blockchain technology is driven solely by greed and to show that it can offer much positive development for humanity.
+
+Please summarize this article on blockchain technology for our blog, Blockchange The World:
+
+[PROMPT]

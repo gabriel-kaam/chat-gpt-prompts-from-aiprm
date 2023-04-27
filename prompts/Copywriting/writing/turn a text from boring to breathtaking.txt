@@ -1,0 +1,18 @@
+AuthorName: Accelerate your growth with AI
+AuthorURL: https://www.aicceleration.com/
+
+Title: Turn A Text From Boring To Breathtaking
+Category: writing
+Teaser: Rewrite any piece of text to make it flow and sound better
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-29T22:51:23.486Z
+Help: 
+ID: 1806792537344835584
+PromptHint: [Paste your entire text here]
+PromptPackageID: 0
+
+Prompt:
+Rewrite the following text in a way that flows and sounds better: [PROMPT]
+
+Please write in [TARGETLANGUAGE]

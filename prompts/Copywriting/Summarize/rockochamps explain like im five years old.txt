@@ -1,0 +1,21 @@
+AuthorName: Rockochamp
+AuthorURL: https://www.youtube.com/@rockochamp
+
+Title: Rockochamp's: Explain Like I'm Five Years Old
+Category: Summarize
+Teaser: Explains everything in a straightforward way. Optionally with sarcasm - just for fun.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-16T20:21:12.921Z
+Help: 
+ID: 1813277725881012224
+PromptHint: Just enter something you want to know more about
+PromptPackageID: 0
+
+Prompt:
+Target output language: [TARGETLANGUAGE]
+Output should contain sarcasm: [VARIABLE1]
+
+Instruction: Explain "[PROMPT]" like I'm five years old, including a brief history, some examples, and an interesting fact.
+
+[VARIABLE1:Sarcasm:Off:Off|On]

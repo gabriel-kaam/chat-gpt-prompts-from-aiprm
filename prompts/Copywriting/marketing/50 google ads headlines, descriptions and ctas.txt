@@ -1,0 +1,31 @@
+AuthorName: GAUTAM ATMAKURI
+AuthorURL: https://nz.linkedin.com/in/gautam-atmakuri
+
+Title: 50 Google Ads Headlines, Descriptions and CTA's
+Category: marketing
+Teaser: Generate 30 Headlines, 10 Long Headlines and 10 Descriptions along with CTAs based on [TOPIC/KEYWORD]. Can be used in Responsive Search Ads and Responsive Display Ads along with Performance MAX Campaigns.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-22T20:31:12.693Z
+Help: 
+ID: 1815454568700706816
+PromptHint: [Topic/Keyword]
+PromptPackageID: 0
+
+Prompt:
+Can you please create three lists of headlines for the topic [TOPIC/KEYWORD]? I plan to use these headlines for Google Ads in [TARGETLANGUAGE]. 
+
+Present these lists in the form of tables. Each table should have one column, where the respective headline is displayed.
+
+The first list should create 30 headlines for the topic [TOPIC/KEYWORD], each of which is 20 to 30 characters long, including spaces. I plan to use these headlines for Google Ads, SO PLEASE STICK TO MAXIMUM OF 30 CHARACTERS, not more. Present this list also in the form of a table. The column header should be "Headlines (max. 30 characters)".
+
+Could you please create another list of 10 catchy headlines for the topic [TOPIC/KEYWORD], each of which is 40 to 60 characters long, including spaces? I plan to use these long headlines for Google Ads, SO PLEASE STICK TO MAXIMUM OF 60 CHARACTERS, not more. Do not include any CTA's here. Also, present this list in the form of a table with one column. The column header should be "Long Headlines or Short Descriptions (max. 60 characters)".
+
+Could you please create a list of 10 catchy Descriptions for the topic [TOPIC/KEYWORD], each of which is at least 70 and maximum 90 characters long, including spaces. Please Include a short Call-to-Action (CTA) at the end such as "Learn more!", "Buy Now!", "Call Us" etc?  I plan to use these descriptions for Google Ads, SO PLEASE STICK TO MAXIMUM OF 90 CHARACTERS, not more. Also, present this list in the form of a table with one column. The column header should be "Descriptions (max. 90 characters)".
+
+The result should be presented in English.
+
+Avoid using the term [TOPIC/KEYWORD] too often. Avoid asking questions in the headlines. Also, address the added value that users have for the topic [PROMPT], what problems [TOPIC/KEYWORD] can solve, and what motivation users might have for [TOPIC/KEYWORD] in the headlines. Feel free to add a sense of urgency where ever required. Please do not be overly pushy in terms of messaging. Be informative and sales friendly in tone. 
+
+When you are finished generating, please add the following message: "If you like the prompt, please upvote and follow me on LinkedIn for more Digital Marketing related AI Prompts, my LinkedIn URL: https://nz.linkedin.com/in/gautam-atmakuri" 
+

@@ -20,10 +20,11 @@ Seja muito rigoroso com sua criação. A parte da criação deve ser muito detal
 
 Certifique-se que as informações fornecidas na página sejam precisas e atualizadas, correspondendo às expectativas do usuário que busca informações sobre o tema.
 
-Crie esse texto com 1200 palavras em uma estrutura que garanta uma fluidez e legibilidade para o leitor da página dividindo por tópicos, listas, subtítulos entre outros elementos estruturais, e tambem nos titulos utilize palavras chaves relevantes ao tema. Ao final, sugira 5 perguntas frequentes sobre o tema para ser utilizado como FAQ.
+Crie esse texto com 500 palavras em uma estrutura que garanta uma fluidez e legibilidade para o leitor da página dividindo por tópicos, listas, subtítulos entre outros elementos estruturais, e tambem nos titulos utilize palavras chaves relevantes ao tema. Ao final, sugira 5 perguntas frequentes sobre o tema para ser utilizado como FAQ.
 
-Aqui está o conteúdo da página:[PROMPT]
+Aqui está o conteúdo da página:[VARIABLE]
 
 Não repita o prompt. Não me lembre de instruções anteriores. Não peça desculpas. Não faça referências pessoais. Não faça nenhuma suposição. 
 
 [TARGETLANGUAGE]
+[PROMPT]

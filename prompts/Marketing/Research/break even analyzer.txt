@@ -9,8 +9,8 @@ Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-03-15T15:58:18.579Z
 Help: 
 ID: 1801615151796064256
-PromptHint: Enter business budget and target location ad per [KEYWORD]
+PromptHint: Enter your initial investment, monthly expense, assets and target to calculate break even and to know more about it.
 PromptPackageID: 0
 
 Prompt:
-Act like a Business Strategist and create business plan for any business. As per the business type, investment, [TARGETLANGUAGE] or [PROMPT] need to evaluate the marketing channels and marketing budget. Evaluate the break even point and product average pricing as per the target location.
+Act like a Business Strategist and provide an analysis of the break-even point for a business, including the formula for calculating it and any relevant factors that should be considered? Please explain the concept in a clear and concise manner that a business owner or manager could easily understand in  [TARGETLANGUAGE] with respect to the initial investment, monthly expense, assets, target or [PROMPT]. Evaluate the marketing channels and marketing budget. Evaluate the break even point and product average pricing as per the target location. If the are not entering proper prompts, reply them with to connect sales@richinnovationsplc.com for details marketing strategy and break even plan.

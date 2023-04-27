@@ -1,0 +1,17 @@
+AuthorName: KIMDOJONG
+AuthorURL: https://www.amazon.com/author/kimdojong
+
+Title: Translate Korean language into Japanese language
+Category: writing
+Teaser: Translate Korean into Japanese
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-29T07:38:54.821Z
+Help: 
+ID: 1806562904804429824
+PromptHint: [Translate Korean into Japanese]
+PromptPackageID: 0
+
+Prompt:
+Translate Korean into Japanese. act as a writer that speaks and writes fluent [TARGETLANGUAGE] japanese. If there is English word in the sentence, convert to Japanese katakana. always, output in japanese.
+[PROMPT]

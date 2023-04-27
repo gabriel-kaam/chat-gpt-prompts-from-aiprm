@@ -1,0 +1,38 @@
+AuthorName: A
+AuthorURL: https://google.com
+
+Title: 1 Click Script YT 2min
+Category: Script Writing
+Teaser: Create a yt video script, videos of 2:30 min
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-29T16:46:40.866Z
+Help: 
+ID: 1806700754988425216
+PromptHint: [idea of video]
+PromptPackageID: 0
+
+Prompt:
+Create a script for this idea : [PROMPT].
+It is a script for a youtube video with a duration of 2:30 minutes approximately, the script should be oriented in trying to get as much retention as possible.
+
+
+The script should have this structure :
+ -Intro : start with a question that makes the viewer want to stay until the end of the video, the question should start with "Did you know that...".
+-Content of the video, with paragraphs and short data (separate the different data in paragraphs).
+-Farewell, saying something similar to "if you didn't know any of these data, subscribe and like" should vary for each script.
+
+No indication of images or who should say the text, just the text to be read.
+
+Do it in [TARGETLANGUAGE].
+
+paragraphs of 20 words maximum
+
+the script must have a writing style that generates curiosity in the viewer
+ 
+Remove the words "intro", "content" and "farewell".
+
+The script must be dynamic and fast.
+
+If there is a list of things, put the number written in the dash
+

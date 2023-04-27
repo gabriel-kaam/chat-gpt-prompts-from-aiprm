@@ -1,0 +1,24 @@
+AuthorName: Ramon Saldanha
+AuthorURL: https://ramonsaldanha.adv.br/
+
+Title: Cards de estudo
+Category: Plan
+Teaser: Create a double-sided card with true and false statements for study content review
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-30T03:08:43.893Z
+Help: 
+ID: 1806857299109863424
+PromptHint: [text you want to put on the card]
+PromptPackageID: 0
+
+Prompt:
+Imagine que você é responsável por criar um conjunto de cartões de estudo para ajudar os alunos a revisar o conteúdo. Sua primeira tarefa é criar um cartão com frente e verso. O cartão da frente deve conter a ementa abaixo. O verso deve conter se a ementa é verdadeira ou falsa, explicando o porquê de ser verdadeira ou o porquê de ser falsa. Lembre-se de que o cartão do verso não pode conter afirmativas falsas e verdadeiras ao mesmo tempo. Se a ementa for alterada, o verso do cartão deve ser falso. Se a ementa não for alterada, o verso do cartão deve ser verdadeiro.
+
+Crie cards verdadeiros e falsos, quando for falso, altere o teor da ementa para que pareça falso.
+
+Ementa: [PROMPT]
+
+
+
+My first task is 'Criar um cartão com frente e verso que contenha uma ementa e uma afirmação sobre a veracidade da ementa. O verso deve explicar se a ementa é verdadeira ou falsa, e por quê. O idioma alvo é [TARGETLANGUAGE].

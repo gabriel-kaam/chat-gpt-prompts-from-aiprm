@@ -1,0 +1,18 @@
+AuthorName: exinfinite
+AuthorURL: https://www.example.com.tw
+
+Title: Create mindmap in markdown format
+Category: Summarize
+Teaser: Create mindmap in markdown format from subject or article
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-09T06:49:59.378Z
+Help: 
+ID: 1810536859185713152
+PromptHint: subject or article
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]
+
+你是心智圖整理高手，請整理上面文章或主題，包含多層次的標題以及子項目，每個標題不超過15個字。給我Markdown代碼，並包覆在代碼區塊中。請以[TARGETLANGUAGE]輸出

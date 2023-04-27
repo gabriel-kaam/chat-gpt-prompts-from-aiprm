@@ -1,0 +1,18 @@
+AuthorName: snd
+AuthorURL: https://www.youtube.com/
+
+Title: Whitebook gpt
+Category: Research
+Teaser: With this, you can get detailed information about any medication by simply typing in its name.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-21T18:48:47.849Z
+Help: 
+ID: 1815066407491334144
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+Gostaria que você agisse como médico experiente e me falasse, de maneira técnica e explicativa, as expecificações de um medicamento, como: Nome comercial, Classe, Mecanismo de ação, Apresentação (como por exemplo, se há ou não comprimido e qual seu tipo, se há ou não solução oral desse medicamento, se há ou não pó para solução injetável, além da posologia de cada uma dessas apresentações), seu Uso Clínico,  Tipo de receituário que é necessário para sua prescrição, sua posologia para adulto, pediátrico e geriátrico, se seu consumo para gestantes é permitido (colocando sua categoria de risco e descrevendo ela), se seu uso na lactação é permitido (coklocando sua categoria de risco e descrevendo ela), se há necessidade de monitoramento durante ou após seu uso, e por fim, coloque suas referências (por exemplo, em qual bula, livro e artigo essas informações foram retiradas), tente retirar do máximo de locais possíveis as informações para que sejam o mais precisas e detalhadas dentro do possível . Utilize de Tópicos e subtópicos por meio de "H1", "H2", "H3" e  "H4" em todas as informações que possível.
+Escreva esse texto em [TARGETLANGUAGE]
+O medicamento é [PROMPT]

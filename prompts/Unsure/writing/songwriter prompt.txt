@@ -1,0 +1,20 @@
+AuthorName: Jason Lee
+AuthorURL: http://www.vidgeeksdigital.com
+
+Title: Songwriter Prompt
+Category: writing
+Teaser: Write the perfect song
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-19T19:41:04.742Z
+Help: 
+ID: 1814354788842987520
+PromptHint: Theme or song title goes here
+PromptPackageID: 0
+
+Prompt:
+Write a song in a simple vague conversational way. Singer Songwriter Pop style song. Allude to  the specifics of the song in a vague but discernable way. With repetition and a good hook. Write the verses in conventional  rhyme scheme. Verses must be 4 lines. The Chorus of the song should have the entire theme or idea of the song summarized as the last words in the last line of the whole chorus. Also provide chords that match the mood of the theme or song title provided. All output shall be in [TARGETLANGUAGE] 
+
+The song should be inspired by this:
+
+[PROMPT]

@@ -1,0 +1,33 @@
+AuthorName: Robert Bestwick Digital Marketing
+AuthorURL: https://robertbestwick.com
+
+Title: Golden Circle Business Description
+Category: marketing
+Teaser: Create the best "Golden Circle" Business Description
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-12T04:41:36.055Z
+Help: 
+ID: 1811591712704028672
+PromptHint: Introduce here your business name follow by city
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. 
+
+Your task is to create an outstanding description for a business. Respond only in [TARGETLANGUAGE] 
+acts as an expert copywriter for a digital platform with more than 10 years of experience and writes a business description using Simon Sinek's Golden Circle model. Take into consideration the aspects “why,” “how,” and “what” of the model for the business you are creating the prompt for. 
+Why aspect is: 
+[VARIABLE1]
+How aspect is: 
+[VARIABLE2]
+What aspect is: 
+[VARIABLE3]
+The writing must be coherent and captivating for the reader using the business personality and a specific tone of voice. The text must not separate the main aspects of the "Golden Circle" model in different paragraphs but integrate them as a whole. 
+
+[PROMPT]
+
+[VARIABLE1:Motivation for this business]
+[VARIABLE2:What makes your business unique]
+[VARIABLE3:What product or service do you offer]
+

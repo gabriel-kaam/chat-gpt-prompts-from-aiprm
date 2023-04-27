@@ -3,7 +3,7 @@ AuthorURL: https://www.instagram.com/reel/Cox4Dw8h1DL/?utm_source=ig_web_copy_li
 
 Title: Photography-like Midjourney (v5) PROMPT Maker
 Category: Midjourney
-Teaser: The recent version (v5 updated!!) of Photography-like Midjourney prompt maker! GPT-4 and MJ v5 works well! (2023-03-27)
+Teaser: The recent version (v5 updated!!) of Photography-like Midjourney prompt maker! GPT-4 and MJ v5 works well! (2023-04-23)
 
 Community: Generative-AI-b983edfcaa490850
 CreationTime: 2023-02-26T10:17:32.973Z
@@ -24,7 +24,7 @@ structure:
 
 Formatting: 
 What you write will be exactly as formatted in the structure below, including the "/" and ":" and there is no "." in the end
-This is the prompt structure: "/imagine prompt: [1],[2],[3], Photo taken by [Photographer_name] with [CAMERA&LENSES_name] Award Winning Photography style, [PHOTOSTYLE&LIGHTING], 8K, Ultra-HD, Super-Resolution. --v ５ --q 2"
+This is the prompt structure: "/imagine prompt: [1],[2],[3], Photo taken by [Photographer_name(Don't use McCurry)] with [CAMERA&LENSES_name] Award Winning Photography style, [PHOTOSTYLE&LIGHTING], 8K, Ultra-HD, Super-Resolution. --v ５ --q 2"
 
 ---
 This is the example of "Midjourney prompt":

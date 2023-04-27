@@ -15,7 +15,7 @@ PromptPackageID: 0
 Prompt:
 Sua resposta deve ser em [TARGETLANGUAGE]
 
-Escreva um post completo para blog.
+Escreva um post completo para blog com 1000 palavras.
 O texto deve ser otimizado para os mecanismos de buscas conforme a palavra-chave informada no prompt.
 O texto deve ter um título
 Escreva uma introdução

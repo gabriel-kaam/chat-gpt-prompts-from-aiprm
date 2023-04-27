@@ -1,0 +1,95 @@
+AuthorName: Esme Rome
+AuthorURL: https://www.esmerome.com
+
+Title: Midjourney Photo Prompt
+Category: Midjourney
+Teaser: Create photorealistic images with Midjourney. Builds on Kenny from Scholarly's template.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-04-22T02:10:49.84Z
+Help: 
+ID: 1815177648784273408
+PromptHint: Your image subject
+PromptPackageID: 0
+
+Prompt:
+As a prompt generator for a generative AI called 'Midjourney', you will create a photorealistic image prompt for the AI to visualize. I will give you a concept, and you will provide a detailed prompt for Midjourney AI to generate an image.
+
+Please adhere to the structure and formatting below, and follow these guidelines:
+
+- Do not use the words 'description' or ':' in any form.
+- Do not place a comma between [ar] and [v].
+- Write each prompt in one line without using return.
+- Use your entire knowledge of photography, film, and cinema to find the right choice for each part of the prompt.
+
+Structure:
+[0] = general style, e.g. street style, editorial style, film style, academic, fashion, newswire, etc.
+[1] = composition type, e.g. center view, medium-full side angle, cowboy shot, long shot, full body shot, two-shot, three-shot, extreme high-angle closeup from above, low angle medium close-up, extreme long shot, etc.
+[2] = medium, e.g. photograph, film still, photomontage, mixed media photomontage, decollage, assemblage, etc.
+[3] = Film type, e.g. Lomography XPro 200, Kodak Gold 200, Fujifilm Pro 400H, Tri-X 400, Agfa Vista Plus 200, Ilford XP2 Super 400, Konica Infrared 750, Kodak vision3 500T, CineStill 800, Kodak Portra 800 etc. [Use your entire knowledge of photography, film, and cinema to find the right film type.]
+[4] = Camera type: E.g. Canon EOS R, Sony A9 II 100-400mm f/4.5-5.6, AF-S NIKKOR 200mm f/2G ED VR II, Hasselblad 500CM medium format camera f/ 2.8, Canon RF35mm F1.8 is Macro STM Lens, Nikon 6mm f/2.8, Olympus M.Zuiko Digital ED 8mm f/1.8 Fisheye PRO, Polaroid Now, Instax Mini, LomoApparat 21 mm Wide-angle, Lomo ActionSampler, Pinhole camera, underwater camera, etc. [Make sure the camera type fits the style used in [0]. Use your entire knowledge of photography, film, and cinema to find the right camera type. Don't limit yourself to the options here.]
+[4a] = shutter speed: e.g. 1/1000 sec, 1/125, 1/250, 1/8, 1/60, etc. Remember that lower shutter speeds (e.g. 1/8) let more light in, but are blurrier than higher shutter speeds (e.g. 1/1000).
+[5] = a simple description of the subject matter: [PROMPT]
+[6] = detailed description of the subject's outfit, appearance, and other details, e.g. "wearing a black English boarding school uniform with a red tie," "wearing a vicuna Loro Piana coat, Henry Poole dress shirt, and Versace sunglasses," "wearing a white tank top revealing intricate Filipino hand-tapped tattoos". Only include details that will be in the shot; in an extreme close-up, for example, we can't see their pants.
+[7] = environment, e.g. Golden Gate Park, ancient library, Throne Room, underwater, Oxford University, Stinson Beach, etc.
+[7a] = lighting, e.g. high-key lighting, low-key lighting, natural lighting, golden hour, etc. Use your entire knowledge of lighting to find the right lighting.
+[8] = atmosphere, e.g. misty, smoky, steamy, foggy, sunny
+[9] = mood, e.g. romantic, dreamy, elegant, eerie, ethereal
+[ar] = Use '--ar 16:9' or '--ar 3:2' for horizontal images, '--ar 9:16' or '--ar 2:3' for vertical images, or '--ar 1:1' for square images.
+[s] = use '--s' followed by any integer between 0 and 1000, e.g. '--s 100,' '--s 250', '--s 750', '--s 1000'. Higher values will deviate more from the prompt and look more stylized.
+[v] = Use '--niji 5' for Japanese art style, or '--v 5' for other styles.
+
+Formatting: 
+For photographs, film stills, photocollage, follow this prompt structure: '/imagine prompt: 0 1 2 3 4 4a, 5, 6, 7, 7a, 8, 9, ar v --q 5'.
+For paintings, illustrations, and other non-photographic art forms, follow this prompt structure: '/imagine prompt: 0 1 2 5, 6, 7, 8, 9, ar v --q 5'
+
+Example prompts:
+/imagine prompt: Street style cowboy shot photomontage, Fujifilm Pro 400H, Olympus M.Zuiko Digital ED 8mm f/1.8 Fisheye PRO 1/60, Blonde and brunette boarding school students talking together, both with dyed hair and trendy piercings, standing on a bustling street corner in front of a graffitied wall, with an eclectic mix of urban fashion styles, surrounded by a lively and energetic mood. --ar 9:16 --s 250 --v 5 --q 5
+/imagine prompt: Editorial style side-view medium-full photo shot on Fujifilm Pro 400H of a 40-year-old greek tycoon with short gray hair & full beard pondering a masterpiece in a Musée d'Orsay Gallery. He's wearing a blue jacquard blazer by Ferragamo with a white button-up. The soft gallery lighting and careful composition evoke a sense of refined luxury and creative curiosity as he gazes fixedly at the magnificent painting in front of him --ar 17:22 --v 5
+/imagine prompt: Editorial style full body shot photograph, Students, dressed in flowing robes, deep in discussion while holding ancient scrolls, surrounded by towering stacks of leather-bound books, in a magnificent ancient library illuminated by flickering candlelight, with a sense of mystery and intellectual curiosity. --ar 16:9 --s 250 --v 5 --q 5
+
+Your task: Create 4 distinct prompts for each concept [1], varying in description, environment, atmosphere, and realization. 
+- Write your prompts in English. 
+- Include different realistic photographic styles with lens type and size. 
+- Separate different prompts with two new lines. 
+- Please write in [TARGETLANGUAGE].
+
+Here is your subject: [PROMPT]
+Please adhere to the structure and formatting below, and follow these guidelines:
+
+- Do not use the words 'description' or ':' in any form.
+- Do not place a comma between [ar] and [v].
+- Write each prompt in one line without using return.
+- Use your entire knowledge of photography, film, and cinema to find the right choice for each part of the prompt.
+
+Structure:
+[0] = general style, e.g. street style, editorial style, film style, academic, fashion, newswire, etc.
+[1] = composition type, e.g. center view, medium-full side angle, cowboy shot, long shot, full body shot, two-shot, three-shot, extreme high-angle closeup from above, low angle medium close-up, extreme long shot, etc.
+[2] = medium, e.g. photograph, film still, photomontage, mixed media photomontage, decollage, assemblage, etc.
+[3] = Film type, e.g. Lomography XPro 200, Kodak Gold 200, Fujifilm Pro 400H, Tri-X 400, Agfa Vista Plus 200, Ilford XP2 Super 400, Konica Infrared 750, Kodak vision3 500T, CineStill 800, Kodak Portra 800 etc. [Use your entire knowledge of photography, film, and cinema to find the right film type.]
+[4] = Camera type: E.g. AF-S NIKKOR 200mm f/2G ED VR II, Hasselblad 500CM medium format camera f/ 2.8, Canon RF35mm F1.8 is Macro STM Lens, Nikon 6mm f/2.8, Olympus M.Zuiko Digital ED 8mm f/1.8 Fisheye PRO, Polaroid Now, Instax Mini, LomoApparat 21 mm Wide-angle, Lomo ActionSampler, Pinhole camera, etc. [Make sure the camera type fits the style used in [0]. Use your entire knowledge of photography, film, and cinema to find the right camera type.]
+[4a] = shutter speed: e.g. 1/1000 sec, 1/125, 1/250, 1/8, 1/60, etc. Remember that lower shutter speeds (e.g. 1/8) let more light in, but are blurrier than higher shutter speeds (e.g. 1/1000).
+[5] = a simple description of [PROMPT] , the subject.
+[6] = detailed description of the subject's outfit, appearance, and other details, e.g. "wearing a black English boarding school uniform with a red tie," "wearing a vicuna Loro Piana coat, Henry Poole dress shirt, and Versace sunglasses," "wearing a white tank top revealing intricate Filipino hand-tapped tattoos". Only include details that will be in the shot; in an extreme close-up, for example, we can't see their pants.
+[7] = environment, e.g. Golden Gate Park, ancient library, Throne Room, underwater, Oxford University, Stinson Beach, etc.
+[8] = atmosphere, e.g. misty, smoky, steamy, foggy, sunny
+[9] = mood, e.g. romantic, dreamy, elegant, eerie, ethereal
+[ar] = Use '--ar 16:9' or '--ar 3:2' for horizontal images, '--ar 9:16' or '--ar 2:3' for vertical images, or '--ar 1:1' for square images.
+[s] = use '--s' followed by any integer between 0 and 1000, e.g. '--s 100,' '--s 250', '--s 750', '--s 1000'. Higher values will deviate more from the prompt and look more stylized.
+[v] = Use '--niji 5' for Japanese art style, or '--v 5' for other styles.
+
+Formatting: 
+For photographs, film stills, photocollage, follow this prompt structure: '/imagine prompt: 0 1 2 3 4 4a, 5, 6, 7, 8, 9, ar v --q 5'.
+For paintings, illustrations, and other non-photographic art forms, follow this prompt structure: '/imagine prompt: 0 1 2 5, 6, 7, 8, 9, ar v --q 5'
+
+Example prompts:
+/imagine prompt: Street style cowboy shot photomontage, Fujifilm Pro 400H, Olympus M.Zuiko Digital ED 8mm f/1.8 Fisheye PRO 1/60, Blonde and brunette boarding school students talking together, both with dyed hair and trendy piercings, standing on a bustling street corner in front of a graffitied wall, with an eclectic mix of urban fashion styles, surrounded by a lively and energetic mood. --ar 9:16 --s 250 --v 5 --q 5
+/imagine prompt: Fashion style extreme high-angle closeup from above, digital painting, CineStill 800, AF-S NIKKOR 200mm f/2G ED VR II, Blonde and brunette boarding school students talking together, focusing on their stylish shoes, standing on a polished marble floor, surrounded by ornate decorative patterns, in a dimly lit hall, giving off a moody and fashionable atmosphere. --ar 1:1 --s 750 --v 5 --q 5
+/imagine prompt: Editorial style full body shot photograph, Students, dressed in flowing robes, deep in discussion while holding ancient scrolls, surrounded by towering stacks of leather-bound books, in a magnificent ancient library illuminated by flickering candlelight, with a sense of mystery and intellectual curiosity. --ar 16:9 --s 250 --v 5 --q 5
+
+Your task: Create 4 distinct prompts for each concept [1], varying in description, environment, atmosphere, and realization. 
+- Write your prompts in English. 
+- Include different realistic photographic styles with lens type and size. 
+- Separate different prompts with two new lines. 
+-Please write in [TARGETLANGUAGE].
+Here is the subject: [PROMPT]

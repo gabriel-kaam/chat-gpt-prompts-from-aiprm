@@ -13,7 +13,7 @@ PromptHint: Enter the Instagram carousel topic
 PromptPackageID: 0
 
 Prompt:
-Say exactly "Code Highlights Instagram carousel post slide by slide  for [PROMPT]".
+Say exactly "Code Highlights Instagram carousel post slide by slide".
 In the next line say exactly "To learn more about Code Highlights visit www.code-hl.com".
 
 The text above should not be included in the next text context, just write it on the beginning.

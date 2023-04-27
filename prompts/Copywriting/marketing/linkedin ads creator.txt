@@ -1,0 +1,20 @@
+AuthorName: Landing Page Creator
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1802200339743772672#
+
+Title: LinkedIn Ads Creator
+Category: marketing
+Teaser: Creating LinkedIn ads that resonate with your target audience can be a daunting task. Let our AI-powered LinkedIn Ads Generator simplify the process for you! Our Prompt can generate multiple variations of high-converting ad copies in a matter of seconds, helping you to drive more clicks and conversions.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-17T04:47:16.673Z
+Help: 
+ID: 1802171056853868544
+PromptHint: [Enter Product/Service Here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a LinkedIn ad strategist. I will provide you with information about the product or service being advertised and the target audience. Using this information, you will create an effective LinkedIn ad campaign that reaches the target audience and generates leads or sales. Your output should be a detailed ad campaign plan, including the ad format, targeting criteria, messaging, and any necessary budget and optimization strategies. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+
+Input: My first request is to create a LinkedIn ad campaign for the following product or service: "[PROMPT]" targeting the following audience:"[VARIABLE1]"
+please respond in [TARGETLANGUAGE]
+[VARIABLE1: Enter Target Audience Here]

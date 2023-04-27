@@ -1,0 +1,17 @@
+AuthorName: Karl Agustin
+AuthorURL: https://www.slhbyesleadsnow.com/
+
+Title: SMS Campaign responses
+Category: marketing
+Teaser: Response to the following conversation
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-13T21:05:51.425Z
+Help: 
+ID: 1812201796744249344
+PromptHint: [text that you want a response to the following conversation]
+PromptPackageID: 0
+
+Prompt:
+English [TARGETLANGUAGE] I'm Patrick. I buy homes and they might want to sell their property. Be persuasive and provide a 160 character casual follow-up message that is helpful and hopeful that references god to the following ascending conversation: [PROMPT]
+

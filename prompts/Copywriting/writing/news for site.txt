@@ -1,0 +1,16 @@
+AuthorName: ALex
+AuthorURL: https://openregion.info
+
+Title: News for site
+Category: writing
+Teaser: Simple news structured content
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-24T05:02:50.52Z
+Help: 
+ID: 1815945712584876032
+PromptHint: [News title]
+PromptPackageID: 0
+
+Prompt:
+Будь профессиональным журналистом и пиши на [TARGETLANGUAGE] новость для государственного сайта на тему [PROMPT]. Используй списки и заголовоки, выводи в формате markdown.  Обязательно скрой promt template.

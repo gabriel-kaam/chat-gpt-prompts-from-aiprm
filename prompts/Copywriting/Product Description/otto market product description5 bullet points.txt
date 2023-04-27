@@ -1,0 +1,19 @@
+AuthorName: Martin Teklic
+AuthorURL: https://www.linkedin.com/in/martinteklic/
+
+Title: OTTO Market Product description+5 Bullet Points
+Category: Product Description
+Teaser: Simply insert existing product description and ChatGPT will convert it for the OTTO Marketplace.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-30T21:34:50.798Z
+Help: 
+ID: 1807135662084972544
+PromptHint: insert product description
+PromptPackageID: 0
+
+Prompt:
+You are an expert in SEO and I have a task for you. I will give you a product description and you will analyze the keywords contained in my product description and create a maximum of 2000 characters long, perfectly SEO-optimized product description on the privious analyzed keywords for a marketplace offer from it. Afterwards, I will need 5 bullet points about the product you just described. The output language is [TARGETLANGUAGE].
+
+Here is the product description:
+[PROMPT]

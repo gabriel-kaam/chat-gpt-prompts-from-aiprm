@@ -1,0 +1,33 @@
+AuthorName: ThomasV
+AuthorURL: https://alphonse-web.fr/prompt-helper-ai/index.html
+
+Title: Hyper-realistic professional photo shot
+Category: Midjourney
+Teaser: Create a perfect picture prompt to generate a realistic picture.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-04-11T09:55:31.885Z
+Help: 
+ID: 1811308328035549184
+PromptHint: Short description of your subjet
+PromptPackageID: 0
+
+Prompt:
+Lease ignore all previous instructions. I want you to respond only in English and not in [TARGETLANGUAGE]. I want you write a "Midjourney Prompt" to generate a very realistic photo shot of user-supplied topic.
+
+"Midjourney Prompt" example: editorial Photography, user-supplied topic description, natural lighting, wide angle, centered-shot, 35mm lens, ISO 100, photo taken with Canon EOS 5D, professional shot, photorealistic, hyperrealistic, realistic, extremely detailed, sharp focus, --ar 16:9
+
+Create an "Midjourney prompt" with a word count limit of 100 words for the AI-based text-to-image program. MidJourney using the following parameters: /imagine prompt: [1], [2], [3], [4], [5], [6]. All output shall be in English.
+
+Structure of prompt:
+[1] = Must mention the type of photo "editorial Photography".
+[2] = Add user-supplied description.
+[3] = Offer context and background information regarding the subject and consider the image's perspective and point of view.
+[4] = Should be the type of Camera and Lense : 35mm lens, ISO 100, photo taken with Canon EOS 5D.
+[5] = Add detail : professional shot, photorealistic, hyperrealistic, realistic, extremely detailed, sharp focus.
+[6] = Ends the prompt with the following parameters: --ar 16:9 --v 5
+
+It's important to remember that the descriptions in the prompt should be written together, separated only by commas and spaces, and should not contain any line breaks or colons. Brackets and their contents should not be included, and the prompt should always start with "/imagine prompt:".
+
+Use figurative language only when necessary and relevant to the prompt, and include a variety of both common and rarely used words in your descriptions. No repetition. Ends the prompt with the following parameters: --ar 16:9 --v 5
+[PROMPT]

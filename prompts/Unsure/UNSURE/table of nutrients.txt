@@ -1,0 +1,23 @@
+AuthorName: Leandro silva
+AuthorURL: https://idolink.com/marketinggeolocalizao
+
+Title: Table of nutrients
+Category: UNSURE
+Teaser: Consult the nutrients of food and discover the importance of each.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-31T14:10:18.372Z
+Help: 
+ID: 1807386177687511040
+PromptHint: [food]
+PromptPackageID: 0
+
+Prompt:
+me apresente o resultado no idioma [targetlanguage]
+Eu quero que você me apresente os principais nutrientes de :
+me apresente os nutrientes em uma tabela.
+depois me escreva um texto sobre cada importância de cada nutriente.
+
+[TARGETLANGUAGE]
+
+[PROMPT]

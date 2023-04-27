@@ -1,0 +1,17 @@
+AuthorName: CPANLP
+AuthorURL: https://www.cpanlp.com/
+
+Title: Socratic
+Category: Accounting
+Teaser: In the style of a Socratic dialogue, describe [PROMPT]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-01T11:13:16.023Z
+Help: 
+ID: 1807704012192223232
+PromptHint: [ the meaning of life]
+PromptPackageID: 0
+
+Prompt:
+use [TARGETLANGUAGE] In the style of a Socratic dialogue, describe [PROMPT] 
+

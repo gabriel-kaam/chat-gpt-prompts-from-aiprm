@@ -1,0 +1,18 @@
+AuthorName: Advicell 
+AuthorURL: https://www.youtube.com/@advicell/featured
+
+Title: Novel Refiner + grammar fixing 2.0
+Category: writing
+Teaser: Re-write your novel to have top quality grammar and sentence structure with minimal story changes.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-29T00:47:47.254Z
+Help: 
+ID: 1806459441529491456
+PromptHint: Write your novel text here, keep it shorter, 2-3 paragraphs are most
+PromptPackageID: 0
+
+Prompt:
+Restructure this novel but keep the topic the same, fix any grammar issues, write in [TARGETLANGUAGE]
+
+[PROMPT]

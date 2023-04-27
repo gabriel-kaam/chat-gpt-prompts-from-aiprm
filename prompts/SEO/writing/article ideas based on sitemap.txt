@@ -1,0 +1,30 @@
+AuthorName: Ariel Digital
+AuthorURL: https://www.arieldigitalmarketing.com
+
+Title: Article Ideas Based on Sitemap
+Category: writing
+Teaser: Create a table of blog article suggestions based on sitemap URLs. You will want to pull your sitemap.xml and list your blog articles or page URLs. The prompt will analyze your links and provide article suggestions.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-20T21:43:56.794Z
+Help: 
+ID: 1814748097335783424
+PromptHint: [List of URLs from your sitemap]
+PromptPackageID: 0
+
+Prompt:
+I'm going to give you a list of links from our blog. The company we are writing for is [VARIABLE1]. They provide [VARIABLE2]. [VARIABLE1:Company Name] [VARIABLE2:Services/Products Provided]
+
+I want you to review the links. After you've reviewed and analyzed the links for the type of content we are producing, I want you to act as a professional content writer and SEO specialist. You will come up with a TABLE with four columns. Column 1 will be "Intent" (Content can be one of the follow: Informational, Navigational, Commerical, Transactional), Column 2 will be "Title", Column 3 will be "Meta Description", and Column 4 will "Target Keyword (RankMath)". ONLY CREATE A TABLE, NOT A LIST.
+
+You will take the information you've analyzed and create ONE NEW table with SUGGESTIONS for NEW blog articles, not repeating any of the ones already listed in the links provided. I want a minimum of 20 rows of suggested blog articles in the table.  
+
+You will only create ONE table for the BLOG ARTICLE SUGGESTIONS. DO NOT create a table of your analysized links.
+
+Do not tell me what you are going to do, just start creating the table once you have reviewed the links.
+
+Here are the links to review and analyze:
+
+[PROMPT]
+
+You will only write in [TARGETLANGUAGE].

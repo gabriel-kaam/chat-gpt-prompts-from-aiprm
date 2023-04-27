@@ -1,0 +1,29 @@
+AuthorName: Fraz Khan
+AuthorURL: https://fb.me/RealFrazSultan
+
+Title: Shopify / AmazonProduct Reviews
+Category: marketing
+Teaser: Write Effective Product Reviews
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-29T15:07:18.803Z
+Help: 
+ID: 1806675748283744256
+PromptHint: [Product Name] Dog Link Remover
+PromptPackageID: 0
+
+Prompt:
+Pretend that you have used the product [PROMPT] 
+Write 10 reviews about [PROMPT] that helps to [VARIABLE1:What it does?:It removes the dog and cat lint] [VARIABLE1]
+[PROMPT] . try not to use the exact word like [PROMPT] etc. 
+
+Instructions:
+Review should be long more than 200 words.
+No Review Summary or Heading Needed.
+Don't use the words like this product, this tool and other similar words, The little gadget that I purchased from the store etc.
+The tone should be a person who used the product [PROMPT].
+It should be in bulletpoints.
+There should be no extra text, As I want you to only write the review.
+Instead of recommending the product, try to pretend that this [PROMPT] product helps you and try to be give a human natured review who is using the [PROMPT] product.
+
+write all output in [TARGETLANGUAGE]

@@ -1,0 +1,30 @@
+AuthorName: E8 Labs
+AuthorURL: https://www.e8-labs.com/
+
+Title: Create your app design spec 
+Category: Design
+Teaser: Create a design spec for your mobile app or platform
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-04-04T14:07:19.53Z
+Help: 
+ID: 1808834979032199168
+PromptHint: App Idea. Ex: Fitness App, Dating App, Social Media, Crypto
+PromptPackageID: 0
+
+Prompt:
+I want you to create a clear and concise mobile app design specification in [TARGETLANGUAGE] [ENGLISH] for [PROMPT]. It should include the following sections:
+
+-App Description (one paragraph)
+-App Names (three ideas with description of logo and the creative reason why this is a good name)
+-List of User Personas (with bullet points describing each persona with an outline of each main screens)
+-User Persona #1 User Screens (Start with their main screen, the user flow within the screen, the logic and buttons on screen. Make sure to consider conditional logic and describe in detail with bullet points. Label ea persona based on previously established list of User Personas.)
+-User Persona #2 User Screens (Start with their main screen, the user flow within the screen, the logic and buttons on screen. Make sure to consider conditional logic and describe in detail with bullet points. Label ea persona based on previously established list of User Personas.)
+-User Persona #3 User Screens (Start with their main screen, the user flow within the screen, the logic and buttons on screen. Make sure to consider conditional logic and describe in detail with bullet points. Label ea persona based on previously established list of User Personas.) *if necessary
+-User Persona #4 User Screens (This is usually the main admin user for the app. They need a dashboard to manage day to day operations, users, any revenue generated from the platform, etc) Start with their main screen, the user flow within the screen, the logic and buttons on screen. Make sure to consider conditional logic and describe in detail with bullet points. 
+-Design Module #1 (This module is based on a specific User Persona Label, bullet list their main screens, logic and associated flows)
+-Design Module #2 (User Persona Label, their main screens and associated flows)
+-Design Module #3 (User Persona Label, their main screens and associated flows) *if necessary
+-Design Module #4 (User Persona Label, their main screens and associated flows) *if necessary
+-Inspirational Apps (similar competitors to emulate, include URLs)
+-Color Palette (up to 3) (primary, secondary, tertiary)

@@ -1,0 +1,20 @@
+AuthorName: Umesh Rawat
+AuthorURL: https://www.linkedin.com/in/umesh-singh-rawat/
+
+Title: GyanOk Generate Sub-Topic
+Category: writing
+Teaser: Unleash your creativity with Generate Subtopic: the ultimate tool for expanding your ideas and exploring new topics!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-01T09:25:34.477Z
+Help: 
+ID: 1807676910503989248
+PromptHint: [Keyword]- Just add your Main Topic
+PromptPackageID: 0
+
+Prompt:
+Generates a list of unique sub-category for each [KEYWORD] without repeating.
+
+[TARGETLANGUAGE] 
+
+[PROMPT]

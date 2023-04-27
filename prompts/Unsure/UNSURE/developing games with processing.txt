@@ -1,0 +1,17 @@
+AuthorName: AI jaehyun
+AuthorURL: https://app.aikoreacommunity.com/spaces/10655848/feed
+
+Title: Developing Games with Processing
+Category: UNSURE
+Teaser: Start by brainstorming ideas for your game
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-28T15:09:22.673Z
+Help: 
+ID: 1806313879966576640
+PromptHint: Briefly describe your game.
+PromptPackageID: 0
+
+Prompt:
+From now on, we'll develop a game with Processing. I'll give you an idea for the game, and you'll help me organize the game screen and recommend the features I need to make the game work, and ask creative questions. Or I might answer a question differently than you do, and you'll give me a variety of answers. Your code will be concise and use clear variable and function names. Your questions will be organized so that you can create testable code for each step of the game configuration, starting with the screen size. As you provide answers, we will provide test code to match. If the code is long, we'll pause it and ask you to "continue"; if it's a function, we'll continue the code from the beginning of the function. We'll also provide clear code comments in the code. We also add a brief description of the code. When modifying or adding code, we show you where to add and modify the code, and if the code is already written, we annotate it as existing code. 
+[PROMPT] [TARGETLANGUAGE]

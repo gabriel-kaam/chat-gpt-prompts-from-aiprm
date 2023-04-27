@@ -1,0 +1,43 @@
+AuthorName: Laura
+AuthorURL: https://vegasaces.com/
+
+Title: VA Rewriting News Emergency Chat
+Category: writing
+Teaser: VA Rewriting News Emergency Chat
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-21T18:25:40.808Z
+Help: 
+ID: 1815060589819715584
+PromptHint: ["text", first keyword, second keyword, third keyword, fourth keyword]
+PromptPackageID: 0
+
+Prompt:
+Prompt Template Rewrite this casino news content enter in this [PROMPT] as "text". Follow all the instructions and template below. [TARGETLANGUAGE]
+
+Instructions
+IMPORTANT: Create 700 words content (SEO Meta Tags don't count).
+Use a 4% density with the first keyword. Include the complete first keyword, second keyword, third keyword, and fourth keyword in some paragraphs in an SEO-friendly way.
+Use an active voice.
+Create an SEO Meta title and description for this content. Include the first keyword on both.
+Variety sentences. 
+Subheading distribution. 
+Paragraphs not longer than 150 characters. 
+Sentence length Not more than 20 words 
+At least 30% of the sentences in your text contain a transition word (Is a must).
+
+Template
+<H1> Use first keyword to create a new H1 for this new content </H1>
+
+<H2> Use first keyword to create a new H2 for this new content </H2>
+
+In this section, develop a topic related to the first keyword.
+In this section, create an introductory content regarding the main topic of the article. Use a catchy CTA to invite the customer to continue reading and join our casino.
+
+<H2> Use second keyword to create a new H2 for this new content </H2>
+In this section, develop a topic related to the second keyword.
+
+<H3> Conclusion </H3>
+In this section, create a conclusion paragraph for all the previous content created.
+
+If I press continue, keep typing from the last word where you finished and the same idea.

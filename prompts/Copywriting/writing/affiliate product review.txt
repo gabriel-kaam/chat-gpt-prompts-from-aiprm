@@ -1,0 +1,22 @@
+AuthorName: Ninja
+AuthorURL: https://macbookguide.com/
+
+Title: Affiliate Product Review
+Category: writing
+Teaser: Affiliate Product Review
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-13T20:43:05.579Z
+Help: 
+ID: 1812196067970899968
+PromptHint: [Description Here]
+PromptPackageID: 0
+
+Prompt:
+First of all write a short review of this product using the description that is given below, and keep the same voice tone and [TARGETLANGUAGE] as the description.
+secondly, create specs in a table format from the given data.
+thirdly, create pros and cons from the given data.
+fourthly write about why should you by this? 
+at the end write the conclusion. 
+
+[PROMPT]

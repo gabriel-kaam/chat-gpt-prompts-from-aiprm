@@ -1,0 +1,27 @@
+AuthorName: Samuel DJIAN
+AuthorURL: https://samueldjian.me
+
+Title: Enter the Google review
+Category: writing
+Teaser: Welcome to our Automated Google Review Response Generator, where you simply input the customer's review and ChatGPT crafts a personalized and engaging response for you!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-14T09:19:38.07Z
+Help: 
+ID: 1812386457877471232
+PromptHint: Review of your customer
+PromptPackageID: 0
+
+Prompt:
+Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
+
+Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses with different tons for each one to the prompt in this format. Please organize the responses in a table. In the head of each column, write me the ton you use to reply to the review.   For the first response only, add few nice emoticons in the response text. 
+
+The customer review to help me with is:
+[PROMPT]
+
+My company name is : [VARIABLE2]
+The name of the customer is : [VARIABLE1]
+
+[VARIABLE1:The name of the customer]
+[VARIABLE2:The name of your company]

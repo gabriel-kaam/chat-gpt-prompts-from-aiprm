@@ -13,7 +13,8 @@ PromptHint: [enter your topic or title here]
 PromptPackageID: 0
 
 Prompt:
-Generate a list of 10+ search queries that appear as a featured snippet in SERPs for a given topic or title. List only featured snippet appearing search queries and provide a reason why some queries may not appear as Featured Snippet as a note.
+Generate a list of search queries that appear as a featured snippet in Google's SERPs for a given any topic or title. List out only featured snippet appearing search queries and provide a reason why some queries may not appear as Featured Snippet as a note. 
+
 
 All output shall be in [TARGETLANGUAGE]
 

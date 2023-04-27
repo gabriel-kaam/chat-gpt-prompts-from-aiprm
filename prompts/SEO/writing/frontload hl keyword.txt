@@ -1,0 +1,22 @@
+AuthorName: Blake
+AuthorURL: https://www.linkedin.com/in/blake-ng-34115a66/
+
+Title: Frontload HL Keyword
+Category: writing
+Teaser: Headline optimization
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-19T08:10:49.362Z
+Help: 
+ID: 1814181080148996096
+PromptHint: Your current headline ; keyword
+PromptPackageID: 0
+
+Prompt:
+Please optimize the headline given and keep it under 75 characters with all output in [TARGETLANGUAGE]. The headline to summarize is this:
+
+[PROMPT]
+
+The keyword to frontload is this:
+
+[PROMPT]

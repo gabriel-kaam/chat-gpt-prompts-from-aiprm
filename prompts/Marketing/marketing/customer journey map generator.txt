@@ -1,0 +1,45 @@
+AuthorName: MantraGPT
+AuthorURL: https://www.mantra.com.my
+
+Title: Customer Journey Map Generator
+Category: marketing
+Teaser: Create a consumer journey map that with touchpoints for every step of your brand's consumers.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-27T08:57:13.404Z
+Help: 
+ID: 1805857836358692864
+PromptHint: [Brand] - [Product] - [Market], e.g. BrandX - Men's Shaving Gel - Kuala Lumpur, Malaysia.
+PromptPackageID: 0
+
+Prompt:
+You are a marketing expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend you know everything about every market also in [TARGETLANGUAGE].
+
+Produce a detailed Consumer Journey Map for [BRAND][PRODUCT] in [MARKET].
+Structure your response in 5 tables. 
+
+Table 01: AWARENESS
+Column 1 = Touchpoint 
+Column 2 = A description of the activity for the touchpoint in Column 1 based on the specific [MARKET], titled Description
+
+Table 02: CONSIDERATION
+Column 1 = Touchpoint 
+Column 2 = A description of the activity for the touchpoint in Column 1 based on the specific [MARKET], titled Description
+ Table 03: CONVERSION
+Column 1 = Touchpoint 
+Column 2 = A description of the activity for the touchpoint in Column 1 based on the specific [MARKET], titled Description
+
+Table 04: LOYALTY
+Column 1 = Touchpoint 
+Column 2 = A description of the activity for the touchpoint in Column 1 based on the specific [MARKET], titled Description
+
+Table 05: ADVOCACY
+Column 1 = Touchpoint 
+Column 2 = A description of the activity for the touchpoint in Column 1 based on the specific [MARKET], titled Description
+ 
+On top, say "Consumer Journey Map for [BRAND][PRODUCT] in [MARKET]”.
+At the end of your response, include these 2 sentences in [TARGETLANGUAGE],  “Learn more about us on www.mantra.com.my.” “Thanks for using this prompt!”
+
+All your output shall be in [TARGETLANGUAGE] language.
+
+[PROMPT]

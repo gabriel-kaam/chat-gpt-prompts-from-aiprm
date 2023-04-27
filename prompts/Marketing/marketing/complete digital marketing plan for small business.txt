@@ -1,0 +1,28 @@
+AuthorName: Robert Bestwick - Digital Marketing
+AuthorURL: https://robertbestwick.com
+
+Title: Complete Digital Marketing Plan For Small Business
+Category: marketing
+Teaser: Create a complete and detail digital marketing plan for small business.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-13T00:59:48.788Z
+Help: 
+ID: 1811898285846429696
+PromptHint: Business  Name
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. 
+
+Your task is to make a complete and detailed proposal for a digital marketing plan for a small  business. Respond only in [TARGETLANGUAGE]
+Act as an expert in digital marketing with more than 15 years of experience in the market of consulting for entrepreneurs and small business owners and make a complete and detailed proposal for a digital marketing plan which main objective is [VARIABLE1] among its target audiences.
+This plan is for a business that [VARIABLE2] and is located in [VARIABLE3] must be executable in a period of 3 to 6 month through the implementation of legal and realistic actions. This proposal should consider the following elements: Definition of the target audience that considers demographic, geographic, economic, psychological, and behavioral elements. Include the creation of a customer persona based on the target audience that includes: full name, demographic information, brief biography (maximum 50 words), favorite brands (maximum 3), Influencers account they follow (maximum 2), frustrations and barriers (maximum 2), and preferred media to find products (maximum 2). 
+Include in the proposal the most appropriate digital platforms for the business type. The digital platform selection must consider those one preferred by the customer persona and target audience. This plan must propose and action set that can be easily executed by one to two people without much knowledge of digital marketing. Do it in an orderly way using a hierarchy and separating the elements of the proposal into different sections.
+[PROMPT]
+
+[VARIABLE1:Business Objective]
+[VARIABLE2:Business Product or Service]
+[VARIABLE3:Location]
+
+

@@ -1,0 +1,22 @@
+AuthorName: Nguyễn Ngọc Thiện
+AuthorURL: https://www.techreviews.vn
+
+Title: Create Articles In The Form Of Toplist
+Category: writing
+Teaser: Create toplist posts with keywords or titles. Note that it must be combined with WebChatGpt to be effective.
+gpt webchat doesn't need to do anything, just enable access
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-22T08:22:12.452Z
+Help: 
+ID: 1804037084999319552
+PromptHint: up to 8000 words
+PromptPackageID: 0
+
+Prompt:
+I Want You To Be A Very Skilled Content Writer SEO Proficient Writing.write all output in [TARGETLANGUAGE].  First create two tables. The first table should be the outline of the article and the second should be the article. Bold Title of Second Table in Markdown language. Write an outline for your essay before writing, at least 15 headings and subheadings (including H1, H2, H3, H4 headings) Then, step by step start writing based on that outline. Write a 4000 word, 100% unique, SEO optimized, human-written article with at least 15 headings and subheadings (including H1, H2, H3 and H4 headings) mentioning subject is provided in the prompt. Write your own articles instead of copying and pasting from other sources. Calling yourself “I” or “me” both refer to the reader as “you”. Considering how complex and explosive the content creation can be, make sure to get a high level of both without sacrificing specificity or context. Use well detailed paragraphs that engage the reader. Write in a conversational style as if it were written by a human (Use an informal tone, use personal pronouns, be simple, engage the reader, use a positive tone, be concise, use use rhetorical questions and combine analogies and metaphors). Conclude with a concluding paragraph and 5 unique frequently asked questions after the conclusion. this is very important to Bold the Title and all the titles of the article and use proper headings for the H tag. And at the bottom Write this custom Massage
+After having the product name, please introduce that product with an H tag including: specifications, price, promotion will say depending on the time of promotion, warranty period, quality like … the minimum length of each product. product is 500 words.-If the title is 10 “Products”, then those 10 products will be introduced with specifications in the form of a list, warranty period, how much is the price, why should you choose to buy, support What support, where to sell, advantages and disadvantages of the product.
+– if any H part is already there, skip it: for example, if you already have a case, don't talk about the case anymore.
+– if it is an electronic device such as a laptop, phone, electronic device, it must describe: talk about battery quality, screen quality, what is the case, how long to use for 1 charge if using batteries, how many colors , what keyboard ? Sound quality if available. After that, we have to introduce what has just been described, especially the selling price converted in VND.
+-Create a CTA that invites people to click the referral link above the post.
+Now write an article on this topic {query} [PROMPT]

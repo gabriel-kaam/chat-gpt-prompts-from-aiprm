@@ -3,7 +3,7 @@ AuthorURL: https://github.com/simwai
 
 Title: SEO-optimized Article + Ad + Midjourney
 Category: writing
-Teaser: Create an authentic 1200 word long SEO-optimized article including FAQ and with optional advertisement and an additional midjourney prompt
+Teaser: Create an authentic 1000 word long SEO-optimized article including FAQ with optional advertisement and an additional midjourney prompt
 
 Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-26T21:11:12.318Z
@@ -13,17 +13,26 @@ PromptHint: keywords(mandatory) and promotion info (optional)
 PromptPackageID: 0
 
 Prompt:
-I want you to act as a smart professional [TARGETLANGUAGE] content writer. 
-First create three tables. First table outlines the article, the second is the midjourney prompt and the third is for the article. It is important to generate these three tables as I describe.
-Bold the heading of the first, second and third table using Markdown language. 
-Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings). 
-Then, start writing the article based on that outline step by step. Use a title for the article which attracts the user to read it. Write a 1000-word 100% unique, SEO-optimized, human-written article in [TARGETLANGUAGE] with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the prompt. 
-Write the article in your own words rather than copying and pasting from other sources. Write highly valuable content that the user really gets superior answers for what he searches for.
-Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. 
-Write in a conversational style as written by a human (use an informal tone, utilize personal pronouns, keep it simple, use the active voice, use rhetorical questions, and incorporate analogies and metaphors). 
-End with a conclusion paragraph and 5 unique FAQs after the conclusion. This is important to bold the title and all headings of the article, and use appropriate headings for H tags.
-If promotion is written in the prompt, use that the information added to it, promote the product and write the product's URL if existing.
-Next, generate a midjourney image prompt which generates an attractive image for this article.
+Act as AI model capable of writing three tables with a lot of content inside over multiple messages without loosing the reference to the message before.
 
-Now write an article utilizing following info parameters: 
+Additional, want you to act as a smart professional [TARGETLANGUAGE] content writer. Utilize your whole potential and try like when you want to win an international writing competition.
+
+First create three tables. First table is an outline of the article, the second table is the midjourney prompt and the third is for the article. It is important to generate these three tables as I described it and in the specified order. The outline is the basis for the article's structure.
+
+Bold the heading of the first, second and third table using Markdown language. 
+
+Start to write the outline of the article with at least 10 bold headings and semind subheadings. Always use the proper bold formatting for each heading and never write H1, H2, H3 or H4. Put the outline in the first table. Focus on very interesting topics and an easy-understandable structure in the outline.
+
+Next, generate the midjourney image prompt in the second table which can be used to generate an attractive image for the article you need to write with the midjourney AI image generator. Don't generate an image, just the prompt to create that image.
+
+Then, start writing the article in the third table based on that outline of the first table step by step. Use a title for the article which attracts the user to read it. Write a 1000-word 100% unique, SEO-optimized, human-written article in [TARGETLANGUAGE] with at least 10 bold headings and semibold subheadings that covers the topics of the outline. Look that the topics are logically connected in the article's content and strucuture if this is possible.
+Write the article in your own words rather than copying and pasting from other sources. Write highly valuable content that the user really gets superior answers for what he searches for. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. 
+Write in a conversational style as written by a human (use an informal tone, utilize personal pronouns, keep it simple, use the active voice, use rhetorical questions, and incorporate analogies and metaphors). The article structure needs to be absolutely logical and guide the user easily through the whole article.
+End with a conclusion paragraph and 5 unique FAQs after the conclusion.
+
+If promotion is written in the prompt, use the related information added to it to promote the product and write the product's URL if one is mentioned in the promotional information. This section is in the second table under the article.
+
+Now, use the following info parameters which includes the article's topic and optionally an advertisement/promotional information and get this done: 
 "[PROMPT]"
+
+Never interrupt in a paragraph or sentence or word or title even when the character limits exceeds. You need then to left out the paragraph you couldn't finish and write it in the next message. When you get asked to continue writing, you interpret it as continue from last line. Never skip one paragraph of the outline. Never interrupt during you write textual content. Always finish paragraphs, lines, words and similar textual structures even when you need multiple messages to do it. It is mandatory to create the whole article as described in the outline. Continue really from where you stopped in the article, when you get asked to continue. Interpret continue writing as continue from last line. You are not allowed to regenerate the content when you get asked to continue if you are not explicitly get asked for the regeneration. You are not allowed to write the outline again after you created it. Never repeat content. Don't excuse yourself in any message. Never begin a new paragraph when you know if will exceed the character limit you have in a message. Never use enumerations.

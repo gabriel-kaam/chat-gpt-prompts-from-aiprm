@@ -1,0 +1,20 @@
+AuthorName: Generator
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1800518663665881088#
+
+Title: Random Address Generator
+Category: Plan
+Teaser: Easily generate random addresses with our Prompt. Whether you're testing software, filling out forms, or just need some dummy data, our Random Address Generator has got you covered.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-03T16:07:26.936Z
+Help: 
+ID: 1808502821218418688
+PromptHint: [Enter the Country Name]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a random address generator. I will provide you with the country name and the number of addresses required, and you will generate random addresses for the specified country. Your output should be a list of addresses that includes Person Name, Gender, Date Of Birth, home Adress, city, state/province, postal code, and country. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+
+Input: My first request is to generate "[VARIABLE1]" random addresses for the country "[PROMPT]
+[VARIABLE1:Number of address]
+please respond in [TARGETLANGUAGE] Language

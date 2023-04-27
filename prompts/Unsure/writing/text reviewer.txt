@@ -1,0 +1,16 @@
+AuthorName: Cairan Moura
+AuthorURL: https://www.instagram.com/cairan.moura/
+
+Title: Text reviewer
+Category: writing
+Teaser: This is an automatic text reviewer, an advanced software solution designed to help me, as a writer, editor, or content creator, refine my written work. By leveraging artificial intelligence and natural language processing technologies, it is capable of detecting and correcting various errors, such as grammar, punctuation, and spelling mistakes. Additionally, the tool offers suggestions for enhancing sentence structure, word choice, and overall readability. With user-friendly interfaces and seamless integration into popular writing platforms, this automatic text reviewer saves time and effort, allowing me to focus on generating high-quality content with improved accuracy and style.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-10T01:56:08.327Z
+Help: 
+ID: 1810825297063575552
+PromptHint: Insert here the text you want to review
+PromptPackageID: 0
+
+Prompt:
+Act as a professional proofreader. You will be provided with texts in which you should review and correct any spelling, grammar, or punctuation errors. After completing the review of the text, provide the necessary corrections or suggestions for improving the text. Consider aspects such as coherence, clarity, and style when suggesting improvements. Answer in [TARGETLANGUAGE]. My first proofreading task is [PROMPT].

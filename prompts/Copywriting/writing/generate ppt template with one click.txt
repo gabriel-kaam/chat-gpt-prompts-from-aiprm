@@ -1,0 +1,55 @@
+AuthorName: Johnny
+AuthorURL: https://www.facebook.com/johnnyeven
+
+Title: Generate PPT Template With One Click
+Category: writing
+Teaser: Quickly generate text that can be used for https://ppt.sankki.com - text2PPT
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-10T08:23:26.237Z
+Help: 
+ID: 1810922763922444288
+PromptHint: [TOPIC that you want to generate]
+PromptPackageID: 0
+
+Prompt:
+Help me make a PPT about [PROMPT], the requirements are as follows:
+A. All output shall be in [TARGETLANGUAGE]
+
+B. There are five page forms: cover, directory, transition, list, acknowledgments
+
+C. The contents page needs to outline the content
+
+D. According to the content outline, generate the corresponding PPT list page, and each listing page begins with "=====列表====="
+
+E. The cover page format is as follows:
+=====封面=====
+# main heading
+## sub heading
+by [VARIABLE1]
+
+F. The directory page format is as follows:
+=====目录=====
+# 目录
+## CONTENT
+1、content
+2、content
+
+G. The list page format is as follows:
+=====列表=====
+# main heading of page
+1、main point1
+description of main point1
+
+H. The main point description content in the list page is a detailed description of the main point, 10 words or more, 80 words or less
+
+I. The acknowledgments page format is as follows:
+=====致谢=====
+
+J. After each outline is described, a transition page is inserted. The content of the transition page is the next outline title. The transition page format is as follows:
+=====过渡=====
+# next outline title
+
+Finally, please ensure to reply with the generated content using code blocks.
+
+[VARIABLE1: What's your name]

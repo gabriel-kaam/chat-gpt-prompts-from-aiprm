@@ -1,0 +1,16 @@
+AuthorName: 42muses
+AuthorURL: https://42muses.com
+
+Title: SEO expert article with stats and sources
+Category: writing
+Teaser: Create a 2,000-word expert article with statistics and cited sources. Includes three alternative SEO-friendly titles, a meta description, and slug.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-11T18:49:03.832Z
+Help: 
+ID: 1811442595872894976
+PromptHint: [enter your topic]
+PromptPackageID: 0
+
+Prompt:
+Write a 2,000-word article in [TARGETLANGUAGE] on the following topic: [PROMPT]. Pretend to be an expert on the topic. Include statistics and cite your sources. Use a persuasive tone. Include three alternative SEO-friendly article titles of no more than 50-70 characters. Include an SEO-friendly meta description of no more than 150-160 characters. Suggest a slug for the article.

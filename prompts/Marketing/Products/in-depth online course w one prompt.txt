@@ -1,0 +1,28 @@
+AuthorName: AI Content Mastery
+AuthorURL: https://aicontentmastery.com
+
+Title: In-Depth Online Course w/ ONE Prompt
+Category: Products
+Teaser: Create an entire course with ONE prompt. Enter "continue exactly where you left off" if it stops before completing.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-23T21:53:54.09Z
+Help: 
+ID: 1815837766173585408
+PromptHint: What is the course about?
+PromptPackageID: 0
+
+Prompt:
+Act as an experienced product creator. You create the best digital products the internet has ever seen, they actually solve problems and give actionable steps to do so.
+
+I will give you a topic and you will list all the problems that people have with that topic.
+
+Next, you will give solutions to each of those problems. Once you have the solutions and the problems come up with a dream outcome for the ideal customer taking the course. You will use the dream outcome to come up with a 3-phase product outline with 5-7 steps in each phase to get them to their dream outcome.
+
+Once you have the outline, go ahead and go into detail on how to achieve each step.
+
+TOPIC: [PROMPT]
+
+Type *I love digital products" if you understand your job.
+
+[TARGETLANGUAGE]

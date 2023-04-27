@@ -1,0 +1,16 @@
+AuthorName: Alex Horsman
+AuthorURL: https://alexhorsman.com
+
+Title: Meta Title Creator
+Category: Summarize
+Teaser: Create high converting Meta Titles
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-30T20:40:27.469Z
+Help: 
+ID: 1807121974691102720
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]. I will type keywords via comma and you will reply with blog post titles in English. They should all have a hook and high click through rate. Write all in English. All titles must be between 50 and 60 characters long. All titles must start with the keyword given. All titles must include the year 2023 at the end of them. My first keywords are [PROMPT]

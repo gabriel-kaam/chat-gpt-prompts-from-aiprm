@@ -1,0 +1,17 @@
+AuthorName: Wanderson
+AuthorURL: https://www.youtube.com/channel/UC1gBVkuVFm7g_MQ3nTf218A
+
+Title: Create text, 500 words in XML
+Category: Accounting
+Teaser: Create a long, creative, different text, with 80 words, talking about a specific animal per paragraph, in XML-based
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-13T12:36:19.63Z
+Help: 
+ID: 1812073569342189568
+PromptHint: [subject]
+PromptPackageID: 0
+
+Prompt:
+Apresente o resultado no idioma [TARGETLANGUAGE] 
+Criar um texto longo, criativo, diferente, com 80 palavras, falando de um .... especifico por parágrafo. que tenha 10 parágrafos. Na linguagem de marcação baseada em XML, usando somente os parâmetros, <speak>, <break time> e <p>, não usar o Parâmetro <audio>, com intervalos de 20 segundos entre cada parágrafo. será um video para um canal do youtube, que fala sobre os [KEYWORD] [PROMPT]

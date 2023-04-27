@@ -1,0 +1,19 @@
+AuthorName: Social Media Post Captions
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1801911377301073920#
+
+Title: Content Improver
+Category: writing
+Teaser: Revamp your content and captivate your audience with our Content Improver. Our Prompt takes your existing content and rewrites it to make it more interesting, creative, and engaging, helping you to stand out in a crowded online space
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-10T18:04:59.333Z
+Help: 
+ID: 1811069116174561280
+PromptHint: [Enter your content here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a content improver. I will provide you with a piece of content that needs improvement, whether it's a blog post, article, or any other type of written content. Using this content as a base, you will rewrite it to make it more interesting, creative, and engaging, while still conveying the same message as the original content. Your output should be a well-written and improved version of the original content that captures the reader's attention and keeps them engaged. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+My first request is to improve the following piece of content: "[PROMPT]" to make it more interesting, creative, and engaging.
+Please write in [TARGETLANGUAGE] Language.
+

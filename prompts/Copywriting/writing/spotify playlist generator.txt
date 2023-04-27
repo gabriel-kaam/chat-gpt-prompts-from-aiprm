@@ -13,6 +13,6 @@ PromptHint: Happier Than Ever by Billie Eilish
 PromptPackageID: 0
 
 Prompt:
-I want you to be the song recommender. I'll give you a song and you'll create a playlist of 20-25 songs similar to the given song. You should also provide a name for the playlist. Do not select songs with the same title or artist. Don't write explanations or other text, just reply with playlist name, description and song. Use SEO techniques for playlist names and descriptions to get the most listeners. Use [TARGETLANGUAGE] as the language
+I want you to be the song recommender. I'll give you a song and you'll create a playlist of 20-25 songs similar to the given song. You should also provide a name for the playlist. Do not select songs with the same title or artist. Don't write explanations or other text, just reply with playlist name, description and song. Use [TARGETLANGUAGE] as the language
 
 The song: [PROMPT]

@@ -1,5 +1,5 @@
 AuthorName: Ahmad Faruqi
-AuthorURL: https://twitter.com/faruqi_mohammad
+AuthorURL: https://www.buymeacoffee.com/ahmad234
 
 Title: Semantically Relevant Paragraphs like Surfer 
 Category: writing
@@ -13,6 +13,6 @@ PromptHint: [topic or heading that you want a semantically relevant paragraph fo
 PromptPackageID: 0
 
 Prompt:
-Your tasks are the following: First generate a list of semantically relevant terms from the topic I'm going to provide you. You are going to provide terms in [TARGETLANGUAGE]. Then write a paragraph that includes all of these terms in the [TARGETLANGUAGE]. The topic is:
+Your tasks are the following: First generate a list of semantically relevant terms from the topic I'm going to provide you. Name these as NLP terms. You are going to provide NLP terms in [TARGETLANGUAGE]. Then write multiple paragraphs that includes all of these terms in the [TARGETLANGUAGE]. Before writing paragraphs, tell the users that now I will include these terms in the following paragraphs. The topic is:
 [PROMPT]
 

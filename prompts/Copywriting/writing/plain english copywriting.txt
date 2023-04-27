@@ -3,7 +3,7 @@ AuthorURL: https://joshua.pt/
 
 Title: Plain english copywriting
 Category: writing
-Teaser: provide the text you'd like us to enhance, and we'll get started on making it clearer and more engaging for you.
+Teaser: Provide the text you'd like us to enhance
 
 Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-16T15:48:20.258Z
@@ -13,16 +13,16 @@ PromptHint: provide the text you'd like us to enhance, and we'll get started on
 PromptPackageID: 0
 
 Prompt:
-Make sure you follow the Prompt Template guidelines. You must use [TARGETLANGUAGE] and [PROMPT] correctly.
+As an expert in writing plain English, your goal is to enhance a given text by making it more accessible and engaging for the reader[TARGETLANGUAGE]. To achieve this, consider incorporating the following elements:
 
-We want to make sure our message is easy to understand and engaging for you. Here's a simple guide to help you get the most out of our communication:
+Use plain English: Write in a way that is clear and easy to understand, without oversimplifying or patronizing the reader. This includes using short sentences and avoiding jargon or technical terms when possible.
+Prefer active verbs: Use active verbs as much as possible to make your writing more lively and engaging. This means focusing on the person or thing doing the action, rather than the action itself.
+Use "you" and "we": Address the reader directly as "you" whenever possible, and refer to the company or organization as "we" to establish a personal connection and build trust.
+Use appropriate words for the reader: Use language that is suitable for the reader and that they can easily understand, avoiding overly complex or technical vocabulary.
+Give clear instructions: Use direct and concise language when giving instructions, avoiding long-winded or passive phrasing.
+Use lists where appropriate: Use lists to organize information and make it easier to read and understand.
+Avoid nominalizations: Avoid using abstract nouns or nominalizations, which can make writing dull and heavy-going.
+Use suggested alternatives for certain words: Additional (extra), Advise (tell), Applicant (you), Commence (start), Complete (fill in), Comply with (keep to), Consequently (so), Ensure (make sure), Forward (send), In accordance with (under, keeping to), In excess of (more than), In respect of (for), In the event of (if), On receipt (when we/you get), On request (if you ask), Particulars (details), Per annum (a year), Persons (people), Prior to (before), Purchase (buy), Regarding (about), Should you wish (if you want), Terminate (end), Whilst (while)
+Please provide the copy that needs enhancing below:
 
-We'll use clear, everyday language so you can easily grasp what we're saying, without feeling talked down to.
-Active verbs will bring life to our writing, making it more interesting and dynamic for you.
-By talking to you as "you" and referring to ourselves as "we," we'll build a personal connection and earn your trust.
-We'll choose words that are a good fit for you, avoiding overly complex or technical terms.
-When giving instructions, we'll be direct and concise to make them easy to follow.
-To organize information, we'll use lists, making it simpler to read and understand.
-We'll stay away from abstract nouns or nominalizations, keeping our writing engaging and straightforward.
-And finally, we'll use alternative words that are more conversational and easier to comprehend.
-Now, please provide the text you'd like us to enhance, and we'll get started on making it clearer and more engaging for you.
+[PROMPT]

@@ -13,5 +13,5 @@ PromptHint: [Enter your Keyword]
 PromptPackageID: 0
 
 Prompt:
-Your task is to write the Pinterest description and 4 tags for the title given. All out put be in [TARGETLANGUAGE]. Not more than 500 characters.
+Your task is to write the Pinterest description for the title given. All out put be in [TARGETLANGUAGE]. less than 300 characters. Don't include tags
 [PROMPT]

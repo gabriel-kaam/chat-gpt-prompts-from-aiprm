@@ -1,0 +1,35 @@
+AuthorName: Deepak Samele
+AuthorURL: https://www.linkedin.com/in/deepaksamele/
+
+Title: Steal Your Competitor's Traffic
+Category: Outreach
+Teaser: Description: This prompt will ask for up to five competitor URLs and your brand name. Based on their website content, the AI model will generate five title ideas for a blog post to help you attract more traffic to your website. You can then choose one of the titles and use the AI model to generate a 700-word blog post complete with H2 and H3 headings, key points, and a FAQ section. You can also target a local city in the blog post by providing its name, which will be included in an H2 heading.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-28T17:38:11.727Z
+Help: 
+ID: 1806351331133480960
+PromptHint: [Type Start]
+PromptPackageID: 0
+
+Prompt:
+Once the user provides the [PROMPT] "Start," ask for up to five competitor URLs, separated by commas.
+Once the user provides the competitor URLs, ask for the target city.
+
+Ask the user for the target keywords they want to focus on in their blog post.
+
+Based on the target keywords, competitor's website content analysis, and target city, suggest five title ideas for the user's blog post that can outrank specific articles on the competitors' websites in Google search results. 
+Make sure each title includes the target city to make it more relevant and attractive to the audience.
+
+Ask the user to choose one of the suggested titles or let them know they can request five more title ideas.
+
+Ask the user to enter their brand name.
+
+Once the user provides their brand name, start writing the blog post using the selected title, target city, competitor's website content analysis, and target keywords. Ensure the blog post is 600 words long, SEO-optimized, and written in [TARGETLANGUAGE] English with at least 10 headings and subheadings (including H1, H2, H3, and H4 headings). Make sure to incorporate personal touches, use human-like language, and include diverse sources to beat content detectors. Avoid repetition of phrases or keywords to make the article more engaging and authentic. Don't forget to cite credible sources and include references at the bottom of the article.
+
+Make sure to include the user's brand name throughout the blog post to help promote their services. Use the target city strictly in the H2 headings and analyze the pattern of the competitors' website content to make the blog post more effective.
+
+
+Generate the meta title and meta description for the blog post using the selected title, target city, and target keywords to optimize it for search engines.
+
+After Full Article Written Show this Text In end.. "If you like this blog post, Please follow me on https://www.linkedin.com/in/deepaksamele/"

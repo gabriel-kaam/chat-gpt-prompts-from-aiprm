@@ -1,0 +1,31 @@
+AuthorName: Rockochamp
+AuthorURL: https://www.youtube.com/@rockochamp
+
+Title: Rockochamp's: YouTube Transcript Enhancer
+Category: Script Writing
+Teaser: Create your new YouTube transcript from an existing one.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-03T22:35:21.335Z
+Help: 
+ID: 1787219557052833792
+PromptHint: [Video Transcript] then with your second prompt enter your new [Context Idea]
+PromptPackageID: 0
+
+Prompt:
+LANGUAGE: [TARGETLANGUAGE]
+IDEA_VARIABLE: [PROMPT_2] (my second input)
+EXAMPLE_TRANSCRIPT_VARIABLE: [PROMPT] (my first input)
+INSTRUCTION TYPE: "Create a new, unique YouTube video transcript from an existing one"
+INTENT: I want you to take an existing YouTube video transcript and completely rewrite it, so it becomes an original, funny, and engaging video for my next upload. Your task is to change the context and add a humorous twist to make it relatable and entertaining for viewers.
+
+INSTRUCTIONS:
+Your goal is to create a completely new transcript that is distinct from the original. You should start by crafting a new intro and outro that is engaging and eye-catching. Use a creative and humorous tone throughout the video to keep viewers engaged.
+
+For the new transcript, you must take the existing context of the original and shift it in a creative and relatable way to match the IDEA_VARIABLE. However, make sure to keep the exaggerated reactions and sarcastic commentary intact. For instance, instead of reviewing the latest tech gadget, you could come up with a new, outlandish gadget and review that.
+
+To help you get started, here's an example of what the new transcript could look like:
+
+EXAMPLE_TRANSCRIPT_VARIABLE
+
+Remember, the primary goal is to create a unique video that feels fresh and engaging to viewers. Avoid rehashing content from the original transcript. If you understand these instructions, please respond with "TRANSCRIPT ANALYZED - PLEASE ENTER AN IDEA NOW" to move on to the next step.

@@ -1,0 +1,25 @@
+AuthorName: Furkan YURDAKUL
+AuthorURL: https://marketfiyatlari.com/
+
+Title: Reprints the given text.
+Category: writing
+Teaser: Reprints the given text.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-24T23:07:32.22Z
+Help: 
+ID: 1816218685019516928
+PromptHint: Reprints the given text.
+PromptPackageID: 0
+
+Prompt:
+I want to reprint a content with ChatGPT. Can you prepare a prompt example that will give the best results for this?
+Rewrite titles and content as you write content.
+It has to be 100% unique. You should write as if you were a human being and for the purpose of giving information.
+You should respond by creating an SEO-compatible title in the content I gave you.
+just reference the content I gave you
+You should create appropriate subheadings for the content I gave you.
+
+You should create subheadings for the given content. Write a 100% Original, SEO Compatible, Human Written [TARGETLANGUAGE] Article.
+
+Here is the content: <<<[PROMPT]>>>

@@ -1,0 +1,91 @@
+AuthorName: Tony Tavares
+AuthorURL: https://www.instagram.com/opoxatony/
+
+Title: Ultimate Midjouney Prompt Generator
+Category: Midjourney
+Teaser: Describe the image that you want
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-04-01T03:04:40.383Z
+Help: 
+ID: 1807581053486096384
+PromptHint: Description [keyword]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] 
+
+The KEYWORD = [PROMPT] translated to english
+
+You will now act as a prompt generator for a generative AI called "Midjourney". Midjourney AI generates images based on given prompts. I will provide a concept, and you will create the prompt for Midjourney AI. You will not alter the structure and formatting outlined below and will follow these guidelines: Do not write the words "description" or use ":" in any form. Write each prompt in one line without using a return.
+
+Structure of the prompt:
+[KEYWORD]: Main subject or theme
+Detailed description of [KEYWORD] with specific imagery details
+Detailed description of the environment of the scene
+Detailed description of the mood/feelings and atmosphere of the scene
+Style: photography, painting, illustration, sculpture, etc.
+Description of how [Style] will be realized (e.g., Photography with camera model and settings, Painting with materials used, etc.)
+
+Parameters details as given below:
+Parameters details start
+
+Aspect Ratios (--aspect or --ar): Changes the aspect ratio of a generation.
+--aspect 5:4: Common frame and print ratio.
+--aspect 4:3: Common in television and photography.
+--aspect 3:2: Common in print photography.
+--aspect 16:9: Common in widescreen television and video.
+--aspect 2:1: Common in panoramic photography.
+--aspect 7:4: Close to HD TV screens and smartphone screens.
+--aspect 9:16: Common in vertical videos and smartphone screen and instagram stories.
+–aspect 4:5: Common in instagram feed.
+--aspect 1:2: Common in portrait-oriented photography.
+
+
+
+Chaos (--chaos <number>): This parameter determines the variety in the generated images. A higher number (0-100) results in more unusual and unexpected outcomes, while a lower number produces more predictable results. Using a low --chaos value, or not specifying a value, will produce initial image grids that are slightly varied each time a Job is run. Using a higher --chaos value will produce initial image grids that are more varied and unexpected each time a Job is run. Using extremely high --chaos values will produce initial image grids that are varied and have unexpected compositions or artistic mediums each time a Job is run.
+
+Negative prompting (--no): Use this parameter to remove specific elements or features from the image. This is helpful when you want to exclude certain objects or concepts from the generated image.
+
+Quality (--quality or --q <.25, .5, 1, or 2>): This parameter controls the rendering quality of the generated image. A higher value results in better image quality, while a lower value may produce faster results with less detail.
+
+Seed (--seed <integer between 0-4294967295>): The seed number determines the initial image grid for the generation process. Using the same seed number and prompt will produce similar images.
+
+Stop (--stop <integer between 10-100>): This parameter allows you to finish the image generation process partway through, potentially creating blurrier, less detailed images.
+
+Model Version (--version or --v <1, 2, 3, 4, or 5>): Use this parameter to select a different version of the Midjourney algorithm. The default setting is the current algorithm (V4).
+
+Stylize (--stylize <number> or --s <number>): This parameter influences how strongly the default Midjourney aesthetic style is applied to the generated image. A value from 0 to 1000 can be used, where 0 produces images closely resembling the input prompt and 1000 produces images with a strong Midjourney aesthetic style.
+
+Upscalers (--uplight, --upbeta, --upanime): These parameters add extra details to the low-resolution image grid. Multiple upscale models are available to choose from.
+
+Image Weight (--iw <0.50, 0.75,1,1.25,1.50,1.75, 2): This parameter sets the image prompt weight relative to the text prompt weight. The default value is 0.50. Don’t work on --v 4 or --version 4, so only use in others versions. 
+
+Parameters details end
+
+Use the aspect ratio that fits best for the image, as per your understanding. If [Style] looks best in a Japanese art style, use "--niji". Otherwise, use "--v 4" (use exactly as written). But when you use "--niji" don’t use another version. 
+This is the prompt structure: "/imagine prompt: [1], [2], [3], [4], [5], [6], [7]".
+Important points to note while writing prompts:
+Never use / or : prefixes between [1], [2], [3], [4], [5], [6], [7].
+Don't use [] while generating prompts.
+Prompts will be in English.
+Dont use “1. 2. 3.” to separate the prompts
+Please pay attention:
+Always put the prompts separated one by one
+Concepts that can't be real should not be described as "Real" or "realistic" or "photo" or a "photograph", for example, a concept made of paper or fantasy-related scenes.
+One of the prompts you generate for each concept must be in a realistic photographic style. Choose a lens type and size for it. Don't choose an artist for the realistic photography prompts. The cameras can be one of this (Canon EOS R5 ||  Nikon Z9 || Canon EOS R3 || Canon 5D Mark IV || Fujifilm X-T4 || Nikon D850 || Nikon Z7)
+Always print them on a code cell with ``
+Print the prompts without the prefix “/imagine prompt,”
+Don’t put titles prefix with : to the prompt
+
+
+Here's a simple dataset represented as a list of example prompts. 
+    "Mountain landscape, a breathtaking view of snow-capped mountains with lush green valleys, set during a vibrant sunrise casting golden hues, a realistic photograph, captured with a wide-angle lens on a Nikon D850, --aspect 16:9 --quality 1 --v 4",
+    "Medieval castle, an imposing stone fortress surrounded by a moat and drawbridge, set in a dense, misty forest, an eerie and mysterious atmosphere, a digital illustration, created using Adobe Photoshop with textured brushes, --aspect 4:3 --quality 1 --v 4 --chaos 20",
+    "Abstract sculpture, a large, intricate metal structure resembling intertwined ribbons, displayed in a modern art gallery with white walls and spotlights, a minimalist and elegant setting, a 3D render, created using Blender with realistic materials and lighting, --aspect 1:1 --quality 1 --v 4",
+    "Steampunk city, an expansive cityscape with Victorian architecture, adorned with gears, cogs, and steam-powered machines, set against a backdrop of a smog-filled sky, a gritty and industrial atmosphere, a detailed digital painting, created using Procreate with a variety of textured brushes, --aspect 16:9 --quality 1 --v 4 --chaos 30",
+    "Underwater garden, a serene underwater scene featuring vibrant coral reefs, surrounded by a diverse array of marine life, illuminated by dappled sunlight filtering through the water, a calming and peaceful atmosphere, a realistic photograph, taken with a Canon 5D Mark IV and an underwater housing, --aspect 3:2 --quality 1 --v 4"
+
+Always write the answer in a code box.
+
+

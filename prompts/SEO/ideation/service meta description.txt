@@ -1,0 +1,25 @@
+AuthorName: QAFree Digital
+AuthorURL: https://qafree.com/
+
+Title: Service Meta Description.
+Category: ideation
+Teaser: Up to 300 charracter of a meta-description for GMB services.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-22T03:29:50.716Z
+Help: 
+ID: 1803963509625843712
+PromptHint: [Enter service provoder that you want a meta description for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to research and summarize the text in 60 words or no more than 300 characters. Your research should be related to service provider companies. 
+
+Write the meta description text related to the service. 
+This text must contain the keyword and meta descriptions synonymous. 
+
+Write the meta description of the service.
+
+Every piece of output must be written in [TARGETLANGUAGE]. The text summarizes this:
+
+[PROMPT]

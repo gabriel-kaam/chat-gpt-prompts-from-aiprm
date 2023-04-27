@@ -1,0 +1,16 @@
+AuthorName: Robbert
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1807352075320037376#
+
+Title: Productcategorie maken
+Category: Plan
+Teaser: Productcategorie maken
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-31T12:13:14.298Z
+Help: 
+ID: 1807356716585836544
+PromptHint: Brand, Size, Colour
+PromptPackageID: 0
+
+Prompt:
+Make productcategories by means of brand, size or colour: [TARGETLANGUAGE] [PROMPT]

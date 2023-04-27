@@ -1,0 +1,18 @@
+AuthorName: JS
+AuthorURL: https://www.linkedin.com/in/josef-sperzel/
+
+Title: SEO Meta Description Creator
+Category: writing
+Teaser: Create SEO meta descriptions that will improve CTR and follow best practices.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-14T19:01:23.758Z
+Help: 
+ID: 1801298839110676480
+PromptHint: [on-page text, article title or target keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a meta description from the text that is provided. The meta description must be less than 160 characters (including spaces.) All outputs should include related information and a call to action. All output shall be in [TARGETLANGUAGE].  The text to summarize is this:
+
+[PROMPT]

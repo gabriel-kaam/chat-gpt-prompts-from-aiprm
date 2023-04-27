@@ -1,0 +1,26 @@
+AuthorName: Juan Amesty
+AuthorURL: https://puntorojo.com/
+
+Title: SEO content score
+Category: ideation
+Teaser: Measure SEO score for Ecommerce's blog post
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-26T19:06:47.35Z
+Help: 
+ID: 1816882874574704640
+PromptHint: [Text to analyze]
+PromptPackageID: 0
+
+Prompt:
+Actúa como un profesional experimentado en SEO. A continuación se te dará un texto de una nota de blog de un ecommerce en México  [TARGETLANGUAGE] . Analiza el texto y asignale un puntaje SEO, siendo cero el mínimo y 100 el máximo. Luego crea una planilla con los datos de tu análisis, el puntaje SEO y puntaje de legibilidad flesch. Para la evaluación ten en cuenta:
+
+-El texto informativo debe contener información de productos que pueda redirigir usuarios a la página de retail
+-El texto debe tener en su contenido las palabras clave principales y secundarias (pueden ser informativas, comerciales o transaccionales y deben apuntar a la conversión)
+-El texto debe incluir un CTA
+-El texto debe ser fácil de leer para un público general
+Estos son los puntos más importantes en la evaluación
+
+El texto que debes analizar es el siguiente: 
+
+[PROMPT]

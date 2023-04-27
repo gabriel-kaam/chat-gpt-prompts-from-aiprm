@@ -1,0 +1,59 @@
+AuthorName: Vinicius Terra Calbusch
+AuthorURL: https://www.omapadomarketing.com.br/
+
+Title: Script for a sales letter and VSL
+Category: marketing
+Teaser: Perfect [Sales Letter] with just one click
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-25T01:48:25.86Z
+Help: 
+ID: 1805025151486787584
+PromptHint: [Produto] [Nicho] [Persona]
+PromptPackageID: 0
+
+Prompt:
+Sua tarefa é criar um script para um VÍDEO DE VENDAS detalhado para um produto específico voltado a uma persona em um nicho específico. Seu objetivo é ser persuasivo na língua [TARGETLANGUAGE].
+[PROMPT]
+Vídeo de vendas para [PRODUTO - NICHO]
+
+Etapa 01: Público-Alvo
+O que queremos alcançar (Quem é a persona, Qual é a necessidade dela, Qual é a dor dela, Qual é o objetivo dela)
+
+| answer Respostas para cada ponto de dados com base no [NICHO - PERSONA] específico
+
+Etapa 02: HISTÓRIA DA PERSONA
+Um resumo da pessoa e da história
+Valor central (O que está em jogo na vida dela?),
+Protagonista (Quem conduzirá a história, você ou ela?),
+Sociedade (Onde isso está acontecendo?),
+Tempo (Quando está acontecendo, ou já aconteceu?)
+| answer Respostas para cada ponto de dados na Coluna 1 com base no [NICHO - PERSONA] específico
+
+Etapa 03: PROBLEMA
+Resumo do problema específico da [PERSONA] que o produto pode resolver
+| answer Resposta com detalhes sobre o problema da [PERSONA] com base no [NICHO - PERSONA] específico
+
+Etapa 4: SOLUÇÃO
+Resumo da solução que o produto oferece para o problema da [PERSONA]
+| answer Detalhes sobre a solução do produto com base no [NICHO - PERSONA] específico
+
+Etapa 05: BENEFÍCIOS
+O que a [PERSONA] ganha com o produto (Benefício 1, Benefício 2, Benefício 3, Benefício 4)
+| answer Detalhes sobre cada benefício com base no [NICHO - PERSONA] específico
+
+Etapa 06: PROVA SOCIAL
+Resumo das evidências sociais que comprovam a eficácia do produto
+| answer Detalhes sobre as evidências sociais com base no [NICHO - PERSONA] específico
+
+Etapa 7: GARANTIA
+Resumo da garantia oferecida para o produto
+| answer Detalhes sobre a garantia com base no [NICHO - PERSONA] específico
+
+Etapa 08: Preço a ser cobrado
+Valor do produto com a comparação de coisas que tenham o preço parecido, aumentando a percepção desse valor
+| answer Detalhes sobre o valor com base no [NICHO - PERSONA] específico
+
+Etapa 09: Call to Action | answer
+
+Certifique-se de que sua resposta esteja estruturada em um formato de carta de vendas sem que apareçam as perguntas. Você criará a PERSONA e usará ela como base para todas as respostas que precisar. Não escreva o que são as etapas, transforme isso na própria resposta. Não utilize a palavra PERSONA em suas respostas.

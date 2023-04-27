@@ -1,0 +1,16 @@
+AuthorName: Gaurav Nagani
+AuthorURL: https://desku.io
+
+Title: Glossary Generator
+Category: keywords
+Teaser: Create glossary for your business niche
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-23T17:35:28.829Z
+Help: 
+ID: 1815772732395356160
+PromptHint: List of glossary
+PromptPackageID: 0
+
+Prompt:
+Generate a glossary of terms commonly used in the [keyword] industry, along with their definitions with target language [TARGETLANGUAGE] and [PROMPT] 

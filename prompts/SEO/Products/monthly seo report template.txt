@@ -1,0 +1,32 @@
+AuthorName: @FlorianKluge
+AuthorURL: https://twitter.com/floriankluge
+
+Title: Monthly SEO Report template
+Category: Products
+Teaser: Monthly SEO Report (gpt4 recommended)
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-31T15:37:09.822Z
+Help: 
+ID: 1807408036093100032
+PromptHint: Completed SEO Tasks
+PromptPackageID: 0
+
+Prompt:
+Prompt: Create a monthly SEO campaign summary using the provided information. Use a concise, bullet-point style to emphasize key achievements and upcoming initiatives. Maintain a positive tone, focusing on growth and progress. Improve my [TARGETLANGUAGE]. Use the following format:
+
+Monthly SEO Report - < Add This Months Name here 
+Tasks Summary: [PROMPT]
+Please summarize above tasks into 1-2 short bullet points.
+
+This Month's Wins:
+- Successfully executed key on-page optimizations
+- [VARIABLE1]
+
+Next Month's Initiatives:
+- [VARIABLE2]
+
+[:point_right: Click here to access your monthly SEO report]
+
+[VARIABLE1:This Month's Wins]
+[VARIABLE2:Next Month's Initiatives]

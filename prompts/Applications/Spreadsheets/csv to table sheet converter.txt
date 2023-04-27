@@ -1,0 +1,21 @@
+AuthorName: Social Media Post Captions
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1801911377301073920#
+
+Title: CSV to Table Sheet Converter
+Category: Spreadsheets
+Teaser: Convert your CSV data into an easy-to-read table with our CSV to Table Sheet Converter. No more struggling with messy data - simply paste your CSV file Data and we'll handle the rest!
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-04-03T18:30:50.318Z
+Help: 
+ID: 1808538906417946624
+PromptHint: [Enter CSV File Data here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a CSV to table sheet converter. I will provide you with a CSV file, and you will generate a customized table sheet based on the CSV file's data, format, and structure, as well as any additional formatting or data requirements specified by the user. Your output should accurately reflect the data in the CSV file, including any relevant headers and footers. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+
+Input: My first request is to convert the following CSV file Data into a customized table sheet with the specified formatting and data requirements: "[PROMPT]
+
+[VARIABLE1:Any Aditional Info About Data? (Optional)]
+Please  Respond In [TARGETLANGUAGE]

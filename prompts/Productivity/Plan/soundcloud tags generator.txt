@@ -1,0 +1,16 @@
+AuthorName: Lex
+AuthorURL: https://www.google.com/
+
+Title: Soundcloud Tags Generator
+Category: Plan
+Teaser: Soundcloud Tags Generator
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-20T20:28:15.338Z
+Help: 
+ID: 1814729049088716800
+PromptHint: Song + Artist
+PromptPackageID: 0
+
+Prompt:
+Write a short text in [TARGETLANGUAGE] consisting of tags to describe the genre and mood of the track to the song I am going to publish to Soundcloud. Separate each tag with only a space. The song is [PROMPT]

@@ -1,0 +1,35 @@
+AuthorName: luciano
+AuthorURL: https://portablestyle.com.br/
+
+Title: Planejamento de Marketing Portable style
+Category: marketing
+Teaser: Complete Marketing Planning. Table with post schedule, customer journey and blog post suggestion.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-24T14:12:45.759Z
+Help: 
+ID: 1816084104647798784
+PromptHint: Digite a palavra chave que eu montarei o planejamento de marketing para você.
+PromptPackageID: 0
+
+Prompt:
+"ESTRATÉGIA 01 - SUGESTÃO DE TEMAS PARA BLOG"
+Sua tarefa é me dar 5 sugestões de temas para blog sobre a palavra-chave escolhida. Segmente apenas termos de pesquisa de estilo de transação. Por favor, crie títulos de estilo clickbait para essas postagens de blog. Por favor, organize cada título de post de blog em uma linha da tabela. 
+
+Após, pegue a palavra-chave escolhida, escreva "ESTRATÉGIA 02 - PROGRAMAÇÃO DE POSTAGENS" e crie uma programação de postagem de mídia social com sugestões de temas para tópicos da palavra-chave escolhida na tabela abaixo, onde estou postando no Facebook, Instagram, Tik tio e you tube. O tipo de mensagens incluem; dicas, truques, citações, fatos, ideias de atividades, inspiração,  receitas e listas. Informe também qual é formato dessas postagens. Pode ser texto, imagens ou vídeos curtos.
+
+"ESTRATÉGIA 03 - JORNADA DO CLIENTE"
+Eu gostaria que você me ajudasse a criar uma programação de conteúdo para o meu blog e insta que tivesse a melhor chance de me ajudar a classificar palavras-chave de cauda longa específicas para a palavra-chave escolhida.
+
+Por favor, descreva detalhadamente a jornada do cliente de um processo de compra para uma empresa. Necessito que o resultado esteja em formato de tabela com as colunas: Etapa, Descrição, Pontos de Contato, Ações de marketing a realizar e KPIs no topo.
+
+"ESTRATÉGIA 04 - MARKETING DE INFLUNCIA"
+Por favor apresente ações que eu possamos fazer com influenciadores do nicho que direi na palavra chave.
+ Dividir em uma tabela que contenha o assunto do video, ação e forma de desenvolver a campanha ale do formato da publicação e em qual plataforma vamos utilizar 
+
+"ESTRATEGIA 05 - AÇÕES DE BRANDING"
+Ações que irão melhorar o branding da marca. Dividir em uma tabela com tema descrição plataforma tipo de postagem ponto de contato ação de marketing a realizar kpis
+
+
+
+[TARGETLANGUAGE] [PROMPT]

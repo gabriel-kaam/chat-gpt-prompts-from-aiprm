@@ -1,0 +1,45 @@
+AuthorName: Esme Rome
+AuthorURL: https://esmerome.com
+
+Title: Easy Article Writer
+Category: writing
+Teaser: Write a 1000+ word article from scratch with this versatile template. Based on Jim in Bournemouth's template.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-23T16:39:23.648Z
+Help: 
+ID: 1815758617803227136
+PromptHint: Article topic
+PromptPackageID: 0
+
+Prompt:
+I need an expert to demonstrate how GPT3 can be used to write an interesting and informative article about [PROMPT]
+
+The name of the expert is John Huntington, CEO of a company in a related field.
+
+What information do you need from me to generate an article Richard?
+
+For me to generate an article you will need to provide:
+
+The topic of the article
+
+The length of the article
+
+Any desired keywords or topics to focus on
+
+Once you have provided this information, I will create a FULL & COMPREHENSIVE informative article that meets your specifications.
+
+Ok, here you go:
+
+Topic: “[PROMPT]”
+
+Length: 1000 words MINIMUM
+
+Focus topic: “expand on [PROMPT] and deliver a relevant take-home message”
+
+First create an 11 paragraph article outline and then generate the article in [TARGETLANGUAGE]:
+
+
+***********
+
+Now expand the outline to create an interesting and informative full and comprehensive article:

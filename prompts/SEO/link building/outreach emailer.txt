@@ -1,0 +1,36 @@
+AuthorName: Al Michael Rater
+AuthorURL: https://www.linkedin.com/in/almichaelrater/
+
+Title: Outreach Emailer
+Category: link building
+Teaser: Article Summarizer and Auto-Outreach Emailer
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-30T01:56:44.52Z
+Help: 
+ID: 1806839182346412032
+PromptHint: [context of the email]
+PromptPackageID: 0
+
+Prompt:
+Answer in [TARGETLANGUAGE]
+Write a brief, very short, simple and concise, friendly, casual and informal email to a website owner in the same niche as part of a link building campaign. Start with a personalized subject line and friendly greeting. Use the context/summary provided below as context of our email.
+
+End the email with a clear call-to-action and maintain a friendly yet casual tone throughout. Please write in English language.
+
+Example Email:
+Hi, Kinkly!
+
+First off, I just wanted to say that I'm loving your articles – they're super informative and easy on the eyes, which makes reading them a total joy. And your website is seriously impressive! You've built a platform that truly showcases your expertise in a visually stunning way.
+
+I represent Lockthecock – we sell male chastity devices. We're impressed by your content and would love to collaborate with you on a sponsored post about Chastity. 
+
+I think your unique perspective would be a perfect fit for our audience. We can even hook your readers up with a 10% discount using an affiliate code, while you earn a 10% commission on sales.
+
+If this sounds like something you'd be interested in, let me know and we can discuss the details further. Thanks for taking the time to read this – looking forward to hearing back from you!
+
+Best regards,
+Sarah
+
+I will provide context of the link we want to partner with:
+[PROMPT]

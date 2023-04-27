@@ -1,0 +1,19 @@
+AuthorName: Choi
+AuthorURL: https://www.youtube.com/
+
+Title: Dialog Generating for Practice
+Category: UNSURE
+Teaser: Makes teacher's job easy for kids to be involved in practicing English.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-27T13:55:52.924Z
+Help: 
+ID: 1805932996273111040
+PromptHint:  [Texting what you want to talk about]
+PromptPackageID: 0
+
+Prompt:
+we can practice a conversation practice with role play for [PROMPT] 
+but please don't give me the full dialogue all at once say one sentence and wait for my response
+
+Answer in [TARGETLANGUAGE]

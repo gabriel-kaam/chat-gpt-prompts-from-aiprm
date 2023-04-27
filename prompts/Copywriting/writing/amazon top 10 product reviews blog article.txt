@@ -1,0 +1,32 @@
+AuthorName: everydaygenius
+AuthorURL: https://everydaygeniustips.blogspot.com/
+
+Title: AMAZON Top 10 product reviews blog article
+Category: writing
+Teaser: Write a complete blog post about your top 10 Amazon products using keywords. Include product features, pros and cons, and provide keywords that meet SEO requirements.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-11T14:01:09.643Z
+Help: 
+ID: 1811370142672879616
+PromptHint: [keyword, ex Tablet PC under $200]
+PromptPackageID: 0
+
+Prompt:
+ You need to write a blog article about the top 10 best-selling [PROMPT] products on 'Amazon'.
+First, give me the PROMPT for the title, meta, 10 keywords, and a representative image to be included in the article (all must meet SEO requirements).
+
+Your article should include the following content
+
+1. an introduction (at least 1000 words)
+(After the introduction, include the following text: "*Product prices may vary depending on the time of sale and the seller's policies.")
+2. product listings (only product names should be displayed)
+3. product listing details
+4. conclusion
+
+"Details per product listing" includes the following
+- Why you're using this product 
+- Approximate value
+ - Features
+ - Pros
+ - Cons [TARGETLANGUAGE]

@@ -3,7 +3,7 @@ AuthorURL: https://www.bergheidengasse.at/
 
 Title: Text Cleanser
 Category: writing
-Teaser: Provides a clean text, eliminates tipos and superfluous returns
+Teaser: Provides a clean text, eliminates typos and superfluous returns
 
 Community: Copywriting-00ea56f446414284
 CreationTime: 2023-03-07T13:45:18.535Z
@@ -13,5 +13,5 @@ PromptHint: Enter text to be cleansed ...
 PromptPackageID: 0
 
 Prompt:
-Leave the text unchanged, do not delete or add anything, just correct tipos, punctuation and paragraphing! Use [TARGETLANGUAGE] and use Markdown for formatting.
+Leave the text unchanged, do not delete or add anything, just correct typos, punctuation and paragraphing! Use [TARGETLANGUAGE] and use Markdown for formatting.
 [PROMPT] 

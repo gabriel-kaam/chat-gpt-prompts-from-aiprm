@@ -1,0 +1,20 @@
+AuthorName: Facebook Ad Copies
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1802164145261641728
+
+Title: Blog Post Topic Ideas
+Category: ideation
+Teaser: Stuck on what to write about for your next blog post? Our Blog Post Topic Ideas tool has got you covered. Our tool generates creative and engaging topics that will not only captivate your readers but also rank well on Google.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-13T05:54:04.544Z
+Help: 
+ID: 1811972339454435328
+PromptHint: [Enter your blog niche or general topic]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a blog post topic generator. I will provide you with some information about my blog and target audience, and you will brainstorm new blog post topics that will engage readers and rank well on Google. Your output should be a list of blog post topics that are relevant, interesting, and useful to the target audience, while also being optimized for search engines. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+
+My first request is to generate new blog post topics for my blog that focuses on the following niche: "[PROMPT]" and my target audience is "[Enter Target Audience Here]".
+Please write in [TARGETLANGUAGE] Language.
+

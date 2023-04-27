@@ -1,0 +1,18 @@
+AuthorName: 陈沩亮博客
+AuthorURL: https://www.chenweiliang.com/
+
+Title:  Posts for Telegram channels, FB, IG, Weibo
+Category: marketing
+Teaser: Generate eye-catching posts for Telegram channels, Facebook Page, Instagram, WeChat Moments,  Weibo based on any article or blog.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-27T00:34:11.469Z
+Help: 
+ID: 1795584383911202816
+PromptHint: Topic
+PromptPackageID: 0
+
+Prompt:
+Write a post for the channel's telegrams and shorten the characters to 4096, use all the necessary emojis. All output shall be in [TARGETLANGUAGE] 
+
+[PROMPT]

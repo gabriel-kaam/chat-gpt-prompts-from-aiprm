@@ -1,0 +1,18 @@
+AuthorName: Michael Coles
+AuthorURL: https://www.rocket55.com
+
+Title: Generate a list of alternative keywords
+Category: Research
+Teaser: Generate a list of same keywords
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-03-31T17:21:19.295Z
+Help: 
+ID: 1807434248282693632
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to find synonyms for words I give you in a bulleted format.
+[TARGETLANGUAGE]
+[PROMPT] 

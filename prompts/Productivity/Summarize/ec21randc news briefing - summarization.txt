@@ -1,0 +1,16 @@
+AuthorName: Chan
+AuthorURL: https://opalescent-seeder-9a6.notion.site/EC21R-C-8a72a3dcf2e6441285b93f29a5bcc0a0
+
+Title: [EC21R&C] News Briefing - Summarization
+Category: Summarize
+Teaser: Summarize News Articles
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-28T08:16:31.526Z
+Help: 
+ID: 1806209982245638144
+PromptHint: [Paste Here Your News Articles]
+PromptPackageID: 0
+
+Prompt:
+Forget any previous instructions. Please provide a summary of news articles, placed at the end. I want you to merge the relevant paragraphs and sentences to organize the content of the below news articles. Ensure that the summary covers three primary aspects, with each aspect containing three associated details. These primary aspects must be related to the given topic and be presented in a logical and chronological sequence. No fact or figure should be missed. Assign suitable headings to each primary aspect in full sentences. Do not end the headings with colon. Write the headings in full sentencesThe headings must be written in sentences. The content should be specific to the topic. The primary aspects and their corresponding details must be presented in a logical and chronological sequence. Assign a square symbol "☐" at the start of each primary aspect, and assign a straight line "-" at the start of every corresponding detail of each primary aspect. Do not add anything from your own knowledge. Rewrite from the passage only. Be specific to the topic. The primary aspects and their corresponding details must be presented in a logical and chronological sequence. Write in [TARGETLANGUAGE]. Here are the news articles : [PROMPT]

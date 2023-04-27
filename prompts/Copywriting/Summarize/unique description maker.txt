@@ -1,0 +1,18 @@
+AuthorName: Soban Tanoli
+AuthorURL: https://hukumat.com
+
+Title: Unique Description Maker
+Category: Summarize
+Teaser: Write a unique 250 words description from text provided
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-15T10:21:10.365Z
+Help: 
+ID: 1812764332350758912
+PromptHint: [Text that you want a description]
+PromptPackageID: 0
+
+Prompt:
+Write 250 words unique description in [TARGETLANGUAGE]
+
+[PROMPT]

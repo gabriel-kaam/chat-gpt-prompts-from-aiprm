@@ -1,0 +1,19 @@
+AuthorName: 編夢者Tomy
+AuthorURL: https://dreamcoder.online
+
+Title: Translate into Traditional Chinese 繁體中文
+Category: Improve
+Teaser: Put your words in and get best Traditional Chinese output!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-09T07:30:33.376Z
+Help: 
+ID: 1810547068113256448
+PromptHint: [words]
+PromptPackageID: 0
+
+Prompt:
+將以下 [TARGETLANGUAGE] 文字翻譯成繁體中文：
+[PROMPT]
+
+

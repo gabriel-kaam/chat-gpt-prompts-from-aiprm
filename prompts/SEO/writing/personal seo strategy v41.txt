@@ -1,0 +1,23 @@
+AuthorName: Ilir Hamitaj
+AuthorURL: https://www.linkedin.com/in/ilir-hamitaj/
+
+Title: Personal SEO Strategy v.4.1
+Category: writing
+Teaser: Create am SEO Article following 1 [keyword]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-07T09:54:50.418Z
+Help: 
+ID: 1798624578814349312
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+I Want You To Act As A Content Writer Very Proficient SEO Writer. Use at least 3 headings (including H1, H2, H3 headings). These headings should be included in the article and also a cta at the end. Write a 400-word 100% Unique, SEO-optimized, Human-Written Commercial article in [TARGETLANGUAGE]
+
+Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use formal "we" language with rich, detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). 
+
+The article should start with: if you are looking for...
+
+Now Write An Article On This Topic: [PROMPT]
+

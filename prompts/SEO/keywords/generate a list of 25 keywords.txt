@@ -1,0 +1,16 @@
+AuthorName: riss
+AuthorURL: https://www.iacontenu.fr/
+
+Title: Generate a list of 25 keywords
+Category: keywords
+Teaser: [ Keyword ]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-16T03:47:52.853Z
+Help: 
+ID: 1813027745077387264
+PromptHint: [ Keyword ]
+PromptPackageID: 0
+
+Prompt:
+ [TARGETLANGUAGE] and [PROMPT] Generate a list of 25 keywords closely related to [Keyword] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.

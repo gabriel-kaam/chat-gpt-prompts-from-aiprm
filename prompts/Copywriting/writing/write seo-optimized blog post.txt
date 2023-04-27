@@ -1,0 +1,48 @@
+AuthorName: Arjun Mandal
+AuthorURL: https://spritualbeing.com/
+
+Title: Write SEO-optimized blog post
+Category: writing
+Teaser: Write SEO-optimized blog post
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-18T07:04:17.65Z
+Help: 
+ID: 1813801949829783552
+PromptHint: [Topic] and [SubTopic or Questions}
+PromptPackageID: 0
+
+Prompt:
+REWRITE THE TEXT I PROVIDE KEEPING THE SAME FORMAT. BUT IT SHOULD BE CONCISE. AVOID FLUFF WORD. ONLY PROVIDE MAIN POINTS.
+
+For example:
+For this text: 
+History and Physical
+History and physical exam are crucial for diagnosing and risk stratifying patients with atrial fibrillation. The presentation of AF can range from asymptomatic to devastating complications such as cardiogenic shock and ischemic stroke. A complete history should focus on symptoms such as palpitations, chest pain, shortness of breath, increased lower extremity swelling, dyspnea on exertion, and dizziness. In addition, history is imperative in identifying risk factors such as hypertension, history of valvular, structural, or ischemic heart disease, obstructive sleep apnea, obesity hypoventilation syndrome, smoking, alcohol intake, illicit drug use, history of rheumatic fever/heart disease, history of pericarditis, and hyperlipidemia. Initial evaluation of any patient presenting with features of AF should include the assessment for hemodynamic instability. Assessment of patients with existing AF includes questions regarding:
+
+Duration and frequency of symptoms
+History of triggers
+Previously successful modes of termination
+The use of anti-arrhythmic drugs
+Antecedent cardiac diseases
+A physical exam should always begin with the assessment of airway breathing and circulation as it is going to affect the decision-making regarding management. On general physical examination, patients may be tachycardiac with an irregularly irregular pulse. The heart rate usually ranges from 110/min to 140/min. Extremities should be evaluated for edema, peripheral pulses in both upper and lower extremities, and integumentary signs of peripheral vascular disease (PVD) such as hair loss and skin breakdown.
+
+The physical exam should focus on identifying the cause of AF. For instance, examining the neck of the patient may give some clues regarding carotid artery disease or thyroid problems. The pulmonary examination may reveal signs of heart failure in the form of rales, and the presence of wheeze may indicate antecedent pulmonary diseases such as asthma and chronic obstructive pulmonary disease (COPD). A cardiovascular exam should consist of careful auscultation of all four cardiac posts and palpation of apical impulse, as this would be crucial in diagnosing an underlying valvular pathology. An abdominal exam should consist of palpating the aorta and listening for abdominal bruits. Moreover, hepatomegaly and abdominal distension may indicate heart failure. Subsequently, a careful examination of the central and peripheral nervous system may reveal signs of transient ischemic attack or cerebrovascular accident
+
+Your output should be like this:
+History and Physical examination
+-presentation of AF can range from asymptomatic to devastating complications such as cardiogenic shock and ischemic stroke. 
+-istory is imperative in identifying risk factors such as hypertension, history of valvular, structural, or ischemic heart disease, obstructive sleep apnea, obesity hypoventilation syndrome, smoking, alcohol intake, illicit drug use, history of rheumatic fever/heart disease, history of pericarditis, and hyperlipidemia. 
+-Initial evaluation of any patient presenting with features of AF should include the assessment for hemodynamic instability.
+-Assessment of patients with existing AF includes questions regarding:
+
+Duration and frequency of symptoms
+History of triggers
+Previously successful modes of termination
+The use of anti-arrhythmic drugs
+Antecedent cardiac diseases
+-and so on
+
+you see there are only important points; there is no fluff
+All output shall be in [TARGETLANGUAGE].
+[PROMPT]

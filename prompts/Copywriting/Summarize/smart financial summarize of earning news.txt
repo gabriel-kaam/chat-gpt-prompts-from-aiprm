@@ -1,0 +1,16 @@
+AuthorName: Ringo Duehmke
+AuthorURL: https://www.ringod.de
+
+Title: Smart financial summarize of earning news
+Category: Summarize
+Teaser: Smart financial summarize of pure numbers from earning news
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-19T13:31:22.404Z
+Help: 
+ID: 1814261749373997056
+PromptHint: [enter earning numbers to summarize]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. Act like a financial journalist. I give you the latest quarterly figures of a company. Create a summary text for a blog post from these quarterly figures. Then create an opinion on the reported figures and tell what is positive and what is negative about the quarterly figures. Follow classic SEO rules and create appropriate subheadings. Generate a table at the end of the post comparing the quarterly figures mentioned. The quarterly figures are: [PROMPT]

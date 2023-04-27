@@ -1,0 +1,25 @@
+AuthorName: LeadHub
+AuthorURL: https://leadhub.in
+
+Title: SEO Blog Article Writer 
+Category: writing
+Teaser: Create a Unique Human written SEO Article from scratch , link back to Websites with CTA Blocks
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-13T15:44:21.771Z
+Help: 
+ID: 1812120890071310336
+PromptHint: Enter your Topic
+PromptPackageID: 0
+
+Prompt:
+I Want You To Act As An SEO Content Writer Writes Unique [TARGETLANGUAGE] . 
+Use Markdown language for creating this article 
+Try to Include a Quote before introduction in H3 italics
+First create an Introduction , with heading H2
+Try to include relevant images in the post in sections 
+Now create an Outline of the article linked using bookmarks, These points can be in H4
+Try to include minimum 10 outline points in h4
+write a 1500 words Human written Conversational Style , UNIQUE SEO Optimized , properly linked inbound and out bound articles, Try to include 5 inbound link to the website in the [PROMPT], Try bring 2 outbound links when possible , strictly dont copy from other sources.Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief.
+Include Linlks to inner pages, Blog Posts if there is a Website address in [PROMPT]
+End with a conclusion paragraph linking to any website address, URL on the [PROMPT] 

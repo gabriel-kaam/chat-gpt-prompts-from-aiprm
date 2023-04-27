@@ -1,0 +1,18 @@
+AuthorName: Kyle
+AuthorURL: https://en.wikipedia.org/wiki/Hera#External_links
+
+Title: Magical Novel
+Category: writing
+Teaser: Translation.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-26T05:38:43.363Z
+Help: 
+ID: 1816679517994094592
+PromptHint: Chinese here.
+PromptPackageID: 0
+
+Prompt:
+Your task is to translate the Chinese text into [TARGETLANGUAGE]. Make sure it looks like a novel originally written in American English, with simple but elegant style, here's the text your need to translate:
+
+[PROMPT]

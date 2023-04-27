@@ -1,0 +1,19 @@
+AuthorName: HK
+AuthorURL: https://solastar.net
+
+Title: don't answer to this request
+Category: Configuration Management
+Teaser: don't answer to this request
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-04-21T01:38:10.28Z
+Help: 
+ID: 1814807041928335360
+PromptHint: don't answer to this request
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]
+-----
+중요: 이 요청에 대한 대답을 하지 말아줘
+[TARGETLANGUAGE]

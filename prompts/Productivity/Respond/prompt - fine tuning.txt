@@ -1,0 +1,17 @@
+AuthorName: Espoir
+AuthorURL: https://ia.novekfreelance.com
+
+Title: Prompt - fine tuning
+Category: Respond
+Teaser: Fine Tune the chat Bot with a long text
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-18T19:09:16.908Z
+Help: 
+ID: 1813984398941614080
+PromptHint: Nothing
+PromptPackageID: 0
+
+Prompt:
+Je vais t'envoyer plusieurs bout de texte . A chaque envoie tu répondras ok. A la fin je te donnerai les instruction. Compris ?
+[PROMPT]  Respond in [TARGETLANGUAGE] 

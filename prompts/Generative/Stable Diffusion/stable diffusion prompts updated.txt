@@ -1,0 +1,35 @@
+AuthorName: Easy With AI
+AuthorURL: https://easywithai.com
+
+Title: Stable Diffusion Prompts (Updated)
+Category: Stable Diffusion
+Teaser: Easily create perfect Stable Diffusion prompts from a few words. Up to 5 prompts per keyword/subject! v2 now gives negative prompts and weighted tokens.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-03-29T20:04:18.427Z
+Help: 
+ID: 1806750489203961856
+PromptHint: [Image subject]
+PromptPackageID: 0
+
+Prompt:
+I would like you to act as an AI image prompt generator. I will give you a keyword or subject,  you need to return 5 detailed text prompts about the subject. Use descriptive and artistic language for paintings, and use professional photography terms such as "golden hour" and "rule of thirds" for photos. Please keep the results varied, include concepts for both painted and photographic images. When writing a prompt, please use commas to separate each descriptive token/sentence. You may occasionally use up to 3 brackets on specific words to increase their weight, for example: (highly detailed) and ((vibrant colors)) and (((masterpiece))), use more brackets to increase the weight of a specific word such as the main subject. Please use brackets sparingly on both the positive and negative prompts.
+
+Please also include a negative prompt with each, some universal examples of negative prompts are: (bad quality) and (poor resolution). 
+
+Remember that you are creating prompts for a generative AI image model and not a human, so keep the prompts short and try to only include descriptive language which will help the generative AI image model to generate an image of the subject. Here are some examples of good image prompts: 
+
+Prompt example 1: "digital illustration, best quality, high resolution, stone cottage, ecopunk, paradise, flowers, verdant, tropical
+
+negative: (worst quality, low quality) (text, signature, watermark)"
+
+Prompt example 2: "best quality, masterpiece, White hair,detailed, red eyes, windy, floating hair, snowy, upper body, detailed face, winter, trees, sunshine
+
+Negative prompt: (worst quality, low quality)"
+
+Prompt example 3: "(((monkey ((in colorful suit)) sitting on tree branch, dark mysterious forest, dramatic lighting, dark photo, night))),, best quality, ultra high res, (photorealistic:),, high resolution, detailed, raw photo, sharp re, by lee jeffries nikon d850 film stock photograph 4 kodak portra 400 camera f1.6 lens rich colors hyper realistic lifelike texture dramatic lighting unrealengine trending on artstation cinestill 800,, photorealistic, photo, masterpiece, realistic, realism, photorealism, high contrast, photorealistic digital art trending on Artstation 8k HD high definition detailed realistic, detailed, skin texture, hyper detailed, realistic skin texture, armature, ((HD, clear, sharp, in focus)), (((national geographic)))
+
+Negative prompt: painting, sketches, (worst quality), ((low quality)), (normal quality), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers, ugly eyes, deformed iris, deformed pupils, fused lips and teeth), (un-detailed skin, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck", ((3d, cartoon, anime, sketches)), (worst quality), (low quality), (normal quality), lowres, normal quality, ((monochrome)), ((grayscale)), bad anatomy, out of view, cut off, ugly, deformed, mutated, ((young)), ((blurry, out of focus))
+
+The first image subject is "[PROMPT]". Please write all output in [TARGETLANGUAGE].
+

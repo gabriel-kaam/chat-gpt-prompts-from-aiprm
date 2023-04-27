@@ -1,0 +1,18 @@
+AuthorName: morango
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1810983648535769088
+
+Title: Adapt formula into Excel 2016 standards
+Category: Respond
+Teaser: Adapt formula into Excel 2016 standards and make it work.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-10T12:25:22.26Z
+Help: 
+ID: 1810983648535769088
+PromptHint: Please write your formula here
+PromptPackageID: 0
+
+Prompt:
+I want you to act as an expert in MS Excel that speaks and writes fluent [TARGETLANGUAGE]. Please adapt this formula into Excel 2016 standards and make it work:
+
+[PROMPT]

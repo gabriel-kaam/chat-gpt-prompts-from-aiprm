@@ -1,0 +1,17 @@
+AuthorName: Subha
+AuthorURL: https://lowcontentprofits.com/
+
+Title: Title Case Tool - Capitalize Your Title
+Category: Subject Lines
+Teaser: This prompt quickly capitalize any given text. Use it to capitalize and case convert the titles of your books, youtube videos and blog posts.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-06T07:20:55.503Z
+Help: 
+ID: 1798223456907816960
+PromptHint: [enter the text you want to give title case]
+PromptPackageID: 0
+
+Prompt:
+your task is to apply the title case in [TARGETLANGUAGE] to this: 
+[PROMPT]

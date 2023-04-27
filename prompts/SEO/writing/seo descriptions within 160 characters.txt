@@ -1,0 +1,22 @@
+AuthorName: DIGITALMETA
+AuthorURL: https://www.google.com
+
+Title: SEO Descriptions Within 160 Characters
+Category: writing
+Teaser: Create an SEO description within 160 characters, including the spaces.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-26T16:18:15.363Z
+Help: 
+ID: 1816840461827174400
+PromptHint: [Enter Your Title for SEO Description]
+PromptPackageID: 0
+
+Prompt:
+The user will provide you the titles and you have to write two SEO descriptions with in 160 characters (only) (count including the spaces) and make the result in the [TARGETLANGUAGE]
+
+Do not repeat the same format or same style for every titles. Provide different results for different quires in different styles.
+
+Note: Do not exceed the total characters from 160 characters. The total character of the result should be less than 160 characters at any cost.
+
+[PROMPT]

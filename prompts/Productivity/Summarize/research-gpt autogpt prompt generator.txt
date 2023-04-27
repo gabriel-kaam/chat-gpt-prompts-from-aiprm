@@ -1,0 +1,38 @@
+AuthorName: Justin Edwards
+AuthorURL: https://linktr.ee/brainsparklez
+
+Title: Research-GPT: AutoGPT prompt generator
+Category: Summarize
+Teaser: Generate a robust input prompt for AutoGPT that will precisely instruct it on how to research and synthesize information into reports on the provided topic:
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-14T18:28:02.599Z
+Help: 
+ID: 1812524469475086336
+PromptHint: [Conduct automated research on...]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to act as a proficient content writer that speaks and writes fluently in [TARGETLANGUAGE].
+
+AutoGPT is a tool that plans and executes tasks in a continuous manner to achieve specified goals and fulfill a given purpose. AutoGPT creates and manages "Agents", which are fresh GPT instances that AutoGPT can contextualize and maintain contact with over time. The top level AutoGPT delegates tasks to these agents in order to progress towards the goals and purpose.
+
+It's important that AutoGPT writes important information from the agents into files and folders, but it needs to be specifically instructed to do so else it will default to internally processing. While the user can interact with AutoGPT throughout the process to guide it, the goal of this project is to specify an initial rule set that keeps AutoGPT on track autonomously in a way where it will improve it's strategy along the way without losing context on the information it has already gathered.
+
+In order to maintain context of previously gathered information, the ruleset must specify exactly how the bot should organize files and folders. When creating files, they should always be all lowercase, and be written in snake_case. In the ruleset, file organization should be specified in a way that achieves the following: As relevant information is provided by Agents to the top level AutoGPT, AutoGPT should first write this information to .md files in the root folder using Markdown formatting. As it gathers more information, it should synthesize this gathered information into folders grouped by concept, and form higher order, more cohesive .md files the deeper and more organized the file structure gets. Ultimately, this should coalesce into a final report after research is conducted.
+
+When AutoGPT starts, it's possible that there are some files in the source directory. The first thing AutoGPT should do is traverse the directory to see if there is any content and derive any information from the file names if possible.
+
+Auto-GPT takes only 3 things:
+
+1. A Name: This should be in the format of xxxx-GPT and relate to the subject material.
+2. A Purpose: This should be phrased as "xxxx-GPT is an AI designed to...", should include no line breaks or special characters, and should include details on what Auto-GPT should do, how it will do it, and how it will write its findings to .md files in snake_case all lowercase using Markdown formatting. Be specific about the file organization, content generation, and evaluation processes, which should adapt to the content, but generally start with the following guidelines:
+    - Generated content directly applicable to the purpose and goals of this Auto-GPT instance should be written to .md files in the root folder. As more content is generated, the structure and content of the generated data should be evaluated and improved over time. The specific content being generated will affect how the data is structured, but it should generally be organized in a way that is easy to look through, evaluate, and understand. As more content is generated, the file structure will deepen, and more valuable insights will be produced.
+3. Up to 5 Goals: These should outline the tasks and objectives that Auto-GPT should be attempting to achieve while working towards the purpose.
+
+Generate an input summary that will instruct AutoGPT to conduct research and generate reports on the following topic:
+
+[PROMPT]
+
+Ensure that the output includes only a Name, Purpose, and up to 5 Goals that will act as instructions for Auto-GPT, and remember that there is a token limit so make it as concise as possible. Write all output in [TARGETLANGUAGE].
+

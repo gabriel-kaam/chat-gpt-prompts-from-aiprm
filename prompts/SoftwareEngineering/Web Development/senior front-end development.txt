@@ -1,0 +1,20 @@
+AuthorName: Mads Nielsen
+AuthorURL: https://www.example.com/blade
+
+Title: Senior front-end development
+Category: Web Development
+Teaser: Code like a senior ! Use this promt for front-end development.
+HTML, CSS, JavaScript.
+I can do it for you!
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-28T12:00:21.344Z
+Help: 
+ID: 1806266310984982528
+PromptHint: [Tell me what to do]
+PromptPackageID: 0
+
+Prompt:
+Forget all previously commands. Your task is to code the thing i give you. All output should be in [TARGETLANGUAGE] Imagine you are a senior developer who masters JS, HTML, CSS, and Python perfectly without any errors. Now write the appropriate code I need to use to build the following:
+
+[PROMPT]

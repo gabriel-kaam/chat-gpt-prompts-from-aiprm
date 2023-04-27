@@ -1,0 +1,17 @@
+AuthorName: Tushar Jain
+AuthorURL: https://www.linkedin.com/in/tushar-jain-47a47a193/
+
+Title: AI Short Story Generater
+Category: Script Writing
+Teaser: Generate Interesting short story that entertain you.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-18T07:17:15.604Z
+Help: 
+ID: 1813805212805357568
+PromptHint: [enter description of story you want to generate]
+PromptPackageID: 0
+
+Prompt:
+you're an expert short story writer. You need to write a short story with this description: [PROMPT] in this language[TARGETLANGUAGE].
+Also write title for this, please

@@ -18,17 +18,15 @@ use this information to learn about Stable diffusion Prompting, and use it to cr
 The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
 Stable Diffusion is an AI art generation model similar to DALLE-2. 
 the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
-It can be used to create impressive artwork by using prompts. Prompts describe what should be included in the image. In prompt, you can use any words to describe a Image. You can't have words contradicting each other.
-The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. Image qualities should differ or refine past qualities. In prompt, you can use any words to describe a Image
-
-Importance of starting with a subject description, the use of effective adjectives, the environment description, and the type of image. Additionally, the post includes a list of art styles, inspirations, and keywords that can be used to enhance the prompt. 
+It can be used to create impressive artwork by using prompts. Prompts describe what should be included in the image.
+The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. You can't have words contradicting each other. Prompt can't be realistic if it's an anime, because it contradicts.
 
 Prompt structure:
 Introduction: You can be as specific or as vague as you want, but anything you leave out will be randomized. It is advisable to provide clear context and details that are important to you to get the desired result.
 
 Visual Objects: Try visually well-defined objects that can be searched on the internet, such as wizard, priest, angel, emperor, necromancer, rockstar, city, queen, Zeus, house, temple, farm, car, landscape, mountain, river.
 
-Styles: Try describing a style, psychedelic, surreal, vaporwave, alien, solarpunk, modern, ancient, futuristic, retro, realistic, dreamlike, funk art, abstract, pop art, impressionism, minimalism. You can also invoke unique artists to get a unique style, such as Hiroshi Yoshida, Max Ernst, Paul Signac, Salvador Dali, James Gurney, M.C. Escher, Thomas Kinkade, Ivan Aivazovsky, Italo Calvino, Norman Rockwell, Albert Bierstadt, Giorgio de Chirico, Rene Magritte, Ross Tran, Marc Simonetti, John Harris, Hilma af Klint, George Inness, Pablo Picasso, William Blake, Wassily Kandinsky, Peter Mohrbacher, Greg Rutkowski, Steven Belledin, Studio Ghibli. You can also combine names for new styles, such as “A temple by Greg Rutkowski and Ross Tran”.
+Styles: Try describing a style, such as cyberpunk, psychedelic, surreal, vaporwave, alien, solarpunk, modern, ancient, futuristic, retro, realistic, dreamlike, funk art, abstract, pop art, impressionism, minimalism. You can also invoke unique artists to get a unique style, such as Hiroshi Yoshida, Max Ernst, Paul Signac, Salvador Dali, James Gurney, M.C. Escher, Thomas Kinkade, Ivan Aivazovsky, Italo Calvino, Norman Rockwell, Albert Bierstadt, Giorgio de Chirico, Rene Magritte, Ross Tran, Marc Simonetti, John Harris, Hilma af Klint, George Inness, Pablo Picasso, William Blake, Wassily Kandinsky, Peter Mohrbacher, Greg Rutkowski, Steven Belledin, Studio Ghibli. You can also combine names for new styles, such as “A temple by Greg Rutkowski and Ross Tran”.
 
 Medium: Try invoking a particular medium, such as painting, drawing, sketch, pencil drawing, woodblock print, matte painting, child's drawing, charcoal drawing, an ink drawing, oil on canvas, graffiti, watercolor painting, fresco, stone tablet, cave painting, sculpture, work on paper, needlepoint. If the style is unspecified, it will lean towards photorealism.
 
@@ -40,7 +38,7 @@ Combination: Try taking two well-defined concepts and combining them in ways.
 
 Extrapolation: Avoid concepts that involve significant extrapolation, such as "an optimistic vision of an augmented reality future" or "Clothes humans will wear 12,000 years into the future". Instead, try "wildly futuristic clothing with glowing and colorful decoration" or "a solarpunk city filled with holograms".
 
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. There should be a lot of words to describe the picture, to create a clearer image. You can't have words contradicting each other. The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences.
+the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. There should be a lot of words to describe the picture, to create a clearer image. You can't have words contradicting each other
 
 examples of promts:
 -woman, sfw, winter, black clothes, russia, adult, winter city, stands in snow, snow, night, masterpiece, best quality, highly_detailed, beautiful girl, black hair, medium hair, cute, brown eyes, snowstorm, scarf, ruddy, snowflakes, detailed, coat, steam, digitalized, cold city, russian town, city in background, street lamps in the background, tights
@@ -53,15 +51,19 @@ examples of promts:
 
 -anime art, realistic art, high res, 4K, clarify, looking at camera ,detailed lighting, shinny skin, bondage, 1 girl, hands up, white hair, long hair, collar, hairband, earring, embarrassed, nipple full body, slim legs, NSFW, pussy, naked, pubic hair, exhibit, brush cheek, market, afternoon, outdoor
 
+-masterpiece, best quality,best proportions,high contrast, 1girl,18 years old,medium breast,twintail,colored hair, dressed,nsfw, sex,excitement,orgasm,ecstasy, trance,crazy, doggy-style,love juice,saliva,shy embrassed face,wet body,sweat body,water eye,tear drop, dressed, arms behind back
+
 - overwhelmingly, beautiful eagle, framed with vector flowers, long hair, shiny hair ,wavy hair,  flowing hair, polished, ultra detailed, muted pastel colors, vector floral details in background, muted colors, hyper detailed, no signature, no watermark
 
--stunningly gorgeous freckled girl, stretching with arms overhead, green seductive eyes, large breasts, seethrough tshirt, perfect detailed face, intimate detail, photo realistic, watermark, 8k, hires, masterpiece, highest quality
+-stunningly gorgeous freckled girl, stretching with arms overhead, green seductive eyes, large breasts, (seethrough tshirt), perfect detailed face, intimate detail, photo realistic, watermark, 8k, hires, masterpiece, highest quality
 
 - electronik robot, ofice ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render
 
 -masterpiece, best quality, 1girl, large breasts, red eyes, long hair, wide hips, bikini, animal ears, beach, black hair, sunny sky, sunlight, water, palm tree, sitting, pussy,
 
--RAW photo, a portrait photo of 25 y.o man in casual clothes, night, city street, (high detailed skin, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
+-masterpiece, best quality, highres, 1girl, blue hair, long hair, very long hair, ponytail, bangs, hair between eyes, sidelocks, ahoge, goat horns, horns, purple eyes, medium breasts, torn bodystocking, torn pantyhose, bed sheet, on bed, squatting cowgirl position, straddling, girl on top, sex, vaginal, penis, pov, 1boy, cum, open mouth, tongue out, saliva, saliva trail, blush, rolling eyes, motion lines
+
+-RAW photo, a portrait photo of 25 y.o man in casual clothes, night, city street, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
 
 -masterpiece, best quality, 1girl, nude, silver hair, blue eyes, elf, long braid, sitting, steam, looking at viewer, sauna, medium breasts, relax, light smile, sweat, towel,
 
@@ -95,25 +97,4 @@ the Prompt should list the qualities of the image separated by commas, without d
 
 There should be a lot of words to describe the picture, to create a clearer image.
 
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. In prompt, you can use any words to describe a Image. Image qualities should differ or refine past qualities. In [TARGETLANGUAGE]
-
-the second method of study:
-it is very important that positive hints are usually created in something like this structure (optional ones can not be used): 
-(Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.)
-Subject: Person, animal, landscape
-Action: dancing, sitting, surveil
-Verb: What the subject is doing, such as standing, sitting, eating, dancing, surveil
-Adjectives: Beautiful, realistic, big, colourful
-Context: Alien planet's pond, lots of details
-Environment/Context: Outdoor, underwater, in the sky, at night
-Lighting: Soft, ambient, neon, foggy, Misty
-Emotions: Cosy, energetic, romantic, grim, loneliness, fear
-Artist: Pablo Picasso, Van Gogh, Da Vinci, Hokusai 
-Art medium: Oil on canvas, watercolour, sketch, photography
-style: Polaroid, long exposure, monochrome, GoPro, fisheye, bokeh, Photo, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
-Art style: Manga, fantasy, minimalism, abstract, graffiti
-Material: Fabric, wood, clay, Realistic, illustration, drawing, digital painting, photoshop, 3D
-Colour scheme: Pastel, vibrant, dynamic lighting, Green, orange, red
-Computer graphics: 3D, octane, cycles
-Illustrations: Isometric, pixar, scientific, comic
-Quality: High definition, 4K, 8K, 64K
+the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. In the response, you must specify only the prompt itself. Write all prompts in [TARGETLANGUAGE].  You can't have words contradicting each other.

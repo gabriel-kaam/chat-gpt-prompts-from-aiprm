@@ -1,0 +1,17 @@
+AuthorName: ElJaviLuki
+AuthorURL: https://github.com/ElJaviLuki
+
+Title: JavaDoc Creator
+Category: Text Editor
+Teaser: Creates a JavaDoc for a given method(s)
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-04-19T10:05:36.347Z
+Help: 
+ID: 1814209966257737728
+PromptHint: Write the method(s) you want to get the JavaDoc from.
+PromptPackageID: 0
+
+Prompt:
+Write ONLY the JavaDoc (in idiomatic [TARGETLANGUAGE]) for the following method(s). Push JavaDoc syntax to the limit by using tags and HTML where possible. Use @link ANY time you refer to a symbol. Do NOT copy the method(s).
+[PROMPT]

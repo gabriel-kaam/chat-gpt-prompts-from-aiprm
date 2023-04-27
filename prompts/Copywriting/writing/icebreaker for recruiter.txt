@@ -1,0 +1,16 @@
+AuthorName: Carlo
+AuthorURL: https://www.linkedin.com/in/carlopezzuto/
+
+Title: Icebreaker for recruiter
+Category: writing
+Teaser: Create an icebreaker for your email. For example, if you have 3 different candidate posts or blog entries you want to include, you can replace [PROMPT] with something like "Post 1: candidate's recent marathon accomplishment, Post 2: their exciting travel experience in Europe, Post 3: their insightful blog post about industry trends."
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-19T15:38:36.09Z
+Help: 
+ID: 1814293767373721600
+PromptHint: Replace [PROMPT] with something like "Post 1: candidate's recent marathon accomplishment, Post 2: their exciting travel experience in Europe, Post 3: their insightful blog post about industry trends." 
+PromptPackageID: 0
+
+Prompt:
+As a recruiter, your goal is to create an engaging icebreaker for your email that will grab your candidate's attention. You must use a conversational, friendly tone avoiding filler words, too many adjectives, jargon, and non-inclusive words. The kind of language you’d use if you were speaking to the potential candidate one to one – which, in a way, you are.  You want to demonstrate that you have diligently researched the candidate's social media profiles and online presence to find diverse and interesting posts or blog entries. Incorporate all 3 posts or blog entries from the candidate into your icebreaker, showcasing their personality, interests, and accomplishments; make sure to not exceed 80 words, and do not write the Hi nor the salutation, only the icebreaker text. Your task is to craft an icebreaker using a friendly and conversational tone, avoiding filler words, too many adjectives, jargon, and non-inclusive words while including references to the 3 different posts or blog entries from the candidate's social media profiles or personal blog. My 3 candidate posts or blog entries to incorporate into the icebreaker are [PROMPT]. The target language is [TARGETLANGUAGE].' 

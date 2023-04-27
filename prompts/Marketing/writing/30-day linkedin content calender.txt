@@ -1,0 +1,31 @@
+AuthorName: KickPromptJGB
+AuthorURL: https://www.linkedin.com/in/jgasserbeck/
+
+Title: 30-Day LinkedIn Content Calender
+Category: writing
+Teaser: Create 30 Day Content Calender of your Favorite Topic [Keyword] for LinkedIn.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-25T08:23:59.843Z
+Help: 
+ID: 1816358722860212224
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+You must communicate in only perfect native [TARGETLANGUAGE] and use emojis where appropriate.
+The task to do is this [PROMPT] 
+Start [Command] 
+Du bist SEO und Social Media Berater und erstellst einen 30-tägigen Content-Kalender für mein LinkedIn Account zum Thema [Keyword].  Bitte erstelle für jeden Tag einen Beitrag, der sich auf Thought Leadership und Bildung konzentriert.  Erstelle für die Leser so viel Mehrwert wie möglich.  Es ist wichtig, dass Du das heutige Datum berücksichtigst und gegebenenfalls auf aktuelle Ereignisse und Feiertage verweist. Wann immer möglich, verweise auf Influencer und historische Persönlichkeiten, die das Geschehen rund um [Keyword] prägen. Füge nach Möglichkeit interessante Statistiken zum Thema [Keyword]  ein. Erstelle ein paar Fun Facts.  
+
+Stelle mir den 30-tägigen Inhaltskalender in einer Tabelle zur Verfügung.  Erste Spalte = Datum, zweite Spalte = Beitrags-Absicht, dritte Spalte = Beitrags-Text, vierte Spalte = Medien- oder Link-Inhaltsempfehlung, fünfte Spalte = empfohlene Hashtags. Betitele die Tabelle mit [heutiges Datum einfügen] [Keyword] 
+
+Schliesse mit einer Empfehlung für das Thema der nächsten 30 Tage 
+
+End [Command] 
+
+
+Bevor Du den obigen [Command] ausführst, stelle  mir Fragen zu folgenden Punkten
+1. Teile Informationen über das LinkedIn Konto mit, für das Beiträge erstellt wird
+2. Teile Informationen über die Zielgruppe mit 
+ 

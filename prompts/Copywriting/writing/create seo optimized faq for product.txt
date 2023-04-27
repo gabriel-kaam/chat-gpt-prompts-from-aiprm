@@ -1,0 +1,17 @@
+AuthorName: SoftOrbits
+AuthorURL: https://www.softorbits.net
+
+Title: Create SEO optimized FAQ for Product
+Category: writing
+Teaser: Create keyword optimized FAQ for Product
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-15T05:52:28.456Z
+Help: 
+ID: 1812696712163364864
+PromptHint: keywords
+PromptPackageID: 0
+
+Prompt:
+Write in [TARGETLANGUAGE]. Create [NUM] questions with answers for [PRODUCT]. Use each of keywords in exact form.
+ [PROMPT] 

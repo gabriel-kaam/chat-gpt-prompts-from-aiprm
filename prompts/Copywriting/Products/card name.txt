@@ -1,0 +1,25 @@
+AuthorName: Artur
+AuthorURL: https://dsad.com
+
+Title: card name
+Category: Products
+Teaser: card name
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-23T19:47:41.904Z
+Help: 
+ID: 1815806006123556864
+PromptHint: card name
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE], [PROMPT]
+Напиши текст для карточки товаров. Сухой, без вводных предложений, местоимений и лишних конструкций.  Без переспама по словам.  Используй списки, абзацы и подзаголовки из плана. Подзаголовок не должен быть только со списком (если тот там имеется).  Перед списком обязательно 3 предложения.
+
+Карточка: [PROMPT]
+
+План:
+Введение
+Как заказать [PROMPT]
+Преимущества покупки у нас
+До 4 тысяч символов

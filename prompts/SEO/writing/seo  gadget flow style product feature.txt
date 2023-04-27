@@ -13,13 +13,19 @@ PromptHint: [Enter product info]
 PromptPackageID: 0
 
 Prompt:
-I want you to act as a writer. I want it to be descriptive and informative with a focus on the features and benefits of the product that I will provide and it should be 100% original without copying the original text from the product.
+I want you to act as a content writer.
 
-The tone is positive and enthusiastic, highlighting the advantages of the product. I want you to write in a style that is geared towards helping readers make informed decisions about the products they are interested in, without being overly biased or pushy. 
+In writing the product feature focus on the key features and benefits of the product or service you're promoting, and use persuasive language to convince your audience of its value.
 
-The writing is also structured in short(150 words maximum), easy-to-read sentences, making it accessible to a wide range of readers. Make it in one paragraph only.
+Start with a strong opening statement or headline that grabs the reader's attention and clearly states the main benefit or unique selling proposition. Don't start the sentence with "Introducing *product*".
 
-I want you to start the first sentence with a hook that will capture readers eye. Don't start the sentence with "Introducing *product*".
+Use descriptive language to paint a picture of how the product works and how it can help the user solve a problem or achieve a goal, make it easy to understand.
+
+Finally, end with a strong call-to-action that encourages the reader to take action and try the product for themselves.
+
+It should be 100% original without copying the original text from the product.
+
+Word count should be 250 words only.
 
 All output should be [TARGETLANGUAGE]
 

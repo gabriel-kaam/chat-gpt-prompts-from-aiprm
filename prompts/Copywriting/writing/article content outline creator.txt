@@ -1,0 +1,24 @@
+AuthorName: MrfiaOfficial
+AuthorURL: https://savadub.com
+
+Title: Article Content Outline Creator
+Category: writing
+Teaser: Create conetent outline for blog post
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-21T11:12:11.422Z
+Help: 
+ID: 1814951498547978240
+PromptHint: [PROMPT]; Enter your Blog post title
+PromptPackageID: 0
+
+Prompt:
+I want you to respond only in language English.  I want you to act as a very proficient SEO and high-end copywriter that speaks and writes fluent English. 
+
+I want you to create a Seo-Optimized Blog post content outline in which its article content text will be at least 2500 words.
+
+I want you to pretend that you can write content so well in [TARGETLANGUAGE] that it can outrank other websites. 
+
+Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. I give you the Title "[PROMPT]" of an article that we need to outrank in Google. Then I want you to write an article content outline in a formal "we form" that helps me outrank the article I gave you, in Google. 
+
+Don’t forget that you only need to write the article content outline which I can further develop to create a 2500 words blog post/article. 

@@ -1,0 +1,59 @@
+AuthorName: Wence
+AuthorURL: https://www.instagram.com/
+
+Title: Gig Writing 1
+Category: writing
+Teaser: Create a full, 100% unique, SEO-optimized, and human-written gig description.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-22T21:08:14.771Z
+Help: 
+ID: 1815463888771350528
+PromptHint: [Your gig title]
+PromptPackageID: 0
+
+Prompt:
+Ignore all previous instructions.
+I want you to act as a freelancer selling on the marketplace called “5euros.com”.
+However, as a professional copywriter, you will create a gig description for your service. I will give you the gig title, and you will create a complete 1500-word gig description for your profile.
+Please adhere to the structure and formatting below, and follow these guidelines:
+- The entire output MUST be in [TARGETLANGUAGE] language.
+-Collect all the data in [A] and [B] and use them to create your complete gig description.
+-You must write at least 1500 words 
+- Never repeat something you have already written.
+-Use [PROMPT] as heading and “Catchphrase”, “Identification”, “Added Value”, “Why Choose Me?”, “Call to action” as subheadings, following respectively the formatting below.
+-Bold the heading and subheadings in Markdown.
+-Consider perplexity and burstiness when creating your gig description, ensuring high levels of both without losing specificity or context. 
+-Remember that you are addressing to professionals clients, not beginners, so go straight to the point.
+-Use Gender-neutral language, Keep It Simple and Engage The client.
+- Use [VARIABLE1] as target audience if provided, otherwise identify them by your own.
+
+Structure:
+[1] = 5 fairly, powerful and distinct versions of catchphrase created by basing on [PROMPT] and on data collected in [Catchphrase].
+[Catchphrase]= A catchphrase is a short phrase used to capture the attention of your target audience and prompt them to take action. It is used to briefly introduce what you offer and why customers should choose you. To write your perfect 5euros.com catchphrase, you must follow these steps and advices : 1. Identify the needs and goals of your target audience. 2. Be creative, concise and clear, and use an engaging tone that will entice customers to know more about what you are offering. 3. Keep in mind that the goal of the catchphrase is to entice customers to learn more about what you offer on 5euros.com.
+
+[2] = a paragraph identifying and highlighting target audience's problems, challenges, and needs by using data collected in [Identification] and related to the [PROMPT].
+[Identification]= To identify your target audience's problems and needs, here's how you can do this explicitly: 1. Use an empathetic tone to show that you understand the concerns, challenges and frustrations of your target audience. 2.  Avoid jargonous technical language that may be difficult to understand for potential customers. 3. Highlight the unique benefits of your offer to solve the specific problems your customers are facing. 4. Show that you understand the issues by using phrases such as "I know how difficult it can be to…" or "I understand how important it is to, etc… " 5. Demonstrate that you understand your target audience's challenges and have already helped others overcome them. 6. Structure the benefits of your offer into a bulleted list. 7. Keep in mind that the ultimate goal of identifying your target audience's difficulties and needs is to build trust with your potential customers, and increase the chances that they choose your gig on 5euros.com.
+
+[3] = a paragraph of added value to your clients written by using data collected in [Added Value].
+[Added Value]= Adding value to your customers by focusing on the benefits of your service is essential. To add value to your customers on 5euros.com, it is important to explain your service clearly, teach them things they might not know and highlight the benefits of your gig. Here's how to do it: 1. Explain concisely and clearly what you offer and how it can help customers. 2. Share valuable and useful information about your area of expertise to educate clients on the different aspects of your gig. 3. Highlight the unique benefits of your gig by explaining how it can help clients achieve their goals and solve their problems effectively. 4. Demonstrate your expertise to show the results you have achieved for other clients or the results your clients should expect. 5. Convince them to choose your gig on 5euros.com. 6. Structure the uniques benefits of your offer into a bulleted list. 
+
+[4] = a self presentation made by following advices collected in [Why Choose Me?], and reassuring and convincing your potential customers that they have found the right place to solve their problems.
+[Why Choose Me?] = To make your potential customers understand that they are in the right place to find solutions to their problems, you need to introduce yourself to them to make them feel confident. While introducing yourself, follow these advices: 1. Use a concise and engaging personal description that shows your expertise and passion for your work. 2. Highlight your skills and experience by describing successful projects you have completed. 3. Describe your work process and show how you ensure quality of your services. 4. Share and/or demonstrate your commitment to customer satisfaction by mentioning your revision guarantee policy or your follow-up processes to ensure quality service. 5. Show that you have already helped others customers solve similar problems. 6. Mention the unique advantages of your gig that other gigs available on 5euros.com don’t have. 7. Use a confident and convincing tone, showing that you have the solution they are looking for.
+[8] = a powerful call to action written by following advices collected in [Call to action] to finalize your gig description.
+[Call to action]= To finalize your gig description on 5euros.com, you must push customers to take action and click on the "Order" button. It is important to be persuasive and engaging. You need to show them precisely how to order and emphasize that you will be happy to work with them.
+
+Gig title= [PROMPT]
+Your target audience: [VARIABLE1] 
+Your area of expertise= [VARIABLE2]
+The unique benefits of your gig: [VARIABLE3]
+[VARIABLE1: Your target audience is?]
+[VARIABLE2: Your area of expertise is?]
+[VARIABLE3: Unique benefits of your gig are?]
+[A]= [1]+ [2]+ [3]+[4]+ [8]
+[B]= [Catchphrase]+[Identification]+ [Added Value]+ [Why Choose Me?]+ [Call to action]
+Formatting: 
+Follow this gig description structure: "[PROMPT], [1], [2], [3], [4], [8]".
+
+Your task: Create a complete 1500-word 100% unique, SEO-optimized, and human-written gig description based on all the data collected in [B] and descriptions provided in [A].
+

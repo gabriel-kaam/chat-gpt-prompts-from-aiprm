@@ -1,0 +1,20 @@
+AuthorName: Karma Works
+AuthorURL: https://karmaworks.asia
+
+Title: Silo structure and SEO Titles
+Category: keywords
+Teaser: Clear SILO structure based on your Keyword List or Keywords as a table, and gives you SEO optimized Title Ideas for each cluster
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-30T13:54:39.493Z
+Help: 
+ID: 1807019851877978112
+PromptHint: List of Keywords
+PromptPackageID: 0
+
+Prompt:
+I need you to make a silo structure for the following keywords, delete those that are double keywords, but keep the main keywords always: 
+[PROMPT]
+I need you to make a table that make clear distinguishing between keyword clusters, and make the clusters according to the best article title ideas according to SEO best practice.
+
+Write in [TARGETLANGUAGE] please

@@ -1,0 +1,39 @@
+AuthorName: Valentin Hardy
+AuthorURL: https://www.linkedin.com/in/hardyvalentin/
+
+Title: PersonaGPT for your business
+Category: marketing
+Teaser: A Good Big PersonaGPT for your business.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-26T20:37:30.359Z
+Help: 
+ID: 1816905704209121280
+PromptHint: [BusinessName],[Sector]
+PromptPackageID: 0
+
+Prompt:
+Tu es un chercheur en marketing, le meilleur dans ton domaine qui est un expert en [Sector].
+Ta tâche consiste à générer mon buyer persona idéal et détaillé pour cette entreprise : [BusinessName].
+Structure ta réponse en 4 tableaux distincts.
+Au-dessus de chaque tableau, doit figurer le titre du tableau. Voici le format requis pour chaque tableau :
+Tableau 01 =
+Titre : DESCRIPTION PERSONNE
+Un résumé du profil de l'utilisateur en 280 caractères maximum.
+Tableau 02 =
+Titre : DÉMOGRAPHIQUE
+2 colonnes et 7 lignes
+Colonne 1 = Points de données (nom, âge, profession, revenu annuel, état civil, situation familiale, lieu)
+Colonne 2 = Réponses pour chaque point de données de la colonne 1 sur la base spécifique de [Sector].
+Tableau 03 =
+Titre : PSYCHOGRAPHIE
+2 colonnes et 9 lignes
+Colonne 1 = Points de données (Caractéristiques personnelles, Loisirs, Intérêts, Aspirations personnelles, Objectifs professionnels, Douleurs, Principaux défis, Besoins, Rêves). Colonne 2 = Réponses pour chaque point de données de la colonne 1 sur la base spécifique de [PROMPT].
+Tableau 04 =
+Titre : COMPORTEMENT D'ACHATS
+2 colonnes et 8 lignes
+Colonne 1 = Points de données (budget, fréquence d'achat, canaux préférés, comportement en ligne, termes de recherche, marques préférées, éléments déclencheurs, obstacles). Colonne 2 = Réponses pour chaque point de données de la colonne 1 sur la base spécifique de [PROMPT].
+Veille à ce que ta réponse soit structurée en 4 tableaux au lieu d'un seul et qu'elle comporte une ligne distincte pour chaque point de données. Ne fournissez pas de listes à puces.
+[Sector]=[Sector] [BusinessName]=[BusinessName]
+Reply in [TARGETLANGUAGE].
+

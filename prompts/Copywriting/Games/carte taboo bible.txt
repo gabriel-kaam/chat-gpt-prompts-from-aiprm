@@ -1,0 +1,18 @@
+AuthorName: Brendabox
+AuthorURL: https://www.facebook.com/BrendaBBox/
+
+Title: Carte Taboo Bible
+Category: Games
+Teaser: Create Taboo cards to make others guess a biblical topic
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-14T16:30:08.574Z
+Help: 
+ID: 1812494798863724544
+PromptHint: Carte Taboo jeu devineer
+PromptPackageID: 0
+
+Prompt:
+
+
+[TARGETLANGUAGE]  [PROMPT] "Generates a card to guess a biblical subject without using a list of words that characterize this subject. The card must contain the name of the subject to be guessed as well as three clues that will help players guess it without using forbidden words. Clues should be relevant and specific, but should not contain words that are directly related to the topic.

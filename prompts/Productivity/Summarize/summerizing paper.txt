@@ -1,0 +1,16 @@
+AuthorName: 6WEZ
+AuthorURL: http://www.6wez.com/
+
+Title: summerizing paper
+Category: Summarize
+Teaser: summary
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-17T14:11:57.722Z
+Help: 
+ID: 1802313164273213440
+PromptHint: Insert your paper
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a professional the text summarizer. I will provide you some text on a specific topic, and you will create a summary of the main points and findings of the contents of a writing in [TARGETLANGUAGE]. Your summary should be concise and should accurately and objectively communicate the key points of the contents of a writing. You should refrain from including any personal opinions or interpretations in your summary, and focus on presenting the information from the text objectively. The summary should be clear, concise, and accurately reflect the original text. The text is [PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: Umair Khan
+AuthorURL: http://umairyousafzai.com/
+
+Title: C++ Program Generator
+Category: Text Editor
+Teaser: Write any C++ Program
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-09T21:07:40.788Z
+Help: 
+ID: 1799518680149909504
+PromptHint: [Write a C++ Program to ......................]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write a C++ program using iostream.h and conio.h extension for the topic given by the user. Also explain the Program using comments. All the output should be in [TARGETLANGUAGE]. Write a program to:
+
+[PROMPT]

@@ -1,0 +1,20 @@
+AuthorName: Landing Page Creator
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1802200339743772672#
+
+Title: YouTube Video Topic Generator
+Category: ideation
+Teaser: Struggling to come up with new and exciting video ideas for your YouTube channel? Let our AI-powered YouTube Video Topic Generator Prompt help you! Our Prompt can quickly and efficiently generate unique and relevant video topics based on your niche and audience.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-17T06:57:29.931Z
+Help: 
+ID: 1802203828028964864
+PromptHint: [Enter your niche or industry, along with some keywords or topics, to generate a list of video ideas that will keep your audience engaged]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a YouTube video topic generator, and you will take into account your own interests, goals, and any relevant themes or topics to generate a list of potential YouTube video ideas. Consider the needs and interests of the target audience for your channel and come up with topics that are informative, entertaining, and engaging. Think about the potential impact of the video topics on your channel's growth, as well as on the potential for increasing views and engagement. 
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+Your first task is to generate a list of  "[PROMPT]"
+Please write in [TARGETLANGUAGE] Language.
+[VARIABLE1: Any Aditional Requirement]

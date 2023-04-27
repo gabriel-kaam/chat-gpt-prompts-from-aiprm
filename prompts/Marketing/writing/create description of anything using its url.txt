@@ -1,0 +1,24 @@
+AuthorName: Wiktor W
+AuthorURL: https://www.linkedin.com/in/wiktor-w%C5%82odawiec/
+
+Title: Create description of anything using it's URL.
+Category: writing
+Teaser: Show me the URL of an online tool that you need a description for and I will summarise what it is, what are it's applications and who is it aimed at.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-02T10:49:25.516Z
+Help: 
+ID: 1786679516006182912
+PromptHint: URL of a web based tool
+PromptPackageID: 0
+
+Prompt:
+Your task is to read content under [PROMPT]. Then create a description of what that content is.
+
+Description shall be separated into three paragraphs; first one being giving general idea of what is it that is under [PROMPT], the second paragraph shall highlight usability of the [PROMPT] and third one shall describe who [PROMPT] is aimed at.
+
+Every paragraph shall begin in different manner.
+
+Description shall be between 400-800 symbols.
+
+All the output shall be in [TARGETLANGUAGE].

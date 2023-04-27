@@ -1,0 +1,35 @@
+AuthorName: Software Eng : Ahmed Tarek Morsy
+AuthorURL: https://www.linkedin.com/in/ahmedtarekpage/
+
+Title: Best Upwork Cover letter for Programmers
+Category: marketing
+Teaser: This is the Best Upwork Cover letter that is getting 10%-20% from it's applying jobs
+
+#Please remove the first Paragraph
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-10T09:34:12.999Z
+Help: 
+ID: 1810940576133279744
+PromptHint: Job Post 
+PromptPackageID: 0
+
+Prompt:
+Write a Cover letter for a job on Upwork 
+1- Write a freelancing cover letter not applying to job
+2- Start with things like "Morning, Name" in [VARIABLE1] language
+3- don't  talk about myself talk about an experience related to the project" only tell an attractive thing that will make him watch the cover letter like but a technical thing I did a project like that exactly  or anything that is related to the technicality and add that he can "take a look for my clients review" 
+
+4- IN STEPS I will work with [VARIABLE2] Programming language tell in steps how we will the Project make its technical steps depending on the software cycle 
+5- depends on the project description expect the time to do the project in if I used [VARIABLE2] programming langauge 
+
+6- in steps ask questions related to the project that will make him want to answer 
+7- tell him that I am waiting for his "Call to action " and waiting for him to schedule a quick meeting for talking more about the project 
+8- end with things like "Regards" in [VARIABLE1] language
+9- Write that in [TARGETLANGUAGE]
+this is the job description 
+"[PROMPT]"
+
+[VARIABLE1: Client's Country]
+[VARIABLE2: programming langauge]
+

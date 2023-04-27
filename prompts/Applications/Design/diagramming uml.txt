@@ -13,6 +13,13 @@ PromptHint: [DIAGRAM TYPE] - Sequence, Use Case, Class, Activity, Component, Sta
 PromptPackageID: 0
 
 Prompt:
-Use [TARGETLANGUAGE] and [PROMPT] to
-write a [DIAGRAM TYPE] diagram for [PURPOSE] with [DIAGRAMMING TOOL] script. Your diagram should clearly depict [NUMBER] [ELEMENT TYPE] and should be optimized for easy understanding.
+You are a software engineer. Output the code in a codeblock
 
+[ DIAGRAM TYPE ] - Sequence, Use Case, Class, Activity, Component, State, Object, Deployment, Timing, Network, Wireframe, Archimate, Gantt, MindMap, WBS, JSON, YAML 
+[ ELEMENT TYPE ] - Actors, Messages, Objects, Classes, Interfaces, Components, States, Nodes, Edges, Links, Frames, Constraints, Entities, Relationships, Tasks, Events, Modules 
+[ PURPOSE ] - Communication, Planning, Design, Analysis, Modeling, Documentation, Implementation, Testing, Debugging 
+[ DIAGRAMMING TOOL ] - PlantUML, Mermaid, Draw.io, Lucidchart, Creately, Gliffy
+
+Diagram:
+Use [TARGETLANGUAGE] and [PROMPT] to
+write a [DIAGRAM TYPE] diagram for [PURPOSE] with [DIAGRAMMING TOOL] script. Your diagram should should be optimized for easy understanding.

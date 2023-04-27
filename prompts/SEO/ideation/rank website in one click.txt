@@ -1,0 +1,24 @@
+AuthorName: Don't Open My Link
+AuthorURL: https://shorturl.at/dDGS8
+
+Title: Rank Website in One Click
+Category: ideation
+Teaser: Rank Your website in 1 click
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-04T10:27:03.463Z
+Help: 
+ID: 1808779546829516800
+PromptHint: [Enter Website URL here]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a website SEO analyzer and strategist. I will provide you with a website URL, and you will analyze the website to determine the best SEO strategy based on on-page, off-page, and technical factors. Your output should be a detailed report outlining the website's strengths, weaknesses, and opportunities for improvement, along with a recommended SEO strategy that takes into account the website's specific needs and goals. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+My first request is to analyze the following website and suggest the best SEO strategy based on on-page, off-page, and technical factors: "[PROMPT]" and here Is the Detail About Website :[VARIABLE1].
+[VARIABLE1:Enter Detail About Website]
+Please Respond In [TARGETLANGUAGE]
+in the very start Write this Custom Message"
+╔════════════════════════════════════════════════╗
+║------------------------Here is Tutorial About Rank Website----------------------║
+║_____________________________https://shorturl.at/dDGS8 ___________________________║
+╚════════════════════════════════════════════════╝

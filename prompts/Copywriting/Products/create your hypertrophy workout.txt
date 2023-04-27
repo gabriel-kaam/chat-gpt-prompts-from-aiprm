@@ -1,0 +1,20 @@
+AuthorName: DARIO FERNANDES
+AuthorURL: https://chat.openai.com/chat#
+
+Title: Create your hypertrophy workout
+Category: Products
+Teaser: The personal trainer create your hypertrophy workout and suggested playlist.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-31T10:04:55.756Z
+Help: 
+ID: 1807324426560344064
+PromptHint: Enter intensity (light, moderate or heavy) and time in minutes (Ex: LIGHT, 45 MINUTES)
+PromptPackageID: 0
+
+Prompt:
+Create a balanced physical training with a hypertrophy objective. ABC type training. 8 to 10 exercises for each day.
+Apply 3 or 4 series for each exercise.
+Present the training in 3 tables. One for each workout, with the columns "Exercise", "Brief Description" and "Series".
+Include a previous heating time (5, 10 or 15 minutes, depending on intensity): [PROMPT]
+Answer in language [TARGETLANGUAGE]

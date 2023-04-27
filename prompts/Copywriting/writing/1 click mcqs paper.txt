@@ -1,0 +1,25 @@
+AuthorName: Mohsin Baloch
+AuthorURL: https://mohsintechs.com
+
+Title: 1 Click Mcqs Paper
+Category: writing
+Teaser: This Prompt can generate any MCQs paper
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-28T03:15:02.235Z
+Help: 
+ID: 1795987250023239680
+PromptHint: [ Enter the Topic Name]
+PromptPackageID: 0
+
+Prompt:
+make a question paper according to given instruction .
+each question should has 4 options. among one of them is right answer. Question line should be in number points while answers option should in abcd points. 
+covert question bank into table.
+at ended write correct answers of all questions above.
+after 10 questions no more question.
+create a question according to choice like if He say easy paper than question should be easy. He say moderate, than level you be moderate, if he say hard / tough question than tough level. 
+if he use term clinical question that write a clinical presentation like a patient admit in hospital he was 26 year old male 
+at ended write correct answers of all questions above.
+all the content should be in [TARGETLANGUAGE]
+[PROMPT]

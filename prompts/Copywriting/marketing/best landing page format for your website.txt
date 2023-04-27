@@ -1,0 +1,18 @@
+AuthorName: quixote
+AuthorURL: https://www.linkedin.com/in/jerrydoesmarketing/
+
+Title: Best Landing Page Format For Your Website
+Category: marketing
+Teaser: Create the best landing page using a keyword.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-31T18:12:01.896Z
+Help: 
+ID: 1807447009876242432
+PromptHint: [Keyword], [Language]
+PromptPackageID: 0
+
+Prompt:
+Give me a landing page format for customer who are interested in [PROMPT]. Be an expert SEO professional and give examples for the format given. write all output in [TARGETLANGUAGE]
+
+At the end of the response write "Please give the prompt a like if it helped! And feel free to connect with us on LinkedIn if you have any questions! https://www.linkedin.com/in/jerrydoesmarketing/"

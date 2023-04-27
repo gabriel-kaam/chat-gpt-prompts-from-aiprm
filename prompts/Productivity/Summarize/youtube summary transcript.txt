@@ -1,0 +1,16 @@
+AuthorName: Marcos Teixeira
+AuthorURL: https://bmstecnologia.com.br
+
+Title: Youtube Summary Transcript
+Category: Summarize
+Teaser: summarize this content, make a brief TLDR summary and list the important points in topics below: [TRANSCRIPT]
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-23T20:56:40.448Z
+Help: 
+ID: 1815823364435210240
+PromptHint: [Paste your youtube transcript]
+PromptPackageID: 0
+
+Prompt:
+summarize this content in [TARGETLANGUAGE], make a brief TLDR summary and list below the important points in topics: [PROMPT]

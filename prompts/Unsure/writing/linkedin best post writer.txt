@@ -1,0 +1,19 @@
+AuthorName: Vivian Opoku
+AuthorURL: https://vivianopoku.com/
+
+Title: LinkedIn Best Post writer
+Category: writing
+Teaser: Write your LinkedIn post with this to be professionally active.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-11T13:17:16.621Z
+Help: 
+ID: 1811359098978168832
+PromptHint: [Text that you want the post on]
+PromptPackageID: 0
+
+Prompt:
+Your task s to write a LinkedIn post in 120 words. Use Emojis with text to make it reader friendly. All Output should be [TARGETLANGUAGE]. The post to write is this:
+[PROMPT]
+
+

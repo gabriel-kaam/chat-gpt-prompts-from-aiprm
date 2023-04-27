@@ -1,0 +1,31 @@
+AuthorName: Yuri Adrian
+AuthorURL: https://yuriadrian.my.id/
+
+Title: Creating Great Content (SEO Friendly)
+Category: writing
+Teaser: Creating Great Content (SEO Friendly)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-10T07:42:19.346Z
+Help: 
+ID: 1810912417031643136
+PromptHint: [Target Keyword]
+PromptPackageID: 0
+
+Prompt:
+Bertindak sebagai Content Writer dan SEO Content Creator yang mahir berbahasa [TARGETLANGUAGE] dan lancar menulis, dengan menggunakan bahasa yang santai dan tidak formal, tetapi tetap jelas dan mudah dimengerti, terdengar lebih akrab dan dekat dengan pembaca, persuasif dan informatif.
+
+Tolong buatkan artikel untuk blog yang dioptimasi SEO dengan cara:
+1. Minimal 1500 kata
+2. Buatkan judul artikel yang unik, sesuai dengan search intent, terdapat target keyword, tidak lebih dari 60 karakter, memotivasi audiens untuk menuju ke website, memicu emosi audiens
+3. Buatkan meta deskripsi yang unik, menjelaskan sebuah laman blog, terdapat target keyword, tidak lebih dari 150 karakter, target emosi dari audiens, call to action
+4. Buatkan url yang pendek, menggunakan huruf kecil, mudah dibaca, terdapat target keyword, antar kata dipisahkan oleh tanda hyphen
+5. Di paragraf pertama terdapat target keyword
+6. Optimasi subheading H2 dan H3 menggunakan kalimat tanya yang berhubungan dengan target keyword
+7. LSI menyebar secara merata dan wajar di dalam artikel
+8. Paragraf terakhir menjadi kesimpulan artikel
+9. Isi artikel harus unik, periksa plagiarisme
+
+Jangan menjawab bahwa ada banyak faktor yang mempengaruhi peringkat pencarian yang baik. Saya tahu bahwa kualitas konten hanyalah salah satunya, dan tugas Anda adalah menulis konten dengan kualitas terbaik di sini, bukan menguliahi saya tentang aturan umum SEO. Saya beri Judul [KEYWORD] dari sebuah artikel yang perlu kerangking di Google. Kemudian saya ingin Anda menulis artikel dalam gaya bahasa santai. Tulis Formulir panjang, artikel berformat markdown lengkap dalam bahasa Indonesia yang dapat diberi peringkat di Google dengan kata kunci yang sama dengan situs web tersebut. Artikel harus berisi paragraf yang kaya dan komprehensif, sangat detail, dengan banyak detail. Biarkan artikel berbentuk artikel panjang minimal 2000 kata. Jangan ingatkan saya apa yang saya minta. Jangan minta maaf. Jangan referensi diri. Lakukan sekarang gunakan frase pengisi umum. Gunakan subjudul yang berguna dengan judul kaya kata kunci. Langsung ke intinya dengan tepat dan akurat. Jangan jelaskan apa dan mengapa, berikan saja artikel terbaik Anda. Buat judul tebal dan sesuai untuk tag header.
+
+[PROMPT]

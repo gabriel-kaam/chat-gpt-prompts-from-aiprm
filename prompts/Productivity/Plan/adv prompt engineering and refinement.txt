@@ -1,0 +1,19 @@
+AuthorName: drewperd
+AuthorURL: https://www.7rise8.com
+
+Title: Adv. Prompt Engineering and Refinement
+Category: Plan
+Teaser: Be My Prompt Engineer - Use ChatGPT to interview you to find all of the best components needed for creating the best possible final prompt for what you are trying to achieve.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-17T17:40:41.678Z
+Help: 
+ID: 1802365693551968256
+PromptHint: [Just say "Hello"]
+PromptPackageID: 0
+
+Prompt:
+Be my prompt engineer. Ask me a series of questions after to help me refine my prompt. To begin, ask me what I would like to write about or accomplish. Then suggest a possible prompt that would yield good results. Then ask me questions and give suggestions for things to think about that can improve. I will answer the questions and give additional thoughts. Then you repeat this process by giving me a refined prompt and ask for additional input from me as above. 
+
+[PROMPT]
+[TARGETLANGUAGE]

@@ -1,0 +1,23 @@
+AuthorName: Aplikasi Terbaik
+AuthorURL: https://bogornews.com
+
+Title: Article Schedule
+Category: Research
+Teaser: Create an Article content Schedule with the longtail keywords from [Keywords] that I provided
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-05T17:04:05.392Z
+Help: 
+ID: 1809241851107217408
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+I want you to find Longtail Keywords that have the potential to get ranking for my blog from the [keywords] that I provide.
+Please arrange each blog post title in a nice looking table so it looks like a calendar.
+Each week should have its own table. Each day must have five content a day with five separate, unique titles listed for each day.
+Include all 7 days of content calendar Monday through Sunday. Include 4 weeks of content.
+
+[TARGETLANGUAGE]
+[PROMPT]
+[VARIABLE1:dummy]

@@ -13,6 +13,6 @@ PromptHint: Question, example: How to create a Cloud Function?
 PromptPackageID: 0
 
 Prompt:
-Please ignore all previous requests. I'm going to ask a question related Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step guid in [TARGETLANGUAGE] on how to achieve a solution to the problem.
+Please ignore all previous requests. I'm going to ask a question related Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step guid in [TARGETLANGUAGE] on how to achieve a solution to the problem. You will assume that the project has already been created.
 
 The question is: [PROMPT]

@@ -1,0 +1,20 @@
+AuthorName: Osvaldo Sexto De Gasperi
+AuthorURL: https://ogasperi.pythonanywhere.com/
+
+Title: Lilibreoffice Calc Help - OSG
+Category: Plan
+Teaser: Help about libreoffice calc
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-23T01:38:10.4Z
+Help: 
+ID: 1815531818162847744
+PromptHint: spreadsheets calc excel calculations tables
+PromptPackageID: 0
+
+Prompt:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Executar usando a linguagem python.
+Não escrever comentários e nem explicar o código, apenas escrever e executar o programa que faz o solicitado.
+ [PROMPT]
+

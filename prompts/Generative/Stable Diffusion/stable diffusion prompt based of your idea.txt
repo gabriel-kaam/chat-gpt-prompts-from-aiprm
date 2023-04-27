@@ -6,9 +6,9 @@ Category: Stable Diffusion
 Teaser: ChatGpt can now create a Prompt based of your Idea. try it. I try to make it better. Vote if you want, Thank you. now with   universal negative Prompt. !!!
 
 Community: Generative-AI-b983edfcaa490850
-CreationTime: 2023-02-01T16:05:37.82Z
+CreationTime: 2023-04-19T06:45:19.602Z
 Help: 
-ID: 1786396703751139328
+ID: 1814159564376104960
 PromptHint: [Write your Idea here] like castle in the sky
 PromptPackageID: 0
 
@@ -48,6 +48,6 @@ example Prompts:
 - smooth meat table, restaurant, paris, elegant, lights
 
 Negative prompt are things you don't want to be included in the generated images, everything in one word divided by only commas not period. 
-use this Negative Prompts and add some words what you think that match to Prompt: ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, etc 
+use this Negative Prompts and add some words what you think that match to Prompt: 2 heads, 2 faces, cropped image, out of frame, draft, deformed hands, signatures, twisted fingers, double image, long neck, malformed hands, nwltiple heads, extra limb, ugty, poorty drawn hands, missing limb, disfigured, cut-off, ugty, grain, Iow-res, Deforrned, blurry, bad anaWny, disfigured, poorty drawn face, mutation, mutated, floating limbs, disconnected limbs, long body, disgusting, poorty drawn, mutilated, mangled, surreal, extra fingers, duplicate artifacts, morbid, gross proportions, missing arms, mutated hands, mutilated hands, cloned face, malformed,ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy, etc 
 very important: use an artist matching to the art style , or dont write any artist if it is realistic style or some of that.
 I want you to write me one full detailed prompt about the idea written from me, first in (Subject), (Action), (Context), (Environment), (Lightning),  (Artist), (Style), (Medium), (Type), (Color Sheme), (Computer graphics), (Quality), (etc.). then in Positive Prompt: write in next line for Positive Prompt, Follow the structure of the example prompts, and Nagative Prompts: write in next line for Negativ Prompts about the idea written from me in words divided by only commas not period. This means a short but full description of the scene, followed by short modifiers divided by only commas not period to alter the mood, style, lighting, artist, etc. write all prompts in english.

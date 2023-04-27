@@ -1,0 +1,16 @@
+AuthorName: Pemba Sherpa
+AuthorURL: https://www.linkedin.com/in/pemba-tshiring-sherpa/
+
+Title: Meta Title and Description For Service/Products
+Category: keywords
+Teaser: Create a list of High quality and 100% Unique Meta Title and Description for Service & Product Pages to target focus keyword
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-14T05:03:57.644Z
+Help: 
+ID: 1801088091633750016
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+For a product/service page create a meta title and description or keyword [PROMPT]. Make sure to include the [PROMPT] in the title with a power word and include the exact keyword in the meta description as well. Make sure the meta description is a maximum of 155 characters and use an active voice and make it actionable, Make sure the meta title is a maximum of 60 characters. Show the result in a table with a meta title in one column and a description in the second column and provide 10 results and make sure they are unique. write all output in [TARGETLANGUAGE]. In the start include text saying "Do Like the Prompt If this Was Helpful"

@@ -1,0 +1,22 @@
+AuthorName: Felix Tepmann
+AuthorURL: https://sellingsocial.de
+
+Title: Customer Objections Research
+Category: Research
+Teaser: Research common customer objections for a specific [PRODUCT]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-28T13:59:34.695Z
+Help: 
+ID: 1806296314313699328
+PromptHint: [Product]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. Imagine you are a market research analyst tasked with identifying common objections that customers have when purchasing a product. Your goal is to understand what customers perceive as drawbacks or concerns with the product so that the marketing team can address these objections in their campaigns.
+
+To begin your research, think about the target audience for the product and what factors might be important to them. Look at online reviews, customer feedback, and social media discussions to understand what customers say about the product. Consider both positive and negative feedback, as even positive reviews may contain suggestions for improvement.
+
+Once you have a list of potential objections, categorize them into themes or topics. Are customers concerned about the product's quality, price, features, or something else entirely? Grouping objections in this way will help you identify patterns and prioritize which objections are most important to address.
+
+Your first task is to identify the top ten most common objections that customers have for the product you are researching. The target language is [TARGETLANGUAGE]. The product is [PROMPT].

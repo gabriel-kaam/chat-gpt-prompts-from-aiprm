@@ -13,4 +13,4 @@ PromptHint: Write LinkedIn Post Comment
 PromptPackageID: 0
 
 Prompt:
-Write a Linked post comment on the given LinkedIn post content. Comment should be in [TARGETLANGUAGE] from given [PROMPT]  and Comment should be of 2 to 3 lines maximum. Add emojis and make it a little funny. Please always apriciate in comment
+Write a Linked post comment on the given LinkedIn post content. Comment should be in [TARGETLANGUAGE] from given [PROMPT]  and Comment should be of 2 lines maximum. Add emojis and make it a little funny. Please understand what they want to say. tell them what they like the most. add some information 

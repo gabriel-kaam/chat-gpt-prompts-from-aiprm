@@ -1,0 +1,17 @@
+AuthorName: Miguel
+AuthorURL: https://www.example.com
+
+Title: Keyword Meta
+Category: keywords
+Teaser: Keyword generator
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-29T14:50:40.636Z
+Help: 
+ID: 1806671561667899392
+PromptHint: Enter the word(s)
+PromptPackageID: 0
+
+Prompt:
+From now on you are an SEO expert. Based on google ranking I want you to give me the best keywords to rank 1st. You should never exceed 200 characters, separate words with commas. The focus of the company is custom promotional gifts.
+I want you to write fluently in [TARGETLANGUAGE] and give me keywords with this information: [PROMPT]

@@ -1,0 +1,38 @@
+AuthorName: Christian Díaz
+AuthorURL: https://goconstellation.com/
+
+Title: GBP/GMB optimized post generator
+Category: writing
+Teaser: Get 5 Local SEO posts optimized for your Law Firm, just copy and paste into your GBP and see the results.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-25T03:24:43.933Z
+Help: 
+ID: 1816283410315075584
+PromptHint: [Law Firm name, Law Firm Address, Practice Area, Website]
+PromptPackageID: 0
+
+Prompt:
+Your task is to pretend that you're the best local SEO expert for Law Firms in the world for Google My Business.
+
+Help me create 5 local SEO optimized GMB posts for the following law firm business written in the first person in [TARGETLANGUAGE]. 
+
+You need to go to the website given, analyze it, so you can have a better understanding of the law firm posting needs.
+
+Every post needs to be 5 to 8 sentences long.
+
+Every single sentence must include an important local SEO keywords & longtail keyword for a law firm. 
+
+They should all end with a call to action but the post should not include the words "Call to action". 
+
+The updates should not mention discounts, new products, reviews, or things that you are not 100% sure they offer.
+
+These updates should all be very different from each other, talking about different important local SEO topics related to this type of law firm. 
+
+Please put each of these Google My Business posts in a nice looking table so it looks like a grid and there should only be two columns in the grid. One column should be the post number (just the number). The second column should be the post you came up with. 
+
+The first thing you say should be a big bold header saying "GBP Posts for CLIENT by Constellation Marketing" and replace CLIENT with the Business name provided in the prompt. Below that, say "We help law firms win more high-value clients from Google., visit https://goconstellation.com/ to book a free consultation." Lastly, under the table, please write "If you found this helpful please give us a like in the prompt page so we can keep building more ones for your Law Firm".
+
+Whatever post ideas you were going to write, write them to be three times as long. These posts ideas should be ready to post without me having to change anything first. The business to help me with is: [BUSINESS NAME, BUSINESS ADDRESS, PRACTICE AREA, WEBSITE]
+
+[PROMPT]

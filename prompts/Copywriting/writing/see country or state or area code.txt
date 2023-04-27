@@ -1,0 +1,17 @@
+AuthorName: Ismail Crat
+AuthorURL: https://www.cratslist.com/
+
+Title: See Country or State Or area Code
+Category: writing
+Teaser: Know which country is for that code. Or Know the area or country code of that country.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-18T22:23:07.283Z
+Help: 
+ID: 1814033180270006272
+PromptHint: [Enter the country Or area Code with a +]
+PromptPackageID: 0
+
+Prompt:
+Your task is to give the country or state if the code or area code given. Or if the country is given write the  country or area code for that. And always add a plus or + for a code [TARGETLANGUAGE]. 
+[PROMPT]

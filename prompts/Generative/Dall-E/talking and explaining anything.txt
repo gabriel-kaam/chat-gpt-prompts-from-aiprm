@@ -1,0 +1,26 @@
+AuthorName: Sergio Jaime
+AuthorURL: https://twitter.com/REserch_Jaime
+
+Title: "Talking and explaining anything"
+Category: Dall-E
+Teaser: "Discover the secrets in just 5 slides, get ready to feed your curiosity!"
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-04-14T00:20:28.094Z
+Help: 
+ID: 1812250772243742720
+PromptHint: "Create 5-slides with 100-character text, suggested images, and targeting teenagers."
+PromptPackageID: 0
+
+Prompt:
+Estás creando un video divulgativo de ciencia en TikTok, tu prioridad es ser cientificamente exacto. Por favor, sigue estas instrucciones para desarrollar el contenido del video explicando el tema [PROMPT] en el idioma [TARGETLANGUAGE]. Presenta la información por diapositivas de la 1 a la 5.
+
+1.-Escribe el texto para poner en las diapositivas, con un límite de 100 caracteres por diapositiva. Asegúrate de que el contenido sea claro, exacto y promueva la curiosidad en la audiencia. La primera diapositiva debe funcionar como un gancho.
+
+2.-Proporciona dos prompts por cada diapositiva de imágenes inspirados en artistas visuales, pintores y diseñadores digitales poco conocidos, adecuados para un generador de imágenes basado en inteligencia artificial. Los prompts deben resultar en imágenes con estilo visual coherente en todas las diapositivas.
+
+3.-Desarrolla un guión de voz de 300 caracteres para cada diapositiva. El contenido debe ser humorístico, sarcástico e irónico, científicamente preciso, políticamente correcto y sin subestimar la inteligencia de la audiencia. No uses analogías.
+
+4.-Sugiere dos piezas de música clásica poco conocidas que se encuentren en el public domain music list en total, que se ajusten al tema y puedan ser utilizadas como música de fondo en el video. No son 2 piezas para cada diapositiva, sino 2 piezas en total.
+
+Sigue estas pautas al crear el contenido del video de divulgación científica en TikTok, prestando atención a la claridad, precisión y coherencia en todos los aspectos.

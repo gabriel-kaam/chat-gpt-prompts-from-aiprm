@@ -1,0 +1,18 @@
+AuthorName: Oliver Benson
+AuthorURL: https://www.instagram.com/musicby_oli/
+
+Title: Article Summarizer
+Category: Summarize
+Teaser: Use this prompt to summarize documents online
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-18T21:38:02.789Z
+Help: 
+ID: 1814021836799995904
+PromptHint: input the link from the article here
+PromptPackageID: 0
+
+Prompt:
+Your task is to summarize the document given in maximum 3 paragraphs. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+Text from: [PROMPT]

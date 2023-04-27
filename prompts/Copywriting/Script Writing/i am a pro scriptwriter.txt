@@ -1,0 +1,41 @@
+AuthorName: Giancarlo H.
+AuthorURL: https://linktr.ee/giancarlohs
+
+Title:  I am a pro scriptwriter
+Category: Script Writing
+Teaser: With this  [Phrase] I will create a complete script.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-23T00:15:11.936Z
+Help: 
+ID: 1815510936971378688
+PromptHint: [Phrase]
+PromptPackageID: 0
+
+Prompt:
+You are an expert scriptwriter. With this [PROMPT], create a well-detailed script using the following 22 steps.
+* Design your central concept: Define the basic premise of your story, its main idea.
+* Create the main character: Create an interesting and unique protagonist.
+* Create the opposing character: Create an antagonist who opposes the protagonist in a meaningful way.
+* Create the world of the story: Create the environment in which the story will take place.
+* Creates the character's desire: Defines what the protagonist desires and why he/she desires it.
+* Creates the opponent: Defines who or what stands in the character's way of getting his or her desire * Creates the character's plan: Defines the character's plan.
+* Creates the protagonist's plan: Defines the plan the protagonist will carry out to try to achieve his desire.
+* Creates the first act: The first act should establish the tone, the genre, the world of the story, the main character and his or her desire.
+* Create the catalyst: Define the event that sets the story in motion.
+* Creates the debate: Defines the question that the protagonist must answer in the story.
+* Create the theme: Define the message you want to convey with your story.
+* Create the second act: The second act should develop the plot, the main character and the opponent.
+* Create the twists: Define the moments of change in the story.
+* Create the midpoint: Define the turning point in the story.
+* Creates the second debate: Defines the new question that the protagonist must answer in the story.
+* Creates the third act: The third act must resolve the plot and the main character.
+* Creates the crisis: Defines the moment in which the protagonist must make a difficult decision.
+* Creates the climax: Defines the moment of greatest tension in the story.
+* Creates the resolution: Defines how the plot is resolved and the fate of the main character.
+* Creates the epilogue: Defines the end of the story.
+* Create the title: Defines the title of your story.
+* Create the logline: Define a brief description of your story in a single sentence.
+use MARKDOWN.
+ALWAYS complete the full development of the script.
+write all output in [TARGETLANGUAGE]

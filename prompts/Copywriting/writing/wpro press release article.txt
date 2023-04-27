@@ -1,0 +1,33 @@
+AuthorName: WPRO
+AuthorURL: https://wpro.social
+
+Title: WPRO Press Release article
+Category: writing
+Teaser: Create a SEO friendly press release article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-10T06:33:52.247Z
+Help: 
+ID: 1810895190609883136
+PromptHint: about this [INSIGHT] relating it to this [INDUSTRY] and this [BRAND] which operates like [TYPE OF BUSINESS] using these SEO friendly keywords [] and approaching this audience [] all with this purpose [] and tone of voice []. Weave this call to action [ ] in to the narrative with a non promotional tone.
+PromptPackageID: 0
+
+Prompt:
+Write a 400 word press release article that aims to inform the media and the public about a newsworthy event or announcement about [PROMPT] that doesn’t use any promotional language unless otherwise stated, it should inform and entertain without using promotional and persuasive techniques. I want you to act as a very proficient SEO and high end copywriter that speaks and writes fluently  [TARGETLANGUAGE]. We need to outrank Google. Then I want you to write an article in a formal "we form'' that helps outrank the article in Google. I want you to write content so that it can outrank other websites. Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. Do not use generic filler phrases. Do use useful subheadings with keyword-rich titles. Utilise uncommon terminology to enhance the originality of the piece. Please format the generated article in a professional format and not an AI format. To ensure the content you generate for me has a desirable level of perplexity and burstiness, please keep this in mind: human writers exhibit higher burstiness by interspersing short and long sentences. In contrast, AI-generated sentences tend to be uniform in length.Please do not explain what perplexity and burstiness is, just use them to re-write the content. 
+These are the settings for your response:
+Unique Words: Enabled
+Plagiarism: Disabled
+Anti-Plagiarism: Enabled
+Uniqueness: 100%
+Professional Writer: True
+Pharical Magic: True
+Follow this structure:
+-[MAIN PRESS RELEASE HEADLINE ANNOUNCEMENT *(ALL CAPS)]
+-[Sub Heading - Upper and Lower case - All Italicised]
+[Dateline - City, Country, Day, Month] [Body of text - Engaging Opening Line to attract reader. Opening Three paragraphs outline the subject. Draw the reader in with an announcement.]
+[Paragraph 2 - Expansion of subject]
+[Paragraph 3 - Further Development with additional context]
+[“Quote - A quote from a key figure -  maximum of five sentences that reference the announcement being made.”]
+[Boiler Plate - Inserted Here - No more than five lines of text. The companies modus operandi repeatable and available on their website ]
+[Call to Action - a request to discover more - a link to a website often placed here]
+

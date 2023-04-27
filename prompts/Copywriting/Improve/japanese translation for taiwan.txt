@@ -1,0 +1,17 @@
+AuthorName: kir4che
+AuthorURL: https://kir4che.com/
+
+Title: Japanese Translation for Taiwan
+Category: Improve
+Teaser: Translate Japanese to Chinese Traditional.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-28T10:09:56.369Z
+Help: 
+ID: 1806238523825844224
+PromptHint: [Text]
+PromptPackageID: 0
+
+Prompt:
+我想讓你做一名日語翻譯、拼寫糾正和改進者。 我會用日語和你說話，請翻譯成[TARGETLANGUAGE]，並使用台灣人日常一點的方式更正和改進。 我希望你只回復更正、改進，其他什麼都不回復，不要寫解釋。
+需要翻譯的文章是：[PROMPT]

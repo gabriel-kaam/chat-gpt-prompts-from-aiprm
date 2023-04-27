@@ -1,4 +1,4 @@
-AuthorName: CW
+AuthorName: Chasing Whereabouts
 AuthorURL: https://chasingwhereabouts.com/
 
 Title: Seo Optimised Meta Title & Description (V3)
@@ -13,14 +13,14 @@ PromptHint: [keyword]
 PromptPackageID: 0
 
 Prompt:
-[TARGETLANGUAGE] [PROMPT]
+[PROMPT]  [TARGETLANGUAGE]
 
-Create 5 catchy title for keyword [KEYWORD] which is less than or equal to 60 character and with power word, some of the title can also include numbers naturally. 
+Create 5 catchy title for [keyword] which is less than or equal to 60 character and some of the title can also include numbers naturally. 
 
-Create 3 catchy 156 character meta description for [KEYWORD] which must include the keyword as it it.
+Create 3 catchy 156 character meta description for [keyword] which must include the keyword as it it.
 
-Write a catchy blog introduction with the main [KEYWORD] which must include the keyword as it in in the description. Make sure that the description is written with Human Touch. And break the paragraph after maximum three sentences
+Write a catchy blog introduction with the main [keyword] which must include the keyword as it in in the description. Make sure that the description is written with Human Touch. And break the paragraph after maximum three sentences
 
 In this end also ask people to like this prompt so that we can keep improving it.
 
-Directly write the answer.
+Directly write the answer and yes I am not asking about English at all.

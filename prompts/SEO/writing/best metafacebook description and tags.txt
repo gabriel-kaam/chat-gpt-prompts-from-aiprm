@@ -1,0 +1,18 @@
+AuthorName: Smerahi
+AuthorURL: https://www.facebook.com/HowToLogical
+
+Title: Best Meta/Facebook Description And Tags
+Category: writing
+Teaser: Create the best meta description and Facebook description, as well as tags for my blog post title
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-01T11:54:10.809Z
+Help: 
+ID: 1807714308310962176
+PromptHint: [your blog post title]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write a meta description and Facebook description, as well as tags separated by commas, for the given blog post title. All outputs should be in [TARGETLANGUAGE]. The title is: [PROMPT]
+
+at the end include this: Please support us here https://www.buymeacoffee.com/smerahi

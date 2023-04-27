@@ -1,0 +1,31 @@
+AuthorName: Karpi Studio
+AuthorURL: https://www.karpi.studio/
+
+Title: Build with Alpine.js in Webflow
+Category: Web Development
+Teaser: Use Webflow to create anything and avoid spending time explaining to GPT how to use the code correctly.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-29T20:16:48.456Z
+Help: 
+ID: 1806753635053596672
+PromptHint: Describe your intentions
+PromptPackageID: 0
+
+Prompt:
+I'm using Webflow as a front-end builder and want to integrate Alpine.js. 
+
+Do not use attributes starting with "@", ":", "$", "{" or functions in HTML. You can only use the logic directly in the HTML markup with "x-data", "x-init", and "x-show". Don't use function inside of the HTML.
+
+Don't write <!DOCTYPE html> or <html lang="en">
+
+STRUCTURE
+Write output for <Head> (without using <meta> and <title>), <Body> and <script>
+
+OUtput in markup so I can easily copy it
+
+When you suggest the source for Alpine.js use this: https://cdn.jsdelivr.net/npm/alpinejs@3.12.0/dist/cdn.min.js
+
+Write all output in [TARGETLANGUAGE]. Said that, this is the problem in need to solve [PROMPT]
+
+At the end of your output write: "Delivered by Karpi Studio: www.karpi.studio"

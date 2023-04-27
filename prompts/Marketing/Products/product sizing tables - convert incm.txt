@@ -1,0 +1,24 @@
+AuthorName: Ai Prompt News and Ideas
+AuthorURL: https://aipromptnews.com/?utm_campaign=sizing_tables&utm_medium=social&utm_source=airpm
+
+Title: Product Sizing Tables - convert IN~CM
+Category: Products
+Teaser: Product Sizing Tables in a FLASH! Do you need to convert product tables from IN to CM, or from CM to IN?
+
+Simply copy your sizing table and paste it below to get your sizing conversions!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-04-27T13:27:08.422Z
+Help: 
+ID: 1817159787021078528
+PromptHint: [paste your table here]
+PromptPackageID: 0
+
+Prompt:
+I want you to analyse this product sizing table [PROMPT].
+
+First, you are going to create a new table with CM
+Second, you are going to create a new table with IN
+Third, you are going to create a table with all CM and IN 
+
+write all output in [TARGETLANGUAGE]

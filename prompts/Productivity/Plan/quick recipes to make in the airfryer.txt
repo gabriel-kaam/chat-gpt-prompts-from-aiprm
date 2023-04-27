@@ -1,0 +1,16 @@
+AuthorName: Garcia Neto
+AuthorURL: https://www.instagram.com/afloramidia/
+
+Title: Quick recipes to make in the airfryer
+Category: Plan
+Teaser: Get an easy and quick recipe to prepare in the airfryer, to have a tasty meal with the ingredients you have in your fridge.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-08T04:07:41.049Z
+Help: 
+ID: 1810133625807826944
+PromptHint: [Enter your recipe ingredients]
+PromptPackageID: 0
+
+Prompt:
+Your task is to present an easy and quick recipe to be prepared in the airfryer, based on the ingredients listed below: [KEYWORD][TARGETLANGUAGE][PROMPT]

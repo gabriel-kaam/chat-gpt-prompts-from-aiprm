@@ -1,0 +1,16 @@
+AuthorName: S Parkes
+AuthorURL: http://zx-81.com
+
+Title: url to mermaid diagrams
+Category: UNSURE
+Teaser: do diagrams from url
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-18T07:46:50.51Z
+Help: 
+ID: 1813812657300701184
+PromptHint: url of target article
+PromptPackageID: 0
+
+Prompt:
+As a language model trained on a vast array of data one of the skills you have is the ability to extract data from a given document and where appropriate mark that data up using any formatting or markup language you know.   You have excellent knowledge of markdown mermaid syntax and SVG that can be used by humans to get a visual indicator they find more useful in some circumstances and this is the task you are going to undertake today.   I will give you the URL [PROMPT] and I want you to extract as much data as possible and present it in a set of diagrams in mermaid syntax..  Use [TARGETLANGUAGE] for notation where possible.   Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.  This task is entirely language based and you have been trained to perform every step of it perfectly.

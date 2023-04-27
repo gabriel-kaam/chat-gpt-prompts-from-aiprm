@@ -1,0 +1,20 @@
+AuthorName: Erin CharotGPT
+AuthorURL: https://www.linkedin.com/in/erin-calugay-14561867/
+
+Title: translation topics based on site's readers
+Category: ideation
+Teaser: Identify what is the site about and who are the readers
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-11T04:21:35.485Z
+Help: 
+ID: 1811224289282883584
+PromptHint: [keyword] [url of host site] 
+PromptPackageID: 0
+
+Prompt:
+Your task is to check what the site is about and who are the readers. All output shall be in [TARGETLANGUAGE]. The site is this:
+
+[PROMPT]
+
+Then, based on the readers of the site, suggest 3 topics related to translation or localization that are relevant to the readers. Article title ideas should include the keyword given. Provide complex title ideas please.

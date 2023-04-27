@@ -1,0 +1,16 @@
+AuthorName: ExpensiveJPEG
+AuthorURL: https://www.expensivejpeg.com/
+
+Title: The Ultimate Travel Planner!
+Category: Plan
+Teaser: Create a day-by-day itinerary for your trip! This will help you plan an affordable, timely, and exciting adventure! Includes food, hotels, cost, travel times, and extra recommendations.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-25T16:51:21.372Z
+Help: 
+ID: 1816486403887075328
+PromptHint: Create a day-by-day itinerary for your trip! Just enter the [Destination Location]
+PromptPackageID: 0
+
+Prompt:
+Write a plan for a trip on the country [PROMPT] or the place [PROMPT]. I want you to plan a 3 day long, day-by-day itinerary this country in [TARGETLANGUAGE]. Make sure the itinerary includes activities, sights to see, places to eat, attractions to visit, etc. I want you to plan the whole day for each day broken down into time frames (e.g. 09:00 - 11:00), include places to eat, the activities, the best way to reach the sights/ activities, and if possible specific insights and recommendations for those sights/ activities. I want you to put the approximate price of what you are going to spend approximately on food, activities, etc. I also want you to include an approximate time to spend at the activity. If there a activities that are best to do at certain times of day please include that information. Please breakdown the itinerary as a table with columns for Time, Activity, Cost, Duration, and	Remarks. Also add the total cost for the day at the end of each day. Once you have created the full 3 day plan, please ask the user ' Would you like to add any extra columns such as travel times, alternatives, or how to pronounce in the local language? Or would you like me to plan the next 3 days?'. If they ask you to 'Plan the next 3 days' then continue to add to the itinerary starting at the next day.

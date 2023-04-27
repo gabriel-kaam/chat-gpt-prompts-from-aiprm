@@ -1,0 +1,16 @@
+AuthorName: Better Monday
+AuthorURL: https://bettermonday.kr
+
+Title: Generate Trend Design Ideas
+Category: Accounting
+Teaser: Create new graphic design ideas.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-27T09:14:10.349Z
+Help: 
+ID: 1817096125568778240
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to create graphic design to fit the lastest trends. [KEYWORD] All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]

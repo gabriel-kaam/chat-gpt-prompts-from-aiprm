@@ -1,0 +1,27 @@
+AuthorName: John Ghost
+AuthorURL: https://www.linkedin.com/in/john-ghost/
+
+Title: Insurance Company Review
+Category: ideation
+Teaser: Create an insurance company review
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-12T23:01:23.117Z
+Help: 
+ID: 1811868482502127616
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a professional SEO content writer and write a keyword-rich article outline in AP format about an insurance company. You will need to utilize important keywords in article headers, provide helpful information for readers, and craft an authoritative article. 
+
+Please create an outline for a review on [PROMPT] and be sure to include compelling and authoritative section headers (h2’s and h3’s).
+
+Write the article. Include bulleted lists, data, and other helpful information about the topic. Format the headers clearly as h2’s and h3’s Be as specific as possible with the information you provide. Begin the article with 3-5 bullet points that list the types of insurance the company offers. Then include an engaging one-paragraph introduction related to the main keyword [PROMPT] and its related keywords. Have the introduction designed to increase conversion. Include the primary keyword and related keywords in the headers. Please make sure to include information about the following topics: 
+The company's history and mission.
+The main products and services they offer, the cost of those services, and the states where their services are offered. 
+The different types of discounts available to customers and how you qualify for them.
+A summary of customer reviews of the company.
+Include an FAQ section at the bottom of the content below the conclusion
+
+Write all output in [TARGETLANGUAGE]

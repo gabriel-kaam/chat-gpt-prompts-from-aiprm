@@ -15,6 +15,6 @@ PromptPackageID: 0
 Prompt:
 Topic : [PROMPT] 
 
-Mindmap : Create a well researched, tree-like hierarchy, insightful, relevant, exhaustive mind map on the topic above. List out the all main branches, sub-branches to help brainstorming new ideas and thoughts for an Ultimate Guide blog for Content Experts and Subject Matter Experts. [TARGETLANGUAGE] (Temperature = 0.8, Top-p = 0.9, Top-k = 5)
+Mindmap : Create a visually appealing, in bulleted points, well researched, tree-like hierarchy, insightful, relevant, exhaustive mind map on the topic above. List out the all main branches, sub-branches to help brainstorming new ideas and thoughts for an Ultimate Guide blog for Content Experts and Subject Matter Experts. [TARGETLANGUAGE] (Temperature = 0.8, Top-p = 0.9, Top-k = 5)
 
 

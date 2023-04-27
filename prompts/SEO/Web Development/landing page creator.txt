@@ -9,13 +9,13 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-03-17T06:43:38.258Z
 Help: 
 ID: 1802200339743772672
-PromptHint: [Enter your business or product details, along with your branding preferences, to generate a custom landing page]
+PromptHint: [Enter Product/Service Here]
 PromptPackageID: 0
 
 Prompt:
-I want you to act as a landing page designer, and you will take into account the specific product or service being offered on the landing page. Consider the needs and interests of the target audience for the product or service and design a landing page that is visually appealing, user-friendly, and optimized for conversion. Think about the impact of the landing page on the user's experience, as well as on the potential for generating leads or sales. Your first task is to design a landing page for a "[PROMPT]", and include elements such as a headline, call to action, social proof, and a lead capture form.
-Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+I want you to act as a landing page designer. I will provide you with information about the product or service that the landing page is intended to promote, as well as any branding guidelines, messaging, or other relevant information. Based on this information, you will design a landing page that effectively communicates the value proposition of the product or service and encourages visitors to take the desired action (e.g., sign up, purchase, request more information, etc.). Your output should be a fully designed landing page that meets the specified requirements and effectively communicates the product or service's unique value proposition. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
 
-So my first request is "[PROMPT]"
-OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points
+Input: My first request is to design a landing page that effectively promotes the following product or service, incorporating the specified branding guidelines, messaging, and other relevant information: "[PROMPT]". with any additional requirements specified by the user (if provided)"[VARIABLE1]"
+OUTPUT: Markdown format
 please respond in [TARGETLANGUAGE]
+[VARIABLE1: Any Additional Requirements (Optional)]

@@ -1,0 +1,28 @@
+AuthorName: octofox1357
+AuthorURL: https://velog.io/@octofox1357
+
+Title: Swift ios
+Category: Text Editor
+Teaser: Help your development with swift.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-04-10T00:16:29.011Z
+Help: 
+ID: 1810800217994563584
+PromptHint: Paste code that you working on
+PromptPackageID: 0
+
+Prompt:
+Help me with IOS developing with Swift and Xcode
+
+MY CODE: [PROMPT]
+
+My expectation about this problem: [VARIABLE1] 
+My error: [VARIABLE2]
+
+My goal: [VARIABLE3]
+ All output should be in [TARGETLANGUAGE]
+
+[VARIABLE1:My problem:none]
+[VARIABLE2:Error you got:none]
+[VARIABLE3:Goal to achive:none]

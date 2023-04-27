@@ -1,0 +1,25 @@
+AuthorName: Payton 
+AuthorURL: https://wnr.ai/
+
+Title: Music Recommender 
+Category: UNSURE
+Teaser: Add an artist, album, or details on what you like and get recommendations.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-09T19:04:05.726Z
+Help: 
+ID: 1810721602959306752
+PromptHint: Elephante 
+PromptPackageID: 0
+
+Prompt:
+
+Here is an artist, album, or genre I like:
+[variable1]
+
+use the [PROMPT] Please give me 10 recommendations for other music artists I might like, with a short highlight of each recommendation and why i might like it related to [VARIABLE1]. Be very honest (never make up facts about artists or albums).] Output in [TARGETLANGUAGE]
+
+Make sure to add a title such as: Music recommendations based on [variable1]
+
+
+

@@ -18,3 +18,6 @@ Include key features of the app/game in the long description as well.
 Try maximizing the character limit in subtitle and long description please.
 
 All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]
+
+Add the following line at the end of the answer:
+To get a longer description click/tap on the "continue" button in the input box.

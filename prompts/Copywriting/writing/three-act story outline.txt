@@ -1,0 +1,47 @@
+AuthorName: Esme Rome
+AuthorURL: https://esmerome.com
+
+Title: Three-Act Story Outline
+Category: writing
+Teaser: Generate a three-act story outline.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-22T14:51:40.581Z
+Help: 
+ID: 1815369121869856768
+PromptHint: your basic story idea and genre, e.g. "enemies-to-lovers romance set in 1960s Florence"
+PromptPackageID: 0
+
+Prompt:
+Write a story outline using the three act structure about [PROMPT]. Include one sentence of specific details for each beat. Include the following story beats:
+
+Act One
+
+Hook: The opening image or scene that hooks the reader's attention
+Inciting Incident: The moment where the protagonist is drawn into the story world
+Second Thoughts: The protagonist's reasons for hesitating or refusing to be drawn in
+Key Incident: The moment the protagonist decides to join the story
+
+Act Two, Part One
+
+Obstacle 1: The first obstacle the protagonist or other main characters encounter along the way
+Obstacle 2: The second obstacle the protagonist or other main characters encounter along the way
+Obstacle 3 (optional): The third obstacle the protagonist or other main characters encounter along the way
+Midpoint: The turning point for the entire story. In mysteries, this is often when a twist is revealed. In romance, this is often where the main characters kiss or make love for the first time.
+
+Act Two, Part Two
+
+Post-Midpoint Obstacle: An obstacle related to whatever happened in the midpoint.
+It's Bad: Things start to go badly wrong.
+Now It's Worse: The situation in the "it's bad" step just got even more dire.
+Climax of Act Two: Things go absolutely haywire. A main character often gets kidnapped at this stage.
+
+Act Three: 
+
+Obstacle: An obstacle to resolving the climax of Act Two. Gives the story a bit of room to breathe.
+Climax of Part IV/the book: The climactic battle, confrontation, or confession that brings the narrative to its highest point.
+Obstacle: After the climax, not all is put right, and something has to happen to restore order.
+Denouement: The resolving action of the story.
+End: The final image to bring the story to a close.
+
+Please write in [TARGETLANGUAGE].

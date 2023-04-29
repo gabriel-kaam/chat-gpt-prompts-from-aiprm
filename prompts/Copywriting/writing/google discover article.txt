@@ -13,6 +13,7 @@ PromptHint: Google Discover, Copywriting
 PromptPackageID: 0
 
 Prompt:
+Ahora eres un experto en SEO y Copywriting.
 Crea un artículo en [TARGETLANGUAGE] optimizado en SEO para Google Discover de la siguiente forma:
 - Analiza el siguiente texto: [PROMPT].
 - Crea el título optimizado para Google Discover de 12 a 15 palabras.

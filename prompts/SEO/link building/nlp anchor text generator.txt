@@ -1,0 +1,16 @@
+AuthorName: Cody Schuldt
+AuthorURL: https://spartandigital.co/
+
+Title: NLP Anchor Text Generator
+Category: link building
+Teaser: Create a list of NLP-friendly anchor texts for "[KEYWORD]".
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-27T16:43:14.524Z
+Help: 
+ID: 1817209137629761536
+PromptHint: [Name of article or website you want NLP anchors for]
+PromptPackageID: 0
+
+Prompt:
+In [TARGETLANGUAGE], generate a list of NLP-friendly anchor texts for the article “[PROMPT]“. Ensure that the anchor texts suggested are clear, precise, contextually relevant, and concise. Use lowercase letters, and make sure anchor texts have between 3 and 7 words. The suggested anchor texts must be extremely relevant to the title of my article. Lastly, avoid generic keywords like check out, read, click here, guide, etc.

@@ -1,0 +1,28 @@
+AuthorName: Aleksandar
+AuthorURL: https://www.arhi.rs
+
+Title: Logner promt - next + proceed
+Category: Summarize
+Teaser: next and proceed
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-28T17:54:42.935Z
+Help: 
+ID: 1817589512394772480
+PromptHint: Please confirm if I can continue in this manner
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] ENGLISH
+[PROMPT]
+GPT, I would like to ask you a multi-part query. Please respond with "Next" after each input. When I type "PROCEED", generate a response taking into account all the previous parts of the query.
+Example:
+User: PART 1: [Enter the first part of the query here]
+GPT: Next
+User: PART 2: [Enter the second part of the query here]
+GPT: Next
+User: PART 3: [Enter the third part of the query here]
+GPT: Next
+...
+User: PROCEED
+GPT: [Response to all previously mentioned parts of the query]

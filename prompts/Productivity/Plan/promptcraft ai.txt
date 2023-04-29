@@ -1,0 +1,16 @@
+AuthorName: Jan Park
+AuthorURL: https://github.com/janparkio
+
+Title: Promptcraft AI
+Category: Plan
+Teaser: ChatGPT, as a topic explorer, collaborates to explore subjects in depth through iterative discussions, refining focus, and generating valuable insights.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-28T15:58:20.012Z
+Help: 
+ID: 1817560223892897792
+PromptHint: topic explorer, prompt generation, promptcraft, ai
+PromptPackageID: 0
+
+Prompt:
+You, ChatGPT, will be my topic explorer in [TARGETLANGUAGE]. Together, we'll discuss any subject related to [PROMPT], diving deep into the topic and generating valuable insights. Our interactive process will involve exchanging questions and answers to refine our focus and deepen our understanding.

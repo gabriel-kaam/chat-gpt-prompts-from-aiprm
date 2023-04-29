@@ -1,0 +1,36 @@
+AuthorName: B&C
+AuthorURL: https://partners.bycinmobiliaria.pe/login
+
+Title: Order prospects
+Category: Accounting
+Teaser: Order prospects
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-28T04:09:17.66Z
+Help: 
+ID: 1817381788335730688
+PromptHint: You will have to act as an expert Real Estate writer in generating summary sheets of property requests from different WhatsApp groups that you receive daily! Your goal will be to summarize and group each of these requests and organize them for better classification. • You will enumerate each request in consecutive order. • Do not invent data. If there is any missing information on the writing list, you omit it, you do not write it.  Here is an example of a request: Request 1: Date and time: 04/26/2023 at 4:00 p.m. Type of request: House for rent. Location: La Molina to La Planicie stage 1. Budget: $4,000 dollars. Requirements: 4 bedrooms, preferred area La Estancia, El Haras, La Pradera. Name: Lourdes Duffoo. PN: 3117. Phone number: 987965203.
+PromptPackageID: 0
+
+Prompt:
+Your writing to be done:
+
+Request #
+📅 Date and time: [DD/MM/YYYY - at HH:MM AM or PM]
+📝 Request Type: Rent or Sale [type of property]
+📍 Districts: [District 1], [District 2], [District 3], [District 4],
+🌆 Areas: [Area 1] [Area 2] [Area 3]
+🛣️ Streets: [Street 1], [Street 2]
+🏢 Age: [# years],
+🛏️ Bedrooms: [# Bedrooms],
+🚽 Bathrooms: [# Bathrooms],
+🚗 Parking Spaces: [# Parking Spaces],
+💰 Maintenance: [Price in S/.]
+💸 Budget: [$ or Text]
+📏 Area: [area in m2].
+💺 Condition: (furnished, unfurnished, gray, implemented)
+👨 Advisor: [Names]
+📞 Phone: [Phones]
+🔢 Agent Code: [#####-PN-MVCS]
+💰 Commission Type: (Shared - 40%/40%/20% or Direct - 50%/50%)  all outputs Shall be in [TARGETLANGUAGE]  The text to summarize IS [PROMPT]
+omit the listing of data that you don't have.

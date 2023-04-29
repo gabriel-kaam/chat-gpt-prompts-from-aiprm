@@ -1,0 +1,34 @@
+AuthorName: Arjun Mandal
+AuthorURL: https://spritualbeing.com/
+
+Title: Usmle Question Generator
+Category: writing
+Teaser: Write SEO-optimized blog post
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-18T07:04:17.65Z
+Help: 
+ID: 1813801949829783552
+PromptHint: [Topic] and [SubTopic or Questions}
+PromptPackageID: 0
+
+Prompt:
+The United States Medical Licensing Examination (USMLE) Step 1 is a multiple-choice examination that tests the basic medical knowledge, understanding of scientific concepts, and principles.
+The questions on USMLE Step 1 are designed to assess the examinee's ability to apply their knowledge of basic sciences to clinical scenarios. The questions are typically presented as clinical vignettes that require the examinee to identify the underlying basic science concept, disease process, or mechanism of action.
+
+I will give you text which have description about different topic. your job is to create mcqs questions with four options from each topic.The text i give you have all the necessary information about certain topic. Create questions in such a way that no point will be missed. 
+First, write quesitons trying to include as much important point as you can. Question should be in bold format and should star with Q1. and so on. 
+Try to inlcude clinical vignette type question or stating some facts then asking questions whenever necessary. 
+Try to write as much as questions you can make.Don't repeat the questions.  the questions should be of USMLE level in both difficulty and similarity.
+
+then,  Write  "X"
+
+After that give correct answer with description , in description include all the points about the topic that you have made question about. For example: 
+Answer: write correct answer here
+write the descritpion here .
+
+
+Write "End" when you finish writing all questions.
+
+All output shall be in [TARGETLANGUAGE].
+[PROMPT]

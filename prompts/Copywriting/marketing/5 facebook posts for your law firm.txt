@@ -1,0 +1,27 @@
+AuthorName: Christian Díaz
+AuthorURL: https://goconstellation.com/
+
+Title: 5 Facebook posts for your Law Firm
+Category: marketing
+Teaser: Create 5 Facebook posts for your Law Firm
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-28T02:54:46.998Z
+Help: 
+ID: 1817363037020221440
+PromptHint: [Law Firm Name, Practice Area, Website]
+PromptPackageID: 0
+
+Prompt:
+Your task is to help me create 5 Facebook optimized social media posts for the following law firm in [TARGETLANGUAGE].
+Each post should contain at least five keywords that are important for that law firm type for SEO written naturally in sentences. 
+Each post you give me should be at least 5 sentences long. The posts should not mention discounts or new products, reviews, or things that you are not 100% sure they offer. Everything I said above is important and must be followed. 
+Please pretend you are a law firm social media expert. Please put each of these posts in a nice looking table so it looks like a calendar. 
+Also, please give a suggestion for what image they should use for each post. The only columns in the grid should be for the (1) post #, (2) post, (3) suggested image.
+
+The very first thing you say should be a big bold header that says "Social Media Posts for CLIENT by Constellation Marketing" and replace CLIENT with the Business name provided in the prompt. 
+Under that say "We help law firms win more high-value clients from Google, visit https://goconstellation.com/ to book a free consultation." 
+
+The law firm to help me with is below. 
+
+[PROMPT]

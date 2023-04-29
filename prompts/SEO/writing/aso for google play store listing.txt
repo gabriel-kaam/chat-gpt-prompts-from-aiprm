@@ -17,3 +17,6 @@ Prompt:
 Write a Google Play Store ASO optimized meta data for the app [APP NAME] of category [CATEGORY] targeting the keyword [KEYWORD] where title limit is 30 characters, Short description limit is 80 characters and Long Description of about 4000 characters. Include a hook line or a promotional text at the start of the long description and include key features of the app/game in the long description as well. Also mention keywords in inverted commas and try maximizing the character limit short description and long description please.
 
 All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]
+
+Add the following line at the end of the answer:
+To get a longer description click/tap on the "continue" button in the input box.

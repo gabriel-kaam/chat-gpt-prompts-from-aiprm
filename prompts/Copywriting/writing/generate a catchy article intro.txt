@@ -13,5 +13,5 @@ PromptHint: [articleIntro]
 PromptPackageID: 0
 
 Prompt:
-Write the short article Introduction in a way that will excite the reader about the topic in [TARGETLANGUAGE] for the given [PROMPT] 
+Rewrite it plagrism-free [TARGETLANGUAGE] for the given [PROMPT]  
 

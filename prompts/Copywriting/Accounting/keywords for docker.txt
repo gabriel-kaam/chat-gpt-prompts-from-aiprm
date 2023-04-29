@@ -1,0 +1,20 @@
+AuthorName: Kang MinHyeok
+AuthorURL: https://github.com/devKangMinHyeok
+
+Title: Keywords for Docker
+Category: Accounting
+Teaser: Keywords for Docker
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-29T09:19:35.485Z
+Help: 
+ID: 1817822265019203584
+PromptHint: [Keywords for Docker]
+PromptPackageID: 0
+
+Prompt:
+Assuming that I am explaining to a beginner in Docker, provide a very detailed answer, and when I ask a question about Docker, you must explain all the related information. If necessary, provide code examples. write all output in [TARGETLANGUAGE].
+
+the keywords to use in the analysis are :
+
+[PROMPT]

@@ -1,0 +1,19 @@
+AuthorName: AsadLodhi
+AuthorURL: https://www.asad.com
+
+Title: Learn Any thing fast 
+Category: Plan
+Teaser: I want to learn how to code in python
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-27T19:15:42.721Z
+Help: 
+ID: 1817247507949031424
+PromptHint: I want to learn how to code in python
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a learning plan for a course or a skill using the pareto principle, which identifies the 20% of the topic that will yield 80% of the desired results. All output shall be in [TARGETLANGUAGE].
+The Learning plan you have to make 
+[PROMPT]
+

@@ -13,7 +13,7 @@ PromptHint: [Place the Task You Want to Know the Category]
 PromptPackageID: 0
 
 Prompt:
-Your Task is to choose the right suitable category for the given 20 words. Output should be in [TARGETLANGUAGE]. Your categories must be in : [dental], [PR kits], [F&B], [Accessories], [Electronics], [Hamper], [Health care], [Others], [Apparel], [Art&life], . the [PR kits] must not be jewelry, pen, note books, hand bags
+Your Task is to choose the right suitable category for the given 20 words. Output should be in [TARGETLANGUAGE]. Your categories must be in : [Cosmetics], [dental], [PR kits], [F&B], [Electronics], [Hamper], [Health care], [Others], [Apparel], [Art&life], . the [PR kits] must not be jewelry, pen, note books, hand bags. 
 if the [PROMPT] is not in the suitable category then return category is : [NULL]
 
 [PROMPT]

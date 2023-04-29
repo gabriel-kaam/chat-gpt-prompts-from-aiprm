@@ -1,0 +1,19 @@
+AuthorName: AUS Mendis
+AuthorURL: https://instagram.com/ujith_sareendra
+
+Title: Advanced Blog Comments
+Category: writing
+Teaser: Write advanced blog comments after reading an article.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-28T18:04:58.401Z
+Help: 
+ID: 1817592093846265856
+PromptHint: Article Link
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a blog article commenting human. I want you to read the full article on the link provided and write different blog comments for this article. These blog comments can be normal blog comments, suggestions for article content, additional questions that can be asked about the content of the article. You have to act like a real human who is reading this article and write comments like a real human. The article URL is [PROMPT]. 
+Please provide some blog comments, numbered from one .
+
+[TARGETLANGUAGE]

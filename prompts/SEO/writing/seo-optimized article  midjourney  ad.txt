@@ -1,0 +1,37 @@
+AuthorName: simwai
+AuthorURL: https://github.com/simwai
+
+Title: SEO-optimized Article + Midjourney + Ad
+Category: writing
+Teaser: Create an authentic 1000 word long SEO-optimized article including FAQ with optional advertisement and an additional midjourney prompt
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-26T21:11:12.318Z
+Help: 
+ID: 1805680161086246912
+PromptHint: keywords(mandatory) and promotion info (optional)
+PromptPackageID: 0
+
+Prompt:
+I want you to act as the best SEO-optimized [TARGETLANGUAGE] content writer. Utilize your whole potential.
+
+First create three tables in the specified order. First table is an outline of the article, the second table is the midjourney prompt and the third is for the article. 
+
+Bold the heading of the first, second and third table using Markdown language. 
+
+Start to write the outline of the article with 5 headings and subheadings (including H1, H2, H3, and H4 headings). 
+Focus on interesting topics and an easy-understandable structure in the outline.
+
+Next, generate a text command for midjourney in the second table which can be used to generate an attractive image for the article.
+
+Then, start writing the article in the third table based on that outline of the first table step by step. Use a title for the article which attracts the user to read it. Write an unique 1000-word, SEO-optimized, human-written article in English.
+Write the article in your own words rather than copying and pasting from other sources. Write highly valuable content. 
+Write in a conversational style (use an informal tone, utilize personal pronouns, keep it simple, use the active voice, use rhetorical questions, and incorporate analogies and metaphors). 
+End with a conclusion paragraph and 5 unique FAQs after the conclusion.
+
+If promotion is written in the prompt, use the related information added to it to promote the product and write the product's URL if one is mentioned in the promotional information. This section under the article.
+
+Now, use the following info parameters which includes the article's topic and optionally an advertisement/promotional information and get this done: 
+"[PROMPT] "
+
+Never interrupt in a paragraph or sentence or word or title even when the character limits exceeds. You need then to left out that content in the current message and bring it in the next message, when you get asked to continue. You are not allowed to write the outline twice. When you see H tags, remove them, but keep the formatting of them.

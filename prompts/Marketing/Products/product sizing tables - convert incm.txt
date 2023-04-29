@@ -3,22 +3,22 @@ AuthorURL: https://aipromptnews.com/?utm_campaign=sizing_tables&utm_medium=socia
 
 Title: Product Sizing Tables - convert IN~CM
 Category: Products
-Teaser: Product Sizing Tables in a FLASH! Do you need to convert product tables from IN to CM, or from CM to IN?
+Teaser: Product Sizing Tables in a FLASH!  
+Do you need to convert sizing tables to (inches)? to (cm)? or BOTH?
 
-Simply copy your sizing table and paste it below to get your sizing conversions!
+Simply paste your sizing table below to get your sizing conversions!  Works with [TARGETLANGUAGE]
 
 Community: Marketing-cc647f5cf02ffd02
 CreationTime: 2023-04-27T13:27:08.422Z
 Help: 
 ID: 1817159787021078528
-PromptHint: [paste your table here]
+PromptHint: [paste your SIZING table here]
 PromptPackageID: 0
 
 Prompt:
 I want you to analyse this product sizing table [PROMPT].
-
-First, you are going to create a new table with CM
-Second, you are going to create a new table with IN
-Third, you are going to create a table with all CM and IN 
-
+First, begin with the table heading (BOLD) "Sizing (International - cm)", create a new table with cm.
+Second, begin with the table heading (BOLD) "Sizing (USA - inches)", create a new table with in.
+Third, begin with the table heading (BOLD) "Sizing International (cm) and US (inches)", create a table with all cm and in.
+Do not tell me what you are doing, simply create the headings and tables.
 write all output in [TARGETLANGUAGE]

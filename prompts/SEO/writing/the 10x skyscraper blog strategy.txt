@@ -1,0 +1,40 @@
+AuthorName: Chi Chi Crew Shop
+AuthorURL: https://chichicrew.shop
+
+Title: The "10x Skyscraper" Blog Strategy
+Category: writing
+Teaser: Uses both 10x & Skyscraping blog strategies. 50 semantically related LSI keywords. Longtail keywords. Questions. Quotes. Statistics. Blog tags. Titles. Meta titles. Meta descriptions.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-30T12:41:40.169Z
+Help: 
+ID: 1785620599591407616
+PromptHint: Primary Keyword (1-3 words)
+PromptPackageID: 0
+
+Prompt:
+Only respond in [TARGETLANGUAGE]
+Use 10x content (create content that is 10x better than the best ranking content) & skyscraper (use rank 1 content to build on top of to best cover the topic) blog tactics to create a blog outline about the primary KW, [PROMPT].
+
+Workflow:
+
+* Create a list of 50 LSI semantically related & longtail keywords. Include 3 quotes from industry/thought leaders. 3 interesting statistics (all of these must be used by the end, and include at least 1 in every heading)
+* Create 4 (Descriptive, Informative, Clickbait, Viral) title options that score above 90 using Coschedules Headline analyzer tool.
+* Create 4 Meta titles (clickbait, descriptive, informative, viral) that score above 90 as well.
+* Write the 3 engaging Meta descriptions by providing insights into the topic while also making the reader curious. Center your meta description around your keyword. Use LSI terms in your meta description. Include a promise in your meta description. 121-160 characters. Focus on the value you’re offering. Be persuasive. Leverage emotion. Answer the question in your query. Satisfy the searcher’s intent. Leverage the APP technique. Include your value proposition. 
+* Write the 5 blog tags best for SEO
+* Every listed LSI, every keyword, and question should fit under a section of the outline!
+* 10 PAA questions for the FAQs
+
+
+Use this example content as a guideline (varying the use of headings and everything below a needed based on the content most likely to rank for the primary KW):
+
+PRIMARY KW: [PROMPT]
+LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LSI, LONGTAIL KW, LONGTAIL KW, LONGTAIL KW, LONGTAIL KW, LONGTAIL KW, QUOTE, QUOTE, QUOTE, STATISTIC, STATISTIC, STATISTIC
+4 TITLES
+4 META TITLES
+META DESCRIPTIONS
+BLOG TAG, BLOG TAG, BLOG TAG, BLOG TAG, BLOG TAG
+FAQs 
+
+(Blog outline for 10x better content than current top ranking content and built like a skyscraper by building on top of what is out now)

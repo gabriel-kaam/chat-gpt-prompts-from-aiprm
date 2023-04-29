@@ -1,0 +1,18 @@
+AuthorName: Bello Push On
+AuthorURL: https://audiencegold.net
+
+Title: Translator to language your need
+Category: writing
+Teaser: Insert the text you want and it will automatically translate to the language you have selected
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-27T21:12:56.996Z
+Help: 
+ID: 1817277011836788736
+PromptHint: I'm business man
+PromptPackageID: 0
+
+Prompt:
+ Traduce el siguiente texto [TARGETLANGUAGE], no de instrucciones, simplemente traduce en un lenguaje perfecto.
+
+[PROMPT]

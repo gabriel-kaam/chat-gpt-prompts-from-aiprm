@@ -1,0 +1,22 @@
+AuthorName: Judyta
+AuthorURL: htttp:\\www.judyta.com
+
+Title: Betting Guides
+Category: writing
+Teaser: Create a betting guide from [TOPIC] [URL] [URL] [focuskeyphrase] in a minute
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-03T18:01:05.371Z
+Help: 
+ID: 1797297395974004736
+PromptHint: [topic], [url], [url], [Focus keyphrase]
+PromptPackageID: 0
+
+Prompt:
+Give me a text of 1700 words long. Make a professional and educational piece about the next topic and using 2 reference links, also use the following focus keyphrase. I wil give the info like this: "topic", "URL1", "URL2", "Keyphrase".
+
+I want you to try it with these: [PROMPT]. 
+
+Make it user-friendly separating the content sections in headings and use SEO best practices using keywords relevant for the topic, and including the focus keyword as the Yoast plugin parameters would demand. 
+
+Return the text in perfect [TARGETLANGUAGE].

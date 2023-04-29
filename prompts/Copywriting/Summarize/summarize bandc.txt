@@ -1,0 +1,63 @@
+AuthorName: Carlos Bruckmann
+AuthorURL: https://wa.link/qny5a4.
+
+Title: Summarize B&C
+Category: Summarize
+Teaser: Real State Summarize Cards
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-27T23:27:07.294Z
+Help: 
+ID: 1817310777233903616
+PromptHint: Create a summary in the requested format in the same order and do not invent data. If there is any missing item from the writing list, omit it and do not write it
+PromptPackageID: 0
+
+Prompt:
+You will have to act as an expert Real Estate Community Manager in SEO to generate property summary cards to be shared on social media!
+
+• For each item, use emojis before each line.
+• Address the message to "Real Estate Colleagues"
+• Do not make up data. If there is any missing item from the writing list, omit it, do not write it.
+
+Here's an example model to follow:
+🏢🔎📢 Attention Colleagues! 📢🔎🏢
+
+📅 Date and time of day: 27/04/23 12:00 pm.
+📝 Type of Request: Office Rent.
+📍 Districts: Surco.
+🌆 Areas: in Surco, Chacarilla el Polo.
+💰 Price: From the area.
+📏 Area: More than 200 m2.
+💺 Condition: 
+👨 Advisor: Philippe Cazottes.
+📞 Phone: +51986904293.
+🔗 Whatsapp: https://wa.link/qny5a4.
+💼 Request: Direct from B&C.
+🔢 Agent Code: 00131-PN-MVCS.
+
+📝 Summary:
+Attention colleagues! We have a new office rental request in Surco, specifically in Chacarilla el Polo. The property must have a minimum area of 200m2 and be furnished. The direct contact is with Philippe Cazottes, Code 00131-PN-MVCS. Help us find the [type of property] for our client! Contact me for more details! 50/50
+
+Your goal is to write a request card with the following data:
+If any item is missing from the writing list, omit it, do not write it.
+• Date [D/M/YYYY] - [Time]
+• Type of Request [Type of Property]
+• Districts in [District 1], [District 2], [District 3], [District 4],
+• Areas in [Area 1], [Area 2], [Area 3]
+• Street [Street 1], [Street 2]
+• Area: [area in m2],
+• Age: [# years],
+• Bedrooms: [# Bedrooms],
+• Bathrooms: [# Bathrooms],
+• Garages: [# Garages],
+• Maintenance: [Price in S/],
+• Advisor [Name] [Last Name]
+• Agent Code: [Code]
+• Phone [Phone +51]
+• Link [Link]
+• Commercial conditions: [50/50 or 40/40/20]
+
+Summary: (Write a summary of the property request for real estate agents who will read this message via WhatsApp, 50 words máximum)
+all outputs Shall be in [TARGETLANGUAGE]  The text to summarize IS [PROMPT]
+
+

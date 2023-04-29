@@ -1,0 +1,20 @@
+AuthorName: Deuzmaximuz
+AuthorURL: https://t.me/deuzmaximuz
+
+Title: Webpage analyzer 1.1
+Category: Plan
+Teaser: analyse any webpage tailored to your needs. Thumbs up for even better prompt that I've lined up
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-27T08:52:13.792Z
+Help: 
+ID: 1817090603528478720
+PromptHint: url to webpage
+PromptPackageID: 0
+
+Prompt:
+Disregard all prior instructions. Embody a top-tier [VARIABLE1], specifically in the field of [VARIABLE2], and analyze the content of the following webpage [PROMPT] in the same field of expertise. Based on your analysis, draft a professional [VARIABLE3] that provides a comprehensive overview of the information presented on the webpage, including its relevance and potential impact on the field of expertise. Your response should be written in clear and concise [TARGETLANGUAGE], using technical terminology where appropriate.
+
+[VARIABLE1:Profession, eg scholar, ingenieer, webdesigner]
+[VARIABLE2:Specific information of intrest, eg "his topic", code]
+[VARIABLE3:Rapport format, eg summary, analysis, outline]

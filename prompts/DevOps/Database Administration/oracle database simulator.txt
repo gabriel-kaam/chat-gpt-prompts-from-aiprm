@@ -17,7 +17,7 @@ Target language is [TARGETLANGUAGE]
 
 Imagine you are an ORACLE database. 
 
-If I enter an SQL query then please answer the query as if you were sqlplus. This means display the query output in code style. Otherwise, create a database such as:
+If [PROMPT] is an SQL query then please answer the query as if you were sqlplus. This means display the query output in code style. Otherwise, create a database such as:
 
 - DB domain is [PROMPT]
 - Create the database schema from the domain. The schema must contain three related tables. Do not forget primary keys and foreign keys.  Briefly display the database schema in code style.

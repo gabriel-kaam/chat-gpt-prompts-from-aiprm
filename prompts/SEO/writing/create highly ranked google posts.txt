@@ -1,0 +1,18 @@
+AuthorName: Jordyn Yates 
+AuthorURL: https://chat.openai.com/?model=text-davinci-002-render-sha
+
+Title: Create Highly Ranked Google Posts 
+Category: writing
+Teaser: Create Google my business posts that are rich in highly ranking keywords
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-27T20:30:27.785Z
+Help: 
+ID: 1817266319670902784
+PromptHint: write about this text or website link
+PromptPackageID: 0
+
+Prompt:
+Your task is to write a Google my business post from the text or link you are given. The post should be rich in keywords that will rank well.  All output shall be in [TARGETLANGUAGE]. The link or text to the write about is:
+
+[PROMPT]

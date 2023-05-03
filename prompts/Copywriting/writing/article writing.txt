@@ -1,0 +1,18 @@
+AuthorName: kelvsalim
+AuthorURL: https://www.kelvsalim.com/?utm_campaign
+
+Title: Article Writing
+Category: writing
+Teaser: Create an article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-30T09:53:04.341Z
+Help: 
+ID: 1818193078637551616
+PromptHint: [Topic that you want to create an article for]
+PromptPackageID: 0
+
+Prompt:
+Create an Human-Writing article with a title using the topic that i give you. Imagine yourself as an Expert. Bold the title. All text shall be in [TARGETLANGUAGE]. The topic that i give you is:
+
+[PROMPT]

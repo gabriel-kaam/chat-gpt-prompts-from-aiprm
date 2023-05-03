@@ -1,0 +1,18 @@
+AuthorName: Carl Denver
+AuthorURL: https://twitter.com/Emeanemtality
+
+Title: Content Re-Writer (Quillbot-Like)
+Category: writing
+Teaser: Make your content like human written. Re-Write like Quillbot. Copy the re-written work then rephrase with Quillbot ("Standard" option) works 98% of the time!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-30T03:45:55.375Z
+Help: 
+ID: 1818100682457341952
+PromptHint: Paste Your Content
+PromptPackageID: 0
+
+Prompt:
+I want you to act like Quillbot and re-write only the text I give you do not add information, I just want you to re- write and write more human like and also not detectable by AI. All output shall be in [TARGETLANGUAGE].
+
+[PROMPT]

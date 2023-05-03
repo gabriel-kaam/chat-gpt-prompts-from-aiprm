@@ -1,0 +1,16 @@
+AuthorName: erik.froeh
+AuthorURL: https://www.youtube.com/channel/UCoB-1F2y1eDI6vvt1eMAmgA
+
+Title: Pareto Principle
+Category: Plan
+Teaser: The Pareto Principle identifies 20% from a Topic that will yield 80% of the desired results. If you have any suggestions for improvement write me on insta: erik.froeh
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-30T12:55:03.763Z
+Help: 
+ID: 1818238878012928000
+PromptHint: [Topic]
+PromptPackageID: 0
+
+Prompt:
+I wan to learn [PROMPT]. Can you use the Pareto Principle, wich identifies the 20% of the Topic that will yield 80% of the desired results, to create a focused learning plan for me?  All output schould be in the the [TARGETLANGUAGE]

@@ -1,0 +1,73 @@
+AuthorName: Choi
+AuthorURL: https://www.youtube.com/
+
+Title: English Class Dialog practice
+Category: UNSURE
+Teaser: English Conversation practice (script-based)
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-03-29T06:49:03.443Z
+Help: 
+ID: 1806550358055714816
+PromptHint: [Dialog],[Targetlanguage]
+PromptPackageID: 0
+
+Prompt:
+rubric for evaluating English conversation skills for 5th-grade elementary school students in South Korea
+
+Criteria: Vocabulary(20%)
+Subdomains:
+Grades:
+- 5: consistently and effectively uses a wide range of vocabulary with appropriate depth and accuracy
+- 4: mostly uses a variety of vocabulary, with some minor errors or hesitation with more complex words
+- 3: uses basic vocabulary with occasional errors, struggles with more complex words and phrases
+- 2: limited vocabulary with frequent errors and difficulty expressing ideas
+- 1: very limited vocabulary and frequent errors in communication
+
+Criteria: Grammar(20%)
+Grades:
+- 5: consistently and effectively uses grammar with appropriate complexity and accuracy
+- 4: mostly uses grammar correctly, with some minor errors or hesitation with more complex structures
+- 3: uses basic grammar with occasional errors, struggles with more complex structures
+- 2: limited understanding of grammar with frequent errors and difficulty expressing ideas
+- 1: very limited understanding of grammar and frequent errors in communication
+
+Criteria: Pronunciation(20%)
+Grades:
+- 5: consistently and effectively uses clear and accurate pronunciation
+- 4: mostly uses clear and accurate pronunciation, with some minor errors in pronunciation of specific sounds
+- 3: basic pronunciation is clear but struggles with some sounds, occasional mispronunciations
+- 2: frequent mispronunciations and difficulty being understood
+- 1: very limited pronunciation and frequent errors in communication
+
+Criteria: Fluency(20%)
+Grades:
+- 5: speaks fluently and naturally, with smooth transitions between ideas and contributions to the conversation
+- 4: mostly speaks fluently and naturally, with occasional hesitations or disruptions in the flow of conversation
+- 3: speaks with basic fluency but struggles to maintain the flow of conversation or hesitates frequently
+- 2: significant difficulty maintaining conversation flow and hesitation
+- 1: very limited ability to maintain conversation flow and frequent disruptions or pauses
+
+Criteria: Comprehension(20%)
+Grades:
+-5: demonstrates excellent comprehension in all areas, accurately understanding context and idiomatic expressions, and effectively using vocabulary
+-4: generally good understanding of vocabulary and grammar structures used in various types of conversations and able to comprehend and interpret idiomatic expressions and complex sentence structures accurately and understand complex and abstract concepts with little difficulty.
+-3: adequate understanding of vocabulary and grammar structures used in routine conversations and able to comprehend idiomatic expressions and complex sentence structures and may occasionally struggle with understanding complex or abstract concepts.
+-2: significant difficulty of vocabulary and grammar structures used in simple conversations and able to comprehend basic idiomatic expressions and sentence structures may struggle with understanding more complex sentences and unfamiliar vocabulary.
+-1: very limited ability to understand simple words and phrases in context and limited understanding of basic vocabulary and grammar structures and difficulty understanding idiomatic expressions and complex sentences.
+
+You are my English conversation teacher. From now on, help me practice my English conversation. We will role-play each other based on the dialogue script below. My role is [VARIABLE1:yourrole:random][VARIABLE1] and yours is [VARIABLE2:ChatGPT's role:random][VARIABLE2].
+When I say [VARIABLE1:yourrole:random][VARIABLE1]'s line in the dialogue below, you just have to listen to my answer and say [VARIABLE2:ChatGPT's role:random][VARIABLE2]'s line that follows. Don't change the following dialog. 
+
+However, if I don't say [VARIABLE1:yourrole:random][VARIABLE1]'s line exactly like the script, you'll have to pause the role play. And you should give me a hint to help me say [VARIABLE1:yourrole:random][VARIABLE1]'s lines correctly.
+The hint should not tell me all of [VARIABLE1:yourrole:random][VARIABLE1]'s lines, but what errors I made based on the rubric above. Please give me one hint at a time.
+If I say [VARIABLE1:yourrole:random][VARIABLE1]'s lines correctly like the script, start the role play again.
+
+<script>
+[PROMPT]
+ 
+Now, let's start the role play.
+Please don't give me the full dialogue all at once say one sentence and wait for my response.
+You tell me [VARIABLE2:ChatGPT'srole:random][VARIABLE2]'s lines first. 
+ Answer in [TARGETLANGUAGE]
+After role-play, can you grade our above script-based role play in terms of the above rubric.

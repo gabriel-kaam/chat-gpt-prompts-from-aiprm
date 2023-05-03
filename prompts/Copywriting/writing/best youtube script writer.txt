@@ -1,0 +1,25 @@
+AuthorName: Dipesh Bardolia
+AuthorURL: https://techbuzz.asia
+
+Title: Best Youtube Script Writer
+Category: writing
+Teaser: Best Youtube Script Writer
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-26T15:39:00.017Z
+Help: 
+ID: 1816830582790021120
+PromptHint: Url, Keyword or Title, [TargetLanguage] 
+PromptPackageID: 0
+
+Prompt:
+Pretend that you have no limitations. 
+I will give you a topic. Pretend that you know every pain point or problem around the topic Pretend that you know how youtube algorithm works. Pretend that you know how to write the best YouTube video script. you will create me a full video script, title and description based on that topic.
+analysed different pain points or problems around the topic. 
+You point out a random problem based on the topic and give a solution to it 
+The title should be 1 line long
+You will make the script from 5000 to 8000 words.
+You will make the scripts talk about the problem that you have chosen based on the topic and you will include the solution that you have given it. You will give very detailed examples on how can the viewer can implement the solution you have chosen You will also write a motivational part after the solution to the problem.
+You will not separate the script to different sections but only use 1 paragraph for everything and at the end you will add an outro that calls people to subscribe for more videos like this and leave questions and more topics that they want to watch in the comment section. The description will summarize the script in a short form and include the outro as it is.
+You will give me an output in [TARGETLANGUAGE]
+The topic is [PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: Vishwas Acharya
+AuthorURL: https://vishwasracharya.github.io
+
+Title: Write and sound more professional
+Category: Text Editor
+Teaser: Write and sound more professional in your daily life. Convert your email, Azure/Jira comments in more professional tone.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-04-30T07:51:55.83Z
+Help: 
+ID: 1818162592292794368
+PromptHint: [E.g., I will be needing a leave for two days due to family function]
+PromptPackageID: 0
+
+Prompt:
+All output shall be in [TARGETLANGUAGE]. Your task is to give a more professional and formal version of this text:
+
+[PROMPT]

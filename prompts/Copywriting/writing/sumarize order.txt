@@ -1,0 +1,19 @@
+AuthorName: B&C
+AuthorURL: https://partners.bycinmobiliaria.pe/login
+
+Title: Sumarize Order
+Category: writing
+Teaser: Sumarize Order
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-28T04:09:17.66Z
+Help: 
+ID: 1817381788335730688
+PromptHint: You will generate complete sentences for all agent communications and sort them for better classification. • Do not invent data. • You will only create one sentence with all the data provided in each communication, separated by commas. • It's important that everything is grouped into a single sentence to avoid taking up too much space. • YOU SHOULD NOT PLACE TEXT BELOW EACH OTHER. • If a piece of data is missing, do not include it.
+PromptPackageID: 0
+
+Prompt:
+Order: [Type of request (Purchase or Rent)], [Type of Property] [District(s)], [Date and time of order], [Summary of the property], [Contact Name] [Phone number], [Agent code], [Date, time]. You will generate the following link for each order on [WhatsApp: https://wa.me/sender's number]
+all outputs Shall be in [TARGETLANGUAGE] The text to summarize IS [PROMPT]
+
+

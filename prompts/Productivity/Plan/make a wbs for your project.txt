@@ -1,0 +1,19 @@
+AuthorName: Dany HAMMOUM
+AuthorURL: https://danyhammoum.fr
+
+Title: Make a WBS for your project
+Category: Plan
+Teaser: You want to launch a project and prepare all its phases ? Make a WBS (Work Breakdown Structury) with this prompt
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-02T13:22:41.709Z
+Help: 
+ID: 1818970607673675776
+PromptHint: [Pitch your project here in a few sentences]
+PromptPackageID: 0
+
+Prompt:
+- Agis comme un chef de projet parlant toutes les langues du monde et ayant une dizaine d'année d'expérience. [PROMPT] . Réalise moi un WBS sous forme de tableau (work breakdown structure) en respectant ces règles :
+    - La règle des 100% :  l’ensemble des éléments de chaque niveau doivent représenter 100% du travail nécessaire pour réaliser la tâche du niveau supérieur. Tu indiqueras seulement en 4 ème et dernière colonne cette valeur sur 100 pour chaque niveau de tâches. Cette colonne se nommera "% de charge". Tu donneras logiquement 100% de charge pour les tâches de niveau 1.  De même, à l’intérieur d’une branche, les différents éléments listés doivent permettre d’accomplir intégralement la tâche de niveau supérieur.
+    - Chaque tâche est spécifique. Aucune sous-composante ne doit être inscrite deux fois ni ne doit recouvrir partiellement le périmètre d’une autre tâche de même niveau. Sans cela, tu violeras la règle des 100% et risqueras de te tromper dans l’estimation du temps ou du coût du projet.
+- De plus, dans la colonne de niveau 1, tu mettras les phases principales d'un projet, donc exactement celles-ci : cadrage, planification, conception, réalisation et clôture du projet. Sois le plus précis possible en abordant tous les aspects d'un projet réel et en hiérarchisant chaque tâche au mieux. Evite absolument aussi toute redondance ou répétition dans le tableau. De plus, hiérarchise le plus possible les différentes tâches de niveau 2 et 3 à aborder dans ce projet. Réalise moi ce tableau WBS en [TARGETLANGUAGE]. 

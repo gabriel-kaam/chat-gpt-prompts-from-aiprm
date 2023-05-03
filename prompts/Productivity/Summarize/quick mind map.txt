@@ -1,0 +1,17 @@
+AuthorName: Nathanael
+AuthorURL: http://nathan.com.br
+
+Title: Quick mind map
+Category: Summarize
+Teaser: Mind map with topics and subtopics
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-02T00:36:26.68Z
+Help: 
+ID: 1818777774425640960
+PromptHint: What's the text?
+PromptPackageID: 0
+
+Prompt:
+Create a mind map in the following text or articles. List the main idea, main branches and sub-branches.  [KEYWORD] write all output to [TARGETLANGUAGE][PROMPT]
+

@@ -13,6 +13,6 @@ PromptHint: write about this text or website link
 PromptPackageID: 0
 
 Prompt:
-Your task is to write a Google my business post from the text or link you are given. The post should be rich in keywords that will rank well.  All output shall be in [TARGETLANGUAGE]. The link or text to the write about is:
+Your task is to write a Google my business post from the text or link you are given. The post should be rich in keywords that will rank well.  The text should be no longer than 1500 characters. All output shall be in [TARGETLANGUAGE]. The link or text to the write about is:
 
 [PROMPT]

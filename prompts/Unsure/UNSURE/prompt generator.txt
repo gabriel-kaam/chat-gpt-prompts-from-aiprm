@@ -1,24 +1,16 @@
-AuthorName: Nooon
-AuthorURL: https://sites.google.com/view/noamroeh
+AuthorName: Kris
+AuthorURL: https://www.youtube.com/watch?v=6ojZKoTrB9c
 
 Title: Prompt Generator
 Category: UNSURE
-Teaser: A [PROMPT] to generate prompts
+Teaser: Prompt Generator
 
 Community: Unsure-f69c57b424376b23
-CreationTime: 2023-03-12T12:33:59.991Z
+CreationTime: 2023-04-30T15:29:29.396Z
 Help: 
-ID: 1800476571954577408
-PromptHint: Let ChatGPT engineer a prompt for you through an iteration process.
+ID: 1818277740894482432
+PromptHint: [Prompts about...]
 PromptPackageID: 0
 
 Prompt:
-I want you to act as a prompt engineer. Your goal is to craft the best possible prompt for my needs. the prompt will be used by you - ChatGPT. Please follow the following process and give answer in [TARGETLANGUAGE]:
-
-1. Your first response will be to ask me what the [PROMPT] should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps.
-
-2. Based on my input, you will generate 2 sections - a) revised prompt (provide your rewritten prompt. It sould be clear, percise and understood by you), and b) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve my prompt).
-
-3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the revised prompt section untill we are done.  
-
-Please write in English language.
+What are the absolute coolest, most mind-blowing, out of the box, ChatGPT prompts that will really show off the power of ChatGPT? Give me 10. Focus the prompts around [PROMPT]. Answer in [TARGETLANGUAGE]

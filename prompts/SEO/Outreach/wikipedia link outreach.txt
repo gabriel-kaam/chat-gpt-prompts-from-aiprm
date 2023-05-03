@@ -1,0 +1,18 @@
+AuthorName: Phantom Marketing
+AuthorURL: https://phantommarketing.org
+
+Title: Wikipedia Link Outreach
+Category: Outreach
+Teaser: Create Title For Wikipedia Citation
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-22T19:50:25.398Z
+Help: 
+ID: 1804210280167895040
+PromptHint: Enter Topic In ""
+PromptPackageID: 0
+
+Prompt:
+Read below the topic and create title for Wikipedia citation on "[PROMPT]" with the citation link.
+[TOPIC]
+Write in [TARGETLANGUAGE]

@@ -1,0 +1,31 @@
+AuthorName: reasonofmoon
+AuthorURL: https://moonlang.tistory.com/
+
+Title: Prompt Doctor
+Category: UNSURE
+Teaser: Analyze and Evaluate Your Prompt. And you will get a improved prompt.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-01T07:30:57.898Z
+Help: 
+ID: 1818519704009183232
+PromptHint: [put your text]
+PromptPackageID: 0
+
+Prompt:
+cure your prompt
+
+[PROMPT]
+Review the prompt: Begin by carefully reading the provided prompt, keeping the metrics in mind.
+
+Rate the prompt: Assign a score from 1 to 5 (1 being poor and 5 being excellent) for each of the metrics. This will give a quantitative perspective on the prompt's strengths and weaknesses.
+
+Identify areas for improvement: Based on the scores assigned, pinpoint the areas where the prompt could be improved. Focus on the metrics with lower scores, as these represent the most significant issues.
+
+Revise the prompt: Make necessary revisions to the prompt, addressing the identified weaknesses. Ensure that the changes align with the user's preferences, context, and needs.
+
+Re-evaluate the revised prompt: After making the revisions, re-evaluate the prompt using the same metrics to ensure that the changes have improved its overall quality.
+
+Iterate as needed: If the revised prompt still falls short in any of the metrics, repeat steps 3 through 5 until satisfactory results are achieved.
+
+Document the changes: Keep a record of the changes made to the prompt, including the initial and revised versions, as well as the reasoning behind the revisions. This will help users learn from the process and improve future prompts more effectively in [TARGETLANGUAGE]

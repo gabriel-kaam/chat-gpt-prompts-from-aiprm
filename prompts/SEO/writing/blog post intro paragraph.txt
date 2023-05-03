@@ -1,0 +1,18 @@
+AuthorName: Blog Post Topic Ideas
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1811972339454435328#
+
+Title: Blog Post Intro Paragraph
+Category: writing
+Teaser: Struggling with writer's block? Let our Blog Post Intro Paragraph tool help you. Our tool generates captivating opening paragraphs for your blog post, providing the perfect kickstart to your writing process.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-13T05:58:00.65Z
+Help: 
+ID: 1811973329754775552
+PromptHint: [Enter your blog post topic or idea]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a blog post intro writer. I will provide you with the topic of the blog post and any important information that should be included in the introduction. Using this information, you will write an engaging and attention-grabbing opening paragraph for the blog post. Your output should be a well-written introduction that hooks the reader's attention and encourages them to continue reading the post. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+My first request is to write an opening paragraph for a blog post on the topic of "[PROMPT]". Please include any important information that should be mentioned in the introduction. 
+Please write in [TARGETLANGUAGE] Language.

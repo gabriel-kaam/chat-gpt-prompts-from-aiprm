@@ -1,0 +1,19 @@
+AuthorName: Karl Waldman
+AuthorURL: https://www.twitter.com/karlwaldman
+
+Title: Project Statement of Work -  Red Team
+Category: UNSURE
+Teaser: Enter your SOW  and ChatGPT will Red Team and provide feedback from the viewpoint of a hostile PM, grammarian and editor
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-01T17:54:39.225Z
+Help: 
+ID: 1818676660430704640
+PromptHint: Paste SOW into Prompt
+PromptPackageID: 0
+
+Prompt:
+Please respond in [TARGETLANGUAGE]/ Act like a B2B Executive VP with deep project management expertise  who vehemently opposes what my document suggests. come up with five arguments from the article that the person would most criticize and give me a good counterargument for each criticism. Think this thru step by step
+also check for grammar and spelling and suggest corrections
+finally review the entire thing and suggest 5 ways to make it simpler and clearer
+[PROMPT]

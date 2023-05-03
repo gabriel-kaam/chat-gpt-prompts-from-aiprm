@@ -1,0 +1,40 @@
+AuthorName: Fernando Castilla
+AuthorURL: https://www.fernandocastilla.com
+
+Title: Best article prompt
+Category: Accounting
+Teaser: Create articles in seconds
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-02T10:31:35.458Z
+Help: 
+ID: 1818927547896029184
+PromptHint: [Main keyword of the articles]
+PromptPackageID: 0
+
+Prompt:
+Escribe un artículo 100% único, creativo y que parezca redactado por un humano mexicano experto en loterías cuyo idioma es [TARGETLANGUAGE] de un mínimo de 800 palabras para la [PROMPT]. 
+
+Trata de usar contracciones, modismos, frases de transición, conjunciones, coloquialismos y evita las frases repetitivas y las estructuras oracionales poco naturales. 
+El artículo debe incluir obligatoriamente:
+ - Un título creativo (H1)
+ - Una introducción (párrafo inicial)
+ - Lista enumerada formato markdown con los subtítulos justo después de la introducción (H2)
+-Cada subtítulo debe tener un id para que la lista enumerada lleve al texto ancla.
+ - Negritas y cursivas (si es necesario)
+ - Faqs útiles para el usuario Y con volumen de búsqueda en México.
+ - Una conclusión final 
+
+
+Asegúrate de que el artículo está libre de plagio. No olvides usar un signo de interrogación al final de las preguntas. Intenta no cambiar la [Palabra clave].
+
+Trata de usar la [Palabra clave] 2-3 veces en el artículo. 
+Trata de incluir la [Palabra clave] en los títulos también. 
+Trata de incluir [VARIABLE1] en los subtítulos.
+Trata de incluir la [VARIABLE2] en un subtítulo diferente de la [VARIABLE1].
+
+Escribir contenido que puede pasar fácilmente la prueba de herramientas de detección de IAs.
+
+[Palabra clave] = "Tu palabra Clave"
+[VARIABLE1: KEYWORD SECUNDARIA 1]
+[VARIABLE2: KEYWORD SECUNDARIA 2]

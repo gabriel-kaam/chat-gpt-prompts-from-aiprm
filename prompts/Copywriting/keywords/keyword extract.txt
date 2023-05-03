@@ -1,0 +1,20 @@
+AuthorName: Thales Wendel
+AuthorURL: https://www.interblg.com/
+
+Title: Keyword Extract
+Category: keywords
+Teaser: Extract all keywords from an article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-03T17:24:44.94Z
+Help: 
+ID: 1819393910385143808
+PromptHint: Paste article content here
+PromptPackageID: 0
+
+Prompt:
+quero que extraia as principais palavras-chave de um artigo. Você deve me listar no mínimo 10 palavras-chave e elas não podem serem constituídas apenas de uma palavra. cada palavra-chave deve ser formadas por duas palavras. exemplo: "fertilizante foliar, inseticidas químicos" e etc.
+
+Quero que faça na seguinte sintaxe -> Palavras-chave: palavra1, palavra2, ... 
+Quero que liste as palavras em [TARGETLANGUAGE]
+O artigo em questão: [PROMPT]

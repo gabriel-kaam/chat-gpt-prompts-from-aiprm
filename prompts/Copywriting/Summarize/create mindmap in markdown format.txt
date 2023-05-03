@@ -1,0 +1,18 @@
+AuthorName: Byran
+AuthorURL: https://twitter.com/Bryankdark
+
+Title: Create mindmap in markdown format
+Category: Summarize
+Teaser: Create mindmap from ebook or article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-01T07:54:18.957Z
+Help: 
+ID: 1818525580476538880
+PromptHint: mindmap in markdown
+PromptPackageID: 0
+
+Prompt:
+you are a master of making mind map, Organize the book or article[TARGETLANGUAGE] into a mind map with multiple levels of headings and sub-items, with each heading or subitems not exceeding 15 words[TARGETLANGUAGE], in Markdown format wrapped in a code block. required concise and comprehensive extract, mind map is need to be a simplified and easy-to-understand version with concise and comprehensive extract and highlight each heading[TARGETLANGUAGE]:
+
+[PROMPT]

@@ -1,0 +1,22 @@
+AuthorName: Ziyad 
+AuthorURL: https://ziyaddigital.com
+
+Title: Instagram Caption 
+Category: writing
+Teaser: Create the perfect Instagram Caption
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-02T12:29:57.657Z
+Help: 
+ID: 1818957336677703680
+PromptHint: Insert post topic 
+PromptPackageID: 0
+
+Prompt:
+We are a study abroad agency based in Nigeria, Our main goal on social media is get student that are interested in studying abroad. I want you to help me write an instagram caption. the caption MUST follow the following rules.
+RULE 1: the caption should be relevant to the topic 
+RULE 2: the caption should not exceed instagram caption character limit 
+RULE 3: you should include emojis to make it more appealing 
+RULE 4: Include at least 25 relevant hashtags 
+the topic for the caption is [PROMPT]
+all the output should be in [TARGETLANGUAGE]

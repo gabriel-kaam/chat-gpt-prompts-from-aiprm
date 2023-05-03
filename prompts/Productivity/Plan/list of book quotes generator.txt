@@ -1,0 +1,16 @@
+AuthorName: Lex
+AuthorURL: https://www.google.com/
+
+Title: List of Book Quote's Generator
+Category: Plan
+Teaser: List of Book Quote's Generator
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-04-29T20:12:49.766Z
+Help: 
+ID: 1817986657748783104
+PromptHint: Book + Author
+PromptPackageID: 0
+
+Prompt:
+Write a bulleted list consisting of 15 quotes with varying lengths (some short quotes while others quotes are longer) from [PROMPT] in [TARGETLANGUAGE]. Ensure that the quotes from the book are important and meaningful. Also, ensure to write which character said the quote.

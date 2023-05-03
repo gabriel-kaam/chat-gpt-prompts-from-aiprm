@@ -1,0 +1,23 @@
+AuthorName: Nazan Marketing
+AuthorURL: https://nazanmarketing.com
+
+Title: Reels captions
+Category: Accounting
+Teaser: Very Specific Reels captions
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-03T18:27:05.405Z
+Help: 
+ID: 1819409599032463360
+PromptHint: video transcript
+PromptPackageID: 0
+
+Prompt:
+Haz un texto en [TARGETLANGUAGE] que consiste en un resumen de la transcripción del video, junto con una pequeña reflexion. Debe ser un texto breve, hablando en femenino de maximo 2 parrafos.
+Relacionalo con el ejercicio y la importancia del mismo para la salud. El texto esta dirigido a mujeres y debe tener dos parrafos.
+
+La que habla en la siguiente transcripción es [VARIABLE1] Recuerda empezar diciendo algo similar a "En el video, [VARIABLE1], nos cuenta". Ahora hazlo con la siguiente transcripcion:
+
+[PROMPT]
+
+[VARIABLE1:Nombre de la Ponente]

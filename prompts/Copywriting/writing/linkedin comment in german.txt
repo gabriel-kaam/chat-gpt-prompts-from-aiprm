@@ -13,6 +13,6 @@ PromptHint: [Url of LinkedIn-Post]
 PromptPackageID: 0
 
 Prompt:
-Your task is to comment on a LinkedIn-Post in 3 sentences and with 2 hashtags. Use a sympathetic and friendly tone with a direct approach. All output shall be in [TARGETLANGUAGE]. Please do not us a salutation at the beginnung of your comment. The text to comment is on this website:
+Your task is to comment on a LinkedIn-Post in 3 sentences and with 2 hashtags. Use a sympathetic and friendly tone with a direct approach. All output shall be in [TARGETLANGUAGE]. Please do not use a salutation at the beginnung of your comment. The text to comment is on this URL:
 
 [PROMPT]

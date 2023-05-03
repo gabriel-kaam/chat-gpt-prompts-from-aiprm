@@ -3,13 +3,13 @@ AuthorURL: https://www.facebook.com/profile.php?id=100087481123518
 
 Title: Seo optimized article with FAQs and Meta.
 Category: writing
-Teaser: 100% Unique | Plagiarism Free | SEO Optimized Title, | Meta Description | Headings with Proper H1-H6 Tags | upto 2000 Words Article with FAQ's, SEO-Meta Description and Conclusion.
+Teaser: 100% Unique | Plagiarism Free | SEO Optimized Title, | Meta Description | Headings with Proper H1-H6 Tags | Tell best place to add internal links | upto 2000 Words Article with FAQ's, SEO-Meta Description and Conclusion.
 
 Community: Copywriting-00ea56f446414284
 CreationTime: 2023-04-27T07:05:40.425Z
 Help: 
 ID: 1817063787803697152
-PromptHint: [Your Keyword]
+PromptHint: [ Types your Keyword here]     *Ibrahimblogger*
 PromptPackageID: 0
 
 Prompt:
@@ -17,7 +17,7 @@ write a 100% unique, plagiarism free, creative and in a human-like style article
 
 Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures. Sentenses should be consise.You can increase number of sentenses but all of them should be consice.Make sure to use sentenses relative to the topic dont include extra and unuseful sentenses use more sentenses but they  should be relative to the topic.
 
-The article should include  Creative seo optimized Title of between 6 to 8 words, SEO meta-description (must include the [PROMPT] and it should be of less than 120 characters) . Write down at least 6 faqs with answers and conclusion. Make sure the article is plagiarism free. Don't forget to use question mark (?) at the end of questions. Try not to change the original [PROMPT] while writing the Title. write a content which can easily pass ai detection tools test. 
+The article should include  Creative seo optimized Title of between 6 to 8 words(Make it heading h1 and make it bold using markdown language, SEO meta-description (must include the [PROMPT] and it is neccesory that it should be of less than 120 characters) . Write down at least 6 faqs with answers and conclusion. Make sure the article is plagiarism free. Don't forget to use question mark (?) at the end of questions. Try not to change the original [PROMPT] while writing the Title. write a content which can easily pass ai detection tools test. 
 
 Don't try to add keyword again and again.Dont use words like in this article we will show you and such like that The reader know the topic.Dont include text which is only completeting word cout.I am not saying that you have not to complete word count. It's neccesory and you have to use text which is informational and is consice.In the whole article of atleast 2000 words you have to use words and sentenses which are consice and fit in in the article.Make sure to use short paras all over the article.
 
@@ -25,3 +25,41 @@ Don't try to add keyword again and again.Dont use words like in this article we 
 Make sure to make the article of top  quality avoid grammar mistakes and also the article should be of minimum 2000 words.
 
 In the end also tell the slug for article[PROMPT]
+
+Make sure that plot consist of  the introduction there should be two short paragraphs. In first paragraph write words which are seeking the attention of user and are concise don't use extra words like which are telling that in this article we will tell you,The reader know that about what topic article is. words should be informational and make sure to make this paragraph short(It should not be of more than 100 characters) then in second paragraph give the answer of the asked question [PROMPT] for which the user came which again I am telling you that is [PROMPT]. Please please don't make the intro lengthy and be concise and don't use traditional sentences like in this article I will show you or sentences which are telling that what we are going to cover in the article as user know it. Please don't try to use keyword because by this user will be irritated.Make sure to give answer in second paragraph.
+
+After Introduction when you will give other at least 10 heading and 10 subheadings these heading should be the detailed answer as you gave answer in introduction but these headings will give brief information about the topic and will make the user understand the detail about [PROMPT].Further the heading should be relative with [PROMPT] and and some side tips related headings should be there.These heading could also be other questions related to [PROMPT] but proper FAQs will be after these heading.
+
+Make sure that These headings should include informational and quality text and make sure that you don't try to add keyword if you want to include[PROMPT]any where use words which are synynoms of[PROMPT] or could be used instead of[PROMPT].
+Then there should be FQAs
+Then there should be conclusion and after that the things which I said before to write in the end(Meta description and slug)
+
+give short short answer to the question [PROMPT]  in the second para intro I am saying you If answer is detailed or short give both short and long answer don't mention about them that this is long and or its short just write short answer in intro and long answer could be covered in heading and subheadings.
+Don't give the heading of short answer only write the answer.
+
+
+Try your best to not to include  [PROMPT] but article should be all about [PROMPT]
+
+Your atleast 10 headings should be informational and should be related to the [PROMPT] with them there should also at least 10 subheadings.
+*Make sure that you just include at least 10 headings and 10 subheadings.Not only heading which cover long answer but there should be other headings like question and any others which are beneficial for reader
+
+
+Also tell any place where to add internal links.I have to add 3 to 5 links of other post at any suitable place give few sentences which are demanding user to also read other articles on site make this text bold by using markdown language. Than make a list of 3 to 5 links and in place of link write [Insert Internal Links] and make it bold using markdown language.
+
+Add like this:
+[Insert Internal Link] 
+[Insert Internal Link]
+[Insert Internal Link] 
+Before them instead of Internal links give heading of read more (Make it bold using markdown language ) and there don't write internal links in heading.
+
+Dont add them only in the end you can add them at any appropriate place.
+And at the end must add both meta description and slug.
+Meta description should be of less than 120 characters again I told you. 
+make sure that FAQs are before meta description and slug but should be after the conclusion
+
+
+Add this custom message before writing article "Note: Click continue where it stops and clicks it till meta description and slug or internal links are completed" Make it bold using markdown language this text should not be so bigger or not like normal.This message should be before title and give some space about 3 to 4 lines and then start the article
+
+Again and again I am saying make heading as h1,h2,h3 and make them bold using markdown language
+
+After writing article add message" Learn Amazon Affiliate Blogging contact me https://www.facebook.com/profile.php?id=100087481123518" and make it bold using markdown language

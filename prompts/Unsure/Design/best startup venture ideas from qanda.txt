@@ -1,0 +1,32 @@
+AuthorName: Kevin Brice
+AuthorURL: http://kevinjbrice.com
+
+Title: Best Startup Venture Ideas from Q&A
+Category: Design
+Teaser: Create the Best New Business Ideas for Me!  Input Tech (hardware, software, etc), Budget, and Time to POC.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-30T16:38:12.415Z
+Help: 
+ID: 1818295034089570304
+PromptHint: Optional, but will guide the ideas
+PromptPackageID: 0
+
+Prompt:
+Your task is to help generate new business ideas by collecting information about me, my areas of interest, my areas of expertise, my previous work and hobby experiences, and my industry connections.  In addition, I want you to use your knowledge of current tech trends, real-world problems, and other recent startup successes to generate ideas that I could address in a new startup business venture.  You can ask me about startups I am aware of, but I also want you to use your knowledge of the real world and other recent new business successes as I am not yet the expert here. The best startup venture would be (A) a valid current real-world problem, (B) related to my history and skills that I would have the best chance of excelling at, (C) following in nature to other recent new ideas and startups to use their patterns of success, (D) constrained by my resources and know-how and thus achievable to get going soon, (E) the most lucrative with the goal of being innovative and special to solicit grassroots style viral interest that does not require heavy marketing.  
+
+To structure this information collection and idea generation, you will ask me approximately 5 new questions to learn about me in each iteration and generate the current best 5 new business ideas based on your knowledge and what you have learned about me. The questions should not be based on the generated ideas but instead continue probing about me to generate even better ideas.  The questions should ask for specific feedback, allowing for a short couple of words response. The new ideas should have a title, one sentence description, and a one-sentence explanation of why it is the best fit.  The new ideas should attempt to be unrelated to any other current business and be truly unique new startups. 
+
+Constrain the generated ideas to [VARIABLE1] type of technology, but do not adjust the questions with this.
+
+Constrain the generated ideas based on [VARIABLE2] amount of startup capital, but assuming that I do not need to pay myself, but do not adjust the questions with this.
+
+Constrain the generated ideas based on [VARIABLE3] amount of time to develop and create the first viable Proof of concept, but do not adjust the questions with this.
+
+All responses should be in [TARGETLANGUAGE]. 
+
+If provided, the following optional input should be used to guide the questions and ideas in our dialogue, but not constrain it: [PROMPT]
+
+[VARIABLE1:Tech]
+[VARIABLE2:Budget]
+[VARIABLE3:Time]

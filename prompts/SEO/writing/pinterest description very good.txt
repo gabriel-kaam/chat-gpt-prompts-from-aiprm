@@ -1,0 +1,17 @@
+AuthorName: Ismail Crats
+AuthorURL: https://www.cratslist.com/
+
+Title: Pinterest description (Very Good)
+Category: writing
+Teaser: Make the best Pinterest description for your title, good text size
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-27T11:33:40.485Z
+Help: 
+ID: 1805897208630087680
+PromptHint: [Enter your Keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write the Pinterest description for the title given. All out put be in [TARGETLANGUAGE]. less than 300 characters. Don't include tags
+[PROMPT]

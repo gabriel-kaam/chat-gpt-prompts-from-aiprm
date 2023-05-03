@@ -1,0 +1,33 @@
+AuthorName: Deyan Wick
+AuthorURL: https://www.linkedin.com/in/deyanwickramaratna
+
+Title: Amazon Product Research: Model Browsing ALPHA
+Category: Summarize
+Teaser: Live Crawling ONLY work with ChatGPT Model Browsing ALPHA - Amazon Product Research through URL | Copy & Paste Amazon product URL inside { } | Example: {https://www.amazon.com/dp/B08RY8T3SW}
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-29T01:57:12.059Z
+Help: 
+ID: 1806476909987753984
+PromptHint: Type: Start
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] [TARGETLANGUAGE]
+Prompt: As an expert in Amazon market research with fluency in English, your assignment is to develop a sophisticated list of 100 highly pertinent keywords and customer search terms that shoppers might use to find a specific product on Amazon. Ensure that the keywords are 2, 3, or 4 words long and that there are no duplicates.
+To compile this list, please follow these instructions:
+1.	Ensure that the keywords relate to the given Amazon listing and include keywords found and not found in the listing.
+2.	Limit the generated keywords to two or three-word phrases only.
+3.	Arrange the findings into separate categories in space spearated format: Keywords in the listing: Additional Suggested Keywords: Search Terms: Identified Features: Benefits: User Applications: Target Audience: and Product Measurement:
+4.	Sort the results by relevance, placing the most relevant keywords at the top.
+5.	Create the keyword list using the provided URL and present the results in a comma-separated format in English.
+Please make sure your response complies with the guidelines and clearly demonstrates an understanding of the task.
+At the end of your response, include only these 3 sentences:
+👍 Did you enjoy this prompt? Please give a thumbs up! 
+🙏Thanks for using this Prompt. 
+🤝 Deyan Wickramaratna - www.linkedin.com/in/deyanwickramaratna 
+
+Note:
+When "Start" is entered start execute the following
+•	Instruct to Copy & Paste the Amazon URL inside curly Brackets { } 
+•	Thereafter Execute the above Prompt.

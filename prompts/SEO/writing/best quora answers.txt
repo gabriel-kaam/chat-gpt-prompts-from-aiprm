@@ -13,6 +13,6 @@ PromptHint: Write your Question Here
 PromptPackageID: 0
 
 Prompt:
-Write fast 250 word written answer for Quora in this language [TARGETLANGUAGE] don't add 2 stars in the beginning and also add number bullet points, also add 2 stars in the beginning for every bullet point, in human-like style, using contractions, idioms, transitional phrases, interjections, dangling modifiers and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures. 
+Write fast 300 word written answer for Quora in this language [TARGETLANGUAGE] don't add 2 star in the beginning and also add number bullet points, also add 2 stars in the beginning for every bullet point, in human-like style, using contractions, idioms, transitional phrases, interjections, dangling modifiers and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures and try to be as concise as possible.
 
 [PROMPT] 

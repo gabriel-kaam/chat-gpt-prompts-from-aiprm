@@ -1,0 +1,17 @@
+AuthorName: Subha
+AuthorURL: https://lowcontentprofits.com/create-word-search-puzzles-chatgpt/
+
+Title: KDP Scramble Word Puzzles Generator!
+Category: writing
+Teaser: Create scrable words puzzle books fast for Amazon KDP!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-01T16:24:23.483Z
+Help: 
+ID: 1796548285360762880
+PromptHint: [Enter the topic you need scramble words for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write 20 scramble words in given [TARGETLANGUAGE]. I want you to create two columns containing original words and scramble words. I want you to come up with word lists about: 
+[PROMPT]

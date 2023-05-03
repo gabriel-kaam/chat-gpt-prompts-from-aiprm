@@ -1,0 +1,26 @@
+AuthorName: Ryan Lee
+AuthorURL: https://virtuosodigital.io
+
+Title: Rank Math SEO Optimised Meta title 
+Category: writing
+Teaser: Rank Math SEO Optimised Meta title
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-30T12:57:36.02Z
+Help: 
+ID: 1818239516625080320
+PromptHint: Write Title followed by Keyword
+PromptPackageID: 0
+
+Prompt:
+Taking this title: [TITLE]
+Please use the Keywords [PROMPT]
+
+Re write (ensuring under 60 characters) to the following requirements:
+
+Focus Keyword used at the beginning of SEO title.
+Title to contain a positive or a negative sentiment word.
+Title to contain a power word. Add at least one.
+SEO title to contain a number.
+
+Write all output in [TARGETLANGUAGE]

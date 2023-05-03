@@ -1,0 +1,18 @@
+AuthorName: Yohai Zilber
+AuthorURL: https://www.youtube.com/@yohaizilber
+
+Title: Best Spelling, Grammar and Syntax Corrector 
+Category: writing
+Teaser: Struggle with writing because of your Dyslexia? This Spelling and Grammar corrector is just what you need.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-08T13:03:53.176Z
+Help: 
+ID: 1788887681418391552
+PromptHint: Write anything and it will correct your spelling, syntax and grammar.
+PromptPackageID: 0
+
+Prompt:
+Correct the spelling, syntax and grammar of this text in [TARGETLANGUAGE]
+
+[PROMPT]

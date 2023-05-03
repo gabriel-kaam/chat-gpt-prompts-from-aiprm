@@ -1,0 +1,20 @@
+AuthorName: Paolo Balingit
+AuthorURL: https://www.facebook.com/paolo.balingit/
+
+Title: Syndicated Article
+Category: writing
+Teaser: Recycle an article with new or updated content.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-02T08:57:52.669Z
+Help: 
+ID: 1818903964209647616
+PromptHint: [Topic you want to recycle]
+PromptPackageID: 0
+
+Prompt:
+Create three introduction paragraphs with a least 50 words about the given topic. Then elaborate on the topic further in 600 words.
+
+All outputs will be in [TARGETLANGUAGE]
+
+[PROMPT]

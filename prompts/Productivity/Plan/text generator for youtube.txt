@@ -1,0 +1,16 @@
+AuthorName: Magbis Ovando
+AuthorURL: https://www.facebook.com/magbisoc/
+
+Title: Text Generator for YouTube
+Category: Plan
+Teaser: Text Generator for YouTube
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-03T03:08:52.417Z
+Help: 
+ID: 1819178522292523008
+PromptHint: [Text Generator for YouTube]
+PromptPackageID: 0
+
+Prompt:
+Write a text with at least 2500 words about the title written below. Don't be repetitive, avoid redundancies and be as natural as possible. Write in an exciting and enthusiastic way, be extremely creative and optimistic. This text will become a video for YouTube, so ask them to subscribe to the channel, leave a like and share it on social networks. Ask them to leave a comment about what kind of videos they would like to see on our channel. Always end the text by relating God and the subject of the text. Don't remind me what I asked you for. Do not apologize. Do not self-reference. Write all output in [TARGETLANGUAGE] Use the following title: [PROMPT]

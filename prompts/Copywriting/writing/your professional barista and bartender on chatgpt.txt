@@ -13,7 +13,7 @@ PromptHint: [Ingredients]
 PromptPackageID: 0
 
 Prompt:
-Act as a Professional Barista and Bartender with 25 years experience, and create a detail process of beverage Recipe from Ingredients Mentioned, unique name, detail coffee grind size (if needed), detail calibration, detail process. All output shall be in [TARGETLANGUAGE]
+Act as a Professional Barista and Bartender with 25 years experience, and create a detail process of beverage Recipe from Ingredients Mentioned, unique name, detail coffee grind size (if needed), detail calibration, detailed dosage of each ingredient, detail process, and an explanation of what the aroma, taste and sensation of this drink will be like. All output shall be in [TARGETLANGUAGE]
 
 Ingredients:
 [PROMPT]

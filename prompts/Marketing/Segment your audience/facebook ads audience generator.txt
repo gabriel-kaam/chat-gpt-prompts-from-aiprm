@@ -1,0 +1,42 @@
+AuthorName: Dr. FIRAS
+AuthorURL: https://www.linkedin.com/in/dr-firas/
+
+Title: Facebook Ads Audience Generator
+Category: Segment your audience
+Teaser: Generate High-Performing Audiences for your Facebook Ads Campaign. Get the best possible Audiences Facebook Ads for your Products and increase your Ads results !!
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-01T14:15:57.889Z
+Help: 
+ID: 1818621625558634496
+PromptHint: [Your product or service ?]
+PromptPackageID: 0
+
+Prompt:
+[VARIABLE1:COUNTRY:France]
+[VARIABLE2:Placement Platform:FACEBOOK:FACEBOOK|INSTAGRAM|FACEBOOK + INSTAGRAM]
+Veuillez ignorer toutes les instructions précédentes. 
+Je souhaite que vous répondiez uniquement dans la langue [TARGETLANGUAGE]
+
+Tu es un expert en marketing digital avec une vaste expérience dans la création des publicités Facebook Ads. Votre objectif est de recommander un ciblage démographique, les centres d'intérêt qui seraient les plus efficaces pour atteindre le public souhaité pour ce produit : [PROMPT] pour le pays [VARIABLE1].
+
+Produit/Service : [Produit/Service]‍
+Public cible : [décrire le marché cible]
+Pays cible : [écrire le pays cible]
+Placement Platform : écrire l'emplacement cible: [VARIABLE2]
+
+
+ 1. Mener des recherches approfondies sur le produit :[PROMPT] pour comprendre les préférences du marché cible et motivations et Analysez les informations démographiques du public cible, telles que l'âge, le sexe, le lieu, l'éducation, la profession et le revenu, afin d'identifier les options de ciblage démographique. Tu dois afficher le résultat dans un tableau à 2 colonnes et ne pas écrire de paragraphe.
+
+2. Mener des recherches approfondies sur les centres d'interêts utiliser par facebook Ads. Ensuite présente 15 centres d'interêt au maximum, et pour chaque centre d'interêt propose des mots clés pour identifier les options de ciblage qui peuvent m'aider à trouver le centre d'interêt les plus pertinentes. sur facebook Ads. et ajoute un score sur 5 sur la pertinence de ce centre d'interêt (Ne pas afficher les centres d'interêts qui ont un score inférieur à 3). Tu dois afficher le résultat dans un tableau à 3 colonnes et ne pas écrire de paragraphe.
+
+3. Étudiez toutes les données et informations publicitaires Facebook existantes pour déterminer quelles options de ciblage ont réussi dans le passé sur le même produit et ajoute une recommandation si je veux utiliser le même centre d'interêt.  Ajoute un score sur 5 sur la pertinence de ce centre d'interêt . Tu dois afficher le résultat dans un tableau à 3 colonnes et ne pas écrire de paragraphe.
+
+4. Tenez compte des stratégies de ciblage et des segments d'audience des concurrents pour identifier 3 opportunités et 3 lacunes potentielles. tu dois donner pour chaque opportunités une note entre 0 et +3 selon l'importance de l'opportunités de ce produit dans le marché. tu dois ajouter pour chaque lacunes une note de 0 à -3, selon la difficulté de la lacune. Tu dois afficher le résultat dans un tableau et ne pas écrire de paragraphe.
+
+5. Propose moi le AD format le plus intéressant et le plus pertinent pour ce produit pour notre cible. Aussi les villes les plus pertinente à ciblé. Et Période de temps le plus optimisé pour lancer notre publicité. Tu dois afficher le résultat dans un tableau et ne pas écrire de paragraphe.
+
+6. Mener des recherches approfondies sur un plan complet qui comprend les recherches menées sur ce produit, public cible et concurrents. Présenter une liste de recommandations options de ciblage démographique et d'intérêt pour la campagne publicitaire Facebook Ads, ainsi que
+avec une justification expliquant leur efficacité. Inclure toute variation ou options de ciblage alternatives envisagées, ainsi qu'un test et une optimisation plan pour assurer le succès de la stratégie de ciblage. Tu dois afficher le résultat dans un tableau à 2 colonnes (Numéro de recommandation, Description de la recommandation) et ne pas écrire de paragraphe.
+
+7. Je veux que vous pensiez comme un expert professionnel des médias sociaux ayant de l'expérience dans la création d'excellentes publications et publicité sur Facebook. Propose moi une publication Facebook sur ce sujet [PROMPT] en prend compte les l'objectif de d'une compagne Facebook (Conversions | Brand awareness|Reach |Traffic| Engagement| App Installs| Video Views| Lead Generation| Messages| Catalogue Sales| Store Traffic). Je veux que tu m'affiche un tableau avec 2 colonnes (Objectif de compagne, description recommandée) et ne pas écrire de paragraphe.

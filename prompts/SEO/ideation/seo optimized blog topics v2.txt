@@ -1,0 +1,18 @@
+AuthorName: Andrew Sitz
+AuthorURL: https://www.linkedin.com/in/asitz
+
+Title: SEO Optimized Blog Topics v.2
+Category: ideation
+Teaser: This prompt allows you to generate endless blog topics optimized for SEO by simply providing a few pieces of relevant information.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-02T02:23:08.713Z
+Help: 
+ID: 1818804626498256896
+PromptHint: [Business Name] [Location] [Industry/Service]
+PromptPackageID: 0
+
+Prompt:
+Your task is to create 5 blog topics based on the criteria I provide to you. These titles need to be original, attention grabbing, and optimized for SEO. I will be providing you a business name, location, and industry in the [PROMPT]. All outputs are to be in [TARGETLANGUAGE]
+
+In addition to each blog topic, please provide 2 relevant informational and transactional keywords that are relevant to the business/industry. Please also create a 2-3 sentence guide outlining how each topic should be written. These blogs will be limited to 1000 characters, so please choose topics accordingly. 

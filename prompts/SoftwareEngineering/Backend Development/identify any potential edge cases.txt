@@ -1,0 +1,16 @@
+AuthorName: Ashfaq
+AuthorURL: http://google.com
+
+Title: Identify any potential edge cases
+Category: Backend Development
+Teaser: Identify any potential edge cases or scenarios that may cause the code to fail or produce unexpected results, and suggest solutions or improvements to address these issues [KEYWORD]
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-05-01T00:29:03.565Z
+Help: 
+ID: 1818413528001015808
+PromptHint: [Enter code here]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]Identify any potential edge cases or scenarios that may cause the code to fail or produce unexpected results, and suggest solutions or improvements to address these issues.  [TARGETLANGUAGE] 

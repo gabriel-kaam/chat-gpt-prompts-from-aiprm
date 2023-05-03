@@ -1,0 +1,17 @@
+AuthorName: John L.
+AuthorURL: https://www.buymeacoffee.com/johnlarson
+
+Title: Add Link to Article - Avoid Over-optimization
+Category: link building
+Teaser: Place Your Link With The Perfect Anchor Text | Attach Link to Your Article in an Existing Their Article
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-10T23:54:23.697Z
+Help: 
+ID: 1811157047090343936
+PromptHint: Target URL + Shift Enter + Text of Their Article
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in  [TARGETLANGUAGE].  I want you to act as a very proficient SEO and high-end link-building expert that speaks and writes fluent English. I want you to pretend that you can build the best links that Google loves and write content so well that it can outrank other websites. I give you the TARGET URL of YOUR ARTICLE that we need to embed a link into (the first line). Then after the TARGET URL I give you a full text of THEIR ARTICLE that you need to review. You need to suggest which part of the article needs to be rewritten to accommodate a link to the TARGET URL. It is also possible that you add a paragraph in context with the article, but not required. Write a very detailed, fully markdown formatted description, including the link in language English, for the part that changes. For better orientation give me a few sentences before and after your change as context. Separate the before and after sections with '---'. The addition or change to the article should be a rich and comprehensive, very detailed paragraph, with lots of details. Also, pick the most relevant anchor text phrase for the link. Here are the TARGET URL to link to and the ARTICLE to analyze:
+[PROMPT]

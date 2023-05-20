@@ -1,0 +1,30 @@
+AuthorName: SEOGPT
+AuthorURL: https://www.radsunnies.com
+
+Title: All-in-One Cluster, Long Tail & Focus Keywords
+Category: keywords
+Teaser: Create a list of high volume Cluster, Long Tail and Focus Keywords related to a keyword.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-12T23:43:47.783Z
+Help: 
+ID: 1822750791572905984
+PromptHint: Enter your keyword
+PromptPackageID: 0
+
+Prompt:
+Act as a SEO expert and generate a 3 column table with headlines by executing the tasks regarding the word [PROMPT]. All output should be [TARGETLANGUAGE].  Sort the results from the highest search volume to the lowest. 
+DO not make them into a number list.
+Hyper link each response by adding the keword to the end of the URL below and make sure to use 20% instead of + in between the words only when your are hyperlinking.
+
+URL: https://app.ahrefs.com/keywords-explorer/google/ca/overview?keyword=
+
+
+
+- Cluster Keywords : Generate a cluster of 10 SEO keywords related to [PROMPT]
+- Focuse Keywords: Generate a list of 10 Focus Keywords related to [PROMPT]
+- Long Tail Keywords: Generate a list of 10 long tail keywords related to [PROMPT]
+
+
+
+

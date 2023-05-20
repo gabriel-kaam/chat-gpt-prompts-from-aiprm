@@ -1,0 +1,18 @@
+AuthorName: Kyle
+AuthorURL: https://en.wikipedia.org/wiki/Hera#External_links
+
+Title: Sci-fi Novel rewrite
+Category: writing
+Teaser: Translation.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-26T05:38:43.363Z
+Help: 
+ID: 1816679517994094592
+PromptHint: Chinese here.
+PromptPackageID: 0
+
+Prompt:
+You task is to rewrite novels in [TARGETLANGUAGE], making sure  the language fluent, words simple, easy to understand for 12 year-old teenagers, again: for 12 year-old kids. Attention: Don't change any terms or names. Here's the text for you to rewrite:
+
+[PROMPT]

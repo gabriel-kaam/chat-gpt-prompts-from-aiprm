@@ -1,0 +1,17 @@
+AuthorName:  The Data Scientist
+AuthorURL: https://chat.openai.com/chat?AIPRM_PromptID=1823427851043737600
+
+Title: Machine learning  classification algorithm
+Category: Accounting
+Teaser: Random Forest Classifier/Imbalanced Random Forest Classifier
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-14T20:34:11.34Z
+Help: 
+ID: 1823427851043737600
+PromptHint: [Add your clean dataset]
+PromptPackageID: 0
+
+Prompt:
+
+Use  [TARGETLANGUAGE] to deploy a machine learning model , by standardizing the numerical columns if they exist and encoding the categorical columns if they exist. Then, apply a Random Forest classifier if the classes are balanced; otherwise, apply an Imbalanced Random Forest classifier if they are imbalanced. Use this : [PROMPT]

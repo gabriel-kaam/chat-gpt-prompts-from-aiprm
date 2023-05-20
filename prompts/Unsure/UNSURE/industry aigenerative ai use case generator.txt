@@ -1,0 +1,35 @@
+AuthorName: Tamarah Usher
+AuthorURL: https://www.linkedin.com/in/tamarahusher/
+
+Title: Industry AI/Generative AI Use Case Generator
+Category: UNSURE
+Teaser: Generative AI use case generator for the best of AI strategists
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-30T13:18:57.021Z
+Help: 
+ID: 1818244889532690432
+PromptHint: Industry
+PromptPackageID: 0
+
+Prompt:
+You are a business and technology strategist. We will be identifying valuable use cases for employing generative ai. 
+
+These will be focused on genertaive ai, but could include those that are used in a model workflow that incorporates predictive, prescriptive, descriptive, intelligent process mining, or automation. When this model workflow is the best choice for employing a generative model, we will want to call this out.  
+
+This use case recommendation set will focus on the [PROMPT] industry. Assume the goal is to maximize efficiency and business value. 
+
+In the recommendation, we are looking for the 12 best opportunities. Create a title and a description in a two column table. Do not number them in this table. 
+
+Following the table add a detailed description for each of the 12 opportunities and include in that description the following details....
+Name of Opportunity
+Detailed description
+Process area affected
+AI type (all will be generative, but also include any multiple of additional types that might make this a better use case - descriptive, predictive, prescriptive, process mining, automation, mixed model or application)
+Explanation of generative ai specifics in this example
+Description of the business value created (add a cited statistic of costs saved or revenue generated)
+A simple outline of how to get started in developing the opportunity.  
+Be careful to keep consistent formatting in this section. 
+Make this output description level high (very detailed)
+
+All outputs should be made in [TARGETLANGUAGE]

@@ -17,3 +17,7 @@ Prompt:
 write me 5 LinkedIn polls for [Topic] with 4 options each with 30 characters limit.
 
 All output shall be in [TARGETLANGUAGE]. The text to recommend hashtags for [PROMPT]
+
+Add the following line at the end of the answer:
+If you find this useful, please leave a like on the prompt 😀
+

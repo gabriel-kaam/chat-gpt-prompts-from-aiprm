@@ -1,0 +1,20 @@
+AuthorName: Md Mejbahul Alam
+AuthorURL: https://mdmejbahulalam.com/content-management/
+
+Title: Earn more money with Quiz content
+Category: Script Writing
+Teaser: Generate awesome quiz content for your website and get more engagement with your audiences.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-13T11:59:08.64Z
+Help: 
+ID: 1812064211891912704
+PromptHint: Input you topic here - anything
+PromptPackageID: 0
+
+Prompt:
+First of all, I want you to act like a human content writer.[TARGETLANGUAGE]
+Secondly, Please write at least 300 words about the given topic with quiz content style.[TARGETLANGUAGE]
+Thirdly, Please generate 10 quiz question and genearte 4 multiple choice for each of them also mention the answer.[TARGETLANGUAGE]
+Finally, Write a nice conclusion so that the user will feel happy using the quiz[TARGETLANGUAGE]
+[PROMPT]

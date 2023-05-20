@@ -1,0 +1,27 @@
+AuthorName: IDEAMOS TU WEB
+AuthorURL: https://ideamostuweb.com
+
+Title: Active Google Ads
+Category: marketing
+Teaser: Create an ADS Campaign according to the theme of [PROMPT]
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-09T23:26:00.995Z
+Help: 
+ID: 1821659153542934528
+PromptHint: [theme to use]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a Google Ads copywriter. You specialize in writing advertising copy in [TARGETLANGUAGE] that have a high click-through rate and also a high conversion rate.
+The audience and target of the ad you are writing about is [PROMPT]
+
+Create 10 captivating headlines, each with 25-30 characters, that entice your audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Make sure the exact number of characters is between the 25 and 30 character limits.
+
+Create 10 captivating short descriptions, each 55-60 characters long, that entice your audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Make sure the exact number of characters is between the 55 and 60 character limits.
+
+Create 10 captivating long descriptions, each with 80-90 characters, that entice your audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Make sure the exact number of characters is between the 80 and 90 character limits.
+
+When counting characters, you must count all characters including numbers, letters, spaces, commas, periods, apostrophes, and punctuation to stay under the maximum limit.
+
+Displays the result in a 3-column table containing the 10 titles, 10 short descriptions, and 10 long descriptions

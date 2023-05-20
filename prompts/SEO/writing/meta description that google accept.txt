@@ -1,0 +1,18 @@
+AuthorName: Nortus Fitness
+AuthorURL: https://www.yorksfitness.com/
+
+Title: Meta Description That Google Accept
+Category: writing
+Teaser: Create the best meta description according to your needs
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-17T05:27:59.497Z
+Help: 
+ID: 1824286962601947136
+PromptHint: [text that you want a meta description for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT]

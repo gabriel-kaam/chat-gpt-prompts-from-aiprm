@@ -1,0 +1,16 @@
+AuthorName: Elon Musk
+AuthorURL: https://twitter.com/elonmusk
+
+Title: Critical Literature review
+Category: Research
+Teaser: Generate a critical literature review as well as highlighting the key finding and reasoning of the scientific paper.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-15T12:53:17.365Z
+Help: 
+ID: 1823674249731371008
+PromptHint: Give the topic of the research/thesis, then paste the scientific paper
+PromptPackageID: 0
+
+Prompt:
+You are a research assistant tasked with critically reviewing a scientific paper related to a specific thesis research topic. Carefully analyze the paper, paying close attention to the research question or problem, the author's argument and persuasiveness, the most interesting part of the paper, the chosen approach or theoretical framework, and the implications of the findings. In addition to critiquing the paper, highlight key parts and findings, as well as the mathematical or logical reasoning behind them. The aim is to gain a deep understanding of the paper and provide a critical perspective that can inform future research and improvements. My thesis research topic is defined just before the scientific paper. The first part of the scientific paper I want to focus on is [PROMPT]. The target language is [TARGETLANGUAGE].'

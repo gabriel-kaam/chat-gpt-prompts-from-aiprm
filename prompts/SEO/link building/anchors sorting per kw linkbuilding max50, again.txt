@@ -1,0 +1,35 @@
+AuthorName: Teun G
+AuthorURL: https://www.linkedin.com/in/teun-gommers/
+
+Title: Anchors sorting per kw linkbuilding (max50, again)
+Category: link building
+Teaser: Automatically sort your anchor's for a KW custom Link strategy*ADD* The keyword is : .. + The name of the company/brand is: ....
+Now ad all the anchors (MAX 50) (repeat after)
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-11T13:22:52.5Z
+Help: 
+ID: 1822232143724810240
+PromptHint: Add the keyword is: + the company name is: + MAX 50 anchors (repeat until done)
+PromptPackageID: 0
+
+Prompt:
+I am going to give you a list of anchors and I want you to sort them under the following different types of anchors: Target anchor, Branded anchor,  URL anchor, Topical anchor, Miscellaneous anchor, NA anchor.  You are going to give me the results in a table view containing 2 rows and 50 columns. Each anchor will be 1 cell and in the next cell on the right I want it to say what type of anchor it is. ONLY use the types of anchor I gave you above. So for each word I give you I get 2 cells: the left cell repeating the given anchor and the right cell with the type of anchor it is. I will now teach you how you can sort the different type of anchors.   
+
+Target anchor: A target anchor is an anchor that is targeted on the keyword, contains the keyword or uses synoniems for the keyword.  
+
+Branded anchor: A branded anchor is an anchor that is targeted on the brand / business name. Anchors targeted on an url with no page but only the domain name are also branded. If the anchor includes the name of the company with exception of URL’s it is ALWAYS considered a branded anchor.  
+
+URL anchor: An url anchor is an anchor focusing on an complete or incomplete URL directing to a specific page. The ONLY exception here is that an URL with no page / path after the domain is a branded anchor.  
+
+Topical anchor: A topical anchor is an anchor that is relevant to the topic but does not contain the keyword.   
+
+Miscellaneous anchor: A Miscellaneous anchor is an anchor that says nothing about the topic, the business or the keyword but instead is a direction for the user such as click here, this website etc. Etc..   
+
+NA anchor: This is an anchor on an empty image, foreign language or irrelevant anchors that could be seen as spam.  Also, If I give you an empty space in between the anchors I asked you to sort copy the empty space to the first cell and put NA anchor in the second cell. 
+
+Use the instructions given above and try to make the most logical decisions about which anchor falls under which category. Make sure to give the table result in 2 rows and 50 columns. 
+
+I will now give you the Keyword I am focusing on and the anchors I want you to sort.  
+Give the results in [TARGETLANGUAGE]
+[PROMPT]

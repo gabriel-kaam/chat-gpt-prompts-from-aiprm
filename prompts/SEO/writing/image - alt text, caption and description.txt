@@ -1,0 +1,20 @@
+AuthorName: Please follow us
+AuthorURL: https://www.linkedin.com/company/todayonit/
+
+Title: Image - Alt Text, Caption and Description
+Category: writing
+Teaser: Alt Text, Caption and Description to get the best ranking on Google.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-28T05:35:47.522Z
+Help: 
+ID: 1784788648290684928
+PromptHint: [Write here your blog topic and Image details]
+PromptPackageID: 0
+
+Prompt:
+Your task is to write Alt Text, Caption and Description for Image in blog post based on Blog title and image details.
+and at the end of the article write this "Please support us by providing 1 do follow backlink to http://blogghere.com/
+All output shall be in [TARGETLANGUAGE]. The text to summarize it is this:
+
+[PROMPT]

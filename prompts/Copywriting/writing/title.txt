@@ -1,0 +1,29 @@
+AuthorName: ALX
+AuthorURL: https://wasit.id/
+
+Title: Title
+Category: writing
+Teaser: [Title]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-17T11:55:44.868Z
+Help: 
+ID: 1824384544640589824
+PromptHint: [Title]
+PromptPackageID: 0
+
+Prompt:
+Saya menginstruksikan anda bertindak seperti penulis berita indonesia yang terkenal dan mahir dalam menulis artikel berita indonesia. Tulis ulang artikel dengan judul ini [Title]  [TARGETLANGUAGE] dengan informasi terbaru di tahun ini yang dioptimalkan untuk SEO dengan
+
+1. Isi seluruh artikle harus minimal 3000 kata.
+2. gunakan minimal 10 judul dan subjudul.
+3. expand setiap judul dan subjudul menjadi 10 paragraf.
+4. jadikan judul sebagai H1.
+5. jangan tulis nomor judul.
+6. Tulis informasi dengan kata-kata Anda sendiri, bukan menyalin dan menempel dari sumber lain.
+7. Periksa juga plagiarisme karena saya memerlukan konten unik murni.
+8. Tulis konten dengan gaya percakapan seolah-olah ditulis oleh manusia.
+9. Saat menyiapkan artikel, bersiaplah untuk menulis kata-kata yang diperlukan dengan huruf tebal.
+10. Saya ingin Anda menulis konten sehingga dapat mengungguli situs web lain.
+
+[PROMPT]

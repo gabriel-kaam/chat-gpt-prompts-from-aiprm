@@ -1,0 +1,16 @@
+AuthorName: Afnan Tajuddin
+AuthorURL: https://www.safetynotes.net/
+
+Title: Keyword, Meta Description, Slug  Generator
+Category: writing
+Teaser: Create SEO-Optimized: 5 Keywords, 5 Meta Descriptions, 5 Slugs, and 5 Titles for Your Article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-15T09:47:09.506Z
+Help: 
+ID: 1823627408335695872
+PromptHint: Paste your article here to generate SEO Optimized Keywords, Meta Description, Slugs & Title
+PromptPackageID: 0
+
+Prompt:
+Provide an 5 SEO optimized keywords used in article. Give also an 5 SEO optimized compelling meta description that entices users to click on our website in search results strictly under 160 caracters and  5 SEO optimized slug that is not too long, minimum 35 and maximum 75 characters , and only uses the most important key words of the article to rank on on search engines. Respect the character limits provided. Also provide an appealing 5 Title for the article with minimum 15 and maximum 60 characters . targeted language is [TARGETLANGUAGE] Don't provide anything else than those 4 tasks.  The article to use for this task is [PROMPT]

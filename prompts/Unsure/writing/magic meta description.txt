@@ -1,0 +1,16 @@
+AuthorName: osgoh
+AuthorURL: https://ainibot.com
+
+Title: Magic Meta Description
+Category: writing
+Teaser: Create your magic meta description
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-17T15:04:59.537Z
+Help: 
+ID: 1813560533606199296
+PromptHint: [your text for your meta description]
+PromptPackageID: 0
+
+Prompt:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]

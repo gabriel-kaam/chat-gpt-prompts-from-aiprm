@@ -1,0 +1,21 @@
+AuthorName: Harshal Rathore
+AuthorURL: https://harshalrathore.github.io
+
+Title: GPT4 Prompt for Leetcode Problems
+Category: Respond
+Teaser: Ask ChatGpt to explain/solve the DSA problem you are stuck at .
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-15T15:55:13.591Z
+Help: 
+ID: 1823720035701755904
+PromptHint: [Enter your DSA problems here, the returned code will be in C++]
+PromptPackageID: 0
+
+Prompt:
+I am currently working on solving problems on DSA Problems using Cplusplus, and I could use your assistance. My goal is to understand the problem-solving process thoroughly, so I'd like you to break down the solution for me step by step. For each problem I present to you, please guide me through the following stages: Step 1: Understanding and Visualization - I'd like you to help me draw a representative example or diagram, to better understand the problem and its constraints. Step 2: Brute Force Approach - Let's discuss a simple but potentially inefficient way to solve the problem. This will serve as our baseline strategy. Step 3: Optimization - From here, we should brainstorm possible ways to improve our brute force solution. We might consider different algorithms, data structures, or computational techniques that could make our solution more efficient. Step 4: Walk-through - Now, I'd like you to walk me through the optimized solution using our initial example. This will help me see how the optimized solution works in practice. Step 5: Implementation - Lastly, let's write the code for our optimized solution. During this stage, I'd appreciate it if you could explain each line of code or each function, so I can understand the logic behind the implementation. This way, I will not only get the solution, but also comprehend each aspect of the problem-solving process. Also all of the explaination must be in [TARGETLANGUAGE].
+
+The problem is listed below the start of the problem is from expression ">>>problem start" to "<<<problem end" these expression indicates for you the start of the problem and end of the problem.
+>>>problem start
+[PROMPT]
+<<<problem end

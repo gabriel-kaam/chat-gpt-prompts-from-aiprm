@@ -1,0 +1,23 @@
+AuthorName: Anil Patel
+AuthorURL: https://www.appstory.org
+
+Title: Classified Content
+Category: writing
+Teaser: Classified Advertisement Post with 100 or fewer words. based on Keywords
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-07T11:29:17.967Z
+Help: 
+ID: 1820754010039390208
+PromptHint:  [Keywords ] , [company Name]
+PromptPackageID: 0
+
+Prompt:
+Project Name: [VARIABLE1]
+Keyword:  [PROMPT]
+[TARGETLANGUAGE]: English
+[TARGETcountry] : USA
+Content Tone :  Classified Advertisement Post
+Need 2 Title Based on [Keywords ] its must be Less Then 10 words
+Need 80 Words Description, Keywords must be used more than 2 time
+Need 3 Hashtag related to content

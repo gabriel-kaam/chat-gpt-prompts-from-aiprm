@@ -1,0 +1,20 @@
+AuthorName: The Internet Stud
+AuthorURL: https://theinternetstud.com/
+
+Title: Blog To YouTube Video Script Creator 2.O
+Category: Script Writing
+Teaser: Get a high quality, engaging, YouTube video script from your blogpost.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-08T13:39:52.661Z
+Help: 
+ID: 1821149258993369088
+PromptHint: [Enter Your Blog Post Link]
+PromptPackageID: 0
+
+Prompt:
+Please clear all the previous instructions and your new task is to act as an expert YouTube video script writer,
+I sharing a link of my blog post, you have to write a YouTube video script according to the content of my blog. Keep in mind that the language of the script should be Simple, add hooks, use conversational tone and also add the call to action at the end of the video.
+
+According to the script, share 5 interesting titles that may get good CTR, include headings if needed, and share good description in [TARGETLANGUAGE].
+Here is the link: [PROMPT]

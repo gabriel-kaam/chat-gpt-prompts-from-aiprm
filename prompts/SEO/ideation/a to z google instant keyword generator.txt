@@ -1,0 +1,69 @@
+AuthorName: Jawad Khan
+AuthorURL: https://www.fiverr.com/jawadkhan4
+
+Title: A to Z Google Instant Keyword Generator
+Category: ideation
+Teaser: Generate A to Z series of keywords
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-30T18:50:00.337Z
+Help: 
+ID: 1807094178484846592
+PromptHint: [Enter Your Keyword Here]
+PromptPackageID: 0
+
+Prompt:
+Create Keyword Chains of this keyword | Every Chain should have at least 10 Keywords | Also sort them from A to Z
+
+Check below how I'm asking you to create a chain as an example. 
+
+happy new year app 
+happy new year art
+happy new year a answer
+happy new year anniversary
+happy new year arabic
+
+happy new year backgrounds
+happy new year best wishes
+happy new year blessings
+happy new year banner
+
+happy new year captions
+happy new year Chinese
+happy new year clipart
+happy new year cake 
+happy new year countdown
+
+Every keyword has it own chain like A has 10 keywords, B has 10 keywords and C also has 10 keywords. And Also Add some space between the each keyword Chain Alphabetically.
+
+Chain Pattern should be like this
+
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+Entered Keyword + a
+
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+Entered Keyword + b
+
+Every Alphabetic chain should be 10 keywords and add space after every chain
+
+All outputs should be in  [English]
+
+[PROMPT]
+[TARGETLANGUAGE]

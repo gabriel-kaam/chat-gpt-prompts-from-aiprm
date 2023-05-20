@@ -1,0 +1,18 @@
+AuthorName: Kamil Marchel
+AuthorURL: https://www.linkedin.com/in/kamil-marchel/
+
+Title: Value proposition maker
+Category: writing
+Teaser: Create value proposition faster and easier than before!  Paste couple sentences about your product of features and receive complete value proposition.
+
+[marketing] [value proposition] [writting]
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-19T18:57:20.748Z
+Help: 
+ID: 1825215418982461440
+PromptHint: [Paste the text here to make a value proposition]
+PromptPackageID: 0
+
+Prompt:
+Stwórz zoptymalizowaną ofertę wartośći dla podanego [PROMPT]. Używaj języka[TARGETLANGUAGE]. Wypisz tylko tekst zoptymalizowany wyjsciowy. Zdanie zacznij z wielkiej litery. Pomiń frazę Oto zoptymalizowany...

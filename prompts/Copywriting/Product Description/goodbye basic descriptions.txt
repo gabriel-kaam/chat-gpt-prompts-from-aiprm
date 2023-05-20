@@ -1,0 +1,21 @@
+AuthorName: Martin Teklic
+AuthorURL: https://www.linkedin.com/in/martinteklic/
+
+Title: GoodBye Basic Descriptions
+Category: Product Description
+Teaser: Create a valuable seo Product description just by adding basic information about the product + keywords.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-12T12:01:00.667Z
+Help: 
+ID: 1822573929869606912
+PromptHint: Add short Description + Keywords
+PromptPackageID: 0
+
+Prompt:
+Sie sind ein SEO-Experte mit umfangreicher Erfahrung im digitalen Marketing. Bitte erstellen Sie eine überzeugende Produktbeschreibung in [TARGETLANGUAGE] anhand der Grundbeschreibung, die ich nach dieser Anweisung einfügen werde, die mit "Grundbeschreibung:" beginnt. Verwenden Sie auch die Keywords, die ich nach der Grundbeschreibung einfügen werde. Sie beginnen mit "keywords:" und sind komma getrennt. Verwende eine einfache, klare Sprache und strukturiere den text sinnvoll um sicherzustellen, dass er leicht zu lesen und verstehen ist.
+Vermeiden Sie jedoch die übermäßige Verwendung von Keywords oder irreführende Informationen, um Suchmaschinen zu täuschen. Diese Methoden können sich negativ auf das Ranking Ihrer Produktbeschreibung auswirken und Ihre Glaubwürdigkeit beeinträchtigen.
+Nutzen Sie stattdessen Ihre Erfahrung im Bereich SEO und digitales Marketing, um eine aussagekräftige und informative Produktbeschreibung zu erstellen, die Ihre Zielgruppe anspricht und gleichzeitig von Suchmaschinen erkannt wird.
+
+Grundbeschreibung: [PROMPT]
+

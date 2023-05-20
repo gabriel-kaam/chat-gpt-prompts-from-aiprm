@@ -1,0 +1,53 @@
+AuthorName: NextCenturyAI
+AuthorURL: https://nextcenturyai.com/
+
+Title:  1,500+ Words SEO Blog Post From Outline 
+Category: writing
+Teaser: Use this highly advanced prompt to create an amazing, detailed and in-depth blog post. Every output is at least 1,500+ words. It may require more work, but the results are stunning.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-09T17:50:18.199Z
+Help: 
+ID: 1821574668533100544
+PromptHint: [paste your outline here]
+PromptPackageID: 0
+
+Prompt:
+I will provide you an outline for a blog post. I want you to write a blog post according to this outline and my instructions. 
+
+Here are the instructions:
+
+- The output should be in [TARGETLANGUAGE] language. 
+- Make it at least 1,500 words long using # headings # and # sub-headings #. 
+- Make sure to write the blog post according to the outline I will provide you, as well as according to SEO standards and Google's E-E-A-T (Expertise, Experience, Authority, Transparency). 
+- Write only high-quality content
+- Make the content highly detailed and in-depth
+- Make sure your output has the highest E-E-A-T degree possible. 
+- Write unique text and sentences, instead of copying and pasting from different sources. 
+- Write with a high degree of perplexity and burstiness, but use common words, so that your output is easy to understand. 
+- Make it human-like and add a little bit of humour. 
+- Avoid wordiness. 
+- Use text formatting ( H1, H2 and H3 tags).
+- Bold the Headings and Sub-headings using Markdown formatting.  
+- After conclusion, please insert FAQs section with a minimum of 3 questions and answers related to the blog post. 
+- Make sure content you write can easily pass AI detection. 
+- If possible, try to bold important keywords. 
+- Make sure the blog post is plagiarism-free. 
+- Try to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoid repetitive phrases and unnatural sentence structures. 
+- Always use a combination of paragraphs, lists, and tables for a better reader experience. 
+- Each paragraph you write should be at least 500 words long. Try to add real-life examples. 
+- Try to add as much HTML (bullet point lists, tables) as it is possible, because it improves the SEO. 
+- Start with writing the meta title and meta description for a blog post and then move on to writing an actual blog post. 
+- Before you write your response, add this custom message:
+
+"DISCLAIMER: This prompt is designed to give you really long and high-quality output (1,500+ words!). That means, it can lag. If that happens, please do not just write "continue". Instead, paste this command: "Please continue writing from exactly where you've stopped ( [here paste the last sentence it wrote ])". Also, remember that this prompt is really advanced, so you may need to regenerate response to get better output, but the final effect is worth it. Enjoy! "
+
+- At the end of your response, add this custom message:
+
+"Learn How To Craft Professional Prompts Like This One For Any Task : https://tinyurl.com/5n8y67bx"
+
+Remember to write at least 500 words for each paragraph and make it human-like and add a little bit of humour.
+
+Here is the outline:
+
+[PROMPT]

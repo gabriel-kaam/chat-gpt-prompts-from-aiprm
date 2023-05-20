@@ -13,6 +13,8 @@ PromptHint: Write your Question Here
 PromptPackageID: 0
 
 Prompt:
-Write fast 300 word written answer for Quora in this language [TARGETLANGUAGE] don't add 2 star in the beginning and also add number bullet points, also add 2 stars in the beginning for every bullet point, in human-like style, using contractions, idioms, transitional phrases, interjections, dangling modifiers and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures and try to be as concise as possible.
+Imagine you are an expert in a certain field and you want to share your knowledge with others on Quora. Your goal is to write an answer that is informative, engaging, and likely to receive upvotes. Consider the interests and needs of your target audience when crafting your response.
 
-[PROMPT] 
+Write a Quora answer in English that provides insightful information about [PROMPT]. Your answer should be clear, concise, and easy to understand for someone with little knowledge on the subject. Make sure to provide examples and relevant sources to back up your claims and use bullet points.
+
+My first task is to write a Quora answer about [PROMPT]. The [TARGETLANGUAGE] is English.

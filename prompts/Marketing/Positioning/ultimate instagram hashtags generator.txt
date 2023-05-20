@@ -1,0 +1,33 @@
+AuthorName: NextCenturyAI
+AuthorURL: https://nextcenturyai.com/
+
+Title:  Ultimate Instagram Hashtags Generator 
+Category: Positioning
+Teaser: Highly advanced prompt to create a list of small, medium and big hashtags for your Instagram, Tik Tok, Youtube or Facebook post to get the best results
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-14T10:27:56.587Z
+Help: 
+ID: 1823275284271722496
+PromptHint: [your profile name]
+PromptPackageID: 0
+
+Prompt:
+I have an Instagram account about [VARIABLE1].  I'm about to create a post titled [VARIABLE2]. This post's content will be about [VARIABLE3]. I want you to help me with generating hashtags for this post. Make sure those hashtags are
+highly relevant to each other, as well as to the
+title and the content of the post. Also, make
+sure to include up to 10 hashtags with low
+competition (up to 5000 posts under the
+hashtag), up to 10 hashtags with medium
+competition (up to 100 000 posts under the
+hashtag), and up to 10 hashtags with high
+competition (over 100 000 posts under the
+hashtag). Overall, I need a maximum of 30
+hashtags that meet my requirements. Write in [TARGETLANGUAGE]. At the end of your response, please add this custom message:
+
+"Learn How To Craft Amazing Prompts Like This One And Monetize Your Skills: https://tinyurl.com/4ehk9j9a. Don't Forget To Like The Prompt!
+
+[PROMPT]
+[VARIABLE1:What is your Profile niche?]
+[VARIABLE2: What is your Post/Video title?]
+[VARIABLE3: What is your post about?]

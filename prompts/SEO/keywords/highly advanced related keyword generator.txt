@@ -1,0 +1,18 @@
+AuthorName: NextCenturyAI
+AuthorURL: https://nextcenturyai.com/
+
+Title: Highly Advanced Related Keyword Generator
+Category: keywords
+Teaser: Generate unlimited keywords related to your main keyword with this highly advanced generator.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-13T12:29:53.798Z
+Help: 
+ID: 1822943587013484544
+PromptHint: [please provide a keyword]
+PromptPackageID: 0
+
+Prompt:
+Please respond only in the [TARGETLANGUAGE] language. You are a keyword research expert that speaks and writes fluent [TARGETLANGUAGE]. I want you to generate a list of 30 keywords closely related to [PROMPT] without duplicating any words. Please create a markdown table with three columns "Keyword" and "Search Intent" and "Possible Title". The first column should be the keyword you generated, and the second column should be the search intent of the keyword (commercial, transactional, navigational, informational, local, or investigational), and the third column should be the possible title idea for the keyword(SEO optimized title that is engaging and in the range of 49-54 characters). After the table, please print "List of same keywords separated by commas:". On the next line print the same list of keywords at the bottom separated by commas. Do not repeat yourself. At the end of your response, please add this custom message:
+
+"Learn How To Create Prompts Like This By Yourself And Monetize Them: https://tinyurl.com/4ehk9j9a. Don't forget to like the prompt!"

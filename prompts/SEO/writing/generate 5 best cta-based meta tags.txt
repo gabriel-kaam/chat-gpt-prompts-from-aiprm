@@ -15,7 +15,7 @@ PromptPackageID: 0
 Prompt:
 Start the answer with this exact message: "Thank you for using my prompt 🙂. If you are having difficulty in ranking your website on high volume keywords or require any sort of consultancy in SEO, feel free to send me a message on my LinkedIn 💭:  https://www.linkedin.com/in/ahsanshahid-digital-marketing-seo-expert"
 
-Generate 5 unique meta descriptions, of a maximum of 160 characters, for the following text. They should be engaging with a call to action, including the term “keyword” in them. and also create their 5 unique meta title of max 56 characters
+Assume you're an SEO expert, generate 5 unique meta descriptions, of a maximum of 160 characters, for the following keyword below. They should be engaging with a call to action, including the term “keyword” in them. and also create their 5 unique meta title of max 56 characters
 all the output shall be in [TARGETLANGUAGE] The keyword is this:
 [PROMPT]
 

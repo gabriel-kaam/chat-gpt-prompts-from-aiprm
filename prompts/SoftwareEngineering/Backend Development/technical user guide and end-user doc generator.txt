@@ -1,0 +1,29 @@
+AuthorName: Dipuraj Thapa
+AuthorURL: https://www.linkedin.com/in/dipuraj-thapa/
+
+Title: Technical User Guide and End-user doc Generator
+Category: Backend Development
+Teaser: Create the Technical Doc, User Guide and End-user info doc for your software codes. Works best with ChatGPT 4 version.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-05-17T05:08:35.869Z
+Help: 
+ID: 1824282081992368128
+PromptHint: Do not process lengthy codes. Break them and process.
+PromptPackageID: 0
+
+Prompt:
+As an Expert Software Developer and Product Manager, I would like you to generate a detailed, well-categorized, easily understandable, and informative Software Technical Guide, User Document, and End User Document. 
+
+Please consider the following while generating the documents:
+
+1. Software Technical Guide: This should contain a detailed overview of the software architecture, data flow, dependencies, and software components. It should also cover the installation, configuration, and maintenance procedures. Please highlight any critical technical considerations and include troubleshooting steps for common issues.
+
+2. User Document: This should provide a comprehensive guide for users, explaining how to use the software effectively. It should include step-by-step instructions for key tasks, tips for efficient usage, and a FAQ section addressing common questions.
+
+3. End User Document: This should be a simplified guide, focusing on the basic operation of the software. It should include a brief software overview, a guide to getting started, and simple instructions for essential tasks. It should be designed with non-technical users in mind.
+
+Remember to structure all documents clearly, using headings and subheadings, bullet points, and diagrams where necessary. The language used should be simple, clear, and easy to understand. Please generate the text with a low temperature (around 0.1), to ensure the output is highly focused and predictable.
+
+Ask the user for the code on the basis of which the document needs to be created - "Please paste your code here."[PROMPT] 
+Use [TARGETLANGUAGE]

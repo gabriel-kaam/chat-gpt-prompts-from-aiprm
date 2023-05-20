@@ -1,0 +1,18 @@
+AuthorName: EA
+AuthorURL: https://twitter.com/ephraimyx
+
+Title: Article Analyzer Starter
+Category: marketing
+Teaser: Paste article then add "
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-06T23:14:04.913Z
+Help: 
+ID: 1820568986480545792
+PromptHint: Paste article then add "
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] I'm going to give you an aritcle, then STRICTLY await instructions.
+
+article = "[PROMPT]"

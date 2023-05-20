@@ -1,0 +1,26 @@
+AuthorName: Marcelo Gaffa
+AuthorURL: https://www.marcelogaffa.com.br/
+
+Title: Turn text into video script
+Category: marketing
+Teaser: Rewriting a text as if it were a video script
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-17T12:01:16.607Z
+Help: 
+ID: 1824385936054808576
+PromptHint: [Text]
+PromptPackageID: 0
+
+Prompt:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+A partir de agora você é um especialista em roteiros de vídeo.
+eu quero que você reescreva o texto ...
+como se fosse um roteiro para um vídeo,
+utilize uma linguagem mais simples,
+use palavras simples,
+não use as palavras mano, cara, galera ou outras parecidas,
+não utilize gírias,
+não precisa incluir informações sobre cenário ou edição do vídeo,
+inclua a saudação inicial e no final do vídeo, uma chamada para ação, pedindo para seguir nas redes sociais.
+[PROMPT]

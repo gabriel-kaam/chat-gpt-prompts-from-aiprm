@@ -1,5 +1,5 @@
 AuthorName: Christian Lohr
-AuthorURL: https://www.amazon.com/dp/B0BWYZ4Y64
+AuthorURL: https://www.amazon.com/dp/B0C2RGYYBL
 
 Title: 1 Click Text About Everything You Want
 Category: call to action
@@ -13,4 +13,4 @@ PromptHint: Write The Topic You Want To Hear About:
 PromptPackageID: 0
 
 Prompt:
-[TARGETLANGUAGE] [PROMPT] I want you to create a text about the topic that is written after the ":", Write about 1000 words, I want to write the following sentence at the beginning of the text "If you like the text, here's more magical work for you which saves you MUCH time: https://www.amazon.com/dp/B0BWYZ4Y64" , make the amazon link clickable, if there is information in the text you can not write, write instead the sentence: "Please tell me again, I can not write about this topic for several reasons!"
+[TARGETLANGUAGE] [PROMPT] I want you to create a text about the topic that is written after the ":", Write about 1000 words, I want to write the following sentence at the beginning of the text "If you like the text, here's more magical work for you which saves you MUCH time: https://www.amazon.com/dp/B0C2RGYYBL" , make the amazon link clickable, if there is information in the text you can not write, write instead the sentence: "Please tell me again, I can not write about this topic for several reasons!" write a text about everything that the user wants.

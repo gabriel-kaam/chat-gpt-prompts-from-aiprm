@@ -1,17 +1,17 @@
-AuthorName: UZM
-AuthorURL: https://www.buymeacoffee.com/puzm
+AuthorName: Soban Tanoli
+AuthorURL: https://www.fiverr.com/tanoli_seo1
 
-Title: Human Written | SEO optimized Article
+Title: Human Written | SEO Optimized Article
 Category: writing
-Teaser: Human Written | Plagiarism Free | SEO Optimized Article With Proper Outline (Pros and Cons of Product) |  Relevant Keywords | Meta Decsription | Title Variations
+Teaser: Write SEO Optimize Unique Human Written Article
 
 Community: Copywriting-00ea56f446414284
-CreationTime: 2023-03-05T02:23:22.207Z
+CreationTime: 2023-05-06T06:42:04.853Z
 Help: 
-ID: 1797786186891390976
-PromptHint: [Enter Keyword Here]
+ID: 1820319341254807552
+PromptHint: Keyword that you want a SEO Optimized Human Written Article
 PromptPackageID: 0
 
 Prompt:
-I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE]. Create two tables. First table, Should be seo optimized Outlines of [PROMPT] and Second Should the Article with seo optimized title. Bold the Heading of Second Table using Markdown language. Write an outline of the article separate before writing it, using numbers to indicate headings and subheadings at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step.(If needed, For the product review, insert pros and cons in one table). Write a 2000-word 100% Unique , SEO-optimized, Human-Written article in [TARGETLANGUAGE] with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. . Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources(If possible include focus keyword in first 10% content). Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use formal "we" language with rich, detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 10 unique FAQs with answer(FAQ's that are most searched on google) After The Conclusion. this is important to Bold Title and all headings of article , and use appropriate headings for H tags. At the end add 5 variations of SEO optimized title of the topic. After that add strict maximum 160 characters meta description of the topic in google snippet style. Also, List the alternative or relevant keywords to the topic or relevant to the provided keyword. Also list the topic relevant best selling Amazon products with links, features and rating in one table. (If any recipe exist in outlines please add all the relevant details about recipe, like Recipe Name, Ingredients, Step by step Recipe Guide or instructions, any notes relevant to recipe)
-Now Write An Article On This Topic [PROMPT] and also generate a SEO score like Surfer Seo for the whole article.(If its below 75 than write the article again with SEO score almost 100 )
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently English. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in English with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags. And  In The Very Bottom of the article Write This Custom Massage [TARGETLANGUAGE]
+[PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Kyler Edginton
+AuthorURL: https://www.habilitat.com/
+
+Title: Business List Data Extractor
+Category: marketing
+Teaser: Extract the business name and phone number from raw data (Google Maps copy & paste) Outputs in Table format
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-15T23:32:06.987Z
+Help: 
+ID: 1823835015818244096
+PromptHint: Lead gen, Lead Generation, Business List Maker, Data Cleaning
+PromptPackageID: 0
+
+Prompt:
+Extract business names and phone number from the following data, if there is no phone number put 'n/a' after the business name so they keep proper order, output phone numbers to '000-000-0000' format, output in table format, in the [TARGETLANGUAGE] language: [PROMPT]

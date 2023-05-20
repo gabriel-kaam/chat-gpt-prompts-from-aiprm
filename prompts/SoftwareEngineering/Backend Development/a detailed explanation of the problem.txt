@@ -1,0 +1,17 @@
+AuthorName: MennyA
+AuthorURL: https://www.linkedin.com/in/menny-amir/
+
+Title: A detailed explanation of the problem
+Category: Backend Development
+Teaser: Get a detailed explanation of the problem the IDE is showing you
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-05-19T06:44:18.73Z
+Help: 
+ID: 1825030945028444160
+PromptHint: [Write down the problem here]
+PromptPackageID: 0
+
+Prompt:
+Hi, I have the following problem, explain to me like a child in first grade what the problem is and how I can solve it, bring code examplesת  [PROMPT] . All the explanation should be in language [TARGETLANGUAGE] 
+

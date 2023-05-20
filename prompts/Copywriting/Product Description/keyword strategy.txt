@@ -1,0 +1,24 @@
+AuthorName: MKT18
+AuthorURL: https://www.marketing18.mx
+
+Title: Keyword Strategy
+Category: Product Description
+Teaser: Create a keyword strategy and SEO content plan form 1 [KEYWORD]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-13T00:06:33.573Z
+Help: 
+ID: 1822756520111366144
+PromptHint: [KEYWORD] or [your list of keywords, maximum ca.10000]
+PromptPackageID: 0
+
+Prompt:
+Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARIABLE2] and [VARIABLE3] replaced automagically by MKT18
+
+[VARIABLE], [VARIABLE2] and [VARIABLE3] require title with optional default value and available values.
+
+Example: Example[PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and [VARIABLE3].
+[VARIABLE1: Title] [VARIABLE2:Title:DefaultValue]
+[VARIABLE3:Title:DefaultValue:Available Value 1|Available Value 2|Available Value 3].
+
+[VARIABLE1], [VARIABLE2] and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3

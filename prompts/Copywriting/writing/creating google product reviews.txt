@@ -1,0 +1,30 @@
+AuthorName: smallbizways
+AuthorURL: https://smallbizways.com
+
+Title: Creating Google Product Reviews
+Category: writing
+Teaser: Create a title with the word "review" Start with an introduction highlighting the product's purpose and key features. A discussion of the product's design and quality; an in-depth analysis of the product's key features and functionality and how they benefit the user. a comparison with similar products; pros and cons; why this product is better than other products.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-17T05:09:15.607Z
+Help: 
+ID: 1824282248665620480
+PromptHint: [Product Link]
+PromptPackageID: 0
+
+Prompt:
+Write an informative product review in [TARGETLANGUAGE].
+
+Make the main title H1 for SEO.
+
+Make each subtitle H2 and H3 for SEO.
+
+Create a title with the word “review”. Start with an introduction highlighting the product’s purpose and key features; a discussion of the product’s design and quality; an in-depth analysis of the product’s key features and functionality and how they benefit the user; a comparison with similar products; pros and cons; why this product is better than other products; a summary of genuine user experiences and testimonials found in online reviews; tips and tricks for users to get the most out of the product; a faq section; and a conclusion summarizing the review, addressing any drawbacks, and providing a recommendation for a specific audience.
+
+Expand on each subtitle with paragraphs and complete sentences; Focus on providing detailed explanations and expanding on each section.
+
+Write from first person narrative. Use informal language to be more casual and spontaneous.
+
+Here’s the content:
+[CRAWLEDTEXT]
+[PROMPT]

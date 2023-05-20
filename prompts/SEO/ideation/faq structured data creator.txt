@@ -1,0 +1,72 @@
+AuthorName: SAVVITY
+AuthorURL: https://www.savvity.com.au/
+
+Title: FAQ Structured Data creator
+Category: ideation
+Teaser: Make a FAQ strucutred data from the follwoing blog section
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-11T02:01:19.446Z
+Help: 
+ID: 1822060625824833536
+PromptHint: paste in your blog content to make the FAQ seciton
+PromptPackageID: 0
+
+Prompt:
+Take the following blog contant and make an JASON-LD FAQ Strucutred data section from it. I have googles guidelines for FAQ Structure guidliens below. Make sure the output is in code format and in [TARGETLANGUAGE].
+
+A JavaScript notation embedded in a <script> tag in the <head> and <body> elements of an HTML page. The markup is not interleaved with the user-visible text, which makes nested data items easier to express, such as the Country of a PostalAddress of a MusicVenue of an Event. Also, Google can read JSON-LD data when it is dynamically injected into the page's contents, such as by JavaScript code or embedded widgets in your content management system.
+
+Here is an example of the FAQs in JASON-LD. Please follow the same coding structure.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can AI benefit both students and teachers in the educational environment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI can provide personalized tutoring to students, helping them with subjects like math, writing, and exam preparation. It can engage students in interactive learning experiences, promoting productive struggle and deep understanding. For teachers, AI can assist with lesson planning, administrative tasks, and monitoring student progress, saving valuable time and allowing them to focus on their students' needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What challenges need to be addressed when implementing AI in education?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "AI technology, while promising, is still nascent and can make mistakes. Ensuring accuracy in AI-generated content, avoiding the 'hallucination' of false information, and developing systems that align with ethical and responsible practices are crucial challenges that must be addressed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Khan Academy ensure equal access to AI-powered learning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As a nonprofit organization, Khan Academy focuses on the needs of students, teachers, and administrators rather than profits. By partnering with public school districts, Khan Academy works to provide equal access to AI-driven learning resources and tools, helping to bridge the digital divide and prevent further educational inequality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I get involved in supporting AI in education?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Individuals interested in supporting AI in education can join the waitlist to test Khanmigo, Khan Academy's experimental AI tool. Participants in the United States can sign up and, upon selection, will be asked to donate $20 monthly (or more if they wish) to support the ongoing development of AI tools in education."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is Khan Labs and how does it relate to AI in education?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Khan Labs is a new space created by Khan Academy for testing learning technology, including AI-driven tools like Khanmigo. By inviting district partners to opt-in, Khan Labs aims to ethically and responsibly provide access to experimental AI tools, while gathering valuable feedback from teachers and students to improve the technology and its impact on education."
+      }
+    }
+  ]
+}
+</script>
+
+
+Here is the blog content [PROMPT]

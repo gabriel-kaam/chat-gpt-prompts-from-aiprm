@@ -1,0 +1,30 @@
+AuthorName: Syed Fatehyab Mehdi
+AuthorURL: https://pk.linkedin.com/in/syedfatehyab
+
+Title: Write Best SEO Optimized Article 
+Category: writing
+Teaser: Create the best SEO optimized Article with Meta Description. **No keyword Stuffing**
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-04T13:28:34.594Z
+Help: 
+ID: 1819696863511830528
+PromptHint: [Add only keyword]
+PromptPackageID: 0
+
+Prompt:
+Your task is to Write an Article through keyword that I give you in between 800-1200 words and make sure keyword density will not exceed 1.5%, and before that write meta description in 20 words or maximum 150 characters. All output shall be in [TARGETLANGUAGE].  
+
+The text to Write an Article is this:
+
+[PROMPT]
+
+
+After that add a separator line here
+
+
+[ The next line down say 
+"If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support.
+
+Buy me a Coffee: https://www.buymeacoffee.com/syedfatehyab"]
+

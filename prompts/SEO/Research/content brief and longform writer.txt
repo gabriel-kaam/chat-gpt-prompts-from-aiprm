@@ -1,0 +1,47 @@
+AuthorName: Social Petworker
+AuthorURL: https://socialpetworker.com
+
+Title: Content Brief & Longform Writer
+Category: Research
+Teaser: Premium Level Content Brief - Ideal Keywords, Ideal content length, punchy metaphorical writing, target audience optimized, Meta Description, Meta Title, Blog tags, longtail and related keywords, Engaging Intro and Conclusion
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-30T12:41:40.169Z
+Help: 
+ID: 1785620599591407616
+PromptHint: Blog Topic
+PromptPackageID: 0
+
+Prompt:
+Only respond in [TARGETLANGUAGE]
+
+This content brief/article is about: [PROMPT]
+
+*Ideal number of words, images, headings, and paragraphs
+*10 Qs about the primary keyword (FAQs in the H2 tag; questions are H3, answer is regular, 45–60 words) divided into sections and ordered by importance
+
+Most important of all, use external links to high DA websites as often as possible.
+
+(At the end of the actual article) write a Meta Title, Meta description, and blog tags. 
+
+Act as an experienced content creator to generate a highly detailed and comprehensive blog post outline for a topic with sections and subsections plus bulleted content examples, considering the following key details generated from the blog topic ([PROMPT]):
+
+Blog Topic, Industry, Target Audience, Keywords, Content Goals
+
+Task Requirements:
+
+ - Research and analyze [PROMPT], industry, target audience, and relevant keywords to inform content creation.
+ - Develop a compelling introduction that captures the reader's attention and sets the stage for the blog post. Use a quote or statistic that hooks the reader
+ - Consider incorporating various content formats, such as text, images, infographics, or videos, to enhance the post's appeal and engagement. 
+ - Craft a strong conclusion that summarizes the main points and encourages further reader interaction or action.
+
+Deliverable:
+
+Provide a comprehensive blog post outline for the specified topic, including an attention-grabbing introduction (begins with a statistic or a quote), well-structured main headings, subheadings, bullet points, and a strong conclusion. Ensure the outline is optimized for SEO and incorporates various content formats, internal and external linking
+opportunities, and aligns with the content goals and target audience. 
+
+Word Length, Number of Images including a description of each image and location to use it in the article, Number of Headings, Number of paragraphs, list of related and longtail keywords to include in content
+
+
+
+Write it in the style of Chip Heath and use short and concise/punchy  sentences while using metaphorical lifestyle writing that is relatable to the target audience

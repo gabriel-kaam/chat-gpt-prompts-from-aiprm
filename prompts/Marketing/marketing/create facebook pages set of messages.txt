@@ -1,0 +1,18 @@
+AuthorName: Tuan Tran
+AuthorURL: https://mediagyancy.com
+
+Title: Create Facebook page's Set of Messages
+Category: marketing
+Teaser: Create a helpful customer service message on your Facebook fanpage
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-11T04:06:07.361Z
+Help: 
+ID: 1822092032416677888
+PromptHint: Fill your [Page name] - [Main Products/Services]
+PromptPackageID: 0
+
+Prompt:
+Act as the Senior Customer Service Expert, write the set of welcome message, default reply and automated comment's reply for a fanpage. Write as friendly, helpful and value style. Start writing in order: welcome message (in max 160 characters), default reply (in max 250 characters) and automated comment's reply for any posts ( in max 300 characters).
+
+Start to write with fanpage in category of "[PROMPT]" with [TARGETLANGUAGE].

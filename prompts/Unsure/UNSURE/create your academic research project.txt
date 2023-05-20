@@ -1,0 +1,25 @@
+AuthorName: Socorro Oliveira
+AuthorURL: https://pedagogia-em-pauta.blogspot.com/
+
+Title: Create your academic research project
+Category: UNSURE
+Teaser: The elaboration of a research project indicates to the researcher (or to the institutions to which the project is directed) what are the aspects and questions established in relation to the investigation of a certain theme.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-04T15:25:36.181Z
+Help: 
+ID: 1819726314182270976
+PromptHint: [Project theme]
+PromptPackageID: 0
+
+Prompt:
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quero que você crie um projeto de pesquisa acadêmica completo. Escreva um texto corrido contendo os seguintes elementos básicos:
+1º, 2ºe 3º parágrafo: apresente o tema dentro de um contexto histórico.
+4º parágrafo: delimitação do tema, apresentando uma questão norteadora de pesquisa.
+5º parágrafo: apresente possíveis respostas para o problema de pesquisa levantado, ou seja, as hipóteses.
+6º parágrafo: em poucas palavras, fale sobre o objetivo geral do trabalho e também três específicos. 
+7º parágrafo: apresente a relevância do trabalho acadêmico, identificando a importância dele para a sociedade ou comunidade científica. Isso é o que chamamos de justificativa.
+8º parágrafo: descreva, em poucas palavras qual metodologia será utilizada na pesquisa. O tipo e o caráter investigativo, os sujeitos e o lócus, as ações previstas, os instrumentos de coletas a serem utilizados, bem como, a forma como os dados serão analisados Será uma pesquisa bibliográfica ou de campo? A abordagem é qualitativa ou quantitativa? Você deve especificar o procedimento de forma concisa.
+[TARGETLANGUAGE]
+[PROMPT]

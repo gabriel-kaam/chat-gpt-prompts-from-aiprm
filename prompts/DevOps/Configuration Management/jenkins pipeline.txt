@@ -1,0 +1,16 @@
+AuthorName: Yasmin Herrera
+AuthorURL: https://yasminherrera.github.io/devops/
+
+Title: Jenkins Pipeline
+Category: Configuration Management
+Teaser: Create a Jenkins Pipeline
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-05-18T20:59:39.655Z
+Help: 
+ID: 1824883812723847168
+PromptHint: [technology]
+PromptPackageID: 0
+
+Prompt:
+Hi, can you create a pipeline in Jenkins for an application in [PROMPT]? and add the followings steps: build, test, SonarQube scan and the credentials that I need, Fortify scan and the credentials that I need, and storage the artifact in Jfrog Artifactory and the credentials that I need. All output shall be in [TARGETLANGUAGE] 

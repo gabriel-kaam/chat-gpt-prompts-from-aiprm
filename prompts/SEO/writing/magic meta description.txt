@@ -1,0 +1,16 @@
+AuthorName: Ainibot
+AuthorURL: https://ainibot.com
+
+Title: Magic Meta Description
+Category: writing
+Teaser: Create  the best meta description from my content
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-18T10:59:21.517Z
+Help: 
+ID: 1813861105735569408
+PromptHint: [Text that you want a meta description for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]

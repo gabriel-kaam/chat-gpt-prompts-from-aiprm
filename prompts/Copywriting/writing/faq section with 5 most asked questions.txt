@@ -1,0 +1,24 @@
+AuthorName: lorro
+AuthorURL: https://laurentvandessel.be
+
+Title: FAQ section with 5 most asked questions
+Category: writing
+Teaser: Give a topic and get a FAQ section including the 5 most frequently asked questions and their answers.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-03T13:52:47.022Z
+Help: 
+ID: 1787088047532404736
+PromptHint: Topic
+PromptPackageID: 0
+
+Prompt:
+Please ignore all the previous instructions. 
+
+I want you to act as a professional content writer that knows everything about SEO. Do not explain how SEO works. Do not mention anything about SEO. You speak and write fluent [TARGETLANGUAGE]. You are an expert and know everything about [PROMPT].
+
+Give the 5 most frequently asked questions about [PROMPT] and answer them in 500 words in [TARGETLANGUAGE]. Each question is a new H2 heading. Each question should be formatted in valid markdown syntax. Get to the point immediately.  All content must be written in the informal "you" form of address. 
+
+Do not use generic filler phrases. Get to the point immediately. Do not write an introduction paragraph. Never use bullet points in the content.Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not use generic filler phrases. Do not use numbered bullet list. Do not number the questions.  Do not write an introduction paragraph. Do not announce what you will be explaining. Don't mention you're an expert.
+
+Do not write a conclusion paragraph.

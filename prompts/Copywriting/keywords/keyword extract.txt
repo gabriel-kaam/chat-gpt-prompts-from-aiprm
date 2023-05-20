@@ -13,8 +13,11 @@ PromptHint: Paste article content here
 PromptPackageID: 0
 
 Prompt:
-quero que extraia as principais palavras-chave de um artigo. Você deve me listar no mínimo 10 palavras-chave e elas não podem serem constituídas apenas de uma palavra. cada palavra-chave deve ser formadas por duas palavras. exemplo: "fertilizante foliar, inseticidas químicos" e etc.
+I want it to extract the main keywords of an article. You must list me at least 10 keywords and they cannot be just one word. each keyword must be made up of two words. example: "foliar fertilizer, chemical insecticides" and so on.
 
-Quero que faça na seguinte sintaxe -> Palavras-chave: palavra1, palavra2, ... 
-Quero que liste as palavras em [TARGETLANGUAGE]
-O artigo em questão: [PROMPT]
+I want you to do it in the following syntax -> Keywords: word1, word2, ...
+I want you respect the syntaxe that I gave you.
+I want you to do write the whole syntax in [TARGETLANGUAGE]
+The article in question:
+
+[PROMPT]

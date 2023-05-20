@@ -1,0 +1,18 @@
+AuthorName: Rashisthetic
+AuthorURL: https://heylink.me/rashee/
+
+Title: Better Outlines for a Blog 3.0
+Category: writing
+Teaser: Generate an SEO friendly Outline For a blog of desired word count divided for each section
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-04T17:18:13.38Z
+Help: 
+ID: 1819754655929077760
+PromptHint: [word count ][topic] [ primary keywords] [Background Information][ target audience ]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]Please create an outline for an SEO-optimized article on the topic[  ] using the primary keywords [  Primary Keywords ] The secondary keywords are[ Secondary Keywords    ]. The target audience is people [ target audeince  ]. The main goal of the article  [goal  ], and the total word count should be[  word count  ]. Structure the outline with a Headline (H1), Introduction (H2), Subheadings (H3), key points under each subheading, and Conclusion (H2). Divide the word count proportionally across the sections. 
+
+[TARGETLANGUAGE] English

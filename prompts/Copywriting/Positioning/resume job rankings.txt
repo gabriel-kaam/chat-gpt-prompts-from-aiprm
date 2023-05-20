@@ -1,0 +1,19 @@
+AuthorName: Eugene Debrah
+AuthorURL: https://www.4eug.me
+
+Title: Resume Job Rankings
+Category: Positioning
+Teaser: Roles Your Resume Qualify For
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-11T06:00:40.67Z
+Help: 
+ID: 1822120861164101632
+PromptHint: [Copy paste Resume]
+PromptPackageID: 0
+
+Prompt:
+Your task is to list 10 roles the resume I give you qualify for,  rank them, and give a readiness percentage based on the likeliness to get that job in a table. All output should be in
+[TARGETLANGUAGE]. The resume is this:
+
+[PROMPT]

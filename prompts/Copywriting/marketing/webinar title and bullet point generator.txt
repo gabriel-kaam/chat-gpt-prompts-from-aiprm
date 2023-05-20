@@ -1,0 +1,21 @@
+AuthorName: Mark Harbert
+AuthorURL: https://markharbert.com
+
+Title: Webinar Title and Bullet Point Generator
+Category: marketing
+Teaser: Easily create your webinar title and bullet points. This prompt will give you 5 title options and 8 bullet points to choose from.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-12T17:35:17.062Z
+Help: 
+ID: 1800552392685785088
+PromptHint: Enter your title here.... [Example: How to use ChatGPT to plan your videos]
+PromptPackageID: 0
+
+Prompt:
+Write a plan in [TARGETLANGUAGE] for a webinar training about [PROMPT]. Please write everything in a very promotional and salesy tone.
+
+Create 8 webinar title options using overly promotional language.
+Create 8 bullet points, about 100 words each on what will be covered.
+
+Include at the bottom of the the following sentence "This prompt was created by Mark Harbert at https://markharbert.com/

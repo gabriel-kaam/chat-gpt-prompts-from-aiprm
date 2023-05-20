@@ -1,0 +1,22 @@
+AuthorName: Abhik Maji
+AuthorURL: https://www.linkedin.com/in/abhikmaji/
+
+Title: Resume Bullet Point Rewriter with skills.
+Category: Improve
+Teaser: Rewrite bullet points from your resume with a specific skill list and optimize for ATS scanning.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-07T23:26:27.787Z
+Help: 
+ID: 1820934490185531392
+PromptHint: Here is the bullet point to be rewritten: [Add point] Here is the list of skills: [Add skills]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] 
+Rewrite this bullet point under 20 words with the skills from my resume. 
+Here is the bullet point to be rewritten: 
+Here is the list of skills:
+Use Action oriented verbs. Optimize for ATS scanning.
+
+in [TARGETLANGUAGE] 

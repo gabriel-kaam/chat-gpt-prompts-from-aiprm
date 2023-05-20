@@ -1,0 +1,20 @@
+AuthorName: Davira
+AuthorURL: https://davirailustrador.com
+
+Title: Description typical dish with ingredients
+Category: writing
+Teaser: Description typical dish with ingredients
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-11T17:11:57.853Z
+Help: 
+ID: 1822289795913875456
+PromptHint: [Write the name of the dish and its description]
+PromptPackageID: 0
+
+Prompt:
+Maintaining a fun and relaxed writing style, magazine style, you are going to create the review, the information on this dish was taken from the official website, so it is important that it be a completely original text, without resembling the description that I give you.
+
+The structure of the article must be in the form of a list with the name of the dish in an H2, followed by a description of the dish, its origin, then the recipe of the dish with the ingredients.
+
+Dish and description of it: [PROMPT]  [TARGETLANGUAGE]

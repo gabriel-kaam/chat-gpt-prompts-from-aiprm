@@ -1,0 +1,20 @@
+AuthorName: Jorge Gabana
+AuthorURL: https://www.gabana.me
+
+Title: Explain source code from URL
+Category: Summarize
+Teaser: Explain source code from URL like I am 5 years old
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-05T23:37:31.954Z
+Help: 
+ID: 1820212500172636160
+PromptHint: [URL to fetch code from]
+PromptPackageID: 0
+
+Prompt:
+Explain the following source code below to me like I am 5 yers old in [TARGETLANGUAGE] language, please.
+
+Source of the source code: [PROMPT]
+
+[CRAWLEDSOURCECODE]

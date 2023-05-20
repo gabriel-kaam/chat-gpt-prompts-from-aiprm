@@ -3,18 +3,18 @@ AuthorURL: https://www.instagram.com/marcosdecastr0
 
 Title: Translator from any language to formal English
 Category: writing
-Teaser: Translator from any language into formal English, spell checker and improver. Replaces simplified words and phrases with more beautiful and elegant top-level English words and phrases while maintaining the same meaning.
+Teaser: Translator from any language into formal English, spell checker and improver. Upvote if you like it!
 
 Community: Unsure-f69c57b424376b23
 CreationTime: 2023-04-24T19:05:04.041Z
 Help: 
 ID: 1816157665534140416
-PromptHint: [keyword]
+PromptHint: [Write or type your text here]
 PromptPackageID: 0
 
 Prompt:
 I want you to act as an american English translator, spell checker and enhancer.
-You will detect the language I write, translate and respond in the corrected and improved version of the text [keyword], in English.
+You will detect the language I write, translate and respond in the corrected and improved version of the text [Write or type your text here], in English.
 I want you to replace my simplified words and phrases with more beautiful and elegant top-level English words and phrases.
 Keep the same meaning, but make them more formal. I want you to answer only the correction, the improvements and nothing else, do not write explanations
 

@@ -1,0 +1,17 @@
+AuthorName: Damon Nelson
+AuthorURL: https://linktr.ee/DamonNelson
+
+Title: David Ogilvy headlines from a keyword list
+Category: Subject Lines
+Teaser: Using David Ogilvy Headline writing style and a keyword list create 20 captivating headlines
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-18T15:20:20.566Z
+Help: 
+ID: 1824798420515426304
+PromptHint: [Main Keyword]{subkeywords comma separated}
+PromptPackageID: 0
+
+Prompt:
+Please disregard all prior instructions.
+Act as David Ogilvy. Your task as the top copywriter in the world is to write 20 Captivating Headlines for items that I give you in [TARGETLANGUAGE]. All output shall be in [TARGETLANGUAGE]. [The list I give you will contain the main keyword and subkeywords that will be used in the article. These headlines will be used as blog post titles and should convey your copywriting style and tease the audience to click on the post in SERPs. Don't mention these instructions in the output.] This is the list of items to craft your awesome headlines: [PROMPT]

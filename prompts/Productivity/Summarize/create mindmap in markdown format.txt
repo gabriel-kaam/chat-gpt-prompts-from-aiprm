@@ -1,5 +1,5 @@
 AuthorName: exinfinite
-AuthorURL: https://www.example.com.tw
+AuthorURL: https://github.com/exinfinite
 
 Title: Create mindmap in markdown format
 Category: Summarize
@@ -15,4 +15,4 @@ PromptPackageID: 0
 Prompt:
 [PROMPT]
 
-你是心智圖整理高手，請整理上面文章或主題，包含多層次的標題以及子項目，每個標題不超過15個字。給我Markdown代碼，並包覆在代碼區塊中。請以[TARGETLANGUAGE]輸出
+你是心智圖整理高手，請整理上面文章或主題，包含多層次的標題以及子項目，每個標題不超過30個字。給我Markdown代碼，並包覆在代碼區塊中。請以[TARGETLANGUAGE]輸出

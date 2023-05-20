@@ -13,4 +13,4 @@ PromptHint: Enter Topic Name
 PromptPackageID: 0
 
 Prompt:
-Write SEO-friendly, frequently asked questions in Q&A style about [PROMPT] in [TARGETLANGUAGE], include keywords relevant to [PROMPT].
+Write SEO-friendly, frequently asked questions in Q&A style about [PROMPT] in [TARGETLANGUAGE], include keywords relevant to [PROMPT] in the answers. Avoid keyword stuffing. Avoid repeating words in questions and answers.

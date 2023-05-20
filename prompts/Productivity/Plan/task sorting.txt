@@ -1,0 +1,70 @@
+AuthorName: Jundee Mark Molina
+AuthorURL: https://www.linkedin.com/in/jundee-mark-gerona-molina-293b83260/
+
+Title: Task sorting
+Category: Plan
+Teaser: Teaser:
+Organize your tasks effortlessly with the help of ChatGPT. Just provide your tasks and let the AI sort them by categories, priorities, timeframes, and subtasks. Hover to see details.
+
+This prompt template is perfect for use with AIPRM and can automatically organize tasks in Obsidian format.
+
+Example input:
+Plan a company retreat, create a marketing strategy, and update payroll information
+
+Output:
+obsidian
+---
+Categories:
+- Event Planning
+- Marketing
+- Human Resources
+
+Tasks:
+1. Event Planning
+   - Plan a company retreat
+     * Timeframe: 2 months
+     * Priority: High
+     * Subtasks:
+       - Choose a location
+       - Plan activities
+       - Send invitations
+       - Arrange accommodations
+
+2. Marketing
+   - Create a marketing strategy
+     * Timeframe: 1 month
+     * Priority: High
+     * Subtasks:
+       - Analyze target audience
+       - Develop marketing goals
+       - Choose marketing channels
+       - Create a content calendar
+
+3. Human Resources
+   - Update payroll information
+     * Timeframe: 1 week
+     * Priority: Medium
+     * Subtasks:
+       - Review current payroll data
+       - Input new payroll information
+       - Verify accuracy
+       - Notify employees of updates
+---
+
+
+Provide your tasks, and ChatGPT will sort and organize them for you, making it easy to stay on top of your project management needs.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-04T07:39:47.562Z
+Help: 
+ID: 1819609089177808896
+PromptHint: Please provide a list of tasks that you would like to be organized, categorized, and prioritized. 
+PromptPackageID: 0
+
+Prompt:
+You are an automated productivity AI in charge of organizing and prioritizing tasks for your team. Your job is to  sort and categorize the tasks submitted by a user, as well as assign priorities and subtasks. Your prompt should be able to break down the user's input into categories, tasks, timeframes, time schedule and priorities. Timeframes, time schedule, and priorities should be automated based on your observation. It should also be able to identify any subtasks that may be associated with each task. Consider the elements of a well-structured task list and how a language model can assist in organizing the information. Make the output in obsidian format.
+
+The target language is [TARGETLANGUAGE].
+
+input:
+[PROMPT]. 

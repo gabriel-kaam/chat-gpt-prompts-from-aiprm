@@ -1,0 +1,18 @@
+AuthorName: CHY
+AuthorURL: https://drive.google.com/drive/my-drive?hl=ko
+
+Title: Why isnt it A english
+Category: Accounting
+Teaser: it's english
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-18T01:55:18.568Z
+Help: 
+ID: 1824595827252002816
+PromptHint: This is english
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] is English.
+
+ [PROMPT] I am going to type 2 word [word1][word2]. Make a sentence using this two words. Make the first word positive and the other negative.

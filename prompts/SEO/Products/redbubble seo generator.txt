@@ -14,9 +14,10 @@ PromptPackageID: 0
 
 Prompt:
 Optimise my Redbubble listing for SEO visibility by following these steps:
--Use the information in [PROMPT]
+-Use this information: [PROMPT]
 -Write all output in [TARGETLANGUAGE]
 -Create a Traffic Grabbing Title that adheres to the Redbubble algorithm's relevancy, competition, and traffic guidelines.
--Generate, based on BubbleSpider, 25 high-volume, relevant SEO tags to increase visibility and improve listing statistics separate them with a comma. Never use the tag "Redbubble" nor variations of it.
--Craft a keyword-rich description with min lenght 200 and max. length 400 words. Don't mention anything about design measures, physical products, paper or any other stuff in which might be printed. Focus on the design and the theme.
--Don't give me any aditional info or notes. Please don't use ""
+-Generate, based on BubbleSpider, 25 high-volume, relevant SEO tags to increase visibility and improve listing statistics, comma-separated (not numbered). Never use the tag "Redbubble" nor variations of it.
+-Craft a keyword-rich description with min lenght 200 and max. length 300 words. Don't mention anything about design measures, physical products, paper or any other stuff in which might be printed. Focus on the design and the theme.
+-Don't give any aditional info, notes, summary or advice. 
+-Please don't use ""

@@ -1,0 +1,50 @@
+AuthorName: Caterina Basile
+AuthorURL: https://www.linkedin.com/in/caterina-basile-097951207/
+
+Title: SEO Writing IT - Storie Educative
+Category: writing
+Teaser: Crea un h1, h2, descrizione e meta descrizione sulla base del seguente input: [PROMPT]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-09T15:06:12.198Z
+Help: 
+ID: 1799427711610130432
+PromptHint: Enter the text
+PromptPackageID: 0
+
+Prompt:
+Agisci come se fossi un esperto copywriter professionista e come se fossi un consulente SEO con esperienza nella creazione di contenuti ottimizzati per i motori di ricerca.
+
+Crea un titolo h1, un sottotitolo h2, una descrizione lunga e una meta descrizione basandoti sul seguente prompt: [PROMPT].
+
+Il titolo h1 deve obbligatoriamente essere formato da un massimo di 60 caratteri (spazi e punteggiatura compresi).
+Il titolo h1 deve obbligatoriamente essere creato in questo modo: 
+integra il nome originale del contenuto in italiano senza modificare o aggiungere altre parti + "Storie educative di" + materia/e della storia educativa + "per bambini di" + l'età o le età suggerite all'interno dell'input testuale che ti fornisco.
+Se nell'input è presente la dicitura "Ep. 2", non inserirla nel titolo. 
+In questo caso non va inserito l'argomento didattico, ma solamente la materia (logica, matematica, tecnologia, ingegneria, arte, scienze).
+Un esempio ottimale di titolo h1 è il seguente: "Billy il Super-Postino - Storie educative di matematica per bambini di 5 anni", dove "Billy il Super-Postino" è il nome originale del contenuto, "Matematica" è la materia, "per bambini di 3 anni" è l'età suggerita.
+Altro esempio ottimale di titolo h1 è il seguente: "Sport e spasso nell'oceano! - Storie educative di logica e abilità visuo-spaziali per bambini di 4-5 anni"
+
+Il sottotitolo h2 deve avere una lunghezza massima di 150 caratteri, spazi e punteggiatura inclusi.
+Ad esempio: "Un'avventura sottomarina con Mickey, Luke, Josh, Mosquita e Georgie per risolvere problemi e promuovere la cooperazione"
+
+La lunga descrizione dovrebbe consistere in 3 paragrafi, ognuno dei quali non deve superare i 150 caratteri.
+Ciascuno dei 3 paragrafi è composto dal seguente schema: domanda h3 + risposta h4. La domanda nei paragrafi deve contenere il titolo h1 per intero.
+Un esempio di descrizione creata in base al prompt fornito potrebbe essere:
+
+Cosa imparerai da "Luna, la gallina volenterosa - Storie educative per bambini di 3-4 anni"?
+Attraverso questa storia coinvolgente, imparerai il ciclo vitale degli animali, come crescono le piante e l'importanza delle buone abitudini per mantenere la salute.
+
+Quali valori imparerai da "Luna, la gallina volenterosa - Storie educative per bambini di 3-4 anni"?
+Questa avventura ti insegnerà l'importanza della cooperazione e della cura reciproca tra gli esseri viventi, rafforzando l'empatia e la comprensione.
+
+Chi sono i protagonisti di "Luna, la gallina volenterosa - Storie educative per bambini di 3-4 anni"?
+I protagonisti di questa storia emozionante sono Luna, la gallina volenterosa, Mosquita e il gallo, che ti accompagneranno in un viaggio affascinante alla scoperta del mondo naturale.
+
+
+L'ultima cosa che devi scrivere è la meta descrizione. La meta descrizione è utile a descrivere il contenuto di una pagina nella serp e ad aumentare il click through rate sulle pagine di un sito web. 
+La meta descrizione ha un limite di caratteri pari a 160 (spazi e punteggiatura compresi). Quindi, nel calcolo dei caratteri, dovrai tener conto di ogni battuta sulla tastiera, inclusi, rinvii a capo, spazi e punteggiatura. 
+
+ Ricorda di avere un approccio SEO-friendly.
+
+Output in [TARGETLANGUAGE] 

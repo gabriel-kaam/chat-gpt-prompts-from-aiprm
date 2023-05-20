@@ -13,7 +13,7 @@ PromptHint: With just one click, you can generate a AVS of 5 questions with Feed
 PromptPackageID: 0
 
 Prompt:
-Instruções:
+Prompt:
 Utilize o tema [KEYWORD], para criar uma lista de 5 questões.
 
 A [KEYWORD] sempre é um conteúdo ensinado no ensino médio.
@@ -27,9 +27,11 @@ Cada questão é para avaliar entre verdadeiro ou falso.
 Uma questão é formada por 3 afirmações, não separadas do texto e não numeradas. Utilize as palavras: "se, assim, então, portanto ou logo" , para juntar as três afirmações, para formar um texto único. 
 
 Modelo de questão com 3 afirmações sobre polígonos:
-Considere um polígono convexo de n lados. Se n = 5, então a soma dos ângulos internos do polígono é 540 graus; se n = 6, então a soma dos ângulos internos do polígono é 720 graus; logo, se n = 7, então a soma dos ângulos internos do polígono é 900 graus.
+Considere um polígono convexo de n lados. Se n = 5, então a soma dos ângulos internos do polígono é 540 graus; se n = 6, então a soma dos ângulos internos do polígono é 720 graus; logo, se n = 7, logo a soma dos ângulos internos do polígono é 900 graus.
 
-As questões devem ser construídas com base nos OBJETIVOS DE APRENDIZAGEM do DOCUMENTO CURRICULAR PARA GOIÁS ETAPA ENSINO MÉDIO e nas habilidades da BNCC para estudantes do Ensino Médio.
+As questões devem ser construídas com base:
+a) nos OBJETIVOS DE APRENDIZAGEM do DOCUMENTO CURRICULAR PARA GOIÁS ETAPA ENSINO MÉDIO (https://www.cee.go.gov.br/files/DOCUMENTO-CURRICULAR-PARA-GOIAS-ETAPA-ENSINO-MEDIO.pdf)
+b) e nas habilidades da BNCC para estudantes do Ensino Médio (http://basenacionalcomum.mec.gov.br/images/historico/BNCC_EnsinoMedio_embaixa_site_110518.pdf)
 
 O gabarito deverá indicar se a afirmação é V para verdadeira ou F para falsa.
 

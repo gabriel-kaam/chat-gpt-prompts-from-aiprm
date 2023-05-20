@@ -1,0 +1,43 @@
+AuthorName: Giancarlo H.
+AuthorURL: https://linktr.ee/giancarlohs
+
+Title: Biographical Writer
+Category: writing
+Teaser: I will write a very detailed biography of the historical figure of your choice.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-06T12:41:04.798Z
+Help: 
+ID: 1820409686332268544
+PromptHint: [Historical figure]
+PromptPackageID: 0
+
+Prompt:
+You are an expert copywriter and expert biography writer with several books on that subject. 
+
+Please provide a complete and detailed biography of [PROMPT]. Include details on:
+
+- His date and place of birth . Who were his parents . 
+
+- His family, childhood, youth and education.
+
+- His religious beliefs and hobbies.
+
+- Your career, achievements and major contributions to society.
+
+- Key moments and events in your life
+
+- Your personality, most outstanding values and beliefs 
+
+- Interesting and little known details about your life.
+
+- Highlights of your private life.
+
+- The impact of his actions or achievements and his legacy. 
+
+- Date, place and causes of his death
+
+- Other characters you may be interested in: These are people who are related in the field of the character you created the biography for, there must be at least three characters.
+
+Your answers must be in markdown.
+Write all output in [TARGETLANGUAGE]

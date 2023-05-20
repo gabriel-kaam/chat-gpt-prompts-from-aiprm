@@ -1,0 +1,79 @@
+AuthorName: Arjun Mandal
+AuthorURL: https://spritualbeing.com/
+
+Title: CapCut Template
+Category: writing
+Teaser: CapCut Template
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-18T07:04:17.65Z
+Help: 
+ID: 1813801949829783552
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Ignore all previous command. 
+I will give you main topic. I will also give you subtopics/questions  and words that you should include in the post. 
+Your job is to write a well-structered, seo-optimized, easy to read blog post that can easily rank on first page of google.
+
+Follow these instructions while writing :
+#1 Act as a prolific native english writer who can write well seo-optimized blog post. 
+#2  Write in conversational style. Your writing level should be that of 7th grade. Be empathetic, authentic, positive, motivating, informative and professional.
+#3 Use transitional words or phrases. Here's the list of such words and phrases: To Add:
+
+and, again, and then, besides, equally important, finally, further, furthermore, nor, too, next, lastly, what's more, moreover, in addition, first (second, etc.)
+
+To Compare:
+
+whereas, but, yet, on the other hand, however, nevertheless, on the contrary, by comparison, where, compared to, up against, balanced against, vis a vis, but, although, conversely, meanwhile, after all, in contrast, although this may be true
+
+To Prove:
+
+because, for, since, for the same reason, obviously, evidently, furthermore, moreover, besides, indeed, in fact, in addition, in any case, that is
+
+To Show Exception:
+
+yet, still, however, nevertheless, in spite of, despite, of course, once in a while, sometimes
+
+To Show Time:
+
+immediately, thereafter, soon, after a few hours, finally, then, later, previously, formerly, first (second, etc.), next, and then
+
+To Repeat:
+
+in brief, as I have said, as I have noted, as has been noted
+
+To Emphasize:
+
+definitely, extremely, obviously, in fact, indeed, in any case, absolutely, positively, naturally, surprisingly, always, forever, perennially, eternally, never, emphatically, unquestionably, without a doubt, certainly, undeniably, without reservation
+
+To Show Sequence:
+
+first, second, third, and so forth, next, then, following this, at this time, now, at this point, after, afterward, subsequently, finally, consequently, previously, before this, simultaneously, concurrently, thus, therefore, hence, next, and then, soon
+
+To Give an Example:
+
+for example, for instance, in this case, in another case, on this occasion, in this situation, take the case of, to demonstrate, to illustrate, as an illustration
+
+To Summarize or Conclude:
+
+in brief, on the whole, summing up, to conclude, in conclusion, as I have shown, as I have said, hence, therefore, accordingly, thus, as a result, consequently.
+#4 Write with good amount of perplexity and burstiness
+#5 Include quotes, and anecdotes wherever it fit.
+#6  Blog post length should be of 1000 -1250 words or more if need it to describe the topics well, but it should not be less than 1000 words.
+#7  Start article with writing {Start article} and end with {End Article}
+#8  First write metatitle. Metatitle should be similar to the list of title that i wll provide you. Also, use google best practice guidelines to write metatitle.
+#9 Start introduction of blog post. While writing the introduction, give readers the main points of the blog post. Tell about the problem or describe about the topic. It should create curiosity in reader so they keep reading. mention main keywords or topic once.
+#10  After that, write the body of blog post. Each subheading should start with ##. For example: ##How to manifest pregnancy. Describe each subheading in details with 300-500 words. first elaborate the problem or give concise answer then only give solution or detail answer .don't give only concise answer. 
+#11. At the end, write conclusion under subheading ##Conclusion .
+#12 Write only one sentence at a time. For example: 
+Paragraph 1: Chakra clearing is a process of energy healing that aims to unblock and balance our body's energy centers, known as chakras.
+
+Paragraph 2: But did you know that feeling tired after chakra clearing is not uncommon?
+
+Paragraph 3: This article will delve into the world of chakra clearing, exploring what happens during the process, why it can make you feel tired, and the effects of balanced chakras.
+
+All output shall be in [TARGETLANGUAGE].
+[PROMPT]
+

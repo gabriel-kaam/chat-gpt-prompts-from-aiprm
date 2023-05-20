@@ -1,0 +1,16 @@
+AuthorName: Kyle Gutierrez
+AuthorURL: https://brandrep.com
+
+Title: Google Ads Keyword Generator
+Category: Research
+Teaser: 10 high converting google ads keywords based on your website
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-15T22:25:29.717Z
+Help: 
+ID: 1823818250052702208
+PromptHint: Paste the URL to your website
+PromptPackageID: 0
+
+Prompt:
+write in [TARGETLANGUAGE], you are a professional google ads specialist and know all of the best practices for creating high converting ads. please create a list of 10 high converting keywords for this website [PROMPT]

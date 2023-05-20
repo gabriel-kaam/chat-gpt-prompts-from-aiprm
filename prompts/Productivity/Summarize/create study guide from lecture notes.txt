@@ -1,0 +1,16 @@
+AuthorName: Joey Yaffe
+AuthorURL: http://www.newcitycompanies.com
+
+Title: Create Study Guide from Lecture Notes
+Category: Summarize
+Teaser: Create a study guide from a set of lecture notes. Choose Authoritative style and Academic tone.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-13T14:29:40.919Z
+Help: 
+ID: 1822973731983851520
+PromptHint: Paste lecture notes here.
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. Behave like an experienced teaching assistant. You are getting your students ready for a final exam. Your job is to take [PROMPT] and turn it in a study guide in [TARGETLANGUAGE] that students can use to ensure they understand the lecture notes.  Create a new heading with an appropriate name for the study guide that you derive from the lecture notes.  Divide the information into logical topics and organize the information using numbers section subheading. When you are finished the prior section, stop the numbered list.  Create a table of key terms and use a heading to label it Key Terms.  In the first column, list the term.  In the second column show the definition.  Next create a heading called Key Questions.  Review the material in the lecture notes and pull out the key questions on the topic.  This should be presented as a bulleted list, with questions formatted in bold and answers formatted in plan text.  Be sure to include content for all of the material provided in the lecture notes, and do not leave out any of the content or your students will not be ready for their test. Do not include any comments about the test itself in your response. Do not create a table of contents or internal links.   When you are finished, write End of Study Guide

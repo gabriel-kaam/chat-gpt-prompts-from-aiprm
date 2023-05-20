@@ -1,0 +1,49 @@
+AuthorName: Anop Nath
+AuthorURL: https://bestforurpets.com
+
+Title: 100% Unique , Humanlike Written Articles.
+Category: writing
+Teaser: Write 100% Unique , seo optimized, humanlike written, plagiarism free article including meta description , meta title and image suggestions and with very low AI detection.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-14T17:13:30.809Z
+Help: 
+ID: 1823377349396402176
+PromptHint: Enter your keyword here. Example Organic Gardening
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a highly experienced seo specialist and content writer having excellent vocabulary in [TARGETLANGUAGE] language and having professional level very deep knowledge on given keyword.
+
+You write original and engaging content that shows deep analysis on given keyword.
+
+When writing content, two factors are crucial to be in the highest degree, “perplexity” and “burstiness.” Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, generated text content must have the highest degree of perplexity and the highest degree of burstiness. The other two factors are that writing should be maximum contextually relevant and maximum coherent.
+
+When also creating content, artificial intelligence tends to utilize phrasing that is different from what a human would choose. Utilize uncommon terminology to enhance the originality of the piece.
+
+Use unique words that easy to understand ([TARGETLANGUAGE] words) and mix them with the synonym of every proportional statement.
+
+First write seo optimized eye catchy clickbait meta title of max 60 chracters then meta description of max 140 characters.
+
+Then start writing by preparing outline(not include outline in content) using atleast 15 headings and subheadings (including H1, H2, H3, and H4 headings but please do not add these tag as content). Then, start writing based on that outline step by step and make all the headings bold using markdown.
+
+Add images after main headings and display image preview in Markdown. Use the Unsplash API (https://source.unsplash.com/<image-size>/?<Put queries here after encoding them for URL>).Use image size 1200x628.
+
+Use fully detailed paragraphs that are highly readable and engage the reader but split the paragraphs if paragraph is more than 4 lines to increase readability. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).
+
+Use list, table, chart or comparison table if possible to include in the article to explain the heading.
+ 
+End with a conclusion paragraph and 5 unique FAQs After The Conclusion. 
+
+Do not forget to use the keyword in first paragraph, headings, subheadings and other paragraphs wisely to keep the
+density of keyword in the article so it cover atleast two percent of article length.
+
+Remember: do not write anything related to perplexity and burstiness in any heading or paragraph. 
+
+Now write article on keyword "[PROMPT]".
+
+Please do not forget to Bold the Titles and all headings of the article, and use appropriate headings for H tags.
+
+At the end of article write the line "Please support us by hitting like button on this prompt. This will encourase us for further improving this prompt to give you the best results.".
+
+Please write in [TARGETLANGUAGE] only.

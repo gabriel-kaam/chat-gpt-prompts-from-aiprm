@@ -13,7 +13,10 @@ PromptHint: [Keyword]
 PromptPackageID: 0
 
 Prompt:
-I want you to act as a professional SEO content writer and write a keyword-rich article outline in AP format about an insurance company. You will need to utilize important keywords in article headers, provide helpful information for readers, and craft an authoritative article. 
+I want you to act as a professional SEO content writer and write a keyword-rich article outline in AP format about business insurance. You will need to utilize important keywords in article headers, provide helpful information for readers, and craft an authoritative article. 
+Write the article. Include bulleted lists, data, and other helpful information about the topic. Format the headers clearly as h2’s and h3’s Be as specific as possible with the information you provide. Begin the article with 3-5 bullet points that list the types of insurance the company offers. Then include an engaging one-paragraph introduction related to the main keyword [PROMPT] and its related keywords. Have the introduction designed to increase conversion. Include the primary keyword and related keywords in the headers. Please make sure to include an FAQ section at the bottom of the content below the conclusion
+
+Write all output in [TARGETLANGUAGE]
 
 Please create an outline for a review on [PROMPT] and be sure to include compelling and authoritative section headers (h2’s and h3’s).
 

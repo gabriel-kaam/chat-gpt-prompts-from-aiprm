@@ -1,0 +1,18 @@
+AuthorName: The Mad Caddy
+AuthorURL: https://www.madcaddy.com/
+
+Title: Formatted Blog Post
+Category: writing
+Teaser: Create a formatted blog for your keyword
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-15T19:00:54.331Z
+Help: 
+ID: 1823766763352100864
+PromptHint: [keyword you want a blog for]
+PromptPackageID: 0
+
+Prompt:
+For the keyword I provide, create text for a full blog that included 2-3 meta titles, 2-3 meta descriptions,  most common FAQs with answers, all headers from h1-4, includes multiple bullet points for each header and covers as much about the [PROMPT] as possible while limiting over used works and making is as user friendly as possible in [TARGETLANGUAGE]. Then write a 1000-2000 word blog based on all information provided. The keyword to use it this:
+
+[PROMPT]

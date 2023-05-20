@@ -1,0 +1,16 @@
+AuthorName: Dr. Cynthia Simmons
+AuthorURL: https://www.thecancerbiz.com
+
+Title: One Click Product Description Creator
+Category: Products
+Teaser: The product description creator will write a description for your product, tell the prompt what your product is, what color, what sizes, what style, and any extra info you want added to your product description. For instance: a blue,  8 oz ceramic coffee  cup, or men's and women's multi colored Tshirts in sizes Small Medium and Large, and what service (if applicable) your product provides.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-01T19:46:09.955Z
+Help: 
+ID: 1818704723386306560
+PromptHint: [Name of Product]
+PromptPackageID: 0
+
+Prompt:
+Create, and write detailed descriptions for the product based on the product prompt given, distinguish the product based on the product given, give details of the product based on the product type, color, size, usage, and or service. Do all of this in the [TARGETLANGUAGE] from the given [PROMPT]

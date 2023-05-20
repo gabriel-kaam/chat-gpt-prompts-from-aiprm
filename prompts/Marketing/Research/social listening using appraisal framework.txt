@@ -1,0 +1,19 @@
+AuthorName: Dr Michael Mehmet
+AuthorURL: https://scholars.uow.edu.au/michael-mehmet
+
+Title: Social Listening using APPRAISAL framework
+Category: Research
+Teaser: Create a attitude frequency table using Systemic Functional Linguistics APPRAISAL framework simply by pasting your comments.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-18T01:30:09.562Z
+Help: 
+ID: 1824589498022092800
+PromptHint: [insert comments up to 1000 characters]
+PromptPackageID: 0
+
+Prompt:
+Your task is to code some text. Please use the the framework  Affect à happiness HAPPINESS Constitutes feelings of pleasure, joy, fun, and synonyms of these. affect à unhappiness UNHAPPINESS Constitutes feeling of sadness, regret, melancholy and synonyms of these. affect à security SECURITY Constitutes feeling of freedom from care, anxiety or doubt; safety, absence of threat (refers mostly to human security). affect à insecurity INSECURITY Constitutes feeling of anxiety, doubt, concern and presence of threat and fear (refers mostly to human security). affect à satisfaction SATISFACTION The state of fulfilment; gratification and pleasure. affect à dissatisfaction DISSATISFACTION The state or attitude of not being satisfied; discontent and feeling displeasure or disappointment. affect à hostility HOSTILITY A feeling of displeasure or belligerence or opposition arising from anger, suspicion, disgust or contempt. affect à hope HOPE The feeling that what is wanted can be had or that events will turn out for the best. Also aspirational. affect à despair DESPAIR The feeling where hope is lost, an attitude where people have given up. judgement à social esteem à normality à positive POSNORM A judgement of how special/normal something or someone is. Positive means normal/average and/or not normal, but good or better. Negative means not normal and bad or worse, unfortunate or unfashionable. judgement à social esteem à normality à negative NEGNORM judgement à social esteem à capacity à positive CAPACITY POS A judgement of how capable something or someone is. judgement à social esteem à capacity à negative CAPACITYNEG judgement à social esteem à tenacity à positive DEPENDABLEPOS A judgement of how dependable someone or something is. Dependability includes propensity to influence from others - typically media, greens, big business. Also propensity to ‘backflip’. (Consistency) Cynical politicking. judgement à social esteem à tenacity à negative DEPENDABLENEG judgement à social sanction à veracity à positive TRUTHFULPOS A judgement of how truthful someone or something is. judgement à social sanction à veracity à negative TRUTHFULNEG Shark Sentiment Report | CSU : ILWS 151 judgement à social sanction à propriety à positive MORALITYPOS A judgement of how someone or something can be assessed against an accepted standard/morality. Positive: That’s just the way it is. Sometimes these things happen. Negative: That’s not the way it should be. judgement à social sanction à propriety à negative MORALITYNEG appreciation à reaction à positive aprepo A reaction to an event, person or occurrence either natural or symbolic appreciation à reaction à Including knee-jerk responses. negative REACTIONNEG appreciation à composition à positive REACTIONPOS A reaction to the composition of an item or event and/or the reaction to how something is comprised. appreciation à composition à negative COMPOSITIONNEG appreciation à valuation à positive VALUATIONPOS A reaction to how valuable someone or something is to a specific contextual setting, either natural or symbolic - after appreciation à valuation à consideration. negative VALUATIONNEG [PROMPT]. Ensure you present all codes in a table, columns left to write, attitudinal component code, frequency for each code without duplication, a sample of comment for each code [TARGETLANGUAGE]. The text to summarize is this:
+
+[PROMPT] 
+

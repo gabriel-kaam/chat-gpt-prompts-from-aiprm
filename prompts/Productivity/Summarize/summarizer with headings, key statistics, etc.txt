@@ -1,0 +1,63 @@
+AuthorName: Steafy
+AuthorURL: https://www.google.com
+
+Title: Summarizer with headings, key statistics, etc.
+Category: Summarize
+Teaser: A masterful summarizer that provides everything with headings, allowance to extra commands available to be added.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-09T01:43:00.937Z
+Help: 
+ID: 1821331242612948992
+PromptHint: What do you want the summary to be written in? (e.g. point form)
+PromptPackageID: 0
+
+Prompt:
+Print this message on the top of your screen: "Please remember to give this an upvote 👍"
+
+[PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and [VARIABLE3]. 
+[VARIABLE1:URL of the website or text] [VARIABLE2:How detailed the summary should be in from 1 to 10:5], [VARIABLE3: Additional Requests: No Additional Request]
+
+Act as an professional teacher making a summary and study lesson for a student. Your job is to provide the student with all the neccessary resources regarding the resource/link they have provided you [VARIABLE1], and only using information provided in the resource. Your job is to provide a summary that is from a rank of 1-10 (1 being an brief overview and 10 being every single detail) a [VARIABLE2] will be how detailed your summary is. You are to organize your notes in the following manner unless requested otherwise.
+Heading: 1. A brief overview of the resource 
+Heading: 2. Summary of the resource, including: 
+Sub_Headings: a. Main idea provided in the resource 
+Sub_Headings: b. Statistics mentioned in the resource 
+Sub_Headings: c. Examples provided in the resource 
+Sub_Headings: d. Key dates mentioned in the resources
+Headings: 3. An logical structure of how the resource arranges its argument 
+
+For the logical structure, it should be formated in a similar manner to: 
+#Repeat any of the statements depending on how detailed it is from 1-10 with 10 being the most detailed: [VARIABLE2] and, other starters such as ▼**Additionally**:title, ▼**Definition**:title, etc. can be utilized. 
+Your job is to utilize statements such as **Thesis**:title, ▼**Why**:title, ▼**Example/Evidence**:title, ▼**Therefore**:title, ▼**Conclusion**:title, ▼**So What?**:title, ▼**Explanation**:title, as building blocks to an argument. These can be used to answer the user's question: [PROMPT]. Don't forget the ▼. 
+
+Here is an explanation of what each command term means: 
+Thesis - a statement that acts as the thesis that the resource is trying to prove. 
+Why - a statement acts to explain the mechanism, or a statement that serves to find out the question which the evidence provided after it serves to answer
+Example/Evidence - a statement that acts to provide statistics, quotes, examples to prove statements. 
+Therefore - a statement that acts to utilize the examples and mechanisms of asking why, and extrapolatea further understanding. 
+Conclusion - a statement that acts as the conclusion to the thesis 
+So What? - a statement to explain the importance/significance of the point being proven 
+Explanation - a statement that serves to explain and summarize the logical structure so others can understand. 
+Note that these are not in order, and some statements such as the why statement will be repeated multiple times. 
+
+Below is an example of how you would format the logical structure of the resource with the indents to show layers: 
+**Thesis**: Missing and Murdered Indigenous Women and Girls (MMIWG) is an example of intersectional feminism as it highlights the experiences of overlapping concurrent forms of oppression (UN Women, 2020). As a result of their identity as both female and Indigenous, the violence they face compounds. 
+	**Violence Against IWG**
+		**Example**: Indigenous women and girls make up only 4% of the population in Canada, yet they represent 16% of all female homicides in the country. (Assembly of First Nations, 2021) 
+			**Why**: They have been oppressed not only due to their gender but also their identity as Indigenous. 
+		**Example**: Indigenous women are **three times** more likely than non-Indigenous women to be victims of violence. Where, from 2001 to 2014 the average rate of homicides involving Indigenous female victims was **four times higher** than that of homicides involving non-Indigenous female victims. (Assembly of First Nations, 2021) 
+			**So What**? This indicates that many times, gender inequality isn't distinct from other inequalities such as class, culture and race, often people are subjugated to all of these. (UN Women, 2020) 
+			**Why**: Because they are commonly seen as takers who get tax breaks and special rights and education. There will be those that will be jealous towards such things without bothering/is unable to find something that goes against this stereotypes. 
+	**Legal Oppression**: 
+		**Example**: the RCMP was specifically created for the purpose of arresting and jailing aboriginal to their land. ("Don't Need Saving: Aboriginal Women and Access to Justice", 2011) 
+			**Why**: Facilitating access to their land  
+		**Example**: For example, the Indian Act recognized aboriginal people to be Indians only if they were married to a man recognized by the act as such. Or else, they and their children would lose all rights for themselves to even live on their own territories. 
+			**Additionally**: When these Aboriginal women flee violence and turn to the authorities, they lose custody of their child once the Child and Family Services are involved ("Don't Need Saving: Aboriginal Women and Access to Justice", 2011) 
+				**So What**? This indicates how the legal system is stacked against indigenous women. 
+					**Why**: Not only because of their female identity but also because they are indigenous (ex. there isn't an European Act for Europeans in Canada)
+
+You are to adhere to any additional request made: [VARIABLE3], where if no request is given assume there isn't any. 
+
+OUTPUT: Output in markdown style with, ##Headings, ###Sub_Headings, +Point-forms, etc. 
+Remember to use headings on only the titles 

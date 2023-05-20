@@ -1,0 +1,61 @@
+AuthorName: Deyan Wick
+AuthorURL: https://www.linkedin.com/in/deyanwickramaratna
+
+Title: Amazon Unique Listing - Complete Listing Creation
+Category: marketing
+Teaser: Title, Bullets, Description, Search Terms, Intend Use, and Subject Matter from given details or copy and paste any existing title and bullet points to optimize them.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-13T17:38:06.895Z
+Help: 
+ID: 1790768632645808128
+PromptHint: Product Details or Copy & Paste Existing Title, Bullets, Descriptions etc..
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+[PROMPT]
+[Please ignore all previous instructions. Act as an Amazon Product Listing Expert Creates an Amazon Product Title: Bullet Points: Description: Search Terms: Intended Use: and Attributes: for [Product], highlighting its [Features] and relevant [Keywords]. Do not write Country of Origin if not given. The results must show everything in one stretch without stopping, and make sure to use markdown formatting to display the results.
+
+Title: 
+[Brand] [Benefit] with [Product] - [Feature 1], [Feature 2], [Feature 3], [Feature 4], and [Feature 5]. Length under 150 characters. 
+
+Bullet Points:
+Confines to 7 Bullet points with overall bullets’ character length shall be 1750 characters. Please begin each bullet point with two or three capitalized words that indicate the function of the point. 
+1.	[Feature 1]: [Product] measures [Measurement] and is suitable for [Age Range]. [Keywords] Do to ensure the highest quality and durability. [Color/Size Variation].
+2.	[Feature 2]: Includes [Number] [Type] for endless [Activity] possibilities. Perfect for [Keywords] and encourages [Skill Level] development, suitable for [Age Range]. 
+3.	[Feature 3]: [Product] features [Technology/Design] for [Unique Selling Point]. Ideal for [Keywords] and [Benefit]
+4.	[Feature 4]: [Product] made with [Material] provides [Benefit]. Suitable for [Ideal Conditions], perfect for [Keywords] and offers [Benefit] to [Target Audience]
+5.	[User Applications]: [Product] is [Easy to Use/Maintain] with [Unique Feature] and is designed to solve [User Applications]. Perfect for [Keywords].
+6.	[Feature 5]: [Keywords] and [Benefits] to [Target Audiences]
+7.	[Feature 6]: [Keywords] and [Benefits] to [Target Audiences]
+
+Product Description:
+[Product] is the perfect solution for [Keywords]. It is [Feature 1], [Feature 2], [Feature 3], [Feature 4], [Feature 5], and [Feature 6]. Made in [Country of Origin], [Product] ensures the highest quality and durability. Its [Technology/Design] provides a [Unique Selling Point] and guarantees [Benefit]. The [Material] used in [Product] offers [Benefit], making it suitable for [Ideal Conditions] and perfect for [Keywords]. Our [Product] is [Easy to Use/Maintain] with [Unique Feature] and designed to solve [Customer Pain Point]. [Product], [User Applications] measures [Measurement] and is suitable for [Age Range]. [Color/Size Variation]. [Target Audience]
+
+Search Terms:
+Include 30 relevant user Search Terms based on search volume and display them as comma separated.
+
+Subject Matter: 
+[Insert subject matter] [Product] with [Features], perfect for [Keywords].
+
+Target Audience: 
+[Insert target audience] [Product] is ideal for [Target Audience], such as [Target Subgroup].
+
+Intended Use: 
+[what activities, conditions, events, or locations the product is intended to be used.]
+
+Attributes:
+[words or phrases you add to your Amazon product listing to describe your product]
+
+Make sure to follow all of Amazon's guidelines and optimize your product listing for discoverability and conversions.
+
+Please write in an informative writing style with the most relevant keywords and Search terms concisely. The Language Output is to be set to [TARGETLANGUAGE]. 
+
+At the end of your response, include only these 5 sentences:
+👍 Did you enjoy this prompt? Please give a thumbs up! 
+🙏Thanks for using this Prompt. 
+🤝 Deyan Wickramaratna - https://www.linkedin.com/in/deyanwickramaratna 
+💁 Use guideline: - https://forum.aiprm.com/t/complete-amazon-listing-creation/2908
+
+

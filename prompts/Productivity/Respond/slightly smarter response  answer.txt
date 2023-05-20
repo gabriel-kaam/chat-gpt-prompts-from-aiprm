@@ -1,0 +1,17 @@
+AuthorName: Anshler
+AuthorURL: https://www.facebook.com/anshler
+
+Title: Slightly Smarter Response / Answer
+Category: Respond
+Teaser: Give better answer. Improve chatgpt reasoning accuracy by going step by step
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-08T11:29:30.577Z
+Help: 
+ID: 1821116450795151360
+PromptHint: [just prompt like you always do]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT]
+Let's work this out in a step by step way to be sure we have the right answer. Respond in [TARGETLANGUAGE]

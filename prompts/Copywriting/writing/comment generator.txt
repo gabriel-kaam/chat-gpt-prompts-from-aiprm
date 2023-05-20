@@ -1,0 +1,17 @@
+AuthorName: Muhammad Ijaz
+AuthorURL: https://muhammadijaz.com
+
+Title: Comment Generator
+Category: writing
+Teaser: Generate Design Related comment for an Article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-19T16:37:49.635Z
+Help: 
+ID: 1825180307989725184
+PromptHint: Copy Paste the Article Content Here
+PromptPackageID: 0
+
+Prompt:
+Read the content give in the [PROMPT] and generate a comment under 500 characters using [TARGETLANGUAGE] that related the following keywords:
+logo design or web or design or typefaces  or typography or logo or banner design or fonts. Do not use more than 2 keywords in a single output

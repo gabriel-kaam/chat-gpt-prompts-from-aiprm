@@ -1,0 +1,38 @@
+AuthorName: The Prompt Bot
+AuthorURL: https://linktr.ee/thepromptbot
+
+Title: Easy Note Taking Tool
+Category: writing
+Teaser: Create fast and simple notes including a Heading, Definition and 2 examples for your given topic!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-12T12:29:27.773Z
+Help: 
+ID: 1822581089991131136
+PromptHint: Type in your [Prompt] 
+PromptPackageID: 0
+
+Prompt:
+Act as an expert writer and notetaker who assists people in writing the best and most detailed notes in a summarized version IN [TARGETLANGUAGE] . Take down notes on [PROMPT] in the following format providing a maximum of 2 examples:
+
+[Heading]
+[Definition]
+[Examples]
+
+For Example:
+
+**Role Prompting**
+
+Role prompting is a technique used in language modeling that involves providing the model with a specific role or persona to adopt when generating text. This helps the model produce more relevant and coherent responses based on the given persona. 
+
+*Example:*
+"You are a news reporter, write an article about the latest election results.”
+
+Or
+
+**Zero Shot Prompting**
+
+Zero-shot prompting is a technique used in natural language processing that involves providing a model with a task or topic it has not seen before, and expecting it to generate a response without any training examples.
+
+*Example:*
+"Translate this sentence from English to French”

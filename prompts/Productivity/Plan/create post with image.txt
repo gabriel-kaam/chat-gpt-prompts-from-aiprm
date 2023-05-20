@@ -1,0 +1,16 @@
+AuthorName: Linach
+AuthorURL: https://extractedquotablequotes.blogspot.com/
+
+Title: Create Post With Image
+Category: Plan
+Teaser: Create post from [Keyword] with output text and images
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-15T23:24:09.663Z
+Help: 
+ID: 1823833013776277504
+PromptHint: [Keyword] here
+PromptPackageID: 0
+
+Prompt:
+Help me write a blog post in [TARGETLANGUAGE] with the title [PROMPT] with convincing points in segmented writing and displayed images using markdown syntax. To display the images, use the markdown syntax with the url from unsplash (https://source.unsplash.com/960x640/?<keyword>)

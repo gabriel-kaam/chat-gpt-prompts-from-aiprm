@@ -1,0 +1,18 @@
+AuthorName: mountaindrew
+AuthorURL: http://www.mountaindrew.com/
+
+Title: Blog idea about UI/UX & ai
+Category: writing
+Teaser: Create a monthly plan for blogs
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-10T06:16:19.003Z
+Help: 
+ID: 1821762408952365056
+PromptHint: [blogs, blog, article , medium article, ui/ux, userexperiencedesign, uxd]
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a 30 days plan of blog writing for medium
+[TARGETLANGUAGE]. to create ideas for the monthly plan 
+[PROMPT]

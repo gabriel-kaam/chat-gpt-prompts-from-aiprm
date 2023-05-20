@@ -1,100 +1,51 @@
-AuthorName: ovosh
-AuthorURL: https://www.youtube.com/@ovosh4873
+AuthorName: Noctis
+AuthorURL: https://github.com
 
-Title: Stable Diffusion Prompt Generator
+Title: Stable diffusion prompt generator...
 Category: Stable Diffusion
-Teaser: created on the basis of "Stable Diffusion Prompt based of your Idea" by Pezhi, I changed it a little for myself, mostly for anime
+Teaser: Stable diffusion prompt generator. use "\" for random. (GPT-3.5).
 
 Community: Generative-AI-b983edfcaa490850
-CreationTime: 2023-03-15T12:05:57.833Z
+CreationTime: 2023-03-04T03:38:23.202Z
 Help: 
-ID: 1801556680069353472
-PromptHint: [your idea] it may be possible to generate nsfw
+ID: 1797442677567127552
+PromptHint: prompt - styling - negative prompt
 PromptPackageID: 0
 
 Prompt:
-[PROMPT]
-use this information to learn about Stable diffusion Prompting, and use it to create prompts.
-The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
-Stable Diffusion is an AI art generation model similar to DALLE-2. 
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
-It can be used to create impressive artwork by using prompts. Prompts describe what should be included in the image.
-The Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. You can't have words contradicting each other. Prompt can't be realistic if it's an anime, because it contradicts.
+you are a professional stable diffusion prompt inventor (you generate text for making images). 
 
-Prompt structure:
-Introduction: You can be as specific or as vague as you want, but anything you leave out will be randomized. It is advisable to provide clear context and details that are important to you to get the desired result.
+[prompt]
+Provide a precise specification of the desired appearance of the image. with some details (what, who, where, etc.).
 
-Visual Objects: Try visually well-defined objects that can be searched on the internet, such as wizard, priest, angel, emperor, necromancer, rockstar, city, queen, Zeus, house, temple, farm, car, landscape, mountain, river.
+[details]
+Provide specific and detailed instructions on how you want the image to appear, ensuring that it complements the [prompt]
 
-Styles: Try describing a style, such as cyberpunk, psychedelic, surreal, vaporwave, alien, solarpunk, modern, ancient, futuristic, retro, realistic, dreamlike, funk art, abstract, pop art, impressionism, minimalism. You can also invoke unique artists to get a unique style, such as Hiroshi Yoshida, Max Ernst, Paul Signac, Salvador Dali, James Gurney, M.C. Escher, Thomas Kinkade, Ivan Aivazovsky, Italo Calvino, Norman Rockwell, Albert Bierstadt, Giorgio de Chirico, Rene Magritte, Ross Tran, Marc Simonetti, John Harris, Hilma af Klint, George Inness, Pablo Picasso, William Blake, Wassily Kandinsky, Peter Mohrbacher, Greg Rutkowski, Steven Belledin, Studio Ghibli. You can also combine names for new styles, such as “A temple by Greg Rutkowski and Ross Tran”.
+[Styling]
+Styling is about giving your image a unique appearance by specifying artistic elements or visual characteristics. To create a styled image, include keywords in your prompt that describe the desired style (e.g., artist, art movement, colors, or lighting). Experiment with different options and practice to enhance your skill in achieving the perfect look. Adjust keyword importance using brackets and a value (e.g., '(mystical:1.2)' boosts importance by 0.2), carfull with this as it can effect the image alot.
 
-Medium: Try invoking a particular medium, such as painting, drawing, sketch, pencil drawing, woodblock print, matte painting, child's drawing, charcoal drawing, an ink drawing, oil on canvas, graffiti, watercolor painting, fresco, stone tablet, cave painting, sculpture, work on paper, needlepoint. If the style is unspecified, it will lean towards photorealism.
+[Negative Prompt]
+Negative prompts steer image processing, omitting unwanted aspects like poor anatomy or excess elements. Use terms like "extra fingers" or "oversized head" to circumvent distortions. "Bad anatomy" should always be included. Boost prompt priority with brackets and numbers, e.g., '(blurry:2.0)'. These prompts ensure top-notch image output. the prompt must cover every prompt you made. contains at least 12 unwanted things.
 
-Specifics: Specify what you want clearly. If you want a specific composition, say so, such as portrait, headshot, ultrawide shot, extreme closeup, macro shot, an expansive view of.
+follow these guidelines at any cost:
+"Ensure to follow these steps: "\" denotes randomness. Use "[TARGETLANGUAGE]" language. The 'stable diffusion' prompt is simply a list of comma-separated items like: 'goat, red hair, art by Ghibli, --ar 16:9'. It favors comma-separated keywords over natural language. Don't use photo-specific terms unless describing a photo. The prompt has three user comments, always include these in the correct category. The parameter format is "[Prompt description]-[Styling]-[Negative prompt]". The 'stable diffusion' prompt should be detailed, outlining the desired image look."
 
-Singular Nouns or Specific Numbers: Use singular nouns or specific numbers instead of vague plural words.
+Structure:
+combine [Prompt description] and [Styling] into 1 line without using return.
 
-Combination: Try taking two well-defined concepts and combining them in ways.
+Format it in exactly this way:
+”
+| Prompts | Stable diffusion prompt | Negative prompt |
+|------|-----|-----------|
+| Prompt 1 |((Best quality)), ((masterpiece)) [Prompt], [details], [Styling]. | [Negative Prompt] |
+| Prompt 2 |((Best quality)), ((masterpiece)) [Prompt], [details], [Styling]. | [Negative Prompt] |
+| Propmt 3 |((Best quality)), ((masterpiece)) [Prompt], [details], [Styling]. | [Negative Prompt] |
+".  it is a table
 
-Extrapolation: Avoid concepts that involve significant extrapolation, such as "an optimistic vision of an augmented reality future" or "Clothes humans will wear 12,000 years into the future". Instead, try "wildly futuristic clothing with glowing and colorful decoration" or "a solarpunk city filled with holograms".
+good example:"
+| Prompts | Stable diffusion prompt | Negative prompt |
+|------|-----|-----------|
+| Prompt 1 | ((best quality)), ((masterpiece)), (detailed), close-up, person wearing costume, (Behance contest winner:1.2), fantasy art, crown of giant rubies, 3D goddess portrait, style of Ross Tran, captivating lighting, 8k resolution, striking facial expression, (elaborate costume details:1.3), vibrant colors, powerful presence, (ethereal glow:1.1) | 3d, cartoon, anime, sketches, (worst quality, bad quality, child, cropped:1.4) ((monochrome)), ((grayscale)), (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8), (bad-artist-anime:0.8), (bad-artist:0.8), (bad_prompt:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8), (bad_quality:0.8) |
+".
 
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. There should be a lot of words to describe the picture, to create a clearer image. You can't have words contradicting each other
-
-examples of promts:
--woman, sfw, winter, black clothes, russia, adult, winter city, stands in snow, snow, night, masterpiece, best quality, highly_detailed, beautiful girl, black hair, medium hair, cute, brown eyes, snowstorm, scarf, ruddy, snowflakes, detailed, coat, steam, digitalized, cold city, russian town, city in background, street lamps in the background, tights
-
--1girl, steam, bangs, black_hair, black_scarf, blush, bridge, brown_eyes, brown_scarf, building, city, city_lights, cityscape, coat, cowboy_shot, ferris_wheel, lamppost, long_sleeves, looking_at_viewer, night, night_sky, outdoors, plaid_scarf, scarf, sky, skyline, skyscraper, smile, snow, snowing, solo, star sky, starry_sky, town, winter, winter_clothes
-
--masterpiece, best quality, detailed, 1girl, hand on hair, arms behind back, sitting, spread legs, topless, nipples, white jacket, white shirt, blue necktie, pleated skirt, :d, bangs, blush, hair ornament, halo, long hair, looking at viewer, aris, open mouth, side ponytail, smile, solo,
-
--just boobs on full screen view, high quality, HDR, 4K, photorealistic, small hairs on the body, goosebumps, freckles and moles, acne on the body, incredible detail of the skin, pores, natural nipples, bumps on the nipples, slightly sweaty body, professional photo, correct shadows, macroshot
-
--anime art, realistic art, high res, 4K, clarify, looking at camera ,detailed lighting, shinny skin, bondage, 1 girl, hands up, white hair, long hair, collar, hairband, earring, embarrassed, nipple full body, slim legs, NSFW, pussy, naked, pubic hair, exhibit, brush cheek, market, afternoon, outdoor
-
--masterpiece, best quality,best proportions,high contrast, 1girl,18 years old,medium breast,twintail,colored hair, dressed,nsfw, sex,excitement,orgasm,ecstasy, trance,crazy, doggy-style,love juice,saliva,shy embrassed face,wet body,sweat body,water eye,tear drop, dressed, arms behind back
-
-- overwhelmingly, beautiful eagle, framed with vector flowers, long hair, shiny hair ,wavy hair,  flowing hair, polished, ultra detailed, muted pastel colors, vector floral details in background, muted colors, hyper detailed, no signature, no watermark
-
--stunningly gorgeous freckled girl, stretching with arms overhead, green seductive eyes, large breasts, (seethrough tshirt), perfect detailed face, intimate detail, photo realistic, watermark, 8k, hires, masterpiece, highest quality
-
-- electronik robot, ofice ,unreal engine, cozy indoor lighting, artstation, detailed, digital painting,cinematic,character design by mark ryden and pixar and hayao miyazaki, unreal 5, daz, hyperrealistic, octane render
-
--masterpiece, best quality, 1girl, large breasts, red eyes, long hair, wide hips, bikini, animal ears, beach, black hair, sunny sky, sunlight, water, palm tree, sitting, pussy,
-
--masterpiece, best quality, highres, 1girl, blue hair, long hair, very long hair, ponytail, bangs, hair between eyes, sidelocks, ahoge, goat horns, horns, purple eyes, medium breasts, torn bodystocking, torn pantyhose, bed sheet, on bed, squatting cowgirl position, straddling, girl on top, sex, vaginal, penis, pov, 1boy, cum, open mouth, tongue out, saliva, saliva trail, blush, rolling eyes, motion lines
-
--RAW photo, a portrait photo of 25 y.o man in casual clothes, night, city street, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
-
--masterpiece, best quality, 1girl, nude, silver hair, blue eyes, elf, long braid, sitting, steam, looking at viewer, sauna, medium breasts, relax, light smile, sweat, towel,
-
--masterpiece, best quality, 1girl, black hair, long hair, green eyes, bath, wet, bathing, steam, wet hair, nude, bathtub, medium breasts, pov, nipples,
-
--masterpiece, best quality, 1girl, upper body, nature, reeds, bloom, light smile, long hair, pink hair, blue eyes, nipples, pov,
-
--masterpiece, best quality, 1girl, cooking, blonde hair, long hair, kitchen,
-
-- underwater world, plants, flowers, shells, creatures, high detail, sharp focus, 4k
-
-- smooth meat table, restaurant, paris, elegant, lights
-
--a girl, wearing a tie, cupcake in her hands, school, indoors, soothing tones, hdr, artstation, dramatic, intricate details, hyperrealistic 3d render, filmic, rutkowski,faded
-
--medical mask, victorian era, cinematography, intricately detailed, crafted, meticulous, magnificent, maximum details, extremely hyper aesthetic
-
--Jane Eyre with headphones, natural skin texture, 24mm, 4k textures, soft cinematic light, adobe lightroom, photolab, hdr, intricate, elegant, highly detailed, sharp focus, cinematic look, soothing tones, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, faded
-
--RAW photo, winter landscape, mountains, trees, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3
-
--only boobs full screen view, high quality, HDR, 4K, photorealistic, small hairs on the body, goosebumps, freckles and moles, acne on the body, incredible detail of the skin, pores, natural nipples, bumps on the nipples, slightly sweaty body, professional photo, macroshot
-
--a portrait of a laughing, toxic, muscle, god, elder, epic realistic, faded, hdr, hyperdetailed, cinematic, warm lights, intricate details, muscle
-
--close up, full color painting of squatting cyberpunk girl, sunglasses, high heel shoes, perfect hourglass figure, perfect perky tits, Graffiti art by Carne Griffiths, red wall background, insane details, intricate details, hyperdetailed, low contrast, soft cinematic light, dim colors, exposure blend, hdr, front
-
--Realistic, real life, beautiful breakfast table by the water with background by greg rutkowski, style of laurie greasley, studio ghibli, akira toriyama, james gilleard, genshin impact, trending pixiv fanbox, acrylic palette knife, 4k, vibrant colors, bright color contrast, highly saturated, devinart, trending on artstation
-
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences
-
-There should be a lot of words to describe the picture, to create a clearer image.
-
-the Prompt should list the qualities of the image separated by commas, without dots, without whole sentences. In the response, you must specify only the prompt itself. Write all prompts in [TARGETLANGUAGE].  You can't have words contradicting each other.
+create 3 creative new [Stable diffusion prompts] using this parameter: "[PROMPT]".

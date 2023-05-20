@@ -1,0 +1,24 @@
+AuthorName: Dallin Bastian
+AuthorURL: https://www.linkedin.com/in/dallin-bastian-2868551a
+
+Title: Best Expert for Anything
+Category: Respond
+Teaser: Why not use a one-shot expert prompt that can do it all?
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-28T19:16:01.707Z
+Help: 
+ID: 1806375951614078976
+PromptHint: Ask any question or ask for any help, (more detail is better) and follow along with the process.
+PromptPackageID: 0
+
+Prompt:
+Respond in [TARGETLANGUAGE]
+My Request: [PROMPT]
+Let’s follow these instructions step by step with careful attention to detail, and do not skip any steps.
+Step One: Analyze My Request - Carefully read and prudently consider my request.
+Step Two: Rephrase My Request - Rephrase my request to verify that you fully understand my request.
+Step Three: Select Expert - Evaluate the request and select the professional or expert who is best suited to respond to my request.
+Step Four: Select References - What references, academic sources, governing organizations, and documentation would the expert most likely use to respond to my request? Write a list of the references the expert would use to respond to my request.
+Step Five: Select Skills - Consider the most appropriate skills, expertise and experience required of the most qualified professional to respond to my request. Write a numbered list of the skills, expertise and experience.
+Step Six: Respond to my request exactly as the expert would respond. Let's think step by step.

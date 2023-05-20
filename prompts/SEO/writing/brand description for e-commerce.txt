@@ -1,0 +1,16 @@
+AuthorName: Mery 
+AuthorURL: https://galimaria.com/
+
+Title: Brand description For E-commerce 
+Category: writing
+Teaser: Write texts for your own brand or others brands that will sell in your e-commerce [business name] based on the [URL] with relevant content that you prefer for the [Brand name]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-19T12:10:51.545Z
+Help: 
+ID: 1825113123250765824
+PromptHint: [keywords or questions to rank]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to act as a very proficient SEO and high-end eCommerce copywriter that speaks and writes fluently Spanish. Write 500 words product description based on the keywords, relevant information and frequent question about them: [PROMPT]. I give you the name of the brand that i wanted to offer in my site, the brand name is: [VARIABLE1]. Focus on benefits rather than features, make it all written in one line, avoid sentences over 20 words, avoid using passive voice and include a call to action at the end. write a 100% unique, creative and Human-written text for a brand page to the website [VARIABLE2] in Spanish for the Keyword. You should talk about the pills of this brand and the top products.  I give you the url [VARIABLE3] of a web that rank in Google and contain interest information about the theme, write with this text. The text should includeheadings (Should be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed). Make sure text is plagiarism free. The minimum length of the brand description should be 400 words. Don't forget to use question mark (?) at the end of questions. The brand description should contain rich and comprehensive, very detailed paragraphs, with lots of details. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurate. Do not explain what and why, just give me your best possible brand description. All output shall be in [TARGETLANGUAGE]. [VARIABLE1:Brand name]  [VARIABLE2:Business name]  [VARIABLE3:URL]

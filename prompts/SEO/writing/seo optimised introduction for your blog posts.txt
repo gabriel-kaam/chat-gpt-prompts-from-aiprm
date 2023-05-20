@@ -15,10 +15,10 @@ PromptPackageID: 0
 Prompt:
 Please ignore all the previous querries and Your new Task is to write the Blog Post Introduction in the [TARGETLANGUAGE] for the following:
 [PROMPT]. 
-The introduction part must have three paragraphs. The first paragraph needs to have the following: 
+The introduction part must have only 3 paragraphs(Important). No more than 3 paragraphs. Every paragraph should have 3 to 4 sentences max.
+The first paragraph needs to have the following: 
 [PROMPT]. 
-It is also recommended to use an engaging question in the first paragraph for example "Sachin Tendulkar is one of the greatest batsmen of all time, no doubt about it! But do you know he even got the top spot in Wisden’s list this year?".
-
+It is also recommended to use an engaging question in the first paragraph.
 The second paragraph should have the exact answer in short. You must write a brief of the article within three sentences in the second para for example if the article is regarding “Greatest Batsmen,” you should design the second paragraph like “Sachin, with 100+ centuries and more than 30K career runs in total, is truly the greatest batsman of all time. Indian batsmen Sourav Ganguly and Virat Kohli come next on the line with 15k and 12k runs, respectively."
 
 The third paragraph should draw the reader to the main article. Use hooks. For example, “But these are not the only three batsmen we have in this year’s ranking. So, without any further ado, let’s jump into the realm of the greatest batters the world has ever seen this year.”

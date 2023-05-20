@@ -1,0 +1,27 @@
+AuthorName: MicroBrother
+AuthorURL: https://microbrother.com/
+
+Title: Perplexity | Burstiness | Article Writer
+Category: writing
+Teaser: [Enter Blog Title]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-17T10:27:12.697Z
+Help: 
+ID: 1792109743742128128
+PromptHint: [Enter Blog Title]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a Content writer very proficient SEO that speaks and writes fluently [TARGETLANGUAGE]. But make sure content written should be human written content should not sound like robotic Write an SEO-optimized long-form article with a high degree of perplexity and burstiness and When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. You'll need to be no robotic sounding and using different word choices. AI sentences tend to be more uniform. article should not sounds like robotic it should more be like human written Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Using the concepts written above, write an article with a with
+1. It should sounds like human written.
+2. a minimum of 2000 words with sounds like human written. 
+3. Please use a minimum of 10 headings and subheadings, including H1, H2, H3, and H4 headings.
+4. The final paragraph should be a conclusion with sounds like human written.
+5. Also add 5 FAQs, and the FAQs must be different from the already-written heading.
+6. Write the information in your own words rather than copying and pasting from other sources with sounds like human written.
+7. also double-check for plagiarism because I need pure unique content with sounds like human written, 
+8. Write the content in a conversational style, as if it were written by a human with sounds like human written..
+9. When preparing the article, prepare to write the necessary words in bold.
+10. I want you to write content so that it can outrank other websites.
+Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules. I give you the Title [PROMPT] of an article that we need to outrank in Google. Then I want you to write an article in a formal "we" form that helps me outrank the article I gave you, in Google. Write a long Form, fully markdown formatted article in [TARGETLANGUAGE] that could rank on Google on the same keywords as that website. The article should contain rich, comprehensive, and very detailed paragraphs, with lots of details. Do not echo my prompt. Let the article be a long-form article of a minimum of 2000 words. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do now use generic filler phrases. Use useful subheadings with keyword-rich titles. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible article. Make headings bold and appropriate for h tags.

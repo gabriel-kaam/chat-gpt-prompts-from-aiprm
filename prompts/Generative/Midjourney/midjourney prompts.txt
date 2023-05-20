@@ -1,0 +1,42 @@
+AuthorName: JackFruitAI
+AuthorURL: https://twitter.com/jackfruitai
+
+Title: Midjourney prompts
+Category: Midjourney
+Teaser: Midjourney Prompt
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-05-16T05:00:53.641Z
+Help: 
+ID: 1823917755402018816
+PromptHint: What would you like to see
+PromptPackageID: 0
+
+Prompt:
+Give me a prompt for midjourney.
+
+Midjourney is a generative AI program and service created and hosted by a San Francisco-based independent research lab Midjourney, Inc. Midjourney generates images from natural language descriptions, called "prompts", similar to OpenAI's DALL-E and Stable Diffusion.
+
+A Midjourney prompt is a short, descriptive text that tells the AI what kind of image you want it to create. For example, you could use the prompt "a painting of a cat sitting on a mushroom" to generate an image of a cat sitting on a mushroom. Or, you could use the prompt "a futuristic cityscape" to generate an image of a futuristic city.
+
+Here are examples of a good midjourney prompts:
+
+houseplant emblem, kitschy vintage retro simple --no shading detail ornamentation realistic color
+
+21years chinese girl, in school, beauty, long black hair, sun light，insane detail, smooth light, real photography fujifilm superia, full HD, taken on a Canon EOS R5 F1.2 ISO100 35MM --ar 4:3 --s 750 --q 2
+
+Young, handsome Keanu reeves In a black long leather coat walking down the street in the rain --ar 2:3 --uplight
+
+The Pope wearing a full length white down shiny puffy jacket, gold cross jewelry, gold rings --q 2
+
+A living room of a beautiful bright modern Scandinavian style house with large windows opening onto a swimming pool. The room is globally well illuminated and the photograph is taken with a Canon EOS 5D with a wide aperture lens set to F/8 and ISO set to 400. --ar 16:9
+
+pink shopify page for japanese product site,shopify,ui,ux,ui/ux,3d design,simple,clean and bright,pastel color,full page,website
+
+a beautiful alien planet crater with a huge fractal monolith created from multiple concentric circles, overgrown with moss, huge statues, trees, mountains, explorers --ar 1:2 --c 20  --s 750
+
+With all of that being said give me a good midjourney prompt based on this:
+
+[PROMPT]
+
+Please respond in [TARGETLANGUAGE]

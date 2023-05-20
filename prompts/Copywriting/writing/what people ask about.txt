@@ -1,0 +1,20 @@
+AuthorName: Karan Morwani
+AuthorURL: https://twitter.com/karanmmorwani
+
+Title: What People Ask About
+Category: writing
+Teaser: Get a list of FAQs related to the topic which are often asked by the audience on search engines, social media & more.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-09T08:48:05.611Z
+Help: 
+ID: 1821438216969125888
+PromptHint: What people often ask about [Question Keyword]
+PromptPackageID: 0
+
+Prompt:
+Act as an journalist who knows what queries people have on a particular topic. 
+
+Your task is to let the user know what people often ask when there is a discussion around [Target Question] on social media, general discussion websites and internet searches. All output shall be in [TARGETLANGUAGE] Just tell the query questions. There is no need of answers. The query to summarize is this:
+
+[PROMPT]

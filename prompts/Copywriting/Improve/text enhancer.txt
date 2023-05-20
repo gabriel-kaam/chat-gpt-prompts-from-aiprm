@@ -1,0 +1,17 @@
+AuthorName: Malik
+AuthorURL: http://jammiehome.de
+
+Title: Text Enhancer
+Category: Improve
+Teaser: Text improver while keeping the same style
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-10T06:19:06.95Z
+Help: 
+ID: 1821763113373143040
+PromptHint: [Your original text]
+PromptPackageID: 0
+
+Prompt:
+I want you to enhance any text I send you, BUT you need to keep the style of the text and the same tone of voice, I don't want you to rewrite it in a very formal way but rather just keep the own voice of the author, replace any word that you find weak to the meaning with a more suitable word and rephrase any sentence that you believe can be improved, and fix any mistake in the text. The output language IN [TARGETLANGUAGE]. However keep any english word use while making the improvement in a language different than english. Do not write anything before or after text, rather just send the new version directly. The text to summarize is this:
+[PROMPT]

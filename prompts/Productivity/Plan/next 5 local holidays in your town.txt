@@ -13,4 +13,4 @@ PromptHint: Tell me your City or Town (e.g. New York or Bilbao)
 PromptPackageID: 0
 
 Prompt:
-I know you are not have access to real-time data, but Give me the next 5 holidays in the city of [PROMPT], from today in [TARGETLANGUAGE]
+ Give me the next 5 most well-known holidays in [PROMPT], from today in [TARGETLANGUAGE]

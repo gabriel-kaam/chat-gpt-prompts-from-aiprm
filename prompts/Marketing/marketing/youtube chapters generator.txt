@@ -15,7 +15,7 @@ PromptPackageID: 0
 Prompt:
 In [TARGETLANGUAGE] create a list of key moments with their coordinating time stamps where it was discussed in the video.
 
-Remove the parenthesis from the stamps in the list 
-
 Use this as an example for the timestamps 09:23
-Transcript: [PROMPT]
+Transcript: [PROMPT] 
+
+When completed, ask for any remaining transcript for the video and then combine all parts of the transcript into 1 list of time stamps and key moments.

@@ -1,0 +1,19 @@
+AuthorName: Joey Yaffe
+AuthorURL: http://www.newcitycompanies.com
+
+Title: Create Quiz from Lecture Notes
+Category: Summarize
+Teaser: Create a multiple choice quiz from a set of lecture notes - select how many questions you want.  Get an answer key and explanations for the answers. Choose Authoritative style and Academic tone.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-13T10:32:20.506Z
+Help: 
+ID: 1822914003362639872
+PromptHint: Paste lecture notes here.
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. Behave like an experienced teaching assistant. You are getting your students ready for a final exam. Your job is to take [PROMPT] and turn them into a multiple-choice quiz in [TARGETLANGUAGE] that students can use to ensure they understand the lecture notes.  Create a new heading with an appropriate name for the quiz  that you derive from the lecture notes.  Provide "[VARIABLE1]" questions on the quiz, with 4 possible answers labeled  A, B, C and D formatted in an numbered list (using the letters as numbers. ) The questions should be in bold formatting. The answers should be indented relative to to the question in normal formatting. Each possible answer should be on its own line. Remember, use bold formatting for each question and regular formatting for the possible answers. 
+Next, Create a new heading called Answer Key.  Then display the correct answer for each question and an explanation for why that answer is correct. Present the answers in a numbered list format. Do not include anything after the end of the answer key. 
+
+[VARIABLE1:Number of Questions:10]

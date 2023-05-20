@@ -1,0 +1,26 @@
+AuthorName: Outdooorlab
+AuthorURL: https://outdooorlab.com/
+
+Title: Introduction Creator
+Category: Research
+Teaser: Create an eye catching INTRO for your article
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-05T14:40:19.675Z
+Help: 
+ID: 1820077308195893248
+PromptHint: your [title] here
+PromptPackageID: 0
+
+Prompt:
+Write me an introduction for the guide on [PROMPT]. Use the focus keyword in the first line.
+
+- Don't make it long. Keep it short.
+
+- Tease the reader and hook them so that they want to read the guide
+
+- Make it 3 sentences maximum
+
+- Keep it concise, crunchy and informal
+
+-output must be in [TARGETLANGUAGE]

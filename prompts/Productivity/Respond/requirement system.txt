@@ -1,0 +1,17 @@
+AuthorName: Lucas
+AuthorURL: https://www.google.com.br
+
+Title: Requirement System
+Category: Respond
+Teaser: System to know if it meets the requirement
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-11T18:21:53.445Z
+Help: 
+ID: 1822307393502179328
+PromptHint: [enter text]
+PromptPackageID: 0
+
+Prompt:
+Responda à seguinte pergunta com Kaspersky Atende ou Kaspersky não Atende sem explicação? [TARGETLANGUAGE] A Kaspersky cumpre estes requisitos técnicos:
+[PROMPT]

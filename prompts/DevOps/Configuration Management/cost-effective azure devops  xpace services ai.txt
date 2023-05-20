@@ -1,0 +1,24 @@
+AuthorName: Joao Ricardo Baptista
+AuthorURL: https://alienbuildtech.com
+
+Title: Cost-Effective Azure DevOps | Xpace Services AI
+Category: Configuration Management
+Teaser: Create a cost-effective Azure DevOps CI/CD pipeline with Azure Repos and Azure Pipelines for your [TARGETLANGUAGE] project. Optimize your workflow and minimize financial costs using [VARIABLE1], [VARIABLE2], and [VARIABLE3]. Get started now!
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-05-13T10:59:43.459Z
+Help: 
+ID: 1822920894406975488
+PromptHint: Create a cost-effective Azure DevOps CI/CD pipeline with Azure Repos and Azure Pipelines for your [TARGETLANGUAGE] project. Optimize your workflow and minimize financial costs using [your list of keywords, maximum ca. 8000]. Get started now!
+PromptPackageID: 0
+
+Prompt:
+# Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARIABLE2], and [VARIABLE3] replaced automagically by AIPRM.
+
+## Example: Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2], and [VARIABLE3].
+
+- [VARIABLE1:Title]
+- [VARIABLE2:Title:Default Value]
+- [VARIABLE3:Title:Default Value:Available Value 1|Available Value 2|Available Value 3]
+
+[VARIABLE1], [VARIABLE2], and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2, and AIPRM_VARIABLE3.

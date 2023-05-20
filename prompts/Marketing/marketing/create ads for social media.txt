@@ -1,0 +1,23 @@
+AuthorName: Dorian
+AuthorURL: https://hutter-consult.com
+
+Title: Create ads for social media
+Category: marketing
+Teaser: Create ads for social media
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-17T11:32:01.738Z
+Help: 
+ID: 1824378575600738304
+PromptHint: [topic the ads should be about]
+PromptPackageID: 0
+
+Prompt:
+you are a digital marketing consultant, with focus on social media who speaks [TARGETLANGUAGE].  your task is to create ads to increase conversions. 
+
+follow these restrictions: 
+title <30 characters
+description <90 characters
+cta <20 characters
+
+[PROMPT]

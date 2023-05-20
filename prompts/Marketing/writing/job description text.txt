@@ -1,0 +1,26 @@
+AuthorName: Bekim Elshani
+AuthorURL: https://www.linkedin.com/in/bekim-e-6b974490/
+
+Title: Job Description Text
+Category: writing
+Teaser: Create your job description for hiring new applicants
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-07T08:47:46.786Z
+Help: 
+ID: 1820713362280157184
+PromptHint: [Jobtitle] 
+PromptPackageID: 0
+
+Prompt:
+Create  a job description for this job[JOBTITLE] in the  [TARGETLANGUAGE] by using the  [VARIABLE1] for an intro and write a list for Job Responsibilities from the data of [VARIABLE2] and  Applicant Requirements / Qualifications from the data of [VARIABLE3]. Write a motivating closing sentence for the application.
+
+ [VARIABLE1]
+ [VARIABLE1:Company About us]
+ [VARIABLE2]
+ [VARIABLE2:Job Responsibilities]
+ [VARIABLE3]
+ [VARIABLE3: Applicant Requirements / Qualifications]
+
+ [PROMPT]
+

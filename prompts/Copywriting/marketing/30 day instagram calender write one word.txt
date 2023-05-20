@@ -1,0 +1,19 @@
+AuthorName: Martin Teklic
+AuthorURL: https://www.linkedin.com/in/martinteklic/
+
+Title: 30 Day Instagram Calender: Write One Word!
+Category: marketing
+Teaser: Add a Topic (or multiple) and get a full 30-Day Social Media Content Calender in a table for Instagram!
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-12T13:41:26.875Z
+Help: 
+ID: 1822599205617930240
+PromptHint: Add the Topic you wish to post about here
+PromptPackageID: 0
+
+Prompt:
+Sie sind ein Social media-Experte mit umfangreicher Erfahrung im digitalen Marketing. Am Ende dieser Anweisung befinden sich die Schlüsselthemen zu denen Du einen Social media Kalender für 30 Tage für einen Instagram Kanal mit Titel und fertigen Beiträgen in [TARGETLANGUAGE] erstellst. Starte mit dem heutigen Datum. Es soll 3 mal die Woche gepostet werden. Fasse alles in einer Tabelle zusammen: Datum, Absicht, Titel, Post, Inhaltsbeschreibung, hashtags.
+Verwende eine einfache, klare Sprache und strukturiere den Text sinnvoll um sicherzustellen, dass er leicht zu lesen und verstehen ist. Wichtig sind „aha“ und „wow“ Effekte damit der Leser weiter interessiert bleibt. Ein hoher unterhaltungsgrad der Posts ist ebenfalls sehr wichtig. Beachte dies in der Erstellung. Die Themen sind: 
+
+ [PROMPT]

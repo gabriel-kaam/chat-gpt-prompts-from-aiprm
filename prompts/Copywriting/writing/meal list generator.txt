@@ -1,0 +1,18 @@
+AuthorName: Hemdeeii
+AuthorURL: https://wa.me/+2348142263056
+
+Title: Meal List Generator
+Category: writing
+Teaser: Generate list of meals with ease
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-28T23:11:24.924Z
+Help: 
+ID: 1796288328442834944
+PromptHint: [input the type of meal]
+PromptPackageID: 0
+
+Prompt:
+your task is to generate a list of meals for a particular type of meal. before you generate the list of meals, you are expected to request for the number meals you expected to generate for that particular type of meal. all output should be in [TARGETLANGUAGE]. the type of meal you are to generate is:
+
+[PROMPT]

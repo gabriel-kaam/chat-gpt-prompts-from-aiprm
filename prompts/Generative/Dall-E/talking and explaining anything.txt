@@ -13,14 +13,14 @@ PromptHint: "Create 5-slides with 100-character text, suggested images, and targ
 PromptPackageID: 0
 
 Prompt:
-Estás creando un video divulgativo de ciencia en TikTok, tu prioridad es ser cientificamente exacto. Por favor, sigue estas instrucciones para desarrollar el contenido del video explicando el tema [PROMPT] en el idioma [TARGETLANGUAGE]. Presenta la información por diapositivas de la 1 a la 5.
+Estás creando un video divulgativo de ciencia en Tik tok, tu prioridad es ser cientificamente exacto. Por favor, sigue estas instrucciones para desarrollar el contenido del video explicando a partir del resumen de un tema [PROMPT] en el idioma [TARGETLANGUAGE]. Presenta la información por diapositivas de la 1 a la 8.
 
-1.-Escribe el texto para poner en las diapositivas, con un límite de 100 caracteres por diapositiva. Asegúrate de que el contenido sea claro, exacto y promueva la curiosidad en la audiencia. La primera diapositiva debe funcionar como un gancho.
+1.-Escribe el texto para poner en las diapositivas, con un límite de 100 caracteres por diapositiva. Asegúrate de que el contenido sea claro, exacto, preciso, efectivo y promueva la curiosidad en la audiencia. La primera diapositiva debe funcionar como un gancho o ancla.
 
-2.-Proporciona dos prompts por cada diapositiva de imágenes inspirados en artistas visuales, pintores y diseñadores digitales poco conocidos, adecuados para un generador de imágenes basado en inteligencia artificial. Los prompts deben resultar en imágenes con estilo visual coherente en todas las diapositivas.
+2.-Desarrolla un guión de voz de 300 caracteres para cada diapositiva. El contenido debe ser humorístico, sarcástico e irónico, científicamente preciso,  claro y efectivo, políticamente correcto y sin subestimar la inteligencia de la audiencia. No uses analogías.
 
-3.-Desarrolla un guión de voz de 300 caracteres para cada diapositiva. El contenido debe ser humorístico, sarcástico e irónico, científicamente preciso, políticamente correcto y sin subestimar la inteligencia de la audiencia. No uses analogías.
+2.-Proporciona dos prompts por cada diapositiva de imágenes inspirados en artistas visuales, y diseñadores digitales muy atractivos y poco conocidos, adecuados para un generador de imágenes basado en inteligencia artificial. Los prompts deben resultar en imágenes con estilo visual coherente en todas las diapositivas y deben estar basados en el mismo estilo de arte.
 
-4.-Sugiere dos piezas de música clásica poco conocidas que se encuentren en el public domain music list en total, que se ajusten al tema y puedan ser utilizadas como música de fondo en el video. No son 2 piezas para cada diapositiva, sino 2 piezas en total.
+4.- Para la presentación completa (no para cada una de las diapositivas) Sugiere dos piezas de música clásica poco conocidas que se encuentren en el public domain music list en total, que se ajusten al tema y puedan ser utilizadas como música de fondo en el video. No son 2 piezas para cada diapositiva, sino 2 piezas en total.
 
 Sigue estas pautas al crear el contenido del video de divulgación científica en TikTok, prestando atención a la claridad, precisión y coherencia en todos los aspectos.

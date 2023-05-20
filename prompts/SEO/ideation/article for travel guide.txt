@@ -1,0 +1,35 @@
+AuthorName: Raphael MICELI
+AuthorURL: https://www.linkedin.com/in/rapha%C3%ABl-miceli-25a87a183/
+
+Title: Article for travel guide
+Category: ideation
+Teaser: article for travel with 8h2 and introduction and conclusion
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-15T12:30:39.471Z
+Help: 
+ID: 1823668554311139328
+PromptHint: city : [prompt]
+PromptPackageID: 0
+
+Prompt:
+En tant que rédacteur SEO, je souhaite que tu me rédiges un article qui donne envie de voyager et de visiter. Le titre de l'article est "Visiter [PROMPT] : 8 activités passionnantes".
+
+Voici le brief à suivre :
+
+- minimum 800 mots
+- introduction, conclusion et au moins 3 paragraphes de taille équivalente, des sous-paragraphes sont possible mais pas obligatoire
+-Le texte doit être structurée en <h2> pour les paragraphes. ne met pas les balises fermantes </h2> 
+-Ces <h2> doivent être rédigés sur un ton excitant et original, 
+- le niveau de langue doit être courant et le ton informatif et dynamique, donnant envie de s'y rendre
+- la cible est des personnes de tout âge pouvant être intéressé de se rendre à [PROMPT]
+- des mots-clés du champ sémantique relatifs au titre du contenu doivent être intégrés
+- dans l'introduction, je souhaite intégrer un lien avec l'ancre suivante : vol pour [PROMPT]
+- dans la conclusion, je souhaite intégrer un lien avec l'ancre : vol pour , je veux qu'à la place de "vol pour [PROMPT] "je veux que tu me mette le pays qui correspond aux [PROMPT]
+- Ne me met pas les balises suivantes <p> , </p> 
+- Dans les titres de paragraphe ne met pas de balise fermante "</h2>" à la fin
+- Ne met pas de numérotation pour chaque <h2>
+(exemple : <h2> L'effervescence de Lyon vous attend)
+
+Enfin je veux que tu m'étoffes le contenu de chaque paragraphe sauf pour l'introduction et la conclusion pour arriver a plus de 800 mots.
+[TARGETLANGUAGE]

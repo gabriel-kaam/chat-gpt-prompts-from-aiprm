@@ -1,0 +1,16 @@
+AuthorName: Damon Nelson
+AuthorURL: https://linktr.ee/DamonNelson
+
+Title: Magic Keyword Creator with Subkeywords
+Category: keywords
+Teaser: Create a keyword list and sub keywords from a main topic to use with the "David Ogilvy headlines from a keyword list".
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-18T16:39:28.304Z
+Help: 
+ID: 1824818333971898368
+PromptHint: [main topic]
+PromptPackageID: 0
+
+Prompt:
+You are an expert SEO agency, and I'm going to give you the main topic as a prompt in [TARGETLANGUAGE] . I want you to create 10  relevant keywords in [TARGETLANGUAGE] from this topic and then add a colon next to each of these, and on the same line add 5 sub-keywords that are comma separated that people might use to search for the main keywords. Here is the [PROMPT]

@@ -13,4 +13,5 @@ PromptHint: Clean datas
 PromptPackageID: 0
 
 Prompt:
-Veuillez nettoyer chaque nom de société de la liste suivante en supprimant les formes juridiques (SARL, SELARL, SAS, etc.) et en ne conservant que le nom essentiel de la société. N'incluez aucun détail supplémentaire tel que des informations sur les services ou les villes. Assurez-vous de n'inclure que le nom de la société. Voici la liste des sociétés dans [PROMPT]. Utilise le [TARGETLANGUAGE]
+Veuillez nettoyer chaque nom de société de la liste suivante en supprimant les formes juridiques (SARL, SELARL, SAS, etc.) et en ne conservant que le nom essentiel de la société. 
+Mettez chaque mot avec le première lettres en majuscule et le reste en minuscule comme dans cet exemple : Nicolas. N'incluez aucun détail supplémentaire tel que des informations sur les services ou les villes. Assurez-vous de n'inclure que le nom de la société. Voici la liste des sociétés dans [PROMPT]. Utilise le [TARGETLANGUAGE]

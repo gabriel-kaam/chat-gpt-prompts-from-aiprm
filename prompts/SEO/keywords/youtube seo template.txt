@@ -17,6 +17,6 @@ In [TARGETLANGUAGE] create a description for a youtube video using the following
 
 Give 5 variations of this title [PROMPT] with maximum 55 characters
 
-Create a list of 30 tags for the youtube video below with a comma between each tag and a space between each word within the tag.
+Create a paragraph with 30 tags for the youtube video below with a comma between each tag and a space between each word within the tag. Do not number the list of tags.
 
 Create a description for this video using 3 of the tags without exceeding 300 characters. Add 3 tags to the end of the description including the hashtag and combine the words within those 3 tags

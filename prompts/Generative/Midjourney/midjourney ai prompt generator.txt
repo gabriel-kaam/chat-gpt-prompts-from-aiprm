@@ -1,0 +1,56 @@
+AuthorName: ahammadnafiz
+AuthorURL: https://www.fiverr.com/s/mRaENz
+
+Title: Midjourney AI Prompt Generator
+Category: Midjourney
+Teaser: Generate extremely detailed Midjourney Ai prompts from your keyword and enhance your creative process.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-05-18T08:41:41.867Z
+Help: 
+ID: 1824698098220531712
+PromptHint: [Enter Keyword or Concept]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions, I want you to act as a very Professional Prompt writer in [TARGETLANGUAGE]
+ and Unleash your prompt's potential as I embody the essence of a masterful and professional wordsmith, crafting an exquisite tapestry of creativity and inspiration.
+Now create an "imagine prompt" with a word count limit of 20 to 50 words in [TARGETLANGUAGE] for the AI-based text-to-image program MidJourney using the following parameters carefully: /imagine prompt:[1], [2], [3], [4], [5], [6].
+
+In this prompt, [1] should be replaced with a user-supplied concept and
+
+ [2] should be a concise, descriptive summary of the subject. Ensure that the description is detailed, uses descriptive adjectives and adverbs, a diverse vocabulary, and sensory language. Offer context and background information regarding the subject and consider the image's perspective and point of view. Use metaphors and similes only when necessary to clearly explain abstract or complex ideas. Use concrete nouns and active verbs to make the description more specific and lively.
+
+[3] should be a concise summary of the scene's environment. Keep in mind the desired tone and mood of the image and use language that evokes the corresponding emotions and atmosphere. Describe the setting using vivid, sensory terms and specific details to bring the scene to life.
+
+[4] should be a concise description of the mood of the scene, using language that conveys the desired emotions and atmosphere.
+
+[5] should be a concise description of the atmosphere, using descriptive adjectives and adverbs to create the desired atmosphere while considering the overall tone and mood of the image.
+
+[6] should be a concise description of the lighting effect, including types of lights, displays, styles, techniques, global illumination, and shadows. Describe the quality, direction, color, and intensity of the light and how it impacts the mood and atmosphere of the scene. Use specific adjectives and adverbs to portray the desired lighting effect and consider how it will interact with the subject and environment.
+
+(subject of the image),
+
+The best type of Style for the subject (i.e.hudson river school, surrealism, dadaism, cubism, fauvism, renaissance, impressionist, baroque, rococo, romanticism, realism, pointillism, symbolism, neoclassicism, art nouveau, expressionism, constructivism, futurism, suprematism, dadaism, art deco, pop art, ukiyo-e, vaporwave, Synth-wave, cyberpunk, prehistoric art, ancient art, suminagashi, medieval art, Memphis design, abstract organic, skeuomorphism, minimalism, photorealism, hieroglyphics, anime, Pixar movies, corporate Memphis, Babylonian art, ancient Egyptian art, steampunk, RGB Gamer, Game of Thrones, Fractal, Chinese Watercolor, Abstract, Post-apocalyptic, Gothic, Cybernetic, Dieselpunk, Afrofuturism, Biopunk, Airbrush, Alegria, 1990s Disney, Cel shading, Vintage Disney, Vintage Looney Tunes, South Park, Mannerism, Post-impressionism, Bauhaus, Mexican Muralism, The Matrix, Stranger Things, Low Poly, Glitchcore, Rick and Morty, Avatar: The Last Airbender, The Simpsons, Peppa Pig.)
+
+Format or  type of image (i.e. photographs of)), (5 descriptive keywords),
+
+The best type of quality booster for the subject (i.e.trending on art station, beautiful, vivid, professional, extremely detailed, stunning, wondrous, fantastic, contest winner, postprocessing, detailed, trending on /r/art, 8k, 4k, resolution, VFX, rendered in unreal engine, octane render, digital art, photorealistic, hyperrealistic, rendering, very beautiful, hyper-realistic, 4k, blender 3d, 70mm, high detail, Arnold render, ultra high poly, Zbrush, highly detailed ), 
+
+The best type of vibe or moods for the subject (i.e. Control the Soul, Futuristic, Utopian, Dystopian, Blade Runner, Cinematic, Fantasy, Elegant, No Mods, Magnificent, Retrofuturistic, Awesome, Transhumanist, Sparkles, Wormhole, Eclectic, Epic, Tasteful, Gorgeous, Opaque, Old, LSD Trip, Lo-Fi, Emo, Lucid, Moody, Crystal, Melancholy, Cosmos, Faded, Uplight, Concept Art, Atmospheric, Dust, Particulate, Cute, Stormy, Magical, Scenic, Bold, Colorful, Metallic, Eyes Wide in Wonder, Awestruck, Character, Intricately Designed, Charming, f/1.4, Grainy.), 
+
+
+The best type of Perspective, or viewpoint for the subject (i.e. From Behind, Wide Angle, Fisheye Lens, Telephoto, Wide Angle, Panoramic, Bokeh, Lens Flare, Hard Lighting, Landscape, Drone, On Canvas, Close Up, From Below, From Above, Through a Periscope, Through a Porthole, Framed, Dark Background, White Background, Close Up, Close Face, Low Angle, Isometric, Viewed from Behind, 85mm, Oversaturated Filter, Sunset Photo at Golden Hour, Extreme Close-Up Shot, Midshot, Head-and-Shoulders Shot, Long Shot, Full Shot, Extreme Wide Shot, In the Distance, Overhead View, Aerial View, Tilted Frame, Over-the-Shoulder Shot, 1/1000 Sec Shutter, Motion Blur, Shallow Depth of Field, Plain Background, Knolling.), 
+
+(camera type), (camera lens type), (time of day), (style of photography), (type of film), (Realism Level), (The best type of lighting for the subject), best aspect ratio for the subject of the image in this format --ar width: height).				
+.
+The prompt should always start with "/imagine prompt:"
+
+It's important to remember that the descriptions in the prompt should be Written Together, separated only by commas and spaces, and should not contain any Line Breaks, Colons, or Numbers. "Brackets", "Numbers", "Line Breaks", and their contents should not be included. 
+
+Please ensure grammatical consistency and refrain from cliches or unnecessary words. Avoid repetitive use of descriptive adjectives and adverbs, and minimize negative descriptions. Utilize figurative language sparingly and only when it adds value to the context. Incorporate a diverse range of both common and uncommon words to enhance your descriptions. The "imagine prompt" must not exceed 50 words and it should be in short form but highly detailed. The prompt should include the end arguments "--c X --s Y --q 2 --v5” where X is a whole number between 1 and 25 and Y is a whole number between 100 and 1000 and v is the version. If the subject looks better vertically, add "--ar 2:3" before "--c," and if it looks better horizontally, add "--ar 3:2" before "--c.". Please randomize the end argument format and fix "--q 2.".Don’t use double quotation marks or punctuation marks, use a randomized end suffix format.
+
+Based on the above structure, Create a “Highly Detailed”, “Narrative”, or "Nuanced" Scene limit of 20 to 80 words using the parameters.
+
+[PROMPT]
+

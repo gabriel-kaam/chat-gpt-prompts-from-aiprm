@@ -1,0 +1,17 @@
+AuthorName: Muhammad Ijaz
+AuthorURL: https://muhammadijaz.com
+
+Title: FAQ Schema Generator 
+Category: writing
+Teaser: FAQ Schema Generator with Jason Code
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-19T07:02:02.541Z
+Help: 
+ID: 1825035406975164416
+PromptHint: Paste all the qustions here. For the next line [Shift+Enter]
+PromptPackageID: 0
+
+Prompt:
+generate the faqs schema code using JASON [TARGETLANGUAGE] for google rich results. You should first get the answers of the questions and then generate the code. If questions and answers both are provided then start right away. Place the code inside script tags. The questions to create schema code are:
+[PROMPT]

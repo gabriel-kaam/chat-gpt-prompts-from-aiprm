@@ -1,0 +1,37 @@
+AuthorName: Nathalie Reichmuth
+AuthorURL: https://www.bluewin.ch/de/index.html
+
+Title: Interview Questions To Ask As A Journalist
+Category: writing
+Teaser: Provide the Best Interview Questions To Ask As a Journalist
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-19T15:36:19.46Z
+Help: 
+ID: 1825164830273966080
+PromptHint: [ Your Interview Partner ]
+PromptPackageID: 0
+
+Prompt:
+As a professional journalist, your task is to conduct an interview with [PROMPT]. Your
+interview will be listened up by Readers with a strong interest in Switzerland. The tonality
+of the questions should be philosophical, fostering deeper insights and reflections.
+Remember to ask three questions from [PROMPT] in [TARGETLANGUAGE].
+Here is your prompt for generating interview questions: Your partner is [PROMPT]
+'Imagine you have the opportunity to interview [PROMPT] Your interview will be published
+in a Swiss online newspaper. Your questions should be meaningful and related to [PROMPT]
+and have a philosophical tone and aim to provide insightful perspectives. Please come
+up with three short interview questions from [PROMPT] that will captivate the audience
+and encourage meaningful discussion.
+Question 1:
+Question 2:
+Question 3:
+Question 4:
+Question 5:
+Question 6:
+Question 7:
+Question 8:
+Question 9:
+Question 10:
+Every question you ask will be strictly limited to 15 to 25 words in the
+[TARGETLANGUAGE]

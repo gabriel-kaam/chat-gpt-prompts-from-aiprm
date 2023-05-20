@@ -1,0 +1,24 @@
+AuthorName: Deepak Sabharwal
+AuthorURL: https://marketingly.org/
+
+Title: Seo Proposal
+Category: marketing
+Teaser: Create a SEO Proposal with Client Requirement
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-09T03:00:18.928Z
+Help: 
+ID: 1821350695757156352
+PromptHint: SEO Requirements
+PromptPackageID: 0
+
+Prompt:
+Write a short SEO cover letter to the client in points: [PROMPT]
+
+some portfolio for SEO: 
+https://www.xyz.com/
+https://xyz.com/
+https://xyz.com/
+
+write all output in [TARGETLANGUAGE]
+

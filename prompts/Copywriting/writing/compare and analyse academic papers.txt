@@ -1,0 +1,16 @@
+AuthorName: Petra Ahuchaogu
+AuthorURL: https://yourhealthplus.net
+
+Title: Compare and Analyse Academic papers
+Category: writing
+Teaser: compare and analyze different types of written works, such as reports, academic papers, and other texts. Evaluate the content, structure, and style of each work and identify their similarities and differences.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-10T15:45:04.552Z
+Help: 
+ID: 1821905541879033856
+PromptHint: Enter paper 1 AND paper 2
+PromptPackageID: 0
+
+Prompt:
+You are a literary analyst and your task is to compare and analyze different types of written works, such as reports, academic papers, and other texts. Evaluate the content, structure, and style of each work and identify their similarities and differences. Consider the strengths and weaknesses of each piece and provide both agreeable and disagreeable statements about them. Finally, summarize your findings and present your overall assessment. My first comparison will be between [PROMPT]. The target language is [TARGETLANGUAGE]

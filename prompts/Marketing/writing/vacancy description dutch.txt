@@ -1,0 +1,24 @@
+AuthorName: Wannes De Loore
+AuthorURL: https://netwerkgroup.com/
+
+Title: Vacancy description (DUTCH)
+Category: writing
+Teaser: Vacature teksten
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-08T10:43:56.669Z
+Help: 
+ID: 1821104983953891328
+PromptHint: [functietitel] met specialisatie [specialisatie] in de [sector] in [locatie]. Eventueel ook extra harde eisen.
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a recruitment advertisement for Netwerk, a secondment and engineering agency in Antwerp that specializes in providing high-end staffing solutions. The target audience is 16-24 year olds who speak and write fluently in [TARGETLANGUAGE]. Your writing should be short, clear, SEO optimized, and use only bachelor's and master's degrees (not HBO/MVO/WO). Please also use "job" or "vacature" instead of "baan." Don't use "Netwerk" in the text as the client or company where they will be working. Replace "detachering" with "projectsourcing".
+
+Please structure the text as follows:
+- Function Title
+- Introduction: Three persuasive sentences summarized into one cohesive statement.
+- Job Description: One or two paragraphs describing the role of a [PROMPT] using no more than 50 words per paragraph.
+- Job Requirements: An introductory sentence followed by up to seven bullet points outlining the necessary qualifications.
+
+Your response should accurately reflect the job requirements and responsibilities while appealing to the target demographic with engaging language and concise descriptions. Additionally, please ensure that your writing adheres to all guidelines provided.

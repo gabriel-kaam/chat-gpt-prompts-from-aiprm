@@ -1,0 +1,18 @@
+AuthorName: Sobhan Bera
+AuthorURL: https://github.com/sobhanbera
+
+Title: Learn about anything & and answer MCQs
+Category: Dall-E
+Teaser: Learn anything & answer to questions about the same!
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-05-05T14:22:14.736Z
+Help: 
+ID: 1820072757631913984
+PromptHint: [typescript, kotlin, blogging, web development, android development, and more...]
+PromptPackageID: 0
+
+Prompt:
+I want to learn everything about [PROMPT] break down the topic into multiple sub topics, explain each sub topic one-by-one in the most simplest form using examples and anecdotes
+
+Ask me questions both subjective and MCQ's to test my understanding. Once I submit my answer, identify the mistake and give feedback. Then again continue the same with the next sub topic in [TARGETLANGUAGE]

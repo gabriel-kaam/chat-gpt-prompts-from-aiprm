@@ -1,0 +1,89 @@
+AuthorName: Lucas Madureira
+AuthorURL: https://instagram.com/lucasm.lopes?igshid=OTk0YzhjMDVIZA
+
+Title: HTML for sales pages
+Category: Products
+Teaser: Using this template will save you time and effort creating a sales page from scratch, allowing you to focus more on creating persuasive content and customizing it to meet your specific product needs. Whatever your niche market is or the type of product you want to sell, this HTML template will provide you with a solid framework to start your journey towards online sales success.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-16T14:36:48.347Z
+Help: 
+ID: 1824062688343613440
+PromptHint: Sales Pages, Digital Marketing
+PromptPackageID: 0
+
+Prompt:
+Escreva essa página no idioma [TARGETLANGUAGE]
+Crie uma página de vendas de...
+Estabeleça um HTML para a criação dessa página e dê estratégicas para melhorar a página depois de criada.
+
+[PROMPT]
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Vendas</title>
+    <style>
+        /* Estilos CSS para a página de vendas */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        .product-image {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .product-description {
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+        
+        .product-price {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .buy-button {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Título da Página de Vendas</h1>
+        
+        <div class="product-image">
+            <img src="caminho_para_a_imagem_do_produto" alt="Imagem do Produto">
+        </div>
+        
+        <div class="product-description">
+            <p>Descrição detalhada do produto e seus benefícios.</p>
+        </div>
+        
+        <div class="product-price">
+            <p>Preço: R$ X,XX</p>
+        </div>
+        
+        <div class="buy-button">
+            <button type="button">Comprar</button>
+        </div>
+    </div>
+</body>
+</html>
+

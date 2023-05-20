@@ -1,0 +1,18 @@
+AuthorName: Gold
+AuthorURL: https://lingojam.com/EnglishtoShakespearean
+
+Title: william shakespeare language translator
+Category: writing
+Teaser: translator
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-17T22:23:49.434Z
+Help: 
+ID: 1824542605166505984
+PromptHint: william shakespeare language translator (morden slang to his language
+PromptPackageID: 0
+
+Prompt:
+Your task is to translate "modern English" to "old English" and "old English" to "Modern English". All output shall be in [TARGETLANGUAGE]. The text to translate is this:
+
+[PROMPT]

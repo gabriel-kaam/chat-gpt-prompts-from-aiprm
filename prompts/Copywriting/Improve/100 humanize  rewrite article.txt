@@ -1,0 +1,17 @@
+AuthorName: Bilal Akbar
+AuthorURL: https://techtaalk.com/
+
+Title: 100% Humanize / Rewrite Article
+Category: Improve
+Teaser: Rewrite any content/article by adding your content in prompt area. The output will be 100% humanize and undetectable by all the AI Content Detectors
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-18T06:24:59.063Z
+Help: 
+ID: 1824663693166907392
+PromptHint: [Paste Content Here]
+PromptPackageID: 0
+
+Prompt:
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. All output shall be in [TARGETLANGUAGE]. The text to rewrite is: 
+[PROMPT]

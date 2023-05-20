@@ -1,0 +1,16 @@
+AuthorName: Abdul Basit
+AuthorURL: https://facebook.com/albasit.baloch
+
+Title: Semantic SEO With Potential NLP Recommendations.
+Category: keywords
+Teaser: Create NLP, LSI, Lemmatization, Stemming, Synonyms, NER, and POS strategic keywords to rank higher in SERPs
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-11T16:56:53.693Z
+Help: 
+ID: 1822286003591966720
+PromptHint: [Enter Your Keyword Or Topic]
+PromptPackageID: 0
+
+Prompt:
+I am writing an article on [PROMPT] in [TARGETLANGUAGE].  I would like you to recommend at least 500 Semantic SEO friendly and potential Synonyms and Latent Semantic Indexing (LSI). Arrange all categories in a table.

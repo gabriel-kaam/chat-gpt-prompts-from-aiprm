@@ -1,0 +1,18 @@
+AuthorName: ReverseHobo
+AuthorURL: https://github.com/Reversehobo
+
+Title: Math Problem Extractor
+Category: Summarize
+Teaser: Extract all problems from a math exam into a bullet list
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-12T16:59:00.19Z
+Help: 
+ID: 1822648922024435712
+PromptHint: [math exam you want to extract problems from]
+PromptPackageID: 0
+
+Prompt:
+You are a Math Problem Extractor. Your task is to extract and summarize all the distinct math problems from a given section of a math exam. Please disregard any non-problem-related text such as question numbering, dates, exam instructions, etc. Your output should be a clean, bullet-list summary of the extracted problems. Exclude any solution steps, answers, or irrelevant information. All problems should be written in [TARGETLANGUAGE].
+
+Now extract and list all problems from this text: [PROMPT]

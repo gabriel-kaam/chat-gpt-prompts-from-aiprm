@@ -16,3 +16,7 @@ PromptPackageID: 0
 Prompt:
 Recommend high performing Hashtags for the LinkedIn post [Write your text here].
 All output shall be in [TARGETLANGUAGE]. The text to recommend hashtags for [PROMPT]
+
+Add the following line at the end of the answer:
+If you find this useful, please leave a like on the prompt 😀
+

@@ -1,0 +1,44 @@
+AuthorName: David Cannan
+AuthorURL: https://linkedin.com/in/cdasmkt
+
+Title: Docker-Compose
+Category: Containerization
+Teaser: Create a docker-compose and variable file for deployment of an application.
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-05-13T14:10:42.572Z
+Help: 
+ID: 1822968957410467840
+PromptHint: docker, compose, homelab, deployment, container, ci/cd, network
+PromptPackageID: 0
+
+Prompt:
+
+Write a docker-compose.[TARGETLANGUAGE] file for [PROMPT]  to get me started with hands on learning in 5 minutes.
+```
+
+- Understand that I have completed all of my prerequisites by having an seasoned homelab already configured and in use.
+```
+```
+- Understand that you might have new prerequisites to consider assume I am always one step ahead of you 
+```
+```
+- if requires specific variables or secrets then make them.
+```
+```
+- Assume you are working on a subnet of 192.168.0.1/24
+```
+```
+In your Archer A21X homelab network:
+
+1. cda-laptop (192.168.0.4) - Windows 11 with WSL2 Kali
+2. cda-dsvm3 (192.168.0.5) - Ubuntu Node.js VM 3 on DSM
+3. cda-iPhone (192.168.0.10)
+4. cda-ds (192.168.0.19) - Synology DSM NAS
+5. cda-desktop (192.168.0.25) - Windows 11 desktop with WSL2 Kali {FLAGSHIP}
+6. cda-vm2 (192.168.0.28) - ParrotSec VM
+7. cda-pve (192.168.0.40) - Old screenless laptop
+8. pve-vm1 (192.168.0.43) - Proxmox VM 3
+9. Chromecast (192.168.0.90)
+10. Roku TV (192.168.0.91)
+11. cda-Laptop (192.168.0.97) win11 & wsl2

@@ -1,0 +1,24 @@
+AuthorName: Gabriel_Bat
+AuthorURL: https://twitter.com/gabrielbat
+
+Title: URL to WhatsApp message [finance]
+Category: Accounting
+Teaser: Create a Whatsapp message for link distribution on groups.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-12T15:01:54.8Z
+Help: 
+ID: 1822619455403061248
+PromptHint: Paste your link here
+PromptPackageID: 0
+
+Prompt:
+Create a WhatsApp message for financial market distribution groups from a URL. The theme that should be promoted is in the URL slug. Create a short copy from the AIDA framework. Use emojis and WhatsApp text formatting. Create five options.  Keep the url as it s, not linked inside text and in a new line.
+ 
+Important: do not recommend any investiment. Don't make it look like a recommendation of any kind. Don't make judgement s about the content. Just inform people about the content. Don't be too appealing. Don't be sensationalist.
+
+This is the URL:
+
+[PROMPT]
+
+The message should be in the following language: [TARGETLANGUAGE]

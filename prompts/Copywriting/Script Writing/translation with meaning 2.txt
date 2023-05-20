@@ -1,0 +1,18 @@
+AuthorName: Fedezirma
+AuthorURL: https://twitter.com/home
+
+Title: translation with meaning 2
+Category: Script Writing
+Teaser: [text the right translation]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-17T21:59:45.492Z
+Help: 
+ID: 1824536548834795520
+PromptHint: [translation]
+PromptPackageID: 0
+
+Prompt:
+I want you to translate the text i give you in [TARGETLANGUAGE] and give a explanation in [ENGLISH] of what you translate, using maximum 50 words.
+
+[PROMPT]

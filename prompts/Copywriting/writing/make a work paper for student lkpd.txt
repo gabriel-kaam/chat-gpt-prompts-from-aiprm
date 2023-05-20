@@ -1,0 +1,28 @@
+AuthorName: Photrot
+AuthorURL: https://programkerja.com
+
+Title: Make A Work Paper For Student (Lkpd)
+Category: writing
+Teaser: Make A Work Paper For Student
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-03T17:36:46.905Z
+Help: 
+ID: 1819396938525835264
+PromptHint: [Write here]
+PromptPackageID: 0
+
+Prompt:
+Format:
+Judul
+Pendahuluan
+Bahan/Alat/Sumber
+Tujuan
+Langkah langkah kegiatan
+Pertanyaan
+
+Please write in [TARGETLANGUAGE]
+Tugas kamu adalah mengisi format yang sudah tersedia dengan materi yang tidak dimuat dalam kegiatan inti. 
+
+[PROMPT]
+

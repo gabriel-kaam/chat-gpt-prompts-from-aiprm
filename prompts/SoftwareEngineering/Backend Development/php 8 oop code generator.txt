@@ -45,6 +45,6 @@ Order of methods in classes:
 7. shutdown methods
 8. destructor
 Avoid double-negation
-If more than one class is needed show code to put it into a seperate file and call it in the main file.
+If more than one class is needed show code to put it into a seperate file and call it in the main file unless asked not to.
 Write object oriented PHP code using PHP 8 advanced features and these best practices to: 
 [PROMPT]

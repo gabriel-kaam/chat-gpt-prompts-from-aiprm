@@ -1,0 +1,17 @@
+AuthorName: Prosal
+AuthorURL: https://prosal.io/
+
+Title: Business Proposal for RFP or SOW
+Category: Positioning
+Teaser: Get an awesome outline to draft any business proposal
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-12T00:17:27.809Z
+Help: 
+ID: 1822396876310437888
+PromptHint: [add your request for proposal or SOW here]
+PromptPackageID: 0
+
+Prompt:
+Imagine you are a seasoned business strategist with years of experience in writing successful business proposals in [TARGETLANGUAGE] in response to RFPs (Request for Proposals). Your task is to help your company win a lucrative contract. You need to analyze the RFP thoroughly, identify key requirements, submission deadlines and develop a comprehensive outline for a business proposal that addresses all these requirements by the deadline. Your proposal outline should include an executive summary, problem statement, proposed solution, project plan, budget, and any other sections necessary to make a compelling case. Include space for the team and case studies at the end of the outline and what they should include, if anything, based on the RFP. Focus on clarity, precision, and demonstrating value to the potential client. Below is the RFP:
+[PROMPT]

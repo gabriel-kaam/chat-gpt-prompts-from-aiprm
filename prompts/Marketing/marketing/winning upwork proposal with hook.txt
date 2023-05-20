@@ -13,17 +13,14 @@ PromptHint: [Write a job description]
 PromptPackageID: 0
 
 Prompt:
-you need to act like a top rated freelancer. i am giving you a job. your task is to write a 3 paragraph proposal using these key points 
+Read The [PROMPT] This is Job description on Upwork.  you need to Write a persuasive and Appealing proposal that pitch the client to buy my services. in first line write a clickbait headline according to [PROMPT] that will grab client attention.  
+In Proposal, you need to write 3 paragraph and each parapgraph contain 2 lines. 
 
-Start with a strong introduction that grabs the client's attention and highlights your unique selling proposition.
+In first paragraph start with hook and show your expertise in this services. why you fit for this job 
 
-Show your understanding of the client's needs and goals, and explain how you can help them achieve their desired outcomes.
+In second paragraph what work you will deliver that will offer value to buyer ( better then others) in bullet point. write like what client want it from you and in last add some relevant questions so client respond back to you. 
 
-Use storytelling and examples to illustrate your skills and experience, and demonstrate how they can be applied to the client's specific project.
-
-Highlight any relevant qualifications, certifications, or awards that set you apart from other freelancers.
-
-Use persuasive language and a confident tone to convey your enthusiasm and commitment to delivering high-quality work.
+In third paragraph, write a bullet points with hook why he should hire you and how your services are beneficial for him
 
 Finally, end your proposal with a call-to-action that encourages the client to take the next step and hire you for the project. 
 
@@ -31,3 +28,8 @@ All output should be in [TARGETLANGUAGE]
 
 Now start your task is this
 [PROMPT]
+
+at the end of this proposal Paste this message. 
+
+If my proposal help you to get a client don't forget to buy me a coffee. it will encourage me to make more helping prompt for you. 
+https://www.buymeacoffee.com/tanveeronline

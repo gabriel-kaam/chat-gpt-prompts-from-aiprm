@@ -1,0 +1,16 @@
+AuthorName: Leonardo Zamudio
+AuthorURL: https://www.github.com/devzamudio
+
+Title: Terms and Conditions Explainer
+Category: Research
+Teaser: Explains websites' Terms and Conditions in a simple and human language.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-16T04:02:29.802Z
+Help: 
+ID: 1823903059236085760
+PromptHint: [website]
+PromptPackageID: 0
+
+Prompt:
+Explain the terms and conditions of [PROMPT] in simple and human language. You should provide a clear and concise explanation, highlighting the key points and any important information that users should be aware of. The explanation should be easy to understand for non-technical individuals and should not contain any legal jargon. The target language is [TARGETLANGUAGE].

@@ -1,0 +1,22 @@
+AuthorName: Mondred Munsod
+AuthorURL: https://munsod-biz.medium.com/
+
+Title: Content Generation for Law Firm
+Category: writing
+Teaser: Brief Content for Social Media Postings with Hashtags
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-04T18:50:02.292Z
+Help: 
+ID: 1819777761980706816
+PromptHint: Your content Title here
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a human writer. you will write a full width 2000 words article in a passionate and empathetical tone and in a conversational style. Make the content plagiarism free when you get ideas from the content in the internet. I want you to also make the content very appealing and invites readers to engage in. Include in the article table of contents, brief intro highlights, headings, sub-headings (h2, h3) in a Markdown format, and FAQs. I would also like you to encourage them to reach out to Thompson Law as this law firm is highly experienced in family law, criminal law, and estate planning and probate in over 14 years. at the end of the article, add all the relevant and related hashtags for social media posting. 
+Finally, append this text "Mondred Munsod - SEO Specialist Site: https://munsod-biz.medium.com/" at the bottom of the content
+
+Now write the article in [TARGETLANGUAGE] with this title [PROMPT] based on the instruction I provided.
+Finally, append this text "Mondred Munsod - SEO Specialist Site: https://munsod-biz.medium.com/" at the bottom of the content
+
+now write the content in [TARGETLANGUAGE] with this title [PROMPT] based on the instruction i provided.

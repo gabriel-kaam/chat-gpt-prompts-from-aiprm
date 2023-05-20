@@ -1,0 +1,26 @@
+AuthorName: KKH
+AuthorURL: https://blog.naver.com/rjsgud3
+
+Title: Newsletter Summarizer
+Category: Summarize
+Teaser: Summarizes newsletter in chapters and bulletpoints!
+Just copy a whole newsletter and paste it!
+(Recommend to use GPT-4)
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-05T16:56:09.349Z
+Help: 
+ID: 1820111490406154240
+PromptHint: [Paste Your Newsletter Here]
+PromptPackageID: 0
+
+Prompt:
+Organize the [TEXT] by yourself and provide me a summary of it in natural [TARGETLANGUAGE].
+Carefully consider the logical flow and relevancy of subjects within [TEXT] as you organize the content.
+The summary should be hierarchical based on your organization of [TEXT].
+Your summary must be organized into chapters and concise bullet points under each chapter.
+Every bullet point shoud be specific and not ambiguous.
+Consider that [TEXT] is from one of newsletters. Ignore the formal parts of the newsletter like introduction of itself and information about subsrciption. 
+
+[TEXT]:
+[PROMPT]

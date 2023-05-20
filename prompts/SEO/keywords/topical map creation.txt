@@ -1,0 +1,22 @@
+AuthorName: Nir Levi
+AuthorURL: https://godrank.com
+
+Title: Topical Map Creation
+Category: keywords
+Teaser: Create a Topical Map For a New Blog
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-10T09:10:18.954Z
+Help: 
+ID: 1821806197280595968
+PromptHint: Enter your MAIN keyword
+PromptPackageID: 0
+
+Prompt:
+I want to create a comprehensive topical map in [TARGETLANGUAGE] for [KEYWORD] that covers all relevant subtopics. Please create a mind map with [PROMPT] at the center and at least 10 subcategories. Each subcategory should have at least 5 related keywords nested underneath it. The keywords should be grouped under relevant subcategories and ordered in a logical sequence.
+
+
+I want to create a topical map for [PROMPT] that includes both high-level and granular subtopics. Please create a mind map with [PROMPT] at the center and at least 10 subcategories. Each subcategory should have at least 5 related keywords nested underneath it, with some keywords being more general and others more specific.
+
+
+I'm creating a resource center on [PROMPT] and need a comprehensive topical map to guide the content creation process. Please create a table with four tiers (Tier 1, Tier 2, Tier 3, Tier 4) and fill it with relevant keywords related to [PROMPT]. The keywords should be nested under more general keywords, and each keyword should only be used once.

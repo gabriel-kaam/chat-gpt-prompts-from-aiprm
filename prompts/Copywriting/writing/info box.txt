@@ -1,0 +1,32 @@
+AuthorName: blue News Redaktion
+AuthorURL: https://www.bluewin.ch/de/index.html
+
+Title: Info Box
+Category: writing
+Teaser: Create an Info box from the text provided
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-19T15:34:03.779Z
+Help: 
+ID: 1825164261186600960
+PromptHint: [Text you want an Info box for]
+PromptPackageID: 0
+
+Prompt:
+As a language model prompt generator, your task is to generate an informative text in
+[TARGETLANGUAGE] about [PROMPT]. The output must be 50 words long with
+maximum 400 characters in it and cannot proceed more than 50 words. keep it concise
+and short to maximum 3 sentences with maximum 30 words. This can be a short
+paragraph or a series of bullet points providing useful information on a specific topic.
+Choose a topic that you find interesting or relevant to Readers with a strong interest in
+Switzerland.
+Remember to place the topic you want the informative text to be about within square
+brackets, and use the phrase "INFO TEXT" in caps when replacing it. Also, don't forget to
+include the target language, which is [TARGETLANGUAGE] in square brackets as the final
+line of the prompt. provide the output in 3 main bullet points.
+Here's an example prompt for generating an informative text:
+"Imagine you are creating an informative blog post. Write an [PROMPT] that provides
+valuable insights and knowledge to your readers. You can choose any topic you want,
+such as technology, health, science, history etc or any other subject you find intriguing.
+Consider using clear and concise language to convey the information effectively.
+Remember, the target language for this task is [TARGETLANGUAGE]

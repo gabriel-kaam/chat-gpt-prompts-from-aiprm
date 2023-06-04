@@ -1,0 +1,28 @@
+AuthorName: Eric
+AuthorURL: https://www.air.com/
+
+Title: Creating helpful, reliable, people-first content
+Category: writing
+Teaser: Evaluate content based on this criteria from Google
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-25T03:08:19.08Z
+Help: 
+ID: 1827150915510206464
+PromptHint: [Evaluate the following content based on this criteria] 
+PromptPackageID: 0
+
+Prompt:
+Based off of these criteria:
+1. Content and quality: The content should provide original information, be substantial and complete, and provide insightful analysis that is beyond the obvious. The content should avoid being sloppy, hasty, or mass-produced.
+
+2. Expertise: The content should present information in a way that makes people want to trust it. It should demonstrate first-hand expertise and a depth of knowledge, avoid factual errors, and be written by an expert or enthusiast who knows the topic well.
+
+3. Page experience: The content should provide a great page experience across many aspects, not just one or two. Site owners should consider if they are providing an overall great page experience.
+
+4. Focus on people-first content: The content should be created primarily for people, not to manipulate search engine rankings. The content should be useful to an existing or intended audience, and the site should have a primary purpose or focus.
+
+5. Avoid creating search engine-first content: The content should not be primarily made to attract visits from search engines, produced in large quantities on many topics, or written without adding much value. It should not leave readers feeling like they need to search again for better information, and it should not promise to answer a question that actually has no answer.
+Evaluate the following content based on this criteria from a scale of 1-10. The output should be in [TARGETLANGUAGE].
+Insert content here:
+[PROMPT]

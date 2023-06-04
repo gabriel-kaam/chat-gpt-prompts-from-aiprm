@@ -1,0 +1,16 @@
+AuthorName: masocampus
+AuthorURL: http://masocampus.com
+
+Title: masocampus P001 Best summary for meta desc
+Category: writing
+Teaser: Create the best summary for my content
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-23T04:23:38.168Z
+Help: 
+ID: 1826445094207885312
+PromptHint: [Text that you want a meta description for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]

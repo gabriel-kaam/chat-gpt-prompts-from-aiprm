@@ -1,0 +1,26 @@
+AuthorName: Bell Printers
+AuthorURL: https://bellprinters.com/
+
+Title: SEO guide to Bell
+Category: writing
+Teaser: SEO guide to Bell
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-27T06:35:51.487Z
+Help: 
+ID: 1827927920421900288
+PromptHint: Enter the Target Keyword
+PromptPackageID: 0
+
+Prompt:
+Your Task is to provide the SEO content. input and Output should be in [TARGETLANGUAGE]. 
+[SEO title] which is less than 70 characters, also suggest a [Slug name] which should same as title which must in 70 characters and [Meta Description] which should be 155 Characters and to write a  corresponding short content with in 150 words. 
+Provide the [Focusing keyword] which should be same and match the title.
+Provide the [File name] which should be same as slug name but don't suggest the file format
+Provide the one line content about [Work] the title which must be in 60 characters 
+[About] The short content should be a informative and creative also it must urge the readers to take buying decision. please don't give repetitive content, each time it should be a unique one.
+along side you have to suggest me the number of [View] the views should be in 10000 to 1000000 the suggested number never be a whole number. 
+Also suggest a [Appreciation], the appreciation should be in 5567 to 500000 the suggested number never be a whole number.
+
+Present the all heading in bold & 15 character size and it should be in the above order
+[PROMPT]

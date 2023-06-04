@@ -1,0 +1,19 @@
+AuthorName: Vishal Thakur
+AuthorURL: https://unknownwebeees.blogspot.com/
+
+Title: Articles with 100% Perfect Readabilty
+Category: writing
+Teaser: Create the best article with perfect readability and optimize through the rank Math.
+also generate meta tags for articles
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-24T06:07:36.62Z
+Help: 
+ID: 1826833648037654528
+PromptHint: [text that you want a meta description for]
+PromptPackageID: 0
+
+Prompt:
+Your task is to generate articles I give you in  words. All output shall be in [TARGETLANGUAGE]. The text to articles is this:
+
+[PROMPT]

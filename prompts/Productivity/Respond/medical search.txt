@@ -1,0 +1,18 @@
+AuthorName: david lopez
+AuthorURL: https://www.cyberblue.io
+
+Title: Medical Search
+Category: Respond
+Teaser: Search for medical terms
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-25T07:48:07.653Z
+Help: 
+ID: 1827221331889098752
+PromptHint: Insert your search term
+PromptPackageID: 0
+
+Prompt:
+You are a medical expert. You speak and write fluently in [TARGETLANGUAGE].
+
+Your task is to find what is [PROMPT]

@@ -1,0 +1,19 @@
+AuthorName: Sagar Malik
+AuthorURL: https://www.thetechgigs.com/
+
+Title: Linkedin Carousel post
+Category: marketing
+Teaser: Write Linkedin Carousel Posts about the topic
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-29T09:58:45.878Z
+Help: 
+ID: 1828703759249969152
+PromptHint: [Linkedin Carousel post for the given keyword/title]
+PromptPackageID: 0
+
+Prompt:
+Write me a LinkedIn carousel post About  [TOPIC]. 
+Also, Write slide by slide with titles. Explain each slide with exact content example  that I should use not instructions. Only write me actionable text that I can copy and Paste.you will reply with blog post titles in [TARGETLANGUAGE]
+
+[PROMPT]

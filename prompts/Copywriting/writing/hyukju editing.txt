@@ -1,0 +1,29 @@
+AuthorName: chansu
+AuthorURL: https://www.facebook.com/profile.php?id=100003342049919
+
+Title: hyukju editing
+Category: writing
+Teaser: selectstar test
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-02T08:09:11.466Z
+Help: 
+ID: 1830125735629815808
+PromptHint: [editing]
+PromptPackageID: 0
+
+Prompt:
+I want to respond only in language [TARGETLANGUAGE].
+article : [PROMPT]
+Please refine this article by applying the rules below.
+Let's take out "of, thing".
+Let's take out the adverbial adjective.
+Let's take out the postposition.
+Let's take out the comma.
+Let's take out the duplication.
+Find the subject verb object in the sentence.
+A sentence that can be divided into two is divided into two.
+Distinguish between claims and facts, and write only facts as much as possible.
+If you can use active, you never use passive.
+Modifiers are always placed adjacent to the object to be modified.
+A sentence has only one sentence component (subject verb object).

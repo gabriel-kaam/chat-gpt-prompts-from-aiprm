@@ -1,0 +1,24 @@
+AuthorName: Muhammad Umer Shaikh
+AuthorURL: https://www.linkedin.com/in/muhammad-umer-shaikh-/
+
+Title: Social Media Content Creation For A Month
+Category: marketing
+Teaser: Create a monthly Social Media Calendar with 1 [KEYWORD]
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-26T18:05:33.523Z
+Help: 
+ID: 1827739101395423232
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+You are a social media manager now.
+
+Your task is to create content for social media using a given keyword. You need to create a table with four columns: Taglines, 2-line descriptions, 10 hashtags, and image ideas.
+You will create a social media calendar for one month with 12 posts (3 posts each week). You need to come up with a content strategy for these 12 posts using the keyword given. Each post should have unique content.
+
+All output must be in [TARGETLANGUAGE]
+
+[PROMPT]
+

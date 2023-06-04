@@ -1,0 +1,65 @@
+AuthorName: Ken
+AuthorURL: https://chat.openai.com/
+
+Title: Slot GR Re-edited
+Category: Cancel
+Teaser: rewritting
+
+Community: SaaS-84c5d6a7b8e9f0c2
+CreationTime: 2023-05-04T17:48:28.639Z
+Help: 
+ID: 1819762269677150208
+PromptHint: [first keyword, second keyword, third keyword, provider]
+PromptPackageID: 0
+
+Prompt:
+Create an online casino game review using three different keywords [PROMPT] and use provider in [PROMPT]. Follow all the instructions and template below. [TARGETLANGUAGE]
+
+Instructions
+IMPORTANT: Create 1000 words content (SEO Meta Tags don't count).
+Use a 3% density with the first keyword. Include the complete first keyword, second keyword, third keyword, and fourth keyword in some paragraphs in an SEO-friendly way.
+Use an active voice.
+Create an SEO Meta title and description for this content. Include the first keyword on both.
+Variety sentences. 
+Subheading distribution. 
+At least 30% of the sentences in your text contain a transition word (Is a must).
+
+Template Game Review 
+
+<H1> First Keyword + “Game” </H1>
+<H2> Quick Overview of the Game </H2>
+write a quick overview of the game, must include a Catchy CTA inviting to join or play 
+
+<h4>Characteristics</h4>
+Include 10 Game Characteristics for game review.
+
+<H2> How to Play + first keyword </H2>
+In this section, the idea is to talk about how to play the game, but the main objective is to include the first keyword . 
+
+A little talk about how the game works. You can talk about the rules of the game as well
+
+<H3> First keyword + RTP and Variance </H3>
+extend about the topic of the rtp and variance of the game
+
+<H3> Symbols and Gameplay </H3>
+
+Using this text for Example: “The Panda Playtime slot has a well-designed grid and animated bamboos that will instantly capture your attention. For symbols that will go along with this theme, the slot makers added a Panda, a lotus flower, a yin-yang, and a chipmunk. It doesn’t stop there, extra symbols include a heart, spade, diamond, and club.
+
+Some of the symbols pay higher than others, and we shall reveal the value of each in the next section.”
+
+<H3> Bet Sizes & Paytable Wins </H3>
+
+In this section, develop a topic related to the first keyword. Include a HTML table for the complete paytable of the game.
+
+<H2> First keyword + Bonus Features </H2>
+
+In this section, develop the topic of the bonus features related to the first keyword. Put in bolt the Bonus feature and then the explanation. Elaborate all you can about it and be positive if there are none. 
+
+<H3> First keyword +  “FAQs” </H3>
+
+Create 5 completed FAQs related to this page, using the first keyword, related to the same topic, questions and answers
+
+<H3> Conclusion </H3>
+
+In this section, create an elaborate conclusion for all the previous content created. 
+

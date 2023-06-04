@@ -3,14 +3,14 @@ AuthorURL: https://www.linkedin.com/in/martin-tovar/
 
 Title: SEO Titles and meta descriptions
 Category: writing
-Teaser: Create titles and meta descriptions with the main keyword or the title of the article.
+Teaser: Create titles and meta descriptions with the main keyword of the article.
 
 Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-02-22T21:53:47.97Z
 Help: 
 ID: 1794094468568453120
-PromptHint: [Keyword or topic]
+PromptHint: [Keyword]
 PromptPackageID: 0
 
 Prompt:
-Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a copywriter that speaks and writes fluently in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions for the following topic, titles must not exceed 60 characters and descriptions between 130 - 160 characters: [PROMPT]
+Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a copywriter that speaks and writes fluently in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions for the following keyword: [PROMPT], titles must not exceed 60 characters and descriptions between 130 - 160 characters: [PROMPT] should naturally be included in the title, it is not necessary to be in the description.

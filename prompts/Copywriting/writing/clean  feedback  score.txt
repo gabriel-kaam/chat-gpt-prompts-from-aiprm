@@ -1,0 +1,43 @@
+AuthorName: Ethan Munoz
+AuthorURL: https://twitter.com/_ethangabriel
+
+Title: Clean + Feedback + Score
+Category: writing
+Teaser: Clean Article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-24T02:34:19.473Z
+Help: 
+ID: 1815908336944807936
+PromptHint: English
+PromptPackageID: 0
+
+Prompt:
+I'd like you to review the article in terms of tone, grammar, flow, and content. Specify parts that are erroneous. PRIORITIZE READABILITY. Always use easy to read words over complex jargon. Check for redundancies and inaccuracies. Check for repetitive expressions, such as use of the same words in the same sentence or paragraph. No need to revise now, just share your findings via table format. Always provide an exact suggestion for correction on another column. Indicate which subsection the mistakes are and not the paragraph number. After making the table, rate them in terms of tone, grammar, flow, content, and format from 1 to 10, with 10 being the highest. To be clear, I need you to rate the article five times, that is, one per category. 
+
+For example:
+Tone: 8
+Grammar: 7
+Flow: 6
+Content: 7
+Format: 6
+
+Then, explain the reason for each score in the form of a constructive feedback.
+
+Here are some guidelines:
+
+1 to 3 (Poor): Article is of an unacceptable level and quality warrants a complete rewrite.
+
+4 to 5 (Below Average): Article needs significant changes, but issues can be fixed with detailed feedback with examples.
+
+6 (Average): Article needs changes but issues can be fixed.
+
+7 (Well Above Average): Article needs minimal changes but is definitely of a good standard overall.
+
+8 (Great): Article needs barely any work at all, hits the requirements.
+
+9 (Exceptional): Article needs no work, perfectly hits the requirement and exceeds standards
+
+10 (Implies Perfection): This should not be given because all writers have room for improvement.
+
+In the following, I'll only provide articles. I won't repeat these instructions. Do you understand the output I'll be needing from you? Let me know if you have any questions before we begin. Use [TARGETLANGUAGE] for the whole report. Here is the article: [PROMPT]

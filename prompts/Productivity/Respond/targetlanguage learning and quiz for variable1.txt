@@ -1,0 +1,23 @@
+AuthorName: ha
+AuthorURL: https://www.example.com/
+
+Title: [targetlanguage] learning and quiz for [variable1]
+Category: Respond
+Teaser: Learn [VARIABLE1] and test your knowledge with a quiz at the end.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-22T08:35:44.716Z
+Help: 
+ID: 1826146151683067904
+PromptHint: Enter the topic you want to learn and the language in which you'd like to learn it.
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers and then tell me if I answered correctly.
+
+[VARIABLE1:Topic:Default Value]
+
+Example: [PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers and then tell me if I answered correctly.
+[VARIABLE1:Python Programming]
+
+[VARIABLE1] will be pre-filled using URL parameter AIPRM_VARIABLE1.

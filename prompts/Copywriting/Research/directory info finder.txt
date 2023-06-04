@@ -1,0 +1,158 @@
+AuthorName: Liam Edwards
+AuthorURL: https://liamsprowebsites.com.au/
+
+Title: Directory Info Finder
+Category: Research
+Teaser: Find Features, Services, Categories etc for Directory Listings.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-30T01:40:46.112Z
+Help: 
+ID: 1828940822293516288
+PromptHint: [Enter Business Type/Category]
+PromptPackageID: 0
+
+Prompt:
+You are scaping business infomation to create a helpful directory service. With this in mind:
+
+Create a list of all the features (point 1), services (point 2), Service Options eg. pickup or delivery (point 3), or any other sections this business type may have (point 4). If the business type does not have any options under a point then do not include the point. 
+
+Keep all points less then 4 words. 
+
+Here are some examples.
+
+Example 1: Antique Shop
+Options:
+Collectables
+China
+Porcelain
+Pottery
+Glass
+Silver
+Vintage
+
+Product Types:
+Antiques
+Silver Plated
+Sterling Silver
+Art Deco
+Assorted and Diverse
+Australian Pre-Decimal Banknotes
+Australian Decimal Coins & Notes
+Australiana
+Barware
+Carnival Glass
+Cartoon, Storybook & TV
+Decorative
+Limoges
+Paperweights
+Oriental
+Reference Books
+Royalty
+Vintage & Retro
+
+Service Options:
+In-store Shopping
+Kerbside Pickup
+Online Shopping
+Delivery
+
+
+Example 2: Florist
+Occasions:
+Anniversary
+Birthday
+Christmas
+Congratulations
+Corporate/Business
+Easter
+Funeral
+Get Well
+Mothers Day
+New Baby
+Romance
+Sympathy
+Valentines Day
+
+Flower Types:
+Bouquets
+Australian Natives
+Tropical
+Roses
+Lillies
+Gerberas
+Carnations
+Plants
+Arrangements
+
+Flower Colours:
+Pink
+Red
+Yellow
+Green
+White
+Purple
+Blue
+
+Service Options:
+In-Store
+Pickup
+Delivery 
+Same-Day Delivery
+
+
+
+
+Example 3:
+Restaurant
+Menus
+Order Link
+
+Checkboxes:
+Dietary Requirements:
+Vegan Options
+Vegetarian Options
+Gluten-Free Options
+Dairy Free Options
+Allergy Friendly Options
+Nut Free Options
+Sugar-Free Options
+Soy Free Options
+Mild Spice Level
+Medium Spice Level
+Hot Spice Level
+
+Service Options:
+Dine In
+Take Away
+Delivery 
+
+Menus:
+Breakfast Menu
+Lunch Menu
+Dinner Menu
+Dessert Menu
+Drinks Menu
+
+Facilities:
+Indoor Seating
+Outdoor Seating
+Toilets
+Accommodation 
+Live Events
+TV Entertainment
+Car Parking
+Function Room
+Air conditioning
+BYO Drinks 
+
+
+Notes: 
+- Refrain from repeating yourself. (eg. If an option fits under two or more categories, list it in the most relevant one)
+- Use only Australian English and words. 
+- Keep it simple. (eg. Cafe instead of cafeteria)
+- Do not include information about Accessibility.
+______
+Please use the above examples and create something similar for the following Business Type or category: [PROMPT]
+
+Write all output in [TARGETLANGUAGE].

@@ -1,0 +1,17 @@
+AuthorName: Preston
+AuthorURL: https://www.google.com
+
+Title: Services Offered by Company
+Category: UNSURE
+Teaser: Classify the services offered by the company by inputting the [ANSWER] to the question.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-30T18:36:02.913Z
+Help: 
+ID: 1829196325875613696
+PromptHint: Why do you think your business is important to the United States? [ANSWER]
+PromptPackageID: 0
+
+Prompt:
+Based on the following answer to this question, "Why do you think your business is important to the United States?", and in the context of creating a `Proposed Endeavor Executive Plan`, please provide 2, maybe 3, innovative (but not too abstract or complicated) services this company could offer. Here is the answer to the previous question: "[PROMPT]".
+Provide your response in [TARGETLANGUAGE].

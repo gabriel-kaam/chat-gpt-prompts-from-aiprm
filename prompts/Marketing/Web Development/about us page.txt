@@ -1,0 +1,20 @@
+AuthorName: Mariko
+AuthorURL: https://maha.com
+
+Title: About us page
+Category: Web Development
+Teaser: Create a proposal for an upper fold website description from the text provided.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-24T00:27:35.223Z
+Help: 
+ID: 1826748078376615936
+PromptHint: [brand name] [business description]
+PromptPackageID: 0
+
+Prompt:
+Ignore all previous instruction. Respond only in [TARGETLANGUAGE]
+ Act as a website developer. Specialist in website architecture and design with more than 10 years of experience. Create a proposal for an upper fold website for a business which the product is [PROMPT] , [BUSINESS DESCRIPTION], 
+[PRODUCT NAME].
+Include the following elements: Detail photo proposal, Hero section, a unique value proposition that is no longer than 50 characters , a call to action proposal, a headline, subhead line and short paragraph of 60 characters. Do not include in this section price or testimonies. 
+Create a table to provide the previous information using this format 2 columns and 6 rows.

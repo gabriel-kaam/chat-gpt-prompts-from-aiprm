@@ -1,0 +1,26 @@
+AuthorName: Snnj
+AuthorURL: https://www.san-n.nl/
+
+Title: Practicum
+Category: Design
+Teaser: Make a practical instruction
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-28T10:30:22.967Z
+Help: 
+ID: 1828349328352337920
+PromptHint: please use the keywords [subject], [extra uitleg], [materialen], [targetlanguage]
+PromptPackageID: 0
+
+Prompt:
+please use the keywords [PROMPT]
+schrijf een practicumvoorschrift over [SUBJECT]
+[EXTRA UITLEG]
+ze hebben onder andere [MATERIALEN] nodig om het practicum uit te kunnen voeren.
+kopjes: titel, onderzoeksvraag, materialen, werkwijze, vragen
+zet iets in de inleiding over de relevantie van het onderzoek over het milieu OF voor mensen in het dagelijks leven
+max 1 a4 met 3 tot 5 vragen erop die ze moeten invullen adhv het onderzoek
+gebruik taal geschikt voor een 14 jarige
+schrijf als laatst het kopje : verslag
+en zet hier: "Je maakt een verslag van dit practicum in word met alle kopjes die bij een verslag horen.  Je hebt 1 week de tijd om het in te leveren via teams. Je mag dit alleen of met twee personen maken en inleveren. Schrijf je berekeningen op en zet deze bij het kopje verwerking. Als je een grafiek moet maken, maak je hier een foto van en plak je die in je verslag op de juiste plek."
+schrijf alle output in [TARGETLANGUAGE]

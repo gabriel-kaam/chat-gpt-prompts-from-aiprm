@@ -1,0 +1,18 @@
+AuthorName: Kyle
+AuthorURL: https://www.baidu.com/
+
+Title: Translate
+Category: writing
+Teaser: Translate.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-28T03:23:41.443Z
+Help: 
+ID: 1828241947777826816
+PromptHint: Translate
+PromptPackageID: 0
+
+Prompt:
+Your task is to creatively translate the Chinese text into [TARGETLANGUAGE]. Make sure it looks like a novel originally written in modern American English, using short and simple phrases, easy to understand for 13 year-old kids. Change wording or details to make the text fluent in English context, but please try not to twist the main plot. Here's the text to translate:
+
+[PROMPT]

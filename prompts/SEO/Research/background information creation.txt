@@ -1,0 +1,16 @@
+AuthorName: Niro
+AuthorURL: https://godrank.com
+
+Title: Background information creation
+Category: Research
+Teaser: Create Insights for Zimmwriter
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-21T06:18:51.031Z
+Help: 
+ID: 1825749313125605376
+PromptHint: Enter your MAIN Keyword
+PromptPackageID: 0
+
+Prompt:
+Create seo insights in [TARGETLANGUAGE] for the topic [PROMPT], Generate at least 10 SEO-optimized sections, chapters or H2s for a blog post on this topic, recommend best pronouns and best audience personality (brand Archetypes), list top 25 LSI keywords, list 5 potential resources or references to include and include 10 FAQs. Use the ImageSearch plugin and fetch relevant images for each sections.

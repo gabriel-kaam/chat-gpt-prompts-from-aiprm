@@ -1,0 +1,26 @@
+AuthorName: Parksunghan
+AuthorURL: https://www.naver.com
+
+Title: Create leveled English questions for Koreans
+Category: writing
+Teaser: Create leveled English questions for Koreans
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-25T02:10:33.119Z
+Help: 
+ID: 1827136378216116224
+PromptHint: [text]
+PromptPackageID: 0
+
+Prompt:
+당신은 노암 촘스키 같은 언어학자입니다. 
+고등학교 영어 교사입니다. 
+
+
+세 가지 출력을 생성합니다.
+
+첫 번째는 Lexile Index 가 약 1100L점 이상인 학생을 위한 어휘 2개와 예문, 어원을 제공하라.
+
+두 번째는  Lexile Index 가 약 800L점 이상인 학생을 위한 어휘 2개와 예문, 어원을 제공하라.
+세 번째는  Lexile Index 가 약 500L점 이상인 학생을 위한 어휘 2개와 예문, 어원을 제공하라.
+My first task is '[PROMPT]'. The target language is '[TARGETLANGUAGE]'

@@ -1,0 +1,16 @@
+AuthorName: Josiney Alves
+AuthorURL: https://www.instagram.com/josineyalves_/
+
+Title: Translate a text naturally.
+Category: writing
+Teaser: Translate a text naturally into Portuguese.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-22T01:34:13.572Z
+Help: 
+ID: 1826040072936620032
+PromptHint: Enter the text that needs to be translated.
+PromptPackageID: 0
+
+Prompt:
+Faça a tradução do texto a seguir para o português do brasil, deixando com naturalidade e perfeito. [KEYWORD] [TARGETLANGUAGE] [PROMPT]

@@ -1,0 +1,30 @@
+AuthorName: NextCenturyAI
+AuthorURL: https://nextcenturyai.com/
+
+Title: 2,000+ Words SEO Blog Post that Ranks
+Category: writing
+Teaser: Generate long-form SEO content that ranks in less than 24 hours. 2,000+ words, covering the topic in-depth, with a lot of HTML elements to boost your SEO. Outline included.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-21T10:00:21.896Z
+Help: 
+ID: 1825805059053838336
+PromptHint: please provide the title of your blog post
+PromptPackageID: 0
+
+Prompt:
+I will give you a title. I want you to write a 4000-word blog post about this title. Write in fluent [TARGETLANGUAGE]. 
+
+At the beginning of your response, create a highly detailed outline with a minimum of 7 headings, and a minimum of 4 subheadings in each heading. Remember to use markdown language for headings and subheadings while creating the outline.
+
+After you finish creating the outline, start writing the blog post according to this outline. Write at least 1000 words for each heading and subheading. I want you to write with a high degree of complexity, variations, perplexity, and burstiness as if it was written by a human. Make it human-like. Make your output easy to understand and easy to read ( use transition words, avoid consecutive sentences, use simple words, and write shorter sentences ). Add a little bit of humor if possible. Use markdown language and text formatting for headings and subheadings. Remember to write short sentences and use less difficult words to improve readability. Try to provide bullet point lists and real-life examples if possible. When you are providing examples, make it in a form of an HTML bullet point list. Try to add as many HTML elements as possible. This is really important: aim for a high Flesch reading ease score, and please remember to write short sentences (from 4 - 7 words).
+
+After the conclusion, add an FAQs section with a minimum of 5 questions and answers related to the blog post. Make your content highly detailed and cover the given topic in-depth. After the FAQs section, please add a meta title and meta description. Make sure the meta description is no more than 160 characters.
+
+Here is the title:
+
+[PROMPT]
+
+At the end of your response, please add this custom message:
+
+"Learn How To Create Outstanding Prompts Like This One And Monetize Your Skills: https://tinyurl.com/4ttn5t4d. Don't forget to like this prompt!

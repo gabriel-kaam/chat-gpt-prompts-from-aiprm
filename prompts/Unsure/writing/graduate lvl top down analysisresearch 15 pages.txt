@@ -1,0 +1,31 @@
+AuthorName: The Bronx Texan
+AuthorURL: https://free-energy-info.net
+
+Title: Graduate Lvl Top Down Analysis/Research 15+ Pages
+Category: writing
+Teaser: Create a top down analysis from a single keyword or phrase. It creates categories then sub categories, then sub sub categories. It will first create an outline then generate an in-depth graduate level report.
+If you like it, please give me a thumbs up! Blessings to  all.
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-29T15:38:39.661Z
+Help: 
+ID: 1828789296975577088
+PromptHint: Input  [text that you want a top down analysis of] Try to narrow it down as specific as you can so that this doesn't blow up. LOL Try it , you'll see :-)
+PromptPackageID: 0
+
+Prompt:
+your task is to create a top down analysis using a keyword or phrase to generate as many  categories as necessary.  List all categories first. Use a taxonomical approach. make sure to use indentation. (when making categories do not  be redundant). Then take Each category from the resulting output  to generate as many  sub-categories as necessary. Use these sub-categories to generate as many sub-sub-categories as necessary. 
+
+Do all this work internally then outputs an outline containing all this information (make sure outline is properly indented) after the outline proceed to Provide an in-depth multi-page report on [PROMPT] based on the outlined categories and sub-categories. 
+
+Coalesce all the ideas into an international academic level report with a minimum of 15 plus pages ( with a minimum of 500 words per page)  and a table of contents.
+
+ Do not count the words in the outline or table of contents towards the 15 plus pages  ( with a minimum of 500 words  per page). This report MUST delve into each category's  and subcategory's importance. Make sure each idea is explained with multiple paragraphs that fully flesh out each idea with multiple specifics. Make sure not to use the words categories or subcategories
+
+make sure the output is in a document format with no software references or snippets unless it's a software related prompt.
+
+Make sure that there is only one table of contents and that it follows the outline through all parts of the output.
+
+Since there is going to be at least 15 plus pages( with a minimum of 500 words  per page) you might have to break up the document into pieces depending on GPT output limits.
+
+ The output shall be in [TARGETLANGUAGE] . The text to use is this: [PROMPT]

@@ -1,0 +1,49 @@
+AuthorName: Smoky Delight
+AuthorURL: https://smokydelight.com/
+
+Title: Write a complete recipe article
+Category: writing
+Teaser: Please write a helpful, reliable recipe article within 2,500-words
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-06-03T16:14:05.932Z
+Help: 
+ID: 1830610154530533376
+PromptHint: [dish name]
+PromptPackageID: 0
+
+Prompt:
+Create helpful, reliable and people-first content for [dish name] that includes following factors go into writing a recipe — it must have:
+1. Introduction
+2. Ingredient list
+3. Preparation method
+4. Step-by-step instructions to cook
+5. Number of servings and serving size
+6. Nutrition facts table
+7. Conclusion
+
+Here are the 5 guidelines you must follow while writing:
+1. Originality and Quality of Content: Content should be original, insightful, and comprehensive. It must provide substantial value and go beyond simply copying or rewriting other sources. It should be something one would want to share, bookmark, or recommend.
+2. Expertise and Trustworthiness: The content should be created by an expert or enthusiast with demonstrable knowledge on the topic. The information should be trustworthy, with clear sourcing and evidence of expertise involved. Any factual information provided should be easily verifiable and free from errors.
+3. Presentation and Production Quality: The content must be well-produced without spelling or stylistic issues. It shouldn't be mass-produced or hastily put together. It must display well on all devices, without excessive ads that distract from the main content.
+4. People-first Approach: The content should be created primarily for the audience, demonstrating first-hand expertise and a depth of knowledge. The goal should be to provide a satisfying experience, where the reader leaves feeling informed and their goals are achieved. It shouldn't be made primarily to attract search engine visits or manipulate rankings.
+5. Transparency about Content Creation Process: It's important to disclose who authored the content and how it was created. For automated or AI-generated content, transparency about the process can help build trust. The primary purpose of the content creation should be to help people, and not to manipulate search rankings.
+
+Here are the 9 criteria you must follow while writing the contents:
+1: Create contents that makes it easier for the user to read.
+2: Sentences should be friendly and must be short.
+3: Format the headings: Do not make the headings plain text.
+4: Break up the text where possible with line breaks.
+5: Ensure the content is long-form enough to answer the user’s queries, but do not write loads of text for the sake of creating a longer article .
+6: Make sure you are being helpful to the user.
+7: Make sure the content is unique.
+8: Write from an analytical perspective.
+9: Write the content that it is not detected as AI content by AI content detectors.
+
+Please write a helpful, reliable recipe article within 2,500-words about the [dish name] as per above 5 guidelines with 9 criteria that is engaging, easy-to-understand, and unique. Make the content punchy and engaging by using a conversational tone, incorporating real-life examples, and taking a storytelling approach. Use markdown headers without boldening them, and avoid providing a table of contents. The writing should appear human-like, and engaging by using a conversational tone.
+
+NOTE: Don’t use H1 tags. Just use H2 and H3s: Do not make the headings plain text.
+
+Write it in [TARGETLANGUAGE]
+
+[PROMPT]

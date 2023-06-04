@@ -1,0 +1,16 @@
+AuthorName: Jennifer Sunardi
+AuthorURL: https://www.linkedin.com/in/jennifersunardi/
+
+Title: CRM Message Builder
+Category: writing
+Teaser: Create different CRM message types in 1 CLICK.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-24T12:15:05.887Z
+Help: 
+ID: 1826926129366433792
+PromptHint: Insert the landscape of the campaign/project/whatever you’re working on.
+PromptPackageID: 0
+
+Prompt:
+I am building a CRM campaign. The landscape of the campaign/project is: [PROMPT]. I want you to act as a strategic copywriter. I want you to write a welcome message (sent to new subscribers or customers immediately after they join your email list or make a purchase), an educational/informational message (provides valuable information, insights, or educational content to your leads or customers), a promotional/sales message (highlights specific promotions, discounts, or offers to encourage leads or customers to make a purchase), drip/nurture series (a series of emails sent over time to nurture leads, provide value, and guide them towards making a purchase or conversion), cart abandonment message (it is sent when a customer adds items to their cart but doesn't complete the purchase, make only when applicable to the industry/topic mentioned above), re-engagement/win-back message (sent to inactive or lapsed customers to re-engage them with your brand and encourage their return), a feedback/survey message (sent to collect feedback, opinions, or insights from leads or customers to improve your products or services), and a thank you message (sent to express gratitude and appreciation to customers for their purchase, loyalty, or engagement). Write the message separately based on the type. I want you to write in fluent [TARGETLANGUAGE]. Please generate a table as a result.

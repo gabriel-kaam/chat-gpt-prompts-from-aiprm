@@ -1,0 +1,70 @@
+AuthorName: The Mad Scientist
+AuthorURL: https://realdealmeetup.com/
+
+Title: Rei Sms Messages Tcpa Compliant
+Category: marketing
+Teaser: Write  10 REI SMS Text Sequence that 100% TCPA Compliant to generate leads with 1 click
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-28T14:17:26.792Z
+Help: 
+ID: 1828406470816043008
+PromptHint: [enter the word contact name here]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a real estate investor expert that speaks and writes fluent [TARGETLANGUAGE]. Can you help generate 10 different initial SMS templates to be used to help me know if someone is interested in selling their home [TARGET LANGUAGE]. I will be sending cold outreach sms to different homeowners in the US with the intention of buying their home.
+
+These are my rules for the SMS templates: 
+
+1.Keep it under 160 characters. 
+2.The recipient will be labeled as “{{contact.first_name}}
+3.Introduce me as “Charles” in every text.
+4.Include “Reply STOP to unsubscribe” at the end of all initial messages
+5.The message should always include the custom value "{{contact.address1}}?” to refer to the subject property 
+6.Be clear with the intention of buying their home 
+7.Respect the recipient’s privacy 
+8. Always use words to encourage a response by ending the message with an open-ended question. 
+9. Exclude any of the listed words or phrases below when you generate the sms templates: [TARGET LANGUAGE]
+
+Sell
+Buyer
+buy
+Selling
+Interest
+Interested
+Offer 
+Cash
+Purchase
+Buying 
+Investor
+Consider
+Property
+Properties 
+Local investor
+Apologize 
+Sorry
+Apology
+Bother
+Disturb
+Out of the blue
+Shot in the dark
+Did I reach the right person
+Do I have the right person?
+Excuse me
+Do you happen to know
+Do you know anyone
+Property records
+Public records
+Public
+Hoping
+Right 
+Looking 
+Investment
+Considered 
+Person
+Not sure  [TARGET LANGUAGE] 
+
+Please remember remove the word "interested", "property", "selling", "buying"
+
+[PROMPT]

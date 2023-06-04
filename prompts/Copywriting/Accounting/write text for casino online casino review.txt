@@ -26,5 +26,6 @@ Paraphrase every sentences, paragraph and etc to deep English. Use deep words, a
  
 
 I want you to write content so that it can outrank other websites. For that, you need to know 2 factors: "perplexity" and "burstiness." Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the content, I need it to have a good amount of perplexity and burstiness.
+Use markdown format. 
 [TARGETLANGUAGE]
 [PROMPT] 

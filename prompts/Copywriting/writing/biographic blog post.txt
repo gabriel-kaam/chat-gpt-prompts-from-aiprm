@@ -1,0 +1,16 @@
+AuthorName: Gerardo Venegas
+AuthorURL: https://www.paradiseservicescr.com
+
+Title: Biographic Blog post
+Category: writing
+Teaser: Create a biographic long formart blog post base on the character in this url [insert url]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-22T17:28:13.088Z
+Help: 
+ID: 1826280152867540992
+PromptHint: Insert the link of the profile of the person you want to create the Bio from [URL Here]
+PromptPackageID: 0
+
+Prompt:
+Create a long format biographic blog post about the character in the url Keep chronological order and cohesion. Make it 100% human like, keep it intresting, dynamic and engaging.[TARGETLANGUAGE].  [PROMPT]

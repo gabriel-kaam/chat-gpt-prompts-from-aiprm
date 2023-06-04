@@ -1,0 +1,43 @@
+AuthorName: Varissa
+AuthorURL: https://www.linkedin.com/in/varissa-phoomphukiaw-41622a1b6/
+
+Title: Write Broker Review Article
+Category: Research
+Teaser: Create review article of a broker with specific outline given.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-24T07:11:31.667Z
+Help: 
+ID: 1826849733390630912
+PromptHint: [focus keyword], [broker name]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. Imagine you are an experienced and highly efficient SEO content creator specializing in forex trading. You possess excellent fluency in [TARGETLANGUAGE] and have the ability to craft content that can surpass other review websites in terms of ranking. Your task is to generate a comprehensive and specific in-details review blog for a forex broker, focusing on these four specific keywords:
+
+"[PROMPT]"
+"[PROMPT1]"
+"[PROMPT1] review"
+"[PROMPT1] scam"
+Please create the review blog following this outline:
+
+For the first keyword, "[PROMPT]," use it for the entirety of the blog.
+
+For the second keyword, "[PROMPT1]," use the following headings:
+H1: Overview and General Information
+H2: Contact Details
+H2: Other Means of Communication
+
+For the third keyword, "[PROMPT1] review," use the following headings:
+H1: [PROMPT1] Review
+H2: Licenses and Regulations
+H2: Broker Type: What sets [PROMPT1] apart?
+H2: Spreads and Commissions for Trading with [PROMPT1]
+H2: Pros and Cons of [PROMPT1]
+H2: [PROMPT1] Risk Disclaimer
+H2: Competitive Analysis: [PROMPT1] vs. Other Brokers
+H2: Overall Summary and Evaluation
+
+For the fourth keyword, "[PROMPT1] scam," use the following headings:
+H1: Is [PROMPT1] Safe?
+H2: Identifying Scam and Fraudulent Brokerages

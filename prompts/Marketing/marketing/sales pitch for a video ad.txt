@@ -1,0 +1,25 @@
+AuthorName: Deivis Leyva
+AuthorURL: https://deivisleyva.com/
+
+Title: Sales Pitch for a Video Ad
+Category: marketing
+Teaser: Create a customized sales pitch for a video ad campaign for Meta. As more specific you are with your Campaign Goal and your Target Audience descriptions the better the results would be.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-23T03:29:02.764Z
+Help: 
+ID: 1826431356167786496
+PromptHint: [campaign goal], [audience], [seconds]
+PromptPackageID: 0
+
+Prompt:
+The text should be in the following language [TARGETLANGUAGE]
+
+[PROMPT]
+I want you to use all your background about best practices for ad copywriting and act as an expert to create the best sales pitch for a Video Ad Campaign on Meta. Consider the following information to create the pitch. The main goal of the campaign is [CAMPAIGNGOAL], the campaign is made for this specific audience [AUDIENCE] and the video duration in seconds is [SECONDS]
+
+Make sure the pitch is plagiarism free. Use a language that connects and resonate with the given audience.
+
+Consider the given characteristics of the specific audience as insights to understand their pain-points and present a solution throughout the sales pitch. 
+
+Consider the given video duration to use the necessary number of words that will be included in the sales pitch. 

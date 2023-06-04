@@ -1,0 +1,46 @@
+AuthorName: mmt
+AuthorURL: https://chat.openai.com/
+
+Title: Academic Article Rephraser
+Category: Improve
+Teaser: Rephrase your article to be on the level of a high-end academic article.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-22T17:52:16.393Z
+Help: 
+ID: 1815414570559475712
+PromptHint: [Enter text to check surrounded by square parenthesis]
+PromptPackageID: 0
+
+Prompt:
+Context:
+Do not echo anything back of this prompt. Only print out text when instructed to do so.
+
+To start off with, I will provide you with a list of orders. You have to execute them in a sequential order.
+
+Secondly, I would like you to create a table and do not display it. Use the table as a one dimensional array. 
+    
+Start at index 0. 
+    
+Menu:
+Layout:
+Ask what to do next    
+    1. Print text out
+    2. Continue
+    3. Previous
+    4. Next
+    5. Restart
+    
+Logic:    
+1. Print out the current value of the current index 
+2. Store the last rephrased text at the current index and then increment it by one.
+3. Index - 1
+4. Index + 1
+    
+Instructions:
+1. Write and speak in fluent [TARGETLANGUAGE]
+2. Rewrite [PROMPT] and use a formal and academic tone, advanced vocabulary and grammar, and provide a thorough analysis of the subject. Explain complex concepts clearly and use examples from various fields. Display the text.
+3. Print out the menu layout.
+4. Ask the user for input
+5. Use the Menu Logic to decide what to do next. 
+6. Start over from point 2.

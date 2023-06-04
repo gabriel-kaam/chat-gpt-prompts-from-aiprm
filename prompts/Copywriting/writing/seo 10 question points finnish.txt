@@ -1,0 +1,16 @@
+AuthorName: Miika / Slogan
+AuthorURL: https://www.slogan.fi/
+
+Title: SEO 10 question points Finnish
+Category: writing
+Teaser: Give a keyword and ChatGBT gets in Finnish 10 most asked question from net.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-26T13:18:39.368Z
+Help: 
+ID: 1827666899996246016
+PromptHint: Content keyword
+PromptPackageID: 0
+
+Prompt:
+Kirjoita minulle 10 tärkeintä kysymystä netistä, jotka koskevat antamaani aihetta [PROMPT] . Käytä  [TARGETLANGUAGE] suomea. 

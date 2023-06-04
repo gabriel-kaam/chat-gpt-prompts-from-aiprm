@@ -1,0 +1,78 @@
+AuthorName: AI Smart Marketing
+AuthorURL: https://aismartmarketing.com/
+
+Title: 7 Question Brand Story
+Category: Positioning
+Teaser: Define your Brand Story by answering 7 questions about your business. Best on GPT 4
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-24T17:02:08.744Z
+Help: 
+ID: 1826998367264444416
+PromptHint: What is your business name?
+PromptPackageID: 0
+
+Prompt:
+Write in [TARGETLANGUAGE]. Act as a StoryBrand expert; you will help me write my Brand Story
+
+Please write about the following and make the customer of [business name] the hero of the story as per Donald Miller's StoryBrand, and [business name] is the guide like Yoda, that helps the businesses get where they want to go with [problem that you are solving for]
+I am a [PROMPT].
+
+Now ask me these questions one by one, pausing for a response; ask the 1st question and then let me answer; then, ask me the second question and let me answer, then ask me the third question and let me answer, then ask the fourth and let me answer, then the fifth question and let me answer, then the sixth question and let me answer, finally, ask me the seventh question and let me answer.
+
+
+Who is your hero? [Insert person who your product or service is designed to help]
+What is the hero's problem? [What is the challenge that they are facing?]
+What is the hero's desire? [What do they want to achieve?]
+What is the call to action? [What do you want the hero to do?]
+Who is the villain? [What or who is standing in the hero's way?]
+What is the inciting incident? What event sets the hero's journey in motion?
+What is the climax? [This is the moment when the hero overcomes the villain and achieves their desire.]
+After all questions are answered, use that knowledge to give me:
+A list of 10 headlines 
+A list of 10 taglines
+Write 2 elevator pitches 150 words each
+Write 2 elevator pitches 75 words each
+Here is an example of the kind of output that I am asking for:
+Every business needs a one-liner. One-liners do not have to be clever, cute, or even creative. They just have to be clear. You can use your one-liner on your website, on your business cards, or as an email signature. Based on our time together, here are some options we recommend using:
+
+Unlock a world of wealth with commercial real estate projects.
+Secure your financial future with commercial real estate investments.
+Make smarter investments with commercial real estate projects.
+Tap into a new realm of opportunity with commercial real estate projects.
+Gain more control over your finances with commercial real estate investments.
+Grow your wealth by investing in the best commercial real estate projects.
+
+Discover wealth through commercial real estate.
+Safeguard your finances with commercial real estate.
+Invest smarter with commercial real estate.
+Explore new opportunities with commercial real estate.
+Control your finances with commercial real estate.
+Grow wealth with top commercial real estate.
+Invest Wisely with True Reliance: Your Trusted Investment Partner
+Invest Smarter with True Reliance: Get the Guidance and Support You Need to Achieve Your Financial Goals.
+Discover Your Financial Security with True Reliance - Invest Smartly and Securely
+With True Reliance, Secure Your Financial Future with Smart Investment Decisions.
+ Put Your Financial Goals on the Right Track with True Reliance
+Unlock Your Financial Future with True Reliance.
+
+
+Not sure about these? No problem. Use the notes below to inspire a few one-liners of your own. 
+
+The Elevator Pitch 
+
+You can try a few pitches when discussing your business with others. You can copy our examples or modify them to create your own.
+
+Option One: 
+Are you an investor looking for smart investment opportunities to achieve your long-term financial goals? As an accredited or high-net-worth individual, you need a diverse portfolio with proven returns to grow wealth. But navigating the complex world of investment options can be overwhelming, and finding a trustworthy guide can feel impossible. That's where True Reliance comes in. We provide expertise, support, and the right commercial real estate projects that ensure the highest returns. With our team as your partner, you'll have the guidance and support you need to succeed in your investment journey. Our values of transparency, honesty, and excellent communication ensure that every investor receives the attention and communication they deserve. Don't risk losing everything by partnering with the wrong investment firm - schedule a call with us today to discover opportunities that work for you and start watching your investments work for you!
+
+Option Two: A Little Shorter
+Looking for smart investment opportunities to achieve your long-term financial goals? True Reliance provides expertise and support, offering investors a reliable partner to help them make informed investment decisions. With our transparency, honesty, and excellent communication values, you'll have the guidance and support you need to succeed in your investment journey. Don't risk losing everything by partnering with the wrong firm - schedule a call with us today to discover opportunities that work for you!
+
+Option Three: A Nautical Theme 
+Are you tired of feeling lost in the vast sea of investment options? At True Reliance, we understand that navigating this complex world can be overwhelming. But don't worry, we're here to help! Our team provides expert guidance and support to help you achieve your long-term financial goals. We believe in transparency, honesty, and excellent communication - values that set us apart from the competition. By partnering with True Reliance, you'll have a reliable guide to help you make informed investment decisions and grow your wealth. Don't let confusion hold you back any longer - schedule a call today and let's start crafting your success story together!
+
+After its all done, include only these 2 sentences:
+👍 Did you enjoy this prompt? Please give a thumbs up! 
+
+

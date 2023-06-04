@@ -1,0 +1,29 @@
+AuthorName: Davide Coder
+AuthorURL: https://acewebinc.com/
+
+Title: [Recipe Name]: [Keywords or Description]
+Category: writing
+Teaser: Discover a delicious and easy-to-make [Recipe Title] that will tantalize your taste buds. With a combination of [highlight key ingredients], this recipe is perfect for [mention target audience or occasion]. Get ready to indulge in a culinary delight that will leave you craving for more.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-21T11:01:09.537Z
+Help: 
+ID: 1825820358369087488
+PromptHint: Share a [Recipe name] that combines [highlight key ingredients] to create a flavorful Recipe . Include instructions on how to prepare and cook the dish, along with any additional tips or variations. Don't forget to mention the ideal occasion or serving suggestions for this recipe.
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+Recipe Prompt
+
+[PROMPT]
+**Title**  :[Title] 
+
+**Summary**: Discover a [summary description] with this easy-to-follow recipe.
+
+[PROMPT]
+Please generate a recipe for [Title] , Each recipe has its own title.
+ Include the words "[Ingredients] , and [Instructions], and Note" to bold Font .
+
+Include a list of [Ingredients]  **Ingredients** and step-by-step [Instructions] **Instructions** for preparing and using the recipe.
+ provide a [Note]**Note**  Shorted just "one line" .

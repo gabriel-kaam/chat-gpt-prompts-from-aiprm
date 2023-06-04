@@ -1,16 +1,77 @@
-AuthorName: MIQUEIAS DE SOUZA LIMA
+AuthorName: Miqueias Souza
 AuthorURL: https://www.instagram.com/miqueiassouzamassape/
 
 Title: Roteiro de video
 Category: Plan
-Teaser: Video, screenwriter, films, announcer, cameraman, drone pilot, film director, experienced
+Teaser: video recording,
+Videography,
+professional filming,
+video production,
+recording techniques,
+audiovisual equipment,
+video lighting,
+video cameras,
+video editing,
+visual storytelling,
+photography direction,
+cinematic framing,
+audio for videos,
+recording tips,
+image stabilization,
+Scenery and locations,
+shooting plans,
+slowmotion,
+timelapse,
+360 degree videos.
 
 Community: Productivity-b5a49cdd0796137a
-CreationTime: 2023-05-20T10:47:48.89Z
+CreationTime: 2023-05-26T15:56:52.649Z
 Help: 
-ID: 1825454612346564608
-PromptHint: Video, screenwriter, films, announcer, cameraman, drone pilot, film director, experienced
+ID: 1827706717702721536
+PromptHint: video recording, Videography, professional filming, video production, recording techniques, audiovisual equipment, video lighting, video cameras, video editing, visual storytelling, photography direction, cinematic framing, audio for videos, recording tips, image stabilization, Scenery and locations, shooting plans, slowmotion, timelapse, 360 degree videos.
 PromptPackageID: 0
 
 Prompt:
-[TARGETLANGUAGE]  Act as an experienced video retortist who also does the whole scene scheme such as: saying how each scene will be recorded, camera angles, the type of soundtrack of the video and a voiceover suggestion. Now, in Brazilian Portuguese, Create the script, the cane diagram and the voiceover suggestion for this video: [PROMPT] 
+[TARGETLANGUAGE] Act as an experienced video script writer who also does all the scene layout like: tell how each scene will be recorded, camera angles, type of video soundtrack and voiceover suggestion.
+
+Create the scenes that I can shoot with these equipment: 
+
+Canon T7i Camera: The Canon T7i is a mid-range DSLR camera. It has a 24.2-megapixel APS-C sensor and can record videos in Full HD. The camera offers full manual control over exposure settings, as well as features such as fast autofocus and continuous shooting. It is a great choice for photography and filming.
+
+Canon 50mm Lens: The Canon 50mm lens is a prime lens, also known as a "regular lens". It has a fixed focal length of 50mm, which makes it great for portraits and low-light photography. This lens produces sharp images with a beautiful bokeh effect.
+
+Canon 10-18mm Lens: The Canon 10-18mm lens is a wide-angle lens that offers a wide range of focal lengths. With it, you can capture wide landscapes, impressive architecture, and broad scenes. This lens is ideal for shooting in confined spaces, allowing you to include more elements in the photo.
+
+Canon 55-250mm Lens: The Canon 55-250mm lens is a mid-range telephoto lens. It is perfect for photographing distant subjects such as sports, wildlife, and events. With its wide focal range, you can get close to the subject and get sharp details even at long distances.
+
+Canon 18-55mm Lens: The Canon 18-55mm lens is a versatile standard zoom lens. It covers a focal range useful for a variety of situations, from landscape shots to portraits. This lens is a general choice for a variety of photographic needs.
+
+Gimbal: A gimbal is a camera stabilizing device that enables smooth and shake-free video recording, even when moving. It is ideal for creating fluid motion scenes such as walking, running, or even cinematic scenes.
+
+DJI Mini Drone: The DJI Mini Drone is a compact and portable drone that is perfect for capturing aerial images. With a built-in camera, you can record aerial videos and take photos from unique angles. It is a great choice for panoramic scenes, aerial views, and for exploring creativity in your recordings.
+
+Lapel microphone: A lapel microphone is a small microphone that you can clip onto your clothing. It is used to capture high-quality audio directly from the source, allowing you to record clear and crisp sound during your scenes. It is especially useful for interviews, vlogs, or any situation where you need clear and clean audio.
+
+Portable LED Light: A portable LED light is a useful accessory for illuminating your scenes. It is compact and easy to carry, allowing you to add additional light when needed. You can adjust the light intensity and color temperature to get the lighting you want, whether indoors or outdoors in low light.
+
+See what each device can do:
+
+Portrait with background blur (bokeh): Use the Canon T7i camera with the Canon 50mm lens to create a portrait with a beautiful background blur effect. Adjust the aperture for a shallow depth of field and highlight the main subject.
+
+Wide Landscape Shooting: Use the Canon T7i camera with the Canon 10-18mm lens to capture an expansive landscape with a wide perspective. Experiment with different angles and stand in an elevated position for a panoramic view.
+
+Wildlife capture: With the Canon T7i camera and the Canon 55-250mm lens, you can photograph or film wildlife. Get close to your subject and take advantage of the telephoto lens' range to capture stunning details.
+
+Vlog or interview: Connect the lavalier microphone to the Canon T7i camera and use the gimbal for smooth, steady video. Record a personal vlog or conduct an interview with clear audio and professional-quality footage.
+
+Action Sequence Drone: Use the DJI Mini Drone to capture dynamic aerial scenes. Record moving footage of a race, bike or other sport in action. Explore different altitudes and angles for impressive perspectives.
+
+Portable lighting for night shooting: Use the portable LED light to illuminate scenes at night or in low light. You can create a special atmosphere or highlight specific elements using additional light.
+
+These are just a few ideas to get you started exploring the potential of your equipment.
+
+I want the prompt to generate a script that indicates what to use in each scene, the shooting angle, the equipment, voiceover suggestions, if you have a Character, speech suggestions for the character, the prompt should also be clear and that, if possible, all script, scenes, equipment, voiceover and character speech should be organized for the best understanding.
+
+Now, in Brazilian Portuguese, create the script, speech diagram and narration suggestion for this video:
+
+[PROMPT]  

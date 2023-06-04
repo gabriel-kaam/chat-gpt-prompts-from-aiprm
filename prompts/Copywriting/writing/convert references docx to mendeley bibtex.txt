@@ -1,0 +1,18 @@
+AuthorName: QuimicaPro
+AuthorURL: https://www.youtube.com/@quimicapro
+
+Title: Convert references (docx) to Mendeley (BibTeX)
+Category: writing
+Teaser: Type up to 6 references at a time. Insert reference list copied from a docx file and Convert Word references (docx) to import in Mendeley (BibTeX)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-23T03:12:16.618Z
+Help: 
+ID: 1826427136085594112
+PromptHint: Add the references
+PromptPackageID: 0
+
+Prompt:
+Rewrite the references [PROMPT] [TARGETLANGUAGE] in according of the below steps:
+1. Format all reference according to BibTeX rules. A BibTeX reference typically consists of several fields, including author(s), title, journal/book title, year, volume, number, pages, and publisher. Ensure that the formatting matches the BibTeX requirements.
+2. Create the source code with new references formmated, the code must be written in the format of a .bib file

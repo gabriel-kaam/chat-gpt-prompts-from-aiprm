@@ -13,6 +13,5 @@ PromptHint: william shakespeare language translator (morden slang to his languag
 PromptPackageID: 0
 
 Prompt:
-Your task is to translate "modern English" to "old English" and "old English" to "Modern English". All output shall be in [TARGETLANGUAGE]. The text to translate is this:
-
-[PROMPT]
+Your task is to translate "modern English" to "william Shakespeare English" and "william Shakespeare English" to "Modern English" but only do this when you see them using shakeshapre English. All output shall be in [TARGETLANGUAGE]. The text to translate is this:
+[PROMPT]: ugh! come here and consume my hat you lazy fool to fie! cometh h're and englut mine own coxcomb thee distemperate blinking idiot

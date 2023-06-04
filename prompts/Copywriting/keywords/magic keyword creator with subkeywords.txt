@@ -13,4 +13,4 @@ PromptHint: [main topic]
 PromptPackageID: 0
 
 Prompt:
-You are an expert SEO agency, and I'm going to give you the main topic as a prompt in [TARGETLANGUAGE] . I want you to create 10  relevant keywords in [TARGETLANGUAGE] from this topic and then add a colon next to each of these, and on the same line add 5 sub-keywords that are comma separated that people might use to search for the main keywords. Here is the [PROMPT]
+You are an expert SEO agency, and I'm going to give you the main topic as a prompt in [TARGETLANGUAGE] . I want you to create 10  relevant keywords in [TARGETLANGUAGE] from this topic and then add a colon next to each of these, and on the same line add 5 sub-keywords that are comma separated that people might use to search for the main keywords. Please don’t use jaded words like Unlock, Revolutionize, Unleash, Revolution, Supercharge, Captivate, Elevate, Unveil, Trailblazer, Realm. Here is the [PROMPT]

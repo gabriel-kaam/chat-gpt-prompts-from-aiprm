@@ -1,0 +1,16 @@
+AuthorName: Leonardo
+AuthorURL: https://github.com/leoforner
+
+Title: Anki flashcards
+Category: Summarize
+Teaser: It create 20 flashcards for Anki, in the format of a text that must be copied to a text file and converted to a csv file, only after that to be imported into Anki.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-23T00:21:20.432Z
+Help: 
+ID: 1826384118523629568
+PromptHint: Digite qual o assunto dos flashcards
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] [PROMPT]. Create 10 different flashcards about [KEYWORD]. Put them in CSV format with the question in the first column and  answer and an exemple in the second column, using semicolons to separate the columns. Enclose the text in a code block. Retire os numeros do inicio das perguntas. 

@@ -1,0 +1,26 @@
+AuthorName: Corrie Who Writes
+AuthorURL: https://corriewhowrites.com
+
+Title: The Effortless, In-Depth How-To Tutorial
+Category: writing
+Teaser: Effortlessly write an extended "how-to"  tutorial (Use with SEO.app plugin for best results.)
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-26T19:59:43.435Z
+Help: 
+ID: 1827767832008724480
+PromptHint: Enter target keyword phrase. (For each prompt after, simply write "continue." until FAQ))
+PromptPackageID: 0
+
+Prompt:
+You are going to write an SEO How-to blog post in [TARGETLANGUAGE]. I'm going to give you all the instructions up front, but you're only going to execute one command for each output. Each separate/new commands will be notated by this symbol: >
+Once you execute the first command, I will simply tell you "continue" in the next prompt, and you will execute the next command in the sequence, until all the commands are complete.
+
+Here are the commands: 
+>Write a numbered list of 7 steps and sub-steps for [PROMPT]
+>Write an engaging H1 title that includes the keyword phrase. Then, in 2nd person narrative, write an introductory paragraph, opening with a relatable experience. Incorporate the exact keyword phrase somewhere in the paragraph where it makes sense. End with a variation of “here are the steps to take.”
+>Continue the extended blog post. Use H2 headings for each main talking point. Under each H2 heading should be 2-3 H3 subheadings, with at least three paragraphs under each H3 heading. Do not include the numbers/letters notating the outline. Do include examples, tips, and analogies occasionally throughout the article where they make sense. Your output should cover the following the first two talking points of the outline. 
+>Continue the extended blog post. Use H2 headings for each main talking point. Under each H2 heading should be 2-3 H3 subheadings, with at least three paragraphs under each H3 heading. Do not include the numbers/letters notating the outline. Do include examples, tips, and analogies occasionally throughout the article where they make sense. Your output should cover the following the next two talking points of the outline. 
+>Continue the extended blog post. Use H2 headings for each main talking point. Under each H2 heading should be 2-3 H3 subheadings, with at least three paragraphs under each H3 heading.  Do not include the numbers/letters notating the outline. Do include examples, tips, and analogies occasionally throughout the article where they make sense. Your output should cover the following the next two talking points of the outline. 
+>Continue the extended blog post. Use H2 headings for each main talking point. Under each H2 heading should be 2-3 H3 subheadings, with at least three paragraphs under each H3 heading. Do not include the numbers/letters notating the outline. Do include examples, tips, and analogies occasionally throughout the article where they make sense. Your output should cover the following the last talking point of the outline. Then, using an H2 heading for the conclusion, write a concluding paragraph that BRIEFLY touches on the article's talking points and ending on an encouraging note for the reader
+>Write an FAQ for any obvious questions the reader might have at this point

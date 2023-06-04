@@ -1,0 +1,20 @@
+AuthorName: Jennifer Sunardi
+AuthorURL: https://www.linkedin.com/in/jennifersunardi/
+
+Title: Lead Generation
+Category: marketing
+Teaser: Create a basic lead funnel in 1 CLICK using the information you provided on the industry you're trying to analyse and the topics related to it.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-24T07:07:35.597Z
+Help: 
+ID: 1826848743241285632
+PromptHint: Name the industry and the topics you're working on. If you want the results to be more accurate, describe the landscape of the industry you're planning to analyse.
+PromptPackageID: 0
+
+Prompt:
+Please make a basic lead generation funnel for the following industry and topics [PROMPT]. The lead generation funnel includes 4 steps. First step is the awareness step, which aims to research prospects, and generate online leads. In the second step, the interest step, includes introducing products & services, and qualifying & nurturing leads. Third step is the desire step, aimed to send proposals or quotes, and to negotiate terms. Fourth step is the last step, the action step. This is where people close the deal. Please elaborate the steps to take in each step of the funnel, while taking into account the objectives in each step of the funnel.
+
+Moreover, please also define how the strategies contribute to different lead types. There are 3 lead types: cold lead, warm lead and hot lead. Cold lead is defined to be a lead with minimal prior engagement, characterised with one showing minimal interest or engagement with the company or its offerings, conversion criteria being one displaying a sudden increase in engagement or interest, such as visiting the website multiple times or subscribing to updates. Warm lead is a lead with moderate interest and engagement, characterised with one demonstrating some level of interest or engagement with the company, such as downloading a brochure or requesting a test drive, with a conversion criteria of showing consistent engagement and interest over time, interacts with marketing materials, attends a car showcase event, or requests additional information about specific car models or features. Hot leat is defined as a highly engaged and interested lead. Characterised by one displaying strong interest and engagement, actively seeks information, and may have expressed intent to make a purchase. Conversion criteria being one expressing urgency or immediate need for a vehicle, requests a price quote, schedules a test drive, demonstrates knowledge about vehicle options and specifications, or shows readiness to negotiate financing terms. May also indicate intent to purchase within a short timeline or exhibits behaviors indicating a high likelihood of conversion into a customer.
+
+I want you to act as a digital marketing strategist and writes fluent [TARGETLANGUAGE]. Make it concise and straightforward.

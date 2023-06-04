@@ -1,0 +1,28 @@
+AuthorName: Dan Pearson
+AuthorURL: https://danpearson.net
+
+Title: Seo Optimized Article 
+Category: writing
+Teaser: SEO Optimized Article - GPT-4 Browsing Optimized | Title, Image Prompt, Headings - Proper Tags, Meta Title and Descriptions | Up to a 2000 Word Article
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-28T16:21:12.948Z
+Help: 
+ID: 1828437618371846144
+PromptHint: [Keyword, Title and/or Source]
+PromptPackageID: 0
+
+Prompt:
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE]. 
+If GPT-4 is enabled with Browsing or Plugins, do all research and browsing portion needs to happen first prior to building the article and not triggered at any point during the article, if it is not enabled proceed with the next line.
+First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. 
+For the article, write a unique and engaging article in [TARGETLANGUAGE], with a human-like tone, containing a minimum of 2000 words. Structure the article to include a catchy short title, an introduction, and a suggestion for an image placed within the content. Use Markdown formatting to emphasize the headings. Incorporate the target keyword "[PROMPT]" throughout the article. The first heading (H2) should include the seed keyword. For better reader experience, utilize a mix of formatting styles such as paragraphs, lists, and tables. Include at least one paragraph with the heading [PROMPT]. Additionally, provide at least six frequently asked questions (FAQs) with their respective answers. Finally, conclude the article effectively.
+To make the article livelier, incorporate various language features such as contractions, idioms, transitional phrases, interjections, and colloquialisms. However, ensure that the writing remains natural and avoids repetitive phrases and unnatural sentence structures. Also, aim to have less than 25% of the sentences with fewer than 20 words (so shorter sentences) and less than 10% of the content in the passive voice. Use transition words in over 25% of the sentences to maintain good readability. Remember the goal here is to rank the article with the focus keyword of the article while maintaining good readability of the article so what is said and how it is said throughout the article is important.
+After the article Include an SEO meta-description within 155 characters. The meta-description should be written in the active voice, include a call to action, and feature the target keyword [PROMPT]. Create a compelling SEO Meta Title with the keyword, limited to 70 characters.
+
+If GPT-4 is enabled with browsing or plugins are enabled, make sure to do any browsing our plugin work before the first table to ensure you have all of the information needed to develop that article and does not interrupt the article flow later. If browsing within the article make sure to reference Table 1 to make sure you stay on track with the article.
+
+Please conclude the article with this custom message:
+
+============================================
+Check out my site for more prompts and information about prompt engineering: https://danpearson.net

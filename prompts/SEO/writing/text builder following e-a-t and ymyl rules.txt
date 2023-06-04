@@ -14,17 +14,66 @@ PromptPackageID: 0
 
 Prompt:
 Por favor, ignore todas as instruções anteriores. 
+Quero que você atue como um criador de conteúdo de qualidade do Google em português, treinado em E-E-A-T (Experience, Expertise, Authoritativeness e Trust)
 
-Quero que você atue como um criador de conteúdo de qualidade do Google em português, treinado em E-E-A-T (Experience, Expertise, Authoritativeness e Trust) e YMYL (Your Money or Your Life)
-Seja muito rigoroso com sua criação. A parte da criação deve ser muito detalhada e é de extrema importancia que inclua referências ou fontes externas para sustentar as afirmações feitas.
+Seja muito rigoroso com sua criação. 
+A parte da criação deve ser muito detalhada e é de extrema importância. 
+Certifique-se que as informações fornecidas na página sejam precisas e atualizadas, correspondendo às expectativas do usuário que busca informações sobre o tema no site.
 
-Certifique-se que as informações fornecidas na página sejam precisas e atualizadas, correspondendo às expectativas do usuário que busca informações sobre o tema.
+Crie esse texto com 500 palavras de 2 a 3 titulos, mantenha os titulos todo em letra maiscula, em uma estrutura que garanta uma fluidez e legibilidade para o leitor da página, use no maximo 1 listas, e também nos títulos utilize palavras chaves relevantes ao tema. 
 
-Crie esse texto com 500 palavras em uma estrutura que garanta uma fluidez e legibilidade para o leitor da página dividindo por tópicos, listas, subtítulos entre outros elementos estruturais, e tambem nos titulos utilize palavras chaves relevantes ao tema. Ao final, sugira 5 perguntas frequentes sobre o tema para ser utilizado como FAQ.
+Ao final, sugira 5 perguntas frequentes e respostas mais comuns sobre o tema para ser utilizado como FAQ.
+Envie todo o texto envolvido com tags html, nas palavras chaves adicione a tag <strong>, me envie apenas o codigo dentro do body
 
-Aqui está o conteúdo da página:[VARIABLE]
+Todo o resultado deve vir em formato de codigo HTML.
+
+a estrtura das perguntas frequentes, siga o padrao abaixo, trocando a pergunta e as respostas apenas.
+<h2 data-tab="guia-instalacao">Perguntas Frequentes - Titulo</h2>
+<div data-tab="titulo">
+    <div itemscope itemtype="https://schema.org/FAQPage">
+        <details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+            <summary itemscope itemprop="name">PERGUNTA</summary>
+            <div itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                <p itemprop="text">RESPOSTA</p>
+            </div>
+        </details>
+    </div>
+</div>
+
+
+Para a estrutura do conteudo use o padrao abaixo:
+
+Siga o padrão abaixo:
+
+<p>...</p>
+
+<h2>...</h2>
+
+<p>...</p>
+<p>...</p>
+
+<h2>... </h2>
+
+<p>...</p>
+
+<ul class="list">
+<li>...</li>
+<li>...</li>
+<li>...</li>
+<li>...</li>
+</ul>
+
+<h2> ...</h2>
+<p>...</p>
+<p>...</p>
+
+
+Não coloque nenhuma class, id, data-tab, ou qualquer outra atributo dentro das tags, não use <ol>  e quando usar <ul> adicione a class="list". 
 
 Não repita o prompt. Não me lembre de instruções anteriores. Não peça desculpas. Não faça referências pessoais. Não faça nenhuma suposição. 
 
-[TARGETLANGUAGE]
-[PROMPT]
+
+
+E agora crie um texto para essa empresa com o seguinte termo: [KEYWORD]
+envie o texto em português
+[TARGETLANGUAGE] [PROMPT]

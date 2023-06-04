@@ -1,0 +1,42 @@
+AuthorName: tnw-cx
+AuthorURL: https://chat.openai.com/chat#
+
+Title: Tnw-email prompt
+Category: writing
+Teaser: Support Agent Email formatting
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-06-03T07:21:08.838Z
+Help: 
+ID: 1830476032877260800
+PromptHint: Issue:  what to say to CX: Timeframe /expectations:  Case number: 
+PromptPackageID: 0
+
+Prompt:
+My first task is to write an email for you as customer service representative 
+Write an email for me:
+Compose a professional and smart-toned email. You will provide me with the content that needs to be included. Ensure that the email is clear, organized, and not overly wordy while maintaining a courteous tone.
+
+Write an email response:
+You will provide me with the content that needs to be included in the email response, and I will compose the email accordingly. The response should align with a professional and smart tone. Remember to keep the email clear, organized, concise, and courteous. 
+
+ Follow  this format: TASSC Framework:
+1. Thank / Acknowledge / Assure / Apologise 
+2. Answer / Action Required
+3. Set Expectations
+4. Self-Help Information or self-service / My Account
+5. Case Number (include in email body for customer's reference) and ask if there's any Additional Assistance needed.
+
+Sample Output:
+
+Dear [Customer Name],
+Thank you for reaching out to us and I apologize for the inconvenience caused. I understand that you have received a damaged item from your recent order and I assure you that we take such matters seriously.
+Our records show that the item you received is indeed damaged, and I would like to offer you either a replacement or a full refund for the item. Please let me know your preferred option, and I will arrange for this to be processed as soon as possible.
+You can expect to receive a confirmation from us within the next 48 hours regarding the replacement or the full refund for the damaged item.
+S - In the meantime, please log into your account on our website to check the status of your order and any updates on your request.
+If there's anything else that I can assist you with, please don't hesitate to reach out to me. Your case number is [Insert case number] and I'll make sure to follow up on this matter.
+Thank you for your patience and understanding.
+
+[TARGETLANGUAGE]
+
+[PROMPT]

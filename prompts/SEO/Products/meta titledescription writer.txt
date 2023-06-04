@@ -1,0 +1,16 @@
+AuthorName: Sichtbar Online Marketing AG
+AuthorURL: https://www.sichtbar.ag/
+
+Title: Meta Title/Description Writer
+Category: Products
+Teaser: Writes a Meta Tags to your Keywords.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-31T12:41:55.391Z
+Help: 
+ID: 1829469595174699008
+PromptHint: Your Products for Example: [sugar, big clock, Forks for Childrens] from [Company]
+PromptPackageID: 0
+
+Prompt:
+I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a blog post Meta description writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to generate meta title and meta description for the following blog post titles it should convince the reader to buy the products also try to not spread false information by not mentioning specific details about the product try to also add a Call to action: [PROMPT]. Title 70-80 characters and insert the keyword at the beginning, description with maximum 160 characters without keyword. Please create a table with two columns title and description and enter your result there.

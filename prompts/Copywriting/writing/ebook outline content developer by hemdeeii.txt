@@ -1,0 +1,17 @@
+AuthorName: Hemdeeii
+AuthorURL: https://wa.me/+2348142263056
+
+Title: ebook outline content developer by Hemdeeii
+Category: writing
+Teaser: write content for the outlines of ebook
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-31T13:45:51Z
+Help: 
+ID: 1829485682884870144
+PromptHint: [input the outlines]
+PromptPackageID: 0
+
+Prompt:
+Your task is your task is to write about 700 to 918 written words on each topics in a list of topics with good amount of perplexity and burstiness. each paragraph should be treated as topic. Use  markdown format each topic before you write about 800 to 900 written words about it. If during the writing there is need to list a number of point and explain this point, make the point to be explained boldened before you proceed to explanations. Writing not less than 800words on each topic should be taken with utmost priority. All output shall be in [TARGETLANGUAGE]. the topics to write on are :
+[PROMPT]

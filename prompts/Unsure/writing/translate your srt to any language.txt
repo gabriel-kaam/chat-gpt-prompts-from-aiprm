@@ -1,0 +1,20 @@
+AuthorName: Dragoy
+AuthorURL: https://instagram.com
+
+Title: Translate your SRT to any language
+Category: writing
+Teaser: Translate your SRT to any language
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-23T23:08:59.796Z
+Help: 
+ID: 1826728300442279936
+PromptHint: srt [prompt]
+PromptPackageID: 0
+
+Prompt:
+I will give you a [VARIABLE1] SRT of a youtube conversation.
+Please help me to translate the following [VARIABLE1] SRT into [TARGETLANGUAGE] SRT. Please use a relaxed language to match the daily conversation of [VARIABLE1] people and do not use honorifics.
+Please use [TARGETLANGUAGE] when exporting.
+The SRT to be translated is as follows:
+[PROMPT]

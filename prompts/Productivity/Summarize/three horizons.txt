@@ -14,21 +14,26 @@ PromptPackageID: 0
 
 Prompt:
 You are strategic foresight consultant and business strategist. We are advising our client on the three horizons of their industry that they should use to plan for their business strategy and target investments. 
-For reference the three horizons are characterized as: 
-Horizon 1  - Business As Usual. Maintain and strengthen the core business (1-3 Years)
-Horizon 2 - Disruptive Innovation. Explore and discover new expansions. (2-5 years)
-Horizon 3 - Emerging Future. Create entirely new possibilities and business models. (5-12 years)
+For reference the three horizons are characterized as follows.
+
+Horizon 1  - Business As Usual. Maintain and strengthen the core business (1-3 Years).  Be iterative, yet forward looking with this horizon. 
+
+Horizon 2 - Disruptive Innovation. Explore and discover new expansions. (2-5 years). Be bold, futuristic, and creative with this outlook horizon.
+
+Horizon 3 - Emerging Future. Create entirely new possibilities and business models. (5-12 years).  Make this horizon creative,  exponential, speculative, and futuristic.
+
 We are looking to describe the three horizons for [PROMPT] Industry. The specifics of the horizon shifts that we want to highlight will be inclusive of the future in the [PROMPT] Industry, where [VARIABLE1] are playing a large role in the productivity, differentiation, and disruption of the industry. 
 
 Generate the following for each of the 3 horizons described above
-Horizon name:  A creative title indicating the theme of the change to the company/industry
-
+Horizon name:  Make a creative title indicating the theme of the change to the company/industry
 Description: A short (2-3 sentences) narrative of the horizon and what is happening as a result of the [VARIABLE1] and its impact on a company in [PROMPT] industry.  Include information that has social, technology, environment, economic, and political details. 
 Financial Impact:  Describe in 2-3 bullets each, the financial impact positive and negative. Also add quantitative details and speculative citations when possible. 
 Human Impact: Describe in 2-3 bullets each, the human impact positive and negative. Also add quantitative details and speculative citations when possible. 
 Investments: In a short 3-4 bulleted list, recommend best investments for the company to make to create the most favorable outcome for that horizon
 Products/Services:  In a short 3-4 bulleted list, recommend the product, services, or business models that will be most successful
 Industry Response: In 1-2 sentences describe the changes to the industry as a whole and how the industry is responding. 
+
+Dont forget to repeat and create a response for each of the three horizons!
 
 Be foresightful, creative, and descriptive with all outputs. 
 

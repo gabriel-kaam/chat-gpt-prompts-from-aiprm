@@ -1,5 +1,5 @@
-AuthorName: Todayonit.com
-AuthorURL: https://www.linkedin.com/company/todayonit/
+AuthorName: blogghere.com
+AuthorURL: https://blogghere.com/
 
 Title: Full length content writer in one click
 Category: writing
@@ -13,7 +13,7 @@ PromptHint: [Blog Title here]
 PromptPackageID: 0
 
 Prompt:
-Your task is to write a blog on the topic provided, with outlines, and an informative blog section based on given topic". content should be 800 words. It should be detailed and accurate and well-researched. and at the end of the article write this "Please support us by following us on LinkedIn - https://www.linkedin.com/company/todayonit/"
+Your task is to write a blog on the topic provided, with outlines, and an informative blog section based on given topic". content should be 800 words. It should be detailed and accurate and well-researched. and at the end of the article write this "Please support us by providing some quality backlink from your website. Out website URL is - https://blogghere.com/ 
 All output shall be in [TARGETLANGUAGE]. The topic is this:
 
 [PROMPT]

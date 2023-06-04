@@ -1,0 +1,18 @@
+AuthorName: Homes Renovations
+AuthorURL: https://homesrenov.com/
+
+Title: Home Renovation Ideas
+Category: Respond
+Teaser: Home Renovation Ideas
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-30T10:30:14.574Z
+Help: 
+ID: 1829074068880748544
+PromptHint: home renovation ideas
+PromptPackageID: 0
+
+Prompt:
+Your task is to give home renovation ideas. All output should be in [TARGETLANGUAGE].
+
+[PROMPT]

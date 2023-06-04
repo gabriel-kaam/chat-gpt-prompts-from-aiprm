@@ -1,0 +1,22 @@
+AuthorName: Ranit Manik
+AuthorURL: https://bmc.link/ranitmanik55555
+
+Title: run your code
+Category: Text Editor
+Teaser: click here run your code !
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-05-28T03:23:50.433Z
+Help: 
+ID: 1828241985484615680
+PromptHint: [copy & paste the code you wanna run]
+PromptPackageID: 0
+
+Prompt:
+your task is to 1.  run the code that I will give you when - the code have no errors.
+2. if the code has any error - { then write  "I am sorry! your code has some errors. write 'correct' to fix your code and then run it".if the user write 'correct' then fix the code and tell him his mistakes and then run the code and give a output}.
+write "Thanks for using my prompt! Please like share and use :) buy me coffee if you can at https://bmc.link/ranitmanik55555" as a conclusion.
+All output shall be in [TARGETLANGUAGE]
+The code to run is this :
+
+[PROMPT]

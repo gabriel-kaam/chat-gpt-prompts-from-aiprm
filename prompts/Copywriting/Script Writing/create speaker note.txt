@@ -1,0 +1,16 @@
+AuthorName: Suat ATAN
+AuthorURL: http://suatatan.wordpress.com
+
+Title: Create speaker note
+Category: Script Writing
+Teaser: Create speaker note for your presentations
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-28T13:16:02.762Z
+Help: 
+ID: 1828391018874277888
+PromptHint: Copy and paste your slide bullets. I'll convert them into speaker notes.
+PromptPackageID: 0
+
+Prompt:
+I'll give you a bullet from one of the slides from my presentation and create a speaker note from it in [TARGETLANGUAGE]. The length of this slide should be 2 minutes. Read following contents [PROMPT]

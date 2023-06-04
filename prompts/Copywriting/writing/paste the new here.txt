@@ -1,0 +1,17 @@
+AuthorName: Pixel Wave - Agencia de Marketing Digital
+AuthorURL: https://pixelwave.agency
+
+Title: Paste the new here
+Category: writing
+Teaser: Paste here the complete news you want to rewrite
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-02T05:56:18.938Z
+Help: 
+ID: 1830092296423735296
+PromptHint: Rewrite any news and get 100% original content for your blog
+PromptPackageID: 0
+
+Prompt:
+Reescribe la siguiente noticia y crea un texto 100% original. Utiliza un lenguaje más persuasivo, más empático con el público y utiliza encabezados (h1, resumen, h2, texto). Además, antes de la noticia, añade unas 2-5 líneas a modo resumen.
+[TARGETLANGUAGE]  [PROMPT] 

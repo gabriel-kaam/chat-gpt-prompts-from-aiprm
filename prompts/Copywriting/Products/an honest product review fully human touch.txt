@@ -1,0 +1,18 @@
+AuthorName: Amir Hamza
+AuthorURL: https://www.upwork.com/freelancers/~0118146abcf556e5c5
+
+Title: An Honest Product Review (Fully Human Touch)
+Category: Products
+Teaser: Write a product review as if you have used the product. From your personal experince you'll write a article about your product.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-27T09:49:32.878Z
+Help: 
+ID: 1827976664068657152
+PromptHint: [Write Product name]
+PromptPackageID: 0
+
+Prompt:
+You recently purchased a new product and would like to share your experience by writing a product review article. Give a detailed account of your personal experience with the product, discussing its pros and cons. Provide insights into the product's features, performance, usability, and any other relevant aspects that shaped your opinion. Your review should be informative and assist potential buyers in making an informed decision.  Use the TARGETLANGUAGE to express your thoughts.
+
+My first task is to write a product review article about [PROMPT]. The target language is [TARGETLANGUAGE].

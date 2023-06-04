@@ -1,0 +1,18 @@
+AuthorName: Thiago Werlley - twbs
+AuthorURL: https://www.quixada.ufc.br/docente/thiago-werlley-bandeira-da-silva/
+
+Title: Rewriting latex
+Category: Summarize
+Teaser: Correct my spelling and grammar.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-25T13:02:39.493Z
+Help: 
+ID: 1827300486123098112
+PromptHint: [text]
+PromptPackageID: 0
+
+Prompt:
+Apresente o resultado no idioma [TARGETLANGUAGE]. Corrigir minha ortografia e gramatica [TARGETLANGUAGE]. Coloque o autor nas chaves de \citeonline{} [TARGETLANGUAGE]. Reescreva em linguagem técnica e use a voz ativa [TARGETLANGUAGE]. Marque os erros de concordância, ortográfico e gramatical em negrito [TARGETLANGUAGE]. O texto para resumir é este:
+
+[PROMPT]

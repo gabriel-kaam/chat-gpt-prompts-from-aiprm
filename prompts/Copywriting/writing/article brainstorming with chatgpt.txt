@@ -1,0 +1,19 @@
+AuthorName: blue News Redaktion
+AuthorURL: https://www.bluewin.ch/de/index.html
+
+Title: Article Brainstorming with ChatGPT
+Category: writing
+Teaser: Create article Ideas from scratch
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-19T21:12:42.245Z
+Help: 
+ID: 1825249483009818624
+PromptHint: [topic]
+PromptPackageID: 0
+
+Prompt:
+You are a professional Journalist. Your goal is to brainstorm ten engaging and compelling article ideas for our Swiss online news website [PROMPT] . Generate it in the [TARGETLANGUAGE]. Focus on different
+post formats (e.g., images,
+videos, polls). Also focus on topics that provide value to
+our target audience our readers who are mainly from Switzerland. Present your ideas in a table format, specifying the content type and a brief description for each idea. Orientate yourself on trends, season and weather. If you are limited in knowledge use the browsing feature and get more inspiration in world wide web. 

@@ -1,0 +1,21 @@
+AuthorName: Nguyen
+AuthorURL: https://abc.com
+
+Title: Explain text
+Category: Accounting
+Teaser: Explain text
+
+Community: Applications-f69b52b4213a6bd3
+CreationTime: 2023-05-29T03:52:42.855Z
+Help: 
+ID: 1828611639654739968
+PromptHint: Explain text
+PromptPackageID: 0
+
+Prompt:
+I will give you text content, you will explain it and output an easy-to-understand explanation. I want you to pretend to explain the text to a middle school student who has no background knowledge or professional knowledge about the text I give you. Your task is to write the highest quality explanation possible, including examples and analogies if necessary.
+Only give me the output and nothing else.
+Now, using the concepts above, explain the following text. Respond in the same language variety or dialect of the following text in [TARGETLANGUAGE]:
+"""
+[PROMPT]
+"""

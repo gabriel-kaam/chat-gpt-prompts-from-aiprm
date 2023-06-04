@@ -1,0 +1,16 @@
+AuthorName: Raj
+AuthorURL: https://tinksystore.com/
+
+Title: Caption writing for a meme
+Category: Script Writing
+Teaser: Create an engaging instagram caption for a meme
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-27T10:39:46.226Z
+Help: 
+ID: 1827989302966226944
+PromptHint: [Type the content of your meme/ what your meme is about]
+PromptPackageID: 0
+
+Prompt:
+Write a fun, engaging and informative caption for an instagram meme which says [PROMPT] . Make sure it's funny and value-adding at the same times. Do put a few emojis and 4-5 top hashtags for the same. All output shall be in [TARGETLANGUAGE]

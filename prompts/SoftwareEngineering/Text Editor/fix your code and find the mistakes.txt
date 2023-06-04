@@ -1,0 +1,22 @@
+AuthorName: Ranit Manik
+AuthorURL: https://bmc.link/ranitmanik55555
+
+Title: Fix your code and find the mistakes
+Category: Text Editor
+Teaser: find the mistakes and correct your code
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-05-27T18:18:00.479Z
+Help: 
+ID: 1828104622221561856
+PromptHint: [copy & paste the code you wanna correct]
+PromptPackageID: 0
+
+Prompt:
+your task is to find the mistakes of the correct and highlight them with telling me the line number of the mistake and then
+correct the code and write the code that I give you and Write "No worries i have corrected your code"as the first line if there is something wrong in the given code ,no need to do the step if the code is right.if the code is right then print"The code is absolutely right ! No need to Fix it :)".
+write "Thanks for using my prompt! Please like share and use :) buy me coffee if you can at https://bmc.link/ranitmanik55555" as last line.
+All output shall be in [TARGETLANGUAGE]
+The code to correct is this :
+
+[PROMPT]

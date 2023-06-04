@@ -1,0 +1,42 @@
+AuthorName: Daniel
+AuthorURL: https://slotsparadise.com/
+
+Title: SP Rewriting News
+Category: writing
+Teaser: SP Rewriting News
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-04-21T18:25:40.808Z
+Help: 
+ID: 1815060589819715584
+PromptHint: ["text", first keyword, second keyword, third keyword, fourth keyword]
+PromptPackageID: 0
+
+Prompt:
+Rewrite the casino news content enter in this [PROMPT] as "text". Follow all the instructions and template below. [TARGETLANGUAGE]
+
+Instructions:
+1. Create an SEO Meta title and description for this content. Include the first keyword on both.
+2. IMPORTANT: Create 700 words content (SEO Meta Tags don't count).
+3. Use a 7% keyword density with the first keyword. 
+4. Include the complete second keyword, third keyword, and fourth keyword one time on the content in an SEO-friendly way. Just mention those keywords, don't develop content based on them. Distribute those keywords in different sections of the content, do not put all the keywords in the same paragraph.
+5. Use a youth tone of voice. Be based on our casino concept to create this content: "Slots Paradise is a female orientated Slot-based online casino. This website will feature and very feminine based branding style and appeal to women in their middle age (40-55)."
+6. Variety sentences. 
+7. Subheading distribution. 
+8. Paragraphs not longer than 150 characters. 
+9. Sentence length not more than 20 words 
+10. At least 30% of the sentences in your text contain a transition word (Is a must).
+
+Template:
+<H1> Use the complete first keyword to create a new H1 for this content </H1>
+In this section, create an introductory content regarding the main topic of the article. Include the complete first keyword on the first paragraph. Use a catchy CTA to invite the customer to continue reading and join our casino.
+
+<H2> Use the complete first keyword to create a new H2 for this content </H2>
+In this section, develop a topic related to the first keyword.
+
+From this point on, you can be creative with the content. All the new content needs to be ordered with H3s and H4s (H4s if is needed). Add the first keyword on 25% of these headers (H3s or H4s).
+
+<H3> Conclusion </H3>
+In this section, create a conclusion paragraph for all the previous content created.
+
+If I press continue, keep typing from the last word where you finished and the same idea.

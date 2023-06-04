@@ -1,0 +1,16 @@
+AuthorName: Bill
+AuthorURL: https://billlennox.me
+
+Title: Reading
+Category: Games
+Teaser: A Reader
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-03T20:25:04.403Z
+Help: 
+ID: 1830673314335686656
+PromptHint: Prompt Help
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] of [PROMPT] and [DATEOFBIRTH], [FIRSTNAME] and [LASTNAME] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3.

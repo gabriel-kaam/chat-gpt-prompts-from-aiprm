@@ -1,0 +1,40 @@
+AuthorName: Larry Kelly
+AuthorURL: https://sites.google.com/view/ai-prompts/home
+
+Title:  optimized eBay listing 
+Category: writing
+Teaser: Create an optimized EBay listing with only the product name
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-02T19:06:45.259Z
+Help: 
+ID: 1830291216831606784
+PromptHint: Enter product here:
+PromptPackageID: 0
+
+Prompt:
+Provide an ebay optimized listing for [PROMPT]
+Please provide a title and description.
+Make the title unique
+Include all the top features of the product in the title
+Capitalize the first letter of each word, but not all letters of a word.
+Use 12-16 relevant keywords.
+Describe the item in the title in a clear and concise manner.
+Write the title correctly — avoid writing entire words in capital letters or with asterisks and other markers between words.
+Start your titles with relevant keywords and organize them in a readable, logical order.
+Don't use acronyms, like NIB, that buyers may not understand.
+Avoid words in all caps or characters like asterisks unless they're part of your product's name.
+Include the item's brand name, artist, or designer.
+Include item-specifics, such as size, color, and condition.
+State exactly what your item is, even if your title repeats the category name.
+Include specifics about the item, such as style, color, type, size, and branding.
+Make sure the description is unique and factual.
+Add more keywords, but not for the sake of getting clicks.
+Place the product at the beginning of your eBay listing title
+Item specifics could be the color, the size, the brand, the model, and the packaging.
+
+List 5 keywords and 5 hash tags.
+
+Make an educated guess of the used and new prices of the item listed.
+
+[TARGETLANGUAGE]

@@ -1,0 +1,20 @@
+AuthorName: Jiun
+AuthorURL: http://naver.com
+
+Title: Risk cases
+Category: Research
+Teaser: Risk case, risk management table
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-24T13:03:43.582Z
+Help: 
+ID: 1826938367066243072
+PromptHint: [Risk cases]
+PromptPackageID: 0
+
+Prompt:
+I want you to respond only in [TARGETLANGUAGE].
+I want you to create a table for possible risk cases about [PROMPT] with risk management table.
+There must exist columns for Risk event, Description of risk event, potential hazard, potential effects of failure, Probability, severity, Risk level, risk mitigation. 
+For each risk cases, you should generate safety requirements for them below the table you made. 
+

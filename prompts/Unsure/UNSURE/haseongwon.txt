@@ -1,0 +1,27 @@
+AuthorName: 수업실연 활동지
+AuthorURL: http://www.수업실연.com
+
+Title: haseongwon
+Category: UNSURE
+Teaser: haseongwon
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-29T06:03:27.361Z
+Help: 
+ID: 1828644541897637888
+PromptHint: make [00] sentences in english
+PromptPackageID: 0
+
+Prompt:
+You are an elementary school teacher. Please help me make a class study paper from now on. We will produce sentences that answer random times based on the format below.
+[VARIABLE1: Target Language][VARIABLE1], make a sentence that answers the time that begins with this expression. [VARIABLE2: expression][VARIABLE2]. However, at this time, the answer must follow the form below. 'It's ~:~'. At this time, instead of answering the daily routine, answer the sentence that only answers the time in english
+[TARGETLANGUAGE]
+
+
+<Script>
+
+[PROMPT]
+
+Now, please make a sentence for the activity paper..
+Please answer with [Target Language].
+

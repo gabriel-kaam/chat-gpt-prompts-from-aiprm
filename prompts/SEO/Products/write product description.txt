@@ -1,0 +1,140 @@
+AuthorName: Amir Ali
+AuthorURL: https://aamirali.com
+
+Title: Write Product Description
+Category: Products
+Teaser: Write product description, Enter product title and it will understand the product type from title of the product and write description acordingly.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-30T19:44:10.904Z
+Help: 
+ID: 1829213472152608768
+PromptHint: [Enter Product Title or Name]
+PromptPackageID: 0
+
+Prompt:
+i want you to write product description for product i will give you the title, but you need understand that what that product is. is that hoodie, t-shirt, sweatshirt, long-sleeves, tracksuit, shorts or any other? identity the product and pick the instructions as per product type from the instructions given below. [TARGETLANGUAGE] 
+
+note: everytime you give output please do not repeat anything. always gives unique output.
+
+write product description for:  [PROMPT]
+
+product type: hoodie
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
+material: the hoodies are made from a high-quality blend of cotton and polyester fabric. this combination ensures durability, breathability, and a comfortable fit.
+design: the hoodies feature a classic pullover style with a spacious front pocket and an adjustable drawstring hood. they have a relaxed fit that allows for easy movement and layering.
+colors and patterns: the hoodies are available in a variety of colors, including black, gray, white, red, pink and also available in various different colors. additionally, there are options with various patterns such as stripes, camouflage, embroidered, and graphic prints.
+sizes: the hoodies are offered in a range of sizes, from small to xxl, ensuring a suitable fit for different body types.
+warmth: the hoodies provide excellent insulation, making them suitable for cooler weather. the soft interior lining helps to retain body heat and keep you warm and cozy.
+durability: the hoodies are crafted with reinforced stitching to enhance durability and withstand every day wear. they are designed to maintain their shape and color even after multiple washes.
+softness: the fabric used in the hoodies is specially chosen for its softness and comfort against the skin. it feels gentle and cozy, allowing for all-day comfort.
+breathability: despite their warmth, the hoodies are breathable, allowing air circulation to prevent overheating. this makes them suitable for both indoor and outdoor activities.
+washing instructions:
+to keep your hoodies in the best condition, please follow these washing instructions:
+machine wash: turn the hoodie inside out before placing it in the washing machine.
+water temperature: use cold or lukewarm water to preserve the fabric's softness and color.
+detergent: use a mild detergent specifically designed for colored fabrics. avoid using bleach or harsh chemicals.
+gentle cycle: select the gentle or delicate cycle on your washing machine to prevent excessive agitation.
+drying: it is recommended to air dry the hoodies by laying them flat on a clean surface. avoid direct sunlight to prevent fading. if using a dryer, choose a low heat setting.
+explain care instructions:
+don’t wash your hoodie after every wear
+turn the hoodie inside out
+use cold water
+choose detergent wisely
+avoid these 3 washing mistakes
+1: using fabric softener
+2: overstuffing the washing machine
+3: relying on the dryer:
+
+
+summarize the description in bullet points.
+add heading in h3 “check out some other popular products”
+add 5 random customer reviews about the product with the heading in h5 “satisfied customers” and bold the name of the customer.
+enjoy the softness, comfort, and style of your “enter product name here”!
+
+
+
+
+
+product type: t-shirt
+t-shirt specifications:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
+material: the t-shirts are made from high-quality 100% cotton fabric. this ensures a soft, comfortable feel against the skin and excellent breathability.
+design: the t-shirts feature a classic crew neck and short sleeves, providing a versatile and timeless look. they have a regular fit that is neither too tight nor too loose.
+colors and patterns: the t-shirts are available in a wide range of colors, including black, white, gray, navy blue, and various vibrant shades. they are also offered with different patterns such as stripes, solid colors, and graphic prints.
+sizes: the t-shirts are available in a variety of sizes, ranging from small to xxl, catering to different body types and preferences.
+comfort: the t-shirts are designed to prioritize comfort, with a lightweight and breathable fabric that allows for ease of movement. they are ideal for everyday wear and various activities.
+durability: the t-shirts are crafted with durable stitching to ensure longevity. they are designed to withstand regular washing and maintain their shape and color over time.
+care instructions: to keep your t-shirt in excellent condition, it is recommended to machine wash it with like colors in cold water. tumble dry on low heat or air dry to preserve its shape and prevent shrinkage. avoid using bleach or harsh chemicals.
+versatility: the t-shirts can be easily paired with different bottoms, such as jeans, shorts, or skirts, for a casual or dressed-up look. they can also serve as a base layer under sweaters or jackets during cooler weather.
+breathability: the 100% cotton fabric of the t-shirts allows for excellent air circulation, keeping you cool and comfortable throughout the day.
+style: the t-shirts offer a versatile canvas for self-expression and personal style. whether you prefer a minimalist design or a bold statement, there are options to suit various tastes.
+
+summarize the description in bullet points heading in h5 "product specifications".
+add heading in h3 “check out some other popular products”
+add 5 random customer reviews about the product with the heading in h5 “satisfied customers” and bold the name of the customer.
+enjoy the softness, comfort, and style of your “enter product name here”!
+
+
+
+product type: sweatshirt
+sweatshirt specifications:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
+material: sweatshirts are typically made from a soft and cozy blend of cotton and polyester fabric. this combination ensures warmth, comfort, and durability.
+design: sweatshirts are characterized by their long sleeves, crew neck or hood, and ribbed cuffs and hem. they often have a relaxed fit that allows for comfortable layering.
+colors and patterns: sweatshirts are available in a wide range of colors, including neutrals like gray, black, and navy blue, as well as vibrant shades like red, green, or yellow. they may also feature various patterns such as stripes, color blocking, or graphic prints.
+sizes: sweatshirts come in different sizes, typically ranging from small to xxl, to accommodate various body types.
+warmth: sweatshirts are designed to provide warmth and insulation, making them suitable for cooler weather. the thick fabric and long sleeves help to retain body heat.
+comfort: the fabric used in sweatshirts is chosen for its softness and comfort against the skin. it feels cozy and provides a relaxed and cozy feel, perfect for lounging or casual outings.
+durability: sweatshirts are crafted with reinforced stitching to enhance durability and withstand frequent wear and washing. they are designed to maintain their shape and color even after multiple washes.
+breathability: despite their warmth, sweatshirts are designed to be breathable, allowing air circulation to prevent overheating during physical activities or in warmer environments.
+care instructions: to care for your sweatshirt, it is generally recommended to machine wash it inside out with like colors using cold water. tumble dry on low heat or air dry to prevent shrinkage. avoid using bleach or harsh chemicals.
+versatility: sweatshirts can be styled in various ways. they can be worn casually with jeans or paired with sweatpants for a comfortable loungewear ensemble. they can also be layered over a shirt or under a jacket for added warmth and style.
+
+summarize the description in bullet points heading in h5 "product specifications".
+add heading in h3 “check out some other popular products”
+add 5 random customer reviews about the product with the heading in h5 “satisfied customers” and bold the name of the customer.
+enjoy the softness, comfort, and style of your “enter product name here”!
+
+
+
+
+product type: tracksuit
+tracksuit specifications:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
+material: tracksuits are typically made from a durable and lightweight blend of polyester and/or nylon fabric. this fabric combination provides comfort, flexibility, and moisture-wicking properties.
+design: tracksuits consist of a matching set of jacket and pants. the jacket usually features a full-zip or half-zip closure, a stand-up collar, and ribbed cuffs and hem. the pants typically have an elastic waistband with a drawstring and elasticized cuffs.
+colors and patterns: tracksuits come in a variety of colors, ranging from classic neutrals to vibrant hues. they may also feature patterns such as stripes, color blocking, or subtle graphic designs.
+sizes: tracksuits are available in a range of sizes to accommodate different body types and preferences. they typically come in sizes from small to xxl.
+comfort: the fabric used in tracksuits is designed to provide comfort and ease of movement during physical activities. it is lightweight, breathable, and allows for optimal ventilation.
+moisture-wicking: tracksuits often feature moisture-wicking properties, which means they help draw sweat away from the body, keeping you dry and comfortable during workouts or sports activities.
+durability: tracksuits are constructed with sturdy stitching and durable materials to withstand the rigors of exercise and regular wear. they are designed to maintain their shape and color even after multiple washes.
+versatility: tracksuits are versatile and can be worn for various purposes, such as athletic training, casual wear, or as a coordinated sportswear ensemble. they provide a stylish and comfortable option for both indoor and outdoor activities.
+care instructions: to care for your tracksuit, it is generally recommended to machine wash it inside out with like colors using cold water. tumble dry on low heat or air dry. avoid using bleach or fabric softeners, as they may affect the fabric's performance.
+style: tracksuits offer a sporty and fashionable look. they can be paired with sneakers or athletic shoes for a complete athletic outfit. the coordinated jacket and pants provide a unified and put-together appearance.
+
+summarize the description in bullet points heading in h5 "product specifications".
+add heading in h3 “check out some other popular products”
+add 5 random customer reviews about the product with the heading in h5 “satisfied customers” and bold the name of the customer.
+enjoy the softness, comfort, and style of your “enter product name here”!
+
+
+product type: sweatpant
+sweatpants specifications:
+Summarise the following details in 100-150 words and also include product tile/name there in 2 times:
+material: sweatpants are typically made from a soft and cozy blend of cotton and polyester fabric. this combination ensures comfort, breathability, and flexibility.
+design: sweatpants feature an elasticized waistband with a drawstring for adjustable fit. they have a relaxed and loose fit, providing freedom of movement. the pants often have elasticized cuffs at the ankles for a secure and comfortable fit.
+colors and patterns: sweatpants come in a variety of colors, including neutrals like gray, black, and navy blue, as well as vibrant shades. they may also feature patterns such as stripes, color blocking, or graphic prints.
+sizes: sweatpants are available in different sizes, ranging from small to xxl, to cater to various body types and preferences.
+comfort: the fabric used in sweatpants is selected for its softness and comfort against the skin. they offer a relaxed and cozy feel, making them perfect for lounging or casual activities.
+breathability: sweatpants are designed to be breathable, allowing for air circulation to keep you comfortable even during physical activities or in warmer environments.
+durability: sweatpants are crafted with reinforced stitching to enhance durability and withstand regular wear and washing. they are designed to maintain their shape and color even after multiple washes.
+pockets: sweatpants often feature convenient side or back pockets for storing small essentials like keys or a phone.
+care instructions: to care for your sweatpants, it is generally recommended to machine wash them inside out with like colors using cold water. tumble dry on low heat or air dry to prevent shrinkage. avoid using bleach or harsh chemicals.
+versatility: sweatpants are versatile and can be worn for various occasions. they are ideal for casual wear, lounging at home, running errands, or light exercise. they can be paired with t-shirts, hoodies, or sweatshirts for a comfortable and laid-back look.
+
+summarize the description in bullet points heading in h5 "product specifications".
+add heading in h3 “check out some other popular products”
+add 5 random customer reviews about the product with the heading in h5 “satisfied customers” and bold the name of the customer.
+enjoy the softness, comfort, and style of your “enter product name here”!
+

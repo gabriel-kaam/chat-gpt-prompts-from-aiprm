@@ -1,0 +1,29 @@
+AuthorName: Resevere
+AuthorURL: https://resevereusa.blogspot.com/
+
+Title: 10 Chapter Book Outline w/ Detailed Intro
+Category: writing
+Teaser: Write a few sentences and just like magic you'll have a book outline/table of contents churned out for you with a lengthy introduction to get you started. Check it out for yourself and I would love to hear any feedback to continuously improve this prompt for all!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-12T01:22:32.424Z
+Help: 
+ID: 1811541617484763136
+PromptHint: Write a few sentences that you want your book to be about.
+PromptPackageID: 0
+
+Prompt:
+Generate book title with provided keyword[TARGETLANGUAGE] [PROMPT]
+Generate 10 book chapters with the title provided and list them[TARGETLANGUAGE] [PROMPT]
+Generate detailed book intro with the title provided and more then 1200 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 1 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 2 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 3 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 4 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 5 with detailed information and more then 4000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 6 with detailed information and more then 2500 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 7 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 8 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 9 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]
+Write Chapter 10 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]
+Generate detailed book conclusion with the title provided and more then 1000 words[TARGETLANGUAGE] [PROMPT]

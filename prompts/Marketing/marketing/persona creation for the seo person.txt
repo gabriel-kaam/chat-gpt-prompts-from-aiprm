@@ -1,0 +1,30 @@
+AuthorName: Adelyn Seit
+AuthorURL: https://adelynseit.com/
+
+Title: Persona Creation for the SEO Person 
+Category: marketing
+Teaser: Create a Persona for your SEO team. This is the best guidelines for them to create semantically related content for them (Works best for GPT4, but 3.5 also works)
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-17T05:34:13.821Z
+Help: 
+ID: 1824288532630597632
+PromptHint: [Persona Details. Please provide as much context as possible] 
+PromptPackageID: 0
+
+Prompt:
+Create a detailed customer persona profile to be used for [PROMPT] persona. Along with the Psychographics, Demographics, and Behavioural, I need to incorporate the following details for their online activity: 
+Search Terms
+LSI Related Terms to Search Terms
+Frequently Asked Questions 
+Semantically Related Frequently Asked Questions 
+Estimated Traffic Volume for Search Terms 
+Estimated Traffic Volume for FAQs
+Estimated Traffic Volume for LSI Terms 
+Key drivers of decision-making online 
+Buying Journey Brief 
+Influencers
+ For the "Estimated Traffic Volume for Search Terms" and "Estimated Traffic Volume for FAQs" use a numerical range as a monthly estimate by that kind of persona. 
+Please use a tabulated format for the demographics, psychographics, and behavioral information and all the above fields and output.
+
+Please write in [TARGETLANGUAGE] language.

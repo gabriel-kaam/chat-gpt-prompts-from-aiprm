@@ -1,0 +1,16 @@
+AuthorName: Anibal Alcantara Jr
+AuthorURL: https://anibalalcantarajr.com
+
+Title: Historical Data for Economic Conditions.
+Category: Plan
+Teaser: Under which economic conditions companies in a specific industry prosper. Companies that have thrived. Historical data for specific industry.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-14T21:40:54.073Z
+Help: 
+ID: 1801338979921170432
+PromptHint: [Enter your industry]
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient ECONOMIST and high end copy writer that speaks and writes fluent [TARGETLANGUAGE].Your task is to check historical data and provide a concise response during which economic conditions the companies in the indicated industry have thrived: [PROMPT] All output should be in [TARGETLANGUAGE]

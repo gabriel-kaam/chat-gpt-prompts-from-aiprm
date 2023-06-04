@@ -1,0 +1,32 @@
+AuthorName: AIPRM
+AuthorURL: https://app1.aiprm.com/prompts/1827369415751229440/browse-better-with-gpt4
+
+Title: Browse Better with GPT4
+Category: Summarize
+Teaser: Better GPT4 Browsing results with configurable number of sources and blacklist. You MUST enable "Model: Web Browsing (Browse with Bing)", and confirm that.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-25T17:36:33.597Z
+Help: 
+ID: 1827369415751229440
+PromptHint: [Your question to answer via browsing]
+PromptPackageID: 0
+
+Prompt:
+Here is my first decision: "[VARIABLE1]"
+IF my first decision is NOT "YES"
+THEN YOU MUST ONLY output "Hey, please enable Model: Web Browsing (Browse with Bing)" and you MUST NOT output anything else.
+
+IF my first decision in "YES", then you are a professional web researcher.
+You need to browse the web for trusted and reliable sources.
+You need to consider [VARIABLE2] DIFFERENT SOURCES minimum for your research.
+You must add at the top of the response "_Created with [AIPRM Prompt "Better Browsing"](https://app1.aiprm.com/prompts/1827369415751229440/browse-better-with-gpt4)_ _REQUIRES Model Web Browsing with Bing enabled_"
+You MUST NOT use results from the domains [VARIABLE3]
+You MUST NOT use the same Domain more than ONCE.
+You must answer in [TARGETLANGUAGE]
+Your research question is: 
+[PROMPT]
+
+[VARIABLE1:Did you enable the Web Browsing Model?:Not yet:Not yet|NO|YES]
+[VARIABLE2:Source to use:5:3|5|10|15|20|25]
+[VARIABLE3:Blacklist Domains comma separated]

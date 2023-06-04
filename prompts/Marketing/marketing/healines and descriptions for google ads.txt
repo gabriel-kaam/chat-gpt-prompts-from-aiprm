@@ -1,0 +1,28 @@
+AuthorName: Deivis Leyva
+AuthorURL: https://deivisleyva.com/
+
+Title: Healines and Descriptions for Google Ads
+Category: marketing
+Teaser: Create a very specific set of 30 headlines and 20 descriptions for your Google Ads campaign. As more specific you are with your Campaign Goal and your Target Audience descriptions the better the results would be.
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-05-22T23:21:57.404Z
+Help: 
+ID: 1826369174096834560
+PromptHint: [keyword], [campaign goal], [audience]
+PromptPackageID: 0
+
+Prompt:
+The text should be in the following language [TARGETLANGUAGE]
+
+[PROMPT]
+I want you to use all your background about best practices for ad copywriting and act as an expert to create the best headlines and descriptions for a Google Ads Campaign. Consider this information to build each headline and description: The campaign's main keyword is [KEYWORD], the goal of the campaign is [CAMPAIGNGOAL], the campaign is made for this specific audience [AUDIENCE]
+
+Make sure all the headlines and descriptions are plagiarism free. Use a language that connects and resonate with the specific audience.
+
+Consider the given characteristics of the specific audience as insights to understand their pain-points and present a solution throughout the headlines and descriptions. 
+
+Give me thirty headlines. They should be 30 characters maximum. Present them in a sheet format with the title HEADLINES (Max 30 Characters)
+
+Give me thirty descriptions. The descriptions should be 90 characters maximum. Present them in a sheet format with the title DESCRIPTIONS (Max 90 Characters)
+

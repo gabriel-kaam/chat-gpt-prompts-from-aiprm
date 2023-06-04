@@ -1,0 +1,51 @@
+AuthorName: Mehar Osama
+AuthorURL: https://zestihub.com
+
+Title: Upw0rk profile
+Category: Accounting
+Teaser: Give the service name
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-25T22:18:51.469Z
+Help: 
+ID: 1827440458335522816
+PromptHint: Upw0rk profile
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+I'm a professional [PROMPT] with several years of experience in the field. Now that I want to sell my services on Upwork.com, you have to assist me in writing the details asked by Upwork.com to create a professional-looking profile related to the [PROMPT] service.
+- Must use the writing tone related to [PROMPT] service.
+- To the point and logical wording, no unnecessary explanations related to [PROMPT]
+You have to complete each part, not violate any Upwork.com terms and conditions, and mention the word count in each part. And must follow the word count limit for each part in the following:
+-----------------------------
+Part 1: (Professional Role)
+- Two to three words related to [PROMPT] service.
+- Separate each word with the "|"  pipe symbol.
+- Character count max. 70.
+-----------------------------------------
+Part 2: (Work Experience)
+- Tell a professional post related to [PROMPT].
+- Give a 1000 character description related to [PROMPT].
+- Give at-least 3 past work experiences separately using the bullets.
+------------------------------
+Part 3: (Education)
+- Write a 500-character educational description related to [PROMPT].
+---------------------------
+Part 4: (Skills)
+- Give me 5 to 7 skills related to [PROMPT] service.
+- Just 1 word skill, no more details.
+--------------------------------
+Part 5: (Bio)
+- Give me the bio for my upwork.com profile related to the service [PROMPT]
+- Just maximum 4000 characters
+- The word [PROMPT] should be used more than 20 times in the description.
+----------------------------------
+Part 6: (Employment History)
+- Give a short description about the past jobs I did related to [PROMPT] service.
+- Must be less than 700 characters.
+-------------------------------
+Part 7: (Portfolio)
+- I have to attach my previous work as portfolio in the profile, you have to give me the process generally followed while doing any projects as freelancer on internet related to [PROMPT] services. 
+- Must be less than 700 characters
+---------------------------------

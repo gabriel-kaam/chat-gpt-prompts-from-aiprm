@@ -1,0 +1,19 @@
+AuthorName: Nazmul
+AuthorURL: https://nazmulhossain.dgtalign.com/
+
+Title: Grammar & Spelling Correct Sentence
+Category: Summarize
+Teaser: Write the text with grammar and spelling check
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-26T19:36:15.326Z
+Help: 
+ID: 1827761925971509248
+PromptHint: [Please provide the sentence you want me to proofread and edit for grammar, spelling, and overall correctness]
+PromptPackageID: 0
+
+Prompt:
+Your task is to check grammar and spelling, and fully proofread and edit this text :
+
+[TARGETLANGUAGE]
+[PROMPT]

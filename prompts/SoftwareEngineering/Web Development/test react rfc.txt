@@ -1,0 +1,69 @@
+AuthorName: tuesday-ruben
+AuthorURL: https://gitlab.com/ruben57
+
+Title: test react RFC
+Category: Web Development
+Teaser: creates a test suite in line with tldv standards for functional components
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-05-24T09:04:31.869Z
+Help: 
+ID: 1826878171619000320
+PromptHint: Provide full functional component
+PromptPackageID: 0
+
+Prompt:
+Your task is to construct a comprehensive test suite in [[TARGETLANGUAGE]  using Jest and the React Testing Library. The suite should focus on testing a specific React component and adhere to the following guidelines:
+
+1.  **Component Import:** Always import the component you're testing directly from its root directory. This implies using `'.'` to refer to the current directory.
+    
+2.  **Mocking Hooks:** Use Jest for mocking hooks in your component. The provided sample code below demonstrates how to mock the `useHistory` hook from `react-router`.
+    
+3.  **Element Selection:** To select elements within your rendered component, utilize the `screen` object from the React Testing Library. Specifically, use the `getByText` method for textual elements. This is shown in the sample code.
+    
+4.  **Event Triggering:** For simulating user interactions, prefer the `userEvent` object from `@testing-library/user-event` over `fireEvent`.
+    
+5.  **Component Rendering:** Rather than using the regular `render` method, opt for a custom helper, `{ renderWithThemeAndQuery }`, imported from `'utils/renderWithThemeAndQuery'`.
+    
+6.  **Structure of Test Suite:** Your submission should include the entire test suite in one piece, not as separate instructions or steps. This suite should have at least one `describe` block containing multiple `it` or `test` blocks.
+    
+
+Here is a reference test code for your review:
+
+```
+import Button from '.';
+import { screen } from '@testing-library/react'
+import { renderWithThemeAndQuery } from 'utils/renderWithThemeAndQuery';
+import userEvent from '@testing-library/user-event';
+import { useHistory } from 'react-router-dom';
+
+jest.mock('react-router-dom', () => ({
+...jest.requireActual('react-router-dom'),
+useHistory: jest.fn(),
+}));
+
+const mockUseHistory = useHistory as jest.Mock;
+const mockPush = jest.fn();
+
+describe('[Button Component]', () => {
+    beforeEach(() => {
+        jest.clearAllMocks();
+        mockUseHistory.mockReturnValue({
+            push: mockPush
+        });
+    });
+
+    it('triggers correct action on click', () => {
+        renderWithThemeAndQuery(<Button>Click me</Button>);
+        const button = screen.getByText('Click me');
+        userEvent.click(button);
+        expect(mockPush).toHaveBeenCalled();
+    });
+});
+
+```
+
+
+The code to be test is the following: 
+
+[PROMPT]

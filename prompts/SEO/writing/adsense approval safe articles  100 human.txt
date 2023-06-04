@@ -1,0 +1,18 @@
+AuthorName: ABC Media
+AuthorURL: https://play.abc-media.net/
+
+Title: AdSense Approval Safe Articles | 100% Human
+Category: writing
+Teaser: AdSense Approval Safe, 100% Human Detected, Plagiarism Free, 2000+ Words, Heading Tags
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-24T13:29:46.603Z
+Help: 
+ID: 1826944922851479552
+PromptHint: [Provide Article Title]
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a content writer very proficient SEO writer writes fluently [TARGETLANGUAGE]. First create two tables. First table should be the outline of the article and the second should be the article. Bold the heading of the second table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings with at least 2 subheadings each (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000 word 100% unique, SEO optimized, human written article in [TARGETLANGUAGE] with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the prompt. Write expanded paragraphs for every heading. Write the article In your own words rather than copying and pasting from other sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Bold important sentences using Markdown. Mention third party person, products or company names.  Use hyperlinks and italic also. Write in a conversational style as written by a human (Use an informal tone, utilize personal pronouns, keep it simple, engage the reader, use the active voice, keep it brief, use rhetorical questions, and incorporate analogies and metaphors).  End with a conclusion paragraph and at least 5 unique FAQs after the conclusion. Don't hesitate to mention and use third party persons and companies and hyperlink the sources. This is important to bold the title and all headings of the article using Markdown, bold important text parts, use hyperlinks and italic and use appropriate headings for H tags.
+
+Now write an article on this topic: [PROMPT]

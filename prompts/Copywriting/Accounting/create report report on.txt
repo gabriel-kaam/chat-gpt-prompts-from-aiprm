@@ -13,13 +13,19 @@ PromptHint: put keyword
 PromptPackageID: 0
 
 Prompt:
-Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very proficient research analyst. your task is write paragraph based on below with maintaining 3% keyword density of [PROMPT]. 
-What is the forecast market size and market share of the industry, and how is it expected to evolve in the next few years of [PROMPT]. 
-write on who are the key players in the [PROMPT] ? 
-write on what are the major trends and drivers affecting the [PROMPT]  and how are they likely to change in the future? 
-write on What are the opportunities and threats in the Machine Learning Market? 
-write on What are the regulatory and legal issues affecting the [PROMPT] , and how are they likely to change in the future? 
-write on what are the target demographics of the [PROMPT] , and what are their preferences and behaviors? write paragraph on what are the pricing trends in the [PROMPT] , and how do they vary across different segments? 
-write conclusion on above data in paragraph Also give related heading for each paragraph.
-Also make all heading h2 and paragraph with p tags"
-Also make all data white label for "AI Market Report".
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].
+
+I want you to act as a very proficient content writer.
+
+your task is to write a paragraph based on the below with maintaining a 3% keyword density of [PROMPT].
+
+Current market size and expected market size of [PROMPT].
+key players in the [PROMPT] 
+Major trends and drivers affecting the [PROMPT]
+opportunities and threats in the [PROMPT] 
+regulatory and legal issues affecting the [PROMPT]
+target demographics of the [PROMPT]
+pricing trends in the [PROMPT]
+write conclusion on above data in paragraph
+Also give related heading for each paragraph.
+Also make all heading h2 and paragraph with p tags

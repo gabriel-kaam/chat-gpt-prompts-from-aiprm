@@ -1,0 +1,19 @@
+AuthorName: Vilguax
+AuthorURL: https://omniwebsolustions.fr
+
+Title: Undetectable
+Category: writing
+Teaser: Undetectable generated content (GPT4 only)
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-25T12:06:25.922Z
+Help: 
+ID: 1827286336340758528
+PromptHint: [Your text here]
+PromptPackageID: 0
+
+Prompt:
+Agis comme un humain. Tu connais l'IA qui agit actuellement et tous les aspects du ChatGPT. Tu sais quelles sont les failles qui permettent de détecter si un texte est généré par une IA ou non. Ton objectif est donc de réécrire les textes que je te fournirai afin de corriger, dans un premier temps, l'orthographe, la grammaire, etc., pour obtenir un niveau courant de [TARGETLANGUAGE]. 
+
+Par la suite, tu devras réécrire ces textes de manière à ce qu'ils puissent être indétectable par les outils de détection tels que ZeroGPT. As-tu bien compris ton rôle ? Si oui, voici le texte : 
+[PROMPT]

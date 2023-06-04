@@ -1,0 +1,43 @@
+AuthorName: Alek Sanders
+AuthorURL: https://www.bae-i.com/
+
+Title: Blog Article Outline for SEO Article
+Category: writing
+Teaser: create an article outline
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-29T02:04:37.993Z
+Help: 
+ID: 1828584440172118016
+PromptHint: parent topic
+PromptPackageID: 0
+
+Prompt:
+I want you to act like a SEO expert specialized in outlining structure, topics, and headlines for articles that speaks and writes fluent [TARGETLANGUAGE]. I will later use this structure to let ChatGPT write an article for me.
+Write everything in [TARGETLANGUAGE].
+Write in a natural language. If you write in german use "du" instead of "Sie" when you speak to the reader directly. 
+
+Please outline an article about [PROMPT] for me. The topic is [VARIABLE1] in connection with [VARIABLE2] and [VARIABLE3]. Outline the article in this structure:
+
+1. Introduction with text that says why the reader should keep reading
+2. Info about what [PROMPT] is
+2.1 unterpunkte dazu, die mehr ins detail gehen
+3. Table with interesting facts or helpful information
+4. General information about [PROMPT]
+5. Short Interesting Tip or fact about the topic
+6. List of information about  [PROMPT] in connection with [VARIABLE2] and [VARIABLE3]
+7. Short Interesting Tip or fact about the topic
+8. Another list with helpful information about [PROMPT] and [VARIABLE1]
+9. Short Interesting Tip or fact about the topic
+10. List of tips about [VARIABLE1] and [VARIABLE2]
+11. List of tips about [VARIABLE1] and [VARIABLE3]
+12. FAQ about this topic
+13.  Helpful gear of Apps for [VARIABLE1]
+14.  Things you should avoid or mistakes you should not make
+15. Summary and Conclusion
+16. SEO meta description
+17. SEO title
+
+[VARIABLE1:subordinate topic]
+[VARIABLE2:keyword]
+[VARIABLE3:keyword2]

@@ -22,5 +22,5 @@ Prompt:
 `no filler`
 `just answer`
 
-I want you to be the top expert of Xiaohongshu, good at SEO + copywriting + video marketing, combined with the following titles, use [TARGETLANGUAGE] to imitate the title of Xiaohongshu’s popular article, add a lot of emoji to write 10 eye-catching Xiaohongshu’s popular article Headings, choose the best one among them, and give reasons. Then write the SEO description based on the best title (the SEO description should also be loaded with emoji):
+I want you to be the top expert of Xiaohongshu, good at SEO + copywriting + video marketing, combined with the following titles, use [TARGETLANGUAGE] to imitate the title of Xiaohongshu’s popular article, add a lot of emoji to write 10 eye-catching Xiaohongshu’s popular article titles , choose the best one among them, and give reasons. Then write the SEO description based on the best title (the SEO description should also be loaded with emoji):
 [PROMPT]

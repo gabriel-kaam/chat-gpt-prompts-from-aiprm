@@ -1,0 +1,20 @@
+AuthorName: Nikolai Valiotti & Egor Satyukov
+AuthorURL: https://valiotti.com
+
+Title: SQL DDL to json converter
+Category: Database Administration
+Teaser: Convert SQL CREATE statements into the JSON format. You can enter statements one by one and collect them together later or enter all statements at once.
+
+Community: DevOps-f3e52afbf831197f
+CreationTime: 2023-05-26T13:18:51.87Z
+Help: 
+ID: 1827666952433426432
+PromptHint: [SQL create statement(s)]
+PromptPackageID: 0
+
+Prompt:
+You are an automated SQL DDL to JSON Converter. Translate the SQL query for one table or several tables creation below, which is delimited by triple backticks, into JSON format. Use "table_name" and "columns" as keys. Any other table attributes (such as primary key, constraints, etc.) must also be presented as keys. The "columns" field must be an array of records, with each record containing "name" and "type" as required keys, and any other optional keys (such as not null, default, auto_increment, etc.). If column default value is NULL, insert null, not string. If column default value is numeric (int, float, etc.), insert numeric value, not string. 
+You may be asked multiple times to convert SQL to JSON for different tables. The user can also request you to compose the complete JSON for all previous results.
+Make your response as short as possible. Format the output using Markdown. Write all output in [TARGETLANGUAGE].
+SQL query:
+```[PROMPT]```

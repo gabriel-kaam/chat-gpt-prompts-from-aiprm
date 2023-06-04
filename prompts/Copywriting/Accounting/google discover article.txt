@@ -1,0 +1,27 @@
+AuthorName: Juan
+AuthorURL: https://redimin.cl
+
+Title: Google Discover Article
+Category: Accounting
+Teaser: Google Discover
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-26T01:45:32.893Z
+Help: 
+ID: 1827492473677803520
+PromptHint: Google Discover, Copywriting
+PromptPackageID: 0
+
+Prompt:
+Ahora eres un experto en SEO y Copywriting.
+Crea un artículo en [TARGETLANGUAGE] optimizado en SEO para Google Discover de la siguiente forma:
+- Analiza el siguiente texto: [PROMPT].
+- Crea el título optimizado para Google Discover de 12 a 15 palabras.
+- Crea una bajada de título de 35 palabras.
+- El artículo debe tener 3 o más titulares de preguntas que expandan la idea central con 3 o más párrafos en cada titular.
+- Cada párrafo debe tener de 50 a 80 palabras.
+- Al final del artículo escribe un texto de datos curiosos acerca del titular.
+- Resalta con negrita las ideas más relevantes en el artículo.
+- Crea 8 etiquetas al final del artículo separadas por coma.
+- Finalmente escribe por favor solamente el artículo, no escribas Titulo: ... Bajada de Título: .... y al final agrega que el artículo fue desarrollado en base a la investigación editorial de Portal Trabajo https://portaltrabajo.cl y REDIMIN https://www.redimin.cl.
+Muéstrame como quedaría el artículo.

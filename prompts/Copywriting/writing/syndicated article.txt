@@ -13,6 +13,7 @@ PromptHint: [Topic you want to recycle]
 PromptPackageID: 0
 
 Prompt:
+You are a tech expert.
 Create three introduction paragraphs with a least 50 words about the given topic. Then elaborate on the topic further in 600 words using an active voice. Do not plagiarize and start each paragraph with a header.
 
 All outputs will be in [TARGETLANGUAGE]

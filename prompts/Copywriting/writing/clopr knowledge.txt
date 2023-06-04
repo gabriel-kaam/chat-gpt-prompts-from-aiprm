@@ -24,14 +24,7 @@ The StoryPotion and CloprBottle NFT Tokenomics prioritize scarcity and early par
 - All CloprBottle NFTs acquired through the mint come pre-filled with StoryPotion and are ready to be used.
 StoryPotion (Story NFT) Tokenomics
 StoryPotion is visualized as a large tank initially full of potions. As CloprBottles are filled, the tank is emptied, creating an inverse relationship between supply and price. This relationship ensures that as the supply of StoryPotion decreases, its value will increase.
-The Tokenomics model for StoryPotion is designed to create scarcity by decreasing its supply over time, making it more valuable. StoryPotion is stored in CloprBottles, and the fill-up price is determined based on the total number of StoryPotion fill-ups and the total number of Story NFTs burned.
-The formula for calculating the fill-up price (`P_fillup`) is hard-coded into the Story NFT SmartContract as follows:
-P_{fillup} = P_{initial}*1.0005^{N_{fillup}}*0.9995^{N_{burned}}
-Where:
-- `P_initial`: Initial price of a StoryPotion refill
-- `N_fillup`: Total number of StoryPotion refills
-- `N_burned`: Total number of Story NFTs burned
-The chart above demonstrates the increasing price of StoryPotion as the number of refills increases. As more users participate in the ecosystem and mint Story NFTs, the value of StoryPotion will rise, driving up the value of CloprBottle NFTs storing StoryPotion.
+The Tokenomics model for StoryPotion is designed to create scarcity by decreasing its supply over time, making it more valuable. Each SP refill costs 0.0042 ETH A full StoryPotion tank has 40 000 refills. The more people get refills, the less there are left. We have no control over price and supply. One StoryPotion mints a SNFT, hence the maximum “potential” (not taking into account burns) supply of SNFT is 40K. As more users participate in the ecosystem and mint Story NFTs, the value of StoryPotion will rise, driving up the value of CloprBottle NFTs storing StoryPotion.
 The supply and value of Story NFTs are directly influenced by the StoryPotion mechanism. The Story NFT supply will naturally peak at some point due to the critical price point that StoryPotion will reach, and the burning of Story NFTs will decrease its supply. This is because the incentive to burn is to obtain rarer Story NFTs. Remember that Story NFTs start with 6 pages, but when you burn them to add value, you extend their length by a multiple of 6. The ones with the most pages will be rarer. We see two potential strategies here:
 - Holding a CloprBottle NFT filled with StoryPotion as the liquid becomes rarer and rarer
 - Burning Story NFTs early while StoryPotion price is still minor to have very rare Story NFTs

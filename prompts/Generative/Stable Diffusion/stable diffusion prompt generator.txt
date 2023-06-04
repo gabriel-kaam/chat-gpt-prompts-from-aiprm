@@ -22,10 +22,10 @@ Provide a precise specification of the desired appearance of the image. with som
 Provide specific and detailed instructions on how you want the image to appear, ensuring that it complements the [prompt]
 
 [Styling]
-Styling is about giving your image a unique appearance by specifying artistic elements or visual characteristics. To create a styled image, include keywords in your prompt that describe the desired style (e.g., artist, art movement, colors, or lighting). Experiment with different options and practice to enhance your skill in achieving the perfect look. Adjust keyword importance using brackets and a value (e.g., '(mystical:1.2)' boosts importance by 0.2), carfull with this as it can effect the image alot.
+Styling is about giving your image a unique appearance by specifying artistic elements or visual characteristics. To create a styled image, include keywords in your prompt that describe the desired style (e.g., artist, art movement, colors, or lighting). Experiment with different options and practice to enhance your skill in achieving the perfect look. Adjust keyword importance using brackets and a value (e.g., '(mystical:1.2)' boosts importance by 0.2 cannot go higher than 2).
 
 [Negative Prompt]
-Negative prompts steer image processing, omitting unwanted aspects like poor anatomy or excess elements. Use terms like "extra fingers" or "oversized head" to circumvent distortions. "Bad anatomy" should always be included. Boost prompt priority with brackets and numbers, e.g., '(blurry:2.0)'. These prompts ensure top-notch image output. the prompt must cover every prompt you made. contains at least 12 unwanted things.
+Negative prompts steer image processing, omitting unwanted aspects like poor anatomy or excess elements. Use terms like "extra fingers" or "oversized head" to circumvent distortions. Boost prompt priority with brackets and numbers, e.g., '(blurry:1.3) cannot go higher than 2'. These prompts ensure top-notch image output. the prompt must cover every prompt you made. contains at least 12 unwanted things.
 
 follow these guidelines at any cost:
 "Ensure to follow these steps: "\" denotes randomness. Use "[TARGETLANGUAGE]" language. The 'stable diffusion' prompt is simply a list of comma-separated items like: 'goat, red hair, art by Ghibli, --ar 16:9'. It favors comma-separated keywords over natural language. Don't use photo-specific terms unless describing a photo. The prompt has three user comments, always include these in the correct category. The parameter format is "[Prompt description]-[Styling]-[Negative prompt]". The 'stable diffusion' prompt should be detailed, outlining the desired image look."
@@ -37,15 +37,15 @@ Format it in exactly this way:
 ”
 | Prompts | Stable diffusion prompt | Negative prompt |
 |------|-----|-----------|
-| Prompt 1 |((Best quality)), ((masterpiece)) [Prompt], [details], [Styling]. | [Negative Prompt] |
-| Prompt 2 |((Best quality)), ((masterpiece)) [Prompt], [details], [Styling]. | [Negative Prompt] |
-| Propmt 3 |((Best quality)), ((masterpiece)) [Prompt], [details], [Styling]. | [Negative Prompt] |
+| Prompt 1 |[Prompt], [details], [Styling], ((Best quality)), ((masterpiece)). | [Negative Prompt], (low quality, worst quality:1.3), (bad anatomy:1.3)|
+| Prompt 2 |[Prompt], [details], [Styling], ((Best quality)), ((masterpiece)).| [Negative Prompt], (low quality, worst quality:1.3), (bad anatomy:1.3)|
+| Propmt 3 |[Prompt], [details], [Styling], ((Best quality)), ((masterpiece)). | [Negative Prompt], (low quality, worst quality:1.3), (bad anatomy:1.3)|
 ".  it is a table
 
 good example:"
 | Prompts | Stable diffusion prompt | Negative prompt |
 |------|-----|-----------|
-| Prompt 1 | ((best quality)), ((masterpiece)), (detailed), close-up, person wearing costume, (Behance contest winner:1.2), fantasy art, crown of giant rubies, 3D goddess portrait, style of Ross Tran, captivating lighting, 8k resolution, striking facial expression, (elaborate costume details:1.3), vibrant colors, powerful presence, (ethereal glow:1.1) | 3d, cartoon, anime, sketches, (worst quality, bad quality, child, cropped:1.4) ((monochrome)), ((grayscale)), (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8), (bad-artist-anime:0.8), (bad-artist:0.8), (bad_prompt:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8), (bad_quality:0.8) |
+| Prompt 1 | (detailed), close-up, person wearing costume, (Behance contest winner:1.2), fantasy art, crown of giant rubies, 3D goddess portrait, style of Ross Tran, captivating lighting, 8k resolution, striking facial expression, (elaborate costume details:1.3), vibrant colors, powerful presence, (ethereal glow:1.1), (best quality), (masterpiece) | 3d, cartoon, anime, sketches, (worst quality, bad quality, child, cropped:1.4) ((monochrome)), ((grayscale)), (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8), (bad-artist-anime:0.8), (bad-artist:0.8), (bad_prompt:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8), (bad_quality:0.8), (low quality, worst quality:1.3) |
 ".
 
 create 3 creative new [Stable diffusion prompts] using this parameter: "[PROMPT]".

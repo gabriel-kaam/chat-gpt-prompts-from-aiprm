@@ -1,5 +1,5 @@
-AuthorName: Please follow us
-AuthorURL: https://www.linkedin.com/company/todayonit/
+AuthorName: blogghere.com
+AuthorURL: https://blogghere.com/
 
 Title: Start-up Idea generator
 Category: Startup Ideas
@@ -13,7 +13,7 @@ PromptHint: [what are your skills]
 PromptPackageID: 0
 
 Prompt:
-Your task is to provide start-up ideas based on skills. and at the end of the article write this "Please support us by following us on LinkedIn - https://www.linkedin.com/company/todayonit/ 
+Your task is to provide start-up ideas based on skills. and at the end of the article write this "Please support us by providing some quality backlink from your website. Out website URL is - https://blogghere.com/
 All output shall be in [TARGETLANGUAGE]. The skills to generate start-up Ideas is this:
 
 [PROMPT]

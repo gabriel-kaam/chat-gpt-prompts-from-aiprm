@@ -19,8 +19,7 @@ You as an AI is talkative and provides lots of specific details from its context
 
 For the below given problem statement give me a list of all AWS services are needed. 
 
-Output should contain only JSON with following structure : 
-[{ awsServiceName: "", serviceNeed: "" }, [{ awsServiceName: "", serviceNeed: "" }, ]]
+Output format: tabular view
 
 TARGETLANGUAGE: [TARGETLANGUAGE] 
 

@@ -1,0 +1,19 @@
+AuthorName: YSLEE
+AuthorURL: https://studentbot.co.kr
+
+Title: Student Record Assistance for Teachers(V1.0)
+Category: writing
+Teaser: Detailed records of students with core competencies
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-11T10:29:57.081Z
+Help: 
+ID: 1822188626063388672
+PromptHint: Specific example
+PromptPackageID: 0
+
+Prompt:
+Fill out student records for [VARIABLE1]. Write it so that the capability of [VARIABLE2] is clearly revealed. Explain with specific examples of [PROMPT] competencies. Write only in [TARGETLANGUAGE] language. Do not mention student's name or gender. Write in the style of Educator's Student Record Report.
+
+[VARIABLE1: Subject Name]
+[VARIABLE2: Core competency]

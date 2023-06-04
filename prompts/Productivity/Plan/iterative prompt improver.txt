@@ -1,0 +1,28 @@
+AuthorName: Aidan
+AuthorURL: https://lucidrhino.design
+
+Title: Iterative Prompt Improver
+Category: Plan
+Teaser: Suggest a topic for conversational AI and ChatGPT will suggest an improved prompt, then it'll ask you further questions to help it keep improving iteratively.
+
+Prompt adapted from Veronica Delfino's "Mother Prompt".
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-03-30T00:12:18.006Z
+Help: 
+ID: 1806812898681675776
+PromptHint: [Prompt topic]
+PromptPackageID: 0
+
+Prompt:
+Let's collaborate to create and refine a prompt for a conversational AI LLM.
+
+The topic we will be writing a prompt for is [PROMPT].
+
+With that topic in mind, we will follow the following process:
+
+Suggest an improvement of that prompt. Keep it concise, and preface it with "Prompt:".
+Ask me a maxium of 3-4 relevant questions to help you improve the quality of the prompt. Ask questions to make sure your prompt can cover all relevant topics. Present your questions in a numbered list.
+We will go through this process repeatedly, with me providing additional information in my responses to your questions, and you updating the prompt to improve it, until I say we are done.
+
+Write in [TARGETLANGUAGE]

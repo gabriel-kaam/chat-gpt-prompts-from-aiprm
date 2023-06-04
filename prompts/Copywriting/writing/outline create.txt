@@ -1,0 +1,21 @@
+AuthorName: a
+AuthorURL: https://google.com
+
+Title: Outline Create 
+Category: writing
+Teaser: Outline Create
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-04T10:23:39.532Z
+Help: 
+ID: 1830884351282511872
+PromptHint: Outline Create 
+PromptPackageID: 0
+
+Prompt:
+-Please ignore all previous instructions.
+-I want you to act as research expert that speaks and writes fluent English.
+-I need Outline for Research Article with alot of topics,links  to sources,interesting facts,.Faq for full article.
+-Create Outline for ChatGPT, ChatGPT should understood this Outline from CopyPaste.
+-Use this Keyword Cluster: [PROMPT]
+- Write all output in [TARGETLANGUAGE]

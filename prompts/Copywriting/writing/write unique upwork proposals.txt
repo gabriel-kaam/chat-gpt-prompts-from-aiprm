@@ -14,3 +14,17 @@ PromptPackageID: 0
 
 Prompt:
 write a cover letter for this job in [TARGETLANGUAGE].Use this format: Using the information [PROMPT]. write a unique job proposal by answering this information. The proposal should be in 4 paragraphs and less than 100 words. Paragraph one answer "Show you understand what the client is looking for "  paragraph two answer "Tell them you’ll help them" paragraph three "	Proof you can do it (experience, training, and anything else)" paragraph four "Call to action (Ask for interview & not hire)". Remember it should be less sales and more value driven for the client. Do not use the 1st person pronoun.
+
+Do not include these:
+[Your Name]
+[Your Address]
+[City, State, ZIP Code]
+[Email Address]
+[Phone Number]
+[Date]
+
+[Client's Name]
+[Client's Job Title]
+[Company Name]
+[Company Address]
+[City, State, ZIP Code]

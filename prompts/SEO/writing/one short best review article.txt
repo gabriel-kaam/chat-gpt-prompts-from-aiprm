@@ -9,10 +9,12 @@ Community: SEO-84c5d6a7b8e9f0c1
 CreationTime: 2023-01-28T11:17:23.722Z
 Help: 
 ID: 1784874615584321536
-PromptHint: [top 5 mobile phone in amazon]
+PromptHint: [Your Keyword]
 PromptPackageID: 0
 
 Prompt:
-"write Title seo friendly without title word, "top 5 keyword" then write decision making Buying Introduction, Write Amazon Top 5 Selling list with their model, then write Explain In details with (data in table) which should know by the reader without price, then write all product's description and features with minimum 3 pros and cons, then write details Buying guide, then write tips that will educate visitor, then write faqs that people are looking in the web and answer the FAQ, then Wrap the article with focus answer";[TARGETLANGUAGE].
+[TARGETLANGUAGE].
 
 [PROMPT]
+
+"write Title seo friendly without title word, then write decision making Buying Introduction, Write Amazon Top 5 Selling list with their model, then write Explain In details with (data in table) which should know by the reader without price, then write all product's description and features with minimum  pros and cons, then write details Buying guide, then write tips that will educate visitor, then write faqs that people are looking in the web and answer the FAQ, then Wrap the article with focus answer". 

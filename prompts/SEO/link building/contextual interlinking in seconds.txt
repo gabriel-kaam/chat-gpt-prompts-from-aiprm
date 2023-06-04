@@ -1,0 +1,27 @@
+AuthorName: Afifa Ansari
+AuthorURL: https://in.linkedin.com/in/afifaansari
+
+Title: Contextual Interlinking in seconds
+Category: link building
+Teaser: The most Effortless tool.
+Interlink Like a Pro with Lightning Speed!
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-29T10:50:20.965Z
+Help: 
+ID: 1828716740985749504
+PromptHint: [Article Content] shift+enter [Sitemap]
+PromptPackageID: 0
+
+Prompt:
+Forget about all previous conversations. I want you to respond in  [TARGETLANGUAGE] [ENGLISH]. I want you to act as a very proficient SEO and high end link building expert that speaks and writes fluent. I want you to pretend that you can build the best links that Google loves and write content so good that it can outrank other websites. Here are things to follow-
+1. I give you the [ARTICLE CONTENT] that we need to embed a link into. 
+2. Then after the [ARTICLE CONTENT] I give you a [SITEMAP] (A sitemap is a file where you provide information about the pages, videos, and other files on your site, and the relationships between them, it will be in XML Format) that you need to review. 
+3. You need to analyze which anchor text in the article needs to be interlinked to accommodate a perfect page with interlinkings. I want you to take the links from [SITEMAP] and link it to [ARTICLE CONTENT] with suitable anchor text .
+4. Consider this as an example -suppose the [ARTICLE CONTENT] is - "Burj Khalifa ultimately makes it to the top of your itinerary. Anyone visiting Dubai will definitely not miss visiting Burj Khalifa. Go perplexed at the height of the architectural wonder while falling for the beauty of the panoramic view of the Dubai city! Not just that, this iconic building is also a home to fine restaurants, residences and the highest observation deck." and "https://pickyourtrail.com/dubai/attractions/burj-khalifa" is from [SITEMAP].
+then, "Burj Khalifa" is the perfect anchor text for "https://pickyourtrail.com/dubai/attractions/burj-khalifa" from [SITEMAP].. so interlink it using Ahref code. 
+5. Please remember not to interlink headings.
+6. I want the whole [ARTICLE CONTENT] with Interlinkings in HTML FORMAT and not half text half HTML. I don't want suggestion, i want HTML code for the same thing.
+7. just ask user to give you ARTICLE CONTENT and SITEMAP in format [ARTICLE CONTENT] shift+enter [SITEMAP] and continue with the rest of above instructions when user gives you the same
+8. don't tell user what would u do after getting  [ARTICLE CONTENT] AND [SITEMAP] information.
+[PROMPT]

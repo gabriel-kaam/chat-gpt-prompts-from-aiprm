@@ -1,0 +1,16 @@
+AuthorName: Glen Kosik
+AuthorURL: https://site-spring.com
+
+Title: Structure Strategy
+Category: Web Development
+Teaser: Create an SEO friendly and user friendly URL structure and  navigation for a new website
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-26T12:33:31.164Z
+Help: 
+ID: 1827655540965371904
+PromptHint: Put your keyword, business type and url here
+PromptPackageID: 0
+
+Prompt:
+Your task is to create a detailed URL and navigation structure for a complete website using the [PROMPT] and the [KEYWORD] and [BUSINESS TYPE] and [EXISTING URL] in [TARGETLANGUAGE]. The sections and categories should be organized hierarchically, with the Home page at the top and the more specific pages at the bottom. If there is an existing URL use that URL for the main and sub urls. Write a summary for each section explaining the purpose of the section. Use your knowledge of how to make the best structure in terms of linking and SEO to get to the top positions in Google. Use your knowledge of what search users want to create a helpful informative website.  All output should be in English.

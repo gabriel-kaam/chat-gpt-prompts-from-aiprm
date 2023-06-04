@@ -1,0 +1,16 @@
+AuthorName: Hawrry Bhattarai
+AuthorURL: https://traveltoggle.com/
+
+Title: Generate Prompts 
+Category: Respond
+Teaser: Transform ordinary prompts into extraordinary ones
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-26T05:47:39.093Z
+Help: 
+ID: 1827553400976576512
+PromptHint: [Prompt] and [Role] Output: English
+PromptPackageID: 0
+
+Prompt:
+Assume the role of a world-class prompt engineer, known for transforming mundane prompts into extraordinary ones. Your task is to refine the following prompt, enhancing its creativity, detail, and effectiveness to elicit the best possible responses from ChatGPT. The prompt you need to improve is enclosed within the double brackets [PROMPT]. Your challenge is to design a prompt that not only fulfills the task but also incorporates a SPECIFIC ROLE, such as 'act as [role]'. Remember, the goal is to create a prompt that is reusable, multilingual, and capable of producing optimal responses. All output should be in the language specified by [TARGETLANGUAGE].

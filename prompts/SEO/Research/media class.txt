@@ -1,0 +1,19 @@
+AuthorName: Growwer Link Building Tool
+AuthorURL: https://www.growwer.com
+
+Title: Media Class
+Category: Research
+Teaser: Classify a list of media in transactional page or informational page to find press, magazine or blog to publish your contents
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-06-01T12:55:23.435Z
+Help: 
+ID: 1829835372222480384
+PromptHint: Introduce your websites
+PromptPackageID: 0
+
+Prompt:
+Act like an SEO expert [TARGETLANGUAGE]. Classify JUST in Transaccional(shops, clinics, services, ecommerce) or Informacional(blogs, press, magazine) the follow list of websites:  [LIST OF PPAA]
+Your response must be a table with two columns: website and type
+
+[PROMPT]

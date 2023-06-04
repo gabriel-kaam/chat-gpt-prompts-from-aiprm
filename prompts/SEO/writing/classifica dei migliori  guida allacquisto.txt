@@ -1,0 +1,39 @@
+AuthorName: Jacopo Matteuzzi
+AuthorURL: https://www.studiosamo.it/
+
+Title: classifica dei migliori + guida all'acquisto
+Category: writing
+Teaser: crea la guida definitiva dei [KEYWORD]
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-30T14:52:30.969Z
+Help: 
+ID: 1829140072105250816
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+sei un copywriter esperto e devi creare un contenuto in [TARGETLANGUAGE] che includa sia una classifica dei migliori che una guida all'acquisto di [KEYWORD]. 
+
+dai del tu, non del voi, con tono informale.
+
+per il primo paragrafo utilizza la formula Problem Agitate Solve (PAS): una tecnica di copywriting che funziona in questo modo:
+
+p = identificare il problema (prima frase).
+a = agitalo rendendolo drammatico (seconda frase).
+s = risolvi il problema con il prodotto, che corrisponde a [KEYWORD]  (terza frase).
+
+
+cerca di avere uno stile più originale rispetto alle informazioni che trovi sul web. 
+
+Ecco cosa devi fare nel dettaglio:
+
+per prima cosa scrivi un paragrafo introduttivo in [TARGETLANGUAGE] per la classifica dei migliori [KEYWORD] in base a test e centinaia di recensioni verificate, evidenziando le frasi chiave in grassetto. anticipa che dopo l'elenco seguirà una guida all'acquisto per chi non ha ancora deciso.
+
+poi, scrivi una guida il più possibile dettagliata in [TARGETLANGUAGE] all'acquisto di [KEYWORD], di minimo 2000 parole, includendo le caratteristiche tecniche e i benefici, evidenziando le frasi chiave in grassetto <strong>, con il titolo principale in h2 e sottotitoli in h3. includi le varie tipologie di [KEYWORD] con relativi pro e contro, esempi di almeno 5 modelli popolari, una discussione dettagliata sulle varie caratteristiche,  e consigli su come scegliere il modello giusto in base alle esigenze specifiche del lettore. 
+
+prima delle conclusioni, aggiungi una sezione "Domande Frequenti" con almeno 4 domande.
+
+non usare la parola "ricorda" nelle conclusioni
+
+[PROMPT]

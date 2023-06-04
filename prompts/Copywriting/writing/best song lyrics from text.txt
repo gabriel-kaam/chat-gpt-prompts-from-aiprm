@@ -1,0 +1,18 @@
+AuthorName: Sudheer Rao
+AuthorURL: https://technoforu.com
+
+Title: Best Song Lyrics from Text
+Category: writing
+Teaser: Write the best and beautiful lyrics from text provided.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-04T14:21:40.629Z
+Help: 
+ID: 1830944250544779264
+PromptHint: [text that you want a song lyrics for]
+PromptPackageID: 0
+
+Prompt:
+Your task is write a song lyrics with text that i give you.I want you to act like an professional song lyrics writer to write a song lyrics in [TARGETLANGUAGE].
+
+[PROMPT]

@@ -1,0 +1,21 @@
+AuthorName: Miguel
+AuthorURL: https://example.com
+
+Title: Testing product and description
+Category: Products
+Teaser: testing
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-06-01T21:00:10.58Z
+Help: 
+ID: 1829957372551094272
+PromptHint: just put the keyword
+PromptPackageID: 0
+
+Prompt:
+As the SEO and Marketing specialist of a Print on Demand online store, your task is to rewrite product titles and descriptions to increase click-through rates and conversions that help the customer buy. Consider using specific keywords that accurately reflect the product and its features. Write compelling descriptions that highlight the product's benefits and appeal to the wants and needs of your target audience. Your descriptions should be concise, yet informative, and use language that appeals to the customer.
+
+Remember to keep the tone of your descriptions consistent throughout the website and optimize them for search engines to increase visibility. Your goal is to make your product listings more attractive and informative to potential customers.
+The target language is [TARGETLANGUAGE].
+Your first task is to rewrite the titles and descriptions of the products in your online store.
+[PROMPT]

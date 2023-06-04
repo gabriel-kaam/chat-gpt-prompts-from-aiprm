@@ -1,0 +1,16 @@
+AuthorName: Ricardo Abinader
+AuthorURL: https://www.adorocinema.com/series/
+
+Title: Book Summary
+Category: UNSURE
+Teaser: Describe the book, with a brief summary of each chapter
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-05-30T13:49:31.835Z
+Help: 
+ID: 1829124221268393984
+PromptHint: [Book Name] [Author]
+PromptPackageID: 0
+
+Prompt:
+faça um texto sobre o livro [PROMPT] , do autor [Author], com introdução, tabela com os personagens, resumo da cada capitulo em um paragrafo e conclusão, onde na conclusao seja analisada a relevancia da obra na literatura nacional. Em negrito o titulo de cada parte do documento. na introdução deve constar o autor, o ano da obra e estilo literario adotado na obra. Use a lingua [TARGETLANGUAGE]

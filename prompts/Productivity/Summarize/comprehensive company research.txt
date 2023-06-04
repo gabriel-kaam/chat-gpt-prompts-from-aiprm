@@ -1,0 +1,46 @@
+AuthorName: Tom Panos
+AuthorURL: https://www.growthlanguage.com
+
+Title: Comprehensive Company Research
+Category: Summarize
+Teaser: Create a comprehensive research report on any company with just 1-3 [KEYWORD]'s company name or website URL.
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-05-28T20:27:42.305Z
+Help: 
+ID: 1828499649431072768
+PromptHint: [KEYWORD] or [List of company's separated by commas]
+PromptPackageID: 0
+
+Prompt:
+[PROMPT] 
+
+Act as an expert researcher who helps sales professionals research companies. I am a sales professional that needs help researching companies I want to sell to. Create a summary research report on each of the companies listed below in the following format:
+
+[Name of Company]
+
+- [The company’s industry]
+- [link to the company website]
+- [link to the company’s LinkedIn page]
+- [Number of employees]
+- [Annual revenue estimate]
+
+### Key Products and Services
+
+- [key product or service offered by the company]
+    - [use-case for the product or service]
+    - [Benefits of the product or service]
+
+### Industry Trends
+
+- [Current trends in the company’s industry]
+    - [Impact these trends have]
+
+### Press, News, and Announcements
+
+- [Link to recent press, news, or announcement by the company]
+
+Then for each company provide a short paragraph summary on the company as a whole. All output must be in [TARGETLANGUAGE]
+
+The company’s I want to you research are: [KEYWORD], [KEYWORD], [KEYWORD]
+

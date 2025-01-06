@@ -11,4 +11,24 @@ ID: 1814748097335783424
 PromptHint: [List of URLs from your sitemap]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1814748097335783424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Ideas Based on Sitemap"](https://www.aiprm.com/prompts/seo/writing/1814748097335783424/)_"
+---
+I'm going to give you a list of links from our blog. The company we are writing for is [VARIABLE1]. They provide [VARIABLE2]. [VARIABLE1:Company Name] [VARIABLE2:Services/Products Provided]
 
+The target audience is [VARIABLE3:Audience]
+
+I want you to review the links. After you've reviewed and analyzed the links for the type of content we are producing, I want you to act as a professional content writer and SEO specialist. You will come up with a TABLE with four columns. Column 1 will be "Intent" (Content can be one of the follow: Informational, Navigational, Commerical, Transactional), Column 2 will be "Title", Column 3 will be "Meta Description", and Column 4 will "Target Keyword (RankMath)". ONLY CREATE A TABLE, NOT A LIST.
+
+You will take the information you've analyzed and create ONE NEW table with SUGGESTIONS for NEW blog articles, not repeating any of the ones already listed in the links provided. I want a minimum of 20 rows of suggested blog articles in the table.  
+
+You will only create ONE table for the BLOG ARTICLE SUGGESTIONS. DO NOT create a table of your analysized links.
+
+Do not tell me what you are going to do, just start creating the table once you have reviewed the links.
+
+Here are the links to review and analyze:
+
+[PROMPT]
+
+You will only write in [TARGETLANGUAGE].

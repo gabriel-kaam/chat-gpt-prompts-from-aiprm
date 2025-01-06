@@ -11,4 +11,15 @@ ID: 1807386177687511040
 PromptHint: [food]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1807386177687511040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Table of nutrients"](https://www.aiprm.com/prompts/unsure/unsure/1807386177687511040/)_"
+---
+me apresente o resultado no idioma [targetlanguage]
+Eu quero que você me apresente os principais nutrientes de :
+me apresente os nutrientes em uma tabela.
+depois me escreva um texto sobre cada importância de cada nutriente.
 
+[TARGETLANGUAGE]
+
+[PROMPT]

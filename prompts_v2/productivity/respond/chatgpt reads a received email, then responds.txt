@@ -11,4 +11,15 @@ ID: 1837190853694337024
 PromptHint: Type your short response data here...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1837190853694337024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ChatGPT Reads a Received Email, Then Responds"](https://www.aiprm.com/prompts/productivity/respond/1837190853694337024/)_"
+---
+Perform as a Business Correspondence Editor in fluent [TARGETLANGUAGE] with an IQ like Sho Yano, a formal tone and a Conversational writing style email. 
 
+Your task is to read the email received [VARIABLE1] then with the supplied data [PROMPT] write a response and edit business emails for grammar, punctuation, overall clarity, in the Grammatical Tense [VARIABLE2], Please keep the reply in an conversational style and a formal tone and give a short subject. Do not change the meaning of the email.   [PROMPT]
+Please do not invent information, stick to the facts of the email.
+Do NOT say my name in the email body. 
+
+[VARIABLE1:Recieved Email : ]
+[VARIABLE2:Grammatical person : DropdownOptions: Select Grammatical Tense | First Person| First Person Plural]

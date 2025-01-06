@@ -11,4 +11,10 @@ ID: 1789067922170441728
 PromptHint: [Keyword or Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1789067922170441728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Long Tail Keywords Include Allintitle & Allinurl"](https://www.aiprm.com/prompts/seo/keywords/1789067922170441728/)_"
+---
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE].
+Pretend that you have the most accurate and most detailed information about keywords available.
+Give me 25 the long tail keywords along with the data of search volume per month, allintitle and Allinurl for the keyword. Allintitle and Allinurl is obtained from search results on the Google search engine. Example: allintitle: [PROMPT]. make sure the data is accurate and reliable. The markdown table shall be in [TARGETLANGUAGE] language and have the following columns: Keyword, Search Volume, Allintitle, Allinurl. Here it the keyword to start: [PROMPT]

@@ -11,4 +11,14 @@ ID: 1949172379973054464
 PromptHint: [Product]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1949172379973054464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product engineer benchmark "](https://www.aiprm.com/prompts/marketing/products/1949172379973054464/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quero que você apresente, para o mercado brasileiro as 15 marcas mais relevantes (caso existam menos de 15, mostrar apenas as principais) e os 3 produtos dessa marca de maior relevância.
+Me apresente o resultado em uma tabela. 
+Depois, escreva um texto sobre as principais marcas que competem no mercado brasileiro deste produto. Além disso, dê dicas de como testar esses produtos de forma a conseguir comparar tecnicamente seus desempenhos.
+
+[PROMPT]
 

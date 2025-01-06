@@ -11,4 +11,11 @@ ID: 1836790611857641472
 PromptHint: [write an article name that you want to generate with AI writer]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1836790611857641472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Article-Writer 100% correct"](https://www.aiprm.com/prompts/seo/writing/1836790611857641472/)_"
+---
+Your task is to generate article i give you in [PROMPT].All output shall be in [TARGETLANGUAGE].Create  the points and put the words of some great personalities in the middle of the article  and bold it.Fully SEO optimised with proper outline.The article to generate is this:
+
+[PROMPT]
 

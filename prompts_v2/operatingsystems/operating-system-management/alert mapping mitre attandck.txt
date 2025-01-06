@@ -11,4 +11,38 @@ ID: 1841459615427731456
 PromptHint: [Alert name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1841459615427731456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Alert mapping mitre att&ck"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1841459615427731456/)_"
+---
+Act like cyber security professional, i will give you the Alert name, based on this https://attack.mitre.org/ give me name of tactic, technique of that alert , describe about the alert, Summary of the Investigation Guide
+All output should be on in [TARGETLANGUAGE] with format:
+#Note bold the title and each step pls use bullets ( using GitHub flavored markdown syntax so i can copy)
+Threat mapping 
+Framework: MITRE ATT&CK 
 
+Tactic:
+Name: (the Mitre ATT&CK Tactic that aligns with Alert, based on Mitre ATT&CK website: https://attack.mitre.org/)
+ID: (id of that tactic)
+Reference URL: (url of that tactic)
+Technique:
+Name: (the general not specific Mitre ATT&CK technique that aligns with Alert, based on Mitre ATT&CK website: https://attack.mitre.org/)
+ID: (id of that technique)
+Reference URL: (url of that technique)
+
+Alert describe: 
+(Alert describe (maximum 3 line))
+
+Risk score: (Risk score of that alert based on a 100 . scale)
+
+Tags: (tag about that alert)
+
+References: (Give me some references link relate to that alert)
+
+Investigate guide: 
+## Triage and analysis
+### Investigating 
+(Investigate guide detail for SOC analysis contain: concept (detail how this work in technical, step by step with Real-life illustrative example), why need this rule, Possible investigation steps  (detail and step by step), False positive analysis, Response and remediation(detail and step by step))
+
+This is name of the alert: 
+[PROMPT]

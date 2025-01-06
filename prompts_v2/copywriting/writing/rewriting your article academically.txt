@@ -11,4 +11,9 @@ ID: 1798913223102291968
 PromptHint: The text you want to rewrite
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798913223102291968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewriting your article academically"](https://www.aiprm.com/prompts/copywriting/writing/1798913223102291968/)_"
+---
+Revise the given text to align with academic writing standards: [PROMPT]
+Write all output in [TARGETLANGUAGE]

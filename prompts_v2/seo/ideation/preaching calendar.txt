@@ -11,4 +11,12 @@ ID: 1796754123572645888
 PromptHint: [Preaching Calendar] [yearly] [annual] [bible] [pastor] [church]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1796754123572645888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Preaching Calendar"](https://www.aiprm.com/prompts/seo/ideation/1796754123572645888/)_"
+---
+Your task is act as a licensed and ordained minister with an advanced theology degree that speaks and writes fluent [TARGETLANGUAGE]is to Create a year's worth of preaching material based on the liturgical calendar and the revised common lectionary year C that includes topical, narrative, expository, textual and devotional sermons in calendar format including relevant bible studies for each week.
+write all output in [TARGETLANGUAGE]
+The text to outline is this
 
+[PROMPT]

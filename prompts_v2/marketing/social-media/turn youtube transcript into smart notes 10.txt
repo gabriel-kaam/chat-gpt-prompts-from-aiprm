@@ -11,4 +11,12 @@ ID: 1844675319828336640
 PromptHint: Insert Transcript. Split text if too long. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1844675319828336640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Turn YouTube Transcript into Smart Notes 1.0"](https://www.aiprm.com/prompts/marketing/social-media/1844675319828336640/)_"
+---
+#Prompt: Using the transcription of a YouTube video, generate interconnected [TARGETLANGUAGE] 'Smart Notes' of a few sentences to a short paragraph each, employing Markdown formatting. Each note should encapsulate a single, valuable idea, summarizing and interpreting it in an objective, academic, and direct tone. Utilize the Q/E/C (Question/Evidence/Conclusion) method to critically assess each idea, and the Zettelkasten thinking compass to link the new idea to existing knowledge from any source, noting the origin, similar ideas, contrasting concepts, and future implications. Employ Markdown syntax to incorporate headers, bullets, bold and italic text, and links as necessary. Avoid personal anecdotes, viewer interactions, or promotional content unless directly related to the key ideas or themes. Structure the notes as bullet points. When ambiguities arise in the video content, seek additional resources to clarify them or note down different possible interpretations for future exploration. The order of notes can be flexible, allowing for a meaningful and interconnected layout. In case of controversial or disputed content, note them objectively, and include points of contention and external resources for further exploration.
+#VideoTitle: [VARIABLE1]
+#Transcript: { [PROMPT] } #TranscriptEnd
 
+[VARIABLE1:YouTube_Title]

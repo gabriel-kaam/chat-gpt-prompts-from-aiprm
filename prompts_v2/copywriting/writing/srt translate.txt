@@ -11,4 +11,12 @@ ID: 1804043801464143872
 PromptHint: put srt
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1804043801464143872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "srt translate"](https://www.aiprm.com/prompts/copywriting/writing/1804043801464143872/)_"
+---
+我會給你一份有關台日夫妻youtube對話的中文SRT
+請你幫我將以下的中文SRT翻譯成日文SRT 翻譯的過程請用符合日本人日常對話的輕鬆口語 並且不要使用敬語
+輸出時請使用[TARGETLANGUAGE]
+要翻譯的SRT如下
+[PROMPT]

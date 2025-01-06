@@ -11,4 +11,9 @@ ID: 1814209966257737728
 PromptHint: Write the method(s) you want to get the JavaDoc from.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1814209966257737728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "JavaDoc Creator"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1814209966257737728/)_"
+---
+Write ONLY the JavaDoc (in idiomatic [TARGETLANGUAGE]) for the following method(s). Push JavaDoc syntax to the limit by using tags and HTML where possible. Use @link ANY time you refer to a symbol. Do NOT copy the method(s).
+[PROMPT]

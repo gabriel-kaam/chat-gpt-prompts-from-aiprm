@@ -11,4 +11,8 @@ ID: 1838942309363490816
 PromptHint: Input your [Keyword] and [Blog Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838942309363490816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Title with Keyword First"](https://www.aiprm.com/prompts/copywriting/writing/1838942309363490816/)_"
+---
+Create an SEO Title from the Keyword and the blog title. Reword the structure to make the Keyword at the start of the output. Base the next words from the blog title or from any ideas generated from chat gpt. Act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]. Make it straight to the point and at least 50 characters, exluding spaces. Make it not more than 60 Characters, exluding spaces. Give three outputs. Don't give introductions. Just give the exact answers. Just Capitalize the first letter of the first word and Proper Nouns. The keyword and the blog title is the [PROMPT]

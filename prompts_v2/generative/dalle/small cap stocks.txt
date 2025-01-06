@@ -11,4 +11,9 @@ ID: 1982558248603738112
 PromptHint: Small cap stocks, penny stocks, small stocks
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1982558248603738112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Small cap stocks"](https://www.aiprm.com/prompts/generative/dalle/1982558248603738112/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]Create a portfolio of small cap stocks copying style and philosophy of Warren Buffett's strategy 

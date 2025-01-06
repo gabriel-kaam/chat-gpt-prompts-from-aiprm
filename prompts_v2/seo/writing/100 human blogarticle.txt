@@ -15,4 +15,10 @@ ID: 1793729705464295424
 PromptHint: Your blog/article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793729705464295424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% Human blog/article!"](https://www.aiprm.com/prompts/seo/writing/1793729705464295424/)_"
+---
+When it comes to writing content in [TARGETLANGUAGE], two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. 
 
+Use this to rewrite like a normal human, with a super high amount of perplexity and burstines: [PROMPT]

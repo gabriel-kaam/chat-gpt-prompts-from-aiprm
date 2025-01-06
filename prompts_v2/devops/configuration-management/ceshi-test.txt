@@ -11,4 +11,8 @@ ID: 1834095313075056640
 PromptHint: ceshi
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1834095313075056640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ceshi-test"](https://www.aiprm.com/prompts/devops/configuration-management/1834095313075056640/)_"
+---
+ [TARGETLANGUAGE]  [PROMPT]

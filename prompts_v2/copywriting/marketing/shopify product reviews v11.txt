@@ -15,4 +15,17 @@ ID: 1840688450669129728
 PromptHint: just fill the variables and put a fullstop here "."
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1840688450669129728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Shopify Product Reviews v1.1"](https://www.aiprm.com/prompts/copywriting/marketing/1840688450669129728/)_"
+---
+Responda em [TARGETLANGUAGE]. Crie uma tabela  com as seguintes colunas: product_handle,state,rating,title,author,email,location,body,reply,created_at,replied_at 
+com apenas [VARIABLE1] avaliações  criadas  com informações randomizadas que não precisam ser reais ou atuais do produto de nome: [VARIABLE2]  com classificação de [VARIABLE3] estrelas só substitua o que está dentro de colchetes  [nome do produto],approved,[rating 0-5],[titulo],[nome do avaliador],[email do avaliador com apelidos ou numeros  provedores conhecidos como gmail yahoo outlook],"",[comentario que destaca  beneficios de forma realista de acordo com o rating  em uma frase ],,[data e hora variando desde começo do ano no formato yyyy-mm-dd hh:mm:ss -0300]
+
+
+Não altere o nome do produto nem a avaliação e não preencha a localidade.
+[PROMPT]
+[VARIABLE1:How many Reviews:2]
+[VARIABLE2:ProductName:product-name]
+[VARIABLE3:Stars:5]
 

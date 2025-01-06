@@ -11,4 +11,11 @@ ID: 1783559590085132288
 PromptHint: [Enter Your Ebook topic}
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1783559590085132288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "eBook Outline Generator"](https://www.aiprm.com/prompts/copywriting/accounting/1783559590085132288/)_"
+---
+Create best Ebook Outline on [PROMPT]. All output shall be in  [TARGETLANGUAGE]
 
+
+Do not echo my prompt

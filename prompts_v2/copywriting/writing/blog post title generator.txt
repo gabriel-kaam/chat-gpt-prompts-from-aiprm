@@ -11,4 +11,8 @@ ID: 1805069085432872960
 PromptHint: [Put Keyword Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1805069085432872960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Post Title Generator"](https://www.aiprm.com/prompts/copywriting/writing/1805069085432872960/)_"
+---
+Please use English for all responses. Act as a skilled blog post title writer with fluency in English. I will provide a keyword or keywords separated by commas, and your task is to generate 10 blog post titles that include the keyword(s) at the beginning and have high potential for going viral on social media. Ensure all titles are under 58 characters and 570px. Now, please generate 10 titles based on the keyword(s) [PROMPT] in [TARGETLANGUAGE], keeping the keyword(s) at the beginning of each title.

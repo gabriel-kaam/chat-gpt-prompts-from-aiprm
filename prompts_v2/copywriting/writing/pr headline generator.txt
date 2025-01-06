@@ -11,4 +11,9 @@ ID: 1835183198171844608
 PromptHint: text that you want a headline for
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1835183198171844608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PR Headline Generator "](https://www.aiprm.com/prompts/copywriting/writing/1835183198171844608/)_"
+---
+Your task is to create catchy titles from the text I give you in 100 characters. All Output should be in the [TARGETLANGUAGE]. The text to create headlines is this:
+[PROMPT]

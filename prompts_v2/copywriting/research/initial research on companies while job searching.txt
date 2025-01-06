@@ -11,4 +11,10 @@ ID: 1812132674610135040
 PromptHint: What is the [Company Name] and the [Job Role]?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1812132674610135040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Initial Research on Companies while Job Searching"](https://www.aiprm.com/prompts/copywriting/research/1812132674610135040/)_"
+---
+In [TARGETLANGUAGE], can you tell me about [Company Name] and what they do? I'm interested in applying for the [Job Role] position, what would my responsibilities be? And finally, what are some exciting things about working for [Company Name] that would make it a great place to work?
 
+[PROMPT]

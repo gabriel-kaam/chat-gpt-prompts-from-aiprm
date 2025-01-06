@@ -11,4 +11,10 @@ ID: 1791210312230498304
 PromptHint: Input the keyword you want in your TLDR, then "PASTE CONTENT HERE"
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1791210312230498304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "TLDR Writer With Your Keyword"](https://www.aiprm.com/prompts/seo/writing/1791210312230498304/)_"
+---
+Create a TLDR in 2 to 3 sentences including the keyword [PROMPT] from the content pasted below, writing the output in [TARGETLANGUAGE]:
 
+[PROMPT]

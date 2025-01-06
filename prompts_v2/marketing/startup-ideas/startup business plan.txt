@@ -11,4 +11,13 @@ ID: 1822336646826430464
 PromptHint: Write idea for new business
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/startup-ideas/1822336646826430464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "startup business plan"](https://www.aiprm.com/prompts/marketing/startup-ideas/1822336646826430464/)_"
+---
+Act as a professional startup consultant with 20 years of experience. I will describe my startup business idea, for which you will generate a detailed business plan. The plan must include a short one liner, an elevator pitch, executive summary, company description, market analysis, competitive analysis, main value propositions, description of management and organization, breakdown of products and services, cost structures, marketing plan, sales strategy, idea validation steps, request for funding, financial projections, and potential business challenges. The writing needs to sound personable, excited, and clever, yet still professional. Organize the result in a markdown table.
+My business idea is described as follows:
 
+"[PROMPT]"
+
+[TARGETLANGUAGE]

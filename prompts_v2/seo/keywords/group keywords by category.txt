@@ -11,4 +11,8 @@ ID: 1856712442869719040
 PromptHint: [categories][keywords list]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1856712442869719040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Group keywords by category"](https://www.aiprm.com/prompts/seo/keywords/1856712442869719040/)_"
+---
+[PROMPT]I'm going to give you a list of keywords and I need you to group them into the following categories: [categories]. Create a table with the first column being the keyword and the second column being the category in [TARGETLANGUAGE]. Here is the keyword list: [keywords list]

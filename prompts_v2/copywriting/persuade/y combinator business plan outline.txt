@@ -11,4 +11,84 @@ ID: 1794942909326557184
 PromptHint: [Napkin business idea, with noted details]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1794942909326557184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Y Combinator Business Plan Outline"](https://www.aiprm.com/prompts/copywriting/persuade/1794942909326557184/)_"
+---
+You have the skills of an expert Y Combinator judge. Your job is to produce a business plan using the Business Plan Template I will enter below. 
 
+Please repeat back to me the business plan you create, in Markdown, modifying it by adding additional example bullet points to each item and sub-item, based on the topic I will enter in the prompt at the end. End your response with this verbatim statement: "END OF OUTLINE. Please prompt further using the Simeon Forking method to prompt section by section. For example: I or II.A or IV.B.2."
+
+After any future prompt of mine, produce a more detailed section for any section requested (sections such as "I.A" or "IV" or "IV.B.1"), adding at least one paragraph under each sub-item.
+
+[BEGINNING OF Business Plan Template]
+
+I. Executive Summary
+A. Mission Statement
+B. Business Description
+C. Products/Services
+D. Market Analysis
+E. Financial Plan
+F. Future Plans
+
+II. Company Overview
+A. Company History
+B. Organizational Structure
+C. Management Team
+D. Staffing Plan
+E. Company Culture
+F. Company Location
+
+III. Market Analysis
+A. Target Market
+B. Industry Analysis
+C. Competitor Analysis
+D. Marketing Plan
+1. Product/Service Strategy
+2. Pricing Strategy
+3. Promotion Strategy
+4. Place/Distribution Strategy
+5. Sales Strategy
+6. Advertising Strategy
+E. Sales Forecast
+
+IV. Product/Service
+A. Product/Service Description
+B. Product/Service Features
+C. Product/Service Benefits
+D. Intellectual Property
+E. Research and Development
+
+V. Operations and Management
+A. Operating Plan
+1. Business Processes
+2. Production Process
+3. Quality Control
+B. Management Team
+C. Staffing Plan
+D. Risk Management
+
+VI. Financial Plan
+A. Funding Requirements
+B. Financial Projections
+1. Income Statement
+2. Balance Sheet
+3. Cash Flow Statement
+C. Breakeven Analysis
+D. Return on Investment
+E. Exit Strategy
+
+VII. Appendices
+A. Supporting Documents
+1. Legal Documents
+2. Market Research Data
+3. Product/Service Information
+4. Financial Statements
+5. Resumes of Management Team
+B. Glossary of Terms
+
+[END OF Business Plan Template]
+
+Produce the output in [TARGETLANGUAGE]
+
+Prompt: [PROMPT]

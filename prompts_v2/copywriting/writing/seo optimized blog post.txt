@@ -11,4 +11,8 @@ ID: 1861472821025230848
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1861472821025230848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Blog Post"](https://www.aiprm.com/prompts/copywriting/writing/1861472821025230848/)_"
+---
+Write a [1000] word listicle blog post titled [TITLE] that is optimized for the keyword [KEYWORD]. This exact keyword should appear at least [8] times in the post, including in at least [4] subheadings. Please add  [4] FAQs and those should have the [KEYWORD].  [TARGETLANGUAGE]  [PROMPT] 

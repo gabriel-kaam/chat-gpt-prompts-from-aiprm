@@ -11,4 +11,41 @@ ID: 1831481554770333696
 PromptHint: [Enter the main keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1831481554770333696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO title (2023 updated)"](https://www.aiprm.com/prompts/seo/keywords/1831481554770333696/)_"
+---
+I want to create an SEO title for my keyword. Your task is to give me a list of SEO titles.
 
+The SEO title must be:
+- Include the exact main keywords, (the main keyword must be kept unchanged).
+- The main keyword must be close to the left
+- Include relevant keywords if you can
+- It's only 6-10 words in length and sticks to around 50-60 characters
+- Don't be repetitive or stuff keyword
+
+Here are some tips to create an SEO title:
+Depth/thoroughness: People love thorough, in-depth resources. That’s likely why there’s a clear correlation between the length of content and rankings. If your resource is more thorough than other search results, don’t hide it. Entice the click by adding words/phrases like these to your title tag: “ultimate,” “complete,” “definitive,” “study,” “step-by-step,” etc.
+Lists / Quantity: People love list posts. We suggest that you always include a number in your title tag for list-style posts.
+Speed / Brevity: Information overload is a real problem. If your content is concise and to-the-point, this is your USP. “Sell” your content with words/phrases like these in your title tag: “quick,” “simple,” “…in X minutes,” “today,” “now,” etc. And for product pages, try things like: “free shipping” or “next-day delivery” (if you offer this, of course).
+Freshness: Some queries (e.g. “SEO tips 2018”) demand fresh results. Nobody is going to click a result from 2012 for such queries. To communicate freshness, add words/phrases like these to your title tag: “…in 20XX”, “last updated Jan. 18”, etc.
+Brand: People are more likely to click on a search result from a brand they know and trust. (Do we have any stats on that? No, but it’s pretty obvious.) So, if you’re remotely well-known in your industry, add your brand name to your title tag.
+
+For example:
+DO: How to Paint Dirt Bike Plastics for a Fresh New Look
+DON'T: Step-by-Step Guide: How to Paint Dirt Bike Plastics for a Fresh New Look
+
+DO: How to Paint Dirt Bike Plastics for Long-Lasting Results)
+DON'T: Long-Lasting Results: How to Paint Dirt Bike Plastics
+
+DO: How to Paint Dirt Bike Plastics: The Ultimate Painting Tutorial
+DON'T: The Ultimate Painting Tutorial: Achieve a Flawless Finish on Dirt Bike Plastics
+
+DO: Pirelli vs Goodyear Tires: Choosing the Right Brand
+DON'T: Pirelli vs Goodyear Tires: Which Brand Offers Better Performance?
+
+
+The main keyword is:
+[PROMPT]
+
+All output shall be in [TARGETLANGUAGE].

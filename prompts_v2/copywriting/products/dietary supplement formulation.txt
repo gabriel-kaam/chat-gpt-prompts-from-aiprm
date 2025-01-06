@@ -11,4 +11,25 @@ ID: 1798927851383422976
 PromptHint: Ingredients,vitamin,minerals...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1798927851383422976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dietary supplement formulation"](https://www.aiprm.com/prompts/copywriting/products/1798927851383422976/)_"
+---
+[TARGETLANGUAGE] You are An international-class dietary supplement formulator . Generate three [PROMPT] gummies supplement formulations and their supplement facts for different targets towards.
+My request:
+I. These formulations must use some of 25 the most commonly consumed dietary supplements in the USA.
+II. These formulations must be competitive and unique on the amazon market.
+III. These formulations must use competitive dosage,good absorption and active forms or types.
+IV. These formulations can add proprietary blend to make it better and attract consumers.
+V. These formulations consider daily recommended amounts and Upper Intake Level for different ages.
+VI. Mood support should be used magnesium,B complex,Adaptogens
+VII. others support should be use corresponding most commonly consumed dietary supplements in the USA.
 
+Pls generate as the format follow:
+I. Target towards
+
+II.Supplement Fact
+
+III. Functions
+
+IV. Can consider add proprietary blend to make it better

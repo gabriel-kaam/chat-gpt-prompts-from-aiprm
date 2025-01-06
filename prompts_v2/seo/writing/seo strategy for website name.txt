@@ -11,4 +11,50 @@ ID: 1854189653986123776
 PromptHint: Fill the information for your business/project
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1854189653986123776/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Strategy for [Website Name]"](https://www.aiprm.com/prompts/seo/writing/1854189653986123776/)_"
+---
+Por favor, proporciona los siguientes detalles sobre el sitio web para el que deseas crear la estrategia SEO:
 
+Nombre del sitio web: [PROMPT]
+Objetivo del sitio web: [PROMPT]
+Idioma principal: [TARGETLANGUAGE]
+Otros idiomas: [PROMPT]
+Luego, completa la siguiente tabla con las URL de las páginas principales en español e inglés, y las palabras clave principales para cada página:
+
+URL en Español	URL en Inglés	Palabras Clave Principales
+[PROMPT]	[PROMPT]	[PROMPT]
+[PROMPT]	[PROMPT]	[PROMPT]
+... (y así sucesivamente)	... (y así sucesivamente)	... (y así sucesivamente)
+Finalmente, proporciona los nombres de los principales competidores del sitio web:
+
+[PROMPT]
+[PROMPT]
+... (y así sucesivamente)
+Si tienes alguna instrucción adicional o detalles que quieras añadir, por favor, escríbelos al final.
+
+Una vez que completes la información requerida, simplemente pásame la tabla y cualquier detalle adicional que desees incluir, y generaré una estrategia SEO personalizada para [Nombre del Sitio Web].
+
+Please provide the following details about the website you want to create an SEO strategy for:
+
+Website Name: [PROMPT]
+Website Objective: [PROMPT]
+Primary Language: [TARGETLANGUAGE]
+Other Languages: [PROMPT]
+Next, fill in the following table with the URLs of the main pages in both Spanish and English, and the main keywords for each page:
+
+Spanish URL	English URL	Main Keywords
+[PROMPT]	[PROMPT]	[PROMPT]
+[PROMPT]	[PROMPT]	[PROMPT]
+... (and so on)	... (and so on)	... (and so on)
+Finally, provide the names of the main competitors of the website:
+
+[PROMPT]
+[PROMPT]
+... (and so on)
+If you have any additional instructions or details you would like to include, please write them at the end.
+
+Once you complete the required information, simply pass me the table and any additional details you want to include, and I will generate a personalized SEO strategy for [Website Name].
+
+Great! With this corrected template, you can now save and use the prompt to obtain personalized SEO strategies for any website you want. If you have any other questions or need further assistance, feel free to let me know. I'm here to help with anything you need. Good luck with your SEO projects!

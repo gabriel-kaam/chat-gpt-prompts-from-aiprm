@@ -11,4 +11,9 @@ ID: 1818345088242413568
 PromptHint: Ask questions for only answer
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1818345088242413568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ask questions for only answer"](https://www.aiprm.com/prompts/unsure/writing/1818345088242413568/)_"
+---
+I am gonna ask you some questions and answers Just tell me only what the answer for that questions do not tell me more than then answer
+[TARGETLANGUAGE] and [PROMPT]

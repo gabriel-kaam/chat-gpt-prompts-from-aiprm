@@ -11,4 +11,8 @@ ID: 1852574046421274624
 PromptHint: write about the [KEYWORD], i provide the tool in my website, please describe it  
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1852574046421274624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Place your Tool Title"](https://www.aiprm.com/prompts/seo/writing/1852574046421274624/)_"
+---
+[TARGETLANGUAGE][PROMPT]

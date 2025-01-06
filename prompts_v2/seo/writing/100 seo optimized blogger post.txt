@@ -11,4 +11,8 @@ ID: 1788821440351698944
 PromptHint: [Type Post Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1788821440351698944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% SEO Optimized Blogger Post"](https://www.aiprm.com/prompts/seo/writing/1788821440351698944/)_"
+---
+[TARGETLANGUAGE]write a blogger post with full SEO optimized of  content  "[PROMPT]"  write the blogger include: title, meta description 140 characters, image alt, image title, write the content over 1200 words, FAQS and Conclusion. write content in two formats: 1. Normal Format, 2. HTML Format (Now write Full Content convert into HTML Format and  write the html code without <head> and <body> tags just you should write contents format, by the way write full content into HTML No skipping.)

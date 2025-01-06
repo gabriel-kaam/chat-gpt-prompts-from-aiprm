@@ -11,4 +11,10 @@ ID: 1789951997823410176
 PromptHint: [Articletitle] [Tableofcontent] [STATS & FIGURES]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1789951997823410176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Authoritative introduction"](https://www.aiprm.com/prompts/copywriting/writing/1789951997823410176/)_"
+---
+Write a magazine-like introduction for: [Articletitle] It must include "what we will discuss" in one line given by the user as [Tableofcontent]. If the user give stats or facts or figure to discuss [STATS & FIGURES], so must include it as a hook initially in introduction. Output [TARGETLANGUAGE] will be Enlgish.
 
+[PROMPT]]

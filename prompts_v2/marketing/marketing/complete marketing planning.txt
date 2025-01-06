@@ -11,4 +11,17 @@ ID: 1883103646238646272
 PromptHint: Digite a palavra chave que eu montarei o planejamento de marketing para você.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1883103646238646272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Complete Marketing Planning"](https://www.aiprm.com/prompts/marketing/marketing/1883103646238646272/)_"
+---
+"ESTRATÉGIA 01 - SUGESTÃO DE TEMAS PARA BLOG"
+Sua tarefa é me dar 5 sugestões de temas para blog sobre a palavra-chave escolhida. Segmente apenas termos de pesquisa de estilo de transação. Por favor, crie títulos de estilo clickbait para essas postagens de blog. Por favor, organize cada título de post de blog em uma linha da tabela. 
 
+Após, pegue a palavra-chave escolhida, escreva "ESTRATÉGIA 02 - PROGRAMAÇÃO DE POSTAGENS" e crie uma programação de postagem de mídia social com sugestões de temas para tópicos da palavra-chave escolhida na tabela abaixo, onde estou postando no Facebook, Instagram, Twitter e Pinterest. O tipo de mensagens incluem; dicas, truques, citações, fatos, ideias de atividades, inspiração, ideias de planos de aula, receitas e listas. Informe também qual é formato dessas postagens. Pode ser texto, imagens ou vídeos curtos.
+
+"ESTRATÉGIA 03 - JORNADA DO CLIENTE"
+Eu gostaria que você me ajudasse a criar uma programação de conteúdo para o meu blog que tivesse a melhor chance de me ajudar a classificar palavras-chave de cauda longa específicas para a palavra-chave escolhida.
+
+Por favor, descreva detalhadamente a jornada do cliente de um processo de compra para uma empresa. Necessito que o resultado esteja em formato de tabela com as colunas: Etapa, Descrição, Pontos de Contato, Ações de marketing a realizar e KPIs no topo.
+[TARGETLANGUAGE] [PROMPT]

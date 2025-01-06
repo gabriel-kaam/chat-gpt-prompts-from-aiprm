@@ -11,4 +11,8 @@ ID: 1791124649732726784
 PromptHint: [CPTNAME]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1791124649732726784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Custom Post Type (CPT) Generator for WordPress"](https://www.aiprm.com/prompts/softwareengineering/web-development/1791124649732726784/)_"
+---
+Generate code to create a Custom Post Type. The name of the CPT is [PROMPT]. The slug will be in singular. No explanations, only the code. The language is [TARGETLANGUAGE].

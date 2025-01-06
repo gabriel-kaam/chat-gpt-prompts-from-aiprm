@@ -11,4 +11,20 @@ ID: 1806403362086969344
 PromptHint: [Enter the title of the Niche, and design description]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1806403362086969344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The Ultimate Merch By Amazon Listing Creator[Beta]"](https://www.aiprm.com/prompts/seo/keywords/1806403362086969344/)_"
+---
+*Your task is to Create a Merch By amazon Listing, focusing on the design only, never talk about T-shirt itself, ([Design title which is less than 60 characters] & [ Brand which is between 40 & 50 characters] &  [ Feature bullet 1 which is between 220 & 256 characters, one paragraph] & [ Feature bullet 2 which is between 209 & 256 characters one paragraph] & [ Product description
+ which is between 1700 & 2000 characters]), All output shall be in [TARGETLANGUAGE]. 
+*Make sure not to include any copyright or trademark , also make sure to focus on the design instead of product. 
+*Don't include "T-shirt or T-Shirts" , Don't include "Gift or Gifts". 
+*follow Merch By Amazon Rules
+don't talk about the t-shirt material or size or production
+Don't include anything similar to this :
+100% Cotton; Heather Grey: 90% Cotton, 10% Polyester; All Other Heathers: 50% Cotton, 50% Polyester
+Lightweight, Classic fit, Double-needle sleeve and bottom hem
+------------
+*The niche name and design description is this :
 
+[PROMPT]

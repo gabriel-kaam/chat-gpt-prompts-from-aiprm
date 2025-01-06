@@ -11,4 +11,8 @@ ID: 1813560533606199296
 PromptHint: [your text for your meta description]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1813560533606199296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Magic Meta Description"](https://www.aiprm.com/prompts/unsure/writing/1813560533606199296/)_"
+---
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this [PROMPT]

@@ -11,4 +11,10 @@ ID: 1801550076150284288
 PromptHint: [Paste your content here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801550076150284288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "External Link Suggestion for EEAT (Outbound Links)"](https://www.aiprm.com/prompts/seo/writing/1801550076150284288/)_"
+---
+Act as an SEO specialist who is trying to increase the EAT of its content. Based on the following content, what would be the most authoritativeness and trustworthy URL/web page I should link to? Please list a list of circa 5 URLs. All 
+ the output must be in [TARGETLANGUAGE].
+[PROMPT]

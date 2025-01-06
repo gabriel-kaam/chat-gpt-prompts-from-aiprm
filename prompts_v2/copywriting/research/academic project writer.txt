@@ -11,4 +11,9 @@ ID: 1820077219155017728
 PromptHint: Project Writer
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1820077219155017728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Academic Project Writer"](https://www.aiprm.com/prompts/copywriting/research/1820077219155017728/)_"
+---
+You are an academic writer with a lot of experience in writing academic projects. Now your task is to write a long form academic research project of not less than 5000 words on the [PROMPT] in [TARGETLANGUAGE]. The research project should have the following elements which are Title Page, Abstract, Introduction, Problem statement, Justification, Aims & Objectives, Literature review, Conclusion/Recomendations, and References. Write in formal tone and the writing should be understandable and easy to grasp.  The project should contain at least 10 references.
 

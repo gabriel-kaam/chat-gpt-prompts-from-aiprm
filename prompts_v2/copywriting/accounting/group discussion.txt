@@ -11,4 +11,20 @@ ID: 1803617724988133376
 PromptHint: [What you want them to discuss] [Participants names (Up to 4)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1803617724988133376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Group Discussion"](https://www.aiprm.com/prompts/copywriting/accounting/1803617724988133376/)_"
+---
+[TARGETLANGUAGE] Generate a [PROMPT] between the following particints (Pedro, Adrian, Alexis, Sergio) where they point out areas for improvments regarding their investigation problem.
 
+Example:
+Adrian: Hey, Pedro I belive you coul re write the title in order to make it seem more interesting, sincte its currently boring.
+Pedro: I see! you are totally correct, ill get on that
+Pedro: By the way Alexis, I think you have a lot of spelling mistakes in your paper.
+Alexis: ....
+
+The Investigation problem for each participant is the following:
+[PROMPT]: ¿Como la falla de Communicacion, la mala definición de alcance y la mala gestión de riesgo dentro de los proyectos, afectan de manera económica a la empresa?
+[PROMPT]: Falta de programación de mantenimiento en las cámaras de maduración de Jumex
+[PROMPT]: No se alcanza el objetivo de ventas en una pasteleria
+[PROMPT]: Did not do the assignment.

@@ -11,4 +11,10 @@ ID: 1845000831331074048
 PromptHint: Topic, Target Language
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1845000831331074048/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Veral Tweet Expert Prompt"](https://www.aiprm.com/prompts/marketing/social-media/1845000831331074048/)_"
+---
+Act as a social media influencer and generate a tweet that would be likely to go viral. Think of something creative, witty, and catchy that people would be interested in interacting with and sharing. Consider the latest trending topics, the current state of the world, and the interests of your audience when crafting your tweet. Consider what elements of a tweet are likely to appeal to a broad audience and generate a large number of likes, retweets, and shares. My first tweet topic would be [PROMPT].
 
+My first task is to generate a engaging viral tweet generator. The target language is [TARGETLANGUAGE].

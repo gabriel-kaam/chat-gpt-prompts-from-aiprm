@@ -12,4 +12,8 @@ ID: 1782552828389359616
 PromptHint: "How to change a tire", "Exploring the Himalayan mountains", "Training dogs for beginners", Etc
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1782552828389359616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YouTube Script Creator"](https://www.aiprm.com/prompts/marketing/social-media/1782552828389359616/)_"
+---
+Create a compelling and captivating YouTube video script from the following description: [PROMPT].

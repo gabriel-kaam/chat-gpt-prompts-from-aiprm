@@ -11,4 +11,10 @@ ID: 1804445928531431424
 PromptHint: [Insert your text here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1804445928531431424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "French - rewrite text minimally"](https://www.aiprm.com/prompts/copywriting/writing/1804445928531431424/)_"
+---
+Please rewrite the following text for me. The rewritten text should have more words than the text I sent you. This is very important, so be sure to use more words than I have given you. And please use the language [TARGETLANGUAGE].
 
+[PROMPT]

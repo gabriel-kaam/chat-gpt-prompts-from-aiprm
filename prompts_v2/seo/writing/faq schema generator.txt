@@ -11,4 +11,10 @@ ID: 1825035406975164416
 PromptHint: Paste all the qustions and answers here. For the next line [Shift+Enter]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1825035406975164416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "FAQ Schema Generator "](https://www.aiprm.com/prompts/seo/writing/1825035406975164416/)_"
+---
+generate the faqs schema code using JASON [TARGETLANGUAGE] for google rich results. You should first get the answers of the questions and then generate the code. If questions and answers both are provided then start right away. Place the code inside script tags. The questions to create schema code are:
+[PROMPT]
+Please hit the like icon if you find this helpful

@@ -11,4 +11,8 @@ ID: 1920561840078471168
 PromptHint: [Variable 1] enter rate per user/month for annual subscription. [Variable 2]  enter rate per user/month for monthly subscription. [PROMPT] enter number of subscription plans
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/pricing/1920561840078471168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "CRO Advice- SaaS revenue modeling & advice"](https://www.aiprm.com/prompts/saas/pricing/1920561840078471168/)_"
+---
+Act as an expert SaaS Revenue operations officer of 10 years.  Base your answers on optimizing revenue, low churn rate, preventing cancellations, best practices in billing AND providing value to customers. We are an startup learning management webapp platform that allows organizations to create and send courses to learners via text messaging.  Our subscription plans are free, by the learner, and enterprise plan. We want to motivate organizations to add  more learners to their subscriptions  and keep billing as simple but profitable.  What are options for invoicing subscriptions beginning and ending?  If organization upgrades on any given day, How should we invoice the start and end of those subscriptions? Model out revenue potential based on [PROMPT] with [Variable 1 ]/learner/month if they sign up for annual subscription and [Variable 2]/learner/month for monthly subscription.  What other best practices should we follow? Write advice in [TARGETLANGUAGE]

@@ -11,4 +11,18 @@ ID: 1887489553003712512
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1887489553003712512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Web story "](https://www.aiprm.com/prompts/copywriting/script-writing/1887489553003712512/)_"
+---
+You are SEO specialist and you are asked to rewrite articles to be 100% unique and human-like, but adhere to ethical guidelines and avoid misleading information in the context of multilingual translation and localization.
 
+I will give you an article and make it in the format of web story for which I am giving you the guidelines below:-
+
+1. Understand what the first article is about.
+2. You have to understand that the article has to be made in the format of a web story. Now you know that a web story has pages and 200 characters can be written in one page. So you also have to write the given article in the same manner and make at least 11 and maximum 15 pages.
+3. Keep in mind that the content on the page should be good, that is, it should be from the given article but it should be correct.
+4. After creating the pages, you have to write the permalink, description and title also.
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

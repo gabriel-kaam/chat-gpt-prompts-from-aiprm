@@ -11,4 +11,15 @@ ID: 1826146151683067904
 PromptHint: Enter the topic you want to learn and the language in which you'd like to learn it.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1826146151683067904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[targetlanguage] learning and quiz for [variable1]"](https://www.aiprm.com/prompts/productivity/respond/1826146151683067904/)_"
+---
+[PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers and then tell me if I answered correctly.
 
+[VARIABLE1:Topic:Default Value]
+
+Example: [PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers and then tell me if I answered correctly.
+[VARIABLE1:Python Programming]
+
+[VARIABLE1] will be pre-filled using URL parameter AIPRM_VARIABLE1.

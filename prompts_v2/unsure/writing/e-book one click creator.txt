@@ -12,4 +12,8 @@ ID: 1794406621728997376
 PromptHint: [E-book Title] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1794406621728997376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "E-book One Click Creator "](https://www.aiprm.com/prompts/unsure/writing/1794406621728997376/)_"
+---
+write an ebook, write the introduction, write the content of each chapter, Chapters have a minimum of 200 to 250 written words, create a table of contents, Write the overview at the end of the book. Edit and Format, offer idea designs for the book cover, and write the blurb for the back cover of the book do all of this in the [TARGETLANGUAGE] from the given [PROMPT]

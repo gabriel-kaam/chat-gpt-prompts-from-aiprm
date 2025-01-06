@@ -11,4 +11,9 @@ ID: 1783982057580662784
 PromptHint: domain names, domain generator, business names, unique domain
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1783982057580662784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "UNIQUE DOMAIN NAMES GENERATOR"](https://www.aiprm.com/prompts/seo/ideation/1783982057580662784/)_"
+---
+Act as a smart domain name generator. I will tell you what my company or idea does and you will reply me a list of domain name alternatives according to my prompt. You will only reply the domain list, and nothing else. Domains should be max 7-8 letters, only .com, should be short but unique, can be catchy or non-existent words. Do not write explanations [TARGETLANGUAGE]
+[PROMPT]

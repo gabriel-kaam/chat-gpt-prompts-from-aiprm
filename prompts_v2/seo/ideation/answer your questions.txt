@@ -11,4 +11,12 @@ ID: 1846075213222764544
 PromptHint: Your Question
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1846075213222764544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Answer Your Questions"](https://www.aiprm.com/prompts/seo/ideation/1846075213222764544/)_"
+---
+Please read the text carefully and answer the following question as precisely as possible based on the provided text, whether a full question or a word asked, please reply in [TARGETLANGUAGE] language
+Question: "[variable1]"
+[variable1:your question]
+[PROMPT]
+[crawledsource]

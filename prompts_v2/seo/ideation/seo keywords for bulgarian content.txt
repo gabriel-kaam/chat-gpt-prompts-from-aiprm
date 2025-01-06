@@ -11,4 +11,8 @@ ID: 1847254651427872768
 PromptHint: [text]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1847254651427872768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Keywords for Bulgarian Content"](https://www.aiprm.com/prompts/seo/ideation/1847254651427872768/)_"
+---
+[PROMPT] You are a professional SEO specialist, and based on the text I entered, I want you to extract all the relevant high-frequency keywords for me in a comma-separated list to create a new text with better results in the Google ranking.  Your task is to: Extract the top 20 ranking SEO keywords from this article and then suggest 10 more related SEO keywords that may have been missed, and will improve the quality of the article's SEO. All output must be in Bulgarian. [TARGETLANGUAGE] Bulgarian.

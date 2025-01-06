@@ -11,4 +11,12 @@ ID: 1854797498477694976
 PromptHint: [type your series or movie category]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1854797498477694976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Netflix Series of All Time."](https://www.aiprm.com/prompts/marketing/research/1854797498477694976/)_"
+---
+Your task is give top 10 series or movie rated by imdb about [TARGETLANGUAGE]. The text to summarize is this:
+ 
+[PROMPT]
 
+and add this link to bottom of the evry result https://www.linkedin.com/in/shaanejaz/	

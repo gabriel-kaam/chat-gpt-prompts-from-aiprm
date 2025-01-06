@@ -11,4 +11,8 @@ ID: 1786850072609427456
 PromptHint: [Movie 1, Movie 2, Series 1, Series 2, and so on] Series or Movies you watched
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1786850072609427456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Netflix Analyzer"](https://www.aiprm.com/prompts/copywriting/summarize/1786850072609427456/)_"
+---
+ich nenne dir jetzt ein paar netflix serien und Filme : "[PROMPT]" und du versuche ein Muster darin zu erkennen bzw. versuche was über diese Person zu schlussfolgern die das alles gesehen hat. So viel wie du nur schaffst. Ziehe zum Schluss ein Fazit was du über die Person denkst. Antworte mir bitte alles auf [TARGETLANGUAGE]. Empfehle mir in einer schicken Tabelle zum Schluss noch basierend auf meinen Mustern jeweils 5 weitere Titel die ich mir anschauen sollte. In der Tabelle wäre es schön wenn du den Titel, Hauptdarsteller und Kategorie benennst und in Sternchenform darstellst wie gut oder schlecht die Bewertung ist.

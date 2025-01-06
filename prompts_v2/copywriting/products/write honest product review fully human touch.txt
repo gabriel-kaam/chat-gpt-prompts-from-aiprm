@@ -11,4 +11,10 @@ ID: 1827976664068657152
 PromptHint: [Write Product name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1827976664068657152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write Honest Product Review (Fully Human Touch)"](https://www.aiprm.com/prompts/copywriting/products/1827976664068657152/)_"
+---
+You recently purchased a new product and would like to share your experience by writing a product review article. Give a detailed account of your personal experience with the product, compare to other 5 similar products with pricing, why this products is best for you, discussing its pros and cons, Provide insights into the product's features, performance, usability, and any other relevant aspects that shaped your opinion. Your review should be informative and assist potential buyers in making an informed decision.  Use the TARGETLANGUAGE to express your thoughts.
 
+My first task is to write a product review article about [PROMPT]. The target language is [TARGETLANGUAGE].

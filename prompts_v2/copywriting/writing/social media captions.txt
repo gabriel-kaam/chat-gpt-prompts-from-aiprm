@@ -11,4 +11,12 @@ ID: 2024831782969167872
 PromptHint: List up to 20 image descriptions separated by numbers. Example: '1. A cozy living room with a brick wall and rug.' The AI will generate captions and stories for each."
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2024831782969167872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Captions "](https://www.aiprm.com/prompts/copywriting/writing/2024831782969167872/)_"
+---
+Generate captions, stories, and CTAs in [TARGETLANGUAGE] for up to 20 images provided in [PROMPT]. Each caption and story should be engaging, realistic, and encourage blog visitors.
 
+1. Write a **caption** (1-2 sentences) in [TARGETLANGUAGE].
+2. Write a **mini-story** (3-5 sentences) in [TARGETLANGUAGE].
+3. Write a **call-to-action** (CTA) in [TARGETLANGUAGE].

@@ -11,4 +11,11 @@ ID: 1828703759249969152
 PromptHint: [Linkedin Carousel post for the given keyword/title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1828703759249969152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Linkedin Carousel post"](https://www.aiprm.com/prompts/marketing/social-media/1828703759249969152/)_"
+---
+Write me a LinkedIn carousel post About  [TOPIC]. 
+Also, Write slide by slide with titles. Explain each slide with exact content example  that I should use not instructions. Only write me actionable text that I can copy and Paste.you will reply with blog post titles in [TARGETLANGUAGE]
 
+[PROMPT]

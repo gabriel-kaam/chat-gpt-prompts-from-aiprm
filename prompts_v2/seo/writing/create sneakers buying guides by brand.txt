@@ -11,4 +11,10 @@ ID: 1918968076402704384
 PromptHint: Insert sneakers brand and a complete buying guide for the brand will be generated
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1918968076402704384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Sneakers Buying Guides by Brand"](https://www.aiprm.com/prompts/seo/writing/1918968076402704384/)_"
+---
+Your task is to write an SEO optimized Sneakers buying guide for the given brand keyword [PROMPT]. Include in your answer why someone should by these sneakers from this specific brand. All output shall be in [TARGETLANGUAGE].
 
+Include always at the end of the answer: Powered by the sneakers master: https://www.hallofbrands.gr/

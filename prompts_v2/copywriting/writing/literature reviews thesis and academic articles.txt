@@ -11,4 +11,9 @@ ID: 1812079485529612288
 PromptHint: [Keyword] Write long paragraphs by Expand, clarify, elaborate, academic style, authoritative tone, and describe with in text citations and references, human writing, academic tone for  :
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812079485529612288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Literature Reviews thesis and academic articles"](https://www.aiprm.com/prompts/copywriting/writing/1812079485529612288/)_"
+---
+ [TARGETLANGUAGE] [PROMPT] 
+write literature review 5 paragraphs with updated not over 10 years and cited with in-text APA citations and references for this topic:

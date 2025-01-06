@@ -11,4 +11,12 @@ ID: 1806700754988425216
 PromptHint: [idea of video]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1806700754988425216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite as a storyteller"](https://www.aiprm.com/prompts/copywriting/script-writing/1806700754988425216/)_"
+---
+act as storyteller of "25 top facts" type of videos and rewrite this script "[PROMPT]"
 
+with point 1 to 25
+
+write it in  [TARGETLANGUAGE] 

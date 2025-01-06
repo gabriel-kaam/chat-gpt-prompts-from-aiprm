@@ -11,4 +11,8 @@ ID: 1793248414033772544
 PromptHint: [Your website url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1793248414033772544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Marketing Plan"](https://www.aiprm.com/prompts/marketing/marketing/1793248414033772544/)_"
+---
+Create a comprehensive marketing proposal in [TARGETLANGUAGE] based on [PROMPT]. Please include information on the industry, target market, competition, a detailed plan for a successful launch, including performance metrics, excluding budget.

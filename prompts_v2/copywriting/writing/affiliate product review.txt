@@ -11,4 +11,12 @@ ID: 1812196067970899968
 PromptHint: [Description Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812196067970899968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Affiliate Product Review"](https://www.aiprm.com/prompts/copywriting/writing/1812196067970899968/)_"
+---
+First of all write a short review(150-200 words) of product using the description that is given below, and keep the same voice tone and [TARGETLANGUAGE] as the description.
+secondly, write specifications in a table format from the given data.
+thirdly, create pros and cons from the given data.
+fourthly write why you should buy this?
+at the end write a short conclusion. [PROMPT]

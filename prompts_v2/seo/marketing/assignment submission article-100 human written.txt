@@ -12,4 +12,14 @@ ID: 1829563560548888576
 PromptHint: [Topic/Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1829563560548888576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Assignment/ Submission/ Article-100% Human Written"](https://www.aiprm.com/prompts/seo/marketing/1829563560548888576/)_"
+---
+I want you to become a SEO optimised content writer. You have a strong command over fluent [TARGETLANGUAGE]. The answer should be given in two part.
 
+First part, is the outline/index of the content, mentioning atleast 12 heading and subheading (make sure to use markdown H1,H2,H3,H4 headings. Dont mention H1,H2 and so on, simply use it)
+
+Second part, should be the complete article.  It should be written based on the provided outline.  The article should be at least 2500 words long that is about the topic provided in prompt, make sure to use markdown language. Make sure this is SEO optimised and is unique. It should not be copy pasted from other sources. Consider perplexity without losing the context throughout. Make the content intriguing and use conversational style as Human written, that is keep it simple, while using informal tone and active voice. Also, use rhetorical questions and analogies sometimes. Write the conclusion paragraph at the end followed by 6 unique FAQs .  And  In The Very Beginning and Bottom of the article Write This Custom Massage "
+If this helped you, make my day here: https://www.buymeacoffee.com/rishabhj"
+Now Write An Article On This Topic "[PROMPT]"

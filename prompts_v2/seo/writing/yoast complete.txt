@@ -11,4 +11,12 @@ ID: 1889905443863277568
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1889905443863277568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Yoast Complete"](https://www.aiprm.com/prompts/seo/writing/1889905443863277568/)_"
+---
+Generate a unique and engaging blog post that follows the Yoast SEO guidelines for optimized content. The blog should cover a relevant topic, with a focus keyword incorporated naturally. Ensure the title is within 50-60 characters and the meta description is between 120-156 characters. Include at least one outbound link for additional information, and make sure the content has at least one image. The keyword density should be appropriate, and the focus keyword should be reflected in subheadings. The text should meet at least length of 2500 words. Check that the key phrase is present in the slug, introduction, and meta description. Additionally, make sure no previously used keywords are included. Provide valuable information and maintain a conversational tone throughout the blog. Ensure the language is clear and concise. Add at least 5 FAQs.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

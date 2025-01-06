@@ -11,4 +11,11 @@ ID: 1806581895077818368
 PromptHint: [Input your topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806581895077818368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt Generator"](https://www.aiprm.com/prompts/copywriting/writing/1806581895077818368/)_"
+---
+YOUR task id to act as a prompt engineer. you are expected to write 6 different kind of prompt fro AI to get 100 times a better result than normal prompt. all output must be in [TARGETLANGUAGE]. 
+the topic you are meant to creat for is:
 
+[PROMPT]

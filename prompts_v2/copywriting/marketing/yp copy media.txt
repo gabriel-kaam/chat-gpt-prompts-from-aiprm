@@ -15,4 +15,28 @@ ID: 1806725343869132800
 PromptHint: [company] [market segment] [message] [differentials] [objective]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1806725343869132800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "(YP) Copy media"](https://www.aiprm.com/prompts/copywriting/marketing/1806725343869132800/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
 
+Faça um texto para anúncio de uma empresa chamada ...
+
+A empresa é do mercado de ....
+
+Quero que a comunicação seja focada em...
+
+Os principais diferenciais são ...
+
+O foco da comunicação é ...
+
+Faça 2 versões ideiais para Facebook e Instagram, cada uma com número de caracteres entre 150 e 200.
+
+Faca uma versão para campanha de Performance Max do Google Ads, contendo:
+
+5 Títulos diferentes (Cada um com até 30 caracteres)
+
+10 Descrições diferentes (Cada uma com até 90 caracteres)
+
+[PROMPT]

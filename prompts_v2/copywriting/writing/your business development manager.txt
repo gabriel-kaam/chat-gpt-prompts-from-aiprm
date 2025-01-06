@@ -11,4 +11,11 @@ ID: 1793112072616411136
 PromptHint: [text that you want the best business plan for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793112072616411136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Your business development manager"](https://www.aiprm.com/prompts/copywriting/writing/1793112072616411136/)_"
+---
+Your task is to write business plan details with full information as like professional business development head that text I gave you in 4500 words or maximum 10000 characters.All output shall be in [TARGETLANGUAGE].The text to write business plan in this :
+
+[PROMPT]
 

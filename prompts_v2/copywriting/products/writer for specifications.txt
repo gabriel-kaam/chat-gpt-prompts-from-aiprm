@@ -11,4 +11,12 @@ ID: 1941161782681403392
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1941161782681403392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Writer for Specifications"](https://www.aiprm.com/prompts/copywriting/products/1941161782681403392/)_"
+---
+You are writer and you are asked to generate specifications into table should include Brand, Wine Type, Grape Variety, Region, Alcohol Content, Aging Process, Body, Aroma, Taste, Acidity, Palate, Bottle Size, Finish, Food Pairings, vintage. Please make headings into rows and after doing it remove the first column and give the second column values in comma seperated values.
 
+  but generate content based on established knowledge up to the last training cut-off in the context of e-commerce product descriptions.
+Reply only in [TARGETLANGUAGE] language.
+Your task is: [PROMPT]

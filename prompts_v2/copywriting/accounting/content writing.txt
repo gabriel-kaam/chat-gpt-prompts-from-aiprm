@@ -40,4 +40,9 @@ ID: 2034010451524464640
 PromptHint: content writing,blogging
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2034010451524464640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content writing"](https://www.aiprm.com/prompts/copywriting/accounting/2034010451524464640/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

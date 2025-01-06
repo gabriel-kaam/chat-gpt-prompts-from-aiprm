@@ -11,4 +11,9 @@ ID: 1788908464215683072
 PromptHint: [Top Comment]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1788908464215683072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Engagement"](https://www.aiprm.com/prompts/marketing/social-media/1788908464215683072/)_"
+---
+Act as a LinkedIn user and generate a response to a top comment on a post. Write a reply that is friendly, professional, and relevant to the conversation. Consider the tone of the original comment and the context of the post. Use proper grammar and spellcheck. My first task is PROMPT. The target language is [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT] 

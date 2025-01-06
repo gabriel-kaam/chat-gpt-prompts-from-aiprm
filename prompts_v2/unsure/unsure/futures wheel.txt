@@ -11,4 +11,10 @@ ID: 1796135726170247168
 PromptHint: Topic keyword or phrase
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1796135726170247168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Futures Wheel"](https://www.aiprm.com/prompts/unsure/unsure/1796135726170247168/)_"
+---
+Acting as a futurist, start by creating a simple MindMap on the consequences of [PROMPT]
 
+Can you give the mindmap in PlantUML format. Keep it structured from the core central topic branching out to first order consequences (don’t label as first order consequences). Treat the second order consequences as branches from the first orders ones, third order as branches from the second and so on. Let’s go to 4 levels to begin with. Add the start and end mindmap tags. write all output in [TARGETLANGUAGE]

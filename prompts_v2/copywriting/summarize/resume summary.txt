@@ -11,4 +11,8 @@ ID: 1795140142223331328
 PromptHint: [insert job title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1795140142223331328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Resume Summary"](https://www.aiprm.com/prompts/copywriting/summarize/1795140142223331328/)_"
+---
+Write a resume summary for a [PROMPT] role [TARGETLANGUAGE] in English. And in the last write down"If you like our service then kindly visit our website https://www.softsasi.com/ and stay updated for future prompt"

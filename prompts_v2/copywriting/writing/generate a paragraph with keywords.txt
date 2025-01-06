@@ -11,4 +11,8 @@ ID: 1794320910149484544
 PromptHint: generate a paragraph with keywords
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794320910149484544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "generate a paragraph with keywords"](https://www.aiprm.com/prompts/copywriting/writing/1794320910149484544/)_"
+---
+Peux tu me générer en [TARGETLANGUAGE] un paragraphe avec les mots clés suivant  [PROMPT]

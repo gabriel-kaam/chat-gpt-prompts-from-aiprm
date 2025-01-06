@@ -11,4 +11,10 @@ ID: 1800555602163007488
 PromptHint: Job Title: " ", Job Type: "Full Time/Part-time/Contract/Internship", Workplace Type: "On-site/Remote"
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1800555602163007488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write Perfect Linkedin Job Post Description"](https://www.aiprm.com/prompts/marketing/social-media/1800555602163007488/)_"
+---
+You are a recruitment expert, Write a detail LinkedIn job posting description in [TARGETLANGUAGE] using the [PROMPT] provided.
+And insert my Linked in profile link at the last of response content with title Follow me on Linkedin:
+My Linked in Profile link: https://www.linkedin.com/in/md-badsha/

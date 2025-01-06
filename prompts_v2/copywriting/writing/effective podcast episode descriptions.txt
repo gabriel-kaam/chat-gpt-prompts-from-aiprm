@@ -11,4 +11,25 @@ ID: 1836694072615256064
 PromptHint: Paste sermon title, bible verse and speaker name. Create compelling episode descriptions that incorporate attention-grabbing hooks, concise summaries, relevant keywords, and polished writing. Enhance the descriptions by including links to the NIV (English) and Bahasa Indonesia versions of the referenced Bible verses. Conclude each description with an exclusive call-to-action to engage and motivate your audience.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1836694072615256064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Effective Podcast Episode Descriptions"](https://www.aiprm.com/prompts/copywriting/writing/1836694072615256064/)_"
+---
+Craft captivating and SEO-optimized podcast episode descriptions that will help your episodes stand out on popular platforms like Spotify for Podcasters, Apple Podcasts, and Google Podcasts. Each description should be concise yet compelling, ranging from 150 to 200 words, and follow the format: "Episode title (Bible Verse) | Speaker Name." Emphasize the main theme of the episode, incorporate relevant keywords to enhance discoverability, and entice listeners to tune in for valuable content.
 
+Include the NIV Bible verse link and the Bahasa Indonesia Bible verse link to provide easy access to the referenced scripture. Conclude each description with a unique and compelling call-to-action that encourages listeners to engage further with your podcast, whether it's subscribing, sharing, or leaving reviews.
+
+Remember to structure your description with useful and bold subheadings that include keyword-rich titles. Be direct, precise, and accurate in delivering your message, avoiding excessive explanations. Create a comprehensive, yet brief, episode description that showcases the quality and value of your content.
+
+Note: To enhance engagement and interaction with your audience, conclude the description with five thought-provoking poll questions related to the episode's topic. These questions can be multiple-choice or short open-ended questions.
+
+To use this format:
+Prompt text including placeholders [TARGETLANGUAGE], (PROMPTI, [Sermon's topic/title], [Scripture Verses], and [Speakers name])
+replaced automatically by AIPRM.
+
+[Sermon Topics], [Bible Scriptures], and [Speaker/Pastors Name] require titles with optional default values and available values.
+
+Example: Example [PROMPT] in [TARGETLANGUAGE] with
+[VARIABLE1], [VARIABLE2], and [VARIABLE3].
+[VARIABLE1:Title] [VARIABLE2:Title:Default Value]
+[VARIABLE3:Title:Default Value:Available Value, Available Value 2, Available Value 3].

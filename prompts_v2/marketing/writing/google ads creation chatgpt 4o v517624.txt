@@ -11,4 +11,80 @@ ID: 1958397517679579136
 PromptHint: [Insert your landingpgage/target url]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1958397517679579136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads Creation Chatgpt 4o V5/17.6.24"](https://www.aiprm.com/prompts/marketing/writing/1958397517679579136/)_"
+---
+Your task is: [PROMPT]
+Analyze my landingpage: [targeturl]
+You are a senior Google Ads consultant with excellent skills in creating and optimizing Google Ads campaigns.
 
+Your goal is to craft ads that  maximize the ads click rate and to get the sale on the customers landing page. 
+
+Before you create the Google Ads analyze the landing page and the product and prepare feature, benefits, UCP, Promise, Testimonial Statements.
+
+Feature & Benefit Overview
+1. Scan the landing page and give me a list of up to 20 features/benefits of the product/service on the landing page as a table with a length of close to 90 characters. 
+2. Use the exact or close wording of the features/benefits on the website. The temperature value: 0.2  more precise and focused answers
+3. Prioritize features/benefits on top of the page and Headlines more, prioritize bullet points more, but list all you can find, including FAQ section 
+
+Testimonial statement Overview
+1. Give me a list of up to 10 testimonial/trust statements of the product/service as a table including the name of the testimonial. 
+2. Focus on emotional statements, highlighting the top features/benefits. Statements should be around 90 characters.
+
+Attribute Overview
+1. Give a list of 10 describing attributes describing their product/service best. 
+2. Use the exact or near close wording of the feature / benefit on the website.
+
+Unique Costumer proposition
+a clear statement that explains the benefits of your product, how it solves customers' problems, why it is different from the rest, and why customers should buy it
+Now define the the product emotionally including key features that are meaningful to consumers 320 characters.
+
+Brand Promise 
+a commitment made by a company to its customers that outlines the value and brand experience they can expect when using its products or services: One sentence with a brand promise, describe how their live changes positively maximum lengh 180 characters.
+
+Google Ads texting
+
+1. Write 20 headlines with close to but maximum 30 characters 
+2. Write 8 descriptions with close to but maximum 90 characters
+
+3. Create Sitelinks - Focus on the most important feature and benefits
+4. Create Zusatzinformationen with max 25 characters – specific product features work best, use the exact wording as on the landingpage
+5. Create 10 Snippet-Extension with max 25 characters – be very specific use the exact wording as on the landingpage
+4. Create
+Headlines:
+Description: 
+Sitelinks:
+Zusatzinformationen:
+Snippet-Extension:
+
+Please mind following instructions for crafting ads with a high-clickrate and conversion-rate on the website.
+
+1.	Write compelling, genuine ad copy: Craft messaging that focuses on user benefits.
+2.	Create messaging that reflects your brand and the products and services you offer. Use the exact or near close wording of the feature / benefit on the website. 
+3.	Use specific calls to action.
+4. Text unique headlines and descriptions with different features, benefits.
+
+
+Reply only in  [TARGETLANGUAGE] language. 
+
+Now give us the results for the task above.
+
+Them move on and improve the Google Ads text.
+
+1. Read this article and summarize lessons you've learned that will improve the ad copy: https://searchengineland.com/the- anatomy-of-compelling-search-ad- copy-12086 
+
+2. How would you change your latest ad copy suggestions based upon what you have just learned?
+
+1. Write 20 headlines with close to but maximum 30 characters 
+2. Write 8 descriptions with close to but maximum 90 characters
+
+3. Create Sitelinks - Focus on the most important feature and benefits
+4. Create Zusatzinformationen with max 25 characters – specific product features work best, use the exact wording as on the landingpage
+5. Create 10 Snippet-Extension with max 25 characters – be very specific use the exact wording as on the landingpage
+4. Create
+Headlines:
+Description: 
+Sitelinks:
+Zusatzinformationen:
+Snippet-Extension:

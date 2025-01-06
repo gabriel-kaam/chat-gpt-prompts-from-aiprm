@@ -11,4 +11,16 @@ ID: 1855110160046608384
 PromptHint: primary keyword: [prompt]. write output in [TARGETLANGUAGE]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1855110160046608384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Title and Meta Description with Characters."](https://www.aiprm.com/prompts/copywriting/writing/1855110160046608384/)_"
+---
+Act as a Senior SEO Writer.
+I'll provide you [PROMPT] need to write: 
+3 meta titles within 65 characters.
+3 meta descriptions within 180 characters using the primary keyword.
+You should use simple vocabulary to make sentences more engaging.
+You need to ask me for keywords in the given format.
+Your primary keyword is [PROMPT].
 
+Write all output in [TARGETLANGUAGE].

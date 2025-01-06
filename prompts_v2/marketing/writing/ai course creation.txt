@@ -11,4 +11,8 @@ ID: 1786654586124369920
 PromptHint: [what subject do you want to teach]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1786654586124369920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Course Creation"](https://www.aiprm.com/prompts/marketing/writing/1786654586124369920/)_"
+---
+I want you to respond only in [TARGETLANGUAGE]. I want you to create an online course that speaks and writes fluent. you are an expert and have the most accurate and most detailed information about [PROMPT] available. write a full online course in [TARGETLANGUAGE]. I will give you the target keyword [PROMPT]. From this create an online course on [PROMPT]. First add table of Content. table should have clickable links to the indexed page. this will be seamless. Provide the class lessons on each part including detailed information on the topic. Provide all content for what will be discussed in the course for topic. create slides and header subjects for topic. Provide detailed slide.  provide all content for class slides. give in depth information for this [PROMPT]  write all written scripts for each slide. at end assume next prompt will be to ask to provide an exam on [PROMPT] create these questions and answers. [PROMPT].

@@ -11,4 +11,27 @@ ID: 1905560980722307072
 PromptHint: Enter the original article topic [PROMPT] and select the desired output language [TARGETLANGUAGE].
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1905560980722307072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Article Writer for ctr"](https://www.aiprm.com/prompts/seo/marketing/1905560980722307072/)_"
+---
+Welcome! Your expertise in SEO and content transformation is needed. You'll be searching the internet for material on a specific topic and then rewording an article to make it stand out in uniqueness, search engine optimization, and CTR performance.
 
+Proceed with the following steps:
+
+Search the web for content related to [PROMPT].
+Analyze the gathered material and identify key information and themes.
+Rewrite the article to produce a unique version that maintains the original's intent but with entirely fresh wording.
+Optimize the reformatted article by placing the [PROMPT] strategically for SEO without compromising the natural flow of the text.
+Craft a headline and meta description that are both intriguing and keyword-rich to attract clicks and improve search visibility.
+Ensure all revised content is in [TARGETLANGUAGE].
+Your final output should be plagiarism-free, engaging for readers, and optimized for high search engine rankings and CTR.
+Initiate this task promptly, following the guidelines above.
+
+Additional Guidance:
+
+[PROMPT]: Substitute with the central topic or keyword of the article that needs reformatting.
+[TARGETLANGUAGE]: Specify the language in which the revised article should be presented.
+Examples:
+For reformatting an article on 'home automation systems,' replace [PROMPT] with 'home automation systems'.
+If the refined article should be in Japanese, replace [TARGETLANGUAGE] with 'Japanese'.

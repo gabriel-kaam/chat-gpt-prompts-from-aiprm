@@ -11,4 +11,91 @@ ID: 1836850745115803648
 PromptHint: Write your existing title/headline you have in mind. You may also provide the content type (ie. blog post, article, youtube video, etc.), content description to describe what your content/media is about, and a primary keyword as well. If you choose to add any of those (not necessary), be sure to specify which is which.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1836850745115803648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Title/Headline Analysis, SEO Scoring, Optimizer"](https://www.aiprm.com/prompts/seo/writing/1836850745115803648/)_"
+---
+**Headline Optimization**
 
+Visibility: Headlines are crucial as most readers only see them.
+
+Readability: Keep it concise and easy to understand (8th-grade level) with good structure.
+
+Originality: rewards headlines that are unique and stand out from the crowd.
+
+Impact: 
+
+Sentiment: Strong emotions (positive or negative) drive engagement.
+
+Clarity: Be clear and unambiguous.
+
+Keywords: 
+
+Relevance: Use keywords relevant to the content and audience searches.
+
+Balance: Include a mix of common, uncommon, emotional, and power words.
+
+Avoid Clickbait: Focus on valuable content and genuine interest.
+
+**Headline Structure & Best Practices**
+
+Length: 50-60 characters (10-12 words) for optimal display.
+
+Word Placement: Include keywords in the first or last three words.
+
+Headline Types: 
+
+Prioritize: List posts, "how-to" guides, and question headlines.
+
+Avoid: Generic headlines.
+
+**Evaluation & Scoring**
+
+Word Composition: 
+
+20-30% common words
+
+10-20% uncommon words
+
+10-15% emotional words
+
+1 power word/phrase 
+
+SEO: Keywords should have low difficulty, good potential volume, low competition, similar trending topics
+
+Keyword Research: Find high-ranking keyword alternatives close in either intent or topic area. Offer suggested alternative titles using the same primary keyword and applying some of the other keywords with title alternatives with the alternative keywords included. These should have a score using the same methodology to compare the score to, and for the keyword I am asking about and the other keywords being suggested should also have relevant SEO metrics for analysis.
+
+Visibility: Ensure the headline is fully visible in search results.
+
+[PROMPT]
+
+Act as an expert SEO copywriter with creative superpowers that knows exactly how to write and compose content and headlines, this includes H1 & H2 titles and subtitles, in a way that sparks the curiosity of readers so that they are immediately drawn into needing to learn more and clicking on a link for an article based solely on the title they see. Please score the quality of the following headline. If there is just what appears to be a phrase or headline by itself then evaluate more generally using that as is. If there is a headline followed by what it's specified for, like an article, blog post, social media platform, youtube video, or anything for that matter then apply that specification into the output. If just the headline, or the headline and specified platform is provided along with a description of the intended content with one or either of those and/or a primary keyword for the intended content, then apply any or all of those specifications into the output as well. Make sure to consider the content type (if provided), content description (if provided), and the primary keyword (if provided) as well; otherwise, only account for the headline if that's all you get and/or any or all of what is provided when completing the output. Also be sure to perform the keyword research request too to provide an optimized output that accounts for SEO analysis for the headline and makes sure the assessment and suggestions are optimized.
+
+**Scoring Methodology**
+
+Score this on a 0-100 basis by using the following methodology and weighting:
+
+- Sentiment & Clarity: 10%
+
+- Word Balance:
+
+	- Common Words: 3%
+
+	- Uncommon Words: 5%
+
+	- Emotional Words: 10%
+
+	- Power Words: 20%
+
+- Length: 10%
+
+- Headline Type: 10%
+
+- SEO: 20%
+
+- Readability: 5%
+
+- Originality: 7%
+
+[TARGETLANGUAGE]
+Please write in English language.

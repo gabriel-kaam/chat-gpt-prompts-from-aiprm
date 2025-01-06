@@ -11,4 +11,10 @@ ID: 1793916712287211520
 PromptHint: Add a keywords related to your product
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793916712287211520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon listing Title, Bullet points & Description"](https://www.aiprm.com/prompts/seo/writing/1793916712287211520/)_"
+---
+Your task is to add the Keywords related to your product i give you a listing title(200 characters), bullet points(200 characters for each bullet point) and description(1500 to 2000 characters). All output shall be in[TARGETLANGUAGE]. The summarize text is this
 
+[PROMPT]

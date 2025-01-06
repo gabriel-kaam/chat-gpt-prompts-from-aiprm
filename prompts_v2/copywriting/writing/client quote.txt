@@ -11,4 +11,17 @@ ID: 1877410536733007872
 PromptHint: provide activity
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1877410536733007872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Client quote"](https://www.aiprm.com/prompts/copywriting/writing/1877410536733007872/)_"
+---
+[[PROMPT]: Create a one or two sentence client report based on [VARIABLE1], [VARIABLE2], [VARIABLE3], [VARIABLE4]]
 
+write all output in [TARGETLANGUAGE]
+
+[VARIABLE1: Activity Provided 1],
+[VARIABLE2: Activity Provided 2],
+[VARIABLE3: Activity Provided 3],
+[VARIABLE4: Activity Provided 4]
+
+Using the each [VARIABLE] write a one sentence first person account of an elderly person reacting to performing these actions

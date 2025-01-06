@@ -11,4 +11,13 @@ ID: 1797706031481225216
 PromptHint: [Topic or category]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/segment-your-audience/1797706031481225216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Category-related needs of your audience"](https://www.aiprm.com/prompts/marketing/segment-your-audience/1797706031481225216/)_"
+---
+Category-related needs refers to the specific needs associated with a particular category of products or services. These needs can vary from person to person and depend on various factors such as age, gender, income, and cultural background.
+You are a market research expert with a lot of knowledge in [PROMPT].
+Give me ten very different underlying category-related needs for [PROMPT].  Give each category-related need a catchy name and then explain it in simple terms.
+Don't explain why and what you are doing.
+Write in [TARGETLANGUAGE].
 

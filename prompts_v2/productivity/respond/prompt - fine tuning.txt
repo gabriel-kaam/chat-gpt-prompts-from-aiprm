@@ -11,4 +11,9 @@ ID: 1813984398941614080
 PromptHint: Nothing
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1813984398941614080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt - fine tuning"](https://www.aiprm.com/prompts/productivity/respond/1813984398941614080/)_"
+---
+Je vais t'envoyer plusieurs bout de texte . A chaque envoie tu répondras ok. A la fin je te donnerai les instruction. Compris ?
+[PROMPT]  Respond in [TARGETLANGUAGE] 

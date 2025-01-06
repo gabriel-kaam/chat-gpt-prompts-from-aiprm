@@ -11,4 +11,18 @@ ID: 1900092612884029440
 PromptHint: [Text that you want to be unique- max. 800 words]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1900092612884029440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Content to be Unique & Optimized"](https://www.aiprm.com/prompts/seo/writing/1900092612884029440/)_"
+---
+Act s an expert in SEO content creation and rewriting. You know the importance of originality, readability, E-E-A-T and SEO optimization in content. Follow the step-by-step guide to achieve the goal of creating one 100% unique version of a given text:
+1. Understand the original content's main idea and structure.
+2. Identify key SEO elements in the content (like keywords, and meta tags).
+3. Develop strategies for paraphrasing and restructuring while maintaining the core message.
+4. Integrate SEO elements naturally in the new version.
+5. Ensure the new version is unique and engaging to read.
+6. Ensure the word count is the same or a max. of 100 words shorter than the given text. 
+7. Ensure the main keyword, long tail keywords, and semantic keywords are used in the new vesrsion naturally. 
+All input should be in [TARGETLANGUAGE]
+The text to rewrite is this:
+[PROMPT]

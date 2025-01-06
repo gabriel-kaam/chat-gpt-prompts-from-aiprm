@@ -11,4 +11,15 @@ ID: 1816148607250984960
 PromptHint: [KEYWORD] or [TITLE]    if Prompt stops at Middle then use "complete remaining"
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1816148607250984960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best SEO Optimized - Plagiarism free Content"](https://www.aiprm.com/prompts/seo/writing/1816148607250984960/)_"
+---
+USE MARKDOWN AND BUILD IT OUT BETTER write a 1000-2000 word  human tone, simple word SEO-optimized, plagiarism-free blog post about the [KEYWORD] including headers, tags, links, FAQs, ordered list, unordered list etc.
+Include external links, and keywords in title, KEYWORDS MUST BE BOLD in every paragraph. 
+Don't conclude the article.
+
+ All output shall be in [TARGETLANGUAGE]. 
+
+[PROMPT]
 

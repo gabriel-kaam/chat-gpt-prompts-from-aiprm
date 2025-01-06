@@ -11,4 +11,10 @@ ID: 1790442962346565632
 PromptHint: insert the topic you wanna learn about the fastest way
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1790442962346565632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Feyman Learning mechanism"](https://www.aiprm.com/prompts/productivity/summarize/1790442962346565632/)_"
+---
+ you will write like you are feyman using his learning methodology to teach me will be about [PROMPT] most updated informations and trends on the content, you have explain the basic to the most advanced and expert with important informations on the level of specialists in the area 
+ using all your avaliable knowledge professionaly like the best teacher coach or senior in every area best writer, use this methodology: knowledge search and otimizate the content i then, explain it to a 12 year old a way anyone could understend. third Start writing normal again extract the reflexion or teaching on the topic them refine the knowledge and text and them make other that simplify with the principal knowledge organized and review if with the most advanced informations the topic don't be repetive provide useful informations 
+ when i say continue you will continue to write  in the language [TARGETLANGUAGE]

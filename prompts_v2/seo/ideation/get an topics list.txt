@@ -11,4 +11,10 @@ ID: 1814244383739084800
 PromptHint: [Type your main category]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1814244383739084800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get an topics list"](https://www.aiprm.com/prompts/seo/ideation/1814244383739084800/)_"
+---
+Give me 100 semantically relevant, strictly as most related as  and unique topics under the main category of [PROMPT]. You consider all topics' SEO potential and prioritize them according to holistic SEO approach.
 
+[TARGETLANGUAGE]

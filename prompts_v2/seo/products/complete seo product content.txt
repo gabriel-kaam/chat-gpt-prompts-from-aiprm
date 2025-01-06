@@ -13,4 +13,8 @@ ID: 1813873432987951104
 PromptHint: Name of the product to generate SEO content for:
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1813873432987951104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Complete SEO Product Content"](https://www.aiprm.com/prompts/seo/products/1813873432987951104/)_"
+---
+Write an SEO optimised Meta Title, Meta Description, Product Long Description, Product Short Description for a product called [PROMPT], in [TARGETLANGUAGE]

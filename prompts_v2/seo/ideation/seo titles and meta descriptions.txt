@@ -11,4 +11,12 @@ ID: 1794094468568453120
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1794094468568453120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Titles and Meta Descriptions"](https://www.aiprm.com/prompts/seo/ideation/1794094468568453120/)_"
+---
+Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a copywriter that speaks and writes fluently in [TARGETLANGUAGE] and generate at least 5 clickbait meta titles and meta descriptions for the following keyword: [PROMPT], titles must not exceed 60 characters and descriptions between 130 - 160 characters: [PROMPT] should naturally be included in the title, it is not necessary to be in the description.
 
+list titles together at the top and descriptions together at the bottom of the list of titles
+
+do not include endnotes

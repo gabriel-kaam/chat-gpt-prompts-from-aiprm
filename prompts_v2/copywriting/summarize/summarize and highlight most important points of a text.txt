@@ -11,4 +11,11 @@ ID: 1786877892169555968
 PromptHint: put the text that you want to summarize
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1786877892169555968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summarize & highlight most important points of a text"](https://www.aiprm.com/prompts/copywriting/summarize/1786877892169555968/)_"
+---
+Act as professional copywriter, write a summarize version of the following text, in the next paragraph add in form of bullet points the highlight of it most important element with a short description in few words.
+write the text in [TARGETLANGUAGE]
+The text is : [PROMPT] 
+ 

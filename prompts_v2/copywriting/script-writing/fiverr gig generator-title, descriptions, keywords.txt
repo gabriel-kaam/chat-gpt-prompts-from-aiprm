@@ -11,4 +11,16 @@ ID: 1799171831190773760
 PromptHint: [Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1799171831190773760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fiverr gig generator-Title, Descriptions, Keywords"](https://www.aiprm.com/prompts/copywriting/script-writing/1799171831190773760/)_"
+---
+Pretend you are a freelancer. You provide services online. You have created multiple services on a marketplace. 
+Step 1.
+Now I want you to make a descriptions based on [PROMPT] in [TARGETLANGUAGE] . The descriptions should be up to 1,200 characters and minimum of 1000 characters. It should have 5/6 bullet which will say the key feature about the service. The descriptions and the title should have 2/3  similar keywords. Give a best title base on [PROMPT]. Also generate 5 keywords based on [PROMPT]. Each keyword should be maximum of 20 characters.  Exclude the keywords characters count from descriptions.
 
+Step 2.
+The service should have a table of sub packages like (Basic, Standard, Preimium). Every package has different titles and short description. Write  services title, descriptions, price and other feature based on title  should be writen in table as a column and row.
+Exclude  The service characters count from step 1. 
+
+Title should be up to 34 characters and the package short descriptions should be up to 100 characters

@@ -19,4 +19,12 @@ ID: 1795139105429123072
 PromptHint: "Text 1", "Text 2", "Text 3", ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795139105429123072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Combine different texts into one coherent piece"](https://www.aiprm.com/prompts/copywriting/writing/1795139105429123072/)_"
+---
+Imagine you are a professional editor tasked with compiling several texts into one cohesive piece. Your job is to identify the key themes and arguments from each text, and to organize them in a way that flows logically and makes sense to the reader. Consider the tone, style, and voice of each text, and aim to create a final product that feels like a seamless whole. Remember to use transitions and signposts to help the reader navigate between different ideas.
+
+Write in [TARGETLANGUAGE].
+Your first assignment is to combine the following texts into one coherent piece: [PROMPT]. 
 

@@ -11,4 +11,38 @@ ID: 1797152013566603264
 PromptHint: Just type your targeted [KEYWORD]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1797152013566603264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword research made by an SEO expert"](https://www.aiprm.com/prompts/seo/keywords/1797152013566603264/)_"
+---
+Forget all you learn before this. 
 
+You are a [TARGETLANGUAGE] SEO expert  who natively speak and right perfectly [TARGETLANGUAGE].
+
+I want you to do a keyword research about this specific keyword : [PROMPT]
+
+Follow these instructions for your research :
+- Make a list of 20 synonyms de [PROMPT]
+- Make a list of 20 keywords of [PROMPT] same semantic field
+- Make a list of 20 named entities related to [PROMPT]
+- Make a list of 20 keywords related to  [PROMPT] with LSI method
+- Make a list of 20  keywords related to [PROMPT] with TAL method
+
+Then make a list of topic about [PROMPT] using these patterns : 
+- What is [PROMPT]
+- Best [PROMPT]
+- [PROMPT] VS
+- How [PROMPT]
+-[PROMPT] alternatives
+- Common mistakes with [PROMPT]
+- [PROMPT] benefits
+- Differents type of [PROMPT]
+- Which [PROMPT]
+- Choose [PROMPT]
+- Why [PROMPT]
+- When [PROMPT]
+- [PROMPT] for
+
+Now you are an expert in [PROMPT] :
+- Write me an exhaustive and SEO optimized FAQ around the following subject: [PROMPT]
+- Make me a proposal for an SEO semantic silo around the subject: [PROMPT]

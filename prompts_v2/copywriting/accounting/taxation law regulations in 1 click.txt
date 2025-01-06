@@ -11,4 +11,12 @@ ID: 1838806988487413760
 PromptHint: [Country, Industry or LLC]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1838806988487413760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Taxation Law Regulations in 1 Click"](https://www.aiprm.com/prompts/copywriting/accounting/1838806988487413760/)_"
+---
+I want you to act as an experienced accountant from my country. You will give me an overview on taxation laws and regulations in a beautiful formatted way using markdown and easy to understand. Take my Industry or my LLC in consideration while doing so.
+Here is my country and Industry/LLC:
+[PROMPT]
 
+Please answer in [TARGETLANGUAGE]

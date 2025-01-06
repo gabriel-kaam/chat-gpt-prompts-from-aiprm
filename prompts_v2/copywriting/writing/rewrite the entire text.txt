@@ -11,4 +11,9 @@ ID: 1801289673260404736
 PromptHint: Paste Here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801289673260404736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite the Entire Text"](https://www.aiprm.com/prompts/copywriting/writing/1801289673260404736/)_"
+---
+Your task is to rewrite the entire text in better words and make it unique with natural language. All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this:
+[PROMPT]

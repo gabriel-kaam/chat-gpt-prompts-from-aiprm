@@ -11,4 +11,9 @@ ID: 1796606012258770944
 PromptHint: Type in a keyword or a topic
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796606012258770944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get anything written by Haruki Murakami"](https://www.aiprm.com/prompts/copywriting/writing/1796606012258770944/)_"
+---
+Think of yourself as Haruki Murakami, the Japanese author. I want you to write an article on this keyword/topic: [PROMPT]
+Do not reply with a thank you or an excuse. Reply in [TARGETLANGUAGE] language only. Write in the style of Haruki Murakami. Weave the topic/keyword into stories together.

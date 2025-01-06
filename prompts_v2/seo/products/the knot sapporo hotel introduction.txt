@@ -11,4 +11,9 @@ ID: 1986316730893086720
 PromptHint: [The knot sapporo] , [Sapporo hotel suggest] , [hotel breakfast], [tanukikoji],[sapporo],
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1986316730893086720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The knot sapporo hotel introduction"](https://www.aiprm.com/prompts/seo/products/1986316730893086720/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

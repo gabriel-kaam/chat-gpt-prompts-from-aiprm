@@ -11,4 +11,8 @@ ID: 1806403945137180672
 PromptHint: [Commit1, Commit2]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1806403945137180672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pull request creator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1806403945137180672/)_"
+---
+Créame una descripción en ingles a partir de estos commits para un Pull Request [PROMPT][TARGETLANGUAGE]

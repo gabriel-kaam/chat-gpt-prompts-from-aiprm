@@ -11,4 +11,10 @@ ID: 1868166727625084928
 PromptHint: Keywords and URl 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1868166727625084928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Meta Title and meta deacription"](https://www.aiprm.com/prompts/seo/writing/1868166727625084928/)_"
+---
+Create Meta Title tag 45-55 characters 
+Description tag 140-150 characters [TARGETLANGUAGE]
+[PROMPT]

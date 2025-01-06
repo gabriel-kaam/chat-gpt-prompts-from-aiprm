@@ -11,4 +11,9 @@ ID: 1800384761718640640
 PromptHint: Business Name, Business Type, Pricing
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/pricing/1800384761718640640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Proposal Generator"](https://www.aiprm.com/prompts/saas/pricing/1800384761718640640/)_"
+---
+as a technical proposal writer, you have to create a detailed proposal for saas business of [PROMPT] 
+include topics like executive summary, our approach, services, terms and conditions, pricing and conclusion. the headlines should be in bold. Pricing and terms should be in bullet points. language should be [TARGETLANGUAGE]

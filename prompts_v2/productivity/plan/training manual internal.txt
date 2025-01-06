@@ -11,4 +11,12 @@ ID: 1800963845498593280
 PromptHint: [Industry Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1800963845498593280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Training Manual (Internal)"](https://www.aiprm.com/prompts/productivity/plan/1800963845498593280/)_"
+---
+[PROMPT] As an HR manager, you have been tasked with creating an internal training manual for new employees. The manual should cover all necessary information for new hires to get up to speed with the company's policies, procedures, and culture. Consider the tone of the manual, and the best way to convey the information to your audience.
 
+Write an outline for the manual, including the key topics that should be covered. What are the most important things that new employees should know, and how can you communicate them effectively? Remember to keep the manual concise, engaging, and informative.
+
+Your first task is to create an outline for the internal training manual. The target language is '[TARGETLANGUAGE]'.

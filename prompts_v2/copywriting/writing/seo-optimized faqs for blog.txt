@@ -11,4 +11,12 @@ ID: 1928080361570168832
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1928080361570168832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Seo-optimized FAQ's For Blog"](https://www.aiprm.com/prompts/copywriting/writing/1928080361570168832/)_"
+---
+Write Faqs and also use nlp in content, and also make it seo optimized. and write it in english. and make always unique faqs.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

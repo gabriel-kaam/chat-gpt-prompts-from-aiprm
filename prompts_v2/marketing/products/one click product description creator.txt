@@ -11,4 +11,8 @@ ID: 1818704723386306560
 PromptHint: [Name of Product]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1818704723386306560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "One Click Product Description Creator"](https://www.aiprm.com/prompts/marketing/products/1818704723386306560/)_"
+---
+Create, and write detailed descriptions for the product based on the product prompt given, distinguish the product based on the product given, give details of the product based on the product type, color, size, usage, and or service. Do all of this in the [TARGETLANGUAGE] from the given [PROMPT]

@@ -11,4 +11,10 @@ ID: 1797608647287889920
 PromptHint: [KEYWORD] that you want the resume description for
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797608647287889920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a complete cover letter"](https://www.aiprm.com/prompts/seo/writing/1797608647287889920/)_"
+---
+Craft a compelling cover-letter that create 4 chapters each growth, learned, experienced, and a goal of career. Your task is to create a growth environment, reason to choose major course of university subject, job description that related experienced and learned, and you can contribute to the company and aspirations(focusing on skills, not companies) with three bullet point descriptions and accomplishments, all within a maximum of 500 words or 2000 characters. All output shall be in [TARGETLANGUAGE]. The text to write the resume is this: 
 
+[PROMPT]

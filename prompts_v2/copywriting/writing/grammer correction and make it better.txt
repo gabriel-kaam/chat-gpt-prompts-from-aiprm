@@ -11,4 +11,8 @@ ID: 1834828025809358848
 PromptHint: [ Write Your Text Here ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1834828025809358848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Grammer Correction & Make It Better"](https://www.aiprm.com/prompts/copywriting/writing/1834828025809358848/)_"
+---
+Your task will be to Correct the grammatical errors and make it better. All the output will be in [TARGETLANGUAGE]. Correction of the text will be: [PROMPT]

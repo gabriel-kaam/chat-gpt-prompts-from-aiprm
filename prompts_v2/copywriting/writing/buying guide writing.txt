@@ -11,4 +11,8 @@ ID: 1786440230400946176
 PromptHint: [KEYWORD]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1786440230400946176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Buying Guide writing"](https://www.aiprm.com/prompts/copywriting/writing/1786440230400946176/)_"
+---
+Write a detailed buying guide step by step for the mentioned below keyword. Write it in [TARGETLANGUAGE]. Be informative and use various sentences. Sentence length should be short with enough transition words. Write as 3rd person. [PROMPT]

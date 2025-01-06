@@ -11,4 +11,8 @@ ID: 1823833013776277504
 PromptHint: [Keyword] here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1823833013776277504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Post With Image"](https://www.aiprm.com/prompts/productivity/plan/1823833013776277504/)_"
+---
+Help me write a blog post in [TARGETLANGUAGE] with the title [PROMPT] with convincing points in segmented writing and displayed images using markdown syntax. To display the images, use the markdown syntax with the url from unsplash (https://source.unsplash.com/960x640/?<keyword>)

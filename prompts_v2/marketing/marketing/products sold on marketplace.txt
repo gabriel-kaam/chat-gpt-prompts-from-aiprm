@@ -11,4 +11,11 @@ ID: 1844809171213090816
 PromptHint: [marketplace]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1844809171213090816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Products Sold on Marketplace"](https://www.aiprm.com/prompts/marketing/marketing/1844809171213090816/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quero que você me apresente o peso da embalagem do produto 
+O produto será indicado pelo seu nome ou marca
+[PROMPT]

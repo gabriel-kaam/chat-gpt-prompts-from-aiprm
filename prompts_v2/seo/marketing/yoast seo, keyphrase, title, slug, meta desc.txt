@@ -11,4 +11,16 @@ ID: 1793193676969869312
 PromptHint: [Add Your Blog Topic or Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1793193676969869312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YOAST SEO, keyphrase, title, slug, meta desc"](https://www.aiprm.com/prompts/seo/marketing/1793193676969869312/)_"
+---
+All output in [TARGETLANGUAGE].
+I want you to write the 
+1) Focus KeyPhrase: SEO Friendly Focus KeyPhrase Within 6 Words. 
+2) SEO Title: SEO Friendly SEO Title Within 60 Characters With Add Above Focus KeyPhrase at the start.
+3) Slug: SEO Friendly Slug within 15 characters including Focus KeyPhrase.
+4) Meta Description: SEO Friendly meta description within 155 characters including Above Focus Keyphrase.
+for my blog topic title of : 
 
+[PROMPT]

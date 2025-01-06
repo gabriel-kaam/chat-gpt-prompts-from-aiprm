@@ -11,4 +11,12 @@ ID: 1872142542011682816
 PromptHint: Type Your Topic or Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1872142542011682816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Topic Cluster"](https://www.aiprm.com/prompts/seo/marketing/1872142542011682816/)_"
+---
+Create Content Topic Cluster by adding [Content Topic] or [Keyword]
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

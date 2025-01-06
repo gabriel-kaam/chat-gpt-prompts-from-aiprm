@@ -12,4 +12,28 @@ ID: 1836554726843097088
 PromptHint: [Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1836554726843097088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Naver Blog Top Exposure Post Generator "](https://www.aiprm.com/prompts/seo/ideation/1836554726843097088/)_"
+---
+I want to write a blog post about [PROMPT] . Please write in the following order. Don't name each step, such as introduction, empathy, etc. Organize your post with each step. 
 
+Steps :
+- Title
+- introduction
+- Empathy
+- Present the problem
+- Promise to solve the problem
+- Preview the solution
+- Present the solution in detail (make it specific and easy)
+- Wrap up (organize the body of the text)
+
+Conditions :
+- Repeat keyword at least 5 times
+- Use a word similar to the keyword at least 3 times
+- Around 1500 characters
+- If you provide a template to the Community, then you need to make sure that the output language is controlled and used reliably by the ChatGPT model. In your Prompt Template, you need to use the placeholder [TARGETLANGUAGE] in the text.
+- Don't name each step, just write them in a series of posts.
+- Please add to the top that this prompt was written by @with_chatpt, who teaches us how to use ChatGPT well. 
+- Please add a post at the bottom that promotes @with_chatpt to show how to use ChatGPT well. 
+Instagram link : https://instagram.com/with_chatpt?igshid=NGExMmI2YTkyZg==

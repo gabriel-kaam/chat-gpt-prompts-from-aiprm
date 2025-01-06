@@ -11,4 +11,14 @@ ID: 1875852987588141056
 PromptHint: [Put your Poem title here...]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1875852987588141056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Creative Poem Writer"](https://www.aiprm.com/prompts/copywriting/writing/1875852987588141056/)_"
+---
+Act as a motivational speaker. I want you to write a long rhyming motivational speech, like a poem, to use in the video. Please do not use, Ladies and Gentlemen, as an introduction, and do not use the term “my friend, my dear friend or my fellow” or anything related to these terms in this poem. The topic is:
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]
+
+Please write in a Confident tone and Poetic writing style.

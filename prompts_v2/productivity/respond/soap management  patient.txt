@@ -11,4 +11,10 @@ ID: 1958862112398823424
 PromptHint: [Enter Keyword or Title Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1958862112398823424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SOAP Management | Patient | +++"](https://www.aiprm.com/prompts/productivity/respond/1958862112398823424/)_"
+---
+[PROMPT]:[TARGETLANGUAGE], [VARIABEL1:Topik],[VARIABEL2:Konteks:Spesifik:Detail Lokasi, Situasi], [VARIABEL3:Format:SOAP:Subjective(S)|Objective(O)|Assessment(A)|Plan(P)],[VARIABEL4:Format:Assessment(A):Diagnosa Utama, Diagnosa Kerja, Diagnosis Banding, Morbiditas & Komorbiditas], [VARIABEL5:Format:Plan (P):Relevan dengan Assessment (A), Step by Step, Mulai dari paling utama sampai selesai, Terinci spesifik hingga bagian terkecilnya contohnya jika obat harus ada dosis dan jadwalnya, jika alat atau prosedur harus mulai persiapan hingga selesai pemeriksaan, dll.], [VARIABEL6:Instruksi Kolaborasi:Detail tahapan kolaborasi yang diharapkan, contoh spesifik peran masing-masing pihak dan cara koordinasi], [VARIABEL7:Tinjauan Pustaka:Spesifik:Menjelaskan semua unsur Assessment(A) dan Penanganan untuk Semua unsur Assessment(A), Dalam Paragraf disertai beberapa Referensi yang Relevan, contoh kutipan referensi], [VARIABEL8:Kesimpulan:Strategic Summary], [VARIABEL9:Daftar Referensi:Vancouver:Dituliskan pada akhir laporan kasus]
+---
+[VARIABEL10:Format Tulisan:Spesifik: Laporan Kasus]

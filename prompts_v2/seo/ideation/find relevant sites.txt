@@ -11,4 +11,8 @@ ID: 1783139474793033728
 PromptHint: [KEYWORD]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1783139474793033728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Find Relevant Sites"](https://www.aiprm.com/prompts/seo/ideation/1783139474793033728/)_"
+---
+Give me a list of websites which are relevant to [PROMPT] 

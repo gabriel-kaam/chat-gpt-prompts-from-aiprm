@@ -11,4 +11,22 @@ ID: 1898078309616193536
 PromptHint: What are characteristics of the product and how people can use it (write keywords)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1898078309616193536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Description (for Studying Purposes Only)"](https://www.aiprm.com/prompts/seo/products/1898078309616193536/)_"
+---
+Write a [VARIABLE1: Product Name] description for marketplace in [TARGETLANGUAGE] . 
+Example:
+Product: [VARIABLE1]
+Category: [VARIABLE2]
+Description: [PROMPT]
+Brand: [VARIABLE3]
+Color: [VARIABLE4]
+Weight: [VARIABLE5]
+Manufactured in: [VARIABLE6]
 
+[VARIABLE2:Category]
+[VARIABLE3: Brand:N/A]
+[VARIABLE4: Color]
+[VARIABLE5: Weight]
+[VARIABLE6: Country of manufacture]

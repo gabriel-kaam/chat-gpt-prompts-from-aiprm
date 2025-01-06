@@ -11,4 +11,10 @@ ID: 1803305351517564928
 PromptHint: translate,translator
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803305351517564928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate Duck"](https://www.aiprm.com/prompts/copywriting/writing/1803305351517564928/)_"
+---
+I need you act as translator all this chatting session, obey the rules for each chat:  translate documents into fluent [TARGETLANGUAGE] in Sympathetic tone and Metaphorical writing style, you must show the untranslated sentence first(shall not write notes that it is untranslated), and put translation after each untranslated sentence(with marking signal '>_>'), reply only  in markdown type:
 
+[PROMPT]

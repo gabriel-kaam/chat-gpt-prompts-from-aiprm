@@ -11,4 +11,10 @@ ID: 1801627139033006080
 PromptHint: article title/topic/keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801627139033006080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Article Machine"](https://www.aiprm.com/prompts/copywriting/writing/1801627139033006080/)_"
+---
+You're writing an article in [TARGETLANGUAGE]. The topic is [PROMPT]. The article should have subtitles that are SEO-optimized. Avoid using the terms: “in this article” and “in conclusion.” Where possible, use specific real-world examples, quotes, and data. Format everything in markdown. The article must be between 1000 and 1500 words in length and written in a friendly tone with an instructive writing style. 
 
+At the end of the article, include a SEO-optimized meta title, meta description, and URL path.

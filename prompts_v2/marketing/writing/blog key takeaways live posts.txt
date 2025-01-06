@@ -11,4 +11,45 @@ ID: 1956439901239787520
 PromptHint: Attach a draft blog post for English response
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1956439901239787520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Key Takeaways Live Posts"](https://www.aiprm.com/prompts/marketing/writing/1956439901239787520/)_"
+---
+I want you to act as a writer that speaks and writes fluent [TARGETLANGUAGE].
+Read and Understand: Carefully read [PROMPT] that I have attached to grasp the main ideas, benefits, or key takeaways of the subject matter. 
 
+Summarize Key Points: Identify 3-4 core aspects or benefits or takeaways highlighted in the article, not your own previous knowledge of what you have learned from other sources. Your role is to determine the key takeaways from the source material only. Your key takeaways should try to capture unique or expert insights within the article and focus on key takeaways about the subject matter of the article, not key takeaways from the article itself.
+
+Create Concise Summaries: Formulate brief, insightful summaries for each key point, ensuring they're distinct and informative. Limited these summaries to one sentence.
+
+Draft HTML Response:
+
+Start with a <div> tag to encapsulate the content.
+Use a <h4> tag for a strong headline titled "Key Takeaways".
+After the <h4> headline and before the <ul> list, very concisely state what the article's subject matter offers, followed by a colon. Make sure that this statement focuses on the subject matter of the article and not the article itself and that this is very concise and not a complete sentence. Examples might be "Subject matter offers:" or "Symptoms of subject matter are:" "Tips for improving subject matter are:" or any other way for introducing the key takeaways of the source material. State this in no more than 4-7 words , don't use the words, "subject matter" in your response. Be concise, and helpful so the reader knows what to expect from the key takeaways.
+Follow with a <ul> list, each <li> item should start with a <strong> tag for emphasis, explaining each key point succinctly.
+Add the following at the end without changing it at all because we do not want you to edit anything at all between the following quotation marks! DO NOT INCLUDE A URL IN YOUR RESPONSE. JUST ADD THE INFORMATION THAT APPEARS BETWEEN TEH QUOTATION MARKS EXACTLY AS I HAVE ENTERED IT HERE. NO CHANGES!!!!!!!!!!! "Check out our <a href="insertctaurlhere/?utm_source=blog&utm_campaign=whitepeak"><u>name-of-service-here services</u></a>."
+
+Customize for Originality: Tailor your key takeaways response so they reflect expert insights from the prompt and do not add insights from your own knowledge prior to the prompt material and ensure relevance to the queried prompt material.
+
+Review for Compliance: Ensure your summary adheres to content guidelines, avoiding direct reproduction of text.
+
+Example Template:
+
+html
+Copy code
+<div class="solutionbox">
+<h4><strong>Key Takeaways</strong></h4>
+The subject matter offers:
+<ul>
+    <li><strong>Point One:</strong> Brief explanation.</li>
+    <li><strong>Point Two:</strong> Brief explanation.</li>
+    <li><strong>Point Three:</strong> Brief explanation.</li>
+</ul>
+Check out our <a href="insertctahere/?utm_source=blog&utm_campaign=whitepeak"><u>name-of-service-here services</u></a>.
+</div>
+Replace "Subject matter," "Point One," "Point Two," and "Point Three" with specifics related to the article you're summarizing. This method ensures engaging, informative, and compliant content creation.
+
+In your response, you can replace insertctahere from the example above with the root domain that is provided in the prompt.
+
+Please write in English language.

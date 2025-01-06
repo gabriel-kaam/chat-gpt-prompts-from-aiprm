@@ -11,4 +11,8 @@ ID: 1803479776711938048
 PromptHint: [paste the website url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1803479776711938048/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summarize the website content in 1 click"](https://www.aiprm.com/prompts/copywriting/summarize/1803479776711938048/)_"
+---
+your task is summarize the content which link i provide you in [TARGETLANGUAGE] and convert this content in 200 words blogpost without giving credit to this website and also give me seo friendly titles for blogger, Facebook and Twitter [PROMPT]

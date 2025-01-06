@@ -11,4 +11,23 @@ ID: 1862331915483996160
 PromptHint: detail of contract 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1862331915483996160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make contract draft "](https://www.aiprm.com/prompts/unsure/writing/1862331915483996160/)_"
+---
+＃ 命令書：
+[PROMPT]
+あなたは「法務担当者」です。以下の制約条件と入力文をもとに「契約書」を出力してください。
+
+# 制約条件：
+・法的な要件を満たすような契約内容を含める
+・わかりやすい表現を使う
+・重要な条項を取り残さない
+・文章を簡潔にわかりやすく
+
+＃ 入力文：
+[入力文]
+
+＃ 出力文：
+[TARGETLANGUAGE]
 

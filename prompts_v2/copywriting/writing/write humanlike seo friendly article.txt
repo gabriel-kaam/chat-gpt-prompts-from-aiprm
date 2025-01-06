@@ -11,4 +11,12 @@ ID: 1875597154270707712
 PromptHint: Keyword Here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1875597154270707712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write humanlike SEO friendly article."](https://www.aiprm.com/prompts/copywriting/writing/1875597154270707712/)_"
+---
+Write a detailed human like article in 1000 words on the given keyword below. Make sure the article is SEO friendly, and insert the keyword in the article properly, but make sure it doesn't mess with the sentence.  Use proper headlines, and generate a SEO friendly article Title as well. Also write 8 FAQs.
 
+All output shall be in [TARGETLANGUAGE]. The keyword given is this:
+
+[PROMPT]

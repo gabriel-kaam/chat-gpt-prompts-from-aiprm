@@ -11,4 +11,8 @@ ID: 1782920276481413120
 PromptHint: bio influencer
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/1782920276481413120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Influencer Outreach"](https://www.aiprm.com/prompts/copywriting/outreach/1782920276481413120/)_"
+---
+Write a cold DM to an influencer asking to collaborate with them based on this bio [PROMPT] in [TARGETLANGUAGE].

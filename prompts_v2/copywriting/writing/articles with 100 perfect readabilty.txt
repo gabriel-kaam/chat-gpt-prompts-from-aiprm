@@ -12,4 +12,10 @@ ID: 1826833648037654528
 PromptHint: [text that you want a meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1826833648037654528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Articles with 100% Perfect Readabilty"](https://www.aiprm.com/prompts/copywriting/writing/1826833648037654528/)_"
+---
+Your task is to generate articles I give you in  words. All output shall be in [TARGETLANGUAGE]. The text to articles is this:
 
+[PROMPT]

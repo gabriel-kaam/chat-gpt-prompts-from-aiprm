@@ -11,4 +11,27 @@ ID: 1794808820095258624
 PromptHint: [subject: "My Primary Subject" - include: "any extra info to include" - CTA: "Visit My Website"]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1794808820095258624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create A Killer Twitter Thread - V2"](https://www.aiprm.com/prompts/marketing/social-media/1794808820095258624/)_"
+---
+Follow these instructions:
 
+- Your task is to create a twitter thread. All output should be in the [TARGETLANGUAGE].
+- Each tweet should have a maximum of 280 characters. Do not go over this limit.
+- Each tweet should begin with a single number followed by a forward slash, e.g 1/, that represents its position within the thread. Do not start any tweet with multiple single numbers such as 2/ 1/ or 3/ 2/. This is prohibited, do not do it.
+- Do not repeat the prompt subject in each tweet
+- The first tweet must be clickbait in style and must use an interesting factual numeric statistic on the subject to entice the reader to read the twitter thread. Use a suitable emoji in the first tweet.
+- Use emoji's in the other tweets where acceptable.
+- Include at least one trending hashtag related to the tweet in each tweet.  
+- The 'subject' is the primary subject that must be used in the first tweet,
+- 'include' is any extra information that must be used, but do not include in the first or last tweet.
+- 'CTA' must only be used in the last tweet. 
+- Do not use #CTA as a hashtag.
+- The twitter thread shall be between 5 - 7 tweets in length
+- No tweet shall repeat information from a previous tweet.
+- Avoid generalised and vague tweets, give specific information related to the subject.
+
+Use the following information with the rules above:
+
+[PROMPT]

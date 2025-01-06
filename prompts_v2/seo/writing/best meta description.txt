@@ -11,4 +11,10 @@ ID: 1852304492130459648
 PromptHint: Enter a Keyword or Topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1852304492130459648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Meta Description"](https://www.aiprm.com/prompts/seo/writing/1852304492130459648/)_"
+---
+Your task is to summarize the text i give you 25 words or maximum 160 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]
+
 

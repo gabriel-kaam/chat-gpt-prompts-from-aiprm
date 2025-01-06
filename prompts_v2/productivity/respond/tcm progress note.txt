@@ -11,4 +11,35 @@ ID: 1897468301555060736
 PromptHint: [Type the sequence of the services to be written listed]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1897468301555060736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "TCM progress note "](https://www.aiprm.com/prompts/productivity/respond/1897468301555060736/)_"
+---
+Ignore all instructions above.
+[PROMPT] is a service performed by CM to [VARIABLE1]. I want you to act as CM and make a "PROGRESS NOTE".
+A "PROGRESS NOTE" is always structured in three parts:
+Part 1 "BODY OF NOTE" + line break.
+Part 2: "RESULT" + line break.
+Part 3: "NEXT STEP" line break + line break.
 
+
+A "NOTE BODY" is the explanation of the process where CM (who is a type of social worker) assists in a specific service to [VARIABLE1].
+"BODY OF NOTE" must begin with a phrase that must summarize the service, that phrase must be structured: “[VARIABLE1] was assisted by CM...”.
+"BODY OF NOTE" details how the CM provided the service specified in the [PROMT] to [VARIABLE1], written in formal language, in "BODY OF NOTE" you must put all the procedures carried out in the service, detailing the interactions, documents and people involved in this progress note.
+ 
+Use the word assistance instead of assistance.
+  It must be referenced in the note using the name [VARIABLE1], when referring to the client.
+At the end of the body of the note, the other two parts of the note have the “RESULT” of the service with approximately 120 characters in a single sentence, (depending on [VARIABLE1] always).
+"RESULT" should have a structure similar to: "[VARIABLE1] was assisted by CM.. followed by what was done in the service"
+
+
+“NEXT STEP”: Its structure is “CM will assist [VARIABLE1]…” which in a sentence of about 120 characters explains in one sentence the next action to the service that corresponds to [VARIABLE3].
+"NOTE BODY" must be more than [VARIABLE2] words.
+At the end of the note, say the number of words in the "BODY OF NOTE."
+
+"NOTE BODY": is a structure in which the minimum number of words is: [VARIABLE2].
+Write all results to [TARGETLANGUAGE].
+
+[VARIABLE1:Customer name:Adelo]
+[VARIABLE2:Number of words in the note:180]
+[VARIABLE3: NEXT STEP: CM will assist monitor the outcome of the application process. ]

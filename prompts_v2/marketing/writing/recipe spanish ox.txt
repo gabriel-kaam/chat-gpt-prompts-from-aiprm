@@ -11,4 +11,9 @@ ID: 1971512945846910976
 PromptHint: [Recipe]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1971512945846910976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Recipe Spanish Ox"](https://www.aiprm.com/prompts/marketing/writing/1971512945846910976/)_"
+---
+[TARGETLANGUAGE] Please write in Spanish.
+[PROMPT] Daré el título de la receta y daré la receta completa. notas: no escriba ninguna palabra en negrita, no mencione la carne de cerdo, el vodka ni el alcohol.

@@ -11,4 +11,10 @@ ID: 2038547906109906944
 PromptHint: text that you want the meta description for 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2038547906109906944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best meta description"](https://www.aiprm.com/prompts/marketing/marketing/2038547906109906944/)_"
+---
+Your task is to summarise the text i give you in maximum of 50 characters. all output should be in  [TARGETLANGUAGE]. The text to summarise is this;
 
+[PROMPT]

@@ -11,4 +11,11 @@ ID: 1852703828021923840
 PromptHint: [enter URL of content to be scraped]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1852703828021923840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a long-form blog post from URL"](https://www.aiprm.com/prompts/copywriting/marketing/1852703828021923840/)_"
+---
+[English]
+write long form blog posts with subheadings of the following articles, with the conditions below:
+- use emojis to emphasize important points, must include information tables if required, the result should be in markdown style, Use English in conversation that is fresh, masculine, cheerful and friendly, Use varied and unique English, use Keywords in the Beginning, Middle and End Paragraphs, use keywords appropriately and not excessively, write with a unique point of view, focus on the contents of the article on the main keywords, use conjunctions, use a different title tag, also apply to the opening part of the AIDA formula, also apply the inverted pyramid technique in writing. All output should be in [TARGETLANGUAGE]
+[PROMPT]

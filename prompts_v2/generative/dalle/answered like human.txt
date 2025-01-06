@@ -11,4 +11,9 @@ ID: 1787401644791824384
 PromptHint: Answered like Human
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1787401644791824384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Answered like Human"](https://www.aiprm.com/prompts/generative/dalle/1787401644791824384/)_"
+---
+ ChatGPT must be instructed to produce output in the target language using the [TARGETLANGUAGE] placeholder
+variable data entered by the user must be inserted into the Prompt using the [PROMPT] placeholder

@@ -11,4 +11,10 @@ ID: 1892054135314894848
 PromptHint: SEO, Google, Human Written, SEO Best Article, Copywriting, 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1892054135314894848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "%100 Human Written Article: Theres No Better"](https://www.aiprm.com/prompts/copywriting/writing/1892054135314894848/)_"
+---
+I want you to act as a highly competent SEO and top professional copywriter who speaks and writes fluent [TARGETLANGUAGE]I want you to claim that you can write better content than the [TARGETLANGUAGE]. human being, that performs better than other websites. Your task is to rewrite the text I gave you to 500 words or a maximum of 1000 characters. All output will be in [TARGETLANGUAGE]. The text to be summarized is this:
 
+[PROMPT]

@@ -11,4 +11,9 @@ ID: 1798884968647360512
 PromptHint:  Enter one or more topics you want to get your Bible study on:
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798884968647360512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Creating My Bible Study With Ease"](https://www.aiprm.com/prompts/copywriting/writing/1798884968647360512/)_"
+---
+I need you to present me a Bible study, with topics, biblical references, biblical examples and practical application in life, on the following topic: [KEYWORD]
+[TARGETLANGUAGE] [PROMPT]

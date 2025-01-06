@@ -11,4 +11,602 @@ ID: 1843613894745776128
 PromptHint: SDXL, Stablediffusion, Stable Diffusion, Midjourney, Dall-E, Dall-E 2, Firefly, Leonardo, AI, Image, Generator, Promt, Promter, Promting
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1843613894745776128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SDXL promt generator"](https://www.aiprm.com/prompts/copywriting/writing/1843613894745776128/)_"
+---
+[PROMPT]
+Stable Diffusion Promter
 
+
+Developing a process to build good prompts is the first step every Stable Diffusion user tackles. This article summarizes the process and techniques developed through experimentations and other users’ inputs. The goal is to write down all I know about prompts, so you can know them all in one place.
+
+1. How to come up with good prompts for Stable Diffusion
+
+Anatomy of a good prompt
+There are proven techniques to generate high quality, specific images. Your prompt should cover most if not all of these areas
+
+Subject (required)
+Medium
+Style
+Artist
+Website
+Resolution
+Additional details
+Color
+First you will need a description of the subject with as much detail as possible. E.g.
+
+Subject
+
+A young woman with light blue dress sitting next to a wooden window reading a book.
+
+
+We got the following image, which matches the prompt pretty well.
+
+
+We can be more specific. Let’s add a medium. Some examples are: digital painting, photograph, oil painting. Let’s use
+
+Medium
+
+Digital painting
+
+
+The new prompt is
+
+Digital painting of a young woman with light blue dress sitting next to a wooden window reading a book
+
+
+The resulting image is
+
+
+You can see the image changes from a photograph to a digital art.
+
+You get the idea. Let’s add the rest of them
+
+Artist
+
+by Stanley Artgerm Lau
+
+
+Website
+
+artstation
+
+
+Resolution
+
+8k
+
+
+Additional details
+
+extremely detailed, ornate, cinematic lighting
+
+
+color
+
+vivid
+
+
+Putting them all together, the prompt is
+
+Digital painting of a young woman with light blue dress sitting next to a wooden window reading a book, by Stanley Artgerm Lau, artstation, 8k, extremely detailed, ornate, cinematic lighting, vivid.
+
+
+which generates this image:
+
+
+By adding keywords to the prompt, we can engineer the image to get the style we want.
+
+Tips for good prompts
+Be detailed and specific when describing the subject.
+Use multiple brackets () to increase its strength and [] to reduce.
+Use an appropriate medium type consistent with the artist. E.g. photograph should not be used with van Gogh.
+Artist name is a very strong style modifier. Use wisely.
+Experiment with blending styles.
+Head to the prompt section to study the high-quality prompts. If you like a particular image, use the prompt as a starting point.
+Some good keywords for you
+Below are some of my favorite keywords and their effects. (Used with Stable Diffusion v1.4 and v1.5)
+
+Enjoy!
+
+Medium
+Medium defines a category of the artwork.
+
+keyword	Note
+Portrait	Focuses image on the face / headshot.
+Digital painting	Digital art style
+Concept art	Illustration style, 2D
+Ultra realistic illustration	drawing that are very realistic. Good to use with people
+Underwater portrait	Use with people. Underwater. Hair floating
+Underwater steampunk	underwater with wash color
+Style
+These keywords further refine the art style.
+
+keyword	Note
+hyperrealistic	Increases details and resolution
+pop-art	Pop-art style
+Modernist	vibrant color, high contrast
+art nouveau	Add ornaments and details, building style
+Artist
+Mentioning the artist in the prompt is a strong effect. Study their work and choose wisely.
+
+keyword	Note
+John Collier	19th century portrait painter. Add elegancy
+Stanley Artgerm Lau	Strong realistic modern drawing.
+Frida Kahlo	Quite strong effect following Kahlo’s portrait style. Sometimes result in picture frame
+John Singer Sargent	Good to use with woman portrait, generate 19th delicate clothings, some impressionism
+Alphonse Mucha	2D portrait painting in style of Alphonse Mucha
+Website
+Mentioning an art or photo site is a strong effect, probably because each site has its niche genre.
+
+keyword	Note
+pixiv	Japanese anime style
+pixabay	Commercial stock photo style
+artstation	Modern illustration, fantasy
+Resolution
+keyword	Note
+unreal engine	Very realistic and detailed 3D
+sharp focus	Increase resolution
+8k	Increase resolution, though can lead to it looking more fake. Makes the image more camera like and realistic
+vray	3D rendering best for objects, landscape and building.
+Additional details
+Add specific details to your image.
+
+keyword	Note
+dramatic	Increases the emotional expressivity of the face. Overall substantial increase in photo potential / variability. +1 for variability, important for getting the max hit.
+silk	Add silk to clothing
+expansive	More open background, smaller subject
+low angle shot	shot from low angle **
+god rays	sunlight breaking through the cloud
+psychedelic	vivid color with distortion
+Color
+Add additional color scheme to the image.
+
+keyword	Note
+iridescent gold	Shinny gold
+silver	Silver color
+vintage	vintage effect
+Summary
+We have gone through the basic structure of a good prompt. This should be used as a guide rather than rules. The Stable Diffusion model is very flexible. Let it surprise you with some creative combination of keywords!
+
+2. Anatomy of a good prompt
+A good prompt needs to be detailed and specific. A good process is to look through a list of keyword categories and decide whether you want to use any of them.
+
+The keyword categories are
+
+Subject
+Medium
+Style
+Artist
+Website
+Resolution
+Additional details
+Color
+Lighting
+
+You don’t have to include keywords from all categories. Treat them as a checklist to remind you what could be used.
+
+Let’s review each category and generate some images by adding keywords from each. I will use the v1.5 base model. To see the effect of the prompt alone, I won’t be using negative prompts for now. Don’t worry, we will study negative prompts in the later part of this article. All images are generated with 30 steps of DPM++ 2M Karas sampler and an image size 512×704.
+
+Subject
+The subject is what you want to see in the image. A common mistake is not writing enough about the subjects.
+
+Let’s say we want to generate a sorceress casting magic. A newbie may just write
+
+A sorceress
+
+
+That leaves too much room for imagination. How do you want the sorceress to look? Any words describing her that would narrow down her image? What does she wear? What kind of magic is she casting? Is she standing, running, or floating in the air? What’s the background scene?
+
+Stable Diffusion cannot read our minds. We have to say exactly what we want.
+
+A common trick for human subjects is to use celebrity names. They have a strong effect and are an excellent way to control the subject’s appearance. However, be aware that these names may change not only the face but also the pose and something else. I will defer this topic to a later part of this article.
+
+As a demo, let’s cast the sorceress to look like Emma Watson, the most used keyword in Stable Diffusion. Let’s say she is powerful and mysterious and uses lightning magic. We want her outfit to be very detailed so she would look interesting.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing
+
+
+
+
+
+We get Emma Watson 11 out of 10 times. Her name is such a strong effect on the model. I think she’s popular among Stable Diffusion users because she looks decent, young, and consistent across a wide range of scenes. Trust me, we cannot say the same for all actresses, especially the ones who have been active in the 90s or earlier…
+
+Medium
+Medium is the material used to make artwork. Some examples are illustration, oil painting, 3D rendering, and photography. Medium has a strong effect because one keyword alone can dramatically change the style.
+
+Let’s add the keyword digital painting.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting
+
+
+
+
+
+We see what we expected! The images changed from photographs to digital paintings. So far so good. I think we can stop here. Just kidding.
+
+Style
+The style refers to the artistic style of the image. Examples include impressionist, surrealist, pop art, etc.
+
+Let’s add hyperrealistic, fantasy, surrealist, full body to the prompt.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body
+
+
+
+
+
+Mmm… not sure if they have added much. Perhaps these keywords were already implied by the previous ones. But I guess it doesn’t hurt to keep it.
+
+Artist
+Artist names are strong modifiers. They allow you to dial in the exact style using a particular artist as a reference. It is also common to use multiple artist names to blend their styles. Now let’s add Stanley Artgerm Lau, a superhero comic artist, and Alphonse Mucha, a portrait painter in the 19th century.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha
+
+
+
+
+
+We can see the styles of both artists blending in and taking effect nicely.
+
+Website
+Niche graphic websites such as Artstation and Deviant Art aggregate many images of distinct genres. Using them in a prompt is a sure way to steer the image toward these styles.
+
+Let’s add artstation to the prompt.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation
+
+
+
+
+
+It’s not a huge change but the images do look like what you would find on Artstation.
+
+Resolution
+Resolution represents how sharp and detailed the image is. Let’s add keywords highly detailed and sharp focus.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus
+
+
+
+
+
+Well, not a huge effect perhaps because the previous images are already pretty sharp and detailed. But it doesn’t hurt to add.
+
+Additional details
+Additional details are sweeteners added to modify an image. We will add sci-fi, stunningly beautiful and dystopian to add some vibe to the image.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian
+
+
+
+
+
+Color
+You can control the overall color of the image by adding color keywords. The colors you specified may appear as a tone or in objects.
+
+Let’s add some golden color to the image with the keyword iridescent gold.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold
+
+
+
+
+
+The gold comes out great!
+
+Lighting
+Any photographer would tell you lighting is a key factor in creating successful images. Lighting keywords can have a huge effect on how the image looks. Let’s add cinematic lighting and dark to the prompt.
+
+Emma Watson as a powerful mysterious sorceress, casting lightning magic, detailed clothing, digital painting, hyperrealistic, fantasy, Surrealist, full body, by Stanley Artgerm Lau and Alphonse Mucha, artstation, highly detailed, sharp focus, sci-fi, stunningly beautiful, dystopian, iridescent gold, cinematic lighting, dark
+
+
+
+
+
+This complete our example prompt.
+
+Remarks
+As you may have notice, the images are already pretty good with a few keywords added to the subject. When it comes to building a prompt for Stable Diffusion, often you don’t need to have many keywords to get good images.
+
+Negative prompt
+Using negative prompts is another great way to steer the image, but instead of putting in what you want, you put in what you don’t want. They don’t need to be objects. They can also be styles and unwanted attributes. (e.g. ugly, deformed)
+
+Using negative prompts is a must for v2 models. Without it, the images would look far inferior to v1’s. They are optional for v1 models, but I routinely use them because they either help or don’t hurt.
+
+I will use a universal negative prompt. You can read more about it if you want to understand how it works.
+
+ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, bad art, beginner, amateur, distorted face, blurry, draft, grainy
+
+
+
+
+
+With universal negative prompt.
+The negative prompt helped the images to pop out more, making them less flat.
+
+Process of building a good prompt
+Iterative prompt building
+You should approach prompt building as an iterative process. As you see from the previous section, the images could be pretty good with just a few keywords added to the subject.
+
+I always start with a simple prompt with subject, medium, and style only. Generate at least 4 images at a time to see what you get. Most prompts do not work 100% of the time. You want to get some idea of what they can do statistically.
+
+Add at most two keywords at a time. Likewise, generate at least 4 images to assess its effect.
+
+Using negative prompt
+You can use an universal negative prompt if you are starting out.
+
+Adding keywords to the negative prompt can be part of the iterative process. The keywords can be objects or body parts you want to avoid (Since v1 models are not very good at rendering hands, it’s not a bad idea to use “hand” in the negative prompt to hide them.)
+
+Prompting techniques
+You can modify a keyword’s importance by switching to a different one at a certain sampling step.
+
+The following syntaxes apply to AUTOMATIC1111 GUI. You can run this GUI with one-click using the Colab notebook in the Quick Start Guide. You can also install it on Windows and Mac.
+
+Keyword weight
+(This syntax applies to AUTOMATIC1111 GUI.)
+
+You can adjust the weight of a keyword by the syntax (keyword: factor). factor is a value such that less than 1 means less important and larger than 1 means more important.
+
+For example, we can adjust the weight of the keyword dog in the following prompt
+
+dog, autumn in paris, ornate, beautiful, atmosphere, vibe, mist, smoke, fire, chimney, rain, wet, pristine, puddles, melting, dripping, snow, creek, lush, ice, bridge, forest, roses, flowers, by stanley artgerm lau, greg rutkowski, thomas kindkade, alphonse mucha, loish, norman rockwell.
+
+
+(dog: 0.5)
+dog
+(dog: 1.5)
+Increasing the weight of dog tends to generate more dogs. Decreasing it tends to generate fewer. It is not always true for every single image. But it is true in a statistical sense.
+
+This technique can be applied to subject keywords and all categories, such as style and lighting.
+
+() and [] syntax
+(This syntax applies to AUTOMATIC1111 GUI.)
+
+An equivalent way to adjust keyword strength is to use () and []. (keyword) increases the strength of the keyword by a factor of 1.1 and is the same as (keyword:1.1). [keyword] decrease the strength by a factor of 0.9 and is the same as (keyword:0.9).
+
+You can use multiple of them, just like in Algebra… The effect is multiplicative.
+
+(keyword): 1.1
+((keyword)): 1.21
+(((keyword))): 1.33
+
+
+Similarly, the effects of using multiple [] are
+
+[keyword]: 0.9
+[[keyword]]: 0.81
+[[[keyword]]]: 0.73
+
+
+Keyword blending
+(This syntax applies to AUTOMATIC1111 GUI.)
+
+You can mix two keywords. The proper term is prompt scheduling. The syntax is
+
+[keyword1 : keyword2: factor]
+
+
+factor controls at which step keyword1 is switched to keyword2. It is a number between 0 and 1.
+
+For example, if I use the prompt
+
+Oil painting portrait of [Joe Biden: Donald Trump: 0.5]
+
+
+for 30 sampling steps.
+
+That means the prompt in steps 1 to 15 is
+
+Oil painting portrait of Joe Biden
+
+
+And the prompt in steps 16 to 30 becomes
+
+Oil painting portrait of Donald Trump
+
+
+The factor determines when the keyword is changed. it is after 30 steps x 0.5 = 15 steps.
+
+The effect of changing the factor is blending the two presidents to different degrees.
+
+
+You may have noticed Trump is in a white suit which is more of a Joe outfit. This is a perfect example of a very important rule for keyword blending: The first keyword dictates the global composition. The early diffusion steps set the overall composition. The later steps refine details.
+
+Quiz: What would you get if you swapped Donald Trump and Joe Biden?
+
+Blending faces
+A common use case is to create a new face with a particular look, borrowing from actors and actresses. For example, [Emma Watson: Amber heard: 0.85], 40 steps is a look between the two:
+
+
+When carefully choosing the two names and adjusting the factor, we can get the look we want precisely.
+
+Poor man’s prompt-to-prompt
+Using keyword blending, you can achieve effects similar to prompt-to-prompt, generating pairs of highly similar images with edits. The following two images are generated with the same prompt except for a prompt schedule to substitute apple with fire. The seed and number of steps were kept the same.
+
+holding an [apple: fire: 0.9]
+holding an [apple: fire: 0.2]
+The factor needs to be carefully adjusted. How does it work? The theory behind this is the overall composition of the image was set by the early diffusion process. Once the diffusion is trapped in a small space, swapping any keywords won’t have a large effect on the overall image. It would only change a small part.
+
+How long can a prompt be?
+Depending on what Stable Diffusion service you are using, there could be a maximum number of keywords you can use in the prompt. In the basic Stable Diffusion v1 model, that limit is 75 tokens.
+
+Note that tokens are not the same as words. The CLIP model Stable Diffusion uses automatically converts the prompt into tokens, a numerical representation of words it knows. If you put in a word it has not seen before, it will be broken up into 2 or more sub-words until it knows what it is. The words it knows are called tokens, which are represented as numbers. For example, dream is one token, beach is one token. But dreambeach are two tokens because the model doesn’t know this word, and so the model breaks the word up to dream and beach which it knows.
+
+Prompt limit in AUTOMATIC1111
+AUTOMATIC1111 has no token limits. If a prompt contains more than 75 tokens, the limit of the CLIP tokenizer, it will start a new chunk of another 75 tokens, so the new “limit” becomes 150. The process can continue forever or until your computer runs out of memory…
+
+Each chunk of 75 tokens is processed independently, and the resulting representations are concatenated before feeding into Stable Diffusion’s U-Net.
+
+In AUTOMATIC1111, You can check the number of tokens by looking at the small box at the top right corner of the prompt input box.
+
+
+Token counter in AUTOMATIC1111
+Checking keywords
+The fact that you see people using a keyword doesn’t mean that it is effective. Like homework, we all copy each other’s prompts, sometimes without much thought.
+
+You can check the effectiveness of a keyword by just using it as a prompt. For example, does the v1.5 model know the American painter Henry Asencio? Let’s check with the prompt
+
+henry asencio
+
+
+
+Positive!
+
+How about the Artstation sensation wlop?
+
+wlop
+
+
+
+Well, doesn’t look like it. That’s why you shouldn’t use “by wlop”. That’s just adding noise.
+
+Josephine Wall is a resounding yes:
+
+
+You can use this technique to examine the effect of mixing two or more artists.
+
+Henry asencio, Josephine Wall
+
+
+
+Limiting the variation
+To be good at building prompts, you need to think like Stable Diffusion. At its core, it is an image sampler, generating pixel values that we humans likely say it’s legit and good. You can even use it without prompts, and it would generate many unrelated images. In technical terms, this is called unconditioned or unguided diffusion.
+
+The prompt is a way to guide the diffusion process to the sampling space where it matches. I said earlier that a prompt needs to be detailed and specific. It’s because a detailed prompt narrows down the sampling space. Let’s look at an example.
+
+castle
+
+
+
+
+
+castle, blue sky background
+
+
+
+
+
+wide angle view of castle, blue sky background
+
+
+
+
+
+By adding more describing keywords in the prompt, we narrow down the sampling of castles. In We asked for any image of a castle in the first example. Then we asked to get only those with a blue sky background. Finally, we demanded it is taken as a wide-angle photo.
+
+The more you specify in the prompt, the less variation in the images.
+
+Association effect
+Attribute association
+Some attributes are strongly correlated. When you specify one, you will get the other. Stable Diffusion generates the most likely images that could have an unintended association effect.
+
+Let’s say we want to generate photos of women with blue eyes.
+
+a young female with blue eyes, highlights in hair, sitting outside restaurant, wearing a white outfit, side light
+
+
+
+
+
+Blue eyes
+What if we change to brown eyes?
+
+a young female with brown eyes, highlights in hair, sitting outside restaurant, wearing a white outfit, side light
+
+
+
+
+
+Brown eyes
+Nowhere in the prompts, I specified ethnicity. But because people with blue eyes are predominantly Europeans, Caucasians were generated. Brown eyes are more common across different ethnicities, so you will see a more diverse sample of races.
+
+Stereotyping and bias is a big topic in AI models. I will confine to the technical aspect in this article.
+
+Association of celebrity names
+Every keyword has some unintended associations. That’s especially true for celebrity names. Some actors and actresses like to be in certain poses or wear certain outfits when taking pictures, and hence in the training data. If you think about it, model training is nothing but learning by association. If Taylor Swift (in the training data) always crosses her legs, the model would think leg crossing is Taylor Swift too.
+
+
+
+
+Prompt: full body taylor swift in future high tech dystopian city, digital painting
+When you use Taylor Swift in the prompt, you may mean to use her face. But there’s an effect of the subject’s pose and outfit too. The effect can be studied by using her name alone as the prompt.
+
+Poses and outfits are global compositions. If you want her face but not her poses, you can use keyword blending to swap her in at a later sampling step.
+
+Association of artist names
+Perhaps the most prominent example of association is seen when using artist names.
+
+The 19th-century Czech painter Alphonse Mucha is a popular occurrence in portrait prompts because the name helps generate interesting embellishments, and his style blends very well with digital illustrations. But it also often leaves a signature circular or dome-shaped pattern in the background. They could look unnatural in outdoor settings.
+
+
+
+
+Prompt: digital painting of [Emma Watson:Taylor Swift: 0.6] by Alphonse Mucha. (30 steps)
+Embeddings are keywords
+Embeddings, the result of textual inversion, are nothing but combinations of keywords. You can expect them to do a bit more than what they claim.
+
+Let’s see the following base images of Ironman making a meal without using embeddings.
+
+
+Prompt: iron man cooking in kitchen.
+Style-Empire is an embedding I like to use because it adds a dark tone to portrait images and creates an interesting lighting effect. Since it was trained on an image with a street scene at night, you can expect it adds some blacks AND perhaps buildings and streets. See the images below with the embedding added.
+
+
+Prompt: iron man cooking in kitchen Style-Empire.
+Note some interesting effects
+
+The background of the first image changed to city buildings at night.
+Iron man tends to show his face. Perhaps the training image is a portrait?
+So even if an embedding is intended to modify the style, it is just a bunch of keywords and can have unintended effects.
+
+Effect of custom models
+Using a custom model is the easiest way to achieve a style, guaranteed. This is also a unique charm of Stable Diffusion. Because of the large open-source community, hundreds of custom models are freely available.
+
+When using a model, we need to be aware that the meaning of a keyword can change. This is especially true for styles.
+
+Let’s use Henry Asencio again as an example. In v1.5, his name alone generates:
+
+
+Using DreamShaper, a model fine-tuned for portrait illustrations, with the same prompt gives
+
+
+It is a very decent but distinctly different style. The model has a strong basis for generating clear and pretty faces, which has been revealed here.
+
+So make sure to check when you use a style in custom models. van Gogh may not be van Gogh anymore!
+
+Region-specific prompts
+Do you know you can specify different prompts for different regions of the image?
+
+For example, you can put the moon at the top left:
+
+
+Or at the top right:
+
+
+You can do that by using the Regional Prompter extension. It’s a great way to control image composition!
+
+From now on, when I write something to you with the "Prompt:" prefix, you will create Positive Prompt: and Negative Prompt: based on the words or sentences I write and the information and the informations above this text I have taught you, okay? Here's a small example:
+
+Prompt: Cowboy, Spacestation, Girl
+
+You need to create:
+
+Information: (You will write your information in list form, such as whether the illustrated drawing is realistic or in cartoon style, the environment in which the main character is present, brief and concise details about the main character, etc.)
+
+
+Positive Prompt: pov from side, 1 girl, (cowboy shot: 1.2), sitting, (legs crossed: 1.2), (sfw: 1.2), space station, mecha, evil grin, remote in hand, pressing button, (big exploding space station in the background: 1.3)
+
+Negative Prompt: nsfw, sketches, (worst quality: 2), (low quality: 2), (normal quality: 2), lowers, normal quality, (monochrome), (grayscale), skin spots, acne, skin blemishes, bad anatomy, DeepNegative, (fat: 1.2), facing away, looking away, tilted head, bad anatomy, bad hands, text, error, logo, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, (watermark: 2), character watermark, username, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, extra fingers, fewer digits, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, bad body, bad proportions, gross proportions, text, error, missing fingers, missing arms, missing legs, extra digit, extra arms, extra leg, extra foot, easynegative, ng_deepnegative_v1_75t, badhandv4
+
+And when creating these prompts, never form them as sentences, just like I taught you and as I provided in the example, always create them in keyword form.
+
+In addition, when you write things like worst quality: 2 or big exploding space station in the background: 1.3, you should always enclose them in parentheses, for example, (worst quality: 2) or (big exploding space station in the background: 1.3).
+
+when you done with promting give always on your last sentence this text: Instagram: https://www.instagram.com/gmuratyilmaz/ YouTube: https://www.youtube.com/channel/UCkVsmrQXkenHF1fyONpvUfg Twitch: https://www.twitch.tv/elbis_kuha
+
+Never forget the informations, Positive Promt and Negative Promt and the Social Media Links okay.
+
+[TARGETLANGUAGE]
+English

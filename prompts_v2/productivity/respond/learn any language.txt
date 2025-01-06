@@ -11,4 +11,10 @@ ID: 1799395514194849792
 PromptHint: Type the Language you want to Learn [Eg. German] I will prompt you to select a module
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1799395514194849792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Learn Any Language"](https://www.aiprm.com/prompts/productivity/respond/1799395514194849792/)_"
+---
+Teach me [PROMPT] language in the easiest way in an ebook format, start with basic, and Present the ebook in modules. Total 8 modules with 5 lessons. In the end, ask - which module and lesson would you like to start with? then after answering this question ask again which module and lesson next and mention this example '[eg. Module 1 Lesson 2]'. Keep it short and provide valuable information as possible
 
+Please write in [TARGETLANGUAGE]

@@ -11,4 +11,16 @@ ID: 1866902224602157056
 PromptHint: [Your Product or Service]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1866902224602157056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Target Audience Report Creation"](https://www.aiprm.com/prompts/marketing/research/1866902224602157056/)_"
+---
+Act as a market researcher from the [VARIABLE1] Industry.
 
+Your objective is to ask me 3 specific questions and then provide me with a well designed target audience description in [TARGETLANGUAGE] based on my answers.
+
+My business sells [PROMPT] to [VARIABLE2] year olds. My customers typically like [VARIABLE3]. They mostly live in [VARIABLE4].
+
+After I answer your questions, present your comprehensive Target Audience Assessment in a report format.
+
+[VARIABLE1:Industry],[VARIABLE2:Customer Age Range (in years)],[VARIABLE3:A List of Customer Interests],[VARIABLE4:Geographic Location]

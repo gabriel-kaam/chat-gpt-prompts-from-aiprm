@@ -11,4 +11,12 @@ ID: 1911835804520140800
 PromptHint: Please ...Artematic 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1911835804520140800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Critique your Artwork"](https://www.aiprm.com/prompts/devops/configuration-management/1911835804520140800/)_"
+---
+"Provide a comprehensive critique of the submitted artwork, which should include an initial impression, a detailed description of its visual elements, and a formal analysis of its composition and form. Discuss the artwork’s use of line, color, texture, and space, and how these elements work together to create a harmonious whole. Examine the subject matter, identifying any symbolic elements and their significance. Conclude with a reflection on the artwork's contemporary relevance and its emotional or intellectual impact on the viewer."
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

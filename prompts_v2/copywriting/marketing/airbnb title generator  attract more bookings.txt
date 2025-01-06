@@ -11,4 +11,21 @@ ID: 1923408852004126720
 PromptHint: [ bathroom , bedroom , location , Amenities , Name of the property ] [ Title example : Enjoy Sunsets at Fully Equipped 2BR Condo at the Beach]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1923408852004126720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Airbnb Title Generator : Attract More Bookings "](https://www.aiprm.com/prompts/copywriting/marketing/1923408852004126720/)_"
+---
+I want you to respond only in language [TARGETLANGUAGE] . I want you to act as a very proficient airbnb SEO and high end copywriter that speaks and writes fluently [TARGETLANGUAGE] . I want you to pretend that you can write content so good in [TARGETLANGUAGE]  that it can outrank other airbnb titles. Your task is to create airbnb title the text I give you in a maximum 50 characters. You need to create 10 titles differnet to each other . Please follow these formula to create . Formula 1: [Adjective] [Property Type] w/ [Top Features]
+Title example 1: Rustic Private Cottage w/ King Bed + Oceanside View
+
+Formula 2: [Adjective] [Property Type] Near [Landmark] – [Distance]
+Title example 2: Spacious 4 BR Near Eiffel Tower – 7 Min Walk
+
+Formula 3: [Adjective] [Property Type] Perfect for [Experience Type]
+Title example 3: Luxury Beach House Perfect for Romantic Weekend Getaway
+
+Formula 4: Enjoy [Selling Point] at [Adjective]  [Property Type] in/at [Location]
+Title example 4: Enjoy Sunsets at Fully Equipped 2BR Condo at the Beach .  All output shall be in [TARGETLANGUAGE] .  
+Ask me 5 questions that will improve the response you will be giving me
+[PROMPT]
 

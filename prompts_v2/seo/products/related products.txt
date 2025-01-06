@@ -11,4 +11,8 @@ ID: 1828869132087726080
 PromptHint: [Enter Product Links]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1828869132087726080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Related Products"](https://www.aiprm.com/prompts/seo/products/1828869132087726080/)_"
+---
+Generate HTML anchor tags for the following products with the anchor of the product name, exctract the product name after the / of domain name. don't add "-" in the anchor text. Capatalise the product name and Add each link in different line.  : [PROMPT] [TARGETLANGUAGE]

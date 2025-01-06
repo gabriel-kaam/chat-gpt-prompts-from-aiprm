@@ -12,4 +12,8 @@ ID: 1788825768235896832
 PromptHint: [Write a Keyword, What you want to build] and You Describe full :: Its Build with All Programming Languages
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1788825768235896832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "All in One Programming Tools 100%"](https://www.aiprm.com/prompts/softwareengineering/web-development/1788825768235896832/)_"
+---
+[TARGETLANGUAGE] full code of "[PROMPT]" in HTML, CSS, JAVASCRIPT and If need those code languages then use it: PHP, Python, C++, XML, Kotlin, Java, Swift, C#, C, NoSQL, SQL, Matlab, Ruby, R, TypeScript, Cala, Laravel . use icons if needed. Make it code are real working. Make it with eye-catching, beautiful and unique design in CSS. use: mouse hover effects, elements animation. Make Fully all elements Responsive Code any devices. Use Unique Id, Class for Each Codes.

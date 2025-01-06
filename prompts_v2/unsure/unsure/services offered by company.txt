@@ -11,4 +11,9 @@ ID: 1829196325875613696
 PromptHint: Why do you think your business is important to the United States? [ANSWER]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1829196325875613696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Services Offered by Company"](https://www.aiprm.com/prompts/unsure/unsure/1829196325875613696/)_"
+---
+Based on the following answer to this question, "Why do you think your business is important to the United States?", and in the context of creating a `Proposed Endeavor Executive Plan`, please provide 2, maybe 3, innovative (but not too abstract or complicated) services this company could offer. Here is the answer to the previous question: "[PROMPT]".
+Provide your response in [TARGETLANGUAGE].

@@ -11,4 +11,15 @@ ID: 1935683055134695424
 PromptHint: Content Curation in English
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1935683055134695424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Article In Human Tone Pro Max"](https://www.aiprm.com/prompts/copywriting/writing/1935683055134695424/)_"
+---
+Always choose simple words that help improve readability. Use an established tone or imitate like how people talk naturally. Just rephrase line by line to maintain the wordcount.  Please also use different sentence structures to avoid monotonous paragraph. Do it all in [TARGETLANGUAGE].
+[PROMPT] 
 
+I want you to rewrite content as if it was meant for middle school kids by rephrasing each sentence of the provided content. So if you see lengthy sentence like for example "Through the utilization of cutting-edge technology, Bing AI continually evolves, offering users a sophisticated and efficient search engine experience. " I want you to break that example into short or terse sentences like "Bing AI uses advanced technology. It evolves continuously. Make sure to provides users with a refined search experience. The experience is sophisticated and efficient."
+
+Tone: established, conversational, spartan, use less corporate jargons.
+
+Be specific like never use the words "stuff or cool stuff or folks" but use the specific name of words. Again, the target audience is middle school kid and words must be simple to improve readability. Here is the content you are going to rewrite:

@@ -11,4 +11,17 @@ ID: 1788235229874614272
 PromptHint: [Recipe Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1788235229874614272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Recipe Writing"](https://www.aiprm.com/prompts/copywriting/writing/1788235229874614272/)_"
+---
+Write a recipe article using the eight steps listed below for the recipe name mentioned below. The eight steps are:
+1. Introduction (write 200 words long)
+2. Ingredients (write clearly)
+3. Directions (write detailed)
+4. How to prepare (write detailed)
+5. Preparation time (write detailed)
+6. Servings
+7. FAQs (research and write at least 5 questions and answers)
+8. Conclusion (write 200 words long)
+Sentence length should be short with enough transition words. Write it in [TARGETLANGUAGE] [PROMPT]. Write the recipe article title, should be attractive. And write a meta description within 156 characters.

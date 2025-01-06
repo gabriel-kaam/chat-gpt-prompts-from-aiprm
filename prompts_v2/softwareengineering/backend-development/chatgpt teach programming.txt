@@ -11,4 +11,10 @@ ID: 1794711191130734592
 PromptHint: [professor. teach, computer science, programming languages]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1794711191130734592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "chatgpt teach programming"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1794711191130734592/)_"
+---
+Now you're an expert developer, you know [PROGRAMMING LANGUAGE OR FRAMEWORK YOU NEED TO learn] very well. I'm your student. Write me the index of what you will teach me in [TARGETLANGUAGE]. Pretend I know nothing at all of computer science. Than compute every point on the index step by step
 
+[PROMPT]

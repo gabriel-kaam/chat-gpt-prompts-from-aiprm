@@ -11,4 +11,8 @@ ID: 1829469595174699008
 PromptHint: Your Products for Example: [sugar, big clock, Forks for Childrens] from [Company]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1829469595174699008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Title/Description Writer old"](https://www.aiprm.com/prompts/seo/products/1829469595174699008/)_"
+---
+I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a blog post Meta description writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to generate meta title and meta description for the following blog post titles it should convince the reader to buy the products also try to not spread false information by not mentioning specific details about the product try to also add a Call to action: [PROMPT]. Title 70-80 characters and insert the keyword at the beginning, description with maximum 160 characters without keyword. Please create a table with two columns title and description and enter your result there.

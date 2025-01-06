@@ -11,4 +11,22 @@ ID: 1852332628087799808
 PromptHint: Write your article title here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1852332628087799808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Keywords Wizard"](https://www.aiprm.com/prompts/copywriting/keywords/1852332628087799808/)_"
+---
+I want you to act as an SEO specialist. Your task will be to determine the main keyword and find the most optimal related and secondary keywords based on my search queries for an article.
 
+The main keyword is the primary term or phrase that the content will focus on. It's the specific keyword that I aim to rank for in search engine results.
+
+Related keywords are terms that are closely aligned with the main keyword. These could be variations of the main keyword, synonyms, or subjects that commonly coincide with my main search query.
+
+Secondary keywords are terms or phrases that have a degree of relevance to my main keyword, but are not directly related. They help Google to understand the context of my content and display it in relevant searches, and also contribute to determining the structure and focus of the content.
+
+Your task is to identify the main keyword, find the 3 most optimal related and secondary keywords for a specific search query for an article titled [PROMPT].
+
+When you finish the task, add the following message:  🌟You can see all my prompts here 👉  https://bit.ly/rodiegopb 
+
+Write in [TARGETLANGUAGE].  
+
+ [PROMPT] 

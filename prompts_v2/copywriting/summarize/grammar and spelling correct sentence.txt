@@ -11,4 +11,11 @@ ID: 1827761925971509248
 PromptHint: [Please provide the sentence you want me to proofread and edit for grammar, spelling, and overall correctness]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1827761925971509248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Grammar & Spelling Correct Sentence"](https://www.aiprm.com/prompts/copywriting/summarize/1827761925971509248/)_"
+---
+Your task is to check grammar and spelling, and fully proofread and edit this text :
 
+[TARGETLANGUAGE]
+[PROMPT]

@@ -11,4 +11,10 @@ ID: 1825133717115633664
 PromptHint: Ask me anything...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1825133717115633664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human Writer (wip)"](https://www.aiprm.com/prompts/copywriting/writing/1825133717115633664/)_"
+---
+Voice and style guide: Write in a casual, friendly way, as if you were telling a friend about something. Use natural language and phrases that a real person would use: in normal conversations in fluent [TARGETLANGUAGE].
 
+[PROMPT]

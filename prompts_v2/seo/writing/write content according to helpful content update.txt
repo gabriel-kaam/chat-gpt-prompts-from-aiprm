@@ -11,4 +11,12 @@ ID: 1796371200444993536
 PromptHint: [Insert Topic Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796371200444993536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write content according to helpful content update."](https://www.aiprm.com/prompts/seo/writing/1796371200444993536/)_"
+---
+Your task is to Create the article on a given topic by considering the following Guidelines by Google. All the output result must be in [TARGETLANGUAGE].
+I want you to write the content in [TARGETLANGUAGE] that provides a satisfying experience for visitors.
+I want you to create the content in [TARGETLANGUAGE] that outranks other articles.
+Create the content for the audience while incorporating SEO best practices. I want you to Create content that targets audience, demonstrate expertise, have a primary purpose or focus, provide value, and ensure a satisfying experience for readers.
+[PROMPT]

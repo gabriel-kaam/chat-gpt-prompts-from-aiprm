@@ -11,4 +11,9 @@ ID: 1810940803825274880
 PromptHint: [Enter content here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1810940803825274880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite content SEO | 100% Unique, human-like"](https://www.aiprm.com/prompts/seo/writing/1810940803825274880/)_"
+---
+Your task is to rewrite the following paragraph with the most natural sentences possible, similar to the way humans talk, make sure the new content is not duplicated with the input content. All output shall be in [TARGETLANGUAGE]. Do not change pre-written English words and words enclosed in quotation marks. The paragraph to rewrite it is this:
+[PROMPT]

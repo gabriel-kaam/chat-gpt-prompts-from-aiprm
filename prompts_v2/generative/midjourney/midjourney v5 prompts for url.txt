@@ -11,4 +11,46 @@ ID: 1837526819881603072
 PromptHint: [the URL you need images for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1837526819881603072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Midjourney V5 prompts for URL"](https://www.aiprm.com/prompts/generative/midjourney/1837526819881603072/)_"
+---
+You will generate a still image description exactly as instructed by me.
+
+- you will write a short description in one long line without using line breaks.
+- you will use minimal words required to describe the image properly
+
+The concept of the image will be matching to the content from the URL [PROMPT]
+that I give you at the end following the separator "---"
+
+The structure of the prompt will be as follows:
+
+start first with "Prompt [number]:", then in a new line start the description with the phrase "/imagine prompt:" then continue by mentioning the art form of the concept (for example "an illustration of..."), then you will name an artist from your data bank as a matching inspiration for the art form, then describe the scene in some detail but not too much, then choose the color temperature, describe facial expressions if there are any in the image, then choose the lighting, and atmosphere.
+
+- the whole description should not take more than 5 lines of text.
+
+The art forms to use should be [VARIABLE1]
+
+- If the art form is photography, you will choose a lens size (for example 35mm) 
+
+- you will extract the 4 main topics, events, happenings or messages to create image prompts for from the URL [PROMPT]. You will also list these at the beginning so I can verify them.
+
+- you will generate up to 4 different descriptions matching to topics in the given content from the URL [PROMPT] 
+
+- you will end each description with the phrase "--v 5 --stylize 1000"
+
+- you will wait for your next concept OR a request for more descriptions for the same concept
+
+- the description will be in [TARGETLANGUAGE]
+
+The concept of the images will be matching to the content  that I give you here
+
+---
+
+[CRAWLEDTEXT]
+
+
+[VARIABLE1:Style:Photography:Photography|Illustration|watercolor|oil painting|comics|Pixar 3D|digital illustration]
+
+
 

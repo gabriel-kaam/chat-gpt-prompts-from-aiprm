@@ -11,4 +11,9 @@ ID: 1837936385958076416
 PromptHint: Instert your destination here..
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1837936385958076416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Travel Essentials- Master the Art of Packing"](https://www.aiprm.com/prompts/productivity/plan/1837936385958076416/)_"
+---
+Your task is to provide in atleast 500 words a complet travel essentials and what to pack for a travel based on the destination provided by the user, the output shall be in [TARGETLANGUAGE] , the text must be written in a friendly tone and casual style, please provid all the necessary details, give some extra tips about packing, remember the information you give should be tailored for the destination provided by the user.
+the destination is : [PROMPT]

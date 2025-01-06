@@ -11,4 +11,8 @@ ID: 1794313236733231104
 PromptHint: Type sentence here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1794313236733231104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Check for Errors in Sentence"](https://www.aiprm.com/prompts/unsure/writing/1794313236733231104/)_"
+---
+Are there any errors in the sentence "[PROMPT]"? Check and response in language [TARGETLANGUAGE].

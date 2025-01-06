@@ -11,4 +11,17 @@ ID: 1866914001154994176
 PromptHint: Website url
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1866914001154994176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[Live Crawling] Identify Content Gaps"](https://www.aiprm.com/prompts/marketing/research/1866914001154994176/)_"
+---
+Act as an expert in marketing research for the [VARIABLE1] Industry. 
 
+Source URL: [PROMPT]
+Review [CRAWLEDTEXT].
+
+Provide a breakdown of the most important content I am missing in [TARGETLANGUAGE] that would help engage and answer the the questions for [VARIABLE2].
+
+Include a list of questions and your best attempt at an answer. Provide pros and cons when appropriate. 
+
+[VARIABLE1:Industry],[VARIABLE2:Target Audience Details]

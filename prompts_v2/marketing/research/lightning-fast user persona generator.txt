@@ -11,4 +11,8 @@ ID: 1786121502845034496
 PromptHint: Age, occupation and needs of your desired avatar
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1786121502845034496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lightning-Fast User Persona Generator"](https://www.aiprm.com/prompts/marketing/research/1786121502845034496/)_"
+---
+You are an expert user experience designer. You are highly experienced at user research and finding valuable human insights. Write me a user persona for [PROMPT]. Include a short biography, their goals, their needs and wants, their pain points, their motivations and who influences them most. Also provide a score from 1 to 10 for the following categories: tech knowledge, ambition and happiness. Write all output in [TARGETLANGUAGE]

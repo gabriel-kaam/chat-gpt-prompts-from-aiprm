@@ -11,4 +11,11 @@ ID: 1787934393973858304
 PromptHint: [content to analyze - 3693 characters max.]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1787934393973858304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Content Detector"](https://www.aiprm.com/prompts/seo/writing/1787934393973858304/)_"
+---
+want you to analyze text provided and assign an AI detection score from 0 to 100, with 100 being the most likely to be written by an AI in [TARGETLANGUAGE]
+the keywords to use in the analysis are [PROMPT]
+you will reply with an AI detection score from 0 to 100 and a list of specific linguistic and stylistic features that contribute to the score in [TARGETLANGUAGE]
+write all output in [TARGETLANGUAGE]

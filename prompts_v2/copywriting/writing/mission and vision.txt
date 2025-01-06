@@ -11,4 +11,8 @@ ID: 1797185329829240832
 PromptHint: Type in your Topic here [Eg: Project planning for this month]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797185329829240832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mission and Vision"](https://www.aiprm.com/prompts/copywriting/writing/1797185329829240832/)_"
+---
+All output shall be in [TARGETLANGUAGE]. Your task is to make a Mission, Vision, Strategies, Objectives, Tactics, Schedule table, Customer Values, and Customer Segments including emojis, table, bullet points, and Suggestions for [PROMPT]. Make it as brief and informative as possible.

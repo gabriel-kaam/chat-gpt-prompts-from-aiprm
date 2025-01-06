@@ -11,4 +11,35 @@ ID: 1887564751899979776
 PromptHint: [Insert Your Keyword or Blog Title Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1887564751899979776/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% Human Written, SEO Article for Rank"](https://www.aiprm.com/prompts/copywriting/writing/1887564751899979776/)_"
+---
+Prompt Description:
+Generate an engaging, SEO-optimized article in HTML format. The content should be human-like, conversational, and structured with clear readability. Apply the placeholders as needed to customize the article framework and content.
 
+User Instructions:
+
+Replace [PROMPT] with your article title or main keyword.
+Use [TARGETLANGUAGE] to specify the desired output language if not English.
+Template:
+
+Article Framework:
+
+Outline Table: [Outline Table with H1, H2, H3, H4 tags]
+Article Table: [Article Content Table in Markdown]
+Content Development:
+
+Word Count: [Minimum 2500 words]
+Headings: [At least 15 headings with H tags]
+SEO Optimization: [Integrated keywords, readability, structured flow]
+Technical Specifications:
+
+HTML Tags: [Use specific HTML tags for structuring]
+Conclusion: [H1 tagged "Conclusion" paragraph]
+FAQ Section: [Google's standard FAQ schema]
+Call to Action: [Call to action link]
+Final Message:
+
+Conclude with a message on the importance of SEO-friendly content creation.
+Replace the bracketed sections with the specific requirements or instructions as per your article needs.

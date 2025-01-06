@@ -11,4 +11,10 @@ ID: 1978029093572829184
 PromptHint:  [Products URL] [Brand Name or Business Name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1978029093572829184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Reviews for Indian E-commerce"](https://www.aiprm.com/prompts/marketing/products/1978029093572829184/)_"
+---
+[PROMPT] in [TARGETLANGUAGE]
+Write reviews (mix - Positive more and less negative, but while writing a negative review, make a reply for that in a positive way from [Brand Name or Business Name] ), and feel every column for this product. I need that in the same  Excel table format only; all the reviews should be from the last 3-4 months, all with Indian Name (across all Indian unique names - Both Name & Surname), And in the every reply Section, also mention their name and appreciation them for the feedback, different title as well. Go through the the [Products URL]
 

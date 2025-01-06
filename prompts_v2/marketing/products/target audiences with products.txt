@@ -11,4 +11,8 @@ ID: 1900102
 PromptHint: Name your category in simple but precise language. E.g. “electronic music nightclubs” + SHIFT ENTER + Describe your target audience (e.g. “Budget-conscious infrequent clubbers”)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1900102/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Target audiences with products"](https://www.aiprm.com/prompts/marketing/products/1900102/)_"
+---
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Come up with five new, innovative products that are targeted at the unique needs of the audience. The category in first line and audience in second line is: [PROMPT] 

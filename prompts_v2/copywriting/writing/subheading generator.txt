@@ -11,4 +11,13 @@ ID: 1801462719359221760
 PromptHint: Enter your title here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801462719359221760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Subheading Generator"](https://www.aiprm.com/prompts/copywriting/writing/1801462719359221760/)_"
+---
+I need you to give me bulleted list subheadings for the topics that I will provide you with. These subheadings should be unique and must not repeat themselves amongst different topics. The subheadings should be no longer than 50 characters each, including spaces. There should be atleast
+5 subheadings per topic.
 
+The prompts should be written in [TARGETLANGUAGE]
+
+The topics I want you to generate bulleted subheadings for is: [PROMPT]

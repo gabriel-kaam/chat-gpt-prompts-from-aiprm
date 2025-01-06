@@ -11,4 +11,8 @@ ID: 1794216834581651456
 PromptHint: [Content you want to get Comment for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1794216834581651456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comment for the LinkedIn Post"](https://www.aiprm.com/prompts/marketing/social-media/1794216834581651456/)_"
+---
+Write a LinkedIn comment on given LinkedIn Post [PROMPT] in [TARGETLANGUAGE]. Comment should be consist of 1 to 2 lines and in Appreciative Manner. try to ask simple relative short question in the end.  do not add emojis.  Please add no phrasing words in the beginning! make it a healthy conversation.  Please do not add fancy words.

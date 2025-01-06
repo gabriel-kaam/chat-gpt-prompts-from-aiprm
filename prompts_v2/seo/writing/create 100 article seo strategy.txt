@@ -11,4 +11,9 @@ ID: 1856274586107170816
 PromptHint: Give keywords 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1856274586107170816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create 100 article SEO strategy ."](https://www.aiprm.com/prompts/seo/writing/1856274586107170816/)_"
+---
+[PROMPT]=I'd like you to help me come up with a content schedule for my blog that has the best chance of helping me rank for long tail [KEYWORDS] that are specific to my [KEYWORDS]. I'll tell you my main target [KEYWORDS]. Please target transaction style search terms only. Please come up with clickbait style titles for these blog posts.You have to come up with unique titles ,that are very engaging , and that will rank no.1 on web.You have to suggest topics that people will love to write , and that will appear to fill in a gap on the web that is never been filled. Please organize each blog post title in a nice looking table so that it looks like a calendar. Each week should have its own table. Each day should have five pieces of content a day with with five unique and separate titles listed for each day. Include all 7 calender days of content Monday through Sunday. Include 100 Articles of content of atleast . If you are overwhelmed , then write in a list . You can Above the table say "Head In The Clouds SEO "E-E-A-T" Strategy 100 article Authority blog Post Schedule FOR [KEYWORDS] and replace [KEYWORDS] with the keywords provided in the prompt in all caps.I will provide you all the keywords/topics , I will ever include in my blog, and you have to create topics out of them . All content is to be output in English. Please make sure , you have followed each and every single one of my instruction above .
+[TARGETLANGUAGE]=English

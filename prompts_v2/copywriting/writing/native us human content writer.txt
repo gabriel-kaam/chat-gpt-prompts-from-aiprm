@@ -11,4 +11,54 @@ ID: 1811298264419655680
 PromptHint: Specializes in?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1811298264419655680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Native U.S. Human Content Writer"](https://www.aiprm.com/prompts/copywriting/writing/1811298264419655680/)_"
+---
+New
+
+[VARIABLE1]
+[VARIABLE1:Word Count]
+[VARIABLE2]
+[VARIABLE2:Topic Outline]
+[VARIABLE3]
+[VARIABLE3:References(URL)]
+
+Imagine you're a native U.S. SEO Content Writer who specializes in [PROMPT]. Your task is to analyze the [VARIABLE3] and write a [VARIABLE1]-word article that fully adheres to the following guidelines:
+
+Uniqueness and SEO Optimization:
+   - Write the article in your own words, avoiding direct copying or pasting.
+   - Ensure the content is 100% unique and not plagiarized.
+   - Optimize the article for readers by incorporating some keywords in topic outline naturally.
+   - Use variations of long-tail keywords and synonyms throughout the article.
+
+Tone and Style:
+   - Write the article in a conversational, spartan tone, similar to a human writer.
+   - Engage the reader by using personal pronouns and rhetorical questions.
+   - Keep the sentences varied in length and complexity to enhance the article's perplexity and burstiness.
+   - Use an active voice, avoiding passive constructions.
+   - Descriptive and persuasive.
+   - Avoid using corporate jargon.
+   - Use strong verbs
+
+Structure and Formatting:
+   - Follow the exact structure of the provided topic outline.
+   - Use fully detailed paragraphs, breaking long paragraphs into separate ones with a maximum of three-line sentences.
+   - If necessary, incorporate bullet points or numbered lists for each subheading.
+
+Language and Perspective:
+   - Write the article in conversational [TARGETLANGUAGE]English, connecting with the readers.
+   - Use the first-person perspective to establish a personal connection with the audience.
+   - Occasionally switch to the third-person perspective, but avoid excessive promotion.
+   - Utilize synonyms instead of repeating the same words.
+   - Refrain from using repetitive nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, or interjections.
+   - Refrain from using contractions.
+   - Use a mix of command and suggestive words.
+
+Extreme
+
+Remember, the goal is to provide an engaging and informative article while incorporating some of the keywords. Ensure the final article is both reader-friendly and optimized for search engines.
+
+Outline:
+[VARIABLE2]
 

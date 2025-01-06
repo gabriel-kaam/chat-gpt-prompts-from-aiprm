@@ -11,4 +11,18 @@ ID: 1900103
 PromptHint: Name your brand (e.g. “Fabric London”) + SHIFT ENTER + Name your category in simple but precise language. E.g. “electronic music nightclubs” + SHIFT ENTER + Describe your target audience (e.g. “Budget-conscious infrequent clubbers”)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/positioning/1900103/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Target audiences with positioning"](https://www.aiprm.com/prompts/marketing/positioning/1900103/)_"
+---
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. We like the following framework for brand positioning work: HOW DO WE DESCRIBE OURSELVES? What we do and why we do it. HOW DO WE DESCRIBE OUR AUDIENCE? Who they are and what is their relationship to our category?. WHY WILL AUDIENCES CARE? A truth about our audience: Who they are and the need we can meet. WHY WILL OUR CATEGORY CARE? A truth about our category: The need we meet. WHY IS IT RIGHT FOR OUR BRAND? A truth about our brand and business: What’s unique which drives what we do? 
+IMPLICATIONS FOR WHAT WE DO
+WHAT SHOULD OUR BRAND: STOP? START? CONTINUE?
+OUR EXPERIENCE: Product, Features, Service, …
+OUR PARTNERS: Brands, Retailers, Influencers, …
+OUR MARKETING: Content, Comms, CRM, Promotions …
+IMPLICATIONS FOR HOW WE FEEL
+WHAT SHOULD OUR VALUES BE? Our codes of conduct. How we are now vs where we want to be?
+Please apply this framework to the following brand, in the following category in a way that resonates with their target audience. 
 
+The brand (first line), category (second line) and target audience (third line) are: [PROMPT]

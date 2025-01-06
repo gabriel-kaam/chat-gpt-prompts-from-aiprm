@@ -11,4 +11,26 @@ ID: 1789613418945445888
 PromptHint: Your calculation's here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1789613418945445888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Math problemsolver"](https://www.aiprm.com/prompts/unsure/writing/1789613418945445888/)_"
+---
+calculate these math problems for me. first write down what you did to calculate the answer to the math problem in short. then write down the answer of the math problem.
 
+some important things:"
+5/4 == fracture
+4^2 == times square
+".
+
+write in this format:"
+- math problem
+   - simplified: "(how you calculated the answer)".
+   - answer: "(answer of the math problem)".
+
+write in this langue: "[TARGETLANGUAGE]".
+
+solve these math problem's: "
+[PROMPT]
+"
+
+"

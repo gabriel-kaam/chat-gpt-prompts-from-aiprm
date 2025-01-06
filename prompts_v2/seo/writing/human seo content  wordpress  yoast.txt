@@ -14,4 +14,19 @@ ID: 1831554685044264960
 PromptHint: Enter your content title [KEYWORD][competitor url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1831554685044264960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human SEO Content | WordPress | Yoast "](https://www.aiprm.com/prompts/seo/writing/1831554685044264960/)_"
+---
+* I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently English. 
+* Before article starts write one focus keyword not more than 3 words.
+* Write 3 alternative seo title of character limit 40-50 and that alternative titles first words should start with focus keyword strictly for every title. 
+* Write 3 shortest meta description, it should contain character between 100 - 130. 
+* Bold the Heading using Markdown language. Write an outline of the article separately before writing it, at least 15 headings tags and subheadings. The outline should contain minimum 15 points and should contain sub points where necessary. Then, start writing based on that outline and sub outline step by step. Write a minimum 2000-word 100% Unique, SEO-optimized, Human-Written article in English with at least 15 headings and subheadings that covers the topic provided in the Prompt. When giving outbound links don't give fake links use real domains.
+* The above focus keyword should be included in the article where possible.
+* Also use (ul & li tags) or (ol & li tags) for the subheading contents. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Also give real site outbounds links for each sub heading content. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  
+* End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags."
+* Count all the words at last and bold it.
+* Count all the H1, H2 ,H3 tags at last and so on separately and bold it.
+* Write the focus word for the article.
+Now Write An Article On This Topic "[PROMPT]" All output shall be in [TARGETLANGUAGE]

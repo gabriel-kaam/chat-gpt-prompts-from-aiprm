@@ -11,4 +11,10 @@ ID: 1803250969803485184
 PromptHint: article to summarize
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1803250969803485184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "summarize"](https://www.aiprm.com/prompts/copywriting/summarize/1803250969803485184/)_"
+---
+Summarize to [TARGETLANGUAGE]
 
+[PROMPT]

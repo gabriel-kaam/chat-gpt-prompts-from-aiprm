@@ -11,4 +11,16 @@ ID: 1874686915031126016
 PromptHint: Write down little description about your blog post here.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1874686915031126016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best SEO Keywords Filled Blog Post"](https://www.aiprm.com/prompts/seo/writing/1874686915031126016/)_"
+---
+[PROMPT]
+For the above given text, please follow the rules to give SEO keywords filled three things 10 titles, 10 meta descriptions, and 1 extended description. Please note the following rules strictly
+1. The title should be between 40 to 55 characters. This is must follow for both minimum and maximum limits.
+2. Use the SEO Keywords in the Title
+3. Meta Description should not increase 150 characters. FOLLOW THIS STRICTLY.
+4. The Extended Description should contain SEO keywords and it should be around 1 small paragraph.
+5. Please provide the original content without any duplication in any query. 
+6. At the end provide the list of keywords used in the main description
+Write down the content in [TARGETLANGUAGE]

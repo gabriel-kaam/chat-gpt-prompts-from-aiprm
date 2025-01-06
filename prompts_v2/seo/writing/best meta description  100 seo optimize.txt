@@ -11,4 +11,10 @@ ID: 1807366362860093440
 PromptHint: [Enter a text for a best meta description] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1807366362860093440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Meta Description | 100% SEO Optimize "](https://www.aiprm.com/prompts/seo/writing/1807366362860093440/)_"
+---
+Your Task Is to summarize my given text perfectly under between 150-160 characters meta description. You output will be in all [TARGETLANGUAGE] 
 
+[PROMPT]

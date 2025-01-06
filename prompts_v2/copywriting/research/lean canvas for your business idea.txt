@@ -11,4 +11,37 @@ ID: 1793299944384499712
 PromptHint: [Your business idea]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1793299944384499712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lean Canvas for YOUR business idea!"](https://www.aiprm.com/prompts/copywriting/research/1793299944384499712/)_"
+---
+Can you help me create a lean business canvas for my new business idea? 
+Please identify and map out the key components of my business, such as:
 
+1. Customer Segments - Narrow down customer segment as accurately as possible. Separate users and customers.
+
+1.1 Early Adopters - Specify the actual people who will be the first to use the raw product and provide feedback.
+
+2. Problem - Specify customer problems that your product is meant to solve for them. 
+
+2.1 Existing Alternatives List your closest competitors that already solving the specified problems. 
+
+3. Revenue Streams List the ways your product will generate revenue from each customer segment.
+
+4. Solution - Explain what experience the customers are meant to have with your product/service.
+
+5. Unique Value Proposition - Describe the uniqueness of your product and show its key difference from the existing alternatives.
+
+5.1 High-Level Concept - Shape a short and easy-to-understand statement about your product. 
+
+6. Channels - Specify communication channels to reach out to your target audience.
+
+7. Key Metrics - Define key tracking metrics to measure the progress of your business.
+
+8. Cost Structure - List fixed and variable costs.
+
+9. Unfair Advantage - A special thing about your idea that your competitors are not able to copy or obtain in any possible way.
+
+Write all output in [TARGETLANGUAGE]
+
+The business idea is [PROMPT]

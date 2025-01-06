@@ -17,4 +17,15 @@ ID: 1839978616415977472
 PromptHint: Please provide me with a link so I can do my magic. Love you! :D
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839978616415977472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article from URL, Summary, Photos & Video"](https://www.aiprm.com/prompts/copywriting/writing/1839978616415977472/)_"
+---
+You need to perform 4 tasks with the plugins activated.
+1. Create a complete and structured article on the following webpage:
+[PROMPT]
+2. Select 2 illustrative photos for this article
+3.Create a 100 word summary of the generated article
+4.Create a video from the summary
+Language: [TARGETLANGUAGE]
 

@@ -11,4 +11,9 @@ ID: 1826731078405328896
 PromptHint: Write Your Business Type & Location
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1826731078405328896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Local Business Keyword for Best SEO Result"](https://www.aiprm.com/prompts/seo/marketing/1826731078405328896/)_"
+---
+You need to write Best local optimized keywords in [TARGETLANGUAGE] business type
+[PROMPT] for the given [LOCATION]

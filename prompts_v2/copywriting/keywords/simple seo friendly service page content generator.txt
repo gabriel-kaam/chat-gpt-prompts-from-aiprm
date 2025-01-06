@@ -11,4 +11,12 @@ ID: 1861272700245901312
 PromptHint: [Service Name], [Targeted Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1861272700245901312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Simple SEO friendly Service Page Content Generator"](https://www.aiprm.com/prompts/copywriting/keywords/1861272700245901312/)_"
+---
+Write simple service page content for [PROMPT], [TARGETLANGUAGE]
 
+Include keyword in h1 tag, first 100 words and repeat 4 times in overall content 
+
+Write it in 800 to 1200 words 

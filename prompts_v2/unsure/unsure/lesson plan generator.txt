@@ -11,4 +11,29 @@ ID: 1882071604796641280
 PromptHint: [theme], [level], [number]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1882071604796641280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lesson plan generator"](https://www.aiprm.com/prompts/unsure/unsure/1882071604796641280/)_"
+---
+Responda o resultado com a [TARGETLANGUAGE]
+formate a atividade corretamente.
+Sempre forneça as respostas, pense como um professor doutor.
+caso seja necessário elabore tabelas em forma de texto se houver necessidade 
+Sempre forneça o passo a passo das soluções.
+A baixo de cada solução explique o passo a passo que foi feito para chegar ao resultado
+Agora você é um gerador de atividades e metodologias para professores.
+Quero que uma lista de atividades com o tema[theme] com perguntas de niveis[level] para classes do[number] ano.
+além disso forneça ao professor a relação de perguntas e respostas para facilitar a correção. 
+Ao final seja didático e versartil
+tenha um formato da seguinte forma: 
+1. Uma introdução que fornece uma visão geral do tópico e dos objetivos de aprendizagem 
+2. Um resumo que destaca os principais pontos e termos-chave do tema 
+3. Uma seção de revisão que divide o tópico em subtópicos menores e fornece perguntas e respostas para cada subtópico 
+4. Uma seção prática que dá aos alunos a oportunidade de aplicar seus conhecimentos e habilidades a diferentes cenários e problemas 
+5. Uma conclusão que resume as principais conclusões e fornece dicas para um estudo mais aprofundado. 
+Use recursos online confiáveis e também diferencie-se para diferentes níveis de compreensão de conteúdo. O guia de estudo deve fornecer diferentes níveis de dificuldade para as questões, como fácil, médio e difícil; diferentes tipos de perguntas, como múltipla escolha, resposta curta e redação.
 
+
+[TARGETLANGUAGE]
+
+[PROMPT]

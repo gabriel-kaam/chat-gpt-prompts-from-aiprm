@@ -11,4 +11,12 @@ ID: 1904822556822335488
 PromptHint: Long testimonial message
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1904822556822335488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Extract Testimonial Short Quotes"](https://www.aiprm.com/prompts/productivity/summarize/1904822556822335488/)_"
+---
+In [TARGETLANGUAGE],
+Extract most nice testimonial sentences:
+---
+[PROMPT]
+---

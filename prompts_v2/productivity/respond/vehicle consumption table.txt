@@ -11,4 +11,14 @@ ID: 1832501487466176512
 PromptHint: [vehicle]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1832501487466176512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " vehicle consumption table"](https://www.aiprm.com/prompts/productivity/respond/1832501487466176512/)_"
+---
+[TARGETLANGUAGE] [PROMPT]
 
+descreva em uma tabela o consumo do veiculo pesquisado 
+descreva o consumo em etanol e gasolina na cidade e na estrada...
+se o veiculo não usa etanol preencha a tabela de etanol apenas em 0
+
+não precisa ser em dados atualizados

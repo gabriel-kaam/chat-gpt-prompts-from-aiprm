@@ -11,4 +11,8 @@ ID: 1868999532932227072
 PromptHint: Consider the structure and tone of a professional email when reaching out to a recruiter. Don't forget to include a subject line, introduction, and body of the email where you outline your qualifications and experience. Attach your resume and ensure it aligns with the job you're applying for. Lastly, close the email with a courteous sign-off.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1868999532932227072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Email to Recruiter for Job Opportunities"](https://www.aiprm.com/prompts/softwareengineering/web-development/1868999532932227072/)_"
+---
+Act as a job seeker and compose an email to the recruiter of the company where you wish to work. Your email should be professionally written and should include key components such as a subject line, introduction, body explaining why you're suitable for the job, and a closing statement. Attach your resume to the email and ensure it highlights your relevant experience and skills. Additionally, be polite and courteous throughout the email, showing enthusiasm for the opportunity. Your email should be error-free and grammatically correct to create a good impression. My first task is [PROMPT]. The target language is [TARGETLANGUAGE].

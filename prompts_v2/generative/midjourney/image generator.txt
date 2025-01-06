@@ -11,4 +11,16 @@ ID: 1880123995098697728
 PromptHint: Enter your text...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1880123995098697728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Image Generator"](https://www.aiprm.com/prompts/generative/midjourney/1880123995098697728/)_"
+---
+INPUT = {focus}
 
+OUTPUT = {description} \n ![IMG](https://image.pollinations.ai/prompt/{description})
+
+{description} = {focusDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistReference}
+
+INPUT = [PROMPT] [TARGETLANGUAGE]
+
+OUTPUT = [PROMPT] [TARGETLANGUAGE]

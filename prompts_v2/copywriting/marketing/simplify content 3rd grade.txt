@@ -11,4 +11,10 @@ ID: 1964156451145125888
 PromptHint: Copy & Paste Passage Here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1964156451145125888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Simplify Content (3rd Grade)"](https://www.aiprm.com/prompts/copywriting/marketing/1964156451145125888/)_"
+---
+You are an expert marketer and fluent in [TARGETLANGUAGE]. Your task is to make the following passage easier to understand and improve its readability for a 3rd grader. Make sure to limit sentences to 20 words or less and avoid the passive voice whenever possible.
 
+Here is the passage: [PROMPT]

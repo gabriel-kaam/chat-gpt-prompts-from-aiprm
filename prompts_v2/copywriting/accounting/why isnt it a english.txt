@@ -11,4 +11,10 @@ ID: 1824595827252002816
 PromptHint: This is english
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1824595827252002816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Why isnt it A english"](https://www.aiprm.com/prompts/copywriting/accounting/1824595827252002816/)_"
+---
+[TARGETLANGUAGE] is English.
 
+ [PROMPT] I am going to type 2 word [word1][word2]. Make a sentence using this two words. Make the first word positive and the other negative.

@@ -11,4 +11,8 @@ ID: 1807137357154213888
 PromptHint: [keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1807137357154213888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Description for Yoast"](https://www.aiprm.com/prompts/seo/ideation/1807137357154213888/)_"
+---
+Generate a meta description for [PROMPT] within 160 character [TARGETLANGUAGE]

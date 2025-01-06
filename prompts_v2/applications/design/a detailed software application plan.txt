@@ -18,4 +18,8 @@ ID: 1838949779620102144
 PromptHint: [describe application idea]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1838949779620102144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "A detailed software application plan"](https://www.aiprm.com/prompts/applications/design/1838949779620102144/)_"
+---
+Generate a project charter document that outlines the purpose, goals, scope, deliverables, stakeholders, and success criteria for a software development project. The project is [PROMPT]. Please ensure that the document follows our company’s style guide and includes all necessary sections and information. Write all output in [TARGETLANGUAGE].

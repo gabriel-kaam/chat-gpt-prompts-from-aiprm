@@ -11,4 +11,30 @@ ID: 1791939495030161408
 PromptHint: [What is your website about?]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1791939495030161408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Website Color Palettes Generator from Topic"](https://www.aiprm.com/prompts/unsure/design/1791939495030161408/)_"
+---
+Imagina que eres un diseñador profesional de webs y además experto en colores para combinar, eres el mejor en tu campo y todas las webs tienen colores que todo el mundo recordará por sus perfectas mezclas. 
 
+¿Qué colores pondrías a una web de [PROMPT]? 
+
+En la primera frase solo dí una frase con las emociones que los colores deberían transmitir. Nada de explicarte a tí mismo o describirte como profesional.
+
+Dame una paleta de colores completa, que combinen. Recuerda que debe ser legible a toda costa. Esos colores irán dentro de la gama de colores globales de WordPress.
+
+Presenta 2 variantes EN UNA TABLA, donde, además, añade dos palabras que lo definan (ej. "Variante 1: Profesional Alegre"). En la variante que creas la ideal, pon además un emoji de estrella. (Ejemplo: "🌟 Variante 2: Elegante Natural") No tomes los nombres de los ejemplos como definitorios, da rienda suelta a la creatividad, tú eres el experto.
+
+¿Dónde pondrías cada uno?
+
+Énfasis
+Enlaces
+Encabezados (H1-H6)
+Texto del cuerpo
+Bordes
+
+La tabla debe tener estos elementos: Elemento donde poner el color, Color en Hexadecimal, Visual (inserta un cuadro de placeholder con el color), Nombre del color en palabras, Emoción que expresa.  Debes poner 1 tabla por cada variante.
+
+En la conclusión, añade tu opción preferente de todas las variantes. También añade otra linea en negrita que diga "Si quieres más variantes de colores pídemelas -> Mándame 2 variantes más".
+
+Escribe toda tu respuesta en [TARGETLANGUAGE]

@@ -11,4 +11,29 @@ ID: 1797646049503080448
 PromptHint: [write a short premise of the book.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797646049503080448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Complete Book in One Click"](https://www.aiprm.com/prompts/copywriting/writing/1797646049503080448/)_"
+---
+Act as an Expert Book Writer.
+Generate book title with provided keywordEnglish 
+Generate 15 book chapters with the title provided and list themEnglish 
+Generate detailed book intro with the title provided and more then 500 wordEnglish
+Write Chapter 1 with detailed information and more then 1000 wordsEnglish
+Write Chapter 2 with detailed information and more then 1000 wordsEnglish
+Write Chapter 3 with detailed information and more then 1000 wordsEnglish
+Write Chapter 4 with detailed information and more then 1000 wordsEnglish
+Write Chapter 5 with detailed information and more then 1000 wordsEnglish
+Write Chapter 6 with detailed information and more then 1000 wordsEnglish
+Write Chapter 7 with detailed information and more then 1000 wordsEnglish
+Write Chapter 8 with detailed information and more then 1000 wordsEnglish
+Write Chapter 9 with detailed information and more then 1000 wordsEnglish
+Write Chapter 10 with detailed information and more then 1000 wordsEnglish
+Write Chapter 11 with detailed information and more then 1000 wordsEnglish
+Write Chapter 12 with detailed information and more then 1000 wordsEnglish
+Write Chapter 13 with detailed information and more then 1000 wordsEnglish
+Write Chapter 14 with detailed information and more then 1000 wordsEnglish
+Write Chapter 15 with detailed information and more then 1000 words.
+All output should be in [TARGETLANGUAGE].
+Write a book on [PROMPT]
 

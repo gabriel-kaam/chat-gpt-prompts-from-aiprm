@@ -11,4 +11,24 @@ ID: 1798268029814181888
 PromptHint: [Summarized text that you want to create the video script from]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1798268029814181888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Youtube Video Script from Transcript"](https://www.aiprm.com/prompts/marketing/social-media/1798268029814181888/)_"
+---
+Create a detailed written youtube video script that takes between 8-20 minutes to read using 1500-4000 words, that is ready to be read out loud from a first-person perspective in present tense sound like a real human. Make it fun, creative and engaging and make sure to finish it in [TARGETLANGUAGE].  
 
+KEY MESSAGE:
+Start directly with one sentence what exactly the viewer will learn in this video and add 2-3 sentences that make the viewer want to hear more addressing the possible pain points, needs and solution about the main topic and title.
+
+INTRO:
+Then create a paragraph with a rewritten and convincing variation that makes the views trust in me from this:
+
+Hello, my name is Marvin. I bring people together to help build and grow a successful business. I want to help you make a living and enjoy your freedom.  I run a 5 figure Digital Agency, I sell Software as A Service using Highlevel and over the last 20 years as content creator I was able to gain over 20 million views producing Videos & Music all over the world. Be your own Boss - Let's Make This Your Moment.
+
+BULLET POINTS:
+Now, after that follow up with well-structured bullet points using emoijs instead of bullet points. Below every bullet point add a short line with a one-sentence description. Replace all names with the word I and write from the I-form.
+
+TIME: 
+Then add a line with a time emoij: How long it takes to read the script in minutes.
+
+For all of that, use a rephrased version of this text: [PROMPT]

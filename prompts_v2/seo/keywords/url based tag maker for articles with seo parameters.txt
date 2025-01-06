@@ -11,4 +11,21 @@ ID: 1786328408175939584
 PromptHint: [URL with article that you need tags for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1786328408175939584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "URL based TAG maker for articles with SEO parameters"](https://www.aiprm.com/prompts/seo/keywords/1786328408175939584/)_"
+---
+Your task is to create and organise in table format TAGS for an article under [PROMPT]. TAGS shouldn't be longer than 20 letters. The amount of TAGS should be 20 or more. All output shall be in [TARGETLANGUAGE].
 
+Organise TAGS into 3 columns. Names of the columns shall be respectively:
+1. Name 
+2. SEO value
+3. Article Relevance
+
+In first column show the actual tag.
+
+In the second column, assign a value in the range 1-100 to the tag. This value shall be based on the strength of the keyword that the tag represents.
+
+In the third column show a counter of how many times in the content under the [PROMPT] the TAG is used or how many times the content the TAG describes is present.
+
+At the end of the text, add a note explaining what every column represents. Make sure that everything is in [TARGETLANGUAGE].

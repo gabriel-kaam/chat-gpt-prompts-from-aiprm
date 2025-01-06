@@ -11,4 +11,18 @@ ID: 1795161949089304576
 PromptHint: [enter your article here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1795161949089304576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pro Blogger V1.5  "Updated""](https://www.aiprm.com/prompts/seo/writing/1795161949089304576/)_"
+---
+act as professional writer who's expert in SEO, all the output shall be in [TARGETLANGUAGE], make deep research based on the targeted keyword in the prompt and generate at least 2000 words article based on the following:
+- blog post optimized title
+- make outlines strategy with focus related keywords and add long paragraph for each outline but don't list the outlines , just add each outline separate with content and explanation  
+- use markdown format with h2 ,h3 and list points
+-make sure to include in the middle of the content some useful table
+-add at least 3 quotes related from authority websites related to the topic with embed link back to the source
+- make the blog post very helpful and engaging 
+- give accurate information that makes the content an authority in the field
+-don't copy from other sites make the content unique
+- add 5 faq with  answers 
+- give at least 5 examples , solutions and help for the readers   [PROMPT]

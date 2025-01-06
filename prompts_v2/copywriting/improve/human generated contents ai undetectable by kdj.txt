@@ -11,4 +11,12 @@ ID: 1795887145379172352
 PromptHint: [Paste Your Article Contents Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1795887145379172352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human Generated Contents (AI Undetectable By KDJ)"](https://www.aiprm.com/prompts/copywriting/improve/1795887145379172352/)_"
+---
+Hope You Understand [TARGETLANGUAGE].
 
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand? 
+
+If you understand, using the concepts written above, rewrite this article with high degree of perplexity and burstiness: [PROMPT].

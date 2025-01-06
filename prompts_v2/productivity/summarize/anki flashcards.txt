@@ -11,4 +11,8 @@ ID: 1826384118523629568
 PromptHint: Digite qual o assunto dos flashcards
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1826384118523629568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Anki flashcards"](https://www.aiprm.com/prompts/productivity/summarize/1826384118523629568/)_"
+---
+[TARGETLANGUAGE] [PROMPT]. Create 10 different flashcards about [KEYWORD]. Put them in CSV format with the question in the first column and  answer and an exemple in the second column, using semicolons to separate the columns. Enclose the text in a code block. Retire os numeros do inicio das perguntas. 

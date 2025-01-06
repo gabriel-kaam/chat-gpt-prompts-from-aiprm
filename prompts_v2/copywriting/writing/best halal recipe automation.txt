@@ -11,4 +11,90 @@ ID: 1942576131627298816
 PromptHint: [Link that you Want the recipe for ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1942576131627298816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Halal Recipe Automation "](https://www.aiprm.com/prompts/copywriting/writing/1942576131627298816/)_"
+---
 
+I want you to act as an expert cook, food blogger, cookbook writer. I need the output to be in English, with perfect paragraphs, spacing, tags and formatting. 
+for each  [INPUT]  I need you to create the material for ONE recipe that I will copy-paste. 
+
+Please provide a recipe without including the strings 'Recipe Name', 'Fancy Recipe Name', 'Recipe', 'tags' in the output.
+Start the output with the following 
+"
+_____HERE IS YOUR OUTPUT_____
+
+1. _____Recipe Name_____
+2. _____Fancy Recipe Name_____
+3. _____Recipe_____
+4. _____1 Midjourney Prompt_____
+
+ ## If I don't follow this list perfectly, please restart prompt
+"
+
+Important : If any of the following ingredients are detected: Wine, Vin, Vino, Grape wine, Alcohol, Rhum, Ron, Spirit, Liquor, Pork, Swine, Pig meat, Hog, Ham, Gammon, Prosciutto, bacon , the response should be 'This recipe Is Haram,' prompt should stop, and the forbidden ingredient should be identified.
+
+Insert OUTPUT
+TEMPLATE TO FOLLOW, do not add placeholders
+
+- Recipe Name
+- Fancy Recipe Name
+- Recipe (with Ingredients: Directions: , Prep Time: | Cooking Time: | Total Time | Kcal: | Servings: )
+- 20 related tags, on the same line
+- A midjourney prompt generator following exactly this structure. do not deviate from the below prompt
+
+amateur photo from reddit. taken with an iphone 5. Fancy Recipe Name : 
+
+-----
+AT THE END ASK THE USER:  _____The Output is finished_____
+Is there any section I need to rewrite? If yes, please give me section name + tweaks needed. "
+-----------------
+THIS IS AN EXACT TEMPLATE TO FOLLOW with the example of Quinoa Stuffed Bell Peppers, DO NOT DEVIATE, JUST FOLLOW THIS EXACT TEMPLATE WITH A NEW RECIPE YOU CHOOSE based on the [INPUT]
+
+Quinoa Stuffed Bell Peppers
+
+_____Rainbow Bell Peppers Stuffed with Savory Quinoa and Veggies_____
+
+_____Ingredients:_____
+
+- 4 bell peppers
+- 1 cup quinoa
+- 2 cups water
+- 1 tablespoon olive oil
+- 1 onion, chopped
+- 2 cloves garlic, minced
+- 2 cups spinach, chopped
+- 1/2 cup sun-dried tomatoes, chopped
+- 1/4 cup pine nuts
+- 1/4 cup fresh basil, chopped
+- Salt and pepper to taste
+
+_____Directions:_____
+
+1. Preheat oven to 350°F (175°C).
+2. Cut off the tops of the bell peppers and remove the seeds and membranes.
+3. Rinse quinoa thoroughly in a fine-mesh strainer and then combine with water in a saucepan. 
+4. Bring to a boil, then reduce the heat and let simmer for 15-20 minutes, or until the water has been absorbed.
+5. While the quinoa is cooking, heat olive oil in a large skillet over medium heat. 
+6. Add the onion and garlic and sauté for 2-3 minutes, or until the onion is translucent.
+Add the spinach and sun-dried tomatoes to the skillet and cook for 2-3 minutes, or until the spinach is wilted.
+7. Add the cooked quinoa to the skillet and stir to combine with the vegetables. Remove from heat and stir in pine nuts, fresh basil, salt, and pepper.
+8. Stuff the quinoa mixture into the bell peppers and place them upright in a baking dish.
+9. Bake for 30-35 minutes, or until the peppers are tender and the tops are lightly browned.
+
+Prep Time: 15 minutes | Cooking Time: 35 minutes | Total Time: 50 minutes
+
+Kcal: 245 kcal | Servings: 4 servings
+
+#glutenfree #celiac #nogluten #glutenfreelifestyle #glutenfreefood #glutenfreediet #glutenfreerecipes #glutenfreeeats #glutenfreebaking #glutenfreevegan #glutenfreepizza #glutenfreesnacks #glutenfreesweets #glutenfreebreakfast #glutenfreehealth
+
+
+___________MIDJOURNEY PROMPT___________
+
+amateur photo from reddit. taken with an iphone 5. Fancy Recipe Name : Rainbow Bell Peppers Stuffed with Savory Quinoa and Veggies
+________________________
+The output  must be [TARGETLANGUAGE]
+
+You Need to create everything following the TEMPLATE TO FOLLOW starting from [INPUT]
+
+[PROMPT]

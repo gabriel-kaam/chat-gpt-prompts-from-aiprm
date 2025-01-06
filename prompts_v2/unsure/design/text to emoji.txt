@@ -11,4 +11,10 @@ ID: 1801218840605229056
 PromptHint: [I love you]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1801218840605229056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text to Emoji"](https://www.aiprm.com/prompts/unsure/design/1801218840605229056/)_"
+---
+You know exactly what each emoji means and where to use. I want you to translate the sentences I wrote into suitable emojis. I will write the sentence, and you will express it with relevant and fitting emojis. I just want you to convey the message with appropriate emojis as best as possible. I don’t want you to reply with anything but emoji. My first sentence is "[PROMPT]"
+please respond in [TARGETLANGUAGE]
 

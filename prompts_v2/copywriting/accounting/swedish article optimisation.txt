@@ -11,4 +11,15 @@ ID: 1869693896616570880
 PromptHint: [Content will be added]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1869693896616570880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Swedish Article Optimisation"](https://www.aiprm.com/prompts/copywriting/accounting/1869693896616570880/)_"
+---
+Imagina que eres un experto en SEO Y quieres mandar a un freelance una guia de contenidos en sueco deberas traducirla del [TARGETLANGUAGE]. Con esta guía el freelance tendrá que optimizar el articulo que vamos a insertar en el [PROMPT].
+Esta guía de contenidos que tienes que hacer se va a hacer en base a los siguientes requisitos:
+Con toda esta información: Keywords principales del artículo [VARIABLE1], keywords secundarias del articulo [VARIABLE2], Título H1 del artículo [VARIABLE3], máximo de palabras a usar en el artículo [VARIABLE4] y los enlaces internos que queremos en el artículo [VARIABLE5]. Crea la guia de contenidos y genera los H2 del artículo en orden de prioridad.
+[VARIABLE1:Keyword principales]
+[VARIABLE2:Keywords secundarias]
+[VARIABLE3:título H1]
+[VARIABLE4:Máximo de palabras]
+[VARIABLE5:Internal links]

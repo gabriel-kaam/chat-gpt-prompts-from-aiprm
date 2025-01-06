@@ -11,4 +11,9 @@ ID: 1898301896000290816
 PromptHint: [Keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1898301896000290816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Technology Clustering "](https://www.aiprm.com/prompts/productivity/respond/1898301896000290816/)_"
+---
+Provide terms that are not technology in any way, such as Concepts, Techniques, Methods and etc [PROMPT]
+write all output in [TARGETLANGUAGE].

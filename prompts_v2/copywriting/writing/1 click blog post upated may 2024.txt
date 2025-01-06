@@ -11,4 +11,10 @@ ID: 1783321631444430848
 PromptHint: [topic prompt]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1783321631444430848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "1 Click Blog Post [Upated May 2024]"](https://www.aiprm.com/prompts/copywriting/writing/1783321631444430848/)_"
+---
+Create a detailed content brief for [PROMPT] in [TARGETLANGUAGE]. Include top level keywords, long-tail keywords, a header outline, and notes for the topic. Then write suggested title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. After that, write some text underneath each subheader, with 250 words per H2 and 150 words per H3 tags. Put all this content into a detailed blog post in [TARGETLANGUAGE].
 
+Exclude terms like 'navigating', 'delve', 'expertise', and many others to avoid clichéd language. Try splitting sentences by lines where it's appropriate to avoid large blocks of text.

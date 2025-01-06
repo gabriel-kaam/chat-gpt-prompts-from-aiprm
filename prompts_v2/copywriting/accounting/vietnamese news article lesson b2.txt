@@ -11,4 +11,17 @@ ID: 1835549421027975168
 PromptHint: Just copy/paste a news article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1835549421027975168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Vietnamese News article lesson B2"](https://www.aiprm.com/prompts/copywriting/accounting/1835549421027975168/)_"
+---
+I am learning Vietnamese. My current level is intermediate B2.
+You will act as a teacher and teach me Vietnamese.
+You will answer using only 2 languages: [TARGETLANGUAGE] and Vietnamese.
+Please write a complete lesson about the news article below. First, you will provide a part that helps with understanding the new article. This first part includes a list of the complex vocabulary (with the translation in [TARGETLANGUAGE]) that is essential to understand the news article.
+In the second part, you will provide some questions in Vietnamese that I will need to answer in order to confirm my understanding of the text. 
+In the last part, you will provide the answers for part 2, all in Vietnamese.
 
+Here is the article:
+
+ [PROMPT]

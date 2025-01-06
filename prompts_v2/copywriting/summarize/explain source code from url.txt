@@ -11,4 +11,12 @@ ID: 1820212500172636160
 PromptHint: [URL to fetch code from]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1820212500172636160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Explain source code from URL"](https://www.aiprm.com/prompts/copywriting/summarize/1820212500172636160/)_"
+---
+Explain the following source code below to me like I am 18 yers old in [TARGETLANGUAGE] language, please.
 
+Source of the source code: [PROMPT]
+
+[CRAWLEDSOURCECODE]

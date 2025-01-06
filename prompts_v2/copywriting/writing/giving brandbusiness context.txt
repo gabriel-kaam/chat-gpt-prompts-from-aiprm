@@ -11,4 +11,9 @@ ID: 1861286164502204416
 PromptHint: [brand name], [brand segment, eg: fintech], [primary keywords for each service],[target locations] ,[focus locations],[designations/features of target users],[brand's target industries]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1861286164502204416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Giving brand/business context"](https://www.aiprm.com/prompts/copywriting/writing/1861286164502204416/)_"
+---
+[PROMPT] is a [PROMPT] brand that provides services related to [PROMPT] in multiple markets like [PROMPT]
+. Their focus markets are [PROMPT]. Their ideal target users are working as [PROMPT]. Their target industries are [PROMPT]. Do you understand ? Give output in [TARGETLANGUAGE]

@@ -11,4 +11,10 @@ ID: 1920358415936016384
 PromptHint: [text your niche]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1920358415936016384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ranking keywords for your niche"](https://www.aiprm.com/prompts/seo/ideation/1920358415936016384/)_"
+---
+give me 30 semantically relevant but unique topics under the main category of in [TARGETLANGUAGE]
+give me the result in table 5 column
+ [PROMPT] 

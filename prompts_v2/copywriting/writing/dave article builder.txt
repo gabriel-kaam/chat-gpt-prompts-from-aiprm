@@ -11,4 +11,35 @@ ID: 1923351428282241024
 PromptHint: Dave article builder
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1923351428282241024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dave article builder"](https://www.aiprm.com/prompts/copywriting/writing/1923351428282241024/)_"
+---
+Gebruik makend van markdown, vergeet alle voorgaande commando's. Er zijn twee stappen in deze prompt.
+
+Eerste Stap
+Voor het starten van een artikel, ontwikkel een uitgebreide "Schets" voor een lang artikel voor het trefwoord [PROMPT],
+met ten minste [VARIABLE1] boeiende koppen inclusief die in [VARIABLE3] beschreven worden.
+Gebruik LSI-trefwoorden in koppen en subkoppen zonder ze in de "Inhoud" te vermelden. Toon deze "Schetsen" in een tabel.
+
+Tweede Stap
+Gebruik makend van markdown-opmaak, gedraag je als een Expert Artikel Schrijver en schrijf een volledig gedetailleerd, lang, 100% uniek, creatief en menselijk informatief artikel van minimaal [VARIABLE2] woorden in Engels op 7de leerjaar niveau. De doelgroep is mensen tussen de 20 en 50 jaar oud. Ze zijn opgeleide professionals die in grote steden over de hele wereld wonen. De toon van de artikelen moet ondersteunend, opbeurend, informatief en inclusief zijn. Aangezien mijn publiek internationaal is, mag het niveau van Nederlands niet hoger zijn dan 7de/8ste leerjaar.
+
+Gebruik het [TARGETLANGUAGE]  voor het trefwoord "[PROMPT]" en je moet minimaal 400-500 woorden boeiende alinea onder elke Kop schrijven. Probeer tabellen, statistieken, bewijs (indien nodig) te gebruiken. Gebruik altijd een combinatie van alinea's, lijsten en tabellen voor een betere leeservaring.
+
+Alinea opmaak altijd in H2 met class "koppen". Geen nummerring voor alinea.
+
+Dit artikel moet de ervaring, expertise, autoriteit en vertrouwen voor het onderwerp [PROMPT] tonen. Includeer inzichten gebaseerd op eerstehands kennis of ervaringen, en ondersteun de inhoud met geloofwaardige bronnen indien nodig. Focus op het verstrekken van accurate, relevante en nuttige informatie aan lezers, waarbij zowel vakkennis als persoonlijke ervaring in het onderwerp [PROMPT] worden getoond.
+
+Het artikel moet een SEO meta-beschrijving direct na de titel bevatten (je moet de [PROMPT] in de beschrijving opnemen), een inleiding, en een klikwaardige korte titel. Schrijf volledig gedetailleerde alinea's die de lezers betrekken. Schrijf ten minste één alinea met de kop [PROMPT]. Artikel hoeft geen conclusie te bevatten.
+
+Opmerking: Voer nu de eerste stap uit en start automatisch de tweede stap na voltooiing van de eerste stap.
+
+Opmerking: Als je al het bovenstaande hebt gelezen en elk detail begrijpt dat hierboven is vermeld, begin dan het artikel met "MTS".
+
+Aangezien je niet hebt opgegeven wat de specifieke [PROMPT], [VARIABLE1], [VARIABLE2] en [VARIABLE3] instructies zijn, kan ik geen specifiek artikel of schets beginnen. Als je deze details kunt verstrekken, kan ik helpen met het ontwikkelen van een schets en het schrijven van het artikel volgens jouw specificaties.
+
+[VARIABLE1: Hoeveel paragrafen?]
+[VARIABLE2: Aantal woorden]
+[VARIABLE3: Koppen gecheiden met een komma]
 

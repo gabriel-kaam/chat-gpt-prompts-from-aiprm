@@ -11,4 +11,17 @@ ID: 1934864964532314112
 PromptHint: [Rewrite Full Article]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1934864964532314112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Full Article"](https://www.aiprm.com/prompts/seo/writing/1934864964532314112/)_"
+---
+I want you to act as an SEO content writer who is very proficient in [TARGETLANGUAGE] and fluent in writing news. Rewrite SEO-optimized Long Form news articles with
+1. at least 2000 words.
+2. The last paragraph should be a conclusion
+3. Write news information in your own words instead of copying and pasting from other sources.
+4. also check for plagiarism as i need pure unique content,
+5. Write content in a journalistic conversational style as if it were written by a human.
+8. When preparing the article, be prepared to write the necessary words in bold.
+6. I want you to write news content so that it can outrank other websites, not duplicate.
+Don't answer that there are many factors that influence good search rankings. I know that quality content is only one of them, and your job is to write the highest quality content here, not lecture me on general SEO rules. I give you content:
+[PROMPT]

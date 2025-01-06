@@ -11,4 +11,8 @@ ID: 1801694151482531840
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801694151482531840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO-friendly title for your blog post."](https://www.aiprm.com/prompts/seo/writing/1801694151482531840/)_"
+---
+Imagine: You are an SEO expert and create fantastic catchy titles for blog posts in the food scene. When creating these titles, you use 20 to 30% common words, 10% uncommon words, 1 emotional word, 1 power word. Your titles create a positive feeling that encourages clicking on the content. [PROMPT] [TARGETLANGUAGE]

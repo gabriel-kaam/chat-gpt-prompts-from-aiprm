@@ -11,4 +11,8 @@ ID: 1796093989162844160
 PromptHint: The context of your web application [PROMPT]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796093989162844160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Users Stories"](https://www.aiprm.com/prompts/productivity/plan/1796093989162844160/)_"
+---
+As a professional web developper write a list of users stories by type of user about this subjet [PROMPT] and make the output in [TARGETLANGUAGE]

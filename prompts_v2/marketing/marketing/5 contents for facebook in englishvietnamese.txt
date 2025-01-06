@@ -11,4 +11,14 @@ ID: 1859376667534553088
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1859376667534553088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Contents for Facebook in English/Vietnamese"](https://www.aiprm.com/prompts/marketing/marketing/1859376667534553088/)_"
+---
+Your task is to write me 10 long-length Facebook content  in both [TARGETLANGUAGE] English and Vietnamese with a short title in both English and Vietnamese for each topic. Don't use emojis.  The topic  to write about is this: 
+
+[PROMPT]
+generate at least 80 to 100 words for each topic.
+Don't use emojis
+Include a hook for each topic.
 

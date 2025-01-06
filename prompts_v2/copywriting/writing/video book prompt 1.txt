@@ -15,4 +15,31 @@ ID: 1805237477708136448
 PromptHint: Give your story a title, setting, protagonist description, Conflict for the story, and last the type of genre for the story.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1805237477708136448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Video Book Prompt. 1"](https://www.aiprm.com/prompts/copywriting/writing/1805237477708136448/)_"
+---
+[TARGETLANGUAGE] [PROMPT]
+
+Title: {Insert story title here}
+
+Setting: [{nsert setting details here, including time period, location, and any relevant background information}
+
+Protagonist: {Insert protagonist’s name, age and occupation, as well as a brief description of their personality and motivations}
+
+Antagonist: [insert antagonist’s name, age, and occupation, as wll as a brief description of their personality and motivations]
+
+Conflict: {Insert the main conflict of the story, including the problem the protagonist faces and the takes involved}
+
+Dialogue: [Instructions for using dialogue to advance the plot, reveal character, and provide information to the reader]
+
+Theme: [Insert the central theme of the story and instructions for developing it throughout the plot, character, and setting]
+
+Tone: [Insert the desired tone for the story and instructions for maintaining consistency and appropriateness to the setting and characters]
+
+Pacing: [Instructions for varying the pace of the story to build and release tension, advance the plot, and create dramatic effect]
+
+Fill out the template above for a {Genre} story
+
+
 

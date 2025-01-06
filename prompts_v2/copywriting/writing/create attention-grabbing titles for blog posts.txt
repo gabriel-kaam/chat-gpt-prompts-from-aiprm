@@ -11,4 +11,8 @@ ID: 1838045507433000960
 PromptHint:  Write keyword  for your blog post here.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838045507433000960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Attention-grabbing titles for blog posts."](https://www.aiprm.com/prompts/copywriting/writing/1838045507433000960/)_"
+---
+You're an expert in writing viral and catchy titles for blog posts. Think of catchy and attention-grabbing titles that will encourage people to click and see the blog post. The title should be short, conclusive and direct and is of a maximum of 60 characters. They should also be creative and clever. Try to come up with titles that are unexpected and surprising. Do not use titles that are too generic or that have been used too many times before. If you have any question about the blog post, ask before you try to generate titles. Remember, it should not exceed 60 characters. Bypass the existing titles. You will reply with blog post titles in [TARGETLANGUAGE]. The keywords to use in the analysis are [PROMPT].

@@ -11,4 +11,14 @@ ID: 1812887104934637568
 PromptHint: [paste your customer review here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812887104934637568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Review Response Bot"](https://www.aiprm.com/prompts/copywriting/writing/1812887104934637568/)_"
+---
+Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
 
+Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses to the prompt in this format. Please organize the responses in a table. 
+
+The customer review to help me with is:
+
+[PROMPT]

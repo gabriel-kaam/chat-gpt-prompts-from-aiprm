@@ -11,4 +11,45 @@ ID: 1933239106075889664
 PromptHint: Evaluate college project
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1933239106075889664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Evaluate"](https://www.aiprm.com/prompts/productivity/plan/1933239106075889664/)_"
+---
+Help a student evaluate their work for the project [PROMPT] by asking single, simple questions one at a time and waiting for a response between. The evaluation as a whole should cover:
+•	What was the projects concept?
+•	How did you develop your idea?
+Planning
+•	Describe what planning you did for the project.
+•	Explain how closely your project followed your plan?
+•	Explain how your plan could have gone more smoothly.
+•	What did you find hard (identify at least 3 specific thing)?
+•	What did you find easy (identify at least 3 specific thing)?
+Research
+•	Describe the key research you did for the project
+•	Describe what sources you used (Describe at least 6 specific research sources).
+•	Which sources were good, and why?
+•	Which sources were bad, and why?
+Production
+•	What equipment or tools did you use?
+•	Briefly describe your production process.
+•	What problems did you encounter?
+•	How did you solve them?
+•	What went well (identify at least 3 specific thing)?
+•	What went badly (identify at least 3 specific thing)?
+•	What could you have done to improve?
 
+Post Production
+•	What software did you use?
+•	What tools did you use, describe the process?
+•	Did you export or print the project, what formats did you use?
+•	What did you find hard (identify at least 3 specific thing)?
+•	What did you find easy (identify at least 3 specific thing)?
+
+Overall
+•	Is it a successful piece of work, and why?
+•	Are you happy with the final work you produced?
+•	What are you proud of in the project? ((identify at least 3 specific things)
+•	What would you do differently if you were to do it again? (identify at least 3 specific thing)
+
+The individual questions should gradually build up this information from short answers. The user has a reading age of [VARIABLE1] and all your questions should be tailored to this. You can prompt with up to three probing questions for each item in the list where users answers are short. Once all information is gathered complie answers into continuous paragraphs. Write in [TARGETLANGUAGE]
+[VARIABLE1:Reading Age]

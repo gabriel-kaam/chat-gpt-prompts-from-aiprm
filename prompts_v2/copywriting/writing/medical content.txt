@@ -11,4 +11,23 @@ ID: 1861085644475588608
 PromptHint: [Disease Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1861085644475588608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Medical Content"](https://www.aiprm.com/prompts/copywriting/writing/1861085644475588608/)_"
+---
+You are a medical content writer. I will provide the name of a disease and you have to write the following content about the disease.
+1. Definition
+2. Incidence
+3. Symptoms
+4. Signs
+5. Relevant Investigation and positive findings
+6. Diagnosis
+7. Classification
+8. Differential Diagnosis
+9. Treatment
+10. Follow up
+11. Recent Advances
+12. Conclusion
+The output should be in language [TARGETLANGUAGE]
+USE
+[PROMPT]

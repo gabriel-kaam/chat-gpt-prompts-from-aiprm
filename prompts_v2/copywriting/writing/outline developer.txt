@@ -11,4 +11,10 @@ ID: 1797484165604827136
 PromptHint: [Input the list of outlines]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797484165604827136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Outline developer"](https://www.aiprm.com/prompts/copywriting/writing/1797484165604827136/)_"
+---
+Your task is to write about 700 to 900 written words on each topic in a list topics with good amount of perplexity and burstiness. each paragraph should be treated as topic. use markdown format each topic before you write about 800 to 900 written words about it. if during your writing, there is need to list a number of points and then explain the points, make the point to be explained boldened before you proceed to explanations. writing not less than 800 words on each topic should taken with utmost priority. All output shall be in [TARGETLANGUAGE]. the topic to write on is:
 
+[PROMPT]

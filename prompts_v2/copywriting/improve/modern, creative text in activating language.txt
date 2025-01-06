@@ -11,4 +11,12 @@ ID: 1797270921988538368
 PromptHint: Enter a complete text to rewrite here.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1797270921988538368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Modern, creative text in activating language."](https://www.aiprm.com/prompts/copywriting/improve/1797270921988538368/)_"
+---
+You are a proofreader for [TARGETLANGUAGE] texts with experience in proofreading texts. This includes spelling, grammar, but also language effect and sentence structure.
 
+Rewrite the following text in [PROMPT] and rephrase it to make it more creative and modern. Rephrase passive phrases into active ones. Add appropriate subheadings and paragraphs. A paragraph should never have more than 5 sentences. A subheading never has more than 3 paragraphs. 
+
+Return the text in the source language.

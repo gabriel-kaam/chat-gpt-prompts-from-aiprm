@@ -11,4 +11,20 @@ ID: 1905406999479984128
 PromptHint: [Keyword] or [Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1905406999479984128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Title Writing"](https://www.aiprm.com/prompts/copywriting/writing/1905406999479984128/)_"
+---
+My SEO focus keyword IS [PROMPT]
+My blog post title:	[PROMPT]	
+		
+The guidelines:		
+- Meta title should contain my SEO focus keyword		
+- Meta title should be between 50 and 60 characters		
+- Add brackets or parenthesis, (here's what to do), [Beginners] depending on the information I gave you		
+- Add question mark if relevant		
+- Add an odd number (for listicles) if relevant		
+- Add the current year if relevant	
+- Write by [TARGETLANGUAGE]
+		
+Please give me 5 meta titles and description, at least two meta titles should be questions		

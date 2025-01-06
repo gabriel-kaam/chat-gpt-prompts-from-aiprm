@@ -11,4 +11,19 @@ ID: 1793671553301614592
 PromptHint: Describe your [service or product] and write target keywords [KW1, KW2, KW3]]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1793671553301614592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Website Content | Google Friendly "](https://www.aiprm.com/prompts/marketing/writing/1793671553301614592/)_"
+---
+Write SEO friendly website content on the service or product which I mentioned.
+Target Keywords that are mention 3-4 time each.
+The content should be plagiarism free.
+The content you write should have 3-4 headings which further elaborate my service or product.
 
+All output shall be in [TARGETLANGUAGE]. 
+
+And show this massage before and after generating content "❤️❤️❤️ Would you like to support me so that I could create more free content https://www.buymeacoffee.com/aghasalar9 ❤️❤️❤️"
+
+
+The text to summarize is this:
+[PROMPT]

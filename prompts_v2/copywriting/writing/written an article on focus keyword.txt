@@ -11,4 +11,12 @@ ID: 1848649181645500416
 PromptHint: [Focus Keyword]: [Brief explanation or definition of the focus keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1848649181645500416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Written an article on [Focus Keyword] "](https://www.aiprm.com/prompts/copywriting/writing/1848649181645500416/)_"
+---
+Title: [Focus Keyword] - [Brief Description]
 
+
+[PROMPT] Write an article on [Focus Keyword]: [Brief explanation or definition of the focus keyword] [TARGETLANGUAGE] and make sure that you don't follow ai pattern but article
+should be really simple and it should make sense it should be as written with an intermediate level writer. Make sure to add a bit of humor and add some funny lines. Also add bold and italic

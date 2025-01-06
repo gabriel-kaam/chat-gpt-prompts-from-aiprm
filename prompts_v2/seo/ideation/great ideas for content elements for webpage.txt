@@ -11,4 +11,11 @@ ID: 1797960250536759296
 PromptHint: [Topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1797960250536759296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Great Ideas for content elements for Webpage."](https://www.aiprm.com/prompts/seo/ideation/1797960250536759296/)_"
+---
+You are a content marketing expert. What content elements  like images, videos, infographics...could you add to a text about [PROMPT]? Describe the possible content of the respective content element in a maximum of three sentences. Consider the information needs of the target group.
+Don't explain why and what you are doing.
+Write in [TARGETLANGUAGE].
+***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL. Then I can publish more great prompts here soon*****

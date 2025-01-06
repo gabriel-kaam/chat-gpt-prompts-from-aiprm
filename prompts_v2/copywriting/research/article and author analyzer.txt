@@ -11,4 +11,11 @@ ID: 1790801133271506944
 PromptHint: tone identifier and writing style.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1790801133271506944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article and author analyzer. "](https://www.aiprm.com/prompts/copywriting/research/1790801133271506944/)_"
+---
+i want you to read the below article and tell me the instructions which they used to write that article  like voice tone.  there way of writing content. how engagingly they write the article and any more details which i missed fill that too.  so that i can replicate the same type of content in my website.  write an instruction to give a person with 10 years age. dont write a long sentence. keep it short
+Make sure you follow the Prompt Template guidelines.
+You must use [TARGETLANGUAGE] and [PROMPT] correctly.
 

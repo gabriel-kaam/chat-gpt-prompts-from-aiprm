@@ -11,4 +11,8 @@ ID: 1791611888677945344
 PromptHint: Article Title
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1791611888677945344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an SEO article Not less than 1000 words V.2"](https://www.aiprm.com/prompts/seo/writing/1791611888677945344/)_"
+---
+Write an SEO article Not less than 1000 words on [PROMPT] with a Hook, introduction and bold the H1, H2 and H3, with the Conclusion . All output shall be in [TARGETLANGUAGE] For more information about us, visit our site at --> https://playgames-id.blogspot.com"

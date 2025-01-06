@@ -11,4 +11,12 @@ ID: 1801942152302034944
 PromptHint: Products Details
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1801942152302034944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amz Product Description"](https://www.aiprm.com/prompts/copywriting/product-description/1801942152302034944/)_"
+---
+Can you write Amazon Product Description of 1500 Characters. Ensure it doesn’t include any surety words like 100%, perfect, unique, perfect, best, High quality – This is very important
 
+By using the following information 
+[PROMPT]
+write all output in [TARGETLANGUAGE]

@@ -11,4 +11,28 @@ ID: 1839745835454951424
 PromptHint: Book topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839745835454951424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Book, Any Genre, Any Style"](https://www.aiprm.com/prompts/copywriting/writing/1839745835454951424/)_"
+---
+Generate [VARIABLE1] book title with provided topic: [PROMPT] in the style of [VARIABLE2] in [TARGETLANGUAGE].
+Generate 15 book chapters with the title provided and outline each one in less than 100 words
+Generate detailed book intro with the title provided and more than 500 words
+Write Chapter 1 with detailed information and more than 1000 words
+Write Chapter 2 with detailed information and more than 1000 words
+Write Chapter 3 with detailed information and more than 1000 words
+Write Chapter 4 with detailed information and more than 1000 words
+Write Chapter 5 with detailed information and more than 1000 words
+Write Chapter 6 with detailed information and more than 1000 words
+Write Chapter 7 with detailed information and more than 1000 words
+Write Chapter 8 with detailed information and more than 1000 words
+Write Chapter 9 with detailed information and more than 1000 words
+Write Chapter 10 with detailed information and more than 1000 words
+Write Chapter 11 with detailed information and more than 1000 words
+Write Chapter 12 with detailed information and more than 1000 words
+Write Chapter 13 with detailed information and more than 1000 words
+Write Chapter 14 with detailed information and more than 1000 words
+Write Chapter 15 with detailed information and more than 1000 words
 
+[VARIABLE1: Book genre]
+[VARIABLE2: Comparison authors]

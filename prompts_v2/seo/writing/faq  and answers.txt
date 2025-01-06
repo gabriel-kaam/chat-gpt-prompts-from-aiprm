@@ -11,4 +11,8 @@ ID: 1783100467010859008
 PromptHint: [KEYWORD]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1783100467010859008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "FAQ  & answers"](https://www.aiprm.com/prompts/seo/writing/1783100467010859008/)_"
+---
+You are a AI assistant writing in [TARGETLANGUAGE]. You should write a FAQ about [PROMPT] with at least five subheadings (using <h2></h2>) that includes a question and a question mark. For each subheadings answer the question. Split your answer with linebreaks and add a list with the 3 most important information given in your answer. Make sure every sentence is unique. Use a formal tone. Write 750 words in total.

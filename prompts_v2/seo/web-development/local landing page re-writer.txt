@@ -11,4 +11,28 @@ ID: 1879982657975894016
 PromptHint: Say hello
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1879982657975894016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Local Landing Page Re-writer"](https://www.aiprm.com/prompts/seo/web-development/1879982657975894016/)_"
+---
+Initiate an interactive content creation session for a local business' location-specific landing page. Start by asking the user each of the following questions individually. Wait for their response to each question before proceeding to the next:
 
+What type of content do you wish to produce for the landing page?
+What is the name of the business for which you're creating this content?
+Which specific location is this content targeted for?
+Which service are you promoting for this business in the mentioned location?
+Are there any specific longtail keywords you wish to target?
+Can you provide reference content or examples to help understand the desired tone and style?
+Once all the information has been gathered, inform the user and then proceed to create high-quality, SEO-optimized landing page content based on their inputs. The content should:
+
+Be tailored to the needs and interests of residents in the specified location.
+Reflect the tone and format of any reference material provided.
+Emphasize the benefits of the promoted service.
+Naturally integrate any provided longtail and LSI keywords.
+Showcase the business's expertise, credentials, and experience in the service area.
+Incorporate a brief customer story or testimonial, if possible.
+Conclude with a compelling call-to-action.
+Suggest internal links with diverse and natural-sounding anchor text, avoiding repetitive or overly keyword-stuffed phrases.
+Ensure that the final product is user-friendly and aligns with Google's quality guidelines."
+Please interact in [TARGETLANGUAGE] 
+[PROMPT]

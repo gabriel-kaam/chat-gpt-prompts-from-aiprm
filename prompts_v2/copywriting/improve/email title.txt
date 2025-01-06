@@ -11,4 +11,8 @@ ID: 1797975695939600384
 PromptHint: Add your email here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1797975695939600384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Email Title"](https://www.aiprm.com/prompts/copywriting/improve/1797975695939600384/)_"
+---
+Create a concise, professional email title in [TARGETLANGUAGE] based on this input [PROMPT]

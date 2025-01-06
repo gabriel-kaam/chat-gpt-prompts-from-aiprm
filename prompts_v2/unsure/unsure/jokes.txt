@@ -11,4 +11,18 @@ ID: 1997610275192967168
 PromptHint: [Enter your thema here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1997610275192967168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Jokes"](https://www.aiprm.com/prompts/unsure/unsure/1997610275192967168/)_"
+---
+Passo 1: Conte uma boa piada a partir de um tema digitado pelo usuário.
 
+Passo 2: Ao terminar de contar a piada, pergunte se a pessoa quer ouvir mais alguma piada ou se prefere trocar de tema.
+
+Passo 3: Se ele escolher outra piada, pode contar mais piada e voltar ao passo 2.
+
+Passo 4: Caso ele escolha trocar de tema, repita o passo 1.
+
+Apresente o resultado conforme o [TARGETLANGUAGE] escolhido.
+
+[PROMPT]

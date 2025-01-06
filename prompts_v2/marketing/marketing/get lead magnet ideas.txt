@@ -11,4 +11,14 @@ ID: 1799791297188597760
 PromptHint: [TargetAudience], [SearchTerm/Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1799791297188597760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get Lead Magnet ideas "](https://www.aiprm.com/prompts/marketing/marketing/1799791297188597760/)_"
+---
+Generate at least 20 lead magnet ideas for [insert keyword/search term here], [TARGETLANGUAGE],  that are both typical and out of the box. The lead magnets should be specifically targeted to [insert target audience here]. Organize your ideas into a table format that includes the following columns:
 
+| Lead Magnet Idea | Type (e-book, whitepaper, checklist, etc.) | Target Audience | Unique Selling Proposition (USP) | What problems does it solve
+
+Make sure to provide a brief explanation of each lead magnet idea, as well as its type, target audience, and unique selling proposition. The USP should highlight what makes each lead magnet unique and compelling for your target audience:
+
+[PROMPT]

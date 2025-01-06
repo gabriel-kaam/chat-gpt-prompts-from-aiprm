@@ -11,4 +11,21 @@ ID: 1948154479308832768
 PromptHint: Insert the [recipe name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1948154479308832768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "facebook status"](https://www.aiprm.com/prompts/copywriting/accounting/1948154479308832768/)_"
+---
+Recipe to post
 
+1-Write a list of [recipe name] main ingredients as a list without quantities and avoid salt and pepper. list only the main ingredients.
+
+2-Generate mom review of this recipe. Talk informally about a personal experience, 1 line max.  Add Emojis.
+You can include family members or friends
+
+Put everything in a table: Column1= Recipe name, Column2= ingredients, Column3 = Mom review.
+
+
+[TARGETLANGUAGE] .
+
+
+[PROMPT]

@@ -11,4 +11,14 @@ ID: 1824860174683471872
 PromptHint: [keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1824860174683471872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "rewrite"](https://www.aiprm.com/prompts/seo/writing/1824860174683471872/)_"
+---
+تكلم وكانك الشركة 
+أريد فقرة تجارية تدعوا العملاء لطلب الخدمة
+استخدم اللغة  [TARGETLANGUAGE] الفصحى
+يوافق قواعد محركات البحث
+لا يظهر أنه منسوخ
+لا يتم كشفه أنه مكتوب بالذكاء الاصطناعي:
+[PROMPT]

@@ -11,4 +11,9 @@ ID: 1801886120246763520
 PromptHint: [Type Category]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1801886120246763520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate MCQ question in csv format"](https://www.aiprm.com/prompts/generative/dalle/1801886120246763520/)_"
+---
+generate 25 [KEYWORD] multiple-choice questions with four options  and corresponding answers (1, 2, 3, 4) in a csv format [TARGETLANGUAGE]
+ [PROMPT]

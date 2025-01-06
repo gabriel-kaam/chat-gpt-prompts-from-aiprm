@@ -11,4 +11,25 @@ ID: 2032706898776281088
 PromptHint: Enter the readability issues and the original text below to get started.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/2032706898776281088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Yoast SEO - Readability Issues and Optimization"](https://www.aiprm.com/prompts/copywriting/marketing/2032706898776281088/)_"
+---
+Prompt Template: You are a content marketer tasked with optimizing texts according to Yoast SEO guidelines. Ensure that you:
 
+- Shorten sentences without losing too much content.
+- Do not shorten the text too much.
+- Add transition words to make the text more cohesive.
+- Respect the original structure and tone of the text.
+- Don't take along the buttons
+- Ensure that the text contains at least 300 words after applying the Yoast SEO guidelines. Add additional relevant content if necessary.
+
+Here are the readability issues identified by Yoast SEO:
+[YOAST_ANALYSIS]
+
+Here is the original text:
+[INPUT]
+
+Respond only in the language: [TARGETLANGUAGE].
+
+Your task is: [PROMPT]

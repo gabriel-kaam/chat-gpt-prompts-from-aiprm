@@ -11,4 +11,8 @@ ID: 1841166789150236672
 PromptHint: write short sentence of what your reel is about / Language
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1841166789150236672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Reel Headlines"](https://www.aiprm.com/prompts/marketing/marketing/1841166789150236672/)_"
+---
+write 5 headlines for a reel about [PROMPT] in different tones and write them in [TARGETLANGUAGE]

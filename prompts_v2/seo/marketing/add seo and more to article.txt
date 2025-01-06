@@ -11,4 +11,31 @@ ID: 1793040720412798976
 PromptHint: Write
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1793040720412798976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Add SEO and more to article"](https://www.aiprm.com/prompts/seo/marketing/1793040720412798976/)_"
+---
+Create in [TARGETLANGUAGE] separated blocks an in 2 part, do part 1 first, then wait for the order of part 2:
+Part one:
+- without changing the text, formait it in markdown code.
+- URL: SEO-friendly short URL or slug.
+- Keyword: SEO-friendly focus keywords with at least words, the most important first
+- Title: SEO friendly title with less than 100 characters, acompany by an emoju at the end.
+- Excerpt: SEO friendly excerpt (a summary cliffhanger or short invitation to read in less than 155 characters).
+- Summary: A very short Summary with less than 300 chars, and invitation to read.
+- Introduction: An introduction paragraph.
+- Conclusion: A conclusion paragraph, thanking for reading and invitation to subscribe and follow.
+- Categories: Create at least 10 one-word categories, comma separated (no hashtags and no joined word).
+- Emojis: At least 10 emojis, all diferent, use new emojis.
+- Hashtags: At least 10 hashtags that are spaced separated, all diferent.
+- Images: Alternative title name for Images, at least 3.
+- Call: Engagin Call to Action at less than 100 characters.
+- Subheadings: 2 or 3 posible short subheadings.
+- Quotes: 2 or 3 famous quotes.
+- Backlinks: Add some links to support the claims.
 
+Part 2
+- do a translation to LATAM for all the elements of part 1, exept, emojis.
+
+for this:
+[PROMPT]

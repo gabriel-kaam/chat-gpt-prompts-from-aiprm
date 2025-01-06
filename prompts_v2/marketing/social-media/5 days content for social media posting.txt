@@ -11,4 +11,8 @@ ID: 1793826535346794496
 PromptHint: [Write your product or service here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1793826535346794496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Days Content For Social Media Posting"](https://www.aiprm.com/prompts/marketing/social-media/1793826535346794496/)_"
+---
+I want you to act as copywriter, create a content idea for 5 days social media post [PROMPT]. The output must include posting Date, Title and Content Copywriting. The Content Copywriting must be atleast 100 to 120 words including hashtag. Please create a table for the Date, Title and Content Copywriting. The output must be in [TARGETLANGUAGE].

@@ -11,4 +11,8 @@ ID: 1864369238073659392
 PromptHint: [Paste your article]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1864369238073659392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article rewriter"](https://www.aiprm.com/prompts/seo/writing/1864369238073659392/)_"
+---
+please act as a human writer in [TARGETLANGUAGE] language, and rewrite the below post as human, your rewrite content should be easy to read and understand. Which a 10 year old child can easily understand. Ignore hard hindi words in your rewrite content, like hard word in hindi is अनुसंधानकर्ता, but शोधकर्ता is easy for understand, this is the content for rewrite [PROMPT]

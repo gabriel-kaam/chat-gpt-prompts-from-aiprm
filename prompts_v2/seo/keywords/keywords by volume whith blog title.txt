@@ -11,4 +11,8 @@ ID: 1804842525828317184
 PromptHint: website url
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1804842525828317184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keywords By Volume Whith Blog Title"](https://www.aiprm.com/prompts/seo/keywords/1804842525828317184/)_"
+---
+Please look for the best keywords to position in google the web that I will tell you next. Create a table with the 10 keywords with the highest monthly global search volume, and a descriptive title to create the blog posts in [TARGETLANGUAGE] . The website is [PROMPT]

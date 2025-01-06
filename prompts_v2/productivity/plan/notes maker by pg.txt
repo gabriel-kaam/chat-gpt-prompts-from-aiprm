@@ -11,4 +11,9 @@ ID: 1885641786459426816
 PromptHint: Enter Subject Name and Chapter name with it's topics
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1885641786459426816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Notes Maker by PG"](https://www.aiprm.com/prompts/productivity/plan/1885641786459426816/)_"
+---
+Generate comprehensive university exam study notes on [Subject Name], focusing on the [Chapter Name] topic. Ensure clarity and include all relevant details to assist students in their exam preparations. The notes should be written in clear and concise [TARGETLANGUAGE].
+Your first task is to create notes for [PROMPT]

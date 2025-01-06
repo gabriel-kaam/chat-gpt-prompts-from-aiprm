@@ -11,4 +11,75 @@ ID: 1856928852057276416
 PromptHint: Enter your business Description
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1856928852057276416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The Perfect User Persona"](https://www.aiprm.com/prompts/marketing/marketing/1856928852057276416/)_"
+---
+Act like a user persona building expert. You get the following data as example. I want that you fill out the the table with a new angle. The new angle is that you are a [variable1]. All output should be in [TARGETLANGUAGE].
 
+[PROMPT]
+Here is the example data:
+Avatar	Person #1	Pete Malhomes
+Age		42-58
+Gender		Male
+Marital Status		In A Relationship
+#/Age of Children		0
+Location		Germany
+Occupation / Industry		Hardware StartUp
+Job Title		CEO, Founder, MD
+Annual Income (Revenue, Profit, or Income)		100,000€-160,000€
+Minimum Level of Education		Master of Science
+Books/Magazines		Manager Magazin, Wirtschaftswoche, Süddeutsche Zeitung, Atomic Habits, High output management
+Blogs/Websites		
+Social Media Platforms		Youtube, TikTok
+Gurus/Influencers		Tony Robbins, Gary V., Tim Ferris, Graham Stephen, Ryan Pineda, Mike Vestil, Kevin David
+Conferences		
+Competitors		
+Tribal Language		Financial Independence, Retire Early, Side Hustle, Passive Income
+Pain Points		Not feeling appreciated at the workplace, overwhelmed with so many options to make money online, feeling stuck, jealousy/frustration as other people online make more than you, frustrated because you can do so much more but aren’t, fear of losing job, fear of running out of money, feeling alone, fear of making mistakes, afraid of looking bad/foolish if you tried something new, fear of disappointing others, afraid to be scammed, feeling inadequate, feeling embarrassed for what you do
+Challenges		Not having the opportunity to make more income, not having enough disposable income, has already tried to make money online and failed, not knowing where to start on income journey, location dependent, lack of time, lack of time to learn a new skill / start a side hustle, not having community or leader, lack of support system, trading time for money, unable to find a suitable partner
+Goals		Have more time freedom, have higher income, have more disposable income, have emergency funds, be able to invest income, live a healthy lifestyle, live in a nice home/apartment, have a nice car, travel the world, be a provider (family, friends, loved ones), recognition, be respected by society/others, more location freedom, not having to look at price tags, have an impact on others, have/be part of a supportive community, live life on your own terms
+Values		Integrity, honesty, hard work, extreme ownership, altruistic, non-discriminatory, experimentation, persistence, optimistic, humility, courage, empathy, security
+Objections		Is this a scam? Is this too complicated? Will this work specifically for me? Do I have enough time? Will I be forever in debt? What if I don’t like it? What if I do a terrible job? What if I embarrass myself? Will I even be able to find clients? I need to speak with my partner. I need time to decide. It’s not the right time. Is this worth it? Is it oversaturated? What makes you different? It’s too expensive. I’ve been burned before.
+Relatable Story #1		"When I purchased my first “make money online” program I was afraid to tell anyone what I was doing. 
+
+My whole identity was around being a lawyer and I was worried that if someone saw me talking about online marketing they would call me a scam. 
+
+My goal was to be successful first, then I would tell my friends/family, almost to rub it in their faces. 
+
+I was so secretive that even the girl I was dating at the time didn’t know what I was trying to do. 
+
+One night at dinner with her father he asked her, “Honey, I need some help with my social media (he’s a plastic surgeon), do you know anyone that could help me?” 
+
+Before she even answered I responded back, “I can do it”, to which he responded, “you can?” and she responded, “you can?”."
+Relatable Story #2		"After I decided I wasn’t going to law school I had to get a job, it was no longer acceptable for me to be a college graduate not working because I was “studying for law school.” 
+
+I didn’t want to start in the corporate world because I knew that I wouldn’t be there for long and I wanted time to be able to work on my side hustle. 
+
+One of the only real options available for me then was to work at an Italian Restaurant (“il Giallo”) in Atlanta, GA. 
+
+This means that I was a college graduate, with no idea of what I wanted to do, working as a waiter making $2,000 / month. Not exactly the “sexiest” thing in the world. So anytime I went out on dates or to a bar I would tell women that I was an entrepreneur, even though that couldn’t be further from the truth."
+Background Story		"Henry is a college graduate working his unfulfilling job for 3 years. Every day he wakes up and scrolls online to see his friends/people he follows “crushing” life as he gets ready to live the exact same day again, for his 3rd year in a row. 
+
+He lives in an “un-inspiring” environment surrounded by “un-inspiring” people. At work, Henry simply feels like a cog in the wheel. 
+
+He wants to have more impact, learn, grow, and be appreciated, but he feels like he doesn’t even have the opportunity (and probably never will). 
+
+Henry spends his free time reading personal development books and watching Youtube videos on how to make money online. 
+
+Henry has even purchased a few courses for a few thousand dollars, but nothing changed for him in his life. Henry feels that if he doesn’t make a change soon he will waste the best years of his life. 
+
+He feels lost or confused about what the next step (or next couple of steps) should be and feels that everyone is trying to sell him something. 
+
+Henry has tried dating a few women, but constantly struggles to find a quality one, he believes because he does not have enough status. Henry feels awkward or embarrassed every time he talks with a woman because of where he works, what he does, what kind of car he drives, and what his apartment looks like. 
+
+Similar to women, Henry doesn’t like coming home for the holidays because his old friends/family will see that nothing has changed in the past 3 years. 
+
+Henry’s body is not where he wants it to be either, this is due to a lack of motivation, lack of funds, and lack of time. 
+
+Henry knows he has the potential to do so much, but feels he can’t find the right vehicle/path to take. He feels confused and overwhelmed at so many choices and goes from one opportunity to the other without really seeing any progress. 
+
+The main thing Henry wants out of life is progress. Henry wants to learn, wants to be accountable, wants to make a difference, but doesn’t even know where to start."
+Additional Notes		
+
+Output in a table.

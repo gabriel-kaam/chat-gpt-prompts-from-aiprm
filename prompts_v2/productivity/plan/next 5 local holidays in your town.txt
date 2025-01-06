@@ -11,4 +11,8 @@ ID: 1800916689198768128
 PromptHint: Tell me your City or Town (e.g. New York or Bilbao)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1800916689198768128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Next 5 Local holidays in your town!"](https://www.aiprm.com/prompts/productivity/plan/1800916689198768128/)_"
+---
+ Give me the next 5 most well-known holidays in [PROMPT], from today in [TARGETLANGUAGE]

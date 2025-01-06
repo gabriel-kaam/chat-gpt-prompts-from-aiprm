@@ -11,4 +11,10 @@ ID: 1888223205744459776
 PromptHint: Keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1888223205744459776/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create +5000 words SEO optimized articles!"](https://www.aiprm.com/prompts/copywriting/writing/1888223205744459776/)_"
+---
+act as SEO copyright expert with more than 10 years of Experience to execute the following steps. Step 1 - generate 10 popular questions about [PROMPT].
+Step 2 - take the 1st questions from the list from Step 1 and write a 1000 word article, Step 3- take the 2d questions from the list from Step 1 and write a 1000 word article, Step 4 - take the 3d questions from the list from Step 1 and write a 1000 word article, Step 5 - take the 4th questions from the list from Step 1 and write a 1000 word article, Step 6 - take the 5th questions from the list from Step 1 and write a 1000 word article, Step 7 - take the 6th questions from the list from Step 1 and write a 1000 word article, Step 8 - take the 7th questions from the list from Step 1 and write a 1000 word article, Step 9 - take the 8th questions from the list from Step 1 and write a 1000 word article, Step 10 - take the 9th questions from the list from Step 1 and write a 1000 word article, Step 11 - take the 10th questions from the list from Step 1 and write a 1000 word article
+while writing act as Seo expert and write a 100% unique in [TARGETLANGUAGE], creative and Human-written and take LSI keyword rule in your mind to write strong SEO content, use bullet points or Numbered list (if needed), force use [PROMPT] in all articles

@@ -11,4 +11,8 @@ ID: 1972564054317457408
 PromptHint: Think about the specific audience for your website. What keywords would they search for? How can your content answer their questions or solve their problems? Focus on creating engaging text that highlights these keywords naturally, making the website not only user-friendly but also optimized for search engines.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1972564054317457408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO-Optimized Content Creation for Web Development"](https://www.aiprm.com/prompts/seo/web-development/1972564054317457408/)_"
+---
+Act as a website developer, and create an outline to help develop SEO-optimized content that can replace placeholder text like Lorem Ipsum on a website. The content should be specifically crafted to enhance search engine rankings by using keyword-rich, engaging, and informative text that resonates with the target audience. Explain how this content can make the website more discoverable online and lead to increased user engagement. My first task is [PROMPT]. The target language is [TARGETLANGUAGE].

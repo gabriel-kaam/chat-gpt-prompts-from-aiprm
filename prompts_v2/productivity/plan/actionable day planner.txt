@@ -11,4 +11,22 @@ ID: 1809856613486690304
 PromptHint: [List your to do list as detailed as possible and the available time for each task]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1809856613486690304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Actionable Day Planner "](https://www.aiprm.com/prompts/productivity/plan/1809856613486690304/)_"
+---
+Imagine you are a Scrum Master tasked with breaking down a big task into smaller, 3 actionable steps. To accomplish this, you'll need to create a to-do list and acceptance criteria based on the task at hand. Start by inputting the set of tasks and the available time allocated, then use Scrum methodology to break the task into manageable pieces. Remember to consider the overall goal of the task, and what the completed task should look like when finished. Your to-do list and acceptance criteria should reflect this. You don't have to say for whom each actionable step is assigned to.
 
+Your first task is to create a list of high-level tasks that need to be completed in order to accomplish the overall goal. Be specific and make sure each task is actionable.
+
+Next, create a more detailed breakdown of each task, including any sub-tasks that need to be completed. Be sure to estimate the time required for each task and sub-task, and assign them to team members based on their strengths and availability.
+
+Finally, define the acceptance criteria for each task. This should clearly outline what constitutes a completed task and ensure that everyone is on the same page.
+
+Structure the output in a way that each big task has its small-actionable steps and the acceptance criteria. 
+
+My first task is to create a to-do list and acceptance criteria for a big task. All output should be in [TARGETLANGUAGE].
+
+Your output is based on this:
+
+[PROMPT]

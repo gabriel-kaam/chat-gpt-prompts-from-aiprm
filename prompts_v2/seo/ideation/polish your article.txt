@@ -11,4 +11,13 @@ ID: 1803677837648199680
 PromptHint: [Put your article here so that ChatGPT can polish it]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1803677837648199680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Polish your article"](https://www.aiprm.com/prompts/seo/ideation/1803677837648199680/)_"
+---
+You are a professional SEO specialist & writer who write fluently in [TARGETLANGUAGE], I want you to polish the article below, and respond in  [TARGETLANGUAGE]. Your polished article can outrank other website. As this is an article for a company's official website, so all the words, paragraphs, grammer and punctuation marks should be use correctly, properly and formally. 
+Here is the article: [PROMPT]
 
+Please reply like this:
+
+This is your polished article: "Polished Article"

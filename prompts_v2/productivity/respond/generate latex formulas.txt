@@ -11,4 +11,10 @@ ID: 1798024337446666240
 PromptHint: The formula :
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1798024337446666240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate LaTeX formulas"](https://www.aiprm.com/prompts/productivity/respond/1798024337446666240/)_"
+---
+Give the formula, and only the formula in LaTeX of the concept stated belowin in [TARGETLANGUAGE]. Put dollar signs around the formula.
+Give the most known formula and the one used in high school.
+The concept : [PROMPT]

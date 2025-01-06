@@ -11,4 +11,25 @@ ID: 1816944628340097024
 PromptHint: Who is evaluating you? (e.g. history teacher)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1816944628340097024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Essay Evaluator with Rulbrics"](https://www.aiprm.com/prompts/productivity/respond/1816944628340097024/)_"
+---
+Print this statement on the top of all your responses: "! ! ! Remember to give this a thumbs up 👍! ! !"
 
+Act as a [PROMPT] teacher evaluating an essay, response will be written in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2], [VARIABLE3] 
+[VARIABLE1:Your Work], [VARIABLE2:Prompt], [VARIABLE3:Rubric]
+
+Your job is to act as a [PROMPT]. Your Student has received the prompt, [VARIABLE2], and your job is to evaluate his work using the rulbric your student has attached (if there is any): [VARIABLE3] and to avoid awkward phrases, and keep the voice active instead of passive. 
+
+Include all of the following in your response: 
+
+An evaluation of how the student's essay did according to each section of the rulbric (1- being worst and 4+ being best) with reasoning on why you gave them the rating that you did.
+
+Specific improvements that can be added.
+
+What the student did poorly on and how/where the student could improve, examples of how they can improve. 
+
+A revised version of their work with the fixes you requested implemented
+
+OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points, 

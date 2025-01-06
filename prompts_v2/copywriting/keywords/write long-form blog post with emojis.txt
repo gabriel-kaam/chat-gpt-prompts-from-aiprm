@@ -11,4 +11,8 @@ ID: 1835235579437789184
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1835235579437789184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write Long-form blog post with emojis"](https://www.aiprm.com/prompts/copywriting/keywords/1835235579437789184/)_"
+---
+Youtr task is write a long-form blog post, 1000 words, with subheadings from the topic. Use emojis to emphasize key points, must include a table where it is needed, include important notes to where it is needed in quote, the output should be in markdown styling. Write all output in [TARGETLANGUAGE]. [PROMPT]

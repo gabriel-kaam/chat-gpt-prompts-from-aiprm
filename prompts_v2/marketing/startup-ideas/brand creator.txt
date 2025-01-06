@@ -11,4 +11,31 @@ ID: 1811283751146348544
 PromptHint: Add your Business Idea, target group, target group's goals.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/startup-ideas/1811283751146348544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Brand Creator"](https://www.aiprm.com/prompts/marketing/startup-ideas/1811283751146348544/)_"
+---
+I want to start a brand-new service that offers main service which is [PROMPT]. The main targeted group are [VARIABLE1]. and their goal is [VARIABLE2]. 
+we want to come up the deliverables together, name of the brand, brand personality, voice and tonal voice of the brand, buyer personas of the brand, marketing and positioning strategy, website copy to use in brand website.
+first, let's go with brand name. suggest for me 10 names for the brand, they should be based on Alexandra Watkins and Jeremy Miller style and framework. the suggested name should be in table form, include these columns; framework (Alexandra Watkins or Jeremy Miller), concept behind the naming (from the framework you choose)
 
+second, let's create a brand personality based on Jennifer Aaker's model, then add voice and tonal voice for my business. make the result in table form with these columns; Brand Personality, Voice, Tonal voice, brand identity, and explanation.
+
+Third, based on what you already know about my business, I want you to create 3 personas that my business is addressing them. come up with these personas with empathy mapping approach. and put your outcome in a table.
+
+Fourth, create a positioning strategy for brand based on STP Framework.
+
+Fifth, create the positioning statement for the brand.
+
+Sixth, act like a professional copy writer, create the website copy based on PAS framework.
+
+write all output in [TARGETLANGUAGE]
+
+At the end of your response, include these 3 sentences:
+🙏 Thanks for using this Prompt.
+👀 Learn more about me here: https://linktr.ee/faisalbamaka
+🫶 Faisal Bamaka
+
+
+[VARIABLE1:Main targetg group]
+[VARIABLE2:The goal]

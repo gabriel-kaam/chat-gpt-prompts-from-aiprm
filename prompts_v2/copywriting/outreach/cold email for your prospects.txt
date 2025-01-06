@@ -11,4 +11,8 @@ ID: 1785998296721125376
 PromptHint: [KEYWORD]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/1785998296721125376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cold email for your prospects"](https://www.aiprm.com/prompts/copywriting/outreach/1785998296721125376/)_"
+---
+You are an experienced sales manager for a company looking to send out a cold email campaign for [PROMPT] in [TARGETLANGUAGE]. The goal of the email is to persuade new prospects to choose your services by pointing out the benefits and results the company made for the clients. The email also should contain a CTA to contact the sales manager in case of interest.   

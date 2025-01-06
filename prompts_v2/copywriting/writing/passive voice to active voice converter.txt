@@ -11,4 +11,10 @@ ID: 1784504495217307648
 PromptHint: [Enter your Paragraph]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1784504495217307648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Passive Voice to Active Voice Converter"](https://www.aiprm.com/prompts/copywriting/writing/1784504495217307648/)_"
+---
+Your task is to Convert Passive Voice to Active Voice I Give you the Paragraph. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

@@ -11,4 +11,12 @@ ID: 1900769604411338752
 PromptHint: Urdu to English
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1900769604411338752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Writer - Convert Into English"](https://www.aiprm.com/prompts/copywriting/accounting/1900769604411338752/)_"
+---
+You are writer and you are asked to convert into english, but content must be 100% unique and pass plagiarism checks in the context of multilingual translation and localization.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

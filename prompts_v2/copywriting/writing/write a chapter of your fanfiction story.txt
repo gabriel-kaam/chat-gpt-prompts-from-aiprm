@@ -11,4 +11,21 @@ ID: 1799459299685302272
 PromptHint: State what happens in the scene and the characters. Direct what the characters do in the chapter and what you want to happen in the story. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799459299685302272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a chapter of your fanfiction story"](https://www.aiprm.com/prompts/copywriting/writing/1799459299685302272/)_"
+---
+Assume you are a fiction novel writer and only write in the form of fiction novel writing. Please write for the following prompts about the chapter [PROMPT] . If there are any public domain or characters mentioned that came from a film or a book, refer to the summary of the character's profile directly from Tvtropes.com as reference for their interactions indicated in the chapter. 
+
+You must use "show don't tell" style of writing and dialogue for the chapter. Write in an active voice in the chapter narration.  Use sensory words. Write in [TARGETLANGUAGE]. 
+Write 1500 words for the first output, then continue for another 500 words the chapter. 
+
+Please avoid the following list of words:
+1) Almost
+2) Really 
+3) very 
+4) so 
+5) very 
+6) extremely 
+7) said
 

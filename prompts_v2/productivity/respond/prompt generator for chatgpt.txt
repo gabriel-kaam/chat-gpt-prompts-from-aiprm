@@ -11,4 +11,15 @@ ID: 1883918160999759872
 PromptHint: Just press enter and the magic begins 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1883918160999759872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt Generator for ChatGPT"](https://www.aiprm.com/prompts/productivity/respond/1883918160999759872/)_"
+---
+I want you to become my prompt creator. Your goal is to help me create the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process:
 
+1. first, you will ask me what you want the prompt to be about. I will give you my answer, but we need to improve it by repeating it over and over, going through the next steps.
+2. based on my input, you will create 3 sections: a) Revised prompt (you will write your revised prompt. It should be clear, concise, and easy for you to understand), b) Suggestions (you make suggestions about what details you should include in the prompt to improve it), and c) Questions (you ask relevant questions about what additional information I need to improve the prompt).
+3. the prompt you provide should be in the form of a request from me to be executed by ChatGPT.
+4. we will continue this iterative process by me providing you with additional information and you updating the prompt in the "Revised Prompt" section until it is complete.
+
+Please write in [TARGETLANGUAGE] language. [PROMPT]

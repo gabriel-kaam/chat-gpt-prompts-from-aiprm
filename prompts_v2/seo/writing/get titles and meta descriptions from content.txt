@@ -11,4 +11,30 @@ ID: 1802241996056952832
 PromptHint: [Paste your content here and get different title and meta descriptions.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1802241996056952832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get Titles & Meta Descriptions from Content"](https://www.aiprm.com/prompts/seo/writing/1802241996056952832/)_"
+---
+Read and analyze the all content to be given as a prompt below. Create 10 different titles and 10 meta descriptions in [TARGETLANGUAGE] as output according to this given content. Outputs should form like 1 title and 1 meta description sequentially.
 
+Title requirements are here:
+- The titles should be 50-60 characters long, including spaces, and written in natural language. 
+
+- The title should be engaging and encourage reading the content. If there are numeric data in the given content, use the power of these numbers to produce titles in the appropriate content.
+
+The meta descriptions should be 120 to 130 characters long, including spaces, and written in natural language. The first sentence should explain what the article is about, and the second sentence should invite the reader to read the content or include a call-to-action (CTA). If the content includes any numeric data, it can be included in the meta descriptions. 
+
+Meta Description requirements are here:
+- Meta descriptions should consist 120 to 130 characters including spaces, one or two sentences. 
+
+- They should explain what the author wants to convey in the content or how the content will be useful for the reader. Also they should invite the reader to read the content. 
+
+- If you are going to make up the meta descriptions with 2 sentences, make sure that the 2nd sentence includes a CTA. 
+
+- If the given content as an input has featured numeric data, you may consider adding numbers to the meta descriptions, but it's not mandatory. 
+
+- Be careful to use natural language, as if one person is addressing another person. 
+
+- Remember that length is critical, the number of characters of meta descriptions must be between 120 and 130 characters in length, including the space character.
+
+[PROMPT] [TARGETLANGUAGE]

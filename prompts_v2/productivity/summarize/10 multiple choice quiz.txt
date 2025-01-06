@@ -11,4 +11,10 @@ ID: 1801272360725381120
 PromptHint: [Write your topic or question here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1801272360725381120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "10 Multiple Choice Quiz"](https://www.aiprm.com/prompts/productivity/summarize/1801272360725381120/)_"
+---
+I'd like you to write ten Quiz question based on my topic.
+Please also include four possible answers, but only one of the answers can be corrected. Please display the correct answer below the answer. My topic is: [PROMPT]
+[TARGETLANGUAGE] 

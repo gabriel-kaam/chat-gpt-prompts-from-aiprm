@@ -11,4 +11,8 @@ ID: 1801633612551159808
 PromptHint: [put url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801633612551159808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta title and description generator"](https://www.aiprm.com/prompts/seo/writing/1801633612551159808/)_"
+---
+WRITE THE TITLE AND META DESCRIPTION[TARGETLANGUAGE] FOR GIVEN URL[PROMPT]

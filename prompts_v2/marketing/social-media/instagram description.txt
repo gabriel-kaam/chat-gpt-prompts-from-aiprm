@@ -11,4 +11,9 @@ ID: 1806096135807557632
 PromptHint: Description
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1806096135807557632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Instagram description"](https://www.aiprm.com/prompts/marketing/social-media/1806096135807557632/)_"
+---
+Yours task is to create a instagram decription post so first you generate a deatil description of  [TARGETLANGUAGE], an image,  in one sentence with emojis, add a space here, then generate a one sentence that the user most do like (tag@ a friend who would love this), add a space here, with emojis, then give a quote about the subject with emojis, add a space here, generate 30 hasgtags for instagram about midjourney, ai, mom, and the subject, Dont titles each line just write without annoucing anythings
+[PROMPT] 

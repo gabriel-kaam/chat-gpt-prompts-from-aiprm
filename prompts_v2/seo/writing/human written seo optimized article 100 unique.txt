@@ -11,4 +11,12 @@ ID: 1885965291872112640
 PromptHint: [Keyword Or Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1885965291872112640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human Written SEO Optimized Article |100% Unique|"](https://www.aiprm.com/prompts/seo/writing/1885965291872112640/)_"
+---
+Introduction: [h3]  Begin with a brief introduction or background information related to the topic.
+Provide detailed information, insights, and examples related to the topic.
+Conclusion: [h3] Summarize the key points and provide a closing thought or recommendation. Write human tone SEO optimize article with Meta title, SEO Meta description and FAQ.
+[TARGETLANGUAGE] From given [PROMPT] 
 

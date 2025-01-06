@@ -11,4 +11,9 @@ ID: 1790438077555273728
 PromptHint: [text that you want for best youtube channel for viral shorts]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790438077555273728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best for youtube viral shorts"](https://www.aiprm.com/prompts/copywriting/writing/1790438077555273728/)_"
+---
+your task is to generate a script of 100 words or maximum 500 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]

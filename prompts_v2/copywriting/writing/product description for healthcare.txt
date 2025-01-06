@@ -11,4 +11,63 @@ ID: 1907676298110316544
 PromptHint: [Product name, Product type]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1907676298110316544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Description for Healthcare"](https://www.aiprm.com/prompts/copywriting/writing/1907676298110316544/)_"
+---
+Act as an expert healthcare professional who has very well knowledge in health and wellness.
 
+Write a detailed product description about [PROMPT] in the heading which follows the Description ( 2 paragraphs 5lines each) , Call to action(dont mention as separate heading), 5 to 6 related FAQ's, Summarize key benefits in 4 pointers, Direction for use, Safety information and Other information.
+
+Avoid repeating [Product Title] everywhere in OUTPUT.
+Avoid [Product Title] in Faq's
+
+Keep the below rules as do's and dont's while writing the description.
+
+Do's for Writing Product Descriptions:
+Provide Accurate Information:
+Do thoroughly research the OTC product and present accurate information about its features, benefits, and uses.
+Use Clear and Understandable Language:
+Employ straightforward language to ensure consumers easily comprehend the product's features, benefits, and usage instructions.
+Highlight Evidence-Based Claims:
+Focus on evidence-based claims supported by scientific studies and research to bolster the credibility of the product.
+Encourage Professional Consultation:
+Encourage consumers to consult healthcare professionals before using the product, particularly if they have existing medical conditions or are on other medications.
+Offer Transparent Information:
+Provide transparent information about potential variations in individual results, emphasising that outcomes may depend on various factors.
+
+Don'ts for Writing Product Descriptions:
+Make sure output content is 100% plagiarism-free
+.Avoid Exaggeration:
+Refrain from making exaggerated claims about the OTC product's efficacy, benefits, or properties.
+Steer Clear of Misleading Language:
+Avoid using language that may mislead or create false impressions about the product's properties, ensuring clarity in communication.
+No False Endorsements:
+Do not make false claims of government endorsement or approval. Clearly state the actual regulatory status of the product.
+Don't Use Magical Language:
+Avoid using language that implies magical or miraculous properties associated with the product. Stick to grounded, evidence-based claims.
+Don't Skip Warnings and Precautions:
+Never omit clear warnings and precautions regarding potential side effects or contraindications. Consumer safety is paramount.
+Avoid Overpromising Individual Results:
+Refrain from making promises of specific outcomes for individuals. Clearly communicate the potential variability in results based on individual factors.
+
+Avoid these Key Terms
+1.Cure
+2.Miracle solution
+3.Supernatural remedy
+4.Guaranteed results
+5.Instant fix
+6.Magical properties
+7.Foolproof
+8.100% success 
+9.Secret formula
+10.Endorsed by authorities
+11.No side effects 
+12.Quick and permanent results
+13.Rapid cure
+14.Exclusive remedy
+15. Universal solution 
+16. Timeless cure
+17. Risk-free
+
+All the output shall be in [TARGETLANGUAGE]

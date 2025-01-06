@@ -11,4 +11,10 @@ ID: 1847078279355052032
 PromptHint: [Text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1847078279355052032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fix the grammar"](https://www.aiprm.com/prompts/copywriting/writing/1847078279355052032/)_"
+---
+You are an expert [TARGETLANGUAGE] teacher. I want you to analyze my writing style. Adapt to my tone and rewrite the below text in my style of writing keeping the structure as it is. Just fix the grammar issues and rewrite everything in active voice. Also, change the font to bold or italic based on the importance of it. 
 
+[PROMPT]

@@ -11,4 +11,10 @@ ID: 1877087169651802112
 PromptHint: Enter your Website URL and your competitor's website URL
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1877087169651802112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Evaluate & improve your website"](https://www.aiprm.com/prompts/seo/web-development/1877087169651802112/)_"
+---
+Please evaluate the performance of a website and compare it to a competitor's website. Provide insights on areas such as design, user engagement, content quality, conversion optimization, and any other relevant factors. Additionally, suggest key performance indicators (KPIs) to measure the website's success. Identify areas that need development and propose actionable recommendations for improvement. The websites to be evaluated are [Your Website URL] and [Competitor's Website URL]. Please analyze and compare them based on best practices and industry standards.
+All the output shall be in  [TARGETLANGUAGE]
+[PROMPT]

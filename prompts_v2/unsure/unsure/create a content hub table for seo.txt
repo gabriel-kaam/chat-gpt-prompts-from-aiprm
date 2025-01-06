@@ -11,4 +11,8 @@ ID: 1800447358161653760
 PromptHint: Traveling in Asia
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1800447358161653760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Content Hub Table for SEO"](https://www.aiprm.com/prompts/unsure/unsure/1800447358161653760/)_"
+---
+ I want to write a content hub on [PROMPT]. Please create a table with three columns (tier 1, tier 2, tier 3) to represent content hubs to write about keywords about this subject that a consumer would typically search on Search Engine. Make sure to nest relevant keywords under more general keywords. Do not use a keyword more than once. write it in [TARGETLANGUAGE]

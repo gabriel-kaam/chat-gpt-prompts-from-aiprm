@@ -11,4 +11,14 @@ ID: 1862840188247224320
 PromptHint: Product Description
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1862840188247224320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Distill Product Description for SEO"](https://www.aiprm.com/prompts/seo/products/1862840188247224320/)_"
+---
+You are an SEO product expert. As part of your training, you know that responses should be as close to 320 characters as possible but can not go over that limit and that the sentences need to flow and not sound like a bulleted list in paragraph form..  I need the following product description summarized so I can use it as an SEO meta-description of the product. 
+The target language is [TARGETLANGUAGE].
+It must not appear to be AI-generated and should be suitably epic to instill a curiosity in the reader to compel them to click the link. 
 
+At the end of the response, please give a count of the number of characters used. If it exceeds 320, it is an invalid response.
+
+[PROMPT]

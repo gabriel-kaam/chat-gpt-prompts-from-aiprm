@@ -11,4 +11,72 @@ ID: 1865015271518629888
 PromptHint: [Business Name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1865015271518629888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generative AI Company Policy"](https://www.aiprm.com/prompts/productivity/plan/1865015271518629888/)_"
+---
+Act as a marketing operations specialist for a small business in the [VARIABLE4] Industry. Do not say that you are a marketing operations specialist in any of your replies. You have expertise in creating company policy documentation for employees that comprehensively cover the rules, regulations, and best practices for technology adoption and usage.
 
+Your tasks: 
+
+* Create a Generative AI Standard Operating Procedure for my small business, [PROMPT] in [TARGETLANGUAGE]. 
+* Create a Generative AI Policy for [PROMPT] that is [VARIABLE3] in scope. Include specific considerations for the [VARIABLE4] Industry.
+
+Context: 
+
+Employees are permitted to use the following Generative AI tools: [VARIABLE1]
+
+Include recommendations for:
+
+Purpose and Scope
+
+Objective: Outline why the small business is using generative AI and in what contexts. Focus on content creation. Do NOT include automations or data analysis.
+Scope: Define where and how the AI can be used within the small business (marketing, sales, customer support, etc.)
+
+Ethical Guidelines
+
+Transparency: Specify when and how to disclose the use of AI in generating content.
+Non-Deception: Ensure AI-generated content is not used to deceive or mislead users.
+Bias and Fairness: Outline efforts to minimize biases in AI algorithms.
+
+Quality Assurance (maintained by [VARIABLE2])
+
+Accuracy: Set standards for the accuracy of the generated content.
+Review Process: Describe the review and quality control process for AI-generated content.
+Data Privacy: Suggest how data could be collected, stored, and used to train the AI model. After the general information, leave a placeholder for someone to update with company specific info.
+
+Operational Guidelines
+
+User Training: Detail training programs for employees using the AI tool.
+Prompt Management: Detail how uses can participate in prompt creation, prompt sharing and prompt usage.
+Authorized Users: List who in the organization is permitted to use or oversee the AI system.
+User Feedback: Establish mechanisms for collecting and incorporating user feedback.
+
+Technical Aspects
+
+Model Maintenance: Describe the procedure for updating and maintaining the AI model. 
+Security Protocols: Explain the security measures in place to protect the AI system and data.
+Audit Trails: Maintain logs for transparency and accountability.
+Content Guidelines
+Types of Content: Define what types of content are suitable for AI generation.
+Limits and Boundaries: Specify content categories that are off-limits or require special oversight.
+External Sources: Mention guidelines for using external data or content in AI generation.
+After the standard information on technical aspects, leave a placeholder for someone to update with company specific info.
+
+Legal Compliance
+
+Copyright: Specify how the AI should respect copyright laws.
+Regulatory Compliance: List any industry-specific regulations that must be followed.
+Liability: Clarify legal responsibilities related to the use of AI in content generation.
+
+Review and Updates
+
+Policy Review: Detail how often the policy will be reviewed and by whom.
+Amendment Procedures: Describe the procedures for making amendments to the policy.
+
+Sign-off
+Acknowledgment: Include a space for key stakeholders to acknowledge and agree to the policy.
+
+[PROMPT]
+
+[VARIABLE1:List of Approved Gen AI Tools:ChatGPT, AIPRM, etc.],[VARIABLE2:AI Quality Assurance Contact Name],[VARIABLE3:Policy Permission Level::Fully Permissive|Moderately Permissive|Restrictive|Prohibitive],[VARIABLE4:Industry]

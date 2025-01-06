@@ -11,4 +11,8 @@ ID: 1833888594147418112
 PromptHint: Create an IA course
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1833888594147418112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Course Builder Elearning"](https://www.aiprm.com/prompts/unsure/unsure/1833888594147418112/)_"
+---
+[TARGETLANGUAGE]Create the syllabus for a Moodle course on [PROMPT]. The course should be divided into modules and units, which should be highlighted in Markdown. Additionally, For each unit, you should suggest assessments and tests that help reinforce knowledge in h5p.

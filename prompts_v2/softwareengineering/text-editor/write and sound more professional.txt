@@ -11,4 +11,10 @@ ID: 1818162592292794368
 PromptHint: [E.g., I will be needing a leave for two days due to family function]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1818162592292794368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write and sound more professional"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1818162592292794368/)_"
+---
+All output shall be in [TARGETLANGUAGE]. Your task is to give a more professional and formal version of this text:
 
+[PROMPT]

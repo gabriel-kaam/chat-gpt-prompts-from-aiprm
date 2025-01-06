@@ -11,4 +11,13 @@ ID: 1928186619886620672
 PromptHint: Domaine title
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1928186619886620672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text motivation"](https://www.aiprm.com/prompts/copywriting/writing/1928186619886620672/)_"
+---
+I'm a tiktok influencer who motivates people with my motivational videos.
+You're my assistant.
+Write 10 motivational texts for my videos.
+This is the field of motivation:[PROMPT]
+you will write the summary in this language. 
+[TARGETLANGUAGE]

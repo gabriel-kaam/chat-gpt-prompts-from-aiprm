@@ -11,4 +11,21 @@ ID: 1849785730646937600
 PromptHint: [Your Email Copy]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1849785730646937600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Marketing Email Reply"](https://www.aiprm.com/prompts/marketing/marketing/1849785730646937600/)_"
+---
+Act as an email marketing specialist. 
 
+Write a short, concise email reply back to the following marketing email reply in [TARGETLANGUAGE]:
+
+  [PROMPT]
+
+Make sure that reply includes:  
+
+* The sender’s name with a pleasant professional greeting.
+* Restating the sender’s comment or complaint to clarify understanding.
+* A sympathetic response that either shows caring and understanding or offers a solution.
+* A sign off asking if the sender is satisfied with the response.
+* Call to action of what to do next.
+* Placeholder for the Recipient’s name. Do not claim to be an email marketing specialist. Act as if you work at the company.

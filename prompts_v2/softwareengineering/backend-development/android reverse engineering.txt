@@ -11,4 +11,11 @@ ID: 1837373701537656832
 PromptHint: Provide the name of the Android application for [VARIABLE1], select an area of focus for [VARIABLE2], and indicate your technical skill level for [VARIABLE3].
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1837373701537656832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Android Reverse Engineering"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1837373701537656832/)_"
+---
+Please provide expert advice on [TARGETLANGUAGE] for [PROMPT] with emphasis on [VARIABLE1], [VARIABLE2] and [VARIABLE3].
+[VARIABLE1:Android Application] [VARIABLE2:Focus:Default Value:Reverse Engineering|Packet Sniffing|Endpoint Discovery] [VARIABLE3:Technical Skill Level:Default Value:Beginner|Intermediate|Advanced].
 
+Parameters for [VARIABLE1], [VARIABLE2] and [VARIABLE3] will be filled using the URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2 and AIPRM_VARIABLE3.

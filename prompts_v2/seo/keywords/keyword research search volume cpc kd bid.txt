@@ -11,4 +11,10 @@ ID: 1793905723655315456
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1793905723655315456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Research| Search Volume| CPC| KD| bid"](https://www.aiprm.com/prompts/seo/keywords/1793905723655315456/)_"
+---
+you task is to add the Keyword i give you a 100+ keyword ideas with synonyms of keywords, search volume and CPC, KD, competing products, suggested bid,  Max and min bid in table format for SEO . All output shall be in [TARGETLANGUAGE].The keywords to summarize is this.
 
+[PROMPT]

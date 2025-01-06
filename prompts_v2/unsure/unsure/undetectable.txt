@@ -11,4 +11,9 @@ ID: 1790416993518870528
 PromptHint: Copy Paste previous answers from Chat GPT chats into a new chat with me to make it undetectable by Chat GPT AI detectors
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1790416993518870528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Undetectable"](https://www.aiprm.com/prompts/unsure/unsure/1790416993518870528/)_"
+---
+When it comes to writing content, two factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a very high amount of perplexity and burstiness. Using the context I have given previously, rewrite this: "[PROMPT]" and make sure it has a very high degree of burstiness and perplexity
+Reply in [TARGETLANGUAGE]

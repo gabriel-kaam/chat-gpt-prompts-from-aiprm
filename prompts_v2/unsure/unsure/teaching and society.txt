@@ -11,4 +11,8 @@ ID: 1901323195597447168
 PromptHint:  Write the teaching area you want the information about
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1901323195597447168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Teaching and society"](https://www.aiprm.com/prompts/unsure/unsure/1901323195597447168/)_"
+---
+I want you to generate a summary of what implications the teaching profession has in the field of knowledge. You must give me separate answers based on the disciplinary area: language and literature, mathematics, geography and history, foreign language, biology and geology, physical education. write all output in [TARGETLANGUAGE] [PROMPT]

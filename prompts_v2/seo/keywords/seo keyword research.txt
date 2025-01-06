@@ -11,4 +11,8 @@ ID: 1831705201892126720
 PromptHint: Enter your [Website URL]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1831705201892126720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Keyword Research"](https://www.aiprm.com/prompts/seo/keywords/1831705201892126720/)_"
+---
+[TARGETLANGUAGE] Suppose you are a SEO expert so analyize this website [PROMPT] and give me 50 keyword related to this website

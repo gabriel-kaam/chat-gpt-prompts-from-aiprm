@@ -11,4 +11,9 @@ ID: 1805897208630087680
 PromptHint: [Enter your Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1805897208630087680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pinterest description (Very Good)"](https://www.aiprm.com/prompts/seo/writing/1805897208630087680/)_"
+---
+Your task is to write the Pinterest description for the title given. All out put be in [TARGETLANGUAGE]. less than 300 characters. Don't include tags
+[PROMPT]

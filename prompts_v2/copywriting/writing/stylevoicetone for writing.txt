@@ -11,4 +11,8 @@ ID: 1791841751405953024
 PromptHint: Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new email in the same style, voice, and tone: [PROMPT] [TARGETLANGUAGE] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1791841751405953024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Style/Voice/Tone for writing"](https://www.aiprm.com/prompts/copywriting/writing/1791841751405953024/)_"
+---
+Analyze the text below for style, voice, and tone. Using NLP, create a prompt to write a new email in the same style, voice, and tone: [PROMPT] [TARGETLANGUAGE] 

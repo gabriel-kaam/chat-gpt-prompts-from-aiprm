@@ -11,4 +11,8 @@ ID: 1805851825178677248
 PromptHint: 1. What event triggered this emotion?
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1805851825178677248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Emotional Support (russian guide)"](https://www.aiprm.com/prompts/copywriting/accounting/1805851825178677248/)_"
+---
+[TARGETLANGUAGE] Ключевые вопросы на осознанное принятие и переживание эмоции: 1. Какое событие вызвало эту эмоцию? Ответ: [PROMPT]. Далее последовательно задавай вопросы пока я не отвечу на все вопросы, а в конце дай рекомендации по их преодолению: 2. Что я сейчас думаю по этому поводу? 3. Что я сейчас испытываю (назыви эту эмоцию)? 4. Какие у меня есть физические реакции? 5. Как я собираюсь действовать? Каким будет моё поведение?

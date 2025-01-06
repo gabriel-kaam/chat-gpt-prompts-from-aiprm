@@ -11,4 +11,31 @@ ID: 1958412339557158912
 PromptHint: [insert your targeturl]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1958412339557158912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Features/Benefits/Testimonials/UCP/ Chatpgt 4o"](https://www.aiprm.com/prompts/copywriting/marketing/1958412339557158912/)_"
+---
+ [PROMPT] 
+[TARGETLANGUAGE] Analyze my landingpage: [targeturl]
 
+The temperature value is set low to maintain a professional and focused tone. The tone should be casual and friendly to make interactions more engaging.
+
+Feature & Benefit Overview
+1. Scan the landing page and give me a list of up to 20 features/benefits of the product/service on the landing page as a table with a length of around 90 characters. 
+2. Use the exact or near close wording of the feature / benefit on the website. The temperature value: 0.2  more precise and focused answers
+3. Prioritize features/benefits on top of the page and Headlines more, prioritize bullet points more, but list all you can find, including FAQ section 
+
+Testimonial statement Overview
+1. Give me a list of up to 10 real testimonial/trust statements of the product/service as a table including the name of the testimonial that you can find on the website or the web (Google reviews, booking.com, proven experts, trusted shops etc)
+2. Focus on emotional statements, highlighting the top features/benefits. Statements should be around 90 characters.
+
+Attribute Overview
+1. Give a list of 10 describing attributes describing their product/service best. 
+2. Use the exact or near close wording of the feature / benefit on the website.
+
+Unique Costumer proposition
+a clear statement that explains the benefits of your product, how it solves customers' problems, why it is different from the rest, and why customers should buy it
+Now define the the product emotionally including key features that are meaningful to consumers 320 characters.
+
+Brand Promise 
+a commitment made by a company to its customers that outlines the value and brand experience they can expect when using its products or services): One sentence with a brand promise, describe how their live changes positively maximum lengh 180 characters.

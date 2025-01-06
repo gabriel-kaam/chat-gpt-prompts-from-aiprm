@@ -11,4 +11,8 @@ ID: 1794814095774707712
 PromptHint: [goal you want to achieve]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1794814095774707712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Brainstorming to define specific OKR objectives"](https://www.aiprm.com/prompts/marketing/marketing/1794814095774707712/)_"
+---
+Define 5 to 10 OKR with 5 KR for the OKR: [PROMPT]. And create for each KR a list of tasks to achieve them. All output shall be in the [TARGETLANGUAGE]. 

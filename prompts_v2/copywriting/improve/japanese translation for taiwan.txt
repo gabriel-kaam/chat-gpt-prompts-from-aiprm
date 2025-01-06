@@ -11,4 +11,9 @@ ID: 1806238523825844224
 PromptHint: [Text]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1806238523825844224/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Japanese Translation for Taiwan"](https://www.aiprm.com/prompts/copywriting/improve/1806238523825844224/)_"
+---
+我想讓你做一名日語翻譯、拼寫糾正和改進者。 我會用日語和你說話，請翻譯成[TARGETLANGUAGE]，並使用台灣人日常一點的方式更正和改進。 我希望你只回復更正、改進，其他什麼都不回復，不要寫解釋。
+需要翻譯的文章是：[PROMPT]

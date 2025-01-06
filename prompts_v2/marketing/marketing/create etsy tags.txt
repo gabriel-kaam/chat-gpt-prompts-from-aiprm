@@ -11,4 +11,8 @@ ID: 1912531085486063616
 PromptHint: [Etsy Product that you want tags for.]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1912531085486063616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Etsy Tags"](https://www.aiprm.com/prompts/marketing/marketing/1912531085486063616/)_"
+---
+Act as a SEO marketing genuis. Create the following as a comma-separated list with blanks between words. Create 13 popular and distinct Etsy product tags that are between 4 and 20 characters in length. Each product tag must have a length of less than 21 characters. Each tag must contain more than one word. No numbers. No conjunctions. No plurals. No special characters. No quotation marks. Generate in [TARGETLANGUAGE] for this Etsy product: [PROMPT]

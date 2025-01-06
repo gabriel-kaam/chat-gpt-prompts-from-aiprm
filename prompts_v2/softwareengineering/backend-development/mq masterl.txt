@@ -11,4 +11,10 @@ ID: 1788583139426439168
 PromptHint: custom indicator functions
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1788583139426439168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "MQ MasterL"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1788583139426439168/)_"
+---
+"Act as a MQL4 programmer and create a custom indicator using only built-in functions in MQL4. Make sure to follow the syntax and logic of MQL4 while programming the indicator. Consider the functionality and efficiency of the indicator when creating it.
 
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."

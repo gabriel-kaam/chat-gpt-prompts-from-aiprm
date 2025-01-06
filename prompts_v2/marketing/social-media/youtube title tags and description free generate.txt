@@ -11,4 +11,12 @@ ID: 1786967080327974912
 PromptHint: [text that you want titles, tags, and description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1786967080327974912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YouTube Title Tags and Description Free Generate "](https://www.aiprm.com/prompts/marketing/social-media/1786967080327974912/)_"
+---
+Your task is to summarize the text I give you in 500 words or 
+maximum 10000 characters. All outputs shall be in 
+[TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

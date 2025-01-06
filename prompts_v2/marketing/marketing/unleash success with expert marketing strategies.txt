@@ -11,4 +11,14 @@ ID: 1836780964852846592
 PromptHint: Is your small business facing the uphill battle of expanding your customer base and increasing sales? Don't worry, we've got your back! Engage in a conversation with our virtual marketing consultant and unlock the secrets to overcome this challenge. From tailored marketing campaigns to online advertising and customer retention strategies, discover innovative approaches to boost your business.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1836780964852846592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Unleash Success with Expert Marketing Strategies"](https://www.aiprm.com/prompts/marketing/marketing/1836780964852846592/)_"
+---
+"Unleash the power of AI in [TARGETLANGUAGE]. [PROMPT] and revolutionize your [VARIABLE1] with cutting-edge technology. Discover the endless possibilities as AI automagically transforms your [VARIABLE2] and boosts [VARIABLE3] to new heights."
 
+[VARIABLE1:Business Type][VARIABLE2:Industry][VARIABLE3:Business Goals]
+
+[VARIABLE1:Business Type:small business]
+[VARIABLE2:Industry:E-commerce]
+[VARIABLE3:Business Goals:revenue|customer engagement|operational efficiency]

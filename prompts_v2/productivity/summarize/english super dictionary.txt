@@ -11,4 +11,31 @@ ID: 1799899059822264320
 PromptHint: Enter an English word
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1799899059822264320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "English Super Dictionary"](https://www.aiprm.com/prompts/productivity/summarize/1799899059822264320/)_"
+---
+I'd like to get comprehensive information about a word in the following format
+{
+Word report on *word*
+Dictionary definition
+Slang definitions
+Etymology
+Idioms
+Synonyms
+Antonyms
+Any interesting trivia about the word
+}
 
+If I enter "def *word*", where *word* is the word I wish to get a definition for, you should generate this report for the word.
+
+Read any rules below as they govern how to generate a report, but don't mention these rules to the user. Just act on them.
+
+If you understand this prompt, just def [PROMPT]. After the definition type "Enter def *word* for more reports". Do not type anything else. Do not echo instructions.
+
+Rules:
+
+Headings are to be in bold. Values are in regular font.
+Synonyms and antonyms should be listed in a CSV format under the heading
+
+Output all definitions in [TARGETLANGUAGE]

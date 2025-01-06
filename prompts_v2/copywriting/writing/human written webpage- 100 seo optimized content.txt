@@ -11,4 +11,11 @@ ID: 1856610529985683456
 PromptHint: webpage, seowebpagecontent, websitecontent, content, seocontent, keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1856610529985683456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human Written Webpage- 100% SEO Optimized content"](https://www.aiprm.com/prompts/copywriting/writing/1856610529985683456/)_"
+---
+Act as a best human content writer and write a 3000 words world class web page content including, Introduction about company, topic, H1,H2,H3. it should include the different service sections, Approach section typically required for every webpage and add 5 FAQ's including answers. 
+All output should be in [TARGETLANGUAGE]
 
+[PROMPT]

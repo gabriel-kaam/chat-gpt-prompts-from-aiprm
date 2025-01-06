@@ -11,4 +11,9 @@ ID: 1818567580215148544
 PromptHint: Add the haro Request 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1818567580215148544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Help a Reporter answer"](https://www.aiprm.com/prompts/marketing/marketing/1818567580215148544/)_"
+---
+write in  [TARGETLANGUAGE] a professional-sounding and short reply to the following HARO request saying that I have firsthand experience with the request, and i’d be happy to provide the input needed. 
+[PROMPT]

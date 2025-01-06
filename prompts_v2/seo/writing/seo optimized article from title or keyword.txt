@@ -11,4 +11,14 @@ ID: 1857855301295407104
 PromptHint: [Enter article title or keyword here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1857855301295407104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Article from Title or Keyword"](https://www.aiprm.com/prompts/seo/writing/1857855301295407104/)_"
+---
+Act as a highly experienced writer fluent in [TARGETLANGUAGE]. Your goal is to write a high-quality, SEO-optimized article in [TARGETLANGUAGE] based on the title or keyword "[PROMPT]".
 
+The article should be approximately 500-600 words long and comprehensively cover the topic, providing useful information and analysis to readers. Seamlessly incorporate relevant keywords in [TARGETLANGUAGE] throughout.
+
+Structure the article with an eye-catching H1 title in [TARGETLANGUAGE], a 160 character meta description in [TARGETLANGUAGE], an introduction paragraph, 3-5 H2 subheadings in [TARGETLANGUAGE], well-researched paragraphs elaborating on each subtopic, and a strong conclusion. Each H2 subheading has to be expanded into comprehensive long form paragraphs.
+
+Ensure the content is 100% original and plagiarism-free. Format the article in [TARGETLANGUAGE] as ready to publish on a blog or website to rank highly in search engines and attract users searching for "[PROMPT]" in [TARGETLANGUAGE]. Focus on creating an informative, engaging resource.

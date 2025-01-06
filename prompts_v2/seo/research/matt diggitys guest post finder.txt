@@ -11,4 +11,8 @@ ID: 1882854323844280320
 PromptHint: Enter Your Niche
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1882854323844280320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Matt Diggity's Guest Post Finder"](https://www.aiprm.com/prompts/seo/research/1882854323844280320/)_"
+---
+Using the WebPilot plugin for ChatGPT, please give me a list of 25 popular websites within the [PROMPT]. Additionally, please find me 10 popular online forums/communities and put them at the bottom of your list. Please write in [TARGETLANGUAGE]

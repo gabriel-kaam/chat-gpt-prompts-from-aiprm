@@ -11,4 +11,12 @@ ID: 1881292646295588864
 PromptHint: [Text that you want meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1881292646295588864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google: Discovered/Crawled Currently Not Indexed"](https://www.aiprm.com/prompts/seo/research/1881292646295588864/)_"
+---
+Your task is to write the meta title and meta description for given keywords. All ouyput should be in [TARGETLANGUAGE]
 
+The text to summarise is this:
+
+[PROMPT]

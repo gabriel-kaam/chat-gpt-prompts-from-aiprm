@@ -11,4 +11,12 @@ ID: 1864994372664942592
 PromptHint: [Competitor_Article_URL]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1864994372664942592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Extract keywords from your competitor"](https://www.aiprm.com/prompts/seo/keywords/1864994372664942592/)_"
+---
+You're an SEO expert. You want to outrank your competitors on their keywords. To do this, you're going to analyze the article [PROMPT]: title, description, headings, alt image, content and internal linking to extract the keywords on which they're positioned and the associated semantic fields.
 
+Your answer will be in the form of a table with Major keywords and associated semantic fields
+
+[TARGETLANGUAGE]

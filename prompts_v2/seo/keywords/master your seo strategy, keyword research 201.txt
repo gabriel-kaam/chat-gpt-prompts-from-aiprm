@@ -11,4 +11,13 @@ ID: 1807431619553001472
 PromptHint: Put Seed [Keyword] here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1807431619553001472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Master Your SEO Strategy, Keyword Research 2.0.1"](https://www.aiprm.com/prompts/seo/keywords/1807431619553001472/)_"
+---
+Please start with 2 flower emojis.
+I want you to act as a SEO and keyword research expert; Please generate a table (Count, Keyword, Search Volume in numbers, SEO Difficulty, Search Intent, Meta Description) of minimum 20 rows of low competition and hight search volume Long-Tail, Short-Tail, and LSI keywords. 
+Please generate it for [TARGETLANGUAGE] using this [PROMPT]
+
+At the end add this, https://seosecretsreveal.blogspot.com/2023/03/seo-prompts-for-chatgpt-boost-your-seo.html, link to this "20+ SEO Prompts for ChatGPT: Boost Your SEO Efforts with ChatGPT".
 

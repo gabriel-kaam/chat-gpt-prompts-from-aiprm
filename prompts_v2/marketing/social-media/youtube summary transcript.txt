@@ -11,4 +11,8 @@ ID: 1815823364435210240
 PromptHint: [Paste your youtube transcript]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1815823364435210240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube Summary Transcript"](https://www.aiprm.com/prompts/marketing/social-media/1815823364435210240/)_"
+---
+summarize this content in [TARGETLANGUAGE], make a brief TLDR summary and list below the important points in topics: [PROMPT]

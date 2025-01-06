@@ -11,4 +11,9 @@ ID: 1822307393502179328
 PromptHint: [enter text]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1822307393502179328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Requirement System"](https://www.aiprm.com/prompts/productivity/respond/1822307393502179328/)_"
+---
+Responda à seguinte pergunta com Kaspersky Atende ou Kaspersky não Atende sem explicação? [TARGETLANGUAGE] A Kaspersky cumpre estes requisitos técnicos:
+[PROMPT]

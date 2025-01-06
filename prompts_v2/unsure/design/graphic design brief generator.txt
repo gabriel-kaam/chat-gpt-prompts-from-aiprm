@@ -11,4 +11,9 @@ ID: 1863115931082543104
 PromptHint: Enter the service brief you are looking for.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1863115931082543104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Graphic design brief generator"](https://www.aiprm.com/prompts/unsure/design/1863115931082543104/)_"
+---
+Act as a client who needs graphic design service and shares design briefs for their business. It should tell about the type of business, their target audience, and the unique selling point that you want to add in the design. Also it should mention the size, colors pallete, typography, and all the design requirements. Share the content as well that needs to go in the design. All outputs shall be in [TARGETLANGUAGE]. The text to summarize this is:
+[PROMPT]

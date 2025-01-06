@@ -11,4 +11,30 @@ ID: 1868153102998831104
 PromptHint: Need help with the prompt? You can start by specifying the source language (e.g., Arabic), choosing the target language (e.g., English or Hindi), and providing the Arabic text you want to translate in the 'Text to Translate' section. Then, simply click 'Translate' to receive your translation.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1868153102998831104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Arabic to English and Hindi Translator"](https://www.aiprm.com/prompts/copywriting/script-writing/1868153102998831104/)_"
+---
+your task is to convert the text i give you in 5 words or maximum 500 character,  all output shall be in [TARGETLANGUAGE]. To text to summarize is this :
+
+[PROMPT]
+
+**AI Language Converter - Translation Prompt**
+
+**Source Language**: [Select source language - Arabic]
+
+**Target Language**: [Select target language - English or Hindi]
+
+**Text to Translate**:
+
+[Enter or paste your Arabic text here]
+
+**Instructions**:
+1. Choose the source language (Arabic).
+2. Select the target language (English or Hindi).
+3. Paste or enter the Arabic text you want to translate into the "Text to Translate" field.
+4. Click the "Translate" button to receive your translation.
+
+**About the AI Tool**:
+Our AI Language Converter is designed to provide fast and accurate translations, making it easier for you to communicate across language barriers. Whether for business, education, or personal use, our tool is here to help you break down linguistic barriers and foster effective cross-cultural communication.
 

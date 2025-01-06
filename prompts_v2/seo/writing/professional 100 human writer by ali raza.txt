@@ -11,4 +11,8 @@ ID: 1896393065360015360
 PromptHint: Above 9000 words
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1896393065360015360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "professional 100% human writer by ALI RAZA"](https://www.aiprm.com/prompts/seo/writing/1896393065360015360/)_"
+---
+Create a blog post about “{blogPostTopic}” . Write it in a “{tone}” tone. Use transition words. Use active voice. Write over 8000 words. The blog post should be in a beginners guide style. Add title and subtitle for each section. It should have a minimum of 12 sections.Include the following keywords: “{keywords}”. Create a good slug for this post and a meta description with a maximum of 160 words. 20 tags for this post and add it to the end of the blog post[TARGETLANGUAGE] and [PROMPT]

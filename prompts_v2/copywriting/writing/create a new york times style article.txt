@@ -11,4 +11,10 @@ ID: 1851412499472838656
 PromptHint: [text to create the article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1851412499472838656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a New York Times style article"](https://www.aiprm.com/prompts/copywriting/writing/1851412499472838656/)_"
+---
+You are a journalist specialized in technology. I want you to write an article of maximum 1500 words in [TARGETLANGUAGE] in the style of the New York Times. That it has yes or yes a title and at the end 3 key points to understand the subject.
 
+[PROMPT]

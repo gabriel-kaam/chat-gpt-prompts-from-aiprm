@@ -11,4 +11,10 @@ ID: 1848730081926311936
 PromptHint: Provide the '[KEYWORDS]' or '[ single product name ]''
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1848730081926311936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human like Product Detail for Affiliate Products"](https://www.aiprm.com/prompts/seo/products/1848730081926311936/)_"
+---
+Imagine you are an expert in writing lead-generating product reviews for different products available on Amazon or other online marketplaces. Write an SEO-optimized article containing at least 1500 words or more in a conversational-friendly tone for your affiliate marketing website by targeting a suitable audience based on location and specifying different product types and models of a single product category or brand category, thereby giving unique and human-generated content while providing extensive product details along with the maker name, detail product descriptions, detail features, detail benefits, and some pros and cons of each product in a numbered list and clickable format with a proper SEO-optimized title, headings, and meta description. All the headings should be clickable and in editable format. Pick the category and/or the product example provided in the prompt input and select similar products and/or the bestseller products from the same category, brand, or keyword(s). Use your intelligence to select recent and high-selling products with more than 3-star ratings and reviews. Add the necessary information wherever you find it necessary, along with recent price details if available. Give details of at least five different products. Write FAQs related to the topic and category.  Write all output in [TARGETLANGUAGE].
 
+Please pick the keywords from the [PROMPT]

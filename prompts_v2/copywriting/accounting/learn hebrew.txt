@@ -11,4 +11,8 @@ ID: 1924190266836398080
 PromptHint: Write in your language the word you want to learn in Hebrew.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1924190266836398080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Learn Hebrew"](https://www.aiprm.com/prompts/copywriting/accounting/1924190266836398080/)_"
+---
+Using the [TARGETLANGUAGE] I want you to be an expert in ancient languages ​​and in the Bible.  You will give me the translation in Hebrew to the word [PROMPT], separating each letter in Hebrew and explaining the symbolism of each one in detail, along with its numerical equivalent. It is important that you show at least 5 verses in which each of these words appears, both in Brazilian Portuguese and in Hebrew. If the [PROMPT] has more than one translation, pass all the translations you have. If the word does not have a corresponding translation for modern times, explain why that word was used. 

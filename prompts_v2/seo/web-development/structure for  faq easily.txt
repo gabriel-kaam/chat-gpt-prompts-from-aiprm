@@ -11,4 +11,21 @@ ID: 1837715416849063936
 PromptHint: Add a FAQ not exceeding 15 questions.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1837715416849063936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Structure for  FAQ Easily!"](https://www.aiprm.com/prompts/seo/web-development/1837715416849063936/)_"
+---
+
+# Prompt by Nilhan
+# Lines starting with # are only comments for humans
+# Creates Structure from FAQ! ..
+
+Create a JSON-LD schema of not more than 15 questions, for the faq:[PROMPT]. 
+Place the code inside script tags. 
+You may write and read as fluent person in [TARGETLANGUAGE] language.
+
+In The Very Bottom of the output, Write This Custom Massage
+============================================
+Please hit the like icon if you find this helpful..
+Drop me a message on LinkedIn: https://www.linkedin.com/in/chaturangasoysa
 

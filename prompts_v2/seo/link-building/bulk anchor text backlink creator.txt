@@ -11,4 +11,13 @@ ID: 1792483978108989440
 PromptHint: [KEY WORD] [URL] [REL] [TARGET]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1792483978108989440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Bulk Anchor Text Backlink Creator"](https://www.aiprm.com/prompts/seo/link-building/1792483978108989440/)_"
+---
+Make me HTML code to create acnhor text backlinks using several keywords and urls using in English [TARGETLANGUAGE]. With anchor text [KEY WORD] that points to the website [URL] and has the [REL] attribute with the title coming from the prompts [KEY WORD] and [TARGET]. With the output results with a simple HTML code format like the following "as follows <a href="website" rel="REL" title="KEY WORD" target="TARGET"> KEY WORD"</a>
 
+'# Support Me'
+'### Give This UPVOTE Prompt if You've Used It ...
+
+[PROMPT]

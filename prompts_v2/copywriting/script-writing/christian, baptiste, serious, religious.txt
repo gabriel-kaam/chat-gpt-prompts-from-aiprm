@@ -11,4 +11,102 @@ ID: 1891994705135919104
 PromptHint: Christian, Baptiste, Serious, Religious
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1891994705135919104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Christian, Baptiste, Serious, Religious"](https://www.aiprm.com/prompts/copywriting/script-writing/1891994705135919104/)_"
+---
+Created with AIPRM Prompt [TARGETLANGUAGE] "Creative Content Creator [PROMPT]
+# Set story title
+title = "Les Liens Cachés" 
 
+# Set story setting
+setting = {
+  "location": "Montmartre, Paris",
+  "description": "Charming neighborhood known for its artistic flair and picturesque streets lined with cafes and shops. Creates a vibrant, romantic atmosphere."
+}
+
+# Define characters
+characters = [
+  {
+    "name": "Mary",
+    "age": 25, 
+    "occupation": "Graphic designer",
+    "traits": ["Strong-willed", "Talented"],
+    "goal": "To keep her relationship with Pierre a secret",
+  },
+  {
+    "name": "Jenny", 
+    "age": 20,
+    "occupation": "College student and musician",
+    "traits": ["Aspiring", "Trusting"],
+    "goal": "To advance her music career",
+  },
+  {
+    "name": "Pierre",
+    "age": 27,
+    "occupation": "Artist",
+    "traits": ["Struggling", "Persistant"], 
+    "goal": "To win Mary back",
+  },
+  {  
+    "name": "Thomas",
+    "age": 23,
+    "occupation": "Unknown",
+    "traits": ["Friendly", "Charismatic", "In love with Jenny"],
+    "goal": "To have a relationship with Jenny",
+  }
+]
+
+# Outline story structure  
+story = [
+  {
+    "type": "Scene",
+    "number": 1,
+    "setting": "Montmartre streets",
+    "description": "Picturesque cobblestone streets, cafes, Sacré-Cœur Basilica in background."
+  },
+  {
+    "type": "Scene", 
+    "number": 2,
+    "setting": "Mary's apartment",
+    "description": "Mary working on computer, sees Pierre painting outside."
+  },
+  {
+    "type": "Scene",
+    "number": 3, 
+    "setting": "Mary and Jenny's kitchen",
+    "description": "Mary confesses relationship with Pierre to Jenny."
+  },
+  {
+    "type": "Scene",
+    "number": 4,
+    "setting": "Montmartre streets",
+    "description": "Mary encounters Thomas, feels guilty."
+  },
+  {
+    "type": "Scene",
+    "number": 5,  
+    "setting": "Local cafe",
+    "description": "Jenny performs, Thomas watches admiringly."
+  },
+  {
+    "type": "Scene",
+    "number": 6,
+    "setting": "Montmartre streets",  
+    "description": "Thomas discovers Mary and Pierre, confronts them."
+  },
+  {
+    "type": "Scene",
+    "number": 7, 
+    "setting": "Montmartre rooftop",
+    "description": "Resolution scene overlooking city." 
+  }
+]
+
+# Print output
+print(f"Title: {title}")
+print(f"Setting: {setting['location']} - {setting['description']}")
+for c in characters:
+  print(f"{c['name']} - {c['traits']}") 
+for s in story:
+  print(f"Scene {s['number']}: {s['setting']} - {s['description']}")

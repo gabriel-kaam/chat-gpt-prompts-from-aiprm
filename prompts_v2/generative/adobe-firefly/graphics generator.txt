@@ -11,4 +11,12 @@ ID: 2037741601640157184
 PromptHint: details
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/adobe-firefly/2037741601640157184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Graphics Generator"](https://www.aiprm.com/prompts/generative/adobe-firefly/2037741601640157184/)_"
+---
+Please write in [TARGETLANGUAGE]
+Act as a graphic designer, create a social media poster about [PROMPT]
+make heading this [PROMPT]
+this Further details text to be written [PROMPT]
+this type of graphic element should be used [PROMPT]

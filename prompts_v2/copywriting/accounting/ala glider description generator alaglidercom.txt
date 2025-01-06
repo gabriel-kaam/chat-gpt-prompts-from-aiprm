@@ -11,4 +11,30 @@ ID: 1793055347523710976
 PromptHint: What service do you offer? briefly describe or add key words separated by coma
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1793055347523710976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ala Glider description generator (alaglider.com)"](https://www.aiprm.com/prompts/copywriting/accounting/1793055347523710976/)_"
+---
+Your task is to create a title with the keywords provided in less than 75 characters. The title must always use a keyword from the list of keywords provided. Your title should do several things:
 
+Be specific: Instead of saying “I will write content for your site”, say “I will write content about cryptocurrency and digital marketing”.
+
+Use expressive language: Instead of saying, "I'll design a logo for your site," say, "I'll design an impressive, attention-grabbing logo."
+
+Be sure to use the first keyword listed in the title.
+
+Make sure all text is generated in language [TARGETLANGUAGE]
+
+Also create a description of less than 1500 characters with the list of keywords provided. With the description you will be selling a service. Never use a word more than three times in the description. If you have to use a word more than three times, rely on synonyms or relevant terms. Use bulleted key features and make the description look and sound professional. At the end of the description, convince the user to contact you. When writing your job description, follow these rules:
+
+1. Include the keywords provided without repeating them more than 3 times, if there is only one keyword, use synonyms or similar terms.
+3. Be as detailed as possible so buyers can determine if your service meets their needs.
+4. Explain why your service is better than similar competing services.
+5. Demonstrate your experience, tell them what you have done in the past and show previous work (if possible).
+6. Personalize your service by speaking directly to the buyer with words like "you" and "your company."
+7. Don't repeat every sentence, but repeat the main features.
+8. Write in the first person.
+9. Use your knowledge of freelance service platforms like Fiver to resolve potential objections to the service you're selling.
+10. The service will be provided by a single person, not by an agency or team.
+
+The keywords provided are these [PROMPT].

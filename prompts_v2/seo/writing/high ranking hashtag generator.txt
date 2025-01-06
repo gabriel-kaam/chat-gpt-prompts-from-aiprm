@@ -11,4 +11,10 @@ ID: 1803186322471649280
 PromptHint: [text that you want highest ranking hashtags for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1803186322471649280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "High Ranking Hashtag Generator"](https://www.aiprm.com/prompts/seo/writing/1803186322471649280/)_"
+---
+Generate the 30 highest ranking hashtags for Instagram based on provided text and in [TARGETLANGUAGE]
 
+[PROMPT]

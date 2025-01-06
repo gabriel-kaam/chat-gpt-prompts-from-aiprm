@@ -11,4 +11,15 @@ ID: 1786846392313188352
 PromptHint: Include Only 5 Product Names And Model Separated By (,) Commas
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1786846392313188352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Top 5 Product Review Articles "](https://www.aiprm.com/prompts/copywriting/products/1786846392313188352/)_"
+---
+You write a Different Different 5 Product Review Articles Unlimited character. Product Short article summary (Collect each product name in "Prompt Hint" Text I include product name and model separated by comma)
+, Include h2 tag and In Long discussion for each Product by separated ,and Full Feture each Product by separated, and Warranty & Service for each Product by separated, Other Users Opinion for each Product by separated, Pros and cons for each Product by separated, and add at the end of the article Conclusion.
 
+And You write a Article SEO Title, and SEO Meta Description in this Top 5 Product Review article.
+
+[TARGETLANGUAGE].  The sentence to summarize is this.
+
+[PROMPT]

@@ -11,4 +11,13 @@ ID: 1802125822568685568
 PromptHint: [Paste your Youtube video transcript with timestamps]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1802125822568685568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube Chapters Generator"](https://www.aiprm.com/prompts/marketing/marketing/1802125822568685568/)_"
+---
+In [TARGETLANGUAGE] create a list of key moments with their coordinating time stamps where it was discussed in the video.
 
+Use this as an example for the timestamps 09:23
+Transcript: [PROMPT] 
+
+When completed, ask for any remaining transcript for the video and then combine all parts of the transcript into 1 list of time stamps and key moments.

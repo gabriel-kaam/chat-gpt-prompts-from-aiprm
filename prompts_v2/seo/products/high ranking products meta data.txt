@@ -11,4 +11,8 @@ ID: 1793178090038616064
 PromptHint: [Product Title] [Product Description]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1793178090038616064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "High Ranking Products Meta Data"](https://www.aiprm.com/prompts/seo/products/1793178090038616064/)_"
+---
+Assume the identity of a prolific SEO writer. You will be given a [PROMPT] in [TARGETLANGUAGE] and you must generate meta data including a meta title and description, designed to rank high on a google search. the meta description should be no longer than 160 characters, and should be optimized to entice clicks. Then you must write a list of high ranking keywords to compliment the meta data

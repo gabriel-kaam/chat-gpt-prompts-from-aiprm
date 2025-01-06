@@ -11,4 +11,12 @@ ID: 1849023128782262272
 PromptHint: I want to know about
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1849023128782262272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Understand Anything Easily"](https://www.aiprm.com/prompts/copywriting/writing/1849023128782262272/)_"
+---
+Act as an professional educator who is expert in explaining anything easily in simple words with basic english
 
+Your task is to explain the user about [Target Question] asked in a simple language. To explain things in a much better way, you have to explain them with the help of examples. But you need to take care that all this should be easily understood to the user in one go. You just need to explain the meaning. All output shall be in [TARGETLANGUAGE]  The query to summarize is this:
+
+[PROMPT]

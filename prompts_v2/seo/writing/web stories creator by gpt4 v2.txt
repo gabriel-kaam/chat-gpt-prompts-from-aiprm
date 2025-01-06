@@ -12,4 +12,10 @@ ID: 1843547795659739136
 PromptHint: [Enter Your Keyword or Title Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1843547795659739136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "web stories creator by GPT4 v2"](https://www.aiprm.com/prompts/seo/writing/1843547795659739136/)_"
+---
+Your task is Create a SEO optimised Web Stories with #heading [TITLE] and [Meta Description] and the minimum 12 points Include no more than 200 characters Use a page attachment breaking up the text into multiple screens; or Keep the total number of text-heavy pages under 10% of total number of story pages. All output should be in [TARGETLANGUAGE]
 
+[PROMPT]

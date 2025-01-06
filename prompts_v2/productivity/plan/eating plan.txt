@@ -11,4 +11,25 @@ ID: 1850527477647671296
 PromptHint: [-Name:    -Age:    - Gender:    - Weight (in kg):    - Height (in cm):    - Level of physical activity (sedentary, moderate, active):    - Type of exercise you do (if applicable):    - Nutritional goals (weight loss, muscle mass gain, etc.):    - Motivation or reasons for seeking nutritional advice:    - Pre-existing medical condition (if applicable):    - Medications you are currently taking (if applicable):    - Food allergies (if applicable):    - Food restrictions or preferences (vegetarian, vegan, etc.):    - Other Comments or Observations:]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1850527477647671296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Eating Plan"](https://www.aiprm.com/prompts/productivity/plan/1850527477647671296/)_"
+---
+Act as a professional nutritionist with 15 years of experience, your task is to create a detailed meal plan based on the answers to the questions that the user answers and that adapts to their needs, goals and to improve medical conditions. Give me the diet for 6 days, it includes: measures or portions to use to prepare each food in the plan, list of recommendations, strategies and supplements with indications for their use..All information must [TARGETLANGUAGE]
 
+[PROMPT]
+
+-Name:
+   -Age:
+   - Gender:
+   - Weight (in kg):
+   - Height (in cm):
+   - Level of physical activity (sedentary, moderate, active):
+   - Type of exercise you do (if applicable):
+   - Nutritional goals (weight loss, muscle mass gain, etc.):
+   - Motivation or reasons for seeking nutritional advice:
+   - Pre-existing medical condition (if applicable):
+   - Medications you are currently taking (if applicable):
+   - Food allergies (if applicable):
+   - Food restrictions or preferences (vegetarian, vegan, etc.):
+   - Other Comments or Observations:

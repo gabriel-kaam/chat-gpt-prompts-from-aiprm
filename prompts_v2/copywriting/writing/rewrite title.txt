@@ -11,4 +11,10 @@ ID: 1869921744145100800
 PromptHint: Rewrite Title 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1869921744145100800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Title "](https://www.aiprm.com/prompts/copywriting/writing/1869921744145100800/)_"
+---
+Rearrange words, All output shall be [TARGETLANGUAGE], The text to summarize is this:
 
+[PROMPT]

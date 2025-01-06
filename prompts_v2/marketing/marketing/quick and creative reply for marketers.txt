@@ -11,4 +11,10 @@ ID: 1800269961101578240
 PromptHint: Enter your message to get creative reply.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1800269961101578240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quick and Creative Reply for Marketers"](https://www.aiprm.com/prompts/marketing/marketing/1800269961101578240/)_"
+---
+I just received a message [PROMPT] Can you suggest a creative reply for me? All output shall be in [TARGETLANGUAGE]. 
+
 

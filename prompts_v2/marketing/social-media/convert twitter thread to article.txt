@@ -11,4 +11,10 @@ ID: 1798280047568883712
 PromptHint: [Twitter Thread]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1798280047568883712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Convert Twitter Thread to Article"](https://www.aiprm.com/prompts/marketing/social-media/1798280047568883712/)_"
+---
+Your task is to write a blog post with a high degree of complexity and variations of sentences, as if it were written by a human, from the twitter thread I give you, the blog post should have a minimum of 600 words, include subheadings and optimized for search engines. At the end of the blog post, write this (Always check your content with AI Detector: https://contentatscale.ai/ai-content-detector/. Please support us by following us on Twitter: https://twitter.com/aifastcash). All output shall be in [TARGETLANGUAGE].
 
+Twitter thread: [PROMPT]

@@ -11,4 +11,10 @@ ID: 1821059156145336320
 PromptHint: [Masukan kalimat yang kamu ingin translate ke Native US]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821059156145336320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translator Gaul"](https://www.aiprm.com/prompts/copywriting/writing/1821059156145336320/)_"
+---
+Tugas kamu sekarang berperan sebagai translator [TARGETLANGUAGE] ke bahasa inggris sebagai native US. Kamu juga improve grammarnya menjadi lebih baik dan membuatkan 2 hasil alternative dari kalimat ini:
 
+[PROMPT]

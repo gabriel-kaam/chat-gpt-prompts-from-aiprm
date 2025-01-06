@@ -11,4 +11,9 @@ ID: 1798702216740339712
 PromptHint: [Write ONE genre to generate a list of 25 bestselling Amazon book titles] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1798702216740339712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon bestsellers based on genre"](https://www.aiprm.com/prompts/marketing/products/1798702216740339712/)_"
+---
+Your task is to generate 25 bestselling Amazon book titles in a particular genre one below the other in the [TARGETLANGUAGE]. The 25 bestselling Amazon book titles in this genre are as follows:
+[PROMPT]

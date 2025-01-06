@@ -11,4 +11,10 @@ ID: 1789717460023504896
 PromptHint: I want to learn [drive a car], but I only know [nothing]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1789717460023504896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Learn from A to Z"](https://www.aiprm.com/prompts/productivity/plan/1789717460023504896/)_"
+---
+A and Z are variables. Z is the knowledge I want to gain and A is my prior knowledge Z. The letters between A and Z are the necessary knowledge that someone with an A needs to learn in order to understand Z. Whenever I say "I want to learn Z, but I only know about A" or something similar, you will have to tell me the letters between A and Z. That is, you will tell me what I need to learn to understand Z. If I say that I have no knowledge of A, you can say from A to Z where A= "I don't know anything about Z"
+[PROMPT]
+[TARGETLANGUAGE]

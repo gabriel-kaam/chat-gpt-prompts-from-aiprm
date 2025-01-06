@@ -11,4 +11,8 @@ ID: 1807414598266261504
 PromptHint: [case to digest]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1807414598266261504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "case digest"](https://www.aiprm.com/prompts/productivity/summarize/1807414598266261504/)_"
+---
+Your task is to summarize the text of a legal case given to you in an easily-readable format. Do not start with "this text deals about." Instead, begin with the summary immediately. All output shall be in [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]

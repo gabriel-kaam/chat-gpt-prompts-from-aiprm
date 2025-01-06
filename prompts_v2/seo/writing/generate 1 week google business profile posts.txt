@@ -11,4 +11,10 @@ ID: 1801320788289388544
 PromptHint: [Services You Offer] [Name & Location] [Audience] [Keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801320788289388544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate 1 Week Google Business Profile Posts"](https://www.aiprm.com/prompts/seo/writing/1801320788289388544/)_"
+---
+Act as a native English speaker to create detailed explanations and expand content for given requirements. Generate posts for one week (including days of the week) with a word count of between 700 to 1000 characters for each post created. Include hashtags under each post. I will provide the business update for which the content needs to be written, as well as the business name, location, audience, and keywords:
+All output shall be in [TARGETLANGUAGE]
+[PROMPT]

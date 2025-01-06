@@ -11,4 +11,8 @@ ID: 1836748849310388224
 PromptHint: Type long sentence
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1836748849310388224/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make sentence shorter and SEO Optimized"](https://www.aiprm.com/prompts/seo/ideation/1836748849310388224/)_"
+---
+Make this  shortest sentence and easy to read but do not use repeated words as you use everywhere "[PROMPT]" . This should be in [TARGETLANGUAGE]

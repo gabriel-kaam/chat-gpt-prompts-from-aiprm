@@ -11,4 +11,14 @@ ID: 1801598887576989696
 PromptHint: job title and technology
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801598887576989696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Technical Interview Questions for SemiCap Industry"](https://www.aiprm.com/prompts/copywriting/writing/1801598887576989696/)_"
+---
+Act as a hiring manager. Your task is to create a table of three technical interview questions based on the prompt. Make column one the question, column two the answer, and column three explain the answer to a 5th grader. 
 
+Output in [TARGETLANGUAGE].
+
+Create the table based on:
+
+[PROMPT]

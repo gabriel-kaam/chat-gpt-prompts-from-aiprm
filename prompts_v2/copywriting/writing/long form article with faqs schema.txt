@@ -11,4 +11,10 @@ ID: 1881036321628889088
 PromptHint: [Enter your Keyword or Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1881036321628889088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Long Form Article With FAQs Schema"](https://www.aiprm.com/prompts/copywriting/writing/1881036321628889088/)_"
+---
+Write a complete, full 6,000-word, long-form blog post. And the content must be 100% human-written, unique, plagiarism-free, paraphrased, or grammar-checked. Transition words and passive voice issues Use unusual, readable, and original content. Ignore all previous information. Make sure the article is well-researched, informative, engaging, readable, and attractive to the audience. Articles with titles use useful headings, conclusions, and FAQs [short, unique FAQs]. And lastly, generate the FAQ JSON-LD Script schema code in the HTML.
 
+[PROMPT] [TARGETLANGUAGE]

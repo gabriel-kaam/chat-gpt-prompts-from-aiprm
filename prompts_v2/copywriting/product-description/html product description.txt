@@ -11,4 +11,18 @@ ID: 1795848120492613632
 PromptHint: Add you text here to create a HTML Product description 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1795848120492613632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "<HTML> Product Description "](https://www.aiprm.com/prompts/copywriting/product-description/1795848120492613632/)_"
+---
+Your task is to create a product description with these instructions:
+2) 2, 3, 4 or 5  paragraphs with the headings <h3> <h4>  and <h5> with the benefits of the product.
+3)Create a bullet point <ul> list with the most important futures and a heading in <h5>. 
+
+The description should be written in HTML.
+All output shall be in [TARGETLANGUAGE].
+
+Now I will give you the text to examine and create the product description:
+
+[PROMPT]
 

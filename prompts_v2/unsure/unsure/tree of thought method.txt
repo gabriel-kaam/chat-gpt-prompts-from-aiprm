@@ -11,4 +11,9 @@ ID: 1833410911827406848
 PromptHint: Tree of Thought
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1833410911827406848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Tree of Thought method"](https://www.aiprm.com/prompts/unsure/unsure/1833410911827406848/)_"
+---
+Three experts with exceptional logical thinking skills are collaboratively answering a question using a tree of thoughts method. Each expert will share their thought process in detail, taking into account the previous thoughts of others and admitting any errors. They will iteratively refine and expand upon each other's ideas, giving credit where it's due. The process continues until a conclusive answer is found. Organize the entire response in a markdown table format. The question is:
+[PROMPT] [TARGETLANGUAGE]

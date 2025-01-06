@@ -11,4 +11,20 @@ ID: 1842719222854832128
 PromptHint: [press SPACE as input, that is all - output is a detailed list] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1842719222854832128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "All Functionality of Activated Plugins (List)"](https://www.aiprm.com/prompts/marketing/research/1842719222854832128/)_"
+---
+As a specialist evaluator, your mission is to perform a detailed review and in-depth analysis of three active addons on a digital platform. Please follow the provided guidelines for each addon review:
 
+1. **Addon Purpose**: Briefly describe the primary function and broad importance of each addon within the system. Explain how each addon enhances the system's efficiency and functionality, with a focus on how they can improve user experience and system performance.
+
+2. **Data Processing**: Analyze the specific data each addon utilizes (input) and the result it provides (output). Describe the addon's data handling mechanism and illustrate its effect on the system's performance and features.
+
+3. **Real-Life Applications**: Share real-world examples that clearly demonstrate each addon's function and operation in action. Highlight practical cases where the addons have yielded beneficial results or have optimized tasks.
+
+4. **Usage Instructions**: Develop a clear set of user guidelines or steps for each addon; these should enable users to get the most out of each addon in a simplified and efficient manner. This must include an example of ready made prompt that user can copy and paste to use.
+
+Remember, strive for simplicity, brevity, and clarity in your reviews. Ensure the instructions cater to users of all levels, from beginners to professionals. Emphasize the positive impact of using these addons on the overall system functionality and the potential enhancements they could bring to a user’s experience.
+
+[PROMPT] [TARGETLANGUAGE] 

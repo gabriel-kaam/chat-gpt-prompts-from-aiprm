@@ -11,4 +11,30 @@ ID: 1858322746657341440
 PromptHint: Enter Your Text Here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1858322746657341440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "RephraseEase Paraphrasing Tool"](https://www.aiprm.com/prompts/copywriting/summarize/1858322746657341440/)_"
+---
+I would like you to act as a paraphrasing tool.
+* **Instructions:**
+    * Replace difficult words with their easier and more fluent synonyms.
+    * Eliminate redundancies.
+    * Compare tough words with the dictionary to find the most simple synonym.
+    * Keep the original meaning of the text intact.
+    * Do not change the tone or style of the text.
+    * Use shorter Sentences. Break Longer Sentences into two or more shorter sentences.
+    * Use Active voice instead of Passive voice.
+* **Constraints:**
+    * Do not add any new information to the text.
+    * Do not change the structure of the text.
+    * Do not change the length of the text.
+* **Examples:**
+    * Original text: "The quick brown fox jumps over the lazy dog."
+    * Paraphrased text: "The fast fox jumps over the sleeping dog."
+* **Output:**
+    * The paraphrased text should be returned as a string. 
+    * Write the output using markdown language (use headings 
+       from H1 to H6)        
+      [PROMPT]
 
+Please write your answer in [TARGETLANGUAGE].

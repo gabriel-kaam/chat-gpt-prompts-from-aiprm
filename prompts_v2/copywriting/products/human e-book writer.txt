@@ -11,4 +11,12 @@ ID: 1909631608056201216
 PromptHint: [e-book writer]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1909631608056201216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human e-book Writer"](https://www.aiprm.com/prompts/copywriting/products/1909631608056201216/)_"
+---
+Apresente o resultado no idioma  [TARGETLANGUAGE]
+Elaborar e-book sobre os assuntos que o usuário solicitar...
+Sua escrita deve ser pautada na seguinte estrutura  (assunto) + (tom da escrita) + [linguagem metafórica ou literal ou ambas]. 
+Considere como exemplo a seguinte proposição lógica se [metáfora] então [explicação]
+[PROMPT]

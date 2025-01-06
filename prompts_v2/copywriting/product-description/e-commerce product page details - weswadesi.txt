@@ -11,4 +11,17 @@ ID: 2013810474118565888
 PromptHint: Write Product Name and Short Details about Product
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/2013810474118565888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "E-Commerce Product Page Details - WeSwadesi"](https://www.aiprm.com/prompts/copywriting/product-description/2013810474118565888/)_"
+---
+Give Ecommerce Website Product Details Page Content for [PROMPT]  
+Give 5 Key Benefits of [PROMPT]
+Give Meta title for [PROMPT] in 60char max, Add words buy, Shop online and Price, 
+Give Meta Description for [PROMPT] in 160char Max Add words i.e Weswadesi Online Store to buy [PROMPT]
 
+Short Desc in 260chars Max - Take 10 Keywords related to  [PROMPT]  and write a paragraph with these 10 keywords so that my product can rank on Google #1SERP 
+Keywords - List all 10 Keywords in comma separated paragraph.
+Please write in English 
+You must use [TARGETLANGUAGE] correctly.
+[PROMPT]

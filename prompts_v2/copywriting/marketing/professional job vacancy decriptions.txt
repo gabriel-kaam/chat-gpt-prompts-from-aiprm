@@ -11,4 +11,9 @@ ID: 1793116623536906240
 PromptHint: [Insert Job Title] [Insert Your Company Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1793116623536906240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Professional Job Vacancy Decriptions"](https://www.aiprm.com/prompts/copywriting/marketing/1793116623536906240/)_"
+---
+[PROMPT] Write a professional job vacancy for the position of [Job Title], in english [TARGETLANGUAGE], with the appropriate job description, for [Company Name], [Location] also add the condition [Terms] and [Specific Terms],  also amount range of [SALARY], this job vacancy is [Job Type], and CV sent via email to [Email]. 
+and at the end of the article write this"Please support us by visiting us on - https://coinbazooka.com"

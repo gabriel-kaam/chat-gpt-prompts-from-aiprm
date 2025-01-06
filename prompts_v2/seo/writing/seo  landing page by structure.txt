@@ -11,4 +11,17 @@ ID: 1791108565029875712
 PromptHint: [Keyword or theme]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1791108565029875712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO | Landing page by structure"](https://www.aiprm.com/prompts/seo/writing/1791108565029875712/)_"
+---
+Find top-performing keywords for [PROMPT] and use it for generate landing page text in fluent [TARGETLANGUAGE] following this structure:
+First section contains an intro headline and rext near 500 symbols using keywords.
+Second section is about what [PROMPT] items can be picked up, which contains an headline with relevant keywords and a list of times in the description.
+Third section is the reviews section. Which Contains headlines and 5 reviews about [PROMPT] for a company
+Fourth section should have the headline and text paragraph of our [PROMPT] projects already done.
+Fifth section should contain an optimized text and headline on how the [PROMPT] works and description with bullet points and size near 2000 symbols
+Sixth section is a call to action section, which Contains an headline call to action with [PROMPT] and a short description of 400-500 symbols that will contain email and book now links.
+Seventh section is a call to action section with a form, which should have an headline call to action with the [PROMPT] and a short description with the [PROMPT] or relevant form.
+Last section will be popular FAQ with answers about [PROMPT] services.
+Also add title and description for [PROMPT] using emoji

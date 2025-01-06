@@ -11,4 +11,8 @@ ID: 1828391018874277888
 PromptHint: Copy and paste your slide bullets. I'll convert them into speaker notes.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1828391018874277888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create speaker note"](https://www.aiprm.com/prompts/copywriting/script-writing/1828391018874277888/)_"
+---
+I'll give you a bullet from one of the slides from my presentation and create a speaker note from it in [TARGETLANGUAGE]. The length of this slide should be 2 minutes. Read following contents [PROMPT]

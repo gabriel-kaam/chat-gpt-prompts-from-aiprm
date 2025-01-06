@@ -11,4 +11,18 @@ ID: 1787927482763313152
 PromptHint: [Company Type] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1787927482763313152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Busines Model Canvas"](https://www.aiprm.com/prompts/marketing/marketing/1787927482763313152/)_"
+---
+Necesito que me ayudes a crear un business model canvas para una empresa de [PROMPT].
 
+Por favor organiza tus respuestas en una tabla que reproduzca el formato original usado en consultoría.
+
+Quiero que escribas respuestas detalladas que estén focalizadas en aportar valor y actúes como un consultor experto en marketing digital.
+
+Necesito que todas tus respuestas seaen en:[TARGETLANGUAGE]
+
+On top say in [TARGETLANGUAGE] "CRONUTS.DIGITAL DIGITAL STRATEGY FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps with a rocket emoji at the beginning.
+
+The last line down say in [TARGETLANGUAGE] "To learn more about us www.cronuts.digital Then, under the table say "If you liked this prompt please like it on the prompt search page."

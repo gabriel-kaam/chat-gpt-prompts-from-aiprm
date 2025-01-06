@@ -11,4 +11,11 @@ ID: 1797110385002930176
 PromptHint: Paste product URL
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1797110385002930176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Review Generator"](https://www.aiprm.com/prompts/copywriting/accounting/1797110385002930176/)_"
+---
+I will give you a website product url, you need to create 20 short customer review for this product
 
+[TARGETLANGUAGE]
+[PROMPT]

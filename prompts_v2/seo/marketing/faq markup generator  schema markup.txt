@@ -11,4 +11,8 @@ ID: 1781755088919060480
 PromptHint: [Your Content]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1781755088919060480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " FAQ Markup Generator + Schema Markup "](https://www.aiprm.com/prompts/seo/marketing/1781755088919060480/)_"
+---
+Create two Questions and matching answers in [TARGETLANGUAGE] based on [PROMPT] and matching FAQ-Schema Markup and format it as JSON-LD.

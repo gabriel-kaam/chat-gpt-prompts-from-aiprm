@@ -11,4 +11,10 @@ ID: 1875728088672489472
 PromptHint: Enter you prompt here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1875728088672489472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "In-context explanation of expressions"](https://www.aiprm.com/prompts/unsure/writing/1875728088672489472/)_"
+---
+What does [VARIABLE1] mean in the context of  "[PROMPT]" in [TARGETLANGUAGE]?
 
+ [VARIABLE1: word]

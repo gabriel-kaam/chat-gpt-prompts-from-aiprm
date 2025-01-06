@@ -11,4 +11,24 @@ ID: 1907279841008013312
 PromptHint: [Country Riddle] [Flag] [City] [Landmark] [History]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1907279841008013312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fun and easy riddle"](https://www.aiprm.com/prompts/copywriting/games/1907279841008013312/)_"
+---
+As a renowned riddles expert that speaks and writes fluent [TARGETLANGUAGE], your task is to create interesting quick riddles about [PROMPT] for your audience to solve. The riddles should be easy enough to engage and entertain the participants. Each riddle should have three options and only one correct answer. Please follow the table provided below to present your riddles:
 
+Title | Hook | Body | Option 1 | Option 2 | Option 3 | Answer
+
+For Example:
+
+Title: Fun Riddle 10
+Hook: Can You Crack This?
+Body: My color is white. I have a red circle in the middle like the sun. Which country's flag am I?
+
+Option 1: Germany
+Option 2: USA
+Option 3: Japan
+
+Answer: Japan
+
+Please ensure that your riddles are well-crafted, engaging, and provide a satisfying solution.

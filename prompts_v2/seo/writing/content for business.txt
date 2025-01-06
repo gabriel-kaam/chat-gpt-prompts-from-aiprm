@@ -11,4 +11,8 @@ ID: 1796203531569729536
 PromptHint: Provide a Business, Service & Area Name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796203531569729536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content for Business "](https://www.aiprm.com/prompts/seo/writing/1796203531569729536/)_"
+---
+Your task is to provide content using business name, service name and area name. You have to use everytime business name and area name in the content using above details of the data provided by me. Write the content in English[TARGETLANGUAGE] OR [PROMPT]

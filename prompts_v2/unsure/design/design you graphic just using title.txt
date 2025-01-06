@@ -11,4 +11,17 @@ ID: 1832371959003086848
 PromptHint: [enter your title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1832371959003086848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Design you graphic just using Title"](https://www.aiprm.com/prompts/unsure/design/1832371959003086848/)_"
+---
+Act like a graphic design expert [TARGETLANGUAGE] 
+help me to design a post for [PROMPT]
+give me instruction and direction of about composition,
+which font to use?
+which color to use?
+which subject to use?
+which slogan to use?
 
+attention grabbing and minimal
+write every thing for the post on steps form start to finish 

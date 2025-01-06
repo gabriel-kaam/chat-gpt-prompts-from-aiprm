@@ -11,4 +11,20 @@ ID: 1987348926307229696
 PromptHint: Enter your arrival time in 24-hour format to calculate when you can leave after a full workday.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1987348926307229696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Calculate Your Leaving Time"](https://www.aiprm.com/prompts/unsure/unsure/1987348926307229696/)_"
+---
+[TARGETLANGUAGE]: English
 
+[PROMPT]:
+
+Title: Calculate Your Leaving Time
+Teaser: Quickly find out what time you need to leave the office based on your arrival time.
+Prompt Hint: Enter your arrival time in 24-hour format to calculate when you can leave after a full workday.
+Prompt:
+"Enter your arrival time to calculate your leaving time for a full workday of 8 hours and 40 minutes.
+
+Input your arrival time in 24-hour format.
+Add 8 hours and 40 minutes to determine your leaving time.
+The calculated leaving time will be displayed in a 24-hour format.

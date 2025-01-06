@@ -11,4 +11,10 @@ ID: 1853795227107323904
 PromptHint: [Paste your content]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1853795227107323904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Facebook Post Content V1"](https://www.aiprm.com/prompts/marketing/social-media/1853795227107323904/)_"
+---
+Create a post that will be successful on Facebook. I will provide you with the content [PROMPT] of the posts. Make sure to include a hashtag, emojis, and a keyword that is relevant to your post. Keep your post within the character limit for each platform: Facebook (15801.5 Tokens) Don't repeat yourself and don't explain what and why. Just give your best output. Write all output in [TARGETLANGUAGE] .
 
+Conclude with the link which is at the end as read more link

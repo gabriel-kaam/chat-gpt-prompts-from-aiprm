@@ -13,4 +13,32 @@ ID: 1884888880746909696
 PromptHint: [Short description of business and target audience, minimum number of product features you expect ChatGPT to identify, customer reviews]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1884888880746909696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product's benefits"](https://www.aiprm.com/prompts/marketing/products/1884888880746909696/)_"
+---
+Hi Chat GPT, in marketing, we define products' features, their benefits, and the "benefit of each benefit". With the term "benefit of each benefit" we refer to more tangible benefits that improve customers' lives, and we can extrapolate them starting from the product features. Please make sure the benefit of each benefit that you identify regards exclusively the customer and not our brand. Also, note that you should extract each product feature and benefit exclusively from the customer reviews and not from the business description that I provide you with. Use the business description only for context. 
 
+I will give you a short business description of my company and a list of product features from our competitors, and I would like you to:
+ 
+1. Scan each word, recognise and extrapolate as many product features as you possibly can identify
+2. State the benefit of each feature
+3. State the benefit of the benefit for each
+4. Turn the benefit of the benefit into a high-converting headline that resonates with my target audience, combining the experience of the most famous copywriter in history, and choosing the style that you believe would fit best for each benefit. Choose who to take inspiration from: Joseph Sugarman, David Ogilvy, Dan Kennedy, Eugene Schwartz, Claude Hopkins, and any other expert copywriter you might know. Specify which style you have chosen next to the headline you craft, for each benefit. 
+ 
+I will also specify the minimum number of product features that you should identify. 
+ 
+Find an example below:
+1. Product feature: Hood that can be zipped off 
+2. Product benefit: Take off the hood if you don't want to use it
+3. Benefit of the benefit: Makes the jacket take up less space during transportation and is even more lightweight and comfortable during use
+4. High-converting headline: "Unzip the Extra: Lighten Your Load, Elevate Your Style!" - Joseph Sugarman
+
+You are my company's expert creative strategist, leveraging your knowledge about my company, any additional market research you know from your experience within the sector, consumer psychology principles, and simple vocabulary which resonates with our target audience, which would be easy to understand even for a kid. Please format your output so that is easy to read, using bold text if needed and where relevant.
+
+Your analysis and output will be instrumental in crafting a landing page that resonates with potential customers and effectively addresses their needs and concerns, ultimately driving conversions.
+
+
+The output should be in [TARGETLANGUAGE]. Please find below a short business description of my company and target audience, the minimum number of product features you should identify, and a list of customer reviews:
+
+[PROMPT]

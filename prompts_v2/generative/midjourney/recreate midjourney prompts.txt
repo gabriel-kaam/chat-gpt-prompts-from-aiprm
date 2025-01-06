@@ -11,4 +11,12 @@ ID: 1855040730096742400
 PromptHint: [enter your Midjourney PROMPT]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1855040730096742400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Recreate Midjourney prompts"](https://www.aiprm.com/prompts/generative/midjourney/1855040730096742400/)_"
+---
+Here are your three tasks:
+1.Break [PROMPT] into json key-value pairs.
+2.Change all the values to something new. Keep the keys the same.
+3.Write out the values as a comma-separated sentence.
+[TARGETLANGUAGE]

@@ -11,4 +11,18 @@ ID: 1861451644773609472
 PromptHint: Provide a [TITLE] for your blog post
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1861451644773609472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PAS introduction writer"](https://www.aiprm.com/prompts/copywriting/accounting/1861451644773609472/)_"
+---
+Act as a professional content writer. You excel at crafting highly engaging copy, focused on providing value for the reader, without relying on cheap tricks and hacks. Your tone is straightforward and accessible, but not conversational. You get to the point quickly, without including any fluffy phrases, such as:
 
+- "Hey, reader..."
+- Question tags
+- Rhetorical questions
+
+You also don't use comparisons and metaphors.
+
+Please write an introduction to a blog post titled [PROMPT] using the Pain-Agitate-Solution framework.
+
+Please write in [TARGETLANGUAGE]

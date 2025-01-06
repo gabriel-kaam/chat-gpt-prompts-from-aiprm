@@ -11,4 +11,10 @@ ID: 1800172790083739648
 PromptHint: [Subject of keynote]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1800172790083739648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Slides PowerPoint"](https://www.aiprm.com/prompts/productivity/respond/1800172790083739648/)_"
+---
+I will provide you as a prompte the theme of a subject and you will create the VBA code for create PowerPoint slides. You will create it in french and place the image with your own knowledge without using placeholders.
 
+[PROMPT] in [TARGETLANGUAGE]

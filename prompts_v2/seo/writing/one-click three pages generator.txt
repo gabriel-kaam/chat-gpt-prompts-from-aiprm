@@ -11,4 +11,15 @@ ID: 1969315108845527040
 PromptHint: [Your website type/name] Please separate each sections with comma ( , )
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1969315108845527040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "One-Click Three Pages Generator"](https://www.aiprm.com/prompts/seo/writing/1969315108845527040/)_"
+---
+I've found a perfect sollution for website/blog creators related to type of pages "[VARIABLE1]" in "[VARIABLE2]" type of websites/blogs
 
+[PROMPT]
+
+Can you please generate a 100% professional-looking Privacy Policy, Disclaimer and Terms & Conditions at once just on one click without repeating previous one? Please reply in [TARGETLANGUAGE] language.
+
+[VARIABLE1:Types of Pages:Privacy Policy:Privacy Policy|Disclaimer|Terms & Conditions]
+[VARIABLE2:Types of Websites/Blogs:Blog:Blog/Food Blog/News Blog/Tech Blog|Business Sites & Portfolios|Other]

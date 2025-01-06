@@ -11,4 +11,32 @@ ID: 1800633742746968064
 PromptHint: Input your topic for Swot Analysis
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1800633742746968064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Swot Analysis"](https://www.aiprm.com/prompts/productivity/plan/1800633742746968064/)_"
+---
+I want you to act as a Business Consultant from a top management company that speaks and writes fluent [TARGETLANGUAGE].
+I want a SWOT analysis on [PROMPT] 
 
+Layout the SWOT Analysis in the following format. 
+Give reasons why a point is included in the SWOT Analysis. 
+Make the list compelling and professional.
+
+# [PROMPT]
+## SWOT Analysis
+
+[introduction and definition about [PROMPT]]
+
+### Strengths
+[list of key strengths, bold - maximum of 5] 
+
+### Weaknesses
+[list of key weaknesses, bold - maximum of 5] 
+
+### Opportunities
+[list of key opportunities, bold - maximum of 5] 
+
+### Threats
+[list of key threats, bold - maximum of 5] 
+
+[conclusion about [PROMPT]]

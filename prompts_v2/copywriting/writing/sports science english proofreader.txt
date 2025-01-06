@@ -11,4 +11,10 @@ ID: 1801539491132080128
 PromptHint: [text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801539491132080128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Sports Science English proofreader"](https://www.aiprm.com/prompts/copywriting/writing/1801539491132080128/)_"
+---
+Rewrite the paragraph of a scientific paper as a professional proofreader expert in sports sciences. Use a confident tone, and an academic writing style. Cut redundancies. Mantain the intext citations if it is the case. Make it shorter a more concise. Use connections between sentences. Output should be in [TARGETLANGUAGE]. 
 
+[PROMPT]

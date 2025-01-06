@@ -11,4 +11,27 @@ ID: 1882474492317151232
 PromptHint: [Product Name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1882474492317151232/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Description Using Uploaded Images (GPT-4V)"](https://www.aiprm.com/prompts/copywriting/product-description/1882474492317151232/)_"
+---
+ROLE: Act as an expert eCommerce copywriter.
 
+CONTEXT:
+Please take into consideration the following details to ensure the most accurate and compelling product description to be used on my website and other properties:
+
+Uploaded Product Image
+Product Specs: [VARIABLE1]
+Product Name: [PROMPT]
+Main Features: [VARIABLE2]
+Target Audience: [VARIABLE3]
+Any Unique Selling Points: [VARIABLE4]
+TASK:
+Generate 5 captivating and concise product descriptions based on the provided information.
+
+CONSTRAINTS:
+
+The description should be written in [TARGETLANGUAGE].
+It should be relatively short, not exceeding 100 words.
+
+[VARIABLE1:Product Specs], [VARIABLE2:Main Features: List 3-5 key features of the product],[VARIABLE3:Target Audience: Who is the product meant for? E.g., "Fitness enthusiasts," "Home chefs," "Tech lovers"],[VARIABLE4:Unique Selling Points:Anything else that sets the product apart]

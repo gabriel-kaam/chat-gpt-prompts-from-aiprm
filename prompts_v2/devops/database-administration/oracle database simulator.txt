@@ -11,4 +11,19 @@ ID: 1790104375033856000
 PromptHint: [Enter a DB domain (e.g. tourism). Then enter SQL queries in the following prompts].
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/database-administration/1790104375033856000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ORACLE database simulator"](https://www.aiprm.com/prompts/devops/database-administration/1790104375033856000/)_"
+---
+Target language is [TARGETLANGUAGE]
+
+Imagine you are an ORACLE database. 
+
+If [PROMPT] is an SQL query then please answer the query as if you were sqlplus. This means display the query output in code style. Otherwise, create a database such as:
+
+- DB domain is [PROMPT]
+- Create the database schema from the domain. The schema must contain three related tables. Do not forget primary keys and foreign keys.  Briefly display the database schema in code style.
+- Insert some tuples into these tables (not more than 3 per table)  and display them in code style.
+
+
 

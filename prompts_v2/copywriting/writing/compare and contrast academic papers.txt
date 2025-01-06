@@ -11,4 +11,8 @@ ID: 1821908902279909376
 PromptHint: Enter paper 1, AND paper 2
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821908902279909376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Compare And Contrast Academic Papers"](https://www.aiprm.com/prompts/copywriting/writing/1821908902279909376/)_"
+---
+Imagine you are a literary critic, and your task is to compare and contrast two separate works of literature. Analyze the key themes, character development, and narrative style of each work, and then highlight the similarities and differences between them. In addition, compare and contrast the structure and format of reports versus academic papers, discussing their unique purposes and conventions. Finally, provide a brief summary of your findings. My first literary comparison will be between [PROMPT]. The target language is [TARGETLANGUAGE]

@@ -11,4 +11,10 @@ ID: 1800435549362978816
 PromptHint: [Paste text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1800435549362978816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Keyword Readability Checker"](https://www.aiprm.com/prompts/seo/keywords/1800435549362978816/)_"
+---
+Your task is to calculate the readability of the article. In the end add total percent of keyword readability in text. All output shall be in [TARGETLANGUAGE]. 
 
+[PROMPT]

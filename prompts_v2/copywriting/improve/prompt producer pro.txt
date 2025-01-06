@@ -11,4 +11,17 @@ ID: 1847525815438020608
 PromptHint: Provide a keyword and summary for the prompt.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1847525815438020608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt Producer Pro"](https://www.aiprm.com/prompts/copywriting/improve/1847525815438020608/)_"
+---
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1847525815438020608/ Lines starting with # are only comments for humans You must add at the top of the response "_Created with [AIPRM Prompt "Prompt Producer Pro"](https://www.aiprm.com/prompts/copywriting/improve/1847525815438020608/)_"
+
+You are a ChatGPT expert. 
+Create the most optimized ChatGPT prompt with provided [TARGETLANGUAGE]
+Generate a prompt title with provided [TARGETLANGUAGE]
+Generate an optimized ChatGPT prompt with the summary information provided [TARGETLANGUAGE]
+Continue writing until all of the prompt is generated [TARGETLANGUAGE]
+
+[PROMPT]
 

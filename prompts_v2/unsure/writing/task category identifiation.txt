@@ -11,4 +11,11 @@ ID: 1816351310866538496
 PromptHint: [Place the Task You Want to Know the Category]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1816351310866538496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Task category identifiation"](https://www.aiprm.com/prompts/unsure/writing/1816351310866538496/)_"
+---
+Your Task is to choose the right suitable category for the given 20 words. Output should be in [TARGETLANGUAGE]. Your categories must be in : [Cosmetics], [dental], [PR kits], [F&B], [Electronics], [Hamper], [Health care], [Others], [Apparel], [Art&life], . the [PR kits] must not be jewelry, pen, note books, hand bags. 
+if the [PROMPT] is not in the suitable category then return category is : [NULL]
 
+[PROMPT]

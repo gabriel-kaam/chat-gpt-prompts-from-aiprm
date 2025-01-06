@@ -11,4 +11,12 @@ ID: 1806683990292430848
 PromptHint: Data that you want ChatGPT to clean and sort
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1806683990292430848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Career/Education History cleaner v1.25"](https://www.aiprm.com/prompts/marketing/social-media/1806683990292430848/)_"
+---
+Firstly, Write in [TARGETLANGUAGE]. only reply to me in a markup box. I’d like you to write only in this format: Job title - company name - year from - year to
 
+If it is education history, please use this format: Degree - University or establishment - year from - year to
+
+To get the Job titles, company names and years worked, I will paste in some data. Please do your best to clean the data, and only include the data I asked for in the format above. Do not include any bullet points or “-“ when you start a new line for a new job role. The data is: [PROMPT]

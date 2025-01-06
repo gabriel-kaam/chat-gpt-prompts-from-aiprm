@@ -11,4 +11,8 @@ ID: 1849030741016174592
 PromptHint: 150 words
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1849030741016174592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quora Answer Writer under 150 words"](https://www.aiprm.com/prompts/copywriting/script-writing/1849030741016174592/)_"
+---
+[PROMPT] write quora answer [TARGETLANGUAGE]

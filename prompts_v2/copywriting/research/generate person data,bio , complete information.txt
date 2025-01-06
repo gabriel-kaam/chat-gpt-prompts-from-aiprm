@@ -11,4 +11,8 @@ ID: 1907273112128049152
 PromptHint: [Name] or [information]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1907273112128049152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate person data,Bio , complete information "](https://www.aiprm.com/prompts/copywriting/research/1907273112128049152/)_"
+---
+Generate person data,Bio , complete information for sohrani baloch nation in [TARGETLANGUAGE] from given [PROMPT]

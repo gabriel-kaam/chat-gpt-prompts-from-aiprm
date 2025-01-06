@@ -11,4 +11,9 @@ ID: 1796548285360762880
 PromptHint: [Enter the topic you need scramble words for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796548285360762880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "KDP Scramble Word Puzzles Generator!"](https://www.aiprm.com/prompts/copywriting/writing/1796548285360762880/)_"
+---
+Your task is to write 20 scramble words in given [TARGETLANGUAGE]. I want you to create two columns containing original words and scramble words. I want you to come up with word lists about: 
+[PROMPT]

@@ -11,4 +11,19 @@ ID: 1838747219407945728
 PromptHint: Enter the content of the article you want to check
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838747219407945728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Checking Harmful Content by PhiHo"](https://www.aiprm.com/prompts/copywriting/writing/1838747219407945728/)_"
+---
+Can you help me check the following article in [TARGETLANGUAGE] to see if it contains sensitive keywords, horrifying elements, anger-inducing content, or shocking material:
+[PROMPT]
 
+
+Part 1: Please provide the results of the content check.
+Part 2: Please provide the revised version of the article with any harmful elements removed once they have been identified.
+
+In The Very Bottom of the article Write This Custom Massage "
+
+============================================
+
+Follow me:  https://www.facebook.com/phihoreal

@@ -11,4 +11,8 @@ ID: 1861339350844583936
 PromptHint: [time interval, topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1861339350844583936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Memorize Study Materials using Chat GPT!"](https://www.aiprm.com/prompts/productivity/plan/1861339350844583936/)_"
+---
+Can  you create a study schedule in [TARGETLANGUAGE] for reviewing the material at increasing time over the interval [PROMPT] while utilizing the space repetition technique for the topic [PROMPT]

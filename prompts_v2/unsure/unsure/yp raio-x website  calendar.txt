@@ -11,4 +11,24 @@ ID: 1806010094580920320
 PromptHint: [website] [market segment]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1806010094580920320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "(YP) Raio-x website + calendar"](https://www.aiprm.com/prompts/unsure/unsure/1806010094580920320/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
 
+Faça um raio-X do site ... 
+
+e traga um checklist se ele tem ou não os itens abaixo:
+
+- Grade de produtos sem ruptura
+- Imagens dos produtos
+- Preço com desconto destacado 
+- Existe uma boa descrição dos produtos?
+- Quais são as formas de pagamento trabalhadas no site
+- Existe uma boa variedade de produtos no site?
+- Nomes e títulos dos produtos é bem escrito?
+
+Traga também detalhado por mês do ano um calendário das principais datas sazonais para um ecommerce de ...
+
+[PROMPT]

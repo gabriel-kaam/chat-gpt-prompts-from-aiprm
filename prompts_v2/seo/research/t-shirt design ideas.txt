@@ -11,4 +11,11 @@ ID: 1816414811488251904
 PromptHint: [Write you topic and question] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1816414811488251904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "T-shirt design ideas"](https://www.aiprm.com/prompts/seo/research/1816414811488251904/)_"
+---
+Write T-shirt design ideas [TARGETLANGUAGE] in the topic : [PROMPT] and also research few Things like : Zero competition High demand, Popular and trending, Uncommon ideas and Designs, Fast and Efficient sells. Write in details and create chat box 
+[fast box] show the [titles] 
+[Second] box show [ideas]
+[third] box show [topics]

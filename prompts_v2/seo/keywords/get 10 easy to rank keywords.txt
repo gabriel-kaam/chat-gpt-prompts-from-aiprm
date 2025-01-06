@@ -11,4 +11,23 @@ ID: 1789276239190822912
 PromptHint: [INSERT TOPIC HERE].
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1789276239190822912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get 10 Easy to Rank Keywords"](https://www.aiprm.com/prompts/seo/keywords/1789276239190822912/)_"
+---
+[TARGETLANGUAGE]
+English
 
+[PROMPT]
+Generate 10 keyword variations for the topic [INSERT TOPIC HERE] with low competition.
+
+1. [KEYWORD_VARIATION_1]
+2. [KEYWORD_VARIATION_2]
+3. [KEYWORD_VARIATION_3]
+4. [KEYWORD_VARIATION_4]
+5. [KEYWORD_VARIATION_5]
+6. [KEYWORD_VARIATION_6]
+7. [KEYWORD_VARIATION_7]
+8. [KEYWORD_VARIATION_8]
+9. [KEYWORD_VARIATION_9]
+10. [KEYWORD_VARIATION_10]

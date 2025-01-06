@@ -11,4 +11,11 @@ ID: 1811053959515996160
 PromptHint: product name or keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1811053959515996160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "optimize Ebay listing for search engine"](https://www.aiprm.com/prompts/marketing/products/1811053959515996160/)_"
+---
+[task] : optimize my Ebay listing for search engine visibility by following these steps:
+[TARGETLANGUAGE]: English
+[PROMPT] :  please Create a Traffic Grabbing Title that adheres to the Ebay algorithm's relevancy, competition, and traffic guidelines you can add some keywords fo it  .
+Craft a keyword-rich description must have at leaset 15  related keyword to the product  and low competition make the description more argumented and a mind catching use some slaes stratgy organise the description with title and substile  .

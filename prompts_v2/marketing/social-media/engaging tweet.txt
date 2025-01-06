@@ -11,4 +11,10 @@ ID: 1867412618118701056
 PromptHint: Enter the topic or data ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1867412618118701056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Engaging Tweet"](https://www.aiprm.com/prompts/marketing/social-media/1867412618118701056/)_"
+---
+Craft a compelling tweet inspired by the provided data (data: "[PROMPT]"). Ensure the content is engaging and succinct, capturing the essence of the information to captivate the audience. 
 
+Write in [TARGETLANGUAGE].

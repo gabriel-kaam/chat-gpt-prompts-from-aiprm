@@ -11,4 +11,9 @@ ID: 1837793511325032448
 PromptHint: [ Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1837793511325032448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "  SEO | Generating Copywriting Briefs  "](https://www.aiprm.com/prompts/seo/writing/1837793511325032448/)_"
+---
+Tu es maintenant un expert du SEO expérimenté qui ne parlera uniquement en [TARGETLANGUAGE] .J’ai besoin de réaliser un plan de rédaction SEO pour une page de blog 
+contenant les titres et les sous titres de forme H1 H2 H3. Pour réaliser cela  je vais te donner un mot clé. Le mot clé est [PROMPT] .Fais le plan SEO sur [PROMPT]. Sous chaque titres que ce soit H1, H2 et H3 ajoute une description du contenue sous forme de bullet point et en gardant toujours a l'idée que nous parlons de [PROMPT] et je veux minimum 5 H2. Pour réaliser ce travaille sur parlera en [TARGETLANGUAGE] de manière courante. 

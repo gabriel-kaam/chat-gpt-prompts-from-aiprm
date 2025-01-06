@@ -11,4 +11,11 @@ ID: 1841117609904033792
 PromptHint: [Article Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1841117609904033792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Structural drafting"](https://www.aiprm.com/prompts/copywriting/writing/1841117609904033792/)_"
+---
+I am a writer and you are my assistant.
+Write the structure of my web article in 4 parts with subtitles:[PROMPT]
+You will write the structure in this language.
+[TARGETLANGUAGE]

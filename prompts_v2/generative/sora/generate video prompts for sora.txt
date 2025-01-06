@@ -11,4 +11,63 @@ ID: 1923795169217077248
 PromptHint: 3d fluffy llama dancing on the dance floor
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/sora/1923795169217077248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate video prompts for Sora"](https://www.aiprm.com/prompts/generative/sora/1923795169217077248/)_"
+---
+Your task is to generate prompts for Sora, the next-generation text-to-video generative AI. When crafting prompts for Sora, it's crucial to balance creativity with specificity to harness the full potential of its capabilities.
 
+Sora excels in generating complex scenes, characters, and motions while maintaining consistency across shots within a 60-second video limit.
+
+Here's a comprehensive guide on how to formulate effective prompts for Sora, ensuring clarity, coherence, and the ability to inspire visually captivating videos.
+
+### 1. Introduction to Sora Prompts
+
+- **Be Descriptive**: Provide detailed descriptions of characters, settings, motions, and emotions. The more vivid your description, the more accurate and engaging the video.
+- **Visual Consistency**: Aim for visual consistency in characters and style throughout multiple shots, specifying if you want changes.
+- **Motion and Emotion**: Clearly describe the types of motion you want to see and the emotions characters should express.
+
+### 2. Structuring Your Prompt
+
+#### Opening
+- **Set the Scene**: Start by setting the environment or background. Describe the location, time of day, weather conditions, and any notable features of the setting.
+
+#### Character and Action
+- **Character Description**: Detail the characters' appearance, clothing, and any distinctive traits. Describe their emotions and the vibe they give off.
+- **Action and Motion**: Specify the actions taking place. Describe the movement of characters or objects in the scene, emphasizing the style and pace of these movements.
+
+#### Emotional Tone and Style
+- **Mood and Atmosphere**: Convey the emotional tone or mood of the scene. This can be done through lighting, weather conditions, or the characters' expressions.
+- **Visual Style**: If you have a specific visual style in mind (e.g., cinematic, animated, photorealistic), mention it. Describe the color palette, lighting, and any stylistic effects you envision.
+
+### 3. Example Prompts with Explanations
+
+#### Example 1: Urban Elegance
+- **Prompt**: "A stylish woman walks down a Tokyo street filled with warm glowing neon and animated city signage. She wears a black leather jacket, a long red dress, and black boots, and carries a black purse. She wears sunglasses and red lipstick. She walks confidently and casually. The street is damp and reflective, creating a mirror effect of the colorful lights. Many pedestrians walk about."
+- **Explanation**: This prompt sets a clear scene, describes the character in detail, and conveys motion and atmosphere. It specifies the setting (Tokyo street), time (implied night), and mood (vibrant, urban).
+
+#### Example 2: Nature's Majesty
+- **Prompt**: "Several giant wooly mammoths approach treading through a snowy meadow, their long wooly fur lightly blows in the wind as they walk, snow-covered trees and dramatic snow-capped mountains in the distance, mid-afternoon light with wispy clouds and a sun high in the distance creates a warm glow, the low camera view is stunning capturing the large furry mammal with beautiful photography, depth of field."
+- **Explanation**: This prompt effectively uses visual imagery to set a prehistoric scene, focusing on motion (mammoths walking), environment (snowy meadow), and visual style (low camera view, depth of field).
+
+#### Example 3: Surreal Imagination
+- **Prompt**: "A young man at his 20s is sitting on a piece of cloud in the sky, reading a book."
+- **Explanation**: This simple yet imaginative prompt sets a surreal scene. It focuses on a single character and action, leaving room for Sora to interpret the sky and cloud visually.
+
+### 4. Tips for Successful Prompts
+
+- **Balance Detail with Flexibility**: Provide enough detail to guide the AI but leave room for creative interpretation.
+- **Use Active Voice**: Describe actions and movements clearly and dynamically.
+- **Consider Perspective and Camera Angles**: Mention if you want specific shots (close-up, wide, drone view) to guide the visual storytelling.
+
+### Constraints
+
+When crafting prompts for Sora, aim for brevity and precision: a concise description focusing on essential elements—key actions, characters, and setting—enables clear, impactful video generation within a 60-second limit.
+
+Reply in [TARGETLANGUAGE] and all generated prompts MUST be generated in English.
+
+You MUST reply only with the short generated prompt based on the input and nothing else.
+
+### Input
+
+[PROMPT]

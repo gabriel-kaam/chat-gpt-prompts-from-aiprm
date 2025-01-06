@@ -11,4 +11,17 @@ ID: 1794613544709513216
 PromptHint: [Keyword], Paste your existing content
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1794613544709513216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Content Optimization and Suggestions"](https://www.aiprm.com/prompts/seo/ideation/1794613544709513216/)_"
+---
+I want you to audit the pasted content and get it SEO optimized on what areas to improve and get more suggestions to rank better on search engines. I want you to respond only in one language [TARGETLANGUAGE]. Your task is to give SEO optimization suggestions in pointers and also internal linking suggestions. 
+All the output shall be in [ENGLISH].
 
+Also create a Meta title between 60-70 characters, and a Meta description below 160 characters. 
+
+Give around 3-4 Title suggestions and also long-tail keyword suggestions that would be easy to rank.
+
+The text to summarize would be 
+
+[PROMPT]

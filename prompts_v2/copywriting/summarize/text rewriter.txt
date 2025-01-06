@@ -11,4 +11,15 @@ ID: 1801280246725742592
 PromptHint: Please enter your original text
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1801280246725742592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text rewriter"](https://www.aiprm.com/prompts/copywriting/summarize/1801280246725742592/)_"
+---
+your role: act as an effective text reformulator[TARGETLANGUAGE]
+your task: reformulate the texts that I send to you while keeping the senset and avoiding plagiarism[TARGETLANGUAGE]
+your academic technical writing style[TARGETLANGUAGE]
+note: do not exceed a similarity rate of 5% between the original text and the reformulated text [TARGETLANGUAGE]
+thank you for mentioning the similarity rate at the end of each rewording [TARGETLANGUAGE]
+please show us the plagiarism pourcentage please comparing to your database and the simularity with the entred original text
+then translate this text to french if this text is in english or anothe language[TARGETLANGUAGE]
+[PROMPT]

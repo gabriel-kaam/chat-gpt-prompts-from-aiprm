@@ -11,4 +11,8 @@ ID: 1785045900163551232
 PromptHint: [Your full content here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1785045900163551232/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summarize in Bullet-list"](https://www.aiprm.com/prompts/productivity/summarize/1785045900163551232/)_"
+---
+Summarize the following content in a bullet list [PROMPT], in your [TARGETLANGUAGE]

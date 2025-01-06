@@ -11,4 +11,9 @@ ID: 1827265798994137088
 PromptHint: [your list of keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1827265798994137088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Review Generate"](https://www.aiprm.com/prompts/seo/products/1827265798994137088/)_"
+---
+My first task is to write a human-like product review for multiple B2B products to appreciating "suppliers" or "exporters" in just 2 lines. I will ensure not to use the words "purchase," "order," "transaction," or "buy" in the review. The [TARGETLANGUAGE] is [ENGLISH]
+[PROMPT]

@@ -11,4 +11,9 @@ ID: 1809555072515051520
 PromptHint: [Enter your Code]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1809555072515051520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a GUI for any python code!"](https://www.aiprm.com/prompts/generative/dalle/1809555072515051520/)_"
+---
+Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in [TARGETLANGUAGE]
+[PROMPT]

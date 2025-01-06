@@ -11,4 +11,10 @@ ID: 1814822242497064960
 PromptHint: create table syntax
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/database-administration/1814822242497064960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "extract the columns from create table syntax"](https://www.aiprm.com/prompts/devops/database-administration/1814822242497064960/)_"
+---
+ [PROMPT]
+extract the columns from above text, columns wrapper by double quotation and separate by comma.
+All output shall be in [TARGETLANGUAGE]

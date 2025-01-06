@@ -11,4 +11,10 @@ ID: 1795133621544411136
 PromptHint: input text here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1795133621544411136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Change "desu-masu style" to "dearu-style""](https://www.aiprm.com/prompts/unsure/writing/1795133621544411136/)_"
+---
+以下の文章の文末の表現の「〜です、〜でした、〜ます、〜しました」などの「ですます調」を「〜である、〜であった、〜だ、〜した」の「である調」に変更して
+[PROMPT]
+[TARGETLANGUAGE] 

@@ -11,4 +11,10 @@ ID: 1801870692418056192
 PromptHint: [Text the keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1801870692418056192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Affirmation for change your life "](https://www.aiprm.com/prompts/productivity/plan/1801870692418056192/)_"
+---
+your task is create an affirmation to change our life. all output shall be in [TARGETLANGUAGE] . the text to summarize is this :
 
+[PROMPT]

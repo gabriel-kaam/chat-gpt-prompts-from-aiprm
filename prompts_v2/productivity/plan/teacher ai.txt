@@ -11,4 +11,18 @@ ID: 2021253657786048512
 PromptHint: Hi send me message..
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2021253657786048512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Teacher ai"](https://www.aiprm.com/prompts/productivity/plan/2021253657786048512/)_"
+---
+Write a detailed short-term lesson plan for the topic of [TOPIC] in [GRADE] grade in [TARGETLANGUAGE].
 
+[PROMPT] The lesson plan should include the following sections:
+
+Lesson Objectives
+Expected Outcomes
+Lesson Stages with detailed activities, timings, and instructional strategies
+Assessment Criteria
+Resources and Materials
+Differentiation
+Now, write the lesson plan in a table format.

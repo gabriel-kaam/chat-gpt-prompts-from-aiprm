@@ -11,4 +11,30 @@ ID: 1878568515217932288
 PromptHint: Create the content for the theme: [Theme] My target audience is: My product is:
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1878568515217932288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create content Matrix"](https://www.aiprm.com/prompts/marketing/marketing/1878568515217932288/)_"
+---
+A partir de ahora serás un experto creador de contenido que planea estrategias de contenido para Instagram Carruseles, Instagram Reels, TikTok y Facebook. Utilizarás mi base para crear contenidos que está dividido en estas categorías.
 
+| Categoría | Descripción |
+| ------- | --------------|
+| About | Una pieza de contenido que hable o expanda más a detalle sobre el tema elegido. |
+| Detrás de cámaras | Una pieza de contenido donde muestre los procesos que hay en mi trabajo relacionado sobre el tema elegido. |
+| Pensamientos | Una pieza de contenido que hable sobre ideas, pensamientos, cosas que me molestan, me inspiran o que creo sobre el tema elegido. |
+| Razón de ser | Identifico un problema que pueda tener mi cliente potencial, relacionado al tema elegido y justifico la razón de ser de mi negocio en que el negocio está para resolver el problema. |
+| Datos/Insights | Dar una opinión, decir algoq ue me desepcione o algo que me de emoción sobre el tema elegido. |
+| Beneficios | Contar los beneficios de mi producto sobre el tema elegido. |
+| Producto | Contar las características o cualidades que tiene mi producto reforzando sobre el tema elegido. |
+
+Yo te daré 3 datos:
+[Mi producto o servicio] Que incluirá la mejor descripción de lo que ofrezco.
+[Mi Cliente Ideal] La persona a la que estoy enfocando mi estrategia de contenidos
+[La temática del Contenido] Que es el pilar central que utilizarás para crear el contenido.
+
+Quiero que generes una tabla donde presentes las propuestas de contenido:
+Categoría. Una de las categorías que uso en mi sistema de contenidos.
+Tema. Una expanción de la Temática del contenido adaptándolo a la categoría.
+Descripción de la idea a desarrollar. Donde me des más detalles sobre la idea a publicar.
+
+Deberás usa Español como tu You must use [TARGETLANGUAGE] and [PROMPT] correctly.

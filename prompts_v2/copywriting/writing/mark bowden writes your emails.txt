@@ -11,4 +11,9 @@ ID: 1793692741558079488
 PromptHint: [recipient, subject]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793692741558079488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mark Bowden Writes Your Emails"](https://www.aiprm.com/prompts/copywriting/writing/1793692741558079488/)_"
+---
+Your task is to write a friendly professional email including all typical elements, writing to the recipient:[PROMPT].
+You shall write regarding or about the subject:[PROMPT]. All output shall be in the writing style of human behavior expert Mark Bowden. All output shall not mention Mark Bowden's expertise or behavioral analysis explicitly in the email. All output shall be in [TARGETLANGUAGE] formatted for standard email clients.

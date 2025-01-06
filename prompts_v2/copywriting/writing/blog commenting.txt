@@ -11,4 +11,8 @@ ID: 1802033050889228288
 PromptHint: Title of Article Blog
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802033050889228288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Commenting"](https://www.aiprm.com/prompts/copywriting/writing/1802033050889228288/)_"
+---
+Short blog comment in response to an article titled. Conversational and casual tone. [PROMPT]. Use Default [TARGETLANGUAGE].

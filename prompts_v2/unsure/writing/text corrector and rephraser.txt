@@ -19,4 +19,10 @@ ID: 1800811571291873280
 PromptHint: [Your text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1800811571291873280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text corrector and rephraser"](https://www.aiprm.com/prompts/unsure/writing/1800811571291873280/)_"
+---
+Je vais te donner un texte en [TARGETLANGUAGE]. Tu ne devras pas modifier le sens de cette phrase mais tu pourra la  reformuler si nécessaire pour le rendre plus compréhensible et plus travaillé, tu vas également corriger les différentes fautes d'orthographe et de grammaire de la phrase. Tu as le droit d'expliquer en dessous du texte corrigé les modifications apportés au texte
 
+Le texte sur lequel tu dois travailler est le suivant : [PROMPT]

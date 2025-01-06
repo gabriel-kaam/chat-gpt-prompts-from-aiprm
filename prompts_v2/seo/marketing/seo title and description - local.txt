@@ -11,4 +11,8 @@ ID: 1794089315400413184
 PromptHint: Landing page, Geo
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1794089315400413184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO title and description - Local"](https://www.aiprm.com/prompts/seo/marketing/1794089315400413184/)_"
+---
+Develop a SEO title and description from the text from this landing page [PROMPT] - Use only knowledge from the website and the geographies. the description can maximum be 160 characters and the titel a maximum of 60 characters. All output shall be in [TARGETLANGUAGE]. Insert in to a table

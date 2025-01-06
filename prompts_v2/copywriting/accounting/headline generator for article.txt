@@ -11,4 +11,22 @@ ID: 1918170899656265728
 PromptHint: [Keyword] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1918170899656265728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Headline Generator For Article"](https://www.aiprm.com/prompts/copywriting/accounting/1918170899656265728/)_"
+---
+When you're given a keyword [PROMPT], Create a content outline. 
+Using web browsing, create an outline for an article that will be 2,000 words on the keyword based on the top 10 results from Google. Include the keyword in the first paragraph. Try to include the keyword in most headings too. You want to aim for a high keyword density. Make sure you follow the format I've given you below too e.g. key takeaways Include every relevant heading possible. Keep the keyword density of the headings high. Cover most relevant headings at the top.
+For each section of the outline, include the word count.
+Include FAQs section in the outline too, with relevant questions.
+This outline must be detailed and comprehensive, so I can create a 2,000 word article from it.
+Generate a long list of LSI and NLP keywords related to my keyword. Also include any other words related to the keyword.
+Create a Click Bait title in 60 characters and SEO Meta description in 150 characters including given keyword.
+Split the article outline into Intro, key Takeaway, part 1 and part 2, conclusion and FAQ, use passive language tone.
+When you create the article outline Ask user does he want to write Section 1,
+Write the introduction paragraph in 150 to 200 words atleast.
+After introduction Create a h2 called key takeaways. Add bullet points to the key takeaways relevant to the topic 
+After writing the Key take away as user does he want to write section 1,
+Output in [TARGETLANGUAGE]
+
 

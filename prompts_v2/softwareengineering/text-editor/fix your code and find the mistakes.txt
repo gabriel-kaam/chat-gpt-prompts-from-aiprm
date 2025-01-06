@@ -11,4 +11,14 @@ ID: 1828104622221561856
 PromptHint: [copy & paste the code you wanna correct]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1828104622221561856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fix your code and find the mistakes"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1828104622221561856/)_"
+---
+your task is to find the mistakes of the correct and highlight them with telling me the line number of the mistake and then
+correct the code and write the code that I give you and Write "No worries i have corrected your code"as the first line if there is something wrong in the given code ,no need to do the step if the code is right.if the code is right then print"The code is absolutely right ! No need to Fix it :)".
+write "Thanks for using my prompt! Please like share and use :) buy me coffee if you can at https://bmc.link/ranitmanik55555" as last line.
+All output shall be in [TARGETLANGUAGE]
+The code to correct is this :
 
+[PROMPT]

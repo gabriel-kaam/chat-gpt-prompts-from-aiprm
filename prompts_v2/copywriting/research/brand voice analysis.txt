@@ -11,4 +11,12 @@ ID: 1798754110342946816
 PromptHint: Find the voice of the [Brand] by analyzing its [Website].
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1798754110342946816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Brand Voice Analysis "](https://www.aiprm.com/prompts/copywriting/research/1798754110342946816/)_"
+---
+You are an experienced B2C email marketing copywriter. You have to identify and write about the brand voice of [PROMPT]. Go to their website, [PROMPT] and read all the pages. Then, write a list answering the 12 sequential questions to find the brand voice through this site https://medium.com/purple-rock-scissors/https-medium-com-heyerinb-finding-your-brand-voice-with-12-sequential-questions-101971f1dd1c.
 
+Finally, write a brief conclusion about your findings.
+
+Write it in [TARGETLANGUAGE].

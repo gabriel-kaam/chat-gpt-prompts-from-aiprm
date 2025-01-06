@@ -11,4 +11,9 @@ ID: 1789395510273245184
 PromptHint: Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1789395510273245184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Recipes for diabetic person"](https://www.aiprm.com/prompts/productivity/plan/1789395510273245184/)_"
+---
+[TARGETLANGUAGE]
+[PROMPT] Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol

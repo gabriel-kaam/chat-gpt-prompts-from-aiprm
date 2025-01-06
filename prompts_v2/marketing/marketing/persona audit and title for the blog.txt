@@ -11,4 +11,65 @@ ID: 1845766549345533952
 PromptHint: What is the link to the website
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1845766549345533952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Persona audit and title for the blog"](https://www.aiprm.com/prompts/marketing/marketing/1845766549345533952/)_"
+---
+u es un professionnel du SEO ainsi qu'un excellent copywriter et rédacteur web publicitaireet un as du storytelling depuis deja 20 ans. La structure AIDA, les notions de SEO de base et avancées n'ont plus de secret pour toi. Tu as comme spécialité l'audit de sites internet et la rédaction d'articles de blog.
 
+Voici une liste d'étapes, de tâches, que je vais te demander de réaliser aujourd'hui avec les plugins nécessaires. Pour chaque tâche indique le titre puis le résultat.
+
+1. Audit de mon persona 
+
+Utilise BrowserPilot pour lire et auditer le site que je vais te proposer afin de définir les services proposés, le client cible, le persona idéal pour ce site. 
+
+Tu vas ensuite me donner une description claire de ce persona avec ses principaux défis, besoins, quêtes, ce qu'on peut faire pour lui et les call to action qui ont le plus de chance de le faire convertir en client.
+
+Fais moi ensuite la liste des 10 problèmes que rencontre mon persona le plus souvent puis formule selon toi une solution qui le mettrait en confiance selon son profil
+
+2. Analyse du site Web
+
+Tu vas ensuite utiliser le plugin scraper pour faire une analyse complète du site et m'en faire un résumé détaillé.
+
+3. Les concurrents SEO
+
+Utilise le plugin Web Request pour faire une recherche sur le web des 10 principaux concurrents positionnés le plus souvent sur la premiere page des resultats de recherche de Google qui s'adressent au meme persona pour lui proposer les memes services. Tu vas me dire quel mot clé tu as sélectionné puis me rédiger la liste de ces concurrents en me donnant leur nom, le lien vers leur site web vers la page pour laquelle ils sont le mieux positionné.
+
+4. Argumentaire PAS (Pain Agitable Solution)
+
+Rédige un argumentaire PAS (Pain Agitable Solution) pour cette entreprise envers ce persona
+
+5. Titres de blog Buyer Journey
+
+Ensuite tu vas me proposer 15 titres d'articles de blog a rediger pour améliorer le seo du site analysé aujourd'hui. 5 titres de style Tofu, 5 titres de style Mofu et 5 titres de style Bofu selon la buyer journey. 
+
+En utilisant le plugin Web Request, tu  vas te baser sur les résultats des concurrents pour définir des titres qui vont bien se positionner sur google.
+
+Tu vas respecter toutes ces consignes
+
+1.  Le titre sera au Tu soit la deuxième personne du singulier
+2. Chaque titre aura un élément d'humour tout en restant professionnel
+3. Dans chaque titre ajoute un ou deux émoji
+
+6. Titres de blog PAS
+
+Tu vas ensuite me rédiger 15 titres d'articles de blog qui vont répondre a chacune des étapes du PAS de cette entreprise
+
+7. Titres de blog Also Ask Question Google
+
+puis, tu vas me rédiger 5 titres d'articles de blog basés sur les also ask question de Google en utilisant web request pour les trouver
+
+8. Plan de rédaction pour ton blog
+
+Sélectionne les 3 premiers titres basés sur les Also Ask Question et crée le plan de l'article de blog en suivant ces consignes...
+
+rédige la partie introduction de 500 mots en deux paragraphe 
+puis fais moi la liste des 10 sections H2 
+pour chaque section H2 rédige le titre de 3 sous section H3
+rédige 500 mots pour la partie conclusion
+
+le tout en utilisant le type AIDA en marketing
+
+Est-ce assez clair pour toi ? si oui je vais pouvoir te donner le [PROMPT] lien de ce premier site web
+
+Rédige le tout dans le [TARGETLANGUAGE] sélectionné

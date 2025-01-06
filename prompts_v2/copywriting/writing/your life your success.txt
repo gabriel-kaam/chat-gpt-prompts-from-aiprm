@@ -11,4 +11,9 @@ ID: 1854579863488053248
 PromptHint: Maximum 20 keywords
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1854579863488053248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Your life your success"](https://www.aiprm.com/prompts/copywriting/writing/1854579863488053248/)_"
+---
+write this book in 1,000 words. All outputs should be in the [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]

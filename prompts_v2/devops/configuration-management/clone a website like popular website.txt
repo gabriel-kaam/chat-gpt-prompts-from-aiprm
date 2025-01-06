@@ -11,4 +11,10 @@ ID: 1981742295396962304
 PromptHint: Clone  apps or website
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1981742295396962304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Clone a website like [popular website] "](https://www.aiprm.com/prompts/devops/configuration-management/1981742295396962304/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT }[Create a replica of [Popular App Name] by reverse-engineering its features and functionalities through a link. The cloned app should have an identical user interface, user experience, and core features as the original app. The link should be used to access the original app's API or backend data, allowing the cloned app to mimic its behavior and provide a similar service.] [TARGETLANGUAGE]
+[PROMPT]

@@ -11,4 +11,10 @@ ID: 1822631647678558208
 PromptHint: Type factual Dispute
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1822631647678558208/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Factual Credit Dispute Letter"](https://www.aiprm.com/prompts/marketing/writing/1822631647678558208/)_"
+---
+Your task is to create a credit dispute letter based on factual dispute 609 laws in [TARGETLANGUAGE]
 
+[PROMPT]

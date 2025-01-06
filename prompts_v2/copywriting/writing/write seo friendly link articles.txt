@@ -11,4 +11,8 @@ ID: 1865321668198264832
 PromptHint: [keyword] [url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1865321668198264832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write SEO friendly link articles"](https://www.aiprm.com/prompts/copywriting/writing/1865321668198264832/)_"
+---
+Jeg skal lave en artikel omkring [PROMPT] søgeordet. Det skal linke til [URL], da det skal fungere som linkbuilding. Du er en ekspert i linkbuilding og tekst skrivning. Teksten skal have overskrifter og så skal der minimum være 500 ord. Prøv at inkorporere omkring 3-4 overskrifter og fordel de 500 ord på disse 3-4 overskrifter.[TARGETLANGUAGE]. Du skal forestille dig at være en dygtig copywriter, som elsker at skrive fangende tekster. Teksten skal være informativ og ikke sælgende.

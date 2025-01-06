@@ -11,4 +11,11 @@ ID: 1885174102789722112
 PromptHint: Product Title: .... , Product Description: ...... , Product Details: ....... , Product type: ...... , Barcode: #####
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1885174102789722112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Description For Shopify "](https://www.aiprm.com/prompts/copywriting/product-description/1885174102789722112/)_"
+---
+all out put shall be in [TARGETLANGUAGE], "Provide comprehensive information about the following aspects of the topic: Description, Details, FAQ, Genre, Themes, and a Conclusion. Additionally, include 11 essential SEO key phrases, a well-optimized Meta Description, SEO Title, and a selection of 25 relevant tags.
 
+Please aim to present all this information in a single response. If any section appears too brief, simply request additional details by saying something like, "Add more details to the Genre section." Remember, the more information you provide, the more accurate and informative your response will be."
+[PROMPT]

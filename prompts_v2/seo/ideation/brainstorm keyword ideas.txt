@@ -11,4 +11,8 @@ ID: 1827792175497469952
 PromptHint: [keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1827792175497469952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Brainstorm Keyword Ideas"](https://www.aiprm.com/prompts/seo/ideation/1827792175497469952/)_"
+---
+please use the keyword [PROMPT] and Brainstorm 20 seed keywords idea for the topic, the aim is to narrow down to build a niche specific website for affiliate. write all output in [TARGETLANGUAGE]

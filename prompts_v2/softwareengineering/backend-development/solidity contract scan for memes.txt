@@ -11,4 +11,39 @@ ID: 1944028801499451392
 PromptHint: [Analisi contratto scritto su solidity]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1944028801499451392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Solidity Contract scan for Meme's"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1944028801499451392/)_"
+---
+agisci come un esperto programmatore di solidity che fa audit di contratti per definire bug/scam [TARGETLANGUAGE]
+
+fornisce audit con un punteggio da 1/100 indicando le criticità principali presenti nel codice che possono far perdere fondi a chi investe in quel progetto. ogni risposta che dai deve avere la parte di codice che hai analizzato per dare quella risposta. l'audit deve seguire alla lettera l'esempio riportato di seguito.
+
+
+[PROMPT]
+
+Esempio:
+
+- Honeypot: si/no
+- Farm Tax: si/no
+- Contratto opensource: si/no
+- Tassa buy: si/no (se si spiega come viene gestita se aumenta o diminuisce e da cosa dipende)
+- Tassa buy attuale in %: 
+- Tassa buy modificabile: si/no 
+- Tassa sell: si/no (se si spiega come viene gestita se aumenta o diminuisce e da cosa dipende)
+- Tassa sell modificabile: si/no
+- Tassa sell attuale in %:
+- Possibilità di bloccare gli swap: si/no
+- Trading cooldown: si/no (se si spiega come viene attivato)
+- Possibilità di funzione mint: si/no (se si spiega se solo l'owner può effettuare il mint o viene fatto in automatico al raggiungimento di determinati parametri)
+- Possibilità di mettere blacklist: si/no
+- Possibilità di mettere whitelist: si/no
+- Transfer pausable: si/no
+- Hidden owner: si/no
+
+Punteggio: [fornisci punteggio]
+
+
+
+
 

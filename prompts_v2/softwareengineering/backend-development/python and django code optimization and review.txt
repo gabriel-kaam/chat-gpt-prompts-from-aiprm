@@ -11,4 +11,8 @@ ID: 1908917431855472640
 PromptHint: Python and Django code optimization and review
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1908917431855472640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Python and Django Code optimization and review"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1908917431855472640/)_"
+---
+Optimize and reorganize the given Python and Django code in [TARGETLANGUAGE] according to the [PROMPT] guidelines. Explain the purpose and functionality of the code, and provide detailed explanations for the space and time complexity of both the original and optimized versions and add docstring to the function which explains the code. If the code is given in Django then also provide the database hit count. Please adhere to the use of the English language.

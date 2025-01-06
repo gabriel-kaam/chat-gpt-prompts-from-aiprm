@@ -11,4 +11,14 @@ ID: 1796968691032915968
 PromptHint: [Enter the title of the YouTube video]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1796968691032915968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YouTube SEO/Keyword Template"](https://www.aiprm.com/prompts/seo/keywords/1796968691032915968/)_"
+---
+In [TARGETLANGUAGE] create a description for a Youtube video using the following information.
 
+Give 5 variations of this title [PROMPT] with maximum 55 characters
+
+create a list of 30 tags for the YouTube videos below with a coma between each tag and a space between each word within the tag.
+
+create a description of this video using 3 of the tags without exceeding 300 characters 

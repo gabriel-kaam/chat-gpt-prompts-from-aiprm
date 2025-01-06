@@ -11,4 +11,8 @@ ID: 1791203464563646464
 PromptHint: Enter the notes and/or doc to be considered
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1791203464563646464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Client Submittal"](https://www.aiprm.com/prompts/productivity/summarize/1791203464563646464/)_"
+---
+Your task is to write a submittal to an engineering hiring manager from me in the third person including an introductory statement, four bullet points highlighting qualifications, including education, and achievements and a closing statement [TARGETLANGUAGE] [PROMPT]

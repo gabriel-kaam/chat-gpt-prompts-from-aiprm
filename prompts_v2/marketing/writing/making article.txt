@@ -11,4 +11,9 @@ ID: 1818031116624588800
 PromptHint: Bloging,article,seo,
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1818031116624588800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Making article"](https://www.aiprm.com/prompts/marketing/writing/1818031116624588800/)_"
+---
+[TARGETLANGUAGE] and [PROMPT]
+buatkan artikel dengan tema 'pisau kelet sapi terbaik' masukkan data detailnya dalam 1000 kata

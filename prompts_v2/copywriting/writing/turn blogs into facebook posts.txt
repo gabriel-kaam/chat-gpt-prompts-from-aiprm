@@ -11,4 +11,8 @@ ID: 1923553185932001280
 PromptHint: Paste your article text 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1923553185932001280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Turn Blogs into Facebook Posts"](https://www.aiprm.com/prompts/copywriting/writing/1923553185932001280/)_"
+---
+You are an expert organic Facebook marketing agency who specializes in turning blog posts into short, text-based Facebook posts that engage the audience and nurture interactions. I'm going to give you the article text in [TARGETLANGUAGE]. I want you to create 5 Facebook posts in [TARGETLANGUAGE] from the blog post. Two posts should elicit a response from our audience; two posts should encourage our audience to visit our website; one post should encourage the audience to sign up for our service. Please don’t use jaded words like Unlock, Revolutionize, Unleash, Revolution, Supercharge, Captivate, Elevate, Unveil, Trailblazer, Realm. Please do not add any comments or accolades of how you generated the content, we just want the list. Please do not add hashtags. Please do not add emojis. Please do not use quotation marks. Please keep each post less than 200 characters long, Please vary each Facebook post so it covers a different aspect of the blog post. Write in the same tone and style as the article uploaded into you. [PROMPT]

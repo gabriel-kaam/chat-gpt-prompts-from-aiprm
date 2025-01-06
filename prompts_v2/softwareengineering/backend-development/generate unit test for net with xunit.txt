@@ -11,4 +11,10 @@ ID: 1842006130814607360
 PromptHint: [Your code that you want to be tested]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1842006130814607360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Unit Test for .NET with xUnit..."](https://www.aiprm.com/prompts/softwareengineering/backend-development/1842006130814607360/)_"
+---
+I have the following code:
+[PROMPT]
+Write some unit tests for every method using the Arrange-Act-Assert test structure. Use Moq and FluentAssertions libraries in the xUnit test. Don't use Verify to check that the methods have been called. Comments and explanation of the code should be in [TARGETLANGUAGE]

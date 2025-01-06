@@ -11,4 +11,8 @@ ID: 1807139419736772608
 PromptHint: Enter your [target audience]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1807139419736772608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Ideas that naturally attract backlinks"](https://www.aiprm.com/prompts/seo/research/1807139419736772608/)_"
+---
+In [TARGETLANGUAGE], act as Senior SEO consultant. Give me content ideas for a [PROMPT] that naturally would attract backlinks. 

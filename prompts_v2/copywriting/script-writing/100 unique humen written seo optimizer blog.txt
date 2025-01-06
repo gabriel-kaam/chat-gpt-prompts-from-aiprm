@@ -11,4 +11,9 @@ ID: 1798110721360527360
 PromptHint: Human Written | SEO Optimized Article With Proper Outline | Plagiarism Free (2500+ Words) [Upgraded Version]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1798110721360527360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% Unique Humen Written SEO optimizer blog"](https://www.aiprm.com/prompts/copywriting/script-writing/1798110721360527360/)_"
+---
+your task is to generate a blog of 2500+ words about the given topic name and its totally ranked and SEO based. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]

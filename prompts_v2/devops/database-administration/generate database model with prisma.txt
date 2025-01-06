@@ -11,4 +11,10 @@ ID: 1797785413470130176
 PromptHint: Create a model with the table name [tableName]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/database-administration/1797785413470130176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate database model with PRISMA"](https://www.aiprm.com/prompts/devops/database-administration/1797785413470130176/)_"
+---
+PRISMA database model simulator with my question in language [TARGETLANGUAGE]
 
+[PROMPT]

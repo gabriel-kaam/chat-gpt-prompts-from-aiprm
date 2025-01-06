@@ -17,4 +17,18 @@ ID: 1792491667471990784
 PromptHint: SEO website content based on keywords and its cluster
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1792491667471990784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO website content based on keywords"](https://www.aiprm.com/prompts/seo/writing/1792491667471990784/)_"
+---
+please write website content in [TARGETLANGUAGE] based on the below keywords and their cluster.
 
+please follow the below:
+
+- Use the focused keywords in the title, description, slug, keywords, first paragraph, and any heading tag
+- Title must be 60 character max including the targeted keywords
+- Descriptions must be 140 character max including the target keywords
+- make a heading and subheadings for each section if needed
+- please include all the keywords in the output within the heading or paragraphs, don't leave any of the keywords not to be included on the content
+
+[PROMPT]

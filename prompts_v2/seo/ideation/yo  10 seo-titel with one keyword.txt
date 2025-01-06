@@ -11,4 +11,12 @@ ID: 1831248509807091712
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1831248509807091712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YO | 10 SEO-titel with one keyword"](https://www.aiprm.com/prompts/seo/ideation/1831248509807091712/)_"
+---
+We are YoungOnes, an online platform that brings companies and freelancers together. Companies can post jobs on our platform and freelancers can take these jobs. We do not own freelancers, we just connect them with companies.
 
+The target audience for this prompt are companies that are looking for freelancers (B2B).
+
+Make 10 SEO title suggestions for web pages based on [PROMPT] that includes the given prompt. The title has a maximum of 57 characters that includes "| YoungOnes" at the end of every title suggestion. the results are put out in the [TARGETLANGUAGE]

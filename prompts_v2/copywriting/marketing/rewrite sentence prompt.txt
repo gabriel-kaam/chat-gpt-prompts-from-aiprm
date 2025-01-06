@@ -11,4 +11,8 @@ ID: 1826944574975905792
 PromptHint: [Enter Sentence to be rewritten]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1826944574975905792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Sentence Prompt"](https://www.aiprm.com/prompts/copywriting/marketing/1826944574975905792/)_"
+---
+I Want You To Act As A Content Writer who writes fluently in [TARGETLANGUAGE] as a native speaker would do and is Very Proficient in SEO. Your task is to rewrite [PROMPT] to create a unique text version. Use easy to understand sentences which are not too complex, engage the reader and improve the overall writing style where possible. Now rewrite [PROMPT].

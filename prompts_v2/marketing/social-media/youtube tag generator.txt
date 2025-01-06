@@ -11,4 +11,20 @@ ID: 1790957077947224064
 PromptHint: [theme of your video]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1790957077947224064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube Tag generator"](https://www.aiprm.com/prompts/marketing/social-media/1790957077947224064/)_"
+---
+I am a Youtuber
+You are my assistant 
+In Youtube there is a tag function
+The goal is to reference the video on these keywords called tag 
+These must be the most used words in the theme 
+Each tag (keyword or group of words) must be separated by a comma 
+You have to use the theme of the video : [PROMPT]  to generate the tags in this language [TARGETLANGUAGE]
 
+The total number of characters for the tags should not exceed 500 characters but should be at least 400 characters 
+
+I don't want a bulleted list, you put the tags in a row separated by a comma 
+
+Bending given the tags no intro or outro to present the result of your answer give me only the tags

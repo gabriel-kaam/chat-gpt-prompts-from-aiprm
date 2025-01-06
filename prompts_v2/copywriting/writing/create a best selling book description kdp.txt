@@ -11,4 +11,9 @@ ID: 1796532943045529600
 PromptHint: [the book title you want description for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796532943045529600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Best Selling Book Description (KDP)"](https://www.aiprm.com/prompts/copywriting/writing/1796532943045529600/)_"
+---
+Your task is to write a compelling book description for amazon book or ebook in 4000 characters. The description text should be in [TARGETLANGUAGE]. Your task is to create the book description on the given format. Firsly I want you to write a [bold heading] to capture the customers attention then write 3 to 4 lines of text keeping in mind the some of the pain point a buyer may have.  Next create an "About This Book" section about the benefits of the book in 5 to 7 bullet points. Finally add text line encourage the customer to buy the book in [TARGETLANGUAGE]. Write the book description about this: 
+[PROMPT]

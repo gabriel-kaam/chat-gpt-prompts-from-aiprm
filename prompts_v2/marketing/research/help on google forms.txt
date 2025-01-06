@@ -11,4 +11,10 @@ ID: 1798707893911154688
 PromptHint: [Write your question]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1798707893911154688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Help on Google Forms"](https://www.aiprm.com/prompts/marketing/research/1798707893911154688/)_"
+---
+Sua tarefa é criar 8 respostas de múltipla escolha objetivas e genéricas para o Google Forms com base na  pergunta a seguir.  Sempre avalie a possibilidade de esgotar todas as possibilidades de respostas usando, se necessário, sugestões como por exemplo, "outras" ou "nenhuma das respostas acima". Receba a pergunta em qualquer língua. Por favor, em sua resposta, não escreva nada além da lista com as oito sugestões. Todas as respostas devem estar em [TARGETLANGUAGE].
 
+[PROMPT]

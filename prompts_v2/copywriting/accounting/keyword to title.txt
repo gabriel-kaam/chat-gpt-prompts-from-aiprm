@@ -11,4 +11,8 @@ ID: 1847914648151273472
 PromptHint: add Keyword Here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1847914648151273472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword to Title"](https://www.aiprm.com/prompts/copywriting/accounting/1847914648151273472/)_"
+---
+create a unique and interesting title for Google snippets with each keyword "[PROMPT]" add YOAST SEO, keyphrase, seo title, slug, meta desc and organic keywords.[TARGETLANGUAGE]

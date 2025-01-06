@@ -11,4 +11,10 @@ ID: 1799977849126649856
 PromptHint:  [Describe the code you need to generate]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1799977849126649856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Go Lang Script Generator"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1799977849126649856/)_"
+---
+Sua tarefa é criar, ou seja, gerar scripts em Go Lang de acordo com a necessidade pedida idioma [TARGETLANGUAGE] 
 
+[PROMPT]

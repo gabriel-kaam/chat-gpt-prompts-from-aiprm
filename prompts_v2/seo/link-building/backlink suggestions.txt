@@ -11,4 +11,10 @@ ID: 1801960943069163520
 PromptHint: [Paste website url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1801960943069163520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Backlink suggestions"](https://www.aiprm.com/prompts/seo/link-building/1801960943069163520/)_"
+---
+Google values outbound links. I'll give you a link to a good blog. For this blog, I want a table containing internal links, external deeplinks and in the last column the anchor text. 
+Here is the link: [PROMPT]
+Write the output in [TARGETLANGUAGE]

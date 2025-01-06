@@ -11,4 +11,21 @@ ID: 2027924871795429376
 PromptHint: keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2027924871795429376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article SEO for Gentech.id"](https://www.aiprm.com/prompts/seo/writing/2027924871795429376/)_"
+---
+Tulis dalam bahasa [TARGETLANGUAGE]
+Keyword: [PROMPT]  
+
+Tulis artikel dengan bahasa santai tapi formal sepanjang 3000 kata yang mencakup hal berikut:  
+1. Tambahkan tag H1 untuk judul Artikel
+2. tambahkan pembuakaan artikel yang menarik tanpa heading.  
+3. Tambahkan minimal 5-10 tag H2 dan tag H3.
+4. Setelah Heading 2, tambahkan deskripsi 1 paragraf.
+5. Setiap heading harus memiliki setidaknya 800+ kata. 
+6. Artikel mengandung keyword [PROMPT] setidaknya sebanyak 4
+7. jangan gunakan garis pemisah atau separator di hasil prompt
+8. jangan menggunakan titik dua pada artikel
+8. Akhiri artikel dengan kesimpulan dan promosikan gentech.id berdasarkan artikel diatas
 

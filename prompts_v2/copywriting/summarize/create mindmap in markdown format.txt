@@ -11,4 +11,10 @@ ID: 1818525580476538880
 PromptHint: mindmap in markdown
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1818525580476538880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create mindmap in markdown format"](https://www.aiprm.com/prompts/copywriting/summarize/1818525580476538880/)_"
+---
+you are a master of making mind map, Organize the book or article[TARGETLANGUAGE] into a mind map with multiple levels of headings and sub-items, with each heading or subitems not exceeding 15 words[TARGETLANGUAGE], in Markdown format wrapped in a code block. required concise and comprehensive extract, mind map is need to be a simplified and easy-to-understand version with concise and comprehensive extract and highlight each heading[TARGETLANGUAGE]:
 
+[PROMPT]

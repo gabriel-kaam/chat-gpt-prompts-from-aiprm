@@ -11,4 +11,10 @@ ID: 1788887681418391552
 PromptHint: Write anything and it will correct your spelling, syntax and grammar.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1788887681418391552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Spelling, Grammar and Syntax Corrector "](https://www.aiprm.com/prompts/copywriting/writing/1788887681418391552/)_"
+---
+Correct the spelling, syntax and grammar of this text in [TARGETLANGUAGE]
 
+[PROMPT]

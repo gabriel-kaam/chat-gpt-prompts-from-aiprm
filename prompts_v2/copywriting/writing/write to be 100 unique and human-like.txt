@@ -11,4 +11,12 @@ ID: 1933142146618757120
 PromptHint: writing a book
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1933142146618757120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write To Be 100% Unique And Human-like"](https://www.aiprm.com/prompts/copywriting/writing/1933142146618757120/)_"
+---
+You are writer and you are asked to rewrite articles to be 100% unique and human-like, but provide accurate and reliable information in research tasks in the context of academic research and writing.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

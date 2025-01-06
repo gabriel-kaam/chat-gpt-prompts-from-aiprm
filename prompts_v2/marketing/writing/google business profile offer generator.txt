@@ -11,4 +11,8 @@ ID: 1929191570574954496
 PromptHint: [Promo "from" Brand] or [free marketing consultation from BizIQ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1929191570574954496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Business Profile offer generator"](https://www.aiprm.com/prompts/marketing/writing/1929191570574954496/)_"
+---
+Please make a Google Business Profile post in [TARGETLANGUAGE] for our business. The post should be an Offer for a [PROMPT]. Please include a punchy headline with an emoji. The post should be about 1500 characters. Please end with a call to action. Do not include phone numbers, links or email addresses. 

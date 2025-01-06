@@ -11,4 +11,8 @@ ID: 1793098152690311168
 PromptHint: URL you want meta descriptions for
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1793098152690311168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Description for existing website"](https://www.aiprm.com/prompts/seo/marketing/1793098152690311168/)_"
+---
+write based on the text on [URL] 10 different matching meta descriptions in [TARGETLANGUAGE] that contain the word [PROMPT], are between 140 and 156 characters long, draw readers' attention to the text and invite them to read it, do not mention the website and do not contain the word advantages, benefits or merits.

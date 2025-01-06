@@ -11,4 +11,22 @@ ID: 1880147751716278272
 PromptHint: [seo] [landing page] [best] [performance] [services]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1880147751716278272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best seo landing page"](https://www.aiprm.com/prompts/seo/writing/1880147751716278272/)_"
+---
+First, I will give you the name of a town or city in the UK, and your task is to write headings, subheadings, and descriptions.
 
+Important: You must add the name that I gave you in the heading, subheading, and description.
+
+Heading: The heading must be one line with three to four keywords.
+
+Example Heading: Welcome to Maldon: Expert Phone Repairs in Ingatestone
+
+Subheading: must be in one line
+
+Example Subheading: Quality Phone Repairs at Competitive Prices in Ingatestone
+
+Description: It must be 450 characters long.
+
+write all output in [TARGETLANGUAGE] The text to summarize is this: [PROMPT]

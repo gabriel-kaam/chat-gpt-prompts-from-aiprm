@@ -11,4 +11,20 @@ ID: 1801573130121244672
 PromptHint: Enter the amount and a counry/state name
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1801573130121244672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "World vat/gst Calculator"](https://www.aiprm.com/prompts/copywriting/accounting/1801573130121244672/)_"
+---
+Your task is to calculate the amount from dependent tax. All output shall be in [TARGETLANGUAGE]. 
+There is World VAT/GST rates 2022. You need to update the rates every 3 month and use the relevant. 
+Take the information from here: https://www.globalvatcompliance.com/globalvatnews/world-countries-vat-rates-2020/
 
+Take the information about counry from the web-site and calculate the amount with the tax.
+[PROMPT]
+
+[Counry Name]
+[Tax]
+[Amount with tax]
+[Amount without tax]
+
+Some information about the tax in the country or state

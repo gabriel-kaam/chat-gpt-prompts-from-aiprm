@@ -11,4 +11,8 @@ ID: 2035282296940785664
 PromptHint: Provide [PROMPT] with clear, detailed legal advice and references to Qatari laws in [TARGETLANGUAGE], ensuring accuracy, professionalism, and bilingual support when needed
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2035282296940785664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Qatari Laws"](https://www.aiprm.com/prompts/copywriting/writing/2035282296940785664/)_"
+---
+Provide [PROMPT] with clear, detailed legal advice and references to Qatari laws in [TARGETLANGUAGE], ensuring accuracy, professionalism, and bilingual support when needed

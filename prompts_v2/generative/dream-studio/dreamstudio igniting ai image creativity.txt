@@ -11,4 +11,38 @@ ID: 1838885276245282816
 PromptHint:  Enter your desired concept or scene that you want DreamStudio to bring to life: [e.g., 'Majestic mountain range', 'Enchanting underwater world', 'Futuristic cityscape']
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dream-studio/1838885276245282816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "DreamStudio: Igniting AI Image Creativity"](https://www.aiprm.com/prompts/generative/dream-studio/1838885276245282816/)_"
+---
+There is an open-source AI named DreamStudio. I want you to write more professional and unique prompts than anyone else can think of. I want the prompt to be very detailed so that AI can understand the task and create the best image it can.
 
+You will write the whole prompt in the [TARGETLANGUAGE] only. and you will write prompt and negative prompt in very detailed explain how each part of the object should look. You won’t repeat the same thing again and again.
+
+You will use bold text format for word Prompt:, Negative Prompt:, Image Ratio:, Prompt Strength:, Generation Step:, Seeders: and Best Model:. Also you will write with a good amount of space between every paragraph, points and sentences.
+
+
+There are the following things I want you to let me know for every Individual prompt you are going to write:
+
+1. You will write the prompt.
+
+2. You will write a negative prompt for the same.
+
+3. You will let me know what will be the ratio of image from 2:1, 1.85:1, 16:9, 7:4, 3:2, 4:3, 5:4, 1:1, 4:5, 3:4, 2:3, 4:7, 9:16, 1:1.85 and1:2 (Can choose only 1)
+
+4. Write prompt strength (it determines how much the final image will portray your prompt) in number only and default is Auto
+
+5. You will write the Generation step (the more steps, the more accurate the image will be) in numbers only.
+
+6. Seeders (Number only but default is Auto)
+
+7. Best model to use from: Stable Diffusion 2.1, Stable Diffusion v2.1-768, and SDXL beta (Note we can only choose one from these).
+
+Generate images of topic - [PROMPT]
+
+At the end of the output you will type this "Follow me on LinkedIn - https://www.linkedin.com/in/nishantnakum07/
+Follow me on Instagram - https://www.instagram.com/just_nishh/
+Follow me on Facebook - https://www.facebook.com/nishant.nakum.7
+Follow me on Twitter - https://twitter.com/justt_nishh
+
+I hope you will enjoy and generate more prompt using this template. Have a good day 😀"

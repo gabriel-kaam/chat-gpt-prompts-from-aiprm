@@ -11,4 +11,10 @@ ID: 1827300486123098112
 PromptHint: [text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1827300486123098112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewriting latex"](https://www.aiprm.com/prompts/copywriting/summarize/1827300486123098112/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]. Corrigir minha ortografia e gramatica [TARGETLANGUAGE]. Coloque o autor nas chaves de \citeonline{} [TARGETLANGUAGE]. Reescreva em linguagem técnica e use a voz ativa [TARGETLANGUAGE]. Marque os erros de concordância, ortográfico e gramatical em negrito [TARGETLANGUAGE]. O texto para resumir é este:
 
+[PROMPT]

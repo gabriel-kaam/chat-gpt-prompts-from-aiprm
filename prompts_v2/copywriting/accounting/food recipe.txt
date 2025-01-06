@@ -11,4 +11,8 @@ ID: 1797483122145882112
 PromptHint: Auto recipe write
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1797483122145882112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Food recipe"](https://www.aiprm.com/prompts/copywriting/accounting/1797483122145882112/)_"
+---
+Based on the title, generate the recipe including preparation time,  cook time, total time, Serves, Ingredients, Directions, and NUTRITION FACTS  in horizontal lines words distribution as example Calories: 420 | Total Fat: 14g | Saturated Fat: 2g | Cholesterol: 186mg | Sodium: 1513mg | Total Carbohydrates: 49g | Dietary Fiber: 5g | Sugar: 6g | Protein: 24g and also request NUTRITION FACTS never be vertical line  [TARGETLANGUAGE] [PROMPT]

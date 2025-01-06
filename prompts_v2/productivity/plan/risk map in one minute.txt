@@ -11,4 +11,27 @@ ID: 1823017608941928448
 PromptHint: [Contract]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1823017608941928448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Risk Map in One minute"](https://www.aiprm.com/prompts/productivity/plan/1823017608941928448/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quero que você me apresente o nome de 9 riscos para...
+Apresente cada risco criado de forma enumerada.
+Os Riscos 1 a 3 devem estar associados à fase de Planejamento.
+Os Riscos 4 a 6 devem estar associados à fase de Seleção do Fornecedor.
+Os Riscos 7 a 9 devem estar associados à fase de Gestão do Contrato.
+Depois disso me apresente a causa para cada risco apresentado.
+Depois disso me apresente o impacto para cada risco apresentado.
+Depois disso me apresente duas ações preventivas para cada risco apresentado.
+Depois disso me apresente duas ações de contingências para cada risco apresentado.
+Apresente as ações preventivas e ações de contingências em forma de marcadores.
+Faça essa tarefa em 3 etapas.
+Primeiro faça os riscos de 1 a 3.
+Depois expere meu comando.
+Depois faça os riscos de 4 a 6.
+Depois expere meu comando.
+Depois faça riscos de 7 a 9. 
+Depois expere meu comando.
 
+[PROMPT]

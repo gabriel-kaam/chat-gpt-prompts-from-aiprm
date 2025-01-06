@@ -11,4 +11,16 @@ ID: 1786679516006182912
 PromptHint: URL of a web based tool
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1786679516006182912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create description of anything using it's URL."](https://www.aiprm.com/prompts/marketing/writing/1786679516006182912/)_"
+---
+Your task is to read content under [PROMPT]. Then create a description of what that content is.
 
+Description shall be separated into three paragraphs; first one being giving general idea of what is it that is under [PROMPT], the second paragraph shall highlight usability of the [PROMPT] and third one shall describe who [PROMPT] is aimed at.
+
+Every paragraph shall begin in different manner.
+
+Description shall be between 400-800 symbols.
+
+All the output shall be in [TARGETLANGUAGE].

@@ -11,4 +11,10 @@ ID: 1845831078725308416
 PromptHint: [enter sub paragraph title or heading and outline]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1845831078725308416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO friendly sub paragraph writer. "](https://www.aiprm.com/prompts/seo/writing/1845831078725308416/)_"
+---
+Please write a SEO friendly paragraph within 320 words titled [TARGETLANGUAGE]. The paragraph must contain the following sentences or outline.
 
+[PROMPT]

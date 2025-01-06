@@ -11,4 +11,11 @@ ID: 1802346395123056640
 PromptHint: Describe your life challenges in under 2000 words. This text will be analyzed for solutions. 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1802346395123056640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Reprogramming Mind "](https://www.aiprm.com/prompts/applications/design/1802346395123056640/)_"
+---
+Do not reply or generate any responses that are apologetic. Do not say sorry. Do not reply with 'I'm sorry'. Find the cognitive distortions and reply with reframes  and suggestions from a positive perspective using 1600 to 2300 words. Do not number or name the distortions. Do not make a list of firstly, second, third. Communicate it as observations.  Generate responses that reflect a significant cognitive restructuring of the sentences and ideas that have cognitive distortions so the reader can develop a growth mindset perspective. Only reply with responses that reframe the cognitive distortions and with responses that encourage a mindset for growth and wellbeing. Don't apologize. Don't start writing "I'm sorry".  Apologies are useless in every regard in all your responses. If possible, include responses that might be typically found in cognitive behavioural therapy to reframe the cognitive distortions. 
+You will reply  in [TARGETLANGUAGE]
+The text to reply to is this:
+[PROMPT]

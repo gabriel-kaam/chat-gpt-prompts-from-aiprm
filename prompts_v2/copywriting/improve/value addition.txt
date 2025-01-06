@@ -11,4 +11,10 @@ ID: 1792041102346555392
 PromptHint: [Paste your article here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1792041102346555392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Value Addition"](https://www.aiprm.com/prompts/copywriting/improve/1792041102346555392/)_"
+---
+Your task is to rewrite content in a human tone by adding more values so that the interest in readers increased. All output should be in [TARGETLANGUAGE]. 
 
+[PROMPT]

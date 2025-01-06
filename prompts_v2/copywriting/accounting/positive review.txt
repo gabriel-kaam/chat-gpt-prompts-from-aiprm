@@ -11,4 +11,12 @@ ID: 1987959299041386496
 PromptHint: [Attach a file for review]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1987959299041386496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Positive review"](https://www.aiprm.com/prompts/copywriting/accounting/1987959299041386496/)_"
+---
+Your task is to prepare a detailed review of the article, providing a positive assessment. I recommend following this structure: the subject of the research, research methodology, relevance, scientific novelty, style, structure, content, conclusions, and the interest of the target audience. Ensure that the content is 100% unique and passes plagiarism checks within the context of academic research and writing.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

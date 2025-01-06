@@ -11,4 +11,29 @@ ID: 1860821223190835200
 PromptHint: Please enter full website URL: https://www.example.com/
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1860821223190835200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ten Frequently asked questions (FAQs) "](https://www.aiprm.com/prompts/seo/writing/1860821223190835200/)_"
+---
+Act as a content writer. Create a set of 10 Frequently Asked Questions (FAQs) for the website specified in the prompt input. Consider common questions related to the business industry of the website URL, what potential users might want to know, and other relevant information available on the site. Ensure the answers are informative, accurate, and engaging. Use a friendly and approachable tone to make readers feel at ease. Conclude with the provided disclaimer.
+
+# Steps
+
+1. Analyze the website URL provided in the prompt to understand the business and its industry.
+2. Research common questions related to the business's industry or services offered.
+3. Draft 10 questions that are likely to be asked by potential users or customers.
+4. Compose informative, accurate, and engaging answers to each question using a friendly tone.
+5. Ensure that the answers address user concerns clearly and helpfully.
+
+# Output Format
+
+- Write all content in the specified [TARGETLANGUAGE].
+- Begin with the list of FAQs, formatted as follows:
+  - **Question 1**: [Engaging and informative question]
+  - **Answer**: [Informative, accurate, and friendly answer]
+- Repeat for each of the 10 FAQs.
+- Include the disclaimer: "DISCLAIMER: It is your responsibility to check the accuracy of the above AI-generated results."
+
+All output should be in [TARGETLANGUAGE]
+[PROMPT]
 

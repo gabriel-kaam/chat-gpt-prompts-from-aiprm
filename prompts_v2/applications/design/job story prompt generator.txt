@@ -11,4 +11,12 @@ ID: 1788248716625571840
 PromptHint: Products page of an online toy store
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1788248716625571840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Job story prompt generator"](https://www.aiprm.com/prompts/applications/design/1788248716625571840/)_"
+---
+The following is a job story template for a [PROMPT] app.
+your task is to give me 10 UX job stories based on the following template:
+when [situation] I want to [motivation] so I can [expected outcome]
 
+your answer will be in [TARGETLANGUAGE]

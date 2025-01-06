@@ -11,4 +11,14 @@ ID: 1791063016285138944
 PromptHint: [Insert your Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1791063016285138944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "52 Week Content planner"](https://www.aiprm.com/prompts/copywriting/marketing/1791063016285138944/)_"
+---
+You will act as a social media manager. I will give you content or a keyword. You will generate a list of 52 unique and creative blog post ideas in [TARGETLANGUAGE] 
+
+Each idea must be unique and do not repeat. Each article should educate and help the target audience.
+
+[PROMPT]
+
 

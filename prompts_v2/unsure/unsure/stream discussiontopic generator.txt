@@ -11,4 +11,12 @@ ID: 1832877891064172544
 PromptHint: topic generator
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1832877891064172544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Stream Discussion/Topic Generator"](https://www.aiprm.com/prompts/unsure/unsure/1832877891064172544/)_"
+---
+'Act as a live stream host and engage with your audience by discussing a topic that encourages them to share their perspectives. Develop a short topic question that is conversational, friendly, and respectful. The prompt should generate a topic question that meets these requirements.
 
+The topic prompt is: "[PROMPT]"
+
+The target language is [TARGETLANGUAGE]'

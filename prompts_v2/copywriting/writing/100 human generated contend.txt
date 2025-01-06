@@ -11,4 +11,8 @@ ID: 1787340212901515264
 PromptHint: only write understand and enter after chatgpt reply submit your article
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1787340212901515264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% human generated contend"](https://www.aiprm.com/prompts/copywriting/writing/1787340212901515264/)_"
+---
+When it comes to writing content, two factors are crucial,  perplexity and "burstiness. Perplexity  measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand? [TARGETLANGUAGE] and [PROMPT] 

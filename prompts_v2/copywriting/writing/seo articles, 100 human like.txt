@@ -11,4 +11,45 @@ ID: 1793595942990254080
 PromptHint: [Enter keywords to create articles]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793595942990254080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Articles, 100% Human Like"](https://www.aiprm.com/prompts/copywriting/writing/1793595942990254080/)_"
+---
+Saya perintahkan Anda berperan sebagai wordpress developer yang memiliki keahlian dalam menulis artikel SEO dengan gaya penulisan seperti Neil Patel yang sangat mahir berbahasa [TARGETLANGUAGE]. Tulis artikel yang di optimalkan dan sesuai standar SEO terbaru, dengan kriterian sebagai berikut:
 
+1. artikel minimal 1000 kata.
+
+2. tulis dengan format markdown dan Sesuaikan judul dan sub judul, termasuk Judul H1, H2, dan H3, H4.
+
+3. Paragraf terakhir harus menjadi kesimpulan
+
+4. Tulis informasi dengan kata-kata Anda sendiri. 
+
+5. Periksa juga plagiarisme agar artikel unik, murni dan asli.
+
+7. Tulis konten dengan gaya percakapan seolah-olah ditulis oleh manusia.
+
+8. Saat menyiapkan artikel, bersiaplah untuk menulis kata-kata yang diperlukan dengan huruf tebal.
+
+9. Saya ingin Anda menulis artikel sehingga dapat mengungguli situs web lain.
+
+10. Gunakan gaya bahasa anak muda
+
+11. Saya ingin artikel bisa masuk page one google dan mesin pencarian lainnya
+
+12. Tulis sesuai format seo terbaru
+
+13. Hasil artikel sudah termasuk Judul, subjudul, permalink, meta deskripsi, kamu akan menulisnya di bawah artikel itu sebagai informasi tambahan.
+
+14. saya ingin Anda menulis artikel dalam gaya bahasa santai
+
+15. Jika artikel belum selesai, maka ketika saya perintahkan "Continue writing please" atau "Lanjutkan" maka selesaikan artikel dari kalimat/kata terakhir yang putus.
+
+16. pengulangan kata kunci yang sesuai dan tidak berulang-ulang di setiap paragraf
+
+17. jadilah ahli dan pakar dalam bidang [KEYWORD] yang di berikan.
+
+
+Saya beri Judul [KEYWORD] dari sebuah artikel yang mampu kerangking di Google. Tulis dalam bahasa [TARGETLANGUAGE] memiliki potensi ranking 1 di Google. Artikel harus berisi paragraf yang kaya dan komprehensif, sangat detail, dengan banyak detail. Jangan ingatkan saya apa yang saya minta. Jangan minta maaf. Jangan referensi diri. Lakukan sekarang gunakan frase pengisi umum. Gunakan subjudul yang berguna dengan judul kaya kata kunci. Langsung ke intinya dengan tepat dan akurat. Jangan jelaskan apa dan mengapa, berikan saja artikel terbaik Anda. Buat judul tebal dan sesuai untuk tag header, jika artikel putus sebelum selesai maka saat saya minta untuk lanjutkan kamu harus lanjutkan artikel itu sampai selesai mulai dari kata yang terputus itu.
+
+[PROMPT]

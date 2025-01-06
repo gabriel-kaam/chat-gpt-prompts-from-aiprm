@@ -11,4 +11,12 @@ ID: 1826938367066243072
 PromptHint: [Risk cases]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1826938367066243072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Risk cases"](https://www.aiprm.com/prompts/copywriting/research/1826938367066243072/)_"
+---
+I want you to respond only in [TARGETLANGUAGE].
+I want you to create a table for possible risk cases about [PROMPT] with risk management table.
+There must exist columns for Risk event, Description of risk event, potential hazard, potential effects of failure, Probability, severity, Risk level, risk mitigation. 
+For each risk cases, you should generate safety requirements for them below the table you made. 
 

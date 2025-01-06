@@ -11,4 +11,10 @@ ID: 1800889592069750784
 PromptHint: [Location - type of place or characteristic that is preferred]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1800889592069750784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Bar/Restaurant Recommender"](https://www.aiprm.com/prompts/unsure/unsure/1800889592069750784/)_"
+---
+Your task is to come up with a list of 5 real bars and/or restaurants that have been reviewed or can be found in Google maps. The list should be based on the location and preference information included in the [PROMPT] in the [TARGETLANGUAGE]. The [PROMPT] will be formatted like this:
+[Location - type of place or characteristic that is preferred]
+Include a global caveat/disclosure of the dates you have available to you for data so people can understand if they get outdated results. Also include the address for each item in the list. 

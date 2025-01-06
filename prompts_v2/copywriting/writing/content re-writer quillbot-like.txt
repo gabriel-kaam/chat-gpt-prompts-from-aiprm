@@ -11,4 +11,10 @@ ID: 1818100682457341952
 PromptHint: Paste Your Content
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1818100682457341952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Re-Writer (Quillbot-Like)"](https://www.aiprm.com/prompts/copywriting/writing/1818100682457341952/)_"
+---
+I want you to act like Quillbot and re-write only the text I give you do not add information, I just want you to re- write and write more human like and also not detectable by AI. All output shall be in [TARGETLANGUAGE].
 
+[PROMPT]

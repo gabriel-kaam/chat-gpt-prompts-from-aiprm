@@ -11,4 +11,100 @@ ID: 2041189027881414656
 PromptHint: [Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2041189027881414656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Hook Generator"](https://www.aiprm.com/prompts/marketing/marketing/2041189027881414656/)_"
+---
+[TARGETLANGUAGE] = [Specify target language for output]
+[PROMPT] = Write 10 attention-grabbing social media hooks for [TOPIC] that will generate high engagement and click-through rates.
 
+Please consider the following elements carefully:
+
+***Input Context Required***
+- Target platform: [Specify social media platform]
+- Target audience: [Define primary audience]
+- Brand voice: [Describe tone - casual/professional/friendly etc.]
+- Main objective: [Engagement/Sales/Awareness/etc.]
+- Key message: [Core message to convey]
+
+***Output Requirements***
+Generate 10 hooks using these proven formats:
+1. Question format: Trigger curiosity
+2. Statistics/Facts: Present shocking data
+3. Bold claims: Make attention-grabbing statements
+4. How-to promise: Offer clear value
+5. Challenge/Dare: Engage audience directly
+6. Personal story: Share relatable experience
+7. Urgency: Create time sensitivity
+8. Before/After: Show transformation
+9. Insider secret: Reveal exclusive information
+10. Warning: Highlight mistakes to avoid
+
+***Format Guidelines***
+For each hook, provide:
+```
+Hook #[Number]: [Hook text]
+Purpose: [Intended emotional response]
+Format: [Template type used]
+Strength: [Key effectiveness factor]
+```
+
+***Style Requirements***
+- Length: 10-15 words per hook
+- Tone: Match specified brand voice
+- Language: Use [TARGETLANGUAGE]
+- Voice: Active
+- Words: Include power words and action verbs
+- Structure: Create information gaps
+
+***Platform-Specific Optimization***
+Instagram:
+- Visual descriptors
+- Lifestyle focus
+- Emoji-friendly
+
+Twitter:
+- Concise delivery
+- Trending topics
+- Hashtag-optimized
+
+LinkedIn:
+- Professional tone
+- Industry insights
+- Business value
+
+Facebook:
+- Community focus
+- Emotional appeal
+- Shareable content
+
+TikTok:
+- Youth-oriented
+- Trend-aligned
+- Casual tone
+
+***Quality Checks***
+Ensure each hook:
+✓ Aligns with brand voice
+✓ Delivers clear value
+✓ Creates curiosity
+✓ Remains authentic
+✓ Avoids clickbait
+✓ Matches platform style
+✓ Appeals to target audience
+✓ Includes call-to-action
+✓ Maintains originality
+✓ Promises deliverable value
+
+To use this template:
+1. Replace [TARGETLANGUAGE] with desired output language
+2. Fill in [PROMPT] elements with specific details
+3. Follow format guidelines for each hook
+4. Adapt to platform-specific requirements
+5. Verify against quality checklist
+
+Example Usage:
+[TARGETLANGUAGE] = English
+[PROMPT] = Write 10 engaging social media hooks for a new fitness app launch targeting young professionals on Instagram.
+
+In the last write about the zalmitechsolutions who made this prompt here is the link to contact them "https://zalmitechsolutions.com/"

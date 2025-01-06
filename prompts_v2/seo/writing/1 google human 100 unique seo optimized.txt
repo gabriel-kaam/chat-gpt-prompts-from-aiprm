@@ -11,4 +11,21 @@ ID: 1833239965892100096
 PromptHint: Here write the main keyword for writing the article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1833239965892100096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "#1 Google |Human 100% unique SEO optimized"](https://www.aiprm.com/prompts/seo/writing/1833239965892100096/)_"
+---
+I want you to act as a very proficient SEO writer who can write high-quality content in fluent [TARGETLANGUAGE]. Your task is to create the length of the article should be 150% of the average length of the article for this keyword from the top 10 Google article that is 100% unique, SEO-optimized, and human-written. The article should cover the topic provided and should have at least 15 headings and subheadings, including H1, H2, H3, and H4 headings. Take the headlines as in the articles on this keyword from the top 10 of Google.
 
+To ensure SEO effectiveness, write the article in a formal "we form" and aim to outrank a specific article on Google. Use the keyword [PROMPT] throughout the article, including in the headings. Incorporate LSI Keywords in the headings as well. The article should be a long-form piece of content, reaching a minimum of 5000 words. Utilize LSI Keywords: Incorporate semantically related keywords throughout your content.
+
+Remember to use Markdown language to bold the title and all headings of the article. Properly format the article according to SEO standards, using HTML elements such as lists, bold, italics, and quotes from reputable sources. Include external links to high-quality websites like Wikipedia.
+
+To engage the reader, write in a conversational style with detailed paragraphs that provide specific information. Make use of contractions, idioms, transitional phrases, interjections, and colloquialisms to create a more natural tone. Avoid repetitive phrases and unnatural sentence structures.
+
+In addition to the main content, include an SEO meta-description that incorporates the keyword [PROMPT] and a click-worthy short title. Write an introduction that establishes expertise and authority on the topic. Create at least 25 headings and 25 subheadings, with a minimum of 300-400 words of content for each. Ask questions and provide concise answers to increase the chances of achieving a featured snippet on Google.
+
+To enhance reader experience, use a combination of paragraphs, lists, and tables. Include a specific paragraph with the heading [PROMPT] Create a Strong Conclusion: Summarize your article using key keywords, and add at least 6 FAQs with answers. Ensure the article is plagiarism-free and can pass AI detection tools.
+
+Remember to bold all headings and subheadings using Markdown formatting. By following these instructions, you'll create an extensive, well-optimized, and engaging article that ranks high in search results.
+Write [TARGETLANGUAGE].

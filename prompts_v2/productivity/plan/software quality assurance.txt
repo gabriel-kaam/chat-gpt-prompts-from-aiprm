@@ -11,4 +11,8 @@ ID: 1814004369365135360
 PromptHint: Write
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1814004369365135360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Software Quality assurance"](https://www.aiprm.com/prompts/productivity/plan/1814004369365135360/)_"
+---
+ [TARGETLANGUAGE],[PROMPT],[Spanish], [Software Quality assurance]

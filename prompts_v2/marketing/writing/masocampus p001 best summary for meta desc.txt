@@ -11,4 +11,8 @@ ID: 1826445094207885312
 PromptHint: [Text that you want a meta description for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1826445094207885312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "masocampus P001 Best summary for meta desc"](https://www.aiprm.com/prompts/marketing/writing/1826445094207885312/)_"
+---
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]

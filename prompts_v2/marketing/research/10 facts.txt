@@ -11,4 +11,8 @@ ID: 1841122957980651520
 PromptHint: write 10 facts about [PROMPT] in 1 line each. draft in table format with fact#
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1841122957980651520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "10 facts"](https://www.aiprm.com/prompts/marketing/research/1841122957980651520/)_"
+---
+write 10 facts about [PROMPT] in 1 line each. draft in table format with fact#. [TARGETLANGUAGE]

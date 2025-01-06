@@ -11,4 +11,12 @@ ID: 1807019851877978112
 PromptHint: List of Keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1807019851877978112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Silo structure and SEO Titles"](https://www.aiprm.com/prompts/seo/keywords/1807019851877978112/)_"
+---
+I need you to make a silo structure for the following keywords, delete those that are double keywords, but keep the main keywords always: 
+[PROMPT]
+I need you to make a table that make clear distinguishing between keyword clusters, and make the clusters according to the best article title ideas according to SEO best practice.
 
+Write in [TARGETLANGUAGE] please

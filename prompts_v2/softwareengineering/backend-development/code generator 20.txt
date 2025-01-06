@@ -11,4 +11,8 @@ ID: 1934984810187509760
 PromptHint: write the topic of the code you want
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1934984810187509760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Code Generator 2.0"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1934984810187509760/)_"
+---
+generate code of python in to, [TARGETLANGUAGE],[PROMPT]

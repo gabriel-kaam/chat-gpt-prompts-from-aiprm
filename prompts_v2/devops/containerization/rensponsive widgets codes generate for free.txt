@@ -11,4 +11,75 @@ ID: 1851796706359500800
 PromptHint: [Widget Type] [Name] [Question] [BackgroundColor] [Font] [FontSize] [TextColor] [LinkColor] [ButtonBackgroundColor] [ButtonText] [ButtonLink] [ShowButton]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/containerization/1851796706359500800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rensponsive Widgets codes generate for FREE"](https://www.aiprm.com/prompts/devops/containerization/1851796706359500800/)_"
+---
+[PROMPT]
+[TARGETLANGUAGE] pt-BR: for Brazilian Portuguese.
+[TARGETLANGUAGE] en: for English.
+[TARGETLANGUAGE] es: for Spanish.
+[TARGETLANGUAGE] fr: for French.
+[TARGETLANGUAGE] de: for German.
+[TARGETLANGUAGE] it: for Italian.
+[TARGETLANGUAGE] ja: for Japanese.
+[TARGETLANGUAGE] zh: for Chinese.
+
+1. Flip Card Widget:
+
+## Flip Card Creation
+
+[Widget Title]
+[Widget Description]
+[Image URL]
+[Front Background Color] (optional, default: #f1f1f1)
+[Front Text Color] (optional, default: #000)
+[Back Background Color] (optional, default: #555)
+[Back Text Color] (optional, default: #fff)
+[Button Text] (optional, default: "Know More")
+[Button Link URL] (optional)
+[Include Flip Animation? (Yes/No, default: Yes)]
+
+2. Countdown Timer Widget:
+
+## Countdown Timer Creation
+
+[Widget Title]
+[Widget Description]
+[End Date and Time for Countdown]
+[Background Color] (optional, default: #000000)
+[Text Color] (optional, default: #FFFFFF)
+[Font Size] (optional, default: 16px)
+[Border] (optional, default: 1px solid #FFFFFF)
+[Include Animation Effect? (Yes/No, default: Yes)]
+
+3. Search Bar Widget:
+
+## Search Bar Creation
+
+[Widget Title]
+[Background Color] (optional, default: #FFFFFF)
+[Text Color] (optional, default: #000000)
+[Bar Size] (optional, default: 300px)
+[Text Size] (optional, default: 14px)
+[Include Search Button? (Yes/No, default: Yes)]
+[Search Button Text] (optional, default: "Search")
+[Search Button Color] (optional, default: #4CAF50)
+
+4. Image Slider Widget:
+
+## Image Slider Creation
+
+[Slider Title]
+[Slider Description]
+[List of Image URLs]
+[Transition Time between Images (in seconds, optional, default: 5)]
+[Image Size] (optional, default: 300x300 px)
+[Slider Background Color] (optional, default: #f1f1f1)
+[Slider Text Color] (optional, default: #000)
+[Navigation Button Color] (optional, default: #000)
+[Include Navigation Buttons (Yes/No, default: Yes)]
+[Include Slide Indicators (Yes/No, default: Yes)]
+
+Please create the code only for the requested widget type. Use this prompt to create widgets in multiple languages, including Brazilian Portuguese, English, Spanish, French, German, Italian, Japanese, and Chinese. If you have any further questions or need more assistance, please let me know! I'm here to help.
 

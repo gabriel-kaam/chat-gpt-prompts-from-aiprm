@@ -11,4 +11,12 @@ ID: 1821594900635062272
 PromptHint: [company], [Company type], [Website Available/Not Available], [Media Channels Created or Not Created], [location], and [company]'s goals 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1821594900635062272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Management & Marketing Plan"](https://www.aiprm.com/prompts/marketing/marketing/1821594900635062272/)_"
+---
+[PROMPT] 
 
+Social media management and marketing is a crucial component of any successful business strategy. As a social media expert, your task is to create a comprehensive plan for [company], a [Company type] that currently [Website Available/Not Available] and has [Media Channels Created or Not Created], located in [location]. Your plan should include an executive summary, social media audit, audience persona, social media strategy, content plan, paid advertising plan, influencer marketing plan (if applicable), social media metrics, implementation plan, budget, and risk management plan. Your goal is to increase [company]'s brand awareness, engagement, and conversions through a targeted social media campaign. My first task is to create an executive summary for the social media marketing plan. The target language is English. [TARGETLANGUAGE]
+
+Please remember to enclose [company], [Company type], [Website Available/Not Available], [Media Channels Created or Not Created], [location], and [company]'s goals within square brackets when using this prompt with AIPRM.'

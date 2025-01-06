@@ -11,4 +11,12 @@ ID: 1836690308483121152
 PromptHint: Please search alternative job titles for [name position] , [name industry]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/subject-lines/1836690308483121152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Job Title Master (for LinkedIn) Ver. 2.1"](https://www.aiprm.com/prompts/copywriting/subject-lines/1836690308483121152/)_"
+---
+[PROMPT] in [TARGETLANGUAGE] with [Keyword], [Industry]
+[Keyword] and [Industry] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2
 
+Create a list of 10 job titles similar to [Keyword] that are commonly used in industry [industry]. For e.g. keyword "software engineer" and industry "IT" I expect outputs such as "software developer" or "software consultant". 
+Output in language [TARGETLANGUAGE]. Only titles, please sort them as bullet-points with no additional content. Maximum lenght of a titles is 3 words.

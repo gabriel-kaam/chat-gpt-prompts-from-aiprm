@@ -11,4 +11,10 @@ ID: 1855147189459472384
 PromptHint: [Project title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1855147189459472384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Upwork Project Catalog Description"](https://www.aiprm.com/prompts/copywriting/product-description/1855147189459472384/)_"
+---
+act as an expert upwrok freelancer years of experience in freelancing, I want you to write a description for upwork project catalog, with explains your project with a title, text that describe what you offer. the description needs to be longer than 120 characters and can be as long as 1,200 characters, it should not exceed 1200 characters limit. All output shall be in the [TARGETLANGUAGE]. The tone must be professional, polite. it must include keywords from the title of the project. 
 
+[PROMPT]

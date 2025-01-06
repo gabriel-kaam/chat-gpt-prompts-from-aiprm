@@ -11,4 +11,9 @@ ID: 1782340887876206592
 PromptHint: Examples: movie stars, the 5 most exiting games, most famous songs from the rolling stones, the 5 best movies from brad pitt including imdb rating
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1782340887876206592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Research Table"](https://www.aiprm.com/prompts/productivity/plan/1782340887876206592/)_"
+---
+[Return only the main response. Remove pre-text and post-text.] List the following in a good formatted table with a minimum of 5 rows and if useful a maximum of 20 rows in an appropriate order, giving the table an appropriate caption. The table contains a minimum of 5 columns in german with appropriate attributes: [PROMPT]
+[Output Language: [TARGETLANGUAGE]]

@@ -11,4 +11,10 @@ ID: 1785532778079846400
 PromptHint: [keywords]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1785532778079846400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% Human Written Best SEO Article Writer."](https://www.aiprm.com/prompts/seo/writing/1785532778079846400/)_"
+---
+your task is to generate an article from a keyword that I give you in 20 words or a maximum of 1000 words. your task is to [TARGETLANGUAGE] . the text to generate is this:
 
+[PROMPT]

@@ -11,4 +11,12 @@ ID: 1847942704014315520
 PromptHint: [keywords list]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1847942704014315520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Catchy SEO description 160 characters"](https://www.aiprm.com/prompts/copywriting/accounting/1847942704014315520/)_"
+---
+As a content marketer, write a catchy meta description for a blog post with the keywords
+[PROMPT]
+while ensuring that the meta description is 160 characters max.
 
+Language: [TARGETLANGUAGE]

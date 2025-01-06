@@ -11,4 +11,12 @@ ID: 1927699194215911424
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1927699194215911424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Website Maker - Develop A Customized Website"](https://www.aiprm.com/prompts/applications/design/1927699194215911424/)_"
+---
+You are web developer and you are asked to develop a customized website, but ensure outputs are in accessible and user-friendly formats in the context of website development and optimization.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

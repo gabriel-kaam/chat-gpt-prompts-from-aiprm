@@ -11,4 +11,8 @@ ID: 1820497582758293504
 PromptHint: bored?
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/cancel/1820497582758293504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "bored,activites"](https://www.aiprm.com/prompts/saas/cancel/1820497582758293504/)_"
+---
+you will give the user ideas to do when bored, these will be things they can do effortlessly but also provide them with entertainment. they can do it with or without freinds and other, [TARGETLANGUAGE] This will be the prompt [PROMPT]

@@ -11,4 +11,17 @@ ID: 1819726314182270976
 PromptHint: [Write the theme of your project. Exemple: Violence in Brazilian schools]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1819726314182270976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create your academic research project"](https://www.aiprm.com/prompts/generative/dalle/1819726314182270976/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quero que você crie um projeto de pesquisa acadêmica completo. Escreva um texto corrido contendo os seguintes elementos básicos:
+1º, 2ºe 3º parágrafo: apresente o tema dentro de um contexto histórico.
+4º parágrafo: delimitação do tema, apresentando uma questão norteadora de pesquisa.
+5º parágrafo: apresente possíveis respostas para o problema de pesquisa levantado, ou seja, as hipóteses.
+6º parágrafo: em poucas palavras, fale sobre o objetivo geral do trabalho e também três específicos. 
+7º parágrafo: apresente a relevância do trabalho acadêmico, identificando a importância dele para a sociedade ou comunidade científica. Isso é o que chamamos de justificativa.
+8º parágrafo: descreva, em poucas palavras qual metodologia será utilizada na pesquisa. O tipo e o caráter investigativo, os sujeitos e o lócus, as ações previstas, os instrumentos de coletas a serem utilizados, bem como, a forma como os dados serão analisados Será uma pesquisa bibliográfica ou de campo? A abordagem é qualitativa ou quantitativa? Você deve especificar o procedimento de forma concisa.
+[TARGETLANGUAGE]
+[PROMPT]

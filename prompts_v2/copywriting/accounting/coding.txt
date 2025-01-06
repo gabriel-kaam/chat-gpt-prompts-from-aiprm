@@ -11,4 +11,13 @@ ID: 2038559959964995584
 PromptHint: Name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2038559959964995584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Coding"](https://www.aiprm.com/prompts/copywriting/accounting/2038559959964995584/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+Format data into a table and create column for
+count, Firstname, Last name, Email, Phone, Company Website, Instagram link
+Here are some rules.
+Donot repeat  entries, use fir occurance.

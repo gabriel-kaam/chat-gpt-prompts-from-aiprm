@@ -11,4 +11,22 @@ ID: 1824288532630597632
 PromptHint: [Persona Details. Please provide as much context as possible] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1824288532630597632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Persona Creation for the SEO Person "](https://www.aiprm.com/prompts/marketing/marketing/1824288532630597632/)_"
+---
+Create a detailed customer persona profile to be used for [PROMPT] persona. Along with the Psychographics, Demographics, and Behavioural, I need to incorporate the following details for their online activity: 
+Search Terms
+LSI Related Terms to Search Terms
+Frequently Asked Questions 
+Semantically Related Frequently Asked Questions 
+Estimated Traffic Volume for Search Terms 
+Estimated Traffic Volume for FAQs
+Estimated Traffic Volume for LSI Terms 
+Key drivers of decision-making online 
+Buying Journey Brief 
+Influencers
+ For the "Estimated Traffic Volume for Search Terms" and "Estimated Traffic Volume for FAQs" use a numerical range as a monthly estimate by that kind of persona. 
+Please use a tabulated format for the demographics, psychographics, and behavioral information and all the above fields and output.
 
+Please write in [TARGETLANGUAGE] language.

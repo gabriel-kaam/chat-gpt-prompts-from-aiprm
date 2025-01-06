@@ -11,4 +11,8 @@ ID: 1944314046170542080
 PromptHint: Enter your keywords to know cpc and volume
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1944314046170542080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keywords cpc and volume"](https://www.aiprm.com/prompts/seo/keywords/1944314046170542080/)_"
+---
+[PROMPT]  + generate a list of short and long-tail target keywords with search volume, average CPC ( Cost per Click) in India, whether or not competitors target them,(if yes which one?), and estimated clicks for Google Search Ads. Output in [TARGETLANGUAGE].

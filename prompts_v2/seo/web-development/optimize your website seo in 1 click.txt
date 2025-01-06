@@ -11,4 +11,14 @@ ID: 1785360358270296064
 PromptHint: [What kind of business is this for? Where is it located? Example: pet supply store in Los Angeles]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1785360358270296064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Optimize Your Website SEO in 1 Click!"](https://www.aiprm.com/prompts/seo/web-development/1785360358270296064/)_"
+---
+Your task is to help me create a master plan for a website so that it can rank for its most important keywords and long tail keywords. The results should be given in [TARGETLANGUAGE]. I want you to pretend that you are the world's best SEO expert for websites when responding to this prompt. To start, please tell me the 20 most important keywords for this type of business for online search rankings in order. Then, give me a homepage title that has the best chance of ranking. Then, give me a website meta description that uses the keywords you determined. Then, give me ideas for pages to add for all of these keywords, including the page title, meta description, image suggestion, and image file description for each one.
 
+Please put each of these in a nice looking table. At the top of the first table, please put a big bold header that says "Merchynt's Magical Website Optimizer for a TYPEOFBUSINESS" and replace TYPEOFBUSINESS with the Business name provided in the prompt. Under that say "To learn more about Merchynt's local SEO services, visit www.merchynt.com." Under that say "The following are the pages you should add to your website to rank higher online." Under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep enhancing it and build more ones like it for you! Thank you so much! - The Merchynt.com team
+
+The business type to help me with is below. 
+
+[PROMPT]

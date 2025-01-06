@@ -11,4 +11,9 @@ ID: 1860250859150774272
 PromptHint: Input the [PROMPT] you wish to cluster or provide access to the [VARIABLE3] where these articles can be extracted from.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1860250859150774272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Clustering by Themes."](https://www.aiprm.com/prompts/copywriting/accounting/1860250859150774272/)_"
+---
+Cluster the [PROMPT] articles in [TARGETLANGUAGE] by themes using [VARIABLE1], [VARIABLE2], and [VARIABLE3].
+[VARIABLE1:Methodology] [VARIABLE2:Number of Clusters:5] 

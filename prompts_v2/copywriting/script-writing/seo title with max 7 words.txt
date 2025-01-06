@@ -11,4 +11,9 @@ ID: 1910014359842312192
 PromptHint: with 3000 words
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1910014359842312192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "seo title with max 7 words"](https://www.aiprm.com/prompts/copywriting/script-writing/1910014359842312192/)_"
+---
+Imagine you are an experienced SEO specialist who specializes in writing articles that rank high on search engine result pages. You have been asked to provide guidance on effective SEO article writing strategies [TARGETLANGUAGE]. Write a comprehensive response that includes tips for optimizing content, choosing relevant keywords, and structuring articles to engage readers and search engines alike. [PROMPT]
 

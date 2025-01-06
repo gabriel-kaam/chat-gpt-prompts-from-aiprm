@@ -11,4 +11,12 @@ ID: 1871571516069117952
 PromptHint: compose article without detecting Artificial Intelligence
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1871571516069117952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Art of Rephrase"](https://www.aiprm.com/prompts/copywriting/accounting/1871571516069117952/)_"
+---
+Paraphrase the following, use random words and rare words. Write more like a human.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

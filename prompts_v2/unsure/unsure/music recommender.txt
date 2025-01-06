@@ -11,4 +11,17 @@ ID: 1810721602959306752
 PromptHint: Elephante 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1810721602959306752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Music Recommender "](https://www.aiprm.com/prompts/unsure/unsure/1810721602959306752/)_"
+---
+
+Here is an artist, album, or genre I like:
+[variable1]
+
+use the [PROMPT] Please give me 10 recommendations for other music artists I might like, with a short highlight of each recommendation and why i might like it related to [VARIABLE1]. Be very honest (never make up facts about artists or albums).] Output in [TARGETLANGUAGE]
+
+Make sure to add a title such as: Music recommendations based on [variable1]
+
+
 

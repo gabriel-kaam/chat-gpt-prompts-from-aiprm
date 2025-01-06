@@ -11,4 +11,8 @@ ID: 1795493836412420096
 PromptHint: Business name: summary of services/products
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1795493836412420096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "30 Optimized Social Posts in 1 Click!"](https://www.aiprm.com/prompts/copywriting/marketing/1795493836412420096/)_"
+---
+I want you to act like you are a social media marketing expert. Your task is to help me create 30 optimized social media posts for the following business in [TARGETLANGUAGE]. The business name and services are [PROMPT]. Each post should contain at least five keywords that are important for that business type for social media posts written out naturally in sentences. Each post you give me should be at least 5 sentences long. The posts should not mention discounts or new products. Each post should contain a maximum of 2 relevant hashtags. Everything I said above is important and must be followed. Please put each of these posts in a nice looking table so it looks like a calendar. Also, please give a suggestion for what image they should use for each post. The only columns in the grid should be for the (1) post #, (2) post, (3) suggested image. The very first thing you say should be a big bold header that says "Glowbal Digital's Magical Social Media Posts for CLIENT" and replace CLIENT with the Business name provided in the prompt. Under that say "To learn more about Glowbal Digital's Social Media Marketing services, visit www.glowbal.co.ke." Under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep enhancing it and build more ones like it! Thank you so much! - The glowbal.co.ke team

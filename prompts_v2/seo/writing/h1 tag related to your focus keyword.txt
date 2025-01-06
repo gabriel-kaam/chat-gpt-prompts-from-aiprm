@@ -11,4 +11,12 @@ ID: 1953687750843289600
 PromptHint: [Enter your focus Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1953687750843289600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "H1 tag related to your focus Keyword"](https://www.aiprm.com/prompts/seo/writing/1953687750843289600/)_"
+---
+Write all output in [TARGETLANGUAGE].
 
+write h1 tag in 12 words only, related to my focus keyword 
+[PROMPT]
+do not change my focus keyword write as it is same to same in h1 tag, do not write <h1> </h1> when you are giving me the result only write simple text in 1 line line. and also not write within double quotes. 

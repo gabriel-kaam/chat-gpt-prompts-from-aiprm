@@ -11,4 +11,10 @@ ID: 1879743827075006464
 PromptHint: History of social psychology
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1879743827075006464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Do Reasearch On History Of Social Psychology"](https://www.aiprm.com/prompts/copywriting/writing/1879743827075006464/)_"
+---
+You are researcher and you are asked to do reasearch on history of social psychology, but provide accurate information in the context of academic and writing.
+Reply only in [TARGETLANGUAGE] language.
+Your task is: [PROMPT]

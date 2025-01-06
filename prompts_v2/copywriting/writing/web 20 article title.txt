@@ -11,4 +11,8 @@ ID: 1942865931836071936
 PromptHint: [ Enter Your Keyword ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1942865931836071936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Web 2.0 Article Title "](https://www.aiprm.com/prompts/copywriting/writing/1942865931836071936/)_"
+---
+Your task is Create 20 Different article titles for the given keyword length will be not more than 75 characters mind it. All output Shall be  [TARGETLANGUAGE].    [PROMPT]

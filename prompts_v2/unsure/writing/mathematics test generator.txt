@@ -11,4 +11,13 @@ ID: 1862804232173522944
 PromptHint: [enter your subject (e.g., statistics)]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1862804232173522944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mathematics Test Generator"](https://www.aiprm.com/prompts/unsure/writing/1862804232173522944/)_"
+---
+Create a mathematics test with one click:
 
+[PROMPT]
+
+[TARGETLANGUAGE]
+en

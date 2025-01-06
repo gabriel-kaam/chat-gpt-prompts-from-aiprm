@@ -11,4 +11,20 @@ ID: 1801337842874712064
 PromptHint: [Paste your entire podcast transcript HERE]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801337842874712064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Podcast Episode ️TO Blog Outline and Title"](https://www.aiprm.com/prompts/copywriting/writing/1801337842874712064/)_"
+---
+Please respond in [TARGETLANGUAGE].  I would like you to complete 3 tasks for me in your response and divide these tasks into 3 different sections.  First: I would like you to use this podcast episode transcript “[PROMPT]” to create a short podcast episode summary.  Title this section of your response “🎧📝🎙️Episode Summary”.  
+
+Second: Now use the episode summary you created to come up with 5 ideas for catchy blog article titles and title this section “💡📝📚Catchy Blog Article Titles”.  
+
+Third:  Now I would like you to use the podcast episode summary you created and the transcript information to create a full Blog Post Outline.  Use headers and bullet points.  Be very detailed and informative.  Tiitle this section of your response “📝🔍🗂️Blog Post Outline”. 
+
+
+At the end of your response include a line break and then write this exactly 
+
+“Use the information above to write a complete and detailed blog post.  Include a title, headings, and bullet points.  Be creative, conversational, and very descriptive.  Elaborate on each of the bullet points with relevant and informative sentences.          
+👆👆👆👆
+COPY the entire response above the fingers and PASTE it into a new chat.”
 

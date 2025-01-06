@@ -11,4 +11,24 @@ ID: 1883503375162273792
 PromptHint: write just only title
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1883503375162273792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blogger Template by Roiz"](https://www.aiprm.com/prompts/copywriting/writing/1883503375162273792/)_"
+---
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently English. Please write me a article on [PROMPT] [TARGETLANGUAGE]with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings and <p> with all required tags ). Write a 2000 minimum word 100% Unique, SEO-optimized, Human-Written article in English with at least 15 headings and subheadings (including H1, H2, H3,H4, H5 and H6 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, add more meta keywords, use keyword phrases and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags.
+ 
+1. A single H1. This H1 which should be formatted with the opening <h1> tag and the closing </h1> tag. 
+2. A description formatted with the <description> tag, including also closing </description> and it should be less than 150 characters. After that write <meta name="description" content="write here 10 related titles"> and <meta name="keyword" content="write here 20 tags"> also.
+3. add this code "<details class='sp toc'><summary data-show='Show all' data-hide='Hide all'>Table of Contents</summary><div class='toC' id='autoToc'></div></details>"
+4.  Start Intrudction in this and first letter should be drop cap like this "<p><span class='dropCap'>T</span>ext_paragraph</p>"
+5. Main headings only in  H2s with keywords. and then other important tags after that like <H3>, <H4> and other tags.
+6. The text in all sections should provide value and include keywords.
+7. A section of questions and answers addressing the main questions people have about Title. These questions should not have been asnwered previously in the article. use this format for writing faq <details class='ac'> <summary> here will be the question</summary><div class='aC'><p> here will be the answer </p></div></details> and properly closed tag.
+8. A conclusion summarizing the whole article including Title.
+9. when you need to make notes use <p class="note"></p> or use warning as <p class="note wr"></p>.
+10. write this code in before conclusion "<details class='sp toc' open=''><summary data-show='Show all' data-hide='Hide all'>Related Posts</summary><div class='toC' id='aRel'></div></details>"
+11. When You are Using Code write separate codes in <pre></pre> and while making paragraphs use <code></code>
+13. Add more and more external links in this form "<a class='extL' href='your_url'>link_name</a>"
+14. If there is Tutorial or any steps to make forget all above instructions and make as you like to create
+All text should be formatted with the <p> tag. and use atleast 5 lines for <p> tags.
 

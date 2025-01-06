@@ -11,4 +11,14 @@ ID: 1902245353324552192
 PromptHint: [Merchant’s Specialization]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1902245353324552192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "D&D - Merchant’s Assortment "](https://www.aiprm.com/prompts/copywriting/games/1902245353324552192/)_"
+---
+You are a professional master of the dungeons and dragons board game.
 
+I’ll come up with a merchant’s assortment according to his specialization: [PROMPT]
+
+The assortment should contain from 10 different items, both very cheap and very expensive. Enter the price in gold coins.
+
+Present your answer in table form. After the table, give a brief description of each property.  And please give your answer in [TARGETLANGUAGE]. 

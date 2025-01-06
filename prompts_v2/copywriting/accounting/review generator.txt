@@ -11,4 +11,9 @@ ID: 1843932774273175552
 PromptHint: review generator
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1843932774273175552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "review generator"](https://www.aiprm.com/prompts/copywriting/accounting/1843932774273175552/)_"
+---
+create a table with only two row and 5 column, provide 5 user-generated reviews only 5 for [PROMPT] that are diplomatic and do not mention personal experience with their services, NEVER SAY YOU USED THEIR SERVICE, WRITE HIGH LY DIPLOMATIC. Format the response in a table of  5-column view, with each review in a separate cell right to next review side by side[TARGETLANGUAGE]English , Don say i have used or experienced their service
 

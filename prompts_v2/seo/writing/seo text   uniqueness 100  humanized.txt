@@ -11,4 +11,13 @@ ID: 1850051163341991936
 PromptHint: Here write the topic of your page for which you need SEO text
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1850051163341991936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Text  | Uniqueness 100% | Humanized"](https://www.aiprm.com/prompts/seo/writing/1850051163341991936/)_"
+---
+I want you to act as a very experienced SEO copywriter who is fluent in [TARGETLANGUAGE]. Write the table title in bold using Markdown language. The text should not be determined by artificial intelligence validation and should be written by a real person. IMPORTANT: Before writing, separately create a table with an H header on the left and a header on the right, use only the following headers in your text, do not make up your own: [VARIBALE3] (including headings H1, H2, H3, and H4), and then begin writing, step by step, based on this outline. Write [VARIABLE1] words of 100% unique, SEO-optimized, human-written article on [TARGETLANGUAGE]. The text must be exactly this length [VARIABLE1] and no less, note that the total number of characters to be written is divided by an equal number between headings [VARIABLE3]. IMPORTANT: The text should not be determined by artificial intelligence checks and should be written by a real person. Use the following keywords in the text:
+[VARIABLE2]. Use only the following headings in the text, do not make up your own: [VARIABLE3]. Please write in a professional style, use different word forms so that the text is not determined by artificial intelligence, do your best for this. It is important to bold the title and all headings of the article, and use appropriate headings for H-tags. Using the data provided, write a text on the topic: [PROMPT]. Thank you! I am sure you can handle what I have written.
 
+[VARIABLE1:Volume of text]
+[VARIABLE2:Keywords]
+[VARIABLE3:Text Structure]

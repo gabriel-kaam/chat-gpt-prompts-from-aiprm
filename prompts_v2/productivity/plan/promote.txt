@@ -11,4 +11,8 @@ ID: 1796954004249640960
 PromptHint: monat products
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796954004249640960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Promote"](https://www.aiprm.com/prompts/productivity/plan/1796954004249640960/)_"
+---
+[Promt text including [TARGETLANGUAGE] and [PROMPT]]

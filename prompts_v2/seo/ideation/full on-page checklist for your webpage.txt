@@ -11,4 +11,8 @@ ID: 1794297457233096704
 PromptHint: [Enter your Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1794297457233096704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full On-Page Checklist for your webpage"](https://www.aiprm.com/prompts/seo/ideation/1794297457233096704/)_"
+---
+All Output must be in [TARGETLANGUAGE]. Give me an on-page optimization guide for the keyword "[PROMPT]." Must include all the necessary factors and 2 line description and example of how they can implement on the website. Write it in a table with a separate section for serial number, on-page optimization step, Description, and example. And at the last of the table, give me an additional tip for SEO maximum of 5 lines. Don't add anything at the start of your response. Just start the response with a table. At the end of the response add a Twitter (https://twitter.com/rrehmanxd) and Buymeacoffee (https://www.buymeacoffee.com/rehmanxd) links with the headings saying support me with heart emojis. Don't add these two to a table.

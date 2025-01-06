@@ -11,4 +11,8 @@ ID: 1782919674846253056
 PromptHint: topic
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1782919674846253056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Gamification Generator"](https://www.aiprm.com/prompts/copywriting/games/1782919674846253056/)_"
+---
+Write a set of trivia questions based on [PROMPT] in [TARGETLANGUAGE].

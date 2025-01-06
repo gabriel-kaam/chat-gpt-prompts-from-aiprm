@@ -11,4 +11,10 @@ ID: 1789058985996058624
 PromptHint: [text that you want to research your Keywords for ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1789058985996058624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword research for my content"](https://www.aiprm.com/prompts/seo/keywords/1789058985996058624/)_"
+---
+Your task is to Research Keywords for my website article I give you 1 to 300 keywords. All keywords shall be in  [TARGETLANGUAGE]. The keyword Research in this:
 
+[PROMPT]

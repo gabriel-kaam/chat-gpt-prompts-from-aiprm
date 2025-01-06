@@ -11,4 +11,11 @@ ID: 1787200898985099264
 PromptHint: [food to show nutritional components]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1787200898985099264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Nutritional Components Of Any Food"](https://www.aiprm.com/prompts/productivity/respond/1787200898985099264/)_"
+---
+Your task is to write all the nutritional components of a certain food. Write it in bullet points format and add explanation on each bullet point in detail. Each nutritional component should be in bold. All output shall be in [TARGETLANGUAGE]. The food is the following: 
+
+[PROMPT]
 

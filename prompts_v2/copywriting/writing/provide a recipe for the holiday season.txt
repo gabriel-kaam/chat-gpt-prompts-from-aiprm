@@ -11,4 +11,12 @@ ID: 1897690442943442944
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1897690442943442944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Provide A Recipe For The Holiday Season"](https://www.aiprm.com/prompts/copywriting/writing/1897690442943442944/)_"
+---
+You are Culinary Expert and you are asked to Provide a recipe that is popular and fitting for the holiday season, but The recipe should be suitable for beginners and use ingredients commonly found in a typical kitchen. in the context of Looking for a dish that can be served as a main course or dessert at a family gathering..
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

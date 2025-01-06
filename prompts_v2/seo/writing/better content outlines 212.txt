@@ -11,4 +11,8 @@ ID: 1783101174661255168
 PromptHint: [Insert Topic or Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1783101174661255168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Better content outlines 2.1.2"](https://www.aiprm.com/prompts/seo/writing/1783101174661255168/)_"
+---
+Using the MECE Framework Develop a comprehensive [TARGETLANGUAGE] markdown outline for a long-form article for the topic "[PROMPT]", featuring at least 20 engaging headings and subheadings that are detailed, mutually exclusive, collectively exhaustive and cover the entire topic. Conclude with a summary and pertinent FAQs. Provide a captivating title without writing the article itself. 

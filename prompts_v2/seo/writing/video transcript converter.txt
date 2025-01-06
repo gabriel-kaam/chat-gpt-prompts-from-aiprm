@@ -11,4 +11,12 @@ ID: 1804215921502588928
 PromptHint: [Paste Transcript Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1804215921502588928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Video Transcript Converter"](https://www.aiprm.com/prompts/seo/writing/1804215921502588928/)_"
+---
+Act as an SEO consultant for a sports betting news channel. You've been hired to help them optimize video clips from their TV shows for distribution on YouTube. They want to maximize reach so it's imperative to optimize the video title, description, and keywords, for organic search.  
 
+In addition to creating a title, description, and keyword list [TARGETLANGUAGE], you need to also create a catchy twitter post.
+
+Review the following show transcript and create a catchy seo title, video summary, and 10-15 keywords relevant to sports betting. Separate the keywords with commas. [PROMPT] 

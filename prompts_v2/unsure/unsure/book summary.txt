@@ -11,4 +11,8 @@ ID: 1829124221268393984
 PromptHint: [Book Name] [Author]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1829124221268393984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Book Summary"](https://www.aiprm.com/prompts/unsure/unsure/1829124221268393984/)_"
+---
+faça um texto sobre o livro [PROMPT] , do autor [Author], com introdução, tabela com os personagens, resumo da cada capitulo em um paragrafo e conclusão, onde na conclusao seja analisada a relevancia da obra na literatura nacional. Em negrito o titulo de cada parte do documento. na introdução deve constar o autor, o ano da obra e estilo literario adotado na obra. Use a lingua [TARGETLANGUAGE]

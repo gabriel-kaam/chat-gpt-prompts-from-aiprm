@@ -11,4 +11,8 @@ ID: 1805971566404833280
 PromptHint: Write your main or focus keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1805971566404833280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Strategy- 100% Rank a keyword"](https://www.aiprm.com/prompts/seo/keywords/1805971566404833280/)_"
+---
+Think, you are an SEO specialist. Now give me the top 5 list on a table for this keyword: [PROMPT] in [TARGETLANGUAGE]. This table will include columns for Keyword Cluster, Keyword,	Search Intent, search popularity, Title, Meta Description, minimum article length, 5 Related keywords, Top 5 ranked website, Banklinks needed to rank, 5 tips to rank on top 10.

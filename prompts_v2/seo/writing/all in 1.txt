@@ -11,4 +11,19 @@ ID: 1797052164137549824
 PromptHint: Paste Your Multiple Articles Here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797052164137549824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "All in 1"](https://www.aiprm.com/prompts/seo/writing/1797052164137549824/)_"
+---
 
+Here are the guidelines you need to follow to complete this task:
+1. I will provide you with multiple articles, each identified as Article 1, Article 2, Article 3, and Article 4.
+2. Your first task is to analyze each article carefully.
+3. Once you have analyzed an article, take a break and relax before moving on to the next one.
+4. Make sure to skip any duplicated content across the articles.
+5. Once you have successfully completed analyzing all articles, reply to this prompt stating "Done analyzing all articles."
+6. Next, generate an outline of the blog post based on the guidelines provided.
+7. Finally, write a full blog post based on the guidelines and the multiple articles provided.
+8. Article should be in [TARGETLANGUAGE] 
+Note: Your blog post should be based on the given multiple articles and the guidelines I have provided above.
+Multiple articles start from here... [PROMPT]

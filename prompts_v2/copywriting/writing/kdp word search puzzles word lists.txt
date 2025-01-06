@@ -11,4 +11,8 @@ ID: 1796520678460223488
 PromptHint: [write the topic you want a word list for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796520678460223488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "KDP Word Search Puzzles (Word Lists)"](https://www.aiprm.com/prompts/copywriting/writing/1796520678460223488/)_"
+---
+I want yout to create an ordered list of words in language [TARGETLANGUAGE] up to 100 words. Make sure the words are arranged in an alphabetical order. Also, make sure no single word is added twice. Create a list of words about this: [PROMPT]

@@ -11,4 +11,9 @@ ID: 1800867893282594816
 PromptHint: [Copy the Text you use for the category in this field] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1800867893282594816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Shopify SEO Text for Categories"](https://www.aiprm.com/prompts/seo/writing/1800867893282594816/)_"
+---
+Wirte as SEO summary of the following text in [TARGETLANGUAGE]. The Lext should not exceed the length of 150 Words.
+[PROMPT]

@@ -11,4 +11,18 @@ ID: 1801266819194159104
 PromptHint: Seed Keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1801266819194159104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mastermind Keyword Explorer"](https://www.aiprm.com/prompts/seo/keywords/1801266819194159104/)_"
+---
+[PROMPT]  [TARGETLANGUAGE] I want you to act like a SEO Keywords Explorer. I will give you the company product or services and you will give the top 10 keywords category based on the following:
+1. Seed keywords
+2. Keywords by search intent
+3. Long-tail keywords (topical and supporting)
+4. Low-competition keywords
+5. Niche keywords
+6. Branded and unbranded keywords
+7. Your competitors' keywords
+8. Primary and secondary keywords
+I dont need explanations. Do you understand? [TARGETLANGUAGE][PROMPT]
 

@@ -11,4 +11,14 @@ ID: 1815970997472595968
 PromptHint: [enter target keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1815970997472595968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Article with KW Research"](https://www.aiprm.com/prompts/seo/ideation/1815970997472595968/)_"
+---
+Based on the SERPs, do a keyword research on [PROMPT].
+Using those keywords, write a 100% unique & creative article of 1600 words using  ## heading  ## and # subheadings #.  Writing style should be authoritative and conversational. Use fully detailed paragraphs that engage the reader. Break down long paragraphs for better readability. Add bullet points or numbered list (if needed). 
+
+The article should inclide a  creative title  (can be in a form of listicle, how-to or personal experience or other engaging forms of title), meta description, # Introduction #.  Make sure thearticle is plagiarism free. Try to use [PROMPT] 2-3 times in the article, long-tail keywords of [PROMPT], and keyword variations of [PROMPT] in the article.
+
+In the very bottom of the article, give 5 sources. All output shall be in [TARGETLANGUAGE]
 

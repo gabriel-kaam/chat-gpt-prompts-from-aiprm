@@ -11,4 +11,9 @@ ID: 1802314300917018624
 PromptHint:  [insert your landing page url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802314300917018624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Facebook ads Primary text, Headline, Description"](https://www.aiprm.com/prompts/marketing/social-media/1802314300917018624/)_"
+---
+Your task is to Write 10 Primary text, Headline, Description for Facebook ads. Try to give 3 column have 125 characters for the Primary text field, 40 characters for the Headline field and 155 characters for the Description field for promoting this post, and list it into a table. All outputs will be in [TARGETLANGUAGE]. The task is: 
+[PROMPT]

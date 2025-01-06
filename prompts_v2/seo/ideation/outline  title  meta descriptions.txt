@@ -11,4 +11,10 @@ ID: 1793645718049918976
 PromptHint: [Keyword Only]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1793645718049918976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Outline | Title | Meta descriptions"](https://www.aiprm.com/prompts/seo/ideation/1793645718049918976/)_"
+---
+Your task is to make outlines for an article with title and meta description from the keyword, I give you in 1 word or 130 characters. write all output in [TARGETLANGUAGE]. Answer to the questions:
 
+[PROMPT]

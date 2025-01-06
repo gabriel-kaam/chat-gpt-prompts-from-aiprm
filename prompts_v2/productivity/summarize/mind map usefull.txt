@@ -11,4 +11,11 @@ ID: 1800338065550729216
 PromptHint: Mind Map Usefull
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1800338065550729216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mind Map Usefull"](https://www.aiprm.com/prompts/productivity/summarize/1800338065550729216/)_"
+---
+Organize em sistema de identação informações sobre o seguinte tópico [PROMPT].
+Use 4 niveis de identação.
+A resposta contém somete o sistema de identação.
+Escreva em [TARGETLANGUAGE].

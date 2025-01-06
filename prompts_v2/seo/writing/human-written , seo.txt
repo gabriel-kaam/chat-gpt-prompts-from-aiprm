@@ -11,4 +11,17 @@ ID: 1800518857958625280
 PromptHint: [[ Keyword ]]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1800518857958625280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human-written , SEO "](https://www.aiprm.com/prompts/seo/writing/1800518857958625280/)_"
+---
+It doesn't write like an AI article,
+This is a long, human-level blog post,
+plagiarism free,Use different expressions when using the same word, use different verbs, Words and colloquial expressions used in daily life, interlocutor,
+Friendly tone,
+a sympathetic tone,
+put in # and ## and ### Don't put a link in it,
+a detailed table of contents,2000 to 2500 words written,
+all output shall be in [TARGETLANGUAGE], the text to summarize is this:
 
+[PROMPT]

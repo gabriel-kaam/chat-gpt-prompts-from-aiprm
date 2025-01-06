@@ -11,4 +11,10 @@ ID: 1793726512109981696
 PromptHint: [text that you want a meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1793726512109981696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "BDX Meta Description"](https://www.aiprm.com/prompts/copywriting/marketing/1793726512109981696/)_"
+---
+Your task is to create a google optimized meta description from the text I give you. The meta description should be 120 characters or fewer including spaces. You should use as much of the 120 characters as possible. Use active voice. All output shall be in [TARGETLANGUAGE]. Use the tag "Meta Description:" The text I want you to create a meta description for is this:
 
+[PROMPT]

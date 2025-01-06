@@ -11,4 +11,12 @@ ID: 1879548892614885376
 PromptHint: Domain Name: domain, factors, good/bad
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1879548892614885376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Short Remarks"](https://www.aiprm.com/prompts/copywriting/accounting/1879548892614885376/)_"
+---
+[TARGETLANGUAGE] Please write in English
 
+[PROMPT]
+Act as an expert domainer and write remarks of three to four lines on the provided domain name.
+I'll provide you with domain name and some historic data or conclusion points of domain features or concerns. You have to analyze them deeply and then write summarize remarks about domain, not longer than 3 lines.

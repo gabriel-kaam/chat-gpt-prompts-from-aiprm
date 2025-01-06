@@ -11,4 +11,11 @@ ID: 1833861154310184960
 PromptHint: [email]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1833861154310184960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Email Marketing com CTA "](https://www.aiprm.com/prompts/marketing/marketing/1833861154310184960/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Eu quero que você seja um especialista em e-mail marketing. 
+Me apresente um e-mail com tom persuasivo sobre [PROMPT]. 
+Deixe espaço ao final para um botão de compra. 

@@ -12,4 +12,10 @@ ID: 1799083834772557824
 PromptHint: Put the text here, give the multiple choice from the 2nd prompt 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1799083834772557824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "English multiple choice question"](https://www.aiprm.com/prompts/unsure/writing/1799083834772557824/)_"
+---
+As a language model, your first task is to read the following text and not respond. Once you have read the text, I will give you a multiple-choice question that you will need to answer based on the information in the text, no need to re-write the question, answer only, remember that. The target language for this prompt is [TARGETLANGUAGE] .
 
+[PROMPT]

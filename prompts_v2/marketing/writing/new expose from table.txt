@@ -11,4 +11,15 @@ ID: 1794692380453232640
 PromptHint: Insert filled table
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1794692380453232640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "New Expose from table"](https://www.aiprm.com/prompts/marketing/writing/1794692380453232640/)_"
+---
+Using the table provided, formulate a text in [TARGETLANGUAGE] for a real estate agent's exposé describing the property and its location. 
+Be sure to divide the exposé into these five sections:
+Title
+Description of the property
+Equipment
+Location
+Special feature
+The Euphoria Level column in the table determines how enthusiastically the text should be worded (0=neutral, 1=positive, 2=advertising, enthusiastic) Avoid repetition in the wording. Use many positive adjectives to describe and announce the property. All text should be lively and positive, as if written by an intelligent academic person. If technical terms appear, explain them in one sentence. Never use "you," always use "you." Positive emotions should be aroused so that prospective buyers feel comfortable and find many arguments to visit the house in person. Facts such as exact numbers and spatial data should not be changed. The feature, which is in the feature section, should get its own paragraph and be highlighted in terms of content. In the item "recommended maintenance measures", explain which structural measures should still be carried out on the property. Formulate the recommendation so that it sounds like a benefit to the prospective buyer. The item "distance to public transport" indicates how many minutes it takes to walk to the nearest train or bus stop. The distance highway point indicates how many minutes away it is by car to the nearest highway access. Always formulate a penultimate paragraph that expresses that we are happy to be contacted for a possible viewing appointment and are of course available for further information and questions at any time, call to action, naming the contact person. Always use the sentence "Your team from BECKER & BECKER Immobilien - Your broker for the Rhineland is looking forward to your inquiry." at the end of the text. If the value in a column is empty or 0, ignore this column in your text. Please always formulate in German language and writing. Use the following table: [PROMPT].

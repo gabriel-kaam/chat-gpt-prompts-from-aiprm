@@ -11,4 +11,8 @@ ID: 1800853371935264768
 PromptHint: please enter your need.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1800853371935264768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "settle your need."](https://www.aiprm.com/prompts/unsure/unsure/1800853371935264768/)_"
+---
+My need is [PROMPT].Please tell me 2 possible solutions in as concise language as possible, and give as detailed and precise implementation steps as possible for each solution.Please output it in [TARGETLANGUAGE].

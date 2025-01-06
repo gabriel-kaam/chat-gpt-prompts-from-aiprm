@@ -11,4 +11,9 @@ ID: 1804520602195976192
 PromptHint: write topic for post
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1804520602195976192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[Instagram carousel post design for me only]"](https://www.aiprm.com/prompts/marketing/social-media/1804520602195976192/)_"
+---
+Write in a table format for men with column slide, title (eye catchy, in 2 to 4 words), content (in 3 to 7 words ), image suggestion for instagram crousel post. I want this in only [TARGETLANGUAGE]
+[PROMPT]

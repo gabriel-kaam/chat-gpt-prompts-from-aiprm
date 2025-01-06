@@ -11,4 +11,17 @@ ID: 1800723373488345088
 PromptHint: [Areas you want to know]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1800723373488345088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Jargon Organizer"](https://www.aiprm.com/prompts/copywriting/keywords/1800723373488345088/)_"
+---
+Please answer in [TARGETLANGUAGE].
+Please provide a markdown table with ten popular jargon terms used in the [PROMPT], sort list in the order of frequent use. Please make the table a markdown format so that it can be copied. Each row of the table should have six columns with the following information: 
+
+1. Jargon 
+2. Simple Explanation (max 8 words) 
+3. Description (min 15 words, max 50 words)
+4. Association score with [PROMPT] keyword
+5. Citation frequency
+6. Reference
 

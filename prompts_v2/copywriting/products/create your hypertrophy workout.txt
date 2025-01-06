@@ -11,4 +11,12 @@ ID: 1807324426560344064
 PromptHint: Enter intensity (light, moderate or heavy) and time in minutes (Ex: LIGHT, 45 MINUTES)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1807324426560344064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create your hypertrophy workout"](https://www.aiprm.com/prompts/copywriting/products/1807324426560344064/)_"
+---
+Create a balanced physical training with a hypertrophy objective. ABC type training. 8 to 10 exercises for each day.
+Apply 3 or 4 series for each exercise.
+Present the training in 3 tables. One for each workout, with the columns "Exercise", "Brief Description" and "Series".
+Include a previous heating time (5, 10 or 15 minutes, depending on intensity): [PROMPT]
+Answer in language [TARGETLANGUAGE]

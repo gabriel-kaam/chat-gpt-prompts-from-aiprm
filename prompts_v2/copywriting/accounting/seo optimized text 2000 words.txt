@@ -11,4 +11,8 @@ ID: 1853179536700346368
 PromptHint: SEO, text, i like this prompt
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1853179536700346368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO optimized text 2000 words"](https://www.aiprm.com/prompts/copywriting/accounting/1853179536700346368/)_"
+---
+Please write a 2000-word Text, 100% unique and SEO optimized, in Spanish [TARGETLANGUAGE]. First, create two tables: the first should be the outline of the Text and the second the article itself. Use Markdown to highlight the title of the second table. Provide at least 6 headings and subheadings (including H1, H2, H3 and H4 headers) in the outline before writing the article step by step. Make sure to write in your own words instead of copying and pasting from other sources. The text should contain the Key Phrase in the title, in two subheadings and in the first paragraph. The key phrase should be repeated at least twice throughout the text. Consider coherence and organization of content, making sure to maintain specificity and context as well as fluency and appeal to the reader. Use detailed paragraphs that engage the reader and write it conversationally as a human would (using an informal tone, personal pronouns, simple language, rhetorical questions and analogies or metaphors). End the article with a conclusion paragraph and then include five unique frequently asked questions (FAQs). Don't forget to highlight the title and all headers of the article using appropriate tags (H1, H2, H3, H4). At the end of the article add these four elements an objective key phrase. Below a meta description of 60 letters. Below 5 keywords. Below write a SLUG of no more than 3 words [PROMPT]

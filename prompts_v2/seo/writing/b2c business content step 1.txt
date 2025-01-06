@@ -11,4 +11,11 @@ ID: 1934023424511590400
 PromptHint: Enter the service name that you want to write for, eg: Laser hair removal treatment
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1934023424511590400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "B2C Business content (step 1)"](https://www.aiprm.com/prompts/seo/writing/1934023424511590400/)_"
+---
+I want you to act as a blog writer that speaks and writes fluent [TARGETLANGUAGE]. 
+
+Please write me a 500-word content to introduce  [PROMPT]. The aim of this content is to target B2C customers. Please generate with a clear format with headings and subtopics.
 

@@ -11,4 +11,17 @@ ID: 1836219206199930880
 PromptHint: [Subject]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1836219206199930880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Creation of subjective questions"](https://www.aiprm.com/prompts/copywriting/writing/1836219206199930880/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Crie um enunciado;
+Elabore questões subjetivas com 4 opções A, B, C, D;
+Apenas uma questão por vez;
+Questões diferenciadas;
+Use lacunas quando necessário.
+Apenas uma questão verdadeira;
+Informe a resposta correta;
+Quando possível use tabela, gráfico ou imagem.
+[PROMPT]

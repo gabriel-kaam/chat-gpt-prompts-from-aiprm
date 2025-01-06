@@ -11,4 +11,14 @@ ID: 1788308890803503104
 PromptHint: [COMPANY NAME is a TYPE OF BUSINESS in CITY] (ex: Joe's Pizza is a pizza shop in NYC)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1788308890803503104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Local Citation Optimizer (local SEO for Google Business Profiles / GMB)"](https://www.aiprm.com/prompts/seo/link-building/1788308890803503104/)_"
+---
+Your task is to help me optimize a local business profile for the following business in [TARGETLANGUAGE].
 
+Please pretend you are a local SEO expert and give me all of the following requests separated in different sections with their own bold ALL CAPS headers. All sections should have big bold headers. The first request is to give me a list of the "Best Categories For CLIENT" that Google supports as Google Business categories. The next request is to give me a comma separated sentence of the 10 best search keywords this business should try to rank for to get local customers. Please capitalize the first letter of each word and title this section "The Best Target Keywords for CLIENT". For the next request, please write me a short business description that is SEO optimized for this business. Then, for my next request please write me a longer business called "Long Business Description" that is SEO optimized for this business. This longer business description should be about 2.5x longer than the short one. Both descriptions should have a call to action and be full of the local SEO keywords you listed out in the earlier request. Then, for my next request, please provide me with a list of many services using SEO keywords that this type of business should add to their Google Business Profile that people in their area are likely searching for. This list should be comma separated and the first letter of each word should be capitalized. There should be at least 20 services in this comma separated sentence. For my next request, please provide a list of "Everywhere CLIENT should list itself online". This list should have at least 20 websites and apps mentioned. At the very top of your response should be a big header that says: "MERCHYNT'S MAGICAL LOCAL CITATION OPTIMIZER FOR CLIENT" and replace CLIENT everywhere with the Business name provided in the prompt. Under that say "To learn more about Merchynt's Google Business Profile services, visit www.merchynt.com/google-business-pro." Under the last response, please write in big bold letters "If you found this prompt helpful please give us a thumbs up on the AIPRM prompt page so we know to keep enhancing it and build more ones like it! Thank you so much! - The Merchynt.com team
+
+The business to help me with is:
+
+[PROMPT]

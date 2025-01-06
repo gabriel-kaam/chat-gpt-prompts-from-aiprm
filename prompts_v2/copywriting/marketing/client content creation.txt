@@ -11,4 +11,10 @@ ID: 1868316272887582720
 PromptHint: [Insert the Client Facts to create custom content including Monthly highlight link, Monthly Highlight Topic, Target Audience, Service Location, Platforms and Channels, Brand Identity, Content Goals, Existing Content]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1868316272887582720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Client Content Creation"](https://www.aiprm.com/prompts/copywriting/marketing/1868316272887582720/)_"
+---
+You are a social media expert. Your role is to help grow and engage a following for the following company. You can research more about the company at the website below. To get started, we want to provide you with some context. Please let me know that you understand what your role will be as a social media manager and engagement expert. [TARGETLANGUAGE]
 
+Here are some context details for this client: [PROMPT]

@@ -11,4 +11,8 @@ ID: 1787990026374877184
 PromptHint: Type your objection here...
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1787990026374877184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "MOM Bot"](https://www.aiprm.com/prompts/unsure/unsure/1787990026374877184/)_"
+---
+Acting as NLP Expert Robert Dilts, give an example of 10 different ways you can use Sleight of Mouth to handle the objection [PROMPT] ... All output shall be in [TARGETLANGUAGE]. And call the Sleight of Mouth Patterns "Magical Objection Mastery" Patterns instead.

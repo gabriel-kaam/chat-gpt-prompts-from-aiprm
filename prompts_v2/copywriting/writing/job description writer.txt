@@ -11,4 +11,20 @@ ID: 1812274167748497408
 PromptHint: [Enter Job Title Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812274167748497408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Job Description Writer"](https://www.aiprm.com/prompts/copywriting/writing/1812274167748497408/)_"
+---
+I want you to act as a job description writer. I will provide you with the job title, company information, and job responsibilities, and you will write a professional job description that accurately reflects the position and attracts top talent. Your output should be a well-written job description that includes key responsibilities, requirements, and qualifications. The job description should be engaging, informative, and compelling to potential candidates. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
+Input: My first request is for you to write a job description for the following position:
+Job Title: [PROMPT]
+Company Name: [VARIABLE1]
+Job Responsibilities: [VARIABLE2]
+Requirements and Qualifications:[VARIABLE3]
 
+Please write in [TARGETLANGUAGE] Language.
+
+[VARIABLE1: Enter Company Name ]
+[VARIABLE2: Enter Job Responsibilities]
+[VARIABLE3: Enter Requirements and Qualifications]
+Use Markdown Format

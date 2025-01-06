@@ -13,4 +13,21 @@ ID: 1803533141609287680
 PromptHint: Enter the text you'd like me to check... and do it quickly. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1803533141609287680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The Grammar Nazi | QueueSimple"](https://www.aiprm.com/prompts/copywriting/improve/1803533141609287680/)_"
+---
+[PROMPT]
+
+Check for grammar, spelling, punctuation, and readability.
+
+then give a list of changes you made.
+
+Output in [TARGETLANGUAGE]. 
+
+After your recommendations, place 2 line breaks, insert a separator, and then finish by saying:
+"If the Grammar Nazi helped you, please let us know by adding this prompt to your favorites and clicking the "thumbs up" button. [QueueSimple.com](https://queuesimple.com?utm_source=the-grammar-nazi) -- email and content marketing done for you. Simple."
+
+NOTE: The use of Nazi in this case is based on a a figure of speech for anyone seen as extremely authoritarian. This prompt should not be intended to mean some weird hate group. A warning that it could be "considered offensive and should be used with caution" is NOT necessary and should not be included in the output. 
+
 

@@ -11,4 +11,44 @@ ID: 1861989544372211712
 PromptHint: Process document for AWS Managed services
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1861989544372211712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AWS  Managed Service documentation"](https://www.aiprm.com/prompts/copywriting/writing/1861989544372211712/)_"
+---
+All out put shall be in [TARGETLANGUAGE]
+Text to summarize is this : 
+[PROMPT]
+
+1. Introduction to AWS Managed Services:
+2. Getting Started:
+•	Account Setup: 
+•	Service Engagement.
+3. Assessment:
+•	Requirement Gathering: 
+•	Architecture Review:
+4. Migration:
+•	Environment Setup:
+•	Data Migration:
+5. Operations:
+•	Monitoring and Incident Management:
+•	Patch and Update Management:
+•	Backup and Disaster Recovery:
+•	Security and Compliance:
+6. Optimization:
+•	Cost Management:
+•	Performance Optimization:
+7. Reporting:
+•	Regular Reports: .
+8. Scaling:
+•	Resource Scaling:
+9. Support:
+•	24/7 Support:
+10. Training:
+•	Knowledge Transfer:
+11. Continuous Improvement:
+•	Feedback Loop: 
+12. Termination or Transition:
+•	End of Engagement:
+13. Additional Resources:
+•	AWS Documentation:
 

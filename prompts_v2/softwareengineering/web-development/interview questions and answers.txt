@@ -11,4 +11,8 @@ ID: 1790386579056091136
 PromptHint: Type the skill name to get top relevant interview questions
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1790386579056091136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Interview questions and answers."](https://www.aiprm.com/prompts/softwareengineering/web-development/1790386579056091136/)_"
+---
+Top 10 Interview Question of [PROMPT] and their answers in [TARGETLANGUAGE].

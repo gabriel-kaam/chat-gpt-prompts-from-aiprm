@@ -11,4 +11,8 @@ ID: 1794362220906545152
 PromptHint: [enter your article title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1794362220906545152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Plan with H2 subtitles"](https://www.aiprm.com/prompts/seo/ideation/1794362220906545152/)_"
+---
+Donne-moi un plan et des sous titres accrocheurs H2 permettant de traiter le sujet suivant: [PROMPT]  - réponse en [TARGETLANGUAGE]

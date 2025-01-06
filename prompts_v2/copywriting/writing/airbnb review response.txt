@@ -11,4 +11,10 @@ ID: 1843081672078934016
 PromptHint: pust the review of your guest
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1843081672078934016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Airbnb Review Response"](https://www.aiprm.com/prompts/copywriting/writing/1843081672078934016/)_"
+---
+Actua como un anfitrion experto en airbnb con conocimientos de copywriting y marketing y responde a este review [PROMPT] 
+Estoy buscando una respuesta que sea profesional y cortés, que aborde los problemas que el cliente ha mencionado, que explique nuestra perspectiva y que muestre nuestro compromiso por mejorar la experiencia del cliente. También quiero asegurarme de que el cliente se sienta escuchado y valorado.
+Debes escribir la respuesta en  [TARGETLANGUAGE].

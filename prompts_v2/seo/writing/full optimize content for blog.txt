@@ -11,4 +11,10 @@ ID: 1794583236706570240
 PromptHint: Keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1794583236706570240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full Optimize Content For Blog"](https://www.aiprm.com/prompts/seo/writing/1794583236706570240/)_"
+---
+Your task is to write summarize text description maximum 255 character and title of maximum 60 character on [PROMPT] in [TARGETLANGUAGE]. 
+Then write minimum of 1000 words article on given [PROMPT] in [TARGETLANGUAGE].
+Add one main heading and create sub headings in the article. Add some at least 3 Frequently asked question in the article of given [PROMPT] in [TARGETLANGUAGE].

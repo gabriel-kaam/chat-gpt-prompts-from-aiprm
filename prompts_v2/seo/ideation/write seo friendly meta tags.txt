@@ -11,4 +11,12 @@ ID: 1960934643877027840
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1960934643877027840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write SEO Friendly Meta Tags"](https://www.aiprm.com/prompts/seo/ideation/1960934643877027840/)_"
+---
+You are SEO specialist and you are asked to write SEO friendly Meta Tags, but you need to use natural, human friendly organic language. Keep Meta Title under 65 char and description under 160 char.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

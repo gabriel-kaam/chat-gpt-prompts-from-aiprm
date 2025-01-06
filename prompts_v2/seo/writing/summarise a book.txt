@@ -11,4 +11,11 @@ ID: 1795112157348888576
 PromptHint: [book you want to summarise and author]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1795112157348888576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summarise a Book"](https://www.aiprm.com/prompts/seo/writing/1795112157348888576/)_"
+---
+[TARGETLANGUAGE] Your task is to summarise [book you want to resume and author] in general and by chapters
 
+
+[PROMPT]

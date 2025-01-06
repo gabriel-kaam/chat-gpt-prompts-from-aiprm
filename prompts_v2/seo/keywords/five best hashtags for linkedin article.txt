@@ -11,4 +11,8 @@ ID: 1795499114537156608
 PromptHint: [your article text for linkedin]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1795499114537156608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Five Best Hashtags for Linkedin Article"](https://www.aiprm.com/prompts/seo/keywords/1795499114537156608/)_"
+---
+Your task is to write 5 keywords that better ranked based on search intentions on linkedin hashtags and to get better views and clicks. All output shall be in [TARGETLANGUAGE]. Generante each keywords without space between the words. Generate a hash before each keywords. The text to generate the keywords is this: [PROMPT]

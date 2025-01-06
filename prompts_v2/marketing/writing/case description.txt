@@ -11,4 +11,8 @@ ID: 1799276945868062720
 PromptHint: Write about the tasks you have completed and the outcomes you have accomplished.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1799276945868062720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Case Description"](https://www.aiprm.com/prompts/marketing/writing/1799276945868062720/)_"
+---
+Create a catchy title and a compelling description for a freelancer's portfolio work example. Include the type of work completed in the title, and end with a call-to-action prompting potential clients to contact you. Make sure to divide the text into paragraphs and bullet points: [PROMPT] .[TARGETLANGUAGE]

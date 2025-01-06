@@ -11,4 +11,20 @@ ID: 1801376891597488128
 PromptHint: [Enter the html Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1801376891597488128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Delete html style attribute"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1801376891597488128/)_"
+---
+```html
+[PROMPT]
+```
+- The above code is targeted at
+- Remove all style attributes from HTML tags
+- Remove all scope attributes from HTML tags
+- Output as HTML language code
+- Indent and format
+- Indentation rule is two spaces.
+- Delete width and height designations as well
+- Delete all attribute values for table tags and their child elements
+- Add a class to each tag with class naming in BEM
+- Non-code descriptions and comments are output in [TARGETLANGUAGE]

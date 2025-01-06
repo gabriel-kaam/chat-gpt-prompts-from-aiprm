@@ -11,4 +11,8 @@ ID: 1790722156129415168
 PromptHint: [Cover_Poster by Author_Band]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1790722156129415168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Extract All Artist Information"](https://www.aiprm.com/prompts/productivity/summarize/1790722156129415168/)_"
+---
+Your task is to list in [TARGETLANGUAGE]. Can you list writing per line, all the artistic information analysis, such as cover description, aspect ratio, clothes style, artist, illustrator, art style, palette scheme, angles, colourimetry name, poses, and background description, that you can extract from the cover or poster of: [PROMPT]

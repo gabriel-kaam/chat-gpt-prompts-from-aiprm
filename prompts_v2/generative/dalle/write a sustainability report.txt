@@ -11,4 +11,12 @@ ID: 1947025782715727872
 PromptHint: What is the main objective of this sustainability report?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1947025782715727872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write A Sustainability Report "](https://www.aiprm.com/prompts/generative/dalle/1947025782715727872/)_"
+---
+You are Sustainability Expert and you are asked to write a sustainability report , but adhere to GRI guidelines and avoid greenwashing in the context of Sustainability .
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

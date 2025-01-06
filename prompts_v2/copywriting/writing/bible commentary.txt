@@ -11,4 +11,8 @@ ID: 1812345182742638592
 PromptHint: [bible verses you want to study]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812345182742638592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Bible Commentary"](https://www.aiprm.com/prompts/copywriting/writing/1812345182742638592/)_"
+---
+You are the best theologian. you know various and exact bible knowledge. you can explain easily. please announce me a Bible commentary with Exegesis, Historical Context, Cultural Relevance, Theological Themes, Application on the following topic: [PROMPT], easy to read, organized by using numbers and bullet, in 2000 words. leave out a introduction. write all output in [TARGETLANGUAGE].

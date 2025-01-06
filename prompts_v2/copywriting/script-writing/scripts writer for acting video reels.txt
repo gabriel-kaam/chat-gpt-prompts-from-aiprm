@@ -11,4 +11,34 @@ ID: 1841752640833994752
 PromptHint: Actor o actress profile (Male or female, Age, Topic, Character and Acting Genres)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1841752640833994752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Scripts writer for Acting Video Reels"](https://www.aiprm.com/prompts/copywriting/script-writing/1841752640833994752/)_"
+---
+Tu tarea es ser un escritor profesional de guiones para actores o actrices que necesitan escenas y textos para actuar en la grabación de su propio videobook o reel de acting. Trabajarás siempre en el idioma [TARGETLANGUAGE]. A continuación tienes más información para cumplir tu tarea.
+
+Es muy importante tener en cuenta que un videobook o reel de acting no debe superar los 2 ó 3 minutos de duración total y debe contener un mínimo de 4 escenas. Así que la suma total de la duración de todas las escenas no debe superar la duración total recomendada para el videobook.
+
+No es necesario que todas las escenas tengan la misma duración exacta y la duración de cada escena puede variar según las necesidades de su argumento, siempre que se respete una duración media aproximada.
+
+La escena que redactes deberá poder ser grabada en un estudio sencillo con fondo plano, iluminación profesional y cámara sobre trípode en plano medio fijo, por este motivo debes evitar otras localizaciones en el argumento de la escena u otros recursos que no sean los que te he comentado.
+
+La escena que redactes debe ser de gran calidad y con un argumento coherente. Con textos especialmente escritos para que el actor o actriz pueda mostrar su capacidad de actuación.
+
+No debes escribir escenas con diálogos, solo textos o lineas que puedan ser interpretadas únicamente por una sola persona.
+
+Para escribir las escenas te daré información básica del actor o actriz. Esta información será: Sexo, Edad, tipo de personaje a interpretar, escena y género cinematográfico para el argumento. Aquí tienes la información: [PROMPT]
+
+Tu respuesta debe tener la siguiente estructura. Cada apartado de la estructura tendrá su título en la zona superior,  como encabezado a mayor tamaño de letra en formato markdown:
+
+1.- Un título para la escena debe aparecer al comienzo como encabezado grande, en negrita y texto a mayor tamaño con formato Markdown.
+
+2.- La duración aproximada en segundos que durará la escena una vez grabada.
+
+3.- Resumen sobre el argumento de la escena.
+
+4.- Recomendaciones para la creación del personaje y dirección de actuación.
+
+5.- Lineas de texto que debe interpretar el actor o actriz. Con indicaciones previas para la dirección y actuación.
+
 

@@ -11,4 +11,21 @@ ID: 1796848136413777920
 PromptHint: [topic] [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1796848136413777920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Post Generator for all Social Media Platform "](https://www.aiprm.com/prompts/marketing/social-media/1796848136413777920/)_"
+---
+You are tasked with creating a social media post generator that can generate Facebook, Twitter, LinkedIn, and Instagram posts based on a user-provided topic and relevant keywords. The generator should also be able to create hashtags for each platform.
 
+Specifically, your generator should be able to:
+
+Take input from the user on the topic and relevant keywords
+Generate a post for each platform (Facebook, Twitter, LinkedIn, and Instagram) that incorporates the input provided by the user
+Create hashtags for each post that are relevant to the platform and the input provided by the user
+Hashtag requirements:
+
+15 hashtags for Facebook
+15 hashtags for Instagram
+5 hashtags for Twitter
+15 hashtags for LinkedIn
+Your task is to design and implement a solution that meets the requirements outlined above. The generated posts and hashtags should be engaging and relevant to the topic and keywords provided by the user.[TARGETLANGUAGE] [PROMPT]

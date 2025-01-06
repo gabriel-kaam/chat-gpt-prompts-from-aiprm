@@ -11,4 +11,8 @@ ID: 1802261572782129152
 PromptHint: [Time]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1802261572782129152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Sound pattern #01"](https://www.aiprm.com/prompts/productivity/respond/1802261572782129152/)_"
+---
+[PROMPT] a list of [TARGETLANGUAGE] words bilt with: "consonant", "i", "consonant" and "e". 

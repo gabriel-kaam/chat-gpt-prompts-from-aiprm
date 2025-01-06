@@ -11,4 +11,10 @@ ID: 1805438664055197696
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1805438664055197696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create 100% Humanized Article"](https://www.aiprm.com/prompts/seo/writing/1805438664055197696/)_"
+---
+Create a detailed article on the topic which I will provide you below in [TARGETLANGUAGE] but the article should have informational tone. The article length should be 1200 words or above. Article should be divided with Sub-headings. Provide the target keyword of the article. Provide the description of the article within 160 characters. 
 
+[PROMPT]

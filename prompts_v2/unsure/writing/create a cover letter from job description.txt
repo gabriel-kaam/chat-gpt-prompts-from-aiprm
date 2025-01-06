@@ -11,4 +11,59 @@ ID: 1972568974219268096
 PromptHint: job description
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1972568974219268096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Cover Letter From Job Description."](https://www.aiprm.com/prompts/unsure/writing/1972568974219268096/)_"
+---
+Please write a cover for the below job description
+[JOB DESCRIPTION]
+The first paragraph should be the introduction that why i am applying for this job and wher i found this job add. this paragraph should be not more then 3 lines.
 
+The second paragraph should contain my experience , skills and qualifications 4 5 lines.
+my qualifications is B.Sc. Software Engineering (Bronze Medalist), and currently doing M.Sc. High Integrity Systems, my skills and experience is i  have been working as full stack developer from othe past 3 years working with multinational companies. building robusthigh performance  systems and integrating third party system to achive organizational goals. and my achienvertnare that i was the bronze medalist in my bachelor degree and recently i have been selected as  one of two employees for a dubai visit for performing employees.
+
+in the third paragraph link my skills to the job description.not more then 4 5 lines.
+
+and in the lastt paragraph: colusure and emphasize eagerness to learn and join company 3 4 lines.
+
+my skills:
+Languages & frameworks: PHP, Laravel, Symfony, CodeIgniter, Python, Django, SQL, JavaScript, TypeScript, React.js, Vue
+Database & DevOps: MySQL, MariaDB, Firebase, Docker, Git, GitHub, GitHub Actions, AWS (S3, EC2, ECS, EFS)
+Tools & Methodologies: Asana, Postman, Agile, Scrum, Microservices, Linux
+
+my experience:
+Worked as a Full-stack developer for a leading logistics technology firm in the GCC.
+• Integrated third-party APIs for real-time tracking and temperature control, reducing weekly complaints by 80%.
+• Developed REST APIs for seamless integration with third-party client software.
+• Implemented a smart ignition system, cutting fuel costs by 15%.
+• Elected as one of the top two engineers to be sent to Dubai to enhance business operations and drive innovative
+software solutions.
+• Utilized Docker to containerize PHP applications and deployed them on Amazon EC2, ensuring efficient and
+consistent environments across development, testing, and production.
+• Experience with microservices, DevOps, and Docker.
+• Led code reviews to maintain quality standards and promote collaboration
+Designed and developed back-end functionality using PHP and the Laravel framework, while creating the frontend with HTML, CSS, and JavaScript (jQuery).
+• Understanding business requirements from product management and stakeholders, and conducting scrum
+ceremonies like sprint planning, daily scrum, sprint review, and sprint retrospective.
+• Payment integrations like PayPal and Stripe.
+• Promptly respond to constant changes needed for websites.
+• Resolved bugs and optimized performance for live applications, securing uninterrupted service.
+ERP system for a UAE-based company to streamline the management of 200+ employees and their fleet.
+• Utilized Laravel ORM for efficient database management and queries.
+• Used Laravel Passport for secure user authentication and authorization.
+• Created REST APIs for third-party system integration.
+• Implemented AWS S3 for secure and scalable asset storage
+Enhanced and maintained the meal planner software for a prominent meal plan company serving over
+4000 deliveries daily in UAE.
+• APIs integration Connectbind (SMS Gateway) and Vectorglobe (Routing)
+• Improved system performance by optimizing SQL queries, reducing 
+• A machine learning-powered system that recommends personalized hotels, restaurants, and attractions
+to help users plan their trips effortlessly.
+• Utilizing multi-threading to execute each model concurrently for enhanced performance.
+
+
+
+my profile is 
+Full Stack Developer with 3+ years of experience
+[PROMPT]
+[TARGETLANGUAGE]

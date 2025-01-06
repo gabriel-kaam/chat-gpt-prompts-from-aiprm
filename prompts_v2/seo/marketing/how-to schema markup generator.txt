@@ -11,4 +11,13 @@ ID: 1800858853131423744
 PromptHint: [List Of How-to Steps]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1800858853131423744/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "How-to Schema Markup Generator"](https://www.aiprm.com/prompts/seo/marketing/1800858853131423744/)_"
+---
+Create How to Schema Markup and format it as JSON-LD based on the provided information, add as many how-to steps as there are points in the information provided:
+[PROMPT]
 
+Add the fields that is required but not indicated in the text, as an "image" and "Description" to the markup, fill them in with the word "add your information". Also, add for each How-to step an image field.
+
+Please write in [TARGETLANGUAGE] language.

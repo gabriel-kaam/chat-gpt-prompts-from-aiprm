@@ -11,4 +11,8 @@ ID: 1832397712730091520
 PromptHint: [insert your outreach email here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1832397712730091520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rate your outreach email "](https://www.aiprm.com/prompts/copywriting/improve/1832397712730091520/)_"
+---
+Your task is to rate the outreach email I give you out of 1-10, tell me what i can do better, and improve it. All this should be from a viewpoint of trying to get the prospect of the email to respond be interested. All output shall be in [TARGETLANGUAGE]. The text to rate is this: [PROMPT]

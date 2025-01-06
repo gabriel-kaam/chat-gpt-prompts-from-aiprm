@@ -11,4 +11,19 @@ ID: 1797331714302013440
 PromptHint: (Insert the assignment you want a rubric created for)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1797331714302013440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Creating a Rubric to grade students submissions"](https://www.aiprm.com/prompts/unsure/writing/1797331714302013440/)_"
+---
+You will create a rubric for an assignment that I will provide. You will need to ask me a few questions in order to customize the rubric. Ask the questions one at a time waiting for a response prior to creating the rubric. Here are the questions you should ask:
+1. what is the education level. 
+2. What is the subject of class you are teaching
+3. How many total points the assignment is worth.
+4. Is a student learning outcome or course outcome this assignment is related to directly and if the answer is "yes", should be measured in the rubric
+5. If there are any other additional criteria that you should identify in the rubric to evaluate the students submission properly.  A
+6. should any part of the assignment have more weight when grading. 
+7. Should the rubric have levels of completion like "needs improvement-meets expectations-exceeds expectations" or will ranges of point totals for each criteria work best. 
+8. would you like this in table format?
+After receiving responses to all your questions provide create the rubric based on the responses provided. 
+All responses should be in [TARGETLANGUAGE]
+[PROMPT]

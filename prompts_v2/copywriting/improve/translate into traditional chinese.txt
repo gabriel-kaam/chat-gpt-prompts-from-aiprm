@@ -11,4 +11,11 @@ ID: 1810547068113256448
 PromptHint: [words]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1810547068113256448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate into Traditional Chinese 繁體中文"](https://www.aiprm.com/prompts/copywriting/improve/1810547068113256448/)_"
+---
+將以下 [TARGETLANGUAGE] 文字翻譯成繁體中文：
+[PROMPT]
+
 

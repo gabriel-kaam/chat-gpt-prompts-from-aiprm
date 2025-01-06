@@ -11,4 +11,8 @@ ID: 1992962264575774720
 PromptHint: [text]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1992962264575774720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create 3 post social (facebook-instagram-twitter)"](https://www.aiprm.com/prompts/marketing/social-media/1992962264575774720/)_"
+---
+write me a post for facebook, for instagram, for (Twitter only maximun 250 characters).  All output shall be in  [TARGETLANGUAGE]. The text to make the posts is this [PROMPT]  

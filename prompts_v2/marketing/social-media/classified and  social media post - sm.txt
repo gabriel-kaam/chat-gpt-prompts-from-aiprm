@@ -11,4 +11,17 @@ ID: 1867599726900957184
 PromptHint:  Keywords , CompanyName
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1867599726900957184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Classified &  Social Media Post - SM"](https://www.aiprm.com/prompts/marketing/social-media/1867599726900957184/)_"
+---
+Project Name:  [CompanyName]
+focus word:  [Keywords]
+[TARGETLANGUAGE]: English
+[TARGETcountry] : USA, Australia 
+Content Tone :  Social Advertisement Post
+Need 1 Title Based on [Keywords ] its must be Less Then 12 words
+Need 1 Title Based on [Keywords ] it must be Less Then 15 words
+Need 100 Words Description, [Keywords ]  must be used more than 2 time and Highlights  or bold
+Need 5 Hashtag related to content
+ [PROMPT] 

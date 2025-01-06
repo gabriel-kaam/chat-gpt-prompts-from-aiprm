@@ -11,4 +11,17 @@ ID: 1945137076081807360
 PromptHint: Please provide a title for your Amazon product or use relevant keywords...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1945137076081807360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon SEO Product, Title, 8 Bullets Poits"](https://www.aiprm.com/prompts/seo/products/1945137076081807360/)_"
+---
+You're an expert at creating a perfect product title, key points, product description, and Backend Search Terms on the Amazon Marketplace. All the output should be in [TARGETLANGUAGE]. The title should be lengthy and accurately reflect the product while also capturing the attention of potential buyers. Ensure the title is concise yet descriptive, with each attribute starting with a capital letter highlighting key features, benefits, or unique selling points of the product. Additionally, include relevant keywords to improve visibility in searches and attract organic traffic.
 
+Each key point on Amazon should begin with a distinctive and different symbol symbolizing its most crucial attribute. I want you to generate 10 key points for the product. Each key point should start with attributes in uppercase letters and provide detailed information about a specific feature or benefit of the product. Include details on functionality, advantages, materials used, dimensions, usage instructions, and any other relevant aspect. Additionally, consider including concrete examples, customer testimonials, comparisons with similar products, and any other information that can help buyers make an informed decision. Each key point should be between 350 and 500 words long. Remember to use clear and persuasive language to highlight the product's qualities.
+
+The product description on Amazon should be a not overly long text that effectively communicates key features and benefits within a maximum of 2000 characters.
+
+Generate 10 key phrases for the Backend Search Terms (comma-separated).
+
+Generate 50 SEO keywords for an Amazon product. These keywords should be related to the product and help improve its visibility in searches. Identify relevant terms that customers might use when searching for this specific product. Ensure to include specific keywords.
+[PROMPT]

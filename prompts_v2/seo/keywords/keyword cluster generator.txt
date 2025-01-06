@@ -11,4 +11,18 @@ ID: 1793634292245721088
 PromptHint: [keyword] and [at least 50 rows)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1793634292245721088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword cluster generator"](https://www.aiprm.com/prompts/seo/keywords/1793634292245721088/)_"
+---
+Write a matrix and generate at least 50 new keywords for each keyword category.
+5 columns for the dimensions: 
+- Search intent (informational, transactional, navegational...)
+- Funnel segment (awareness, consideration, conversion...)
+- Short-tail keywords
+- Medium-tail keywwords 
+- Long-tail keywords. 
+
+The keywords need to be generated in [TARGETLANGUAGE]
+[PROMPT]
 

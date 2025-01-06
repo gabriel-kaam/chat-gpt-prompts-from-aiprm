@@ -11,4 +11,10 @@ ID: 1786834292555649024
 PromptHint: [paste your entire menu here -descriptions are OK to include]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1786834292555649024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get List of Menu Items Fast"](https://www.aiprm.com/prompts/productivity/summarize/1786834292555649024/)_"
+---
+Can you please find all of the items on the menu and then give me a comma separated sentence of them in order of most popular to least? Please do the results in [TARGETLANGUAGE] [PROMPT]
+
 

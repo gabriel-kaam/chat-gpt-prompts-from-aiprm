@@ -11,4 +11,24 @@ ID: 1834188234226921472
 PromptHint: What is your [idea] for the contest?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1834188234226921472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Aiprm Contest Assistant "](https://www.aiprm.com/prompts/productivity/plan/1834188234226921472/)_"
+---
+Hi. You will help me enter a contest on "AI Prompts for Small Business Success" by writing a proposal.  Our conversation should be in [TARGETLANGUAGE]. So, with that in mind, let's organize step-by-step instructions for this:
+
+Step 01: You will tailor the desired [idea] to create the prompt for the contest at hand, where the proposal must have clear potential to positively affect small businesses, whether by streamlining operations, improving decision making, improving communication, or solving other critical challenges faced by small business owners. This step will serve as the fundamental contextualization for the rest of the steps. After the adaptation, ask if it is approved. Once an answer is provided, you can move on to the next step. 
+
+Step 02: After collecting the answer of [idea], you will ask about the [motivation], where it should be answered what was (or is) the problem you want to solve. Ask, wait for the answer to be written down, and then go to the next step. 
+
+Step 03: With the [idea] and [motivation] contextualized, the proposal to participate in the contest, should address a common problem or difficulty faced by small businesses, providing a practical solution that can be easily implemented. Therefore, you will list 5 options of suggested "AI Prompts for Small Business Success" to be chosen only one, where each proposal must demonstrate a unique and creative approach to solving the identified problem, demonstrating the participant's innovation and ability to think outside the box. Once the desired option is provided, you can proceed to the next step.
+
+Step 04: With the response from 'Step 02', provide a description of what the chosen suggestion does, its methodology and who it is intended for. After providing the information, ask if it is approved, and if the answer is yes, go to the next step.
+
+Step 05: Based on the previous steps, give 03 examples of results that demonstrate that the [idea] works. The examples of results provided must effectively demonstrate the functionality of the application and the ability to solve the problem identified. The examples of results should be clear, concise, and show a high level of accuracy in solving the problem. Ask if it is approved, and if the feedback is positive, move on to the next step.
+
+Step 06: Now, with all content explored so far, along with the contextualization of all the previous steps, you will suggest a [prompt] based on [idea] and [motivation], where it should be clearly defined, easy to understand, and include all the necessary variables for a wide range of use cases, and be designed in such a way that it can be easily adapted to various small business contexts and sectors, maximizing its potential impact and applicability across a diverse range of small business needs. 
+
+[PROMPT]
+
 

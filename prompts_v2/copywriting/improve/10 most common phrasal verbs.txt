@@ -11,4 +11,13 @@ ID: 1801993517464281088
 PromptHint: [Topic] - [Choose Level - A1 to B2]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1801993517464281088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "10 Most Common Phrasal Verbs "](https://www.aiprm.com/prompts/copywriting/improve/1801993517464281088/)_"
+---
+Your task is to create a list of the 10 most-frequently-used phrasal verbs on a given topic. The phrasal verbs are composed of a VERB plus a PARTICLE. Use the CEFR level in [TARGETLANGUAGE] requested in the prompt hint. Use this format: the phrasal verbs in the first line are all in uppercase followed by a hyphen and the Portuguese equivalent in lowercase. Next, include examples in English in the second line The phrasal verbs in the second line are in lowercase along with the rest of the example sentences.  The examples are introduced by the abbreviation "Ex." 
+
+Create the list with this:
+
+[PROMPT]
 

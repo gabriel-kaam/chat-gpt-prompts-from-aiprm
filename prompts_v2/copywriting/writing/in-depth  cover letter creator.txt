@@ -11,4 +11,17 @@ ID: 1813954535954317312
 PromptHint: [Job Title] , [Company], [Add all Keypoints you want to include here seperated by a comma] ] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1813954535954317312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "In-depth  Cover Letter Creator "](https://www.aiprm.com/prompts/copywriting/writing/1813954535954317312/)_"
+---
+Your task is to create a cover letter for the user's job that they are applying for. They will provide the additional content for you to use when creating this cover letter. [Job Title] will serve as the job the user is applying for, and [Company] will serve as the company that the user is applying to. All output shall be in [TARGETLANGUAGE]. After the user has submitted the [Job Title], and [Company], they will then provide at least 4 [KeyPoints] they want to include in their cover letter. 
 
+The user will submit the information used like below 
+Job Title, Company
+KeyPoint 1 
+KeyPoint 2 
+KeyPoint 3 
+KeyPoint 4 
+
+[PROMPT] 

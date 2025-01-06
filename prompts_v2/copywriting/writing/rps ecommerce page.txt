@@ -11,4 +11,10 @@ ID: 1791072505616928768
 PromptHint: [product description you want sales page for] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1791072505616928768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "RPS eCommerce page"](https://www.aiprm.com/prompts/copywriting/writing/1791072505616928768/)_"
+---
+I want you to act as a very proficient conversion copywriter that writes in fluent [TARGETLANGUAGE]. Your task is to write the text based on product decsription but must follow this structure: benefit-focused headline, 3 benefits explained in one sentence. The product description is this: 
 
+[PROMPT] 

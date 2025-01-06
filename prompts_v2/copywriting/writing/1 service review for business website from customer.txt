@@ -11,4 +11,10 @@ ID: 1784796316082368512
 PromptHint: [COMPANYNAME : SERVICENAME] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1784796316082368512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "1 Service Review for Business Website from Customer"](https://www.aiprm.com/prompts/copywriting/writing/1784796316082368512/)_"
+---
+Write a service review from the customer for a business in [TARGETLANGUAGE]. The review to generate for business & service is
 
+[PROMPT]

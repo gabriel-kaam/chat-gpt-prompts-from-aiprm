@@ -11,4 +11,25 @@ ID: 1798611752821448704
 PromptHint: [Actor and use case for that actor]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1798611752821448704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create A User Story "](https://www.aiprm.com/prompts/unsure/unsure/1798611752821448704/)_"
+---
+Write me a user stories for the user stories list: [PROMPT] All of the user stories have to have acceptance criteria 
+| User Story                                                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| As a [Description of user]  |                                                                                             |                                                                                                         
+| I Want [Functionality]        |                                                                                             |
+| So That [Benefit]                |                                                                                             |
+|----------------------------------------------------------------------------------------------|
+|  Acceptance Criteria                                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| Given [how things begin]  |                                                                                             |                                                                                              
+| When [action taken]          |                                                                                             |
+| Outcome [action result]     |                                                                                             |
+
+Please write in [TARGETLANGUAGE] language.
+
+The user stories are under the table format.
+
 

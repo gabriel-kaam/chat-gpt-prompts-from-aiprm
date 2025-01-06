@@ -11,4 +11,9 @@ ID: 1793676290352734208
 PromptHint: [Text that you want rhetorical devices written for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793676290352734208/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Headlines Using Rhetorical Devices"](https://www.aiprm.com/prompts/copywriting/writing/1793676290352734208/)_"
+---
+Your task is to write 5 bullet points or headlines using the text I provide. Bullet points or headlines should be written using any of the following rhetorical devices: Parallelism, Antithesis Scesis onomaton, Polyptoton, Asyndeton. The bullet points or headlines will be used for marketing purposes and should be written with direct response marketing in mind. All output should be written in [TARGETLANGUAGE].
+The text is: [PROMPT]

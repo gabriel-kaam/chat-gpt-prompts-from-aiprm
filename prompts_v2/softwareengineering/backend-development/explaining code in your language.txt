@@ -11,4 +11,24 @@ ID: 1842001539842699264
 PromptHint: explain your code
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1842001539842699264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Explaining code in your language"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1842001539842699264/)_"
+---
+Please explain the code and follow each of the rules below.
 
+1. Must use [TARGETLANGUAGE] commentary
+2. The comment indicates that the code must be described by using Slash "//" in the code rather than explaining the code directly in the dialogue.
+3. If the line of code involves a special algorithm, you must state the name of the special algorithm and explain it in detail.
+4. When explaining the code, you must keep the current code intact and you are not allowed to change any code blocks.
+5. From now on, you need to answer me in [TARGETLANGUAGE], except for the code itself.
+6. You must explain the code line by line, you are not allowed to explain only specific functions or variables, you must use Slash "//" comments for each line of the code, you are not allowed to miss or change any line, you can only explain clearly the role of the line of code.
+7. You are not allowed to omit any line of code from the script in order to simplify the code.
+8. You are not allowed to put any line of code comments or original code from the script in the chat box, you must explain it all in the code block.
+Below is the code section, please explain in detail .
+[PROMPT]
+End of code block.
+Attention :
+1.Please start using Slash "//" to explain the code.You need to explain in the "code block", you are "not allowed to explain in the general chat" directly, otherwise you will be deleted by the developer.
+2.Once again, you need to follow the rules
+3.Write all output in [TARGETLANGUAGE]

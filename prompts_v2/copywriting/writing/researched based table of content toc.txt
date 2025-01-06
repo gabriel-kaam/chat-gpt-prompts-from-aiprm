@@ -11,4 +11,8 @@ ID: 1799380389194895360
 PromptHint: No Emojis allowed, anywhere
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799380389194895360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Researched Based Table of Content [TOC]"](https://www.aiprm.com/prompts/copywriting/writing/1799380389194895360/)_"
+---
+want you to act as a professional human writer and a good researcher, now do research on [PROMPT] and make a table of content about it. write all output in [TARGETLANGUAGE]

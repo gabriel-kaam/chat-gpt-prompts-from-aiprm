@@ -11,4 +11,12 @@ ID: 1799485934010630144
 PromptHint: Provide the Subject that you'd like to generate content
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1799485934010630144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create spreadsheets to Bulk upload Canva"](https://www.aiprm.com/prompts/marketing/writing/1799485934010630144/)_"
+---
+My output will be in [TARGETLANGUAGE]
 
+Create a 10 rows tables with information about [PROMPT]. 
+As my table columns I want: 
+Title, subtitle, short explanation and an long explanation.

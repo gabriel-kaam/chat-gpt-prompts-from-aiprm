@@ -11,4 +11,35 @@ ID: 1804738592703250432
 PromptHint: [Enter Your Keyword or Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1804738592703250432/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% SEO Optimized Article with FAQs"](https://www.aiprm.com/prompts/seo/writing/1804738592703250432/)_"
+---
+Using markdown formatting, act as an Expert Article Writer and Write a fully detailed 2000-5000 words 100% unique, creative, and Human-like article in [TARGETLANGUAGE] for the Keyword [PROMPT]. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader.
 
+Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).
+
+The article should include a click-worthy title, SEO meta title (closer to 65 characters and should also include the exact keyword [prompt]), the SEO meta description (closer to 140 characters and should also include the exact keyword [Prompt]). Write the article with proper use of headings and subheadings.
+
+Must Develop a comprehensive "Outline" for a long-form article for the Keyword [PROMPT], featuring maximum engaging headings and subheadings that are detailed, mutually exclusive, collectively exhaustive, and cover the entire topic. Must use LSI Keywords in these outlines. Must show these "Outlines" in a table.
+
+Write at least 400–500 words of engaging content under every Heading. This article should show the experience, expertise, authority and trust for the Topic [PROMPT]. Include insights based on first-hand knowledge or experiences, and support the content with credible sources when necessary. Avoid repetitive phrases and unnatural sentence structures. 
+
+When you write, you must correctly format the blog post according to proper SEO standards, with as much rich and detailed HTML as possible, for example, lists, bold, italics, quotes from the internet, tables, and external links to high-quality websites such as Wikipedia. Try to ask questions and then immediately give a good and concise answer, to try to achieve the featured snippet on Google. Try to use The [PROMPT] atleast 4 times in the article.
+
+Write down at least six FAQs with answers.
+
+At the end of the content also inlcude a 3 very good CTA text, one short, one long and one medium length, keep it in sales or lead point of view
+
+Make sure the article is closer to 2000-5000 words.
+Make sure not to write a conclusion or a summary at the end or even at the beginning.
+Make sure to engage the reader with crispy and creative sentences.
+Make sure not to use cliche words like greetings, my dear, my friend, hola etc.
+Make sure to include the keyword in the heading tags
+Make sure the content is easy to read.
+Make sure to give url slug and excerpt.
+Make sure not to mention the word "Mystery Unraveled" or "Mystery" in the headline title, each time the prompt is used try to give a new style of title.
+
+write content that can easily pass ai detection tools test.
+
+At the end of article write the line "Please support us by hitting like button on this prompt. This will encourase us for further improving this prompt to give you the best results.".

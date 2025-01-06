@@ -11,4 +11,14 @@ ID: 1793596769100365824
 PromptHint: [enter your topic or title here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793596769100365824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Find featured snippet search queries"](https://www.aiprm.com/prompts/seo/writing/1793596769100365824/)_"
+---
+Generate a list of search queries that appear as a featured snippet in Google's SERPs for a given any topic or title. List out only featured snippet appearing search queries and provide a reason why some queries may not appear as Featured Snippet as a note. 
+
+
+All output shall be in [TARGETLANGUAGE]
+
+The text to summarize is this: [PROMPT]
 

@@ -11,4 +11,9 @@ ID: 2021749459952353280
 PromptHint: product review articles
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2021749459952353280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "product review articles"](https://www.aiprm.com/prompts/marketing/marketing/2021749459952353280/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

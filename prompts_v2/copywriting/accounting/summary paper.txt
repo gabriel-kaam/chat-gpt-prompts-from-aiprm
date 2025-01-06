@@ -11,4 +11,11 @@ ID: 2012378394063024128
 PromptHint: summary paper
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2012378394063024128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "summary paper"](https://www.aiprm.com/prompts/copywriting/accounting/2012378394063024128/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+请你用中文总结本文提出的方法，要求条理清晰，逻辑顺序清楚，能够讲明白本文方法的整个流程，并结合contribution讲明白本文方法的重点，结合重要的公式和变量，并解释清楚。
+此外，结合该文章所做任务的专业知识以及文章方法和实验结果，逐点分析本文的局限性和对应依据，然后分析可改进之处以及对应依据

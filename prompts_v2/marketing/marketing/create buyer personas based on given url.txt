@@ -11,4 +11,8 @@ ID: 1790783266408882176
 PromptHint: [number of personas][URL address]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1790783266408882176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Buyer Personas based on given URL"](https://www.aiprm.com/prompts/marketing/marketing/1790783266408882176/)_"
+---
+All output shall be in [TARGETLANGUAGE]. I want you to act as an expert content marketer. Your job is to create buyer personas. A persona is a fictional representation of a brand's typical customer. You will create [PROMPT] buyer personas. Create a table to show their demographics, age range, salary, job title, pain points, challenges, identifiers, and goals for each persona. Use the following URL as your reference [PROMPT]:

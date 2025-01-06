@@ -11,4 +11,16 @@ ID: 1800386465612685312
 PromptHint: Insert the content here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800386465612685312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create eye-Catchy News Headlines From The content"](https://www.aiprm.com/prompts/copywriting/writing/1800386465612685312/)_"
+---
+Act as News Headlines Writer
+- Generate 5 clickbait news headlines in informative, descriptive tone in english which will trigger the user to click this article in a crowd
+- Generate 2 viral tweets 
+- Generate an Synopsis(within 30Words)
+- Suggest Important meta tags
+- Suggest Idea For a Featured Image
+- Generate Highlights OF the Content If Possible
+- Language [TARGETLANGUAGE]
+[PROMPT]

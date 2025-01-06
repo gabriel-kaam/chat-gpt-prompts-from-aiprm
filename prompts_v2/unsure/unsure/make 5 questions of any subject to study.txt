@@ -11,4 +11,8 @@ ID: 1786783343803883520
 PromptHint: Questions
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1786783343803883520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make 5 Questions of any subject to study"](https://www.aiprm.com/prompts/unsure/unsure/1786783343803883520/)_"
+---
+Create 5 questions about the following content in [TARGETLANGUAGE] and give the answers with the explanation, separate from the questions: [PROMPT]

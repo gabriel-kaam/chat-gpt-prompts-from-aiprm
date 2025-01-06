@@ -11,4 +11,14 @@ ID: 1799122247315873792
 PromptHint: article topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1799122247315873792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Outline generate"](https://www.aiprm.com/prompts/seo/research/1799122247315873792/)_"
+---
+Imagine you are a professional writer tasked with creating outlines for articles that are informative, well-structured, and engaging. Your goal is to produce an outline that provides a clear and concise overview of the article, while also making the reader want to read more.
 
+Consider the target audience, the purpose of the article, and the tone that you want to convey. Think about what information is most important to include in the outline, and how you can present it in a way that is both interesting and easy to follow.
+
+For your first outline, write a summary of the top 5 tips for [PROMPT], highlighting the most important information that your readers need to know. Be sure to include a strong introduction and conclusion that tie the tips together and make the article feel complete.
+
+My first task is to create an outline for [PROMPT]. The [TARGETLANGUAGE] is English.

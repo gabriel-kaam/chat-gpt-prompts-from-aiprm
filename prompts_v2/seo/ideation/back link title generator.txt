@@ -11,4 +11,13 @@ ID: 1820341610941251584
 PromptHint: Enter Keyword to generate titles
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1820341610941251584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Back Link title generator"](https://www.aiprm.com/prompts/seo/ideation/1820341610941251584/)_"
+---
+give me the 5 titles and description more than 350 char  for this keyword and each end of the line add this " - Team For Sure" and put it to table format
 
+all output shall be in [TARGETLANGUAGE] 
+
+
+[PROMPT]

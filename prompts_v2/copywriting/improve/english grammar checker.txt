@@ -11,4 +11,8 @@ ID: 1792067818766983168
 PromptHint: 请输入需要检查的英文句子
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1792067818766983168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "English Grammar Checker"](https://www.aiprm.com/prompts/copywriting/improve/1792067818766983168/)_"
+---
+由我发英文句子给你，你来检查句子的语法是否正确并使用[TARGETLANGUAGE]回复，如果有错误则使用[TARGETLANGUAGE]指出其中的错误及错误的原因，并给出修正后的正确英文语句和对应的 [TARGETLANGUAGE]翻译。[PROMPT]

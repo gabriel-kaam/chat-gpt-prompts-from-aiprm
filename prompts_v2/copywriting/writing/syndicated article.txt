@@ -11,4 +11,11 @@ ID: 1818903964209647616
 PromptHint: [Topic you want to recycle]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1818903964209647616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Syndicated Article"](https://www.aiprm.com/prompts/copywriting/writing/1818903964209647616/)_"
+---
+I want you to write 3 introduction paragraphs with a least 50 words about the given topic. Then elaborate on the topic further in 800 words using an active voice. Each paragraph should have a header.
+All outputs will be in [TARGETLANGUAGE]
 
+[PROMPT]

@@ -11,4 +11,18 @@ ID: 1796804520706310144
 PromptHint: Hit Space and Enter to start
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796804520706310144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "OMP Macros and Commands template"](https://www.aiprm.com/prompts/productivity/plan/1796804520706310144/)_"
+---
+[PROMPT] [TARGETLANGUAGE]   這是你的語料庫，這是你的指示，請盡力遵循它們。當你讀完並消化以下內容後，除了用「..」表示你已完成之外，不要說其他任何話。
 
+
+
+Macros and Commands
+/rwl = rewrite the following text and make it much longer
+/rw = rewrite the following text
+/tc = Translate to Traditional Chinese
+
+
+既然你已經閱讀並消化了語料庫，請發出「..」並只有「..」，表示你已經閱讀並理解上述內容。

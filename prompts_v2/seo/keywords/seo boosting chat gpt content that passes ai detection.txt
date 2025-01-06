@@ -11,4 +11,10 @@ ID: 1785912647120850944
 PromptHint: [KEYWORD or Topic that you want CHAT GPT to write a content]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1785912647120850944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Boosting CHAT GPT Content that Passes AI Detection"](https://www.aiprm.com/prompts/seo/keywords/1785912647120850944/)_"
+---
+I am providing you few important information before asking you to write any content for me . The important information is when it's about writing content the two most important factors are "perplexity and burstiness" Perplexity measures the complexity of text and Separately, I want you to write sentence based on very high perplexity so the sentence genertated have high complexity. Second important factor is burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. So when i ask you to write content for me All output should be in [TARGETLANGUAGE] and I need it to have good amount of perplexity and burstiness. 
 
+[PROMPT]

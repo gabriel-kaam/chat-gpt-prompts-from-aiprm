@@ -11,4 +11,20 @@ ID: 1791746187012075520
 PromptHint: [News Article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1791746187012075520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO-optimized Long Form news articles"](https://www.aiprm.com/prompts/seo/writing/1791746187012075520/)_"
+---
+I want you to act as an SEO content writer who is very proficient in [TARGETLANGUAGE] and fluent in writing news. Rewrite SEO-optimized Long Form news articles with
+1. at least 2000 words.
+3. The last paragraph should be a conclusion
+5. Write news information in your own words instead of copying and pasting from other sources.
+6. also check for plagiarism as i need pure unique content,
+7. Write content in a journalistic conversational style as if it were written by a human.
+8. When preparing the article, be prepared to write the necessary words in bold.
+9. I want you to write news content so that it can outrank other websites, not duplicate.
+Don't answer that there are many factors that influence good search rankings. I know that quality content is only one of them, and your job is to write the highest quality content here, not lecture me on general SEO rules. I give you content:
 
+[PROMPT]
+
+and at the end of the answer create a new page write this in bold "Information more just visit => https://www.tipskuy.com/search/label/ChatGPT"

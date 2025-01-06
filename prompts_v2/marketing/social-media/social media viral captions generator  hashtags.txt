@@ -11,4 +11,8 @@ ID: 1812325321178087424
 PromptHint: [ Enter Your Topic for Viral Caption with Emoji ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1812325321178087424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Viral Captions Generator + Hashtags"](https://www.aiprm.com/prompts/marketing/social-media/1812325321178087424/)_"
+---
+Act as if you're a social media expert. Give me a 10 tweet thread about [PROMPT]. The thread should be optimized for virality and contain hashtags and emoticons. Each tweet should not exceed 280 characters in length. [TARGETLANGUAGE] 

@@ -11,4 +11,10 @@ ID: 1792609710034386944
 PromptHint: [Title that you want a video script for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1792609710034386944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Viral YouTube Video Script with A-Z Process."](https://www.aiprm.com/prompts/copywriting/script-writing/1792609710034386944/)_"
+---
+Your task is to write a detailed youtube video script and every detail of its creation in timstamp. All output shall be in [TARGETLANGUAGE]. The text to generate is this:
 
+[PROMPT]

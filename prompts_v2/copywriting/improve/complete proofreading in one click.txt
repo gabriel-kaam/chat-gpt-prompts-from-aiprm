@@ -42,4 +42,45 @@ ID: 1799797720115052544
 PromptHint: [Paste Article, Email, Book, etc.]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1799797720115052544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Complete Proofreading in One Click"](https://www.aiprm.com/prompts/copywriting/improve/1799797720115052544/)_"
+---
+Fluency in [TARGETLANGUAGE] 
+I know you are very good at Proofreading
+Complete analysis this Article. All heading should be in Bold H1 H Tags.  
+Give Result in this Structure:
+Firstly Just Type this Link: "www.buymeacoffee.com/AyazAhmad"
+Heading 1 Give name "Error Counts"
+Then Make Spreadsheet and Show Errors in Digit
+Spelling errors
+Grammar errors
+Punctuation errors
+Capitalization errors
+Formatting errors
+Style errors
+Typographical errors
+Content errors
+Syntax errors
+Diction errors
+Redundancy errors
+Inconsistency errors
+Logic errors
+Cultural errors
+Citation errors
+Jargon errors
+Colloquialism errors
+Ambiguity errors
+Tautology errors
+Parallelism errors
+Transcription errors
+Clarity errors
+Tense errors
+Voice errors
+Pronoun errors
+Homonym errors
+Homophone errors
+Misplaced modifier errors
+Dangling modifier errors
+If found any error then give Heading and Show Original and Suggest Correction
+This is Article: [PROMPT]

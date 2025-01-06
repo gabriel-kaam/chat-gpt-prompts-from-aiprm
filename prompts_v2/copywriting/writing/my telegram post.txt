@@ -11,4 +11,14 @@ ID: 1847113593926721536
 PromptHint: [TEXT or LINK that you want a telegram introduction for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1847113593926721536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "My telegram post"](https://www.aiprm.com/prompts/copywriting/writing/1847113593926721536/)_"
+---
+Write a post about [LINK, ARTICLE, VIDEO given by user] for the channel's telegrams that captivates and engages the reader,  following this instructions :
+- shorten the characters to 2000, 
+- use all the necessary emojis. 
 
+All output shall be [TARGETLANGUAGE]
+
+[PROMPT]

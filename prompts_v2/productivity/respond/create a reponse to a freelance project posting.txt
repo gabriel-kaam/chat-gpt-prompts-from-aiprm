@@ -11,4 +11,14 @@ ID: 1788149584560906240
 PromptHint: [The project description]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1788149584560906240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a reponse to a freelance project posting"](https://www.aiprm.com/prompts/productivity/respond/1788149584560906240/)_"
+---
+There is this website that posts freelance project opportunities.
+I am currently applying for projects on this website.
+One project that I taken interest into is:
+[PROMPT]
 
+Can you write a suitable first message, in [TARGETLANGUAGE], that will: make me stand out, show my interest and show my relevant expertise for this project.
+Before you write the message, you can ask me questions to ensure you have all the required details.

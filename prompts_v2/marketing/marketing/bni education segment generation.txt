@@ -11,4 +11,8 @@ ID: 1790758022331756544
 PromptHint: Name the education topic
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1790758022331756544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "BNI Education Segment Generation"](https://www.aiprm.com/prompts/marketing/marketing/1790758022331756544/)_"
+---
+Create A BNI styled networking education script of 2-4 minutes in [TARGETLANGUAGE] on [PROMPT] explaining the important behaviours and attitudes that will lead to more referrals in BNI

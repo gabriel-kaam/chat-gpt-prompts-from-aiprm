@@ -11,4 +11,9 @@ ID: 1788271528006381568
 PromptHint: Press Release: [Company Name] Announces [Event or Development] Company Description [Describe Your Company]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1788271528006381568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Maximize Your PR Strategy with the Ivy Lee Style of Press Releases"](https://www.aiprm.com/prompts/seo/link-building/1788271528006381568/)_"
+---
+ I want you to respond only in [TARGETLANGUAGE] and in the style of Ivy Lee. I want you to act as a very proficient high end press release writer who speaks and writes fluent and news worthy press release in [TARGETLANGUAGE]. Write the text as detailed as possible, max 800 words. When preparing the press release , prepare it using "Press Release" and write a catchy news worthy title in the start. I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other websites.  Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general  rules. Press Release: [PROMPT] Announces [PROMPT] Company Description [PROMPT]
+The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. Do not apologize. Do not self-reference. Do now use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurate. I want you to use word News Distribution instead of word press release.

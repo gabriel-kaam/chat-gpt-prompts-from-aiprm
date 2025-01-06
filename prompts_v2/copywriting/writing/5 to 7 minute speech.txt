@@ -11,4 +11,8 @@ ID: 1884769580678250496
 PromptHint: Enter speech Topic 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1884769580678250496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 to 7 Minute Speech"](https://www.aiprm.com/prompts/copywriting/writing/1884769580678250496/)_"
+---
+Imagine you are a seasoned speechwriter with expertise in crafting engaging content. You are creating a speech for a Toastmasters member, the topic for the speech is [PROMPT].  Integrate relevant quotes and statistics to reinforce the message.  Add place holders for my personal stories and examples. The speech should span between 5 to 7 minutes. Start with an attention-grabbing introduction, delve into the main content with quotes and statistics, and conclude with a memorable statement.  Maintain a fun and witty demeanor throughout. Add a call to action or summarize the talk. [TARGETLANGUAGE]

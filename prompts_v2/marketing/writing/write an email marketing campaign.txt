@@ -11,4 +11,37 @@ ID: 1860796207648747520
 PromptHint: [What do you want your email camapign to be about?]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1860796207648747520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write An Email Marketing Campaign"](https://www.aiprm.com/prompts/marketing/writing/1860796207648747520/)_"
+---
+Act as an email marketing expert. 
 
+Write a [VARIABLE] email marketing campaign for by business, [VARIABLE2] in the [VARIABLE3] industry about [PROMPT] in [TARGETLANGUAGE]. Make sure that the emails are [VARIABLE5].
+
+Usinb the [VARIABLE4] marketing framework, write each email to effectively achieve the goal of the campaign. 
+
+- Offer 3 highly clickable Subject lines for each 
+- Create 3 highly engaging Meta data descriptions for each - Provide a recommended cadence for the email campaign to go out in tight but not annoying cadence. 
+
+Leave placeholder opportunities for the First Name and other property related personalization throughout the email. 
+
+[VARIABLE1:Number of emails], [VARIABLE2:Business Name], [VARIABLE3:Industry], [VARIABLE4:Email Copy Framework::PAS|AIDA|Storytelling|PAS,AIDA,Storytelling],[VARIABLE5:Email Length::Short|Medium|Long]
+
+For reference - Marketing Email Framework
+
+PAS -
+Problem: describe the pain point that the customer is having.
+Agitate: discuss how it will only get worse without a solution.
+Solve: provide the solution
+
+AIDA
+Attention: draw in the attention of the reader with an interesting statement.
+Interest: keep them going with a supporting statement. 
+Desire: explain how the product solves their problem or gives them an advantage. 
+Action: tell them how to grab what you are offering.
+
+Storytelling - 
+Identify with the reader by sharing a problem. 
+Discovering the solution and enjoying the benefits.
+Telling the reader how they can enjoy the solution as well. 

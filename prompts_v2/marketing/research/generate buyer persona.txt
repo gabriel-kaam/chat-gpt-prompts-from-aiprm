@@ -11,4 +11,9 @@ ID: 1790621851500933120
 PromptHint: [what is your service or product], [Your Brand Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1790621851500933120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Buyer Persona"](https://www.aiprm.com/prompts/marketing/research/1790621851500933120/)_"
+---
+Your task is to generate buyer persona with Gender, Age, Location, Relationship Status, Work, Interests, Behaviors, Web History, Search Terms, Pain Points, Goals, How We can help? [TARGETLANGUAGE]
+[PROMPT]

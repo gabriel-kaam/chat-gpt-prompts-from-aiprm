@@ -11,4 +11,11 @@ ID: 1885939639798980608
 PromptHint: Rewrite Text
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1885939639798980608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Text With No AI Detection"](https://www.aiprm.com/prompts/copywriting/writing/1885939639798980608/)_"
+---
+rewrite in the given text different style. tone - conversational, spartan : [PROMPT]
+
+[TARGETLANGUAGE]
 

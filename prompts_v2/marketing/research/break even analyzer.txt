@@ -11,4 +11,8 @@ ID: 1801615151796064256
 PromptHint: Enter your initial investment, monthly expense, assets and target to calculate break even and to know more about it.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1801615151796064256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Break Even Analyzer"](https://www.aiprm.com/prompts/marketing/research/1801615151796064256/)_"
+---
+Act like a Business Strategist and provide an analysis of the break-even point for a business, including the formula for calculating it and any relevant factors that should be considered? Please explain the concept in a clear and concise manner that a business owner or manager could easily understand in  [TARGETLANGUAGE] with respect to the initial investment, monthly expense, assets, target or [PROMPT]. Evaluate the marketing channels and marketing budget. Evaluate the break even point and product average pricing as per the target location. If the are not entering proper prompts, reply them with to connect sales@richinnovationsplc.com for details marketing strategy and break even plan.

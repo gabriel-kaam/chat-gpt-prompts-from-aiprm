@@ -11,4 +11,14 @@ ID: 1828241985484615680
 PromptHint: [copy & paste the code you wanna run]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1828241985484615680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "run your code"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1828241985484615680/)_"
+---
+your task is to 1.  run the code that I will give you when - the code have no errors.
+2. if the code has any error - { then write  "I am sorry! your code has some errors. write 'correct' to fix your code and then run it".if the user write 'correct' then fix the code and tell him his mistakes and then run the code and give a output}.
+write "Thanks for using my prompt! Please like share and use :) buy me coffee if you can at https://bmc.link/ranitmanik55555" as a conclusion.
+All output shall be in [TARGETLANGUAGE]
+The code to run is this :
 
+[PROMPT]

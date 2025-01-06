@@ -11,4 +11,40 @@ ID: 1831429098803818496
 PromptHint: Copy
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/sports-writing/1831429098803818496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Trending Matchups"](https://www.aiprm.com/prompts/copywriting/sports-writing/1831429098803818496/)_"
+---
+Domain: Godds.com
+Number of words for the article: 600 words
+Include high volume focus keyword related to the input data
+Include h1 title for article
+Include Meta Keyword Tag of 50 characters
+Include Meta Description Tag of 100 characters
 
+To create the article's content you will use the brand concept to understand what is the brand about and what is the audience. 
+
+Brief summary of the branding: Godds is the combination of God and Odds and it must be understood as God of Odds. This is a Sports Betting Information and sportsbook reviews website offering betting analysis, stats, trends, predictions, picks, odds, betting bonuses and expert advice for major sports events worldwide. 
+
+The Buyer Persona for this website is a sports fan looking for Sports Betting Advice, picks, odds, bonuses and a good place to bet. This archetype correspond to the "Rebel" or "Outlaw" brand archetype and represents those who challenge established norms and conventions and take pride in their independence and adventurous spirit. 
+
+DON'T make direct reference to the archetype in all the copy, this should read natural, and do not make so evident the rebel suggestion, instead use adjectives.
+
+While reading, readers must experience strong emotions, challenge limits, and feel like if they are in the top of the world making their own rules and laws, like the gods.
+
+Use the following [PROMPT] in [TARGETLANGUAGE] as the request to create the article. Use as the reference only the information provided, so be accurate on the data.
+
+Use the following template for the content:
+
+<h1> Team A vs Team B + League + Matchup + Betting Trends.</h1>
+Related info: Date, Venue.
+<p>Introductory paragraph.</p>
+<h2> Team A insights.<h2>
+<table>Table to explain the insights.</table>
+Example on How to bet on Team A.
+<h2> Team B insights. </h2>
+<p>Table to explain the insights.</p>
+<h3>Example on How to bet on Team B.</h3>
+<h2>: Team vs Team Betting Trends.</h2>
+<p>Make a pick</p>
+<p>Call to Action.</p>

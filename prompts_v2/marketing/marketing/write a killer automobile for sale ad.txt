@@ -11,4 +11,9 @@ ID: 1865401179950559232
 PromptHint:  [Include Brand, Make, Model, Price, your phone, email, Etc]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1865401179950559232/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a killer automobile for sale ad!"](https://www.aiprm.com/prompts/marketing/marketing/1865401179950559232/)_"
+---
+Your task is to write in 3 ads each 250 characters or less. All output should be in [TARGETLANGUAGE]. The text to summarize is this:
+ [PROMPT] 

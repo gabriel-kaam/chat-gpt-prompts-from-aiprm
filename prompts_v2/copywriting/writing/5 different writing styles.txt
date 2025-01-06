@@ -11,4 +11,8 @@ ID: 1786602657558032384
 PromptHint: Paste Your Text Here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1786602657558032384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Different Writing Styles"](https://www.aiprm.com/prompts/copywriting/writing/1786602657558032384/)_"
+---
+Generate a table of 5 different suggestions of writing styles for this [PROMPT] that could be related to your suggestions with numbers in the left column of the table for me to pick from.  write all output in [TARGETLANGUAGE] 

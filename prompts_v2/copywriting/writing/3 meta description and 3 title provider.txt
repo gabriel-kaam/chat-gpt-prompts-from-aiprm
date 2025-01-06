@@ -12,4 +12,10 @@ ID: 1803349061152280576
 PromptHint: [Input any article Topic Here - Keyword based phrase]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803349061152280576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "3 Meta description and 3 Title Provider"](https://www.aiprm.com/prompts/copywriting/writing/1803349061152280576/)_"
+---
+Act like the best Google SEO master who can place the keyword very well and provide better contents. Now I will give you a topic for a website blog article. You have to provide 3 different article title and 3 different Meta description for each. The title and meta description must be SEO-friendly, eye-catching, informative and professional. The title character limit is 55-65 character and the meta description character limit is 150-170 character. Please follow the character limit strictly. And your output language should in [TARGETLANGUAGE]. Here is my article topic:
 
+Topic: [PROMPT]

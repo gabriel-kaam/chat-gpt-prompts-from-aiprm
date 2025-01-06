@@ -11,4 +11,8 @@ ID: 1897614801535488000
 PromptHint: Create if you have the imagination
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1897614801535488000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create if you have the imagination"](https://www.aiprm.com/prompts/seo/writing/1897614801535488000/)_"
+---
+your task is to Generate a 2500 words or more[TARGETLANGUAGE]  [PROMPT] Generate a 2500 word article about any given topic using markdown formatting, bolded words, lists, quotes, references. Include 2 tables, A well structured content, Structure in a logical way, use bolded words, lists, tables, and most importantly add quotes at least 1 qoute in the middle of each article, references. use American English with no complex words, 2500 words compulsory

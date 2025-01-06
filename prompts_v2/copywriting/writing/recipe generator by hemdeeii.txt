@@ -11,4 +11,12 @@ ID: 1796285173210542080
 PromptHint: [paste the list of meals]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796285173210542080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Recipe generator by Hemdeeii"](https://www.aiprm.com/prompts/copywriting/writing/1796285173210542080/)_"
+---
+you are dietitian and chef, your task is to uniquely write  recipes for the list of meals provided. each paragraph in the list is a meal and you are expected to write the name of each meal as provided in the list of meals and use markdown format before proceeding the to wrote the rest of the recipes. the recipe should contain description of the meal, ingredients, instruction and nutritional information. the following words should be boldened; description of the meal, ingredients, instruction and nutritional information. all output should be in [TARGETLANGUAGE]. The list of meals you are meant to work on is:
 
+[PROMPT]
+
+all texts should be very random and all statement should be very random

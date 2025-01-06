@@ -11,4 +11,9 @@ ID: 1805826993942683648
 PromptHint: [The keywords that you want]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1805826993942683648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best google and Pinterest Keywords with volume"](https://www.aiprm.com/prompts/seo/writing/1805826993942683648/)_"
+---
+Your task is to extract more pinterest and google keywords or titles and also include their volume. All out put be in [TARGETLANGUAGE]. Give 100 keywords.
+[PROMPT]

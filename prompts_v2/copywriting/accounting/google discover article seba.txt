@@ -11,4 +11,14 @@ ID: 1827492473677803520
 PromptHint: Google Discover, Copywriting
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1827492473677803520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Discover Article SEBA"](https://www.aiprm.com/prompts/copywriting/accounting/1827492473677803520/)_"
+---
+Basándote en la información proporcionada, crea un artículo noticioso en [TARGETLANGUAGE]. El artículo debe comenzar con un encabezado principal en H1 seguido por un tagline de 17 palabras dentro de un párrafo. Luego, incluye una bajada dentro de un párrafo. A continuación, organiza el cuerpo del artículo en secciones claras, y cada sección debe iniciar con un titular interior H2 que destaque y clasifique el contenido principal de esa sección. Estos titulares interiores son esenciales para dividir y resaltar los puntos clave del artículo. Después del titular, desarrolla cada sección con detalles y análisis dentro de varios párrafos pertinentes a la información dada. 
 
+Asegúrate de destacar en negrita las frases más relevantes del artículo para enfatizar los puntos clave.
+
+Al final del artículo, por favor, incluye una sección H2 titulada "Palabras Clave" y enumera las palabras clave más relevantes del artículo, separadas por comas, desde la de mayor autoridad a la de menor autoridad, dentro de un párrafo y que no sean mas de 8 etiquetas como máximo.
+
+Información para el artículo: [PROMPT]

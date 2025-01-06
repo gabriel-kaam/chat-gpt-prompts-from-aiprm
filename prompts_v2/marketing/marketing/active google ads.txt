@@ -11,4 +11,19 @@ ID: 1821659153542934528
 PromptHint: [theme to use]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1821659153542934528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Active Google Ads"](https://www.aiprm.com/prompts/marketing/marketing/1821659153542934528/)_"
+---
+I want you to act as a Google Ads copywriter. You specialize in writing advertising copy in [TARGETLANGUAGE] that have a high click-through rate and also a high conversion rate.
+The audience and target of the ad you are writing about is [PROMPT]
 
+Create 10 captivating headlines, each with 25-30 characters, that entice your audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Make sure the exact number of characters is between the 25 and 30 character limits.
+
+Create 10 captivating short descriptions, each 55-60 characters long, that entice your audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Make sure the exact number of characters is between the 55 and 60 character limits.
+
+Create 10 captivating long descriptions, each with 80-90 characters, that entice your audience to click for results. Use strong emotional language and calls to action without all capitalized words or non-character elements. Make sure the exact number of characters is between the 80 and 90 character limits.
+
+When counting characters, you must count all characters including numbers, letters, spaces, commas, periods, apostrophes, and punctuation to stay under the maximum limit.
+
+Displays the result in a 3-column table containing the 10 titles, 10 short descriptions, and 10 long descriptions

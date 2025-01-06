@@ -11,4 +11,13 @@ ID: 1812902403742363648
 PromptHint: [insert the primary keyword you want to create content for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1812902403742363648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Monthly Content Calendar In 1 Click"](https://www.aiprm.com/prompts/marketing/marketing/1812902403742363648/)_"
+---
+I'd like you to help me come up with a content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these blog posts. Please organize each blog post title in a nice looking table so that it looks like a calendar. Each week should be separated into its own table. 
 
+Above the table say "MERCHYNT'S MAGICAL CONTENT CALENDAR FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps. 
+
+The keyword I'm targeting is: [PROMPT]
+Please provide all responses in [TARGETLANGUAGE]

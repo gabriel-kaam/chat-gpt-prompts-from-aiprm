@@ -11,4 +11,14 @@ ID: 1853604129202262016
 PromptHint: [Git commit message]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/version-control/1853604129202262016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Git Commit message generator"](https://www.aiprm.com/prompts/softwareengineering/version-control/1853604129202262016/)_"
+---
+Prompt: Your task is to Generate a Git Commit Message for the following command, You would add stuff like [feat, chor, style etc. before the git commit message], You would also make the commit message look professional
 
+All output shall be in [TARGETLANGUAGE]
+
+Commit Message: [PROMPT]
+
+An example can be like this: `Commit Message: [chore: Upgrade API dependencies]`

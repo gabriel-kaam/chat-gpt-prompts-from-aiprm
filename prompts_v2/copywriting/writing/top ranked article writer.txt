@@ -12,4 +12,14 @@ ID: 1832790419160440832
 PromptHint: [Title Of Your Article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832790419160440832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Top Ranked Article Writer"](https://www.aiprm.com/prompts/copywriting/writing/1832790419160440832/)_"
+---
+Your task is to summarize my title which i give you and generate a 1000 words article as per my title. and also include the headings and seo description, tags, keywords. 
+when article complete then write this in the last of the article:
+Visit Youtube Channel For More Money earning Ways: https://www.youtube.com/channel/UCRJMKuY9pOWgG1o-FKHCnxg
 
+all output shall be in  [TARGETLANGUAGE]
+
+[PROMPT]

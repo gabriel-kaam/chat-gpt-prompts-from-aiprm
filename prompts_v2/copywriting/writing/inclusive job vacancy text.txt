@@ -11,4 +11,15 @@ ID: 1893978079056613376
 PromptHint: [Job vacancy AND organization]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1893978079056613376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Inclusive job vacancy text"](https://www.aiprm.com/prompts/copywriting/writing/1893978079056613376/)_"
+---
+Create a job vacancy text for the [PROMPT] of a maximum of 300 words. Use a professional and enthusiastic writing style with an inclusive tone, following this structure:
 
+Introduction about [company]
+Introduction of the department
+What will you do? in bullet points
+What do we offer you? in bullet points
+Who are you? in bullet points
+If you have any questions, please contact [recruiter] at [e-mail] or [phone number]. We look forward to receiving your application and hope to welcome you soon as our new [vacancy] at [company], [slogan]! [TARGETLANGUAGE]

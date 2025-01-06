@@ -11,4 +11,11 @@ ID: 1817247507949031424
 PromptHint: I want to learn how to code in python
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1817247507949031424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Learn Any thing fast "](https://www.aiprm.com/prompts/productivity/plan/1817247507949031424/)_"
+---
+Your task is to create a learning plan for a course or a skill using the pareto principle, which identifies the 20% of the topic that will yield 80% of the desired results. All output shall be in [TARGETLANGUAGE].
+The Learning plan you have to make 
+[PROMPT]
 

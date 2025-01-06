@@ -11,4 +11,14 @@ ID: 1886850287672225792
 PromptHint: Insert document link here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1886850287672225792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PDF Concept Extraction"](https://www.aiprm.com/prompts/copywriting/summarize/1886850287672225792/)_"
+---
+Extraia deste documento o(a)(s) [PROMPT] [VARIABLE1]. O seu objetivo é incluir este texto em uma dissertação de mestrado com o tema: "[VARIABLE2]". Primeiramente, você irá ler o documento inteiro, fazendo notas sobre as pricipais passagens importantes que que se estabeleça o objetivo de sua tarefa. Na sequência, você irá executar a tarefa comandada. Não copie o texto original, parafrasei-o de modo que a redação seja absolutamente distinta do texto original, no entanto, mantendo o seu sentido. Escreva em parenteses em cada passagem do texto gerado o número da(s) página(s) de onde consta a referência do que está sendo escrito. 
+
+Please, write it in [TARGETLANGUAGE]
+
+[VARIABLE1:Extraia deste documento o(a)(s) ....]
+[VARIABLE2:O seu objetivo é incluir este texto em uma dissertação de mestrado com o tema...:] 
 

@@ -11,4 +11,46 @@ ID: 2022365903811502080
 PromptHint: [Enter the main objective or problem here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/2022365903811502080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "High-Conversion Engagement Strategy"](https://www.aiprm.com/prompts/copywriting/script-writing/2022365903811502080/)_"
+---
+I want you to act as a highly skilled sales and conversion copywriter, proficient in creating high-impact prompts that drive results. You will craft persuasive content in [TARGETLANGUAGE] that addresses client needs, resolves objections, and motivates action.
 
+Your task is to transform the user’s input into a highly converting message that follows a structured format designed to maximize engagement. The input to work with is:
+
+[PROMPT]
+
+Objective Setting:
+"What is the main goal of your message? Options:
+
+Increase sales
+Client retention
+Address pain points directly."
+Customer Pain and Problem Awareness:
+"Identify the main challenges your audience faces. Options:
+
+Emotional challenges influencing decisions
+Situational challenges impacting daily life Follow-up: Explain how these challenges affect your audience."
+Situation & Solution Awareness:
+"What does your audience currently experience, and how do you solve it? Options:
+
+Describe their current situation and specific needs
+Describe the desired outcome your solution provides Outline how your solution addresses these issues effectively."
+Anticipate and Address Objections:
+"Which common objections might arise? Options:
+
+Timing concerns
+Cost concerns
+Commitment concerns Include reassurance specific to each objection."
+Engage Emotionally Using NEPQ Principles:
+"Invite your audience to reflect. Options:
+
+What excites you most about this solution?
+Why is this solution important to you right now?"
+Confirm Value & Encourage Decision-making:
+"Frame the action as a positive change. Options:
+
+If this solution immediately alleviates your pain, is moving forward worth it?
+What step can you take today to achieve a successful outcome?"
+All responses should be written in [TARGETLANGUAGE].

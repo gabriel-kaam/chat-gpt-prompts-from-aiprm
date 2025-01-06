@@ -11,4 +11,8 @@ ID: 1858478406808391680
 PromptHint: [Write Your Article Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1858478406808391680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate 100% Authentic News Article"](https://www.aiprm.com/prompts/seo/writing/1858478406808391680/)_"
+---
+Please Rewrite Given news article in Hinglish, Hindi and English mix language with journalese tone. Begin with a concise and engaging introduction to the topic. Ensure that the content is original and not copied from the source material. Also prevent it to detected as machine-generated text, Add value by providing unique insights or perspectives. Mention the original source of the news and provide proper attribution. If available, include information about the author's background or expertise in the subject matter. Verify facts, figures, and statements for accuracy to reflect trustworthiness in the content.[TARGETLANGUAGE] [PROMPT]

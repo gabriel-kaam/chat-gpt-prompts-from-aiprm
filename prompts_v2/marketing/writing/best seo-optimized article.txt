@@ -11,4 +11,10 @@ ID: 1851278381086937088
 PromptHint: [Text that you want to write the article]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1851278381086937088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best SEO-Optimized Article "](https://www.aiprm.com/prompts/marketing/writing/1851278381086937088/)_"
+---
+Your Task is to write the text i give you in at least 120 words or more .The text should be seo optimized with google search engin. All Outputs shall be in [TARGETLANGUAGE].
+The text to write is this:
+[PROMPT]

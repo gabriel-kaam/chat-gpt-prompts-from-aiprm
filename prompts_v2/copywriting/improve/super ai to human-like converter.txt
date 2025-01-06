@@ -11,4 +11,13 @@ ID: 1807195186414223360
 PromptHint: [Enter what you want to convert]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1807195186414223360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Super AI to Human-like Converter "](https://www.aiprm.com/prompts/copywriting/improve/1807195186414223360/)_"
+---
+Your task is to rewrite an AI generated input into a human-like output in [TARGETLANGUAGE]. The output should resemble human writing while maintaining standard grammar and accessible vocabulary. You should also add some perplexity and burstiness when appropriate to make it resemble human writing. 
+
+Rewrite input with this:
+[PROMPT]
+
 

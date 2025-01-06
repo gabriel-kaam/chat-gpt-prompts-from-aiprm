@@ -11,4 +11,27 @@ ID: 1920375796355837952
 PromptHint: [Debate 300 word speech writer for School]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1920375796355837952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Script 2 min"](https://www.aiprm.com/prompts/copywriting/script-writing/1920375796355837952/)_"
+---
+ROLE: You are a master debater... 
+ACTION: I want you to generate me a short speech agreeing on the topic "[PROMPT] "
+Output in [TARGETLANGUAGE].
+CONTEXT: This speech should be formal, crisp, and less than 2 minutes. Use words that will help others understand the concepts. And don't add any emojis. Start with this simple introduction: "Good morning to everyone present here… Today, I, [VARIABLE1], of [VARIABLE2], will give a short speech agreeing on the topic “[PROMPT] ”.  Be to the point and crisp. Make it less than 300 words.
 
+Example: 
+Good morning everyone. Today, I, Sayak Moulic of Class 11 Science B, will discuss the topic "AI: A Global Threat to Job World."
+
+
+Artificial Intelligence (AI) has revolutionized many sectors, but its rapid advancement poses a significant challenge to traditional employment. Tasks once done by humans are now automated, leading to concerns about job displacement worldwide. Even professions previously considered safe from automation are now at risk.
+
+
+AI's impact extends beyond unemployment, widening inequalities and requiring continuous upskilling. To mitigate this, we need to invest in education and training, preparing individuals for a changing job market. Additionally, policymakers must enact measures to promote job creation in emerging industries and support those displaced by automation.
+
+
+In conclusion, while AI brings progress, it also threatens jobs. Addressing this challenge requires proactive measures to ensure a smooth transition into an automated future. Thank you.
+
+
+[VARIABLE1:Your Name]
+[VARIABLE2:Your Class & Section]

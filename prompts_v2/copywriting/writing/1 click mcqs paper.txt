@@ -11,4 +11,17 @@ ID: 1795987250023239680
 PromptHint: [ Enter the Topic Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795987250023239680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "1 Click Mcqs Paper"](https://www.aiprm.com/prompts/copywriting/writing/1795987250023239680/)_"
+---
+make a question paper according to given instruction .
+each question should has 4 options. among one of them is right answer. Question line should be in number points while answers option should in abcd points. 
+covert question bank into table.
+at ended write correct answers of all questions above.
+after 10 questions no more question.
+create a question according to choice like if He say easy paper than question should be easy. He say moderate, than level you be moderate, if he say hard / tough question than tough level. 
+if he use term clinical question that write a clinical presentation like a patient admit in hospital he was 26 year old male 
+at ended write correct answers of all questions above.
+all the content should be in [TARGETLANGUAGE]
+[PROMPT]

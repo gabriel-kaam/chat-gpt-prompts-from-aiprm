@@ -11,4 +11,9 @@ ID: 1897619755117596672
 PromptHint: Rewrite Content base
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1897619755117596672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% unique, SEO-optimized, and human articles"](https://www.aiprm.com/prompts/seo/writing/1897619755117596672/)_"
+---
+Create an article in [TARGETLANGUAGE] as a highly proficient content writer skilled in SEO. The article should be 600 words long and 100% unique, SEO-optimized, and human-written. It should have at least 7 headings and subheadings (including H1, H2, H3, and H4 headings) following an outline provided in a separate table. The article must be written in a conversational style, using personal pronouns, active voice, google helpful policy updated and engaging the reader. End the article with a conclusion paragraph and five unique FAQs, all bolding headings and titles appropriately using Markdown language.
+[PROMPT]

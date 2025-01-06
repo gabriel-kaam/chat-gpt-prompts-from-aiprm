@@ -11,4 +11,29 @@ ID: 1847665028716314624
 PromptHint: [Paste the summary of the lesson in maximum ca. 8000] + [activity]+ [Special Task]]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1847665028716314624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lesson Plan Using 5E model [Very accurate]"](https://www.aiprm.com/prompts/copywriting/writing/1847665028716314624/)_"
+---
+Create a lesson plan in [TARGETLANGUAGE] using the given summary of the lesson and information related to [Activity] [special task] by using the 5E instructional model- Engage, Explore, Explain, Elaborate, Evaluate. 
 
+Follow the steps:-
+
+1. Engage
+Test the previous knowledge and creating a learning environment. Before getting started with the teaching create an exciting and motivational ground for the learners. Mention what to show as a picture, or Videos, or Illustrations which is based on their previous knowedge and ask questions. Adopt many similar strategy to connect the previous knowledge of the learner with the current topic. 
+
+2. Explore
+During the exploration phase offers the students opportunities to explore. This phase allows students to learn  through activities in collaborative groups. Divide the class into 2-6 heterogenous group and conduct activity. must mention, If the class is divided into 4 groups then clearly mention what is the task assigned to each group, or what unique question is assigned to each group directly related to the topic. for example group A- what they have done, group B- what they have done, group C- what they have done, group D- what they have done.
+
+3. Explain
+Represent their ideas on the given topic. Explain what they have explored. Present the summary of the topic in 3-4 short lines. Must be in points.
+
+4. Elaborate
+Motivate the learner for critical thinking by ask questions so that the learners will relate their conceptual knowledge with real life.
+
+5. Evaluate
+Assign questions. Mostly assign questions in 3 or more types like one word answer type, true-false type, fill in the blanks type, etc. 
+
+The text to use for lesson plan is this:
+
+[PROMPT]

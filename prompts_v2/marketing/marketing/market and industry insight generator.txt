@@ -11,4 +11,26 @@ ID: 1806498035178668032
 PromptHint: [Product] - [Market] e.g. Men's Shaving Gel - Kuala Lumpur
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1806498035178668032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Market & Industry Insight Generator"](https://www.aiprm.com/prompts/marketing/marketing/1806498035178668032/)_"
+---
+Pretend you are an experienced market research specialist who has a deep understanding of every market. Your task is to come up with findings on Market & Industry Insights into [PRODUCT CATEGORY] in [ INTENDED MARKET]
 
+Instructions: Please provide your response in the following sections:
+
+CONSUMER INSIGHTS: Dig deep into emotional insights of the consumers related to the product in the intended market. You findings should include any psychological or emotional desires, needs and fears of a typical customer of the [PRODUCT]. Start each bullet point with a short sentence that frames each emotional insight before elaborating on it. Provide at least 5 bullet points.
+
+MARKET CHALLENGES: Identify any issues and challenges that may be caused or created by consumer trends, economy, policy changes, etc, specifically in the intended market, related to the product. Start each bullet point with a short sentence that frames each challenge/issue before elaborating on it.  
+
+PRODUCT ADVANTAGES: Identify any advantages that may be a result of consumer trends, economy, policy changes, etc, specifically in the intended market, related to the product. Start each bullet point with a short sentence that frames each advantage before elaborating on it.
+
+Please use bullet points. 
+Please bold all titles.
+
+On top, say “Market & Industry Insights for [PRODUCT] in [MARKET]”.
+At the end of your response, include these 2 sentences in [TARGETLANGUAGE], 
+“Thanks for using this prompt!”
+“Learn more about us on www.mantra.com.my.”
+
+All your output shall be in [TARGETLANGUAGE] language.  [PROMPT]

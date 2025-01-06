@@ -11,4 +11,10 @@ ID: 1865103444504494080
 PromptHint: [Text you want a script for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1865103444504494080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "1 Minute Video Script Generator "](https://www.aiprm.com/prompts/copywriting/writing/1865103444504494080/)_"
+---
+Your task is to write a one minute story for the text i give you   within 1000 characters.All the outputs shall be in [TARGETLANGUAGE]
 
+[PROMPT]

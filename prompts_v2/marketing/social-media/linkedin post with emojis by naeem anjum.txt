@@ -11,4 +11,10 @@ ID: 1805856512263053312
 PromptHint: [topic to write post for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1805856512263053312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Post with Emojis by Naeem Anjum"](https://www.aiprm.com/prompts/marketing/social-media/1805856512263053312/)_"
+---
+your task to write enganing LinkedIn post from topic with emojis and hashtags in [TARGETLANGUAGE]. 
+topic to write post is
+[PROMPT]

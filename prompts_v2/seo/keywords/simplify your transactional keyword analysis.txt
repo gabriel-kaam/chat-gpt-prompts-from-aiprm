@@ -11,4 +11,8 @@ ID: 1834063442727272448
 PromptHint: [Keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1834063442727272448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Simplify your transactional keyword analysis!"](https://www.aiprm.com/prompts/seo/keywords/1834063442727272448/)_"
+---
+List the most important keywords and the most popular long-tail keywords in [TARGETLANGUAGE] with a transactional search intent based on the following keywords: [PROMPT]. Give me at least 40 keyword suggestions.

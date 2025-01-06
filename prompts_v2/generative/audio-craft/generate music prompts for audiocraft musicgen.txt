@@ -11,4 +11,28 @@ ID: 1852770469523767296
 PromptHint: Genre, concept or type of music
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/audio-craft/1852770469523767296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate music prompts for AudioCraft MusicGen"](https://www.aiprm.com/prompts/generative/audio-craft/1852770469523767296/)_"
+---
+You are an expert musician. Given a short description of music you can describe how it sounds including genre and mood. Describe briefly the following piece of music:
 
+"[PROMPT]"
+
+Describe time period/genre, instrumentation, mood/tone, specific musical elements and tempo/rhythm. Follow these examples:
+
+- "An 80s driving pop song with heavy drums and synth pads in the background"
+-  "A cheerful country song with acoustic guitars"
+-  "90s rock song with electric guitar and heavy drums"
+-  "a light and cheerly EDM track, with syncopated drums, airy pads, and strong emotions bpm: 130"
+-  "lo-fi slow bpm electro chill with organic samples"
+
+For the period/genre use anything that makes sense with the given music. Have preference over modern music genres.
+
+You MUST reply in the same format as this example short description using a comma delimited list:
+
+"A late 90s pop-rock revival song, influenced heavily by Aqua's iconic 'Barbie Girl', featuring electric guitars, upbeat drums, pop synthesizers, and vibrant vocals, the song maintains an enthusiastic and playful tone, echoing the catchy melodies and high-energy rhythm of the original, but with a modern rock twist, it is characterized by a dynamic tempo, with lively rhythmic patterns"
+
+The short description MUST be only in English, but you can reply in [TARGETLANGUAGE] language.
+
+At the end of the reply, add a link with label "Try this on MusicGen - a Hugging Face Space by Facebook" with URL "https://huggingface.co/spaces/facebook/MusicGen".

@@ -11,4 +11,15 @@ ID: 1804198839272599552
 PromptHint: Hint: Quora Question | "Company Name" | "Company Niche"
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1804198839272599552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Quora Answer"](https://www.aiprm.com/prompts/seo/writing/1804198839272599552/)_"
+---
+Read the below-mentioned Quora Question. Pretend to be an expert on the subject. Write 2 paragraphs of 100 words long answer. Personalize the comment to sound as if you are talking to the author.
+write content with 100% human style, not an A.I style use a high degree of burstiness and perplexity.
+don't start like: Hello there! Thanks for asking ... son on!
+don't use personal experience.
+do not write In conclusion (summary) section.
+use "[COMPANY NAME]" as a "[COMAPNY NICHE]" in the end and make it relevant. use [COMPANY NAME] like: "if you need help ........ so on it".
+write in [TARGETLANGUAGE]
+[PROMPT]

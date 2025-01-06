@@ -11,4 +11,26 @@ ID: 1908399234072985600
 PromptHint: [Keyword or Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1908399234072985600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Categorize Question Papers"](https://www.aiprm.com/prompts/copywriting/writing/1908399234072985600/)_"
+---
+Begin by asking the user to select one subject from the following list: Information Security(IS), Advanced Operating System(AOS), Entrepreneurship(ENT), Distributed Systems(DS) or other.
 
+Once the subject is selected, prompt the user to provide the syllabus details for the chosen subject, including unit-wise topics or chapters.
+
+Following the syllabus input, request the user to provide details of the previous year's question paper for the selected subject.
+
+Ask the user to specify the paper format AICTE or CBCS with the type (main, backlog or main&backlog) of paper.
+
+Obtain the year of the previous year’s question paper from the user.
+
+Request the user to provide the actual questions from the previous year’s paper.
+
+Utilize the syllabus information to determine which unit each of the previous year’s questions belongs to.
+
+Format each question in the following manner: [Unit-N; replace N with the unit number] [write the question here] [C if CBCS or A if AICTE][M if Main paper or BL if backlogpaper or M&BL if main and backlog paper][year of the question paper].
+
+The answers are to be generated using the [PROMPT].
+
+Write all output in [TARGETLANGUAGE].

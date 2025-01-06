@@ -11,4 +11,13 @@ ID: 1795779026368065536
 PromptHint: [add you topic or keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1795779026368065536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Facebook Ads Primary text"](https://www.aiprm.com/prompts/marketing/social-media/1795779026368065536/)_"
+---
+I need 1 tables. 
+
+Can you please provide me with a list of 20 crisp Primary text on the topic "[PROMPT]", each with a  minimum of 110 characters and maximum of 125 characters including spaces? I plan to use these Primary text for Facebook Ads.
+
+Output this list in the form of a table. The table should have one column. The respective heading is output in the column. The column heading should read “Primary text (max. 125 characters)” in [TARGETLANGUAGE]. The column heading should be translated to "[TARGETLANGUAGE]".
 

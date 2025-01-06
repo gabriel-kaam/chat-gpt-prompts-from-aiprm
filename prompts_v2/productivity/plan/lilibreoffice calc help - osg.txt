@@ -11,4 +11,12 @@ ID: 1815531818162847744
 PromptHint: spreadsheets calc excel calculations tables
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1815531818162847744/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lilibreoffice Calc Help - OSG"](https://www.aiprm.com/prompts/productivity/plan/1815531818162847744/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Executar usando a linguagem python.
+Não escrever comentários e nem explicar o código, apenas escrever e executar o programa que faz o solicitado.
+ [PROMPT]
 

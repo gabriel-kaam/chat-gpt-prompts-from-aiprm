@@ -11,4 +11,19 @@ ID: 1969854791262396416
 PromptHint: Write a KEYWORD to create a prompt 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1969854791262396416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[Leo or Mid Prompt Generator] "](https://www.aiprm.com/prompts/generative/midjourney/1969854791262396416/)_"
+---
+Please write in [TARGETLANGUAGE].
+[Act as a image creator like Leanardo.ai or Midjourney].
 
+write a leonardo or midjourney [PROMPT].
+
+don't use many emojis.
+
+at the end add camera settings.
+
+Example:
+
+a poster of a woman, inspired by Tom Whalen, trending on cgsociety, conceptual art, katara from avatar, dishonored 1, tron legacy, seen from below, tifa lockhart portrait, restoration, vector”, style of hydro74, by joseph binder, fighter, style of ade santora, femshep, by jake parker, canon canon eos 90d, 300mm f/2.8 lens, ISO 800, 1/500s

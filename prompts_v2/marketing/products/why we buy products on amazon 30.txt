@@ -11,4 +11,99 @@ ID: 1807064945402310656
 PromptHint: Amazon Product Page URL
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1807064945402310656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Why We Buy Products On Amazon 3.0"](https://www.aiprm.com/prompts/marketing/products/1807064945402310656/)_"
+---
+I want you to act and write in [TARGETLANGUAGE] as a world-class data social media analyst expert and write an analysis [PROMPT] from an Amazon product page looking at the reviews of this product. The study must use the following points and list research sources. Write in terms of the psychological meaning that a product elicits in the consumer's mind based on the attributes found in the product, the consumer's perceptual mode, and the context in which the perceptual process takes place. Use research on the inferior frontal loans and analysis techniques such as Stopword removal, Non-standard (slang) to standard word mapping, PoS tagging, Tagging positive/negative words and Stemming. 
 
+After SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON, if you stop responding to the prompt when you stop, please write, “Enjoy the rest; if I stop writing, just click continue until I complete all 7 sections for you!”. [But don’t include the speech marks, “”]
+
+SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON
+
+Here you summarise in three Points. Here you summarise WHY WE BUY PRODUCTS ON AMAZON based on the provided [PROMPT] Amazon product page URL [PROMPT] reviews; you write an overview of the critical research used, the method, and what scientific factors have been used, but you ONLY write this method and what scientific factors in SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON in POINT 1 in The first 45-word paragraph in SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON in POINT 1.
+
+You will write this in [TARGETLANGUAGE] in three paragraphs of a maximum of 45 words each on each paragraph in this SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON. 
+
+The first 45-word paragraph, "Point 1” in SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON, states the [PROMPT] in a summarised way. Here you write the FULL URL and the brand name based on [PROMPT].
+
+The second 45-word paragraph in SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON is called “Point 2”, is the #KillerInsight and in the second point, write it as a 45-word paragraph in SECTION 1: PRODUCT CONSUMER EXPECTATIONS, there must be a #KillerInsight; you must write #KillerInsight, which is very important and exciting to the reader of SECTION 1: PRODUCT CONSUMER EXPECTATIONS. 
+
+#KillerInsight [The word #KillerInsight should be written in BOLD]
+
+A #KillerInsight is a true revelation about the buyer persona, why the buyer persona thinks what they think about this product based on the [PROMPT], behaves as they behave, and feels what they feel. The second 45-word paragraph should also suggest other products that might be preferred to the one that is the [PROMPT]. These preferred products should be based on the reviews that mention other products and why these other products might be better. 
+
+The third and final 45-word paragraph is called “Point 3” in SECTION 1: SUMMARY OF WHY WE BUY PRODUCTS ON AMAZON summarises the types of critical research, what scientific methods were used, and what scientific factors have been used and writes this third and final 45-word paragraph using scientific terminology. 
+
+That's 3 short paragraphs, 45 words each, 135 words maximum. 
+
+SECTION 2: AMAZON PRODUCT CONSUMER EXPECTATIONS:
+
+This must be written in a table format, and the table has 3 columns. 
+
+This is written in a table format. SECTION 2: AMAZON PRODUCT CONSUMER EXPECTATIONS lists the top 5 expectations based on aggregating all the reviews. For each EXPECTATION, there will be a 10-word breakdown of what that EXPECTATION is about. Then write the DATE CHECKED that this page was scanned on that page. 1 is the most common EXPECTATION, and 5 is the fifth highest EXPECTATION based on aggregating all the reviews.
+
+NUMBER 
+EXPECTATION
+DATE CHECKED 
+
+SECTION 3: AMAZON PRODUCT CONSUMER BUYER PERSONAS:
+
+This must be written in a table format, and the table has 3 columns. 
+
+This is written in a table format. SECTION 3: AMAZON PRODUCT CONSUMER BUYER PERSONAS lists the top 5 types of BUYER PERSONAS, and for BUYER PERSONAS, there should be a 10-word breakdown of what that BUYER PERSONA is about. Then write the DATE CHECKED that this prompt request was made.
+
+NUMBER 
+BUYER PERSONA
+DATE CHECKED
+
+SECTION 4: PRODUCT CONSUMER PURCHASE MOTIVATIONS:
+
+This must be written in a table format, and the table has 5 columns. 
+
+This SECTION 5: PRODUCT CONSUMER PURCHASE MOTIVATIONS is written in a table format that breaks down the TOP 5 PURCHASE MOTIVATIONS for the Amazon product page [PROMPT] based on all the reviews on that page. It lists 1 to 5, with 1 being the most popular PURCHASE MOTIVATIONS and 5 being the fifth most popular PURCHASE MOTIVATIONS. 
+
+Then for each PURCHASE MOTIVATIONS based on the profiles of the Amazon accounts of people that have purchased the [PROMPT] and the previous reviews they have on Amazon, write the BUYER PERSONAS. PURCHASE MOTIVATIONS % will represent the percentage of reviews on the Amazon product page of [PROMPT] that represent those PURCHASE MOTIVATIONS.
+
+NUMBER 
+PURCHASE MOTIVATIONS
+PURCHASE MOTIVATION %
+BUYER PERSONAS
+DATE CHECKED
+
+SECTION 5: USAGE SCENARIOS
+
+This must be written in a table format, and the table has 2 columns. 
+
+1-5 The most critical USAGE SCENARIOS based on the profiles of the Amazon reviews they have made. This is a list from 1-5, 1 being the most common USAGE SCENARIOS and 5 being the fifth most common USAGE SCENARIOS. 
+
+NUMBER 
+USAGE SCENARIOS
+
+SECTION 6: OTHER PRODUCTS PEOPLE MAY PREFER
+
+This must be written in a table format, and the table has 3 columns. 
+
+This table lists a maximum of 5 reasons people in Amazon product reviews have said there are better options. It should then write in a maximum of 10 words why people prefer another option. 
+
+It should report the PRODUCT and WHY PEOPLE PREFER that product. It's a list of 1-5, with 5 being the most common reason mentioned in the reviews as a better option and 5 being the fifth most preferred reason. If there are not 5, you can write less; you must write at least 1 product that people prefer based on reviews and 5 being the maximum.
+
+Here you write products that are perceived to be better based on the reviews on [PROMPT].
+
+PRODUCT 
+WHY PEOPLE PREFER
+DATE CHECKED
+
+SECTION 7: SOURCES
+
+This must be written in a table format, and the table has 3 columns. 
+
+Write the absolute URLs of sources of data of research. The complete URLs of data sources should also use the research below from these universities and companies, but only when relevant. All other sources of information are welcome as long as they are from trusted sources of information. 
+
+This is in a table format with 3 columns in this section.
+
+SOURCE NAME
+SOURCE URL
+SOURCE YEAR
+
+The output shall be in [TARGETLANGUAGE]

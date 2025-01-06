@@ -11,4 +11,11 @@ ID: 1818526215125065728
 PromptHint: Similar word
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1818526215125065728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Similar word"](https://www.aiprm.com/prompts/copywriting/writing/1818526215125065728/)_"
+---
+Give me several words that are similar to the word that fits between ' ' in the sentence below. Tell me in Korean.
 
+I want you to respond only in language [TARGETLANGUAGE].
+KOREA : [PROMPT]

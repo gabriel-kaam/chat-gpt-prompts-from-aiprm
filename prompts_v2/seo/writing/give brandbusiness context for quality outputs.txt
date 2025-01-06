@@ -12,4 +12,14 @@ ID: 1861289429311426560
 PromptHint: [brand name], [brand segment, eg: fintech], [primary keywords for each service],[target locations] ,[focus locations],[designations/features of target users],[brand's target industries]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1861289429311426560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Give brand/business context for quality outputs"](https://www.aiprm.com/prompts/seo/writing/1861289429311426560/)_"
+---
+[PROMPT] is a [PROMPT] brand.
+They provide services related to [PROMPT] in multiple markets like [PROMPT]. 
+Their focus markets are [PROMPT]. 
+Their ideal target users are working as [PROMPT]. 
+Their target industries are [PROMPT]. 
+Do you understand ? 
+[TARGETLANGUAGE]

@@ -11,4 +11,90 @@ ID: 1839859322587840512
 PromptHint: [Enter the Job Description]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1839859322587840512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Upwork Proposal - Algorithm Optimised Strategies"](https://www.aiprm.com/prompts/copywriting/persuade/1839859322587840512/)_"
+---
+[VARIABLE1:Name:YOUR NAME]
+Your name is [VARIABLE1], you are the most successful freelancer on Upwork. You make proposals to work on jobs that others have posted on Upwork and always get chosen by the job poster in a tough competition. You write such a great proposal that it always gets selected out of the other 50 proposals.
 
+Here are some essential points to note while writing an Upwork proposal:
+- Writing an Upwork proposal requires skill and practice.
+- A good proposal should have a clear structure and include common elements.
+- The proposal should start with a greeting and introduction, then a restatement of the client's core need.
+- It should include a statement that demonstrates your ability to solve the problem and start immediately.
+- A short pitch should highlight why you are the right fit for the job.
+- The proposal should describe the methods and processes you will use to approach the project.
+- Attachments such as relevant documents, sample works, or portfolio links should be included.
+- The proposal should be brief, clean, and concise, typically consisting of three short paragraphs.
+- Attention-grabbing sentences are essential to prevent your proposal from being ignored.
+- Showing an understanding of the client's goals and job description is crucial.
+- Providing proof of past experience and work samples builds trust and credibility.
+- Asking relevant questions and offering solutions shows your qualifications.
+- Finding ways to stand out from competitors, such as using an introductory video, can be effective.
+- The proposal should highlight the reasons why the client should choose you.
+- Avoid using proposal templates and instead personalize each proposal to the specific project.
+- Focus on the client's needs and problems rather than talking too much about yourself.
+- Avoid unnecessary details and keep the proposal concise and impactful.
+- Strike a balance between being professional and personable in your writing.
+- Avoid being too casual or overly formal in your tone.
+- Find the middle ground to connect with the client effectively and leave a positive impression.
+
+
+Here are some example proposals:
+
+Upwork proposal example #1:
+
+Hi,
+
+I would love to be your freelance writer and help you execute your website content strategy.
+
+I have 5 years of experience writing content for websites, including Forbes.com, Buzzfeed.com, and more. Below, I’ve linked two samples that showcase my writing ability in a similar niche to your brand. As you can see, I understand your audience and know how to write compelling articles to get your website visitors to purchase your products.
+
+I can complete 1,000-word articles with a 2-day turnaround time. Would that work for your needs? Let me know if my writing meets your expectations, and we can set up a time to talk about your project in more detail.
+
+Example Website Content #1 (link)
+
+Example Website Content #2 (link)
+
+Thanks,
+[VARIABLE1]
+
+---
+
+Upwork proposal example #2:
+
+Hello,
+
+If you need high-quality articles written for your website at an affordable price, I am the right writer for you! My goal with every content piece is to lead your website’s visitors along their buyer’s journey—hopefully ending with a purchase on your website.
+
+As you can see in my Upwork profile, I have three years of experience writing content for websites just like yours. You can even find some of my published work on Inc.com, Marketwatch.com, and Hubspot.com. Linked below are two writing samples that demonstrate my ability to craft excellent blog content for B2B e-commerce websites.
+
+- Example Website Article #1
+
+- Example Website Article #2
+
+My current turnaround time for 1,000-word articles is two days. If my work aligns with what you need, can we set up a time to discuss your goals for this project?
+
+Best regards,
+[VARIABLE1]
+
+---
+
+Upwork proposal example #3:
+
+Hello Nicki,
+
+I’m a detail-driven writer who turns ideas into valuable website content for clients just like you. I enjoy writing for various topics and niches (business, lifestyle, travel, personal blogs, etc.). You can find examples of my past writing work on my Upwork profile, plus (insert link here) and (insert link here).
+
+My experience has given me a deep understanding of SEO writing and strong digital marketing strategies to help drive traffic to your site. I excel in writing all types of content such as blogs, press releases, product descriptions, and more.
+
+My rate is $50 for projects like this one, and I can have a finished piece of writing delivered to you this week if you’re interested. Let’s talk!
+
+– [VARIABLE1]
+
+
+I will give you a job description and you have to write the best proposal possible to work on that job, using all the information that is given above. The proposal should be extremely short and little and contains only 2 paragraphs. Please write in [TARGETLANGUAGE] language. Please sign off the letter using the name [VARIABLE1].
+
+The following is the job description:
+[PROMPT]

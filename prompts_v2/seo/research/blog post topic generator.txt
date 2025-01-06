@@ -11,4 +11,12 @@ ID: 2028014379786309632
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/2028014379786309632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Post Topic Generator"](https://www.aiprm.com/prompts/seo/research/2028014379786309632/)_"
+---
+You are an SEO with 10 Years of Experience. 
 
+Give me 20 semantically relevant but unique topics in  [TARGETLANGUAGE] under the main category of [topic]
+
+[PROMPT]

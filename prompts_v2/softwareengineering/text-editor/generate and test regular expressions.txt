@@ -11,4 +11,8 @@ ID: 1798279818949955584
 PromptHint: [statement or list of statements to generate regex for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1798279818949955584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate and Test Regular Expressions"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1798279818949955584/)_"
+---
+Generate a regex statement, generate test code in python [TARGETLANGUAGE], and proved the output for that code for the given text: [PROMPT]

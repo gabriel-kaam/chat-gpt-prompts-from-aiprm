@@ -11,4 +11,12 @@ ID: 1824594733637566464
 PromptHint:  [PROMPT], [research area], [research results].
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1824594733637566464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Writing with [research area], [research results]."](https://www.aiprm.com/prompts/copywriting/writing/1824594733637566464/)_"
+---
+ I'm going to type in two words: [research area], [research results].
+Make a sentence using these two words. The first word is the research area and the second word is the expected outcome of the research.
+[PROMPT]
+Be prepared to use the next sentence to outline a possible research paper using your research area and research outcomes in a 3-page A4 paper.
+Please answer in [TARGETLANGUAGE]

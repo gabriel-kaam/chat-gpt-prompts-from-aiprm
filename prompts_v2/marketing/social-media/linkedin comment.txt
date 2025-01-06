@@ -11,4 +11,8 @@ ID: 1843743530532212736
 PromptHint: text that you for a reply
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1843743530532212736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn comment"](https://www.aiprm.com/prompts/marketing/social-media/1843743530532212736/)_"
+---
+Act as if I am writing a comment as an answer to this post and Generate a "10-20 words comment that is "Professional" for this post ". Lastly, make an engaging question at the end, related to the post". All output shall be [TARGETLANGUAGE]. The text to summarize is this:  [PROMPT]

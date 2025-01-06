@@ -11,4 +11,11 @@ ID: 1793662726594359296
 PromptHint: scan ideas from [TEXT] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793662726594359296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "#1 - scan ideas"](https://www.aiprm.com/prompts/copywriting/writing/1793662726594359296/)_"
+---
+Use the provided text in brackets to identify topics related to Notion, productivity, insights, curiousities, and digital business and write them in a list that I will use to create content for tiktok. Also right below each topic, list in bullets the content to be covered.
+[TEXT].
+[TARGETLANGUAGE]
+[PROMPT]

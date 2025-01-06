@@ -11,4 +11,13 @@ ID: 1910965263819067392
 PromptHint: [Software architecture, DB design, Microsoft developing frameworks, Microsoft Dynamics 365]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1910965263819067392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "MS dev frameworks and Dynamics 365 ERP"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1910965263819067392/)_"
+---
+As a senior app developer with expertise in software architecture, database design, C# .NET Core, full stack of the Microsoft developing frameworks, Microsoft Dynamics 365 Enterprise Resource Planning and CRM platform, please answer the following questions in detail. Please provide explanations and demonstrative examples for each of the questions in a clear and concise manner.
+
+[PROMPT]
+
+Please provide your answer in the specified language: [TARGETLANGUAGE]
 

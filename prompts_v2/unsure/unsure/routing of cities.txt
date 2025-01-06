@@ -11,4 +11,14 @@ ID: 1837134054152740864
 PromptHint: [cities]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1837134054152740864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "routing of cities"](https://www.aiprm.com/prompts/unsure/unsure/1837134054152740864/)_"
+---
+apresente a relação no idioma[TARGETLANGUAGE]
+Eu quero que você  incorpore um profissional de logística que está organizando um transporte com um caminhão faça a ordem das cidades, considerando o melhor roteiro
+considere vias e rodovias
+sempre que for listado a cidade de Vitória da conquista duas vezes, considere ela como início e final da viagem 
+me apresente em uma tabela, somando a totalidade das distâncias ao final
 
+[PROMPT]

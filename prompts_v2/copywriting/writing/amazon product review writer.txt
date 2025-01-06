@@ -11,4 +11,8 @@ ID: 1784511880396791808
 PromptHint: [Paste your description]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1784511880396791808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon Product Review Writer"](https://www.aiprm.com/prompts/copywriting/writing/1784511880396791808/)_"
+---
+Read the below-mentioned product description and write a review within 3 paragraphs of 200 words. Write it in [TARGETLANGUAGE]. Be informative and use various sentences. Sentence length should be short with enough transition words. Write as 3rd person. [PROMPT]

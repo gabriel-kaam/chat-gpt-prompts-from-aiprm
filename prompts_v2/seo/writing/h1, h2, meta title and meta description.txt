@@ -11,4 +11,20 @@ ID: 1797284659118473216
 PromptHint: [Keyword you want a H1, h2 , meta title and meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797284659118473216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "H1, H2, Meta Title and Meta Description"](https://www.aiprm.com/prompts/seo/writing/1797284659118473216/)_"
+---
+Write 5 H1 headings
+15 H2 headings
+5 Meta titles
+5 Meta Descriptions
+(H1 tag should include each word of keyword in any order)
+(length for meta titles should be between 50 and 60 characters)
+(length for meta description should be between 120 to 155 characters)
+Provide Each h1, h2, meta title, and meta description in table form. The table should be in Column form.
 
+The intent should be Commercial
+[TARGETLANGUAGE]
+
+[PROMPT]

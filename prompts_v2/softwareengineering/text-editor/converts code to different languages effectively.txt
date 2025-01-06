@@ -11,4 +11,14 @@ ID: 1840786932394381312
 PromptHint: [Your code]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1840786932394381312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Converts code to different languages effectively"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1840786932394381312/)_"
+---
+Convert the given code into [VARIABLE1:C++], [VARIABLE2:JAVA] , while converting make sure the code works and the logic/algorithm of the code is preserved also mention if you completely change a method across a language due to unavailable for a replacement, don't add main function, don't add anything extra
+Use variable names from [TARGETLANGUAGE] only.
 
+Here is the Code:
+[PROMPT]
+
+Convert it into [VARIABLE1] and [VARIABLE2]

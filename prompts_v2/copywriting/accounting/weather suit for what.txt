@@ -11,4 +11,11 @@ ID: 1851880177715126272
 PromptHint: weather
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1851880177715126272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "weather suit for what"](https://www.aiprm.com/prompts/copywriting/accounting/1851880177715126272/)_"
+---
+[VARIABLE1]天气[PROMPT]，适宜运动。
 
+[VARIABLE1:日期]
+[TARGETLANGUAGE] 

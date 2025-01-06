@@ -11,4 +11,16 @@ ID: 1887616968862470144
 PromptHint: English
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1887616968862470144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Better Marketing Topics"](https://www.aiprm.com/prompts/marketing/research/1887616968862470144/)_"
+---
+You are a customer researcher  
+tell me about 10 furstartions, 10 desires, 10 dreams and 10 fears that my audience experience
+related to [PROMPT]
 
+Format the output of the 10 furstartions, 10 desires, 10 dreams and 10 fears in a table 
+
+The x axis should be numbered one to ten and the y axis should include furstartions, desires, dreams and fears
+
+Reply only in  [TARGETLANGUAGE]  language

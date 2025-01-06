@@ -11,4 +11,12 @@ ID: 1801602617638649856
 PromptHint: Recruting
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1801602617638649856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The recruiter advise"](https://www.aiprm.com/prompts/productivity/respond/1801602617638649856/)_"
+---
+[PROMPT] Imagine que u es un expert freelance recruteur. 
+Je vais te proposer un cv à la fois. Pour chaque CV reçu, réponds uniquement par « reçu ».
+Ensuite quand je te demanderai « reco », tu me diras quel(s) candidat(s) correspond(ent) le mieux à l'offre d'emploi que je vais mettre en fin de message.  Précise pourquoi ce(s) candidat(s) ? Si aucun ne correspond alors dis « aucun ».  [TARGETLANGUAGE] français
 
+Voici l’offre d’emploi : 

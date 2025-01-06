@@ -11,4 +11,9 @@ ID: 1794495003956084736
 PromptHint: Mention the Product Name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1794495003956084736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product SEO with Title & Meta"](https://www.aiprm.com/prompts/seo/writing/1794495003956084736/)_"
+---
+As an SEO specialist for a company that sells products online, you have been tasked with optimizing the product page for their best-selling product. The page must adhere to specific rules, including having a compelling product title that's no more than 70 characters, a concise meta description that's no more than 155 characters, and a focus keyword that's included in the title, meta description, and content of the page. Your task is to determine the best approach to optimize the page for search engines while ensuring it's still engaging and informative for potential customers. How would you approach this task?
+You must use [TARGETLANGUAGE] and [PROMPT]

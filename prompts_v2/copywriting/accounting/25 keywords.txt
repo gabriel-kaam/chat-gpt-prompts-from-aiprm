@@ -11,4 +11,14 @@ ID: 1837714147963031552
 PromptHint: Do you want to discover the keywords that define [INTRODUCE LA MARCA O PRODUCTO AQUÍ]? Immerse yourself in its universe and unveil the concepts that make it unique. Explore right away a list of 20 related words that capture the essence of [INTRODUCE LA MARCA O PRODUCTO AQUÍ]! Don't miss out!
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1837714147963031552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "25 keywords"](https://www.aiprm.com/prompts/copywriting/accounting/1837714147963031552/)_"
+---
+[PROMPT]
 
+Genera un párrafo de 25 palabras relacionadas con la marca o producto [INTRODUCE LA MARCA O PRODUCTO AQUÍ], sin viñetas y separadas por comas. Intenta que las 25 palabras sean cortas y no estén compuestas por varias palabras. Asegúrate de incluir 5 productos populares de la marca en la lista. Incluir 5 palabras que definan de forma genérica los productos o el sector. Importante: no añadas ningún texto más allá de las 25 palabras. Escríbelo en [TARGETLANGUAGE].
+
+Recuerda reemplazar "[INTRODUCE LA MARCA O PRODUCTO AQUÍ]" con el nombre de la marca o producto específico del que deseas obtener palabras relacionadas."
+
+Por favor, asegúrate de reemplazar "[INTRODUCE LA MARCA O PRODUCTO AQUÍ]" con el nombre de la marca o producto específico al usar este template. 

@@ -11,4 +11,9 @@ ID: 1839906142231990272
 PromptHint: [Type Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1839906142231990272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create New Words"](https://www.aiprm.com/prompts/generative/midjourney/1839906142231990272/)_"
+---
+Your task is getting input as keywords and make new word from it and base on business purpose in [TARGETLANGUAGE] 
+[PROMPT]

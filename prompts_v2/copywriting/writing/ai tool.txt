@@ -11,4 +11,29 @@ ID: 1852556157945376768
 PromptHint:  [Existing Blog Post] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1852556157945376768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ai tool"](https://www.aiprm.com/prompts/copywriting/writing/1852556157945376768/)_"
+---
+Act as a Professional AI Tools Reviewer.
 
+My AI Tool Blog list 1000's of AI Tools, where I offer information and review about AI Tools. I Share review of the AI Tools.
+
+Generate a post about ai tool: [VARIABLE1] from existing post [PROMPT] in [TARGETLANGUAGE]  . Don't use exact sentences from existing post. Write [VARIABLE2] words Article.
+
+Make sure to Add H2 headings: 
+What is [VARIABLE1]?
+What Problem Does [VARIABLE1] Solve?
+Who should use [VARIABLE1]?
+Features of [VARIABLE1]:
+Pros of [VARIABLE1]:
+Cons of [VARIABLE1]:
+
+Strict Guidelines to follow:
+Write Pros and cons in bullet points of 1 to 2 words only.
+Make  H2 heading only
+Make bold the [VARIABLE1].
+Write features in Single sentence only.
+Write only 3 sentences, short and give a sentimental hook to audience to use that AI tool in the conclusion part.
+
+[VARIABLE1: Enter AI Tool Name], [VARIABLE2: Number of words]

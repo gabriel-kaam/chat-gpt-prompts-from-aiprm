@@ -11,4 +11,10 @@ ID: 1801921984473595904
 PromptHint: [Your Business Type]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1801921984473595904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads - Descriptions"](https://www.aiprm.com/prompts/copywriting/marketing/1801921984473595904/)_"
+---
+Your task is to create 8 Google Search Ads Description with a limit of maximum 90 characters per description including spacing in [TARGETLANGUAGE]. The type of business this description is for is the following:
 
+[PROMPT]

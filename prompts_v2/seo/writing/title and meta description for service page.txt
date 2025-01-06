@@ -11,4 +11,8 @@ ID: 1788444122416406528
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1788444122416406528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Title & Meta Description for Service Page"](https://www.aiprm.com/prompts/seo/writing/1788444122416406528/)_"
+---
+I want you to respond only in [TARGETLANGUAGE]. I want you to act as a Services Meta description writer that speaks and writes [TARGETLANGUAGE].  I want you to generate a Meta title & description for the following page title: [Keywords], Use title case. Title 55-65 characters and insert the keyword at the beginning, description between 150-160 characters with keyword.  Also use CTA for both. Please create a table with two columns title and description and enter your result there. [PROMPT]

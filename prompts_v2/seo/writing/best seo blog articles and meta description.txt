@@ -11,4 +11,10 @@ ID: 1796332655105802240
 PromptHint: [Enter the keywords you want]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796332655105802240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best SEO Blog Articles and Meta Description"](https://www.aiprm.com/prompts/seo/writing/1796332655105802240/)_"
+---
+Your task is to make SEO articles and meta descriptions from the text that I provide. Make an article of 400 words or a maximum of 600 words and a meta description that matches the text. All outputs must be in [TARGETLANGUAGE]. and at the end of the answer create a new page write this in bold "Information more just visit => https://www.nekbutuhaja.com/. The text for creating SEO articles and meta descriptions is this:
 
+[PROMPT]

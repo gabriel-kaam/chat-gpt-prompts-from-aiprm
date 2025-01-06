@@ -11,4 +11,10 @@ ID: 1870001299757072384
 PromptHint: [options trading tamil]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1870001299757072384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Options Trading in Tamil"](https://www.aiprm.com/prompts/seo/ideation/1870001299757072384/)_"
+---
+Your task is to summarize the text i give in 20 words or maximum 100 characters. All output should be in [TARGETLANGUAGE]. The text to summarize this:
 
+[PROMPT]

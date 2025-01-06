@@ -11,4 +11,8 @@ ID: 1783502887989809152
 PromptHint: Blog tags
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1783502887989809152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Tags Generator"](https://www.aiprm.com/prompts/seo/research/1783502887989809152/)_"
+---
+write 20 tags for blog articles separated with commas for the following title;

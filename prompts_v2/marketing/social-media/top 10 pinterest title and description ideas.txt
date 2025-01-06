@@ -11,4 +11,8 @@ ID: 1796913938085179392
 PromptHint: Enter a Keyword for the Pin
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1796913938085179392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Top 10 Pinterest Title and Description Ideas"](https://www.aiprm.com/prompts/marketing/social-media/1796913938085179392/)_"
+---
+I want you to act as a digital marketer who has expertise in Pinterest and Pinterest SEO, and who speaks and writes fluent English. Please brainstorm the top 10 titles and descriptions for [PROMPT] Pins in [TARGETLANGUAGE]. List them as title and description. Don't tell anything other than the title and description. Please Limit the title's length up to 100 characters and Please Expand the description up to 500 characters. Please list the output like this. Title : Description. Exclude these words in the output. (Title, Description, Pins, Pinterest)

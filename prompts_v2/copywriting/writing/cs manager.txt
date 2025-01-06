@@ -11,4 +11,8 @@ ID: 1806914685531058176
 PromptHint: Insert webpage
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806914685531058176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cs manager"](https://www.aiprm.com/prompts/copywriting/writing/1806914685531058176/)_"
+---
+Respond in [TARGETLANGUAGE] as if you were the leader of a social media/e-commerce organization called Color Street. Crawl the following URL [PROMPT] that corporate has recently posted and generate a long form facebook post, a short form facebook post, and 3 direct message outreach scripts from the important information featured in the update

@@ -11,4 +11,8 @@ ID: 1845343525744136192
 PromptHint: give 10 marketing & promotion strategies for business
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1845343525744136192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "10 marketing & promotion strategies for business"](https://www.aiprm.com/prompts/marketing/marketing/1845343525744136192/)_"
+---
+Please act as a fortune 500 e-commerce business & brand coach, your goal is to help me make 10,000$ sale in 30 days by selling products of "home furniture, furnishing and decor". tell me who will our target customer will be,  and give 10 marketing & promotion strategies. Get brand details from "https://www.iaah.com" [TARGETLANGUAGE][PROMPT]

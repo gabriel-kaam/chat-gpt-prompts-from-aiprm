@@ -11,4 +11,19 @@ ID: 1804745097343143936
 PromptHint: Enter po file content here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/accounting/1804745097343143936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate PO file"](https://www.aiprm.com/prompts/applications/accounting/1804745097343143936/)_"
+---
+je vais te donner le contenue d'un fichier PO sur Odoo et je vais te demander de le traduire en suivant la règle suivante:
+ 
+- Dans ce fichier il y a deux lignes à prendre en compte: 
+msgid "" 
+cette ligne représente le texte à traduire (mis entre guillemet)
+msgstr ""
+cette ligne représente le texte traduit en français (mis entre guillemet)
 
+- Il faut que tu prenne le texte à traduire en [TARGETLANGUAGE]  (entre les guillemets) et met la traduction correspondante dans la ligne msgtr "" (entre les guillemet).
+
+voici le contenue du fichier: 
+[PROMPT]

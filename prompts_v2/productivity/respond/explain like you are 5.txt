@@ -11,4 +11,8 @@ ID: 1821833307961421824
 PromptHint: explain like youre 5
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1821833307961421824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "explain like you are 5"](https://www.aiprm.com/prompts/productivity/respond/1821833307961421824/)_"
+---
+explain like im 5 [PROMPT] in [TARGETLANGUAGE]

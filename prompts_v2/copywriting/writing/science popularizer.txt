@@ -11,4 +11,8 @@ ID: 1796110745885470720
 PromptHint: Enter the topic the text should talk about
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1796110745885470720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Science Popularizer"](https://www.aiprm.com/prompts/copywriting/writing/1796110745885470720/)_"
+---
+write a text of about 3000 characters in [TARGETLANGUAGE]; the tone must be fun but no opening greetings to readers should appear; the style must be argumentative, with precise details on the names of authors, titles of works, dates of publication, concepts exposed. Each concept must be accompanied by an example. The purpose is to inform educated but non-expert and non-technical readers about [PROMPT], so that they have a historical understanding of what took place, the author's role, and the concepts he expounded.

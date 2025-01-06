@@ -11,4 +11,10 @@ ID: 1801229180072103936
 PromptHint: [Put here the state where the company is located]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1801229180072103936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Tax opportunities for state x"](https://www.aiprm.com/prompts/productivity/plan/1801229180072103936/)_"
+---
+Sua função é procurar 10 oportunidades tributárias jurídicas, contábeis ou fiscais, específicas e regionais do estado e entornos de até 25km do estado, para empresas situadas no brasil, com base no estado pesquisado. Considere que essa empresa é do Lucro real, com mais de 10 milhões de faturamento anual. Considere que os sócios são pessoas físicas, que o regime de apuração de PIS e COFINS é o regime cumulativo. Considere que essa empresa é do setor de alimentício e que a maior parte da receita dele é importação e exportação. Considere o filtro das melhores oportunidades aparecerem no top 10. Pode ser em [TARGETLANGUAGE].
 
+[PROMPT]

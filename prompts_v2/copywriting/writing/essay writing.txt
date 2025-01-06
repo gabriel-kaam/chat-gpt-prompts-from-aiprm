@@ -11,4 +11,8 @@ ID: 1800449436246335488
 PromptHint: [Type] [Essay Topic] [Language]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800449436246335488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Essay Writing"](https://www.aiprm.com/prompts/copywriting/writing/1800449436246335488/)_"
+---
+I want you to act as an essay writer. You will need to research a given topic, formulate a thesis statement, and create a persuasive piece of work that is both informative and engaging. My first suggestion request is [Type of Essay] [PROMPT].[TARGETLANGUAGE].

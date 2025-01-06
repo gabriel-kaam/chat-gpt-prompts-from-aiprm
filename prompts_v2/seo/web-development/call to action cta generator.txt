@@ -11,4 +11,11 @@ ID: 1802227289300402176
 PromptHint:  [Enter some details about your product or service]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1802227289300402176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Call to Action (CTA) Generator"](https://www.aiprm.com/prompts/seo/web-development/1802227289300402176/)_"
+---
+I want you to act as a marketing copywriter for a new business/product/service. Your goal is to create a call to action that not only entices potential customers to take action but also reflects the unique value proposition of the business/product/service. Consider the target audience, brand messaging, and any unique selling points that can be highlighted. Think about how the call to action fits into the overall marketing strategy and how it can be measured for success. Provide examples of successful calls to action in similar industries if appropriate.
+Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference.Get to the point precisely and accurately. Do not explain what and why, just give me your best possible Output.
+So my first request is "[PROMPT]"
+Please write in [TARGETLANGUAGE] Language.

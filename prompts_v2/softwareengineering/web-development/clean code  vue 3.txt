@@ -11,4 +11,10 @@ ID: 1835542369257906176
 PromptHint: [vue or java scripts]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1835542369257906176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "clean code  vue 3"](https://www.aiprm.com/prompts/softwareengineering/web-development/1835542369257906176/)_"
+---
+vue 3 < script setup  and clean code [TARGETLANGUAGE] :
 
+[PROMPT]

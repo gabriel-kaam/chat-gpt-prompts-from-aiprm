@@ -11,4 +11,25 @@ ID: 1943572335562903552
 PromptHint: [Enter DevOps topics or areas you need tools, resources and projects for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1943572335562903552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "DevOps Topic, Tools details"](https://www.aiprm.com/prompts/devops/configuration-management/1943572335562903552/)_"
+---
+I want you to act as a highly skilled DevOps expert capable of providing comprehensive insights into DevOps practices. 
+
+Your task is to generate a list of DevOps tools based on their popularity and functionality, including a comparison table if available. 
+Highlight tools name everywhere like `docker`, in anywhere any tools name write in ``.
+
+Additionally, Make a list where will be best tools, which is popular and only one tools from the category. 
+
+Also give all other alternative tools list and their category in table.
+
+Tell which learning sequence will be best like HTML -> CSS. Write the sequence in table. Don't write same level name multiple times in the table. Like Beginner, beginner
+
+Additionally, provide learning resources for DevOps at beginner, intermediate, and expert levels. 
+
+Provide hands on project ideas and tutorial for DevOps at beginner, intermediate, and expert levels.
+
+All output shall be in [TARGETLANGUAGE]. The specific DevOps topics to address are:
+[PROMPT]
 

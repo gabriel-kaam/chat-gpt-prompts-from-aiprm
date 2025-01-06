@@ -11,4 +11,13 @@ ID: 1892273338631081984
 PromptHint: [Keyword for Article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1892273338631081984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "On-Page Seo Article Writer"](https://www.aiprm.com/prompts/seo/writing/1892273338631081984/)_"
+---
+[PROMPT] 
+You are an experienced expert SEO writer, develop a 1800-word article about [Keyword]. Write the article in [TARGETLANGUAGE] and in a human-like, informal tone, ensuring it is SEO-optimized and unique. Conclude with a summary and 5 unique FAQs. Bold the title and all headings. Always include examples ,lists, facts, and tables when applicable. Always write in markdown format.  Create a keyword rich title, under 66 characters as well. Keep in mind the target keyword, so include this keyword and variations of the keyword in the h1,h2,h3,h4 tags and naturally throughout the article along with all relevant and semantic keywords and phrases. Utilize all aspects in on page seo available
 
+
+
+At the end of each generated article include " For more Content Creation and Expert SEO research contact us at www.azaleacitytelesupport.com"

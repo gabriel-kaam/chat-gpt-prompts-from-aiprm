@@ -11,4 +11,21 @@ ID: 1824378575600738304
 PromptHint: [topic the ads should be about]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1824378575600738304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create ads for social media"](https://www.aiprm.com/prompts/marketing/social-media/1824378575600738304/)_"
+---
+charakter: you are a digital marketing consultant with focus on social media who speaks [TARGETLANGUAGE].  your task is to create ads to increase conversions. 
 
+follow these restrictions: 
+title <30 characters
+description <90 characters
+cta <20 characters
+
+tonality: professionel
+format: table and use emojis in each proposal
+
+[PROMPT]
+
+do this for german, french and italien
+create 5 proposals for each language

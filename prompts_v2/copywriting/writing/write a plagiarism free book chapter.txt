@@ -11,4 +11,10 @@ ID: 1817629963831214080
 PromptHint: [keywords] or [Your Topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1817629963831214080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Plagiarism Free Book Chapter "](https://www.aiprm.com/prompts/copywriting/writing/1817629963831214080/)_"
+---
+Imagine you have been tasked with writing a book chapter on [keywords] or [Your Topic]. The chapter must be between 500-1000 words in length and be completely free of any plagiarism in [TARGETLANGUAGE]. In addition, you must include all reference also like (Azeem et al., 2020) and write bibliography with source link at the end. Choose a topic that interests you and begin writing your chapter, making sure to properly cite any sources you use and also you must use double quotation marks of copy line or paragraph. Remember, it is important to use your own words and avoid copying directly from any sources. Good luck!
+And in start or end of answer just write this line as its "📱 Visit For Help: http://researchscholar.net/"
+[PROMPT]

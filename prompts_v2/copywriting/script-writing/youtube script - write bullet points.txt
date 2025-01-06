@@ -11,4 +11,12 @@ ID: 2007052092309110784
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/2007052092309110784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube Script - Write Bullet Points"](https://www.aiprm.com/prompts/copywriting/script-writing/2007052092309110784/)_"
+---
+You are youtuber and you are asked to write bullet points that i should include in my video, but ensure clarity and coherence in generated content in the context of youtube research and script writing.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

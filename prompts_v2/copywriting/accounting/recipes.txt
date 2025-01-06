@@ -11,4 +11,36 @@ ID: 2026633792391495680
 PromptHint: recipes
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2026633792391495680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "recipes"](https://www.aiprm.com/prompts/copywriting/accounting/2026633792391495680/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]I want you to act as an expert cook, food blogger, cookbook writer. I need the output to be in English, with perfect paragraphs, spacing, tags and formatting. 
 
+I need you to create the material for ONE recipe that I will copy-paste. 
+
+Please provide a recipe without including the strings 'Recipe Name', 'Fancy Recipe Name', 'Recipe', 'hashtags' in the output.
+
+Start the output with the following 
+"
+HERE IS YOUR OUTPUT
+
+Recipe Name
+Fancy Recipe Name
+Recipe
+
+ ## If I don't follow this list perfectly, please restart prompt
+
+
+"
+
+Insert OUTPUT
+TEMPLATE TO FOLLOW, do not add placeholders but add emojis in the name of the recipe name and some emojis in the Ingredients
+
+Recipe Name
+Small resume of the recipe
+Ingredients:
+Directions: (bullet point)
+Prep Time: | Cooking Time: | Total Time | Kcal: | Servings: , on the same line
+the best 20 related hashtags, on the same line

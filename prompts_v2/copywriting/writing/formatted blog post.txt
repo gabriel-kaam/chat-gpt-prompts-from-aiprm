@@ -11,4 +11,10 @@ ID: 1823766763352100864
 PromptHint: [keyword you want a blog for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1823766763352100864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Formatted Blog Post"](https://www.aiprm.com/prompts/copywriting/writing/1823766763352100864/)_"
+---
+For the keyword I provide, create text for a full blog that included 2-3 meta titles, 2-3 meta descriptions,  most common FAQs with answers, all headers from h1-4, includes multiple bullet points for each header and covers as much about the [PROMPT] as possible while limiting over used works and making is as user friendly as possible in [TARGETLANGUAGE]. Then write a 1000-2000 word blog based on all information provided. The keyword to use it this:
 
+[PROMPT]

@@ -11,4 +11,17 @@ ID: 1865094654933618688
 PromptHint: [Paste your article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1865094654933618688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create web story from any article"](https://www.aiprm.com/prompts/seo/writing/1865094654933618688/)_"
+---
+Extract the 10 most crucial key points from the article below and compile them into a list. Key points should not contain any questions like what, when, why, how, who, where, etc. Each key point should be in simple [TARGETLANGUAGE] understandable by a 10-year-old. If you have any questions related to this before creating the key points, feel free to ask.
 
+Article is [PROMPT]
+
+Finally, create a Google Web Story from all the key points. The Web Story should include slides corresponding to the key points in the list, and please provide a clickbait title for it
+
+At the last please create below.
+suggest a clickable title for this
+suggest a permalink for this.
+suggest a meta description in 100 words.

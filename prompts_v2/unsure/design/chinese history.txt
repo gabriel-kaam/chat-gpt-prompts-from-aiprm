@@ -11,4 +11,8 @@ ID: 1806565739692560384
 PromptHint: China,Japan,Korean
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1806565739692560384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Chinese history"](https://www.aiprm.com/prompts/unsure/design/1806565739692560384/)_"
+---
+中国历史[TARGETLANGUAGE] [PROMPT]

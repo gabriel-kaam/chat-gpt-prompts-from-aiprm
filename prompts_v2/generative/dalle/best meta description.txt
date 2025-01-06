@@ -11,4 +11,11 @@ ID: 1908098336960413696
 PromptHint: [text that you want meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1908098336960413696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Meta Description "](https://www.aiprm.com/prompts/generative/dalle/1908098336960413696/)_"
+---
+Your task is to summarise the text I give you in 50 words or maximum 150 characters. All output should be in [TARGETLANGUAGE].
+The text to summarize in this:
 
+[PROMPT]

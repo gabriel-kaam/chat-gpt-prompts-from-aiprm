@@ -11,4 +11,8 @@ ID: 1853738281738190848
 PromptHint: [KRYWORD] or [your list of keywords, maximum ca, 8000]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1853738281738190848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keywords Strategy"](https://www.aiprm.com/prompts/seo/keywords/1853738281738190848/)_"
+---
+Promt text including placeholders [TARGETLANGUAGE] [PROMPT], [VARIABLE1] [VARIABLE2] and [VARIABLE3] replaced automagically by AIPRM

@@ -11,4 +11,11 @@ ID: 1795761381904224256
 PromptHint: [ Enter The Disease Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1795761381904224256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Hematology By Dr Mursleen Rajpoot"](https://www.aiprm.com/prompts/copywriting/research/1795761381904224256/)_"
+---
+Write a content for disease with normal and abnormal parameter of given disease according to Hematology standard clinical features and common test as well as special tests with Lab Findings. make a dot points & paragraphs.
+All the content should be in [TARGETLANGUAGE].
+Here is topic for Disease.
+[PROMPT]

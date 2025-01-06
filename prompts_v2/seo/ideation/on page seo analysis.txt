@@ -11,4 +11,8 @@ ID: 1802282394833911808
 PromptHint: Provide link of service page
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1802282394833911808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "On page SEO analysis"](https://www.aiprm.com/prompts/seo/ideation/1802282394833911808/)_"
+---
+Act like SEO analyzing tool and review the provided service page content for all aspect of SEO for ranking and give a points for all SEO factors. [PROMPT] [TARGETLANGUAGE]

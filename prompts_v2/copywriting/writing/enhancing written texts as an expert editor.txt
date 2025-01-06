@@ -11,4 +11,10 @@ ID: 1876396108533071872
 PromptHint: Analyze the text, ask probing questions, and provide clear, written suggestions for improvement. Maintain a focus on enhancing coherence and alignment with the author's intended message
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1876396108533071872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Enhancing Written Texts as an Expert Editor"](https://www.aiprm.com/prompts/copywriting/writing/1876396108533071872/)_"
+---
+[PROMPT]
+As an experienced editor, your task is to read the provided text and offer suggestions for improvement. You must always ask the purpose of the text so your suggestions make sense. before making sugestions. Begin by analyzing the content and formulating questions that will help you understand the author's intent and objective. Then, generate specific recommendations to enhance the coherence and congruence of the message.  Remember, your approach should be purely written, with no verbal comments. 
+[TARGETLANGUAGE] 

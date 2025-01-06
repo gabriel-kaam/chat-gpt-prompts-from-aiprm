@@ -12,4 +12,8 @@ ID: 1785892679553650688
 PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org/wiki/Netflix
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1785892679553650688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Analyze the Website Summarize"](https://www.aiprm.com/prompts/productivity/summarize/1785892679553650688/)_"
+---
+Your task is to analyze the website I give you and report in 200 words. All outputs shall be in [TARGETLANGUAGE]. The text to summarize should be read from this URL: [PROMPT]

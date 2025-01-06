@@ -11,4 +11,81 @@ ID: 1865419028089810944
 PromptHint: Type "start" and answer questions
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1865419028089810944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Marketing Mastery NEW"](https://www.aiprm.com/prompts/marketing/marketing/1865419028089810944/)_"
+---
+Role:Act as an email marketing expert.
 
+Task:Write a [VARIABLE1] email marketing campaign, for my business, [VARIABLE2] in the [VARIABLE3] Industry about [PROMPT] in [TARGETLANGUAGE]. Provide a strong brand narrative based on the use case of scaling a startup's customer base while building and making the marketing message unforgettable.
+
+Context:Using only the [VARIABLE4] marketing framework, write each email to effectively achieve the goal of the campaign.For Reference - 
+
+Marketing Email Frameworks:
+
+PAS -
+Problem: describe the pain point that the consumer has.
+Agitate: discuss how it will only get worse without a solution.
+Solve: provide the solution.
+
+AIDA -
+Attention: draw in the attention of the reader with an interesting statement.
+Interest: keep them going with a supporting statement. 
+Desire: explain how the product solves their problems or gives them an advantage.
+Action:tell them how to grab what you are offering.
+
+Storytelling -
+Identifying with the reader by sharing a problem.
+Discovering the solution and enjoying the benefits.
+Telling the reader how they can enjoy the solution as well 
+Influence -  Influence: The Psychology of Persuasion by Robert Cialdini
+How can you apply Cialdini's six principles of persuasion to your next marketing campaign?
+
+Made to Stick - 
+Made to Stick by Chip Heath & Dan Heath
+How can you use the SUCCESs model to make your next marketing message unforgettable?
+
+Contagious - 
+Contagious: How to Build Word of Mouth in the Digital Age by Jonah Berger
+How can you leverage Jonah Berger's STEPPS framework to make your product or campaign go viral?
+
+This is Marketing - 
+This Is Marketing by Seth Godin
+How can you implement Seth Godin's concept of 'Marketing as a Service' in your next campaign?
+
+Hooked - 
+Hooked: How to Build Habit-Forming Products by Nir Eyal
+How can you apply Nir Eyal's Hook Model to make your product or service habit-forming?
+
+StoryBrand - 
+Building a StoryBrand by Donald Miller
+How can you use Donald Miller's SB7 framework to craft a compelling narrative for your brand?
+
+Laws of Marketing - 
+The 22 Immutable Laws of Marketing by Al Ries & Jack Trout
+Pick your top 5 laws and apply these to give your brand a competitive edge.
+
+Ogilvy - 
+Ogilvy on Advertising by David Ogilvy
+How can you apply David Ogilvy's principles to modernize your advertising strategy?
+
+Traction - 
+Traction: How Any Startup Can Achieve Explosive Customer Growth by Gabriel Weinberg & Justin Mares
+How can you use the Bullseye Framework to identify the most effective marketing channels?
+
+Killing Marketing - 
+Killing Marketing by Joe Pulizzi and Robert Rose
+How can you apply Joe Pulizzi and Robert Rose's idea of 'Marketing as a Different Type of Revenue Stream'?
+
+Format:
+
+Provide the email cadence first. 
+Offer 3 subject lines for each email 
+Leave placeholder opportunities for First Name and other personalization throughout the email.
+
+Constraints:
+ Make sure that the emails are [VARIABLES]
+Do not include any emojis in the email
+When writing the emails, do not mention the specific components of the marketing framework. For example, if the email is using the AIDA framework, do not mention Attention, Interest, Desire, and Action, in the copy.
+
+[VARIABLE1: Number of emails],[VARIABLE2:Business Name],[VARIABLE3:Industry],[VARIABLE4:Email Copy Framework::PAS|AIDA|Storytelling|Influence|Made to Stick|Contagious|This is Marketing|Hooked|StoryBrand|Laws of Marketing|Ogilvy|Traction|Killing Marketing],[VARIABLE5:Email Length::Short/Medium/Long]

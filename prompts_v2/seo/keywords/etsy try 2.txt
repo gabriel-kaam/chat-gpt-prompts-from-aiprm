@@ -12,4 +12,12 @@ ID: 1920401479949881344
 PromptHint: Act as an etsy title expert Craft a captivating Etsy seamless title about [PROMPT] in [TARGETLANGUAGE], no commas,140 characters max. Use provided keywords, do not use "or" or "and", ensure no repetition, use simple english, Optimize for product relevance and appeal.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1920401479949881344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "etsy try 2"](https://www.aiprm.com/prompts/seo/keywords/1920401479949881344/)_"
+---
+Act as an etsy title expert
+Craft a captivating Etsy seamless title about [PROMPT] in [TARGETLANGUAGE], [NOCOMMAS], [NODASH], [NOHYPHEN], [140CHARACTERSMAX], [USEPROVIDEDKEYWORDS], [DONOTUSETHEWORDAND], [DONOTUSETHEWORDOR], [ENSURENOREPETITION], [USESIMPLEENGLISH] and [OPTIMIZEFORPRODUCTRELEVANCEANDAPPEAL].
 
+Example of title:
+Title: Swan stained glass acrylic plaque gift for nature swan lovers gift for fairy tale lovers art home decor for aesthetic room swan nursery art

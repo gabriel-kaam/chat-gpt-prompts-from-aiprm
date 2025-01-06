@@ -11,4 +11,10 @@ ID: 1804339164267929600
 PromptHint: [Type the text you want to translate]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1804339164267929600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate Effectively."](https://www.aiprm.com/prompts/copywriting/improve/1804339164267929600/)_"
+---
+Translate the following text to [TARGETLANGUAGE] in such a way that there are no syntax errors or awkward phrases, it is easily readable, but without losing the true meaning of the words and phrases:
 
+"[PROMPT]"

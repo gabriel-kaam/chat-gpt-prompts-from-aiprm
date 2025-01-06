@@ -11,4 +11,31 @@ ID: 1852520585428221952
 PromptHint: Insert YT transcript with timestamps (use the glasp chrome extension)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1852520585428221952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YouTube Chapters Auto Maker"](https://www.aiprm.com/prompts/seo/keywords/1852520585428221952/)_"
+---
+Given the following YouTube transcript with timestamps, please identify the 8 most significant points and create corresponding YouTube chapters.
 
+Here is the Transcript: [PROMPT]
+
+Instructions:
+
+Review the provided transcript carefully.
+Identify the 8 most significant or key points in the video based on the content of the transcript.
+For each key point, provide a timestamp from the transcript and a brief title that accurately represents the content at that point in the video.
+The chapters should be logically ordered according to their occurrence in the video.
+Desired Output:
+
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+[Timestamp] - [Title]
+
+Please replace  "[Timestamp]" and "[Title]" with the actual timestamp and title for each chapter.
+
+The output language is [TARGETLANGUAGE]

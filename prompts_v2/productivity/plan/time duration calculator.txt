@@ -11,4 +11,8 @@ ID: 1799328040699031552
 PromptHint: [Enter the Time Between to]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1799328040699031552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Time Duration Calculator"](https://www.aiprm.com/prompts/productivity/plan/1799328040699031552/)_"
+---
+How many hours and minutes between [PROMPT] in [TARGETLANGUAGE]

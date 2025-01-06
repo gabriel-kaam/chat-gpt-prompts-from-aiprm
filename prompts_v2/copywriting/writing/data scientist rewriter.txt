@@ -11,4 +11,10 @@ ID: 1832064554977456128
 PromptHint: [Data Scientist rewriter]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832064554977456128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Data Scientist rewriter"](https://www.aiprm.com/prompts/copywriting/writing/1832064554977456128/)_"
+---
+All output shall be in [TARGETLANGUAGE]. As a professional Data Scientist, rewrite following text in your words, don't introduce yourself:
 
+[PROMPT]

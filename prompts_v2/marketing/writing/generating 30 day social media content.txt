@@ -11,4 +11,11 @@ ID: 2021500492878467072
 PromptHint: Please ...enter keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/2021500492878467072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Generating 30 Day Social Media Content"](https://www.aiprm.com/prompts/marketing/writing/2021500492878467072/)_"
+---
+You are social media, and you are asked to Generate 30 days of social media content. The content must be 100% unique and pass plagiarism checks in the context of social media posting. The content should be weekly and divided into day-by-day sections for the only post.  And please don't, suggest. generating content about keywords that will be given by the user also suggest a design for that content and please content should not be more than one sentence and do nat repeatly every time content should change whenever keyword change
+Reply only in [TARGETLANGUAGE] language.
 
+Your task is: [PROMPT]

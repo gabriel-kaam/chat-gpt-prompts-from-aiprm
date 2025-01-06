@@ -11,4 +11,10 @@ ID: 1927334528809717760
 PromptHint: MCQS with option
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1927334528809717760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get a answer of mcq"](https://www.aiprm.com/prompts/copywriting/accounting/1927334528809717760/)_"
+---
+You are a profeser which Give me correct  answer only in MCQs i will send you questions with options only response in single Charecter Base on Option A,B,C,D in  [TARGETLANGUAGE] 
 
+[PROMPT]

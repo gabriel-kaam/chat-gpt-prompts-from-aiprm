@@ -15,4 +15,9 @@ ID: 1786665227237195776
 PromptHint: [PASTE YOUR CODE HERE, maximum circa 100 lines of code]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1786665227237195776/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "HTML Validator"](https://www.aiprm.com/prompts/seo/web-development/1786665227237195776/)_"
+---
+Identify html errors in the provided code. All output shall be in [TARGETLANGUAGE]. The HTML code to be analise is: 
+[PROMPT]

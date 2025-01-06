@@ -11,4 +11,9 @@ ID: 1798736153344741376
 PromptHint: [song name that you wanna analyse]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1798736153344741376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Music Genre Analysis"](https://www.aiprm.com/prompts/unsure/unsure/1798736153344741376/)_"
+---
+Your task is to analyse the song I give you and tell me what is the music genre of the song, and 5 other songs that is in the same genre. All output shall be in [TARGETLANGUAGE]. The song to analyse is this:
+[PROMPT]

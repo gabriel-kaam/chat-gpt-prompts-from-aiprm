@@ -11,4 +11,11 @@ ID: 1791396831910162432
 PromptHint: [Your niche in Text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1791396831910162432/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Keyword Research Pro"](https://www.aiprm.com/prompts/seo/keywords/1791396831910162432/)_"
+---
+Your task is to create list of all possible niche based keywords, group them and mention the intent of each keyword. I give you niche in words. All output shall be in [TARGETLANGUAGE]. The text is this:
+
+[PROMPT]
 

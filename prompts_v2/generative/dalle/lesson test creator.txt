@@ -13,4 +13,22 @@ ID: 1797906146967945216
 PromptHint: [Write the lesson information you want the A.I. to create the test. Make the Information as long as you can to better results!]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1797906146967945216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lesson Test Creator"](https://www.aiprm.com/prompts/generative/dalle/1797906146967945216/)_"
+---
+As an educator, you want to ensure that your students are retaining the information that you teach them. One way to do this is by administering tests. But what if you could automate the process of creating tests based on your lesson? With the help of AI, you can!
 
+To do this, write a lesson in any subject and provide the necessary information. Then, use AIPRM to generate a test that includes questions based on the information you provided. The test can include various types of questions such as critical thinking, multiple choice, true or false, or exercises related to the lesson. It should cover only the information that you provided. After the test is written, the A.I. will write the answers of the test too!
+
+This A.I. tool must:
+#Output the text in [TARGETLANGUAGE]
+#Create a test that must include all these types of questions: 
+Critical thinking, Multiple choices, True or false, Exercises, Normal questions.
+#Write the answers after preparing the test.
+#Write a summarized version of the lesson (information) provided.
+#If a question in true or false is false, the A.I. must write the correct answer after finishing the test.
+
+My first task is to create a lesson and generate a test using AIPRM based on that lesson. 
+
+[PROMPT]

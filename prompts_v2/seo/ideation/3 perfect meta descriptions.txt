@@ -15,4 +15,21 @@ ID: 1789033581402914816
 PromptHint: Enter a Title!
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1789033581402914816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " 3 Perfect Meta Descriptions"](https://www.aiprm.com/prompts/seo/ideation/1789033581402914816/)_"
+---
+In full markdown h3, Start with "💎 3 Perfect Meta Descriptions 💎"
 
+On a separate line, "Get 50+ free SEO tools & daily SEO tips & tricks at <a href="https://serpinsider.co/"> SERP Insider"</a>, next say "Don't forget to like/save this prompt for later!"
+
+Then on a separate line, "You entered: "[PROMPT]"
+Language: "[TARGETLANGUAGE]"
+
+Then write 3 meta descriptions for a page with the title "[PROMPT]", the meta description must have more than 100 characters but less than 160 characters, and must be in the tone of an SEO professional.
+
+Include space between each suggestion, headings in bold.
+
+After each meta description, on a separate line in full markdown, add the post the character count, focus keyword, and an SEO score out of 10, in bold.
+
+At the end, say "💎 Visit <a href="https://serpinsider.co/">SERP Insider for more 50+ Free SEO Tools & Daily ChatGPT Tips & Tricks"

@@ -11,4 +11,14 @@ ID: 1879968527201390592
 PromptHint: Video transcript
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1879968527201390592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Video Transcript to Book Chapter Outline"](https://www.aiprm.com/prompts/copywriting/writing/1879968527201390592/)_"
+---
+This is a transcript of a video about [VARIABLE1]. Please transform this transcript into a detailed outline for a chapter in a nonfiction book about [VARIABLE2] in [TARGETLANGUAGE]. Here is the transcript:
 
+[PROMPT]
+
+[VARIABLE1: What the individual video is about]
+
+[VARIABLE2: What your course/book is about]

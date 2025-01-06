@@ -11,4 +11,8 @@ ID: 1804130417633394688
 PromptHint: Name of your product, and where it can be found.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1804130417633394688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Silly Product Marketing"](https://www.aiprm.com/prompts/marketing/products/1804130417633394688/)_"
+---
+Write a silly or funny product description for [PROMPT] in [TARGETLANGUAGE], and include catchy social media copy for each platform: Facebook, Instagram, Twitter, YouTube, TikTok, Reddit, and LinkedIn.

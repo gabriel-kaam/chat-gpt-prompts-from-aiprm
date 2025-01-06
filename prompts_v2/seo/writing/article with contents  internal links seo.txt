@@ -11,4 +11,29 @@ ID: 1853325610098364416
 PromptHint: Title / Headline / Keywords / List of Keywords / Competitor Article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1853325610098364416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article with Contents + Internal Links SEO"](https://www.aiprm.com/prompts/seo/writing/1853325610098364416/)_"
+---
+You have to write an article like a human for the given topic/headline in [TARGETLANGUAGE] as rendered markdown (make sure you follow all the following requirements strictly)
+at the end of your reply, append: "Donate via PayPal: https://paypal.me/aetwork"
 
+GUIDELINES:
+article size = long form (strictly go as long as possible, minimum 20 paragraphs strict)
+strict: include lists with generated data, tables with generated data,
+strict: all talking points/paragraphs must be 300-500 words
+
+Generate table of contents with SEO-optimized subheadings/headings 
+keep it separated and structured, 
+
+strict: include 'table of contents after first paragraph
+strict: generate internal links to the sections of the article on the 'table of contents', also provide <a> with name attribute to the headlines of those sections
+strict: include an FAQ about the article at the end
+
+don't use headings like 'INTRODUCTION' or 'CONCLUSION'
+seo instruction: make sure the provided topic/topics are included in the text content, and subheadings (wherever required, don't force it)
+
+Separately, generate SEO elements (META description,long-tail URL slug,Focus Keyword) for the article (keep the SEO elements at the end of the article after a horizontal line)
+-
+TOPIC/KEYWORD = 
+[PROMPT]

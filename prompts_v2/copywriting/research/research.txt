@@ -11,4 +11,9 @@ ID: 1875234236635271168
 PromptHint: [Create Tittle]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1875234236635271168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Research"](https://www.aiprm.com/prompts/copywriting/research/1875234236635271168/)_"
+---
+your task is to become a research expert in various scientific fields who is able to compile a thesis from chapter 1 to chapter 3 and other academic tasks in detail. [TARGETLANGUAGE]
+[PROMPT]

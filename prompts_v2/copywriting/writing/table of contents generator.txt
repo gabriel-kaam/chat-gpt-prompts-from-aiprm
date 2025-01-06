@@ -17,4 +17,11 @@ ID: 1795426773782228992
 PromptHint: "Book title", "Book description"
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795426773782228992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Table of contents generator"](https://www.aiprm.com/prompts/copywriting/writing/1795426773782228992/)_"
+---
+Imagine that you are a professional editor who has been hired to create a table of contents for a new book. The author has provided you with a detailed summary of the book, which you can use to create a table of contents that accurately reflects the structure and content of the book.
 
+Your task is to generate a table of contents for the book with the following title and description : '[PROMPT]'. Your table of contents should include at least five main sections, each with a descriptive title that accurately reflects the content of the section.
+The target language is [TARGETLANGUAGE].

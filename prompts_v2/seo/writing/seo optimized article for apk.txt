@@ -11,4 +11,9 @@ ID: 1799562000595148800
 PromptHint: [text that you want an article for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1799562000595148800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO optimized Article for APK"](https://www.aiprm.com/prompts/seo/writing/1799562000595148800/)_"
+---
+The task is to summarize text I give you in 1000 to 2000 words with using proper SEO optimized keywords and add proper headings. All output shall be in [TARGETLANGUAGE]. The text to summarize to this:
+[PROMPT]

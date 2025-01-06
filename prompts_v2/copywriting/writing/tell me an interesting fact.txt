@@ -11,4 +11,8 @@ ID: 1794763438443196416
 PromptHint: Tell me an interesting fact:  Insert your keyword.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794763438443196416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Tell me an Interesting Fact "](https://www.aiprm.com/prompts/copywriting/writing/1794763438443196416/)_"
+---
+Tell me an interesting fact in[TARGETLANGUAGE] about :     [PROMPT]

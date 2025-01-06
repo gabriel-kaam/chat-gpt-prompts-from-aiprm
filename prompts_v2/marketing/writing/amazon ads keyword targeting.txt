@@ -11,4 +11,15 @@ ID: 1837976526525288448
 PromptHint: [text that you want keywords for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1837976526525288448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Amazon Ads Keyword Targeting"](https://www.aiprm.com/prompts/marketing/writing/1837976526525288448/)_"
+---
+Your task is to create a comprehensive list of 35-60  short-tail keywords that customers would likely type into the Amazon search bar to find this item.
+
+All output should be in [TARGETLANGUAGE]
+
+The keywords to extrapolate come from:
+
+[PROMPT]
 

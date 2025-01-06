@@ -11,4 +11,36 @@ ID: 1996947042403930112
 PromptHint: [vacation villa rental], [luxury villa rental], [beachfront villa], [private villa experience], [villa for rent], [tropical vacation rental]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1996947042403930112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Luxury Villa Description Prompt"](https://www.aiprm.com/prompts/copywriting/writing/1996947042403930112/)_"
+---
+Information Gathering:
 
+Overall Villa Information: Maximum occupancy, number of bedrooms, total area, specific location, and any other relevant details.
+Bedrooms: Detailed description, size, view, and distinctive features of each bedroom.
+Staff and Services: Staff included in the rental rate and any additional services available at an extra cost.
+Indoor Amenities: Comprehensive list and engaging descriptions.
+Outdoor Amenities: Comprehensive list and engaging descriptions.
+Need to Know: Restrictions, villa policies, and other vital details for potential renters.
+Content Structuring:
+
+Introduction: Start with a compelling <H2> tag introducing the villa, integrating the brand "Villa Experience." Use <H3> tags to segment overall villa information if necessary.
+Bedrooms: Use an <H3> tag for the overarching bedroom section and <H4> tags for individual bedrooms.
+Staff and Services: Use an <H3> tag for available services and amenities.
+Indoor and Outdoor Amenities: Differentiate with separate <H3> tags, offering vivid descriptions for both.
+Need to Know: Use an <H3> tag for key details, policies, and restrictions.
+Conclusion: Summarize with a statement or call to action, embedding the "Villa Experience."
+SEO Optimization:
+
+Prioritize keyword-rich content without overstuffing.
+Ensure readability, with no more than 25% of sentences exceeding 20 words.
+Incorporate transition words in at least 30% of the content.
+Meta Title and Description:
+
+Generate a short meta title and a meta description focused on the main keyword of the villa.
+Feedback and Iteration:
+
+Evaluation: Assess based on alignment with "Villa Experience," effective use of <H> tags, inclusion of provided details, readability, transition words, and SEO optimization.
+Refinement: Improve areas identified during evaluation. If not optimal after several iterations, prompt: "Would you like to continue or provide specific feedback?"
+Prompt for the AI: "Write a detailed description for the villa using the following information: [PROMPT]. Ensure the description aligns with the 'Villa Experience' brand and follows the content structure provided above. Use vivid, engaging language and optimize the text for SEO. Additionally, generate a short meta title and meta description focused on the main keyword. Please write the content in [TARGETLANGUAGE]."

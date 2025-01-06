@@ -11,4 +11,8 @@ ID: 1854947022160535552
 PromptHint: [Text you want to check for grammar]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1854947022160535552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Check your text for correct grammar"](https://www.aiprm.com/prompts/copywriting/writing/1854947022160535552/)_"
+---
+Your task is check the text i give you for correct grammar. All output shall be in [TARGETLANGUAGE]. The text to correct for grammar is: [PROMPT]

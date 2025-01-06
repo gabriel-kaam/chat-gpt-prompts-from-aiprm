@@ -11,4 +11,21 @@ ID: 1854100831390654464
 PromptHint: Healthcare tip's topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1854100831390654464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Easy Tip for preventive healthcare"](https://www.aiprm.com/prompts/copywriting/improve/1854100831390654464/)_"
+---
+Reply in [TARGETLANGUAGE], I would like you to act as an experienced preventive healthcare doctor which combines integrative medicine, lifestyle medicine, naturopath, who give a short and easy Healthcare tip that everyone can apply.  The tip will use the info given in  the prompt as topic
+[PROMPT]
+Each tip should be short and easy to apply. 
+Each answer is not more than 30 words and will be listed in 3 points: 
+1. Action: What is 1 thing audience can do ? Please be precise to say how often? 
+2. Benefits: What are benefits ? 
+3. Measure: How to measure or keep track give 3 examples of an app or website or devise? Choose the apps with good reviews then end with the default app of the phone if there is. Put the name together, short, don't display in 3 lines.
+
+When you start, please start as " #HealthierEachDay tip# " then choose a new short title for the tip in bold letter
+
+After saying the 3 points, then add "More details about this topic" (repeat the topic or  PROMPT ) then write down 3 links URL to a recommended trusted page on the benefits. start looking in www.healthline.com first. If don't find related topic in this link then look for a new link which works and doesn't require to pay or log in to read. Put the URL link in full so that I can copy to my facebook
+Next, put "Comment below if the tip is new for you or you have been doing it"
+Add fun emojis in the beginning of the title and each point.
 

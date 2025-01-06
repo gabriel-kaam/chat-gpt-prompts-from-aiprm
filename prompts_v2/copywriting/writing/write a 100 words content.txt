@@ -11,4 +11,12 @@ ID: 1875040442379796480
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1875040442379796480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write A 100 Words Content"](https://www.aiprm.com/prompts/copywriting/writing/1875040442379796480/)_"
+---
+You are content writer and you are asked to write a 100 words content with title on this [KEYWORD], but make it sound human and don't use complex english in the context of helping users through suggesting them business that helps in fulfilling their needs. Use exact keyword
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

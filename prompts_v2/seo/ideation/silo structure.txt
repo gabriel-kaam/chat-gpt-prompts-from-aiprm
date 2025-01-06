@@ -11,4 +11,8 @@ ID: 1783094852561670144
 PromptHint: e. g. Portable Generator or Garage Door Repair
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SILO Structure"](https://www.aiprm.com/prompts/seo/ideation/1783094852561670144/)_"
+---
+Create a detailed SILO structure for an website using the keyword: [PROMPT]. The sections and categories should be organized in a hierarchical structure, with the Home page at the top and the more specific pages at the bottom. Use the knowledge of how to make the best structure in terms of linking and SEO to get to the top positions in Google. All output should be in [TARGETLANGUAGE].

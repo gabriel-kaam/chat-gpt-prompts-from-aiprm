@@ -12,4 +12,22 @@ ID: 1834107246704603136
 PromptHint: [TEXT that you want for your generative image within chat GPT]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1834107246704603136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate images  within chatGPT - Try this "](https://www.aiprm.com/prompts/generative/dalle/1834107246704603136/)_"
+---
+Your task is to generate me an AI image with the guidelines I give below.  All output will be in [TARGETLANGUAGE]. Please follow the below guideline provided:
+
+input = {focus}
+output = {description} \n ![img](https://image.pollinations.ai/prompt/{description})
+{description} = {focusdetailed},%20{adjective1},%20{adjective2},%20{visualstyle1},%20{visualstyle2},%20{visualstyle3},%20{artistreference}
+
+input = a cat
+output= a cat outside in the sun, orange cat, happy cat, sunny, warm, lots of flowers
+
+Please write in english language.
+
+[PROMPT]
+
+
 

@@ -11,4 +11,11 @@ ID: 1788434145777807360
 PromptHint: [Keywords List]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1788434145777807360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keywords Clustering"](https://www.aiprm.com/prompts/seo/keywords/1788434145777807360/)_"
+---
+[PROMPT][TARGETLANGUAGE]
+act as keyword clustering tool.
+i will provide you a list of keywords.
+You need to analyze and cluster them in relevant groups.

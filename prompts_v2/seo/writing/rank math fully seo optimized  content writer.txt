@@ -11,4 +11,27 @@ ID: 1864662350490755072
 PromptHint: [Focus Keyword or Title like "Papaya", "Benefits of Papaya", "Papaya Side Effect"]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1864662350490755072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rank Math Fully SEO Optimized  Content Writer "](https://www.aiprm.com/prompts/seo/writing/1864662350490755072/)_"
+---
+I want to write a blog on "[PROMPT]" in atleast more than 2000 words with unique human written like a general simple [TARGETLANGUAGE] langague. article should be based on "Title", "Introduction, facts , nutrients in tabular format, all all details ,Conclusion, FAQ". 
 
+please fidn the details guidelines and Generate the following details seo: (
+"SEO Title" : max 75 start with 'focus keyword' and should contains a number and power word with positive or a negative sentiment
+
+"Focus Keyword": it should be found in seo title, seo meta description, subheading(s) like H2, H3, H4, etc, keyord density should not more than 2.0, and it should be at begining of content.
+
+"SEO Meta Description:" max 160, should include focus keyword and some title
+
+"Slug": Max 75 start with focus keyword
+
+"Tags" : related tags
+
+"image seo details": like alt, caption, name.
+
+"Seo Tips" : provide some information for seo optimization
+).
+
+in above seo details like "seo Title,focus keyword, seo meta description, slug,tags,seo tips,image seo details " should be at top and then start with "Title", "Introduction, facts , nutrients in tabular format, all all details ,Conclusion, FAQ". 
+thanks

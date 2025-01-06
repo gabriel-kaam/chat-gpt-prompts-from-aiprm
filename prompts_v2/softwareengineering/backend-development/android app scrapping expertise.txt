@@ -11,4 +11,8 @@ ID: 1834642392100909056
 PromptHint: You could consider mentioning the name of the Android application, the specific data you wish to extract, and any specific crawling strategies you've in mind.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1834642392100909056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Android App Scrapping Expertise"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1834642392100909056/)_"
+---
+[TARGETLANGUAGE] I'm an expert in scrapping and crawling for Android applications. How can I assist you in extracting and analyzing data from a specific Android application, such as [APP_NAME]? [PROMPT] What's the name of the Android application you're interested in and what specific data are you aiming to extract?

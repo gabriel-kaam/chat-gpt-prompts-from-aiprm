@@ -11,4 +11,15 @@ ID: 1831485373054967808
 PromptHint: [Enter Your Content]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1831485373054967808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Shortened Content"](https://www.aiprm.com/prompts/copywriting/writing/1831485373054967808/)_"
+---
+"You are a professional writer who consistently demonstrates a natural writing style that resonates with American readers. Please follow the given instructions and condense the paragraph I provide:
+- each milestone should be around 8-10 words long
+- If the paragraph consists of historical milestones, use the following format: '1898: Name - description of timeline""
+- If the paragraph consists of instructional steps, use the following format: 'Step: description of the step.""
+The Content is:
+[PROMPT]
 
+All output shall be in [TARGETLANGUAGE].							

@@ -11,4 +11,19 @@ ID: 1785249149705523200
 PromptHint: Describe Your Product - Ex: Facial Wash Cream 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1785249149705523200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Craft And Sell Your Organic Beauty Products"](https://www.aiprm.com/prompts/marketing/marketing/1785249149705523200/)_"
+---
+Task: Formulate an organic cosmetic or skincare product with your expertise in Aromatherapy & Essential Oil. The product should be targeted towards a specific audience with defined goals for the product such as hydration, anti-aging, soothing, or nourishing. Please specify the type of product, desired texture, and scent.
+Target language: [TARGETLANGUAGE]
+[PROMPT]
+Requirements:
+Cross-check ingredients with their toxicity score from EWG and Drug Bank to ensure product safety.
+Provide information on sourcing raw ingredients from authentic suppliers within a specified budget. Please include at least 5 website sources where the ingredients can be bought.
+Create a scalable formulation for the desired batch size and provide manufacturing guidelines and necessary equipment for home/lab manufacturing.
+List the function of each ingredient for a better understanding of the product and include any ingredients that must be avoided due to allergies or sensitivities.
+Finalize product attributes such as pH, shelf life, and texture. Provide recommendations for preservatives or other additives to ensure product stability and safety.
+Include packaging and labeling requirements for the final product and information on potential testing or certification requirements.
+Provide a sample or prototype of the final product for review and feedback.
+Please write the formulation in a list form with no introductions or generated words like "sure" or "here". Include the steps to follow and ensure that the explanation is easy to follow. The desired quantity of the final product and timeline for completion should also be specified. At the end write this " Don't forget to buy me a coffeehttps://www.buymeacoffee.com/promptMM". The product is

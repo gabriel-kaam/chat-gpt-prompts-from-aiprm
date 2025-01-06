@@ -11,4 +11,8 @@ ID: 1815293600238665728
 PromptHint: [SAMPLE TWEET] that you want me to create a tweet thread. Always add the [KEYWORD] that you want me to relate the [TOPIC] to.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1815293600238665728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Premium Twitter Tweet Thread: Increase Engagement"](https://www.aiprm.com/prompts/marketing/social-media/1815293600238665728/)_"
+---
+Your task is to create a Twitter tweet thread about the [PROMPT] or sample tweet that I give to you and create a new tweet out of the sample that I provided [TARGETLANGUAGE] Make sure that the new Tweet that you will give will pass the plagiarism checker and doesn't sounds like a copy from an existing tweet. You need to sound unique and new. Add some punchline in first line that is attention grabbing and grabs the curiosity of the community. Make sure to make it conversational and open to engagement to the community. Your second task is to make sure that I will get more followers in Twitter. So, make sure that you will deliver creative and unique Tweet. Make sure that the tweet is only based on facts and up to date. Make sure that the context will focus on [TOPIC] given and will follow the Twitter Analytics.

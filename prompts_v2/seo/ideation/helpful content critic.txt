@@ -11,4 +11,20 @@ ID: 1936192452034301952
 PromptHint: [article url]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1936192452034301952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Helpful Content Critic"](https://www.aiprm.com/prompts/seo/ideation/1936192452034301952/)_"
+---
+I will give you an Article link, and I need to analyse and metric (from 1 to 10) overall content from SEO's predictive and Google's Guidelines. Then, based on the analysis, I need a suggestion on how to scale and improve content.
 
+make headlines this H2s with rate
+1.  Expertise and Authoritativeness
+2.  Content Depth and Originality
+3.  engagement and Value
+4.  Relevance and Clarity
+5.  Visual and Structural Appeal
+6.  User Focus vs. Search Engine Focus
+
+Then give me a suggestion for each headline
+
+[TARGETLANGUAGE] [PROMPT]

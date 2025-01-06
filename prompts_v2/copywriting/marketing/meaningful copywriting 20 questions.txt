@@ -11,4 +11,10 @@ ID: 1894215617423884288
 PromptHint: [type of] business, customers, audience...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1894215617423884288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meaningful Copywriting 20 Questions"](https://www.aiprm.com/prompts/copywriting/marketing/1894215617423884288/)_"
+---
+In a minute I'm going to ask you to write some copy for my business. This will include blog content, Instagram posts, and sales emails all in [TARGETLANGUAGE]. Before we begin, I want you to fully understand my customers.
 
+Ask me at least 20 questions in [TARGETLANGUAGE] about my [PROMPT] business, customers, audience and anything else you need in order to complete the tasks to the best of your ability.

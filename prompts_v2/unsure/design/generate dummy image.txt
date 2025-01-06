@@ -12,4 +12,43 @@ ID: 1790453768064856064
 PromptHint: [1600, 500, header image, black, white] or just [Height, Width] in Pixel
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1790453768064856064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Generate dummy image"](https://www.aiprm.com/prompts/unsure/design/1790453768064856064/)_"
+---
+Respond in [TARGETLANGUAGE]
+Here is a sample image URL with various parameters. 
+https://dummyimage.com/1000x400/616161/f2f2f2.png&text=A+dummy+image+(1000x400)
 
+where
+1000x400 is width x height
+616161 is background colour
+f2f2f2 is foreground colour
+'A dummy image 1000x400' is text
+
+
+Here is another URL with different parameters
+
+https://dummyimage.com/600x400/0037ff/ffffff.png&text=Sample+image
+
+I will provide the parameters in following format
+[Width, Height, Text, Background Colour, Foreground colour ]
+
+If I do not provide any parameter, use the following defaults
+Background Colour: 616161
+Foreground Colour: f2f2f2
+Text: A dummy image (Size)
+
+If provide colour names, convert them to HEX code and then use them to create URL.
+
+Generate the image URL based on my parameters.
+Use markdown to show preview the image. Below that use markdown to add a hyperlink to the image URL and keep the link text "Open image in new tab". 
+
+Here is a sample URL with download attribute
+[Open Image in new tab](https://dummyimage.com/600x400/0037ff/ffffff.png&text=Sample+image)
+
+Do not provide any explanation, just provide the output as I have asked.
+
+(Do not show the markdown code, instead just show me the preview.)
+
+Here are the parameters [PROMPT]

@@ -11,4 +11,13 @@ ID: 1802689258402873344
 PromptHint: [your product with unique USP or category name] in [market] from  [brand]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1802689258402873344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Elevate Your Ecommerce SEO with Meta Tags"](https://www.aiprm.com/prompts/seo/writing/1802689258402873344/)_"
+---
+Buyer intent SEO title tag generator, the output to be in [TARGETLANGUAGE]
+
+Generate 20 SEO title tags and meta descriptions using [PROMPT]  with max of 65 characters that reflects the transactional intent for e-commerce websites with proper call to actions and popular terms for e-commerce. try to  include all inserted [PROMPT] in the same title tag and same meta description + consider using the following words: buy, shop, online, affordable price, for sale, best, free delivery, specs, "in" + [market] mentioned in [PROMPT], "from" + [brand] mentioned in [PROMPT] Also, generate 20 meta description with a max of 155 characters using a mix of the mentioned words mixed with [PROMPT]. 
+The output should be in a table of title tag and meta descriptions against them.
+
 

@@ -11,4 +11,21 @@ ID: 1802672152378609664
 PromptHint: [sip]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802672152378609664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Linkedin Post generator for Fintech"](https://www.aiprm.com/prompts/marketing/social-media/1802672152378609664/)_"
+---
+Act like a Social Media marketing expert. You have expertise in crafting Social Media Posts for Instagram
 
+Add a heading "Linkedin Carousel content"
+
+Write one "Investment Best Practices" style post for [PROMPT] to be posted on Linkedin page of a Fintech Startup . The post should mention details of [PROMPT]. The post should contain multiple pages in a Carousel format. Generate 3-5 pages. Each page should have a title and 3-5 bullet points
+
+
+Now add a heading "Linkedin Post desciption"
+Now For the generated post, write an Linkdin post description in just a few sentences. Format every new sentence with new lines so the text is more readable.
+Include emojis and the best Linkedin hashtags for that post. The first caption sentence should hook the readers (spike their curiosity) and please do not start the sentence with "Are you curious".
+
+Stick to the proposed word limits. Ban generic ideas. Ban introduction: jump right into the core of the content. 
+
+[TARGETLANGUAGE] English

@@ -11,4 +11,10 @@ ID: 1793601329441275904
 PromptHint: Insert Your Article
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793601329441275904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article checker"](https://www.aiprm.com/prompts/copywriting/writing/1793601329441275904/)_"
+---
+i want this article in usa native tone. Check the following article. check if there is any incorrect information, grammer error and other error as a proof reader or content editor/reviewer. check is there any wrong info or statistic or anything that is not correct. and give me a list in numaric order. language is [TARGETLANGUAGE]. give me the list of correction needed. don't correct me the full article. just give me a list.
+here is the article:
+[PROMPT]

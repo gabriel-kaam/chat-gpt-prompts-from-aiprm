@@ -11,4 +11,8 @@ ID: 1794376914773995520
 PromptHint: Enter your code
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1794376914773995520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate text within code elements"](https://www.aiprm.com/prompts/seo/writing/1794376914773995520/)_"
+---
+Please translate the text to [TARGETLANGUAGE] but do not change the code elemtents. I just want you to translate the text. Here is the code: [PROMPT]

@@ -11,4 +11,11 @@ ID: 1865350629204680704
 PromptHint: [Product Name], [Category]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1865350629204680704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta title and description for Product"](https://www.aiprm.com/prompts/seo/writing/1865350629204680704/)_"
+---
+[PROMPT] Generate a meta title for a [product name] in the [product category] category.
+[PROMPT] Create a meta description for a [product name] in the [product category] category.[TARGETLANGUAGE]
 
+Meta title should be 50 characters and Meta Description should be 150 characters

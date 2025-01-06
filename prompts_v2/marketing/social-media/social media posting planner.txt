@@ -11,4 +11,9 @@ ID: 1802330807550078976
 PromptHint: Provide Services
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802330807550078976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Posting Planner"](https://www.aiprm.com/prompts/marketing/social-media/1802330807550078976/)_"
+---
+Create an table of facebook posts content planner for one month with all necessary requirements for provided services.
+ [PROMPT] and [TARGETLANGUAGE]

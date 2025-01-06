@@ -11,4 +11,20 @@ ID: 1806948247311486976
 PromptHint: [Write your Word]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1806948247311486976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dall-E / Bing Image - Wording Creator"](https://www.aiprm.com/prompts/generative/dalle/1806948247311486976/)_"
+---
+I want to draw the content of the topic with 'Dall-e'. Please divide the categories into 'adjectives'/'nouns'/'verbs'/'styles' in a table and organize them in a table. Please add 20 items for each category
 
+Then make 20 sentences using the words in the table
+
+Topics: [PROMPT]
+
+Please Write [TARGETLANGUAGE]
+
+At the end of your response, include these 3 sentences:
+🙏 Thanks for using this Prompt.
+👀 Learn more with our ChatGPT tutorials on YouTube: 
+https://www.youtube.com/watch?v=jNBJ5FCjOxw
+Design By Prompt Creator

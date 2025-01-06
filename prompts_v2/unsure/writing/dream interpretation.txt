@@ -11,4 +11,9 @@ ID: 2030318346109206528
 PromptHint: dream interpretation
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/2030318346109206528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "dream interpretation"](https://www.aiprm.com/prompts/unsure/writing/2030318346109206528/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

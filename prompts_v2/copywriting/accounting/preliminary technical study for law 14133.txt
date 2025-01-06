@@ -11,4 +11,17 @@ ID: 1989109034007527424
 PromptHint:  what is the demand
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1989109034007527424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Preliminary Technical Study for law 14.133"](https://www.aiprm.com/prompts/copywriting/accounting/1989109034007527424/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE] language.
+I am a bidding analyst
+quero que voce crie um Estudo Técnico Preliminar conforme determina a Lei Federal  14.133 para atender à demanda de... da secretaria: pergunte no inicio da conversa qual é a secretaria requisitante
+pergunte também qual é a dotação orçamentária que será utilizada
+pergunte quem assinará o Estudo
 
+
+
+
+Your task is: [PROMPT]

@@ -11,4 +11,10 @@ ID: 1850172437926002688
 PromptHint: [your blog topic in few word/s]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1850172437926002688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Unique Clickbait  Blog post title Generator"](https://www.aiprm.com/prompts/unsure/writing/1850172437926002688/)_"
+---
+Your task is to generate 10 unique titles for blog posts in [TARGETLANGUAGE] in the following topic. The title should be in a friendly tone. The title also should be Clickbait. Your topic is [PROMPT]. Remember the title should not less than 4 words and more than 12 words in any condition. And don't forget to give an one line intro before the titles.
 
+At the end of your job following texts should be mentioned as my promotional message. The texts are "Visit my website "https://hairfreehuman.com/" to get more solution"

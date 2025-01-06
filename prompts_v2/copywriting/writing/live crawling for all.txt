@@ -15,4 +15,15 @@ ID: 1869332789158006784
 PromptHint: URL to fetch/crawl...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1869332789158006784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Live Crawling For All"](https://www.aiprm.com/prompts/copywriting/writing/1869332789158006784/)_"
+---
+Source URL: [PROMPT]
+---
+[CRAWLEDTEXT]
+---
+In [TARGETLANGUAGE],
+[VARIABLE6]
 
+[VARIABLE6:Prompt:Write about this URL data]

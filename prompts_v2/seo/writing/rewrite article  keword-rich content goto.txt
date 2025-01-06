@@ -11,4 +11,8 @@ ID: 1799787614799388672
 PromptHint: Rewrite Article | Article Rewriter Tool Free
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1799787614799388672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Article | Keword-Rich Content Goto."](https://www.aiprm.com/prompts/seo/writing/1799787614799388672/)_"
+---
+[TARGETLANGUAGE] [PROMPT]

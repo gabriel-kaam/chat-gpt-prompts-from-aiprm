@@ -11,4 +11,8 @@ ID: 1806708451632742400
 PromptHint: Paste your text here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806708451632742400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Corrections and enhancements"](https://www.aiprm.com/prompts/copywriting/writing/1806708451632742400/)_"
+---
+J'aimerais que vous agissiez en tant que correcteur et améliorateur d'orthographe en [TARGETLANGUAGE] Répondez dans la version corrigée et améliorée de mon texte dans la langue [TARGETLANGUAGE]. Je veux que vous remplaciez mes mots et mes phrases simplifiés par des mots et des phrases mieux formulés. Gardez le même sens mais rendez-le plus littéraire. Je vous demande de répondre uniquement aux corrections, aux améliorations, rien d'autre, n'écrivez pas d'explications. Ma première phrase : " [PROMPT] "

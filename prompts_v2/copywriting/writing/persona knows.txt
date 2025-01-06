@@ -11,4 +11,9 @@ ID: 1990545937616916480
 PromptHint: What does this person, expert or animal know?
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1990545937616916480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Persona Knows"](https://www.aiprm.com/prompts/copywriting/writing/1990545937616916480/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT] Persona (as a type of person, animal, (animism -plants, other objects) or expert in a specified field)

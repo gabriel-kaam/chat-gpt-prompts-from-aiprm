@@ -11,4 +11,9 @@ ID: 1786124543782551552
 PromptHint: [Enter entire body of content - 1 single blog post]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/1786124543782551552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create CTA Summary Paragraphs for Your Content!"](https://www.aiprm.com/prompts/copywriting/call-to-action/1786124543782551552/)_"
+---
+Create a summary paragraph of the following content that I will tell you about. Provide a call-to-action that is inspiring, hopeful, and based on the content I will tell you about. Do not repeat verbatim all of the main points from the content. Try to incorporate a sense of playful humor, but make the humor sound natural and connected to the content I will tell you about. Please make sure to respond in [TARGETLANGUAGE] The content for you to write a summary paragraph of is the following: [PROMPT]
 

@@ -11,4 +11,35 @@ ID: 2013590614616850432
 PromptHint: Use this prompt to craft a complete Amazon product listing, including a keyword-rich title, persuasive product description, and feature-packed bullet points. Perfect for boosting product visibility and engaging potential buyers.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/2013590614616850432/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon product listing"](https://www.aiprm.com/prompts/seo/products/2013590614616850432/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing
+Lines starting with # are only comments for humans.
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon Unique Listing - Keywords, Title, Bullets and Description "](https://www.aiprm.com/prompts/copywriting/marketing)_"
+---
+I want you to act as an expert in creating Amazon product listings. Follow these steps to create a high-converting product page:
+
+1. **Product Title**: Generate a product title between 150-200 characters that accurately reflects the product’s benefits. Include 5 relevant keywords that will help attract potential buyers.
+
+2. **Short Product Description**: Write a concise product description of **no more than 150 words**. The description should focus on:
+   - Key features and benefits of the product
+   - Why it’s a must-have for customers
+   - Use SEO-friendly language
+
+3. **Bullet Points**: Create 7 bullet points with a maximum of 600 characters each. Start each bullet with two or three capitalized words, highlighting the product's unique features and benefits. Each bullet point should include relevant keywords.
+
+4. **SEO Keywords**: Provide a numbered list of 25 SEO keywords that are relevant to the product, ensuring it ranks well on search results.
+
+# Example Information to Use:
+- Product Name: [Insert Product Name]
+- Ingredients/Materials: [Insert Main Ingredients/Materials]
+- Key Benefits: [Insert Key Benefits]
+- Usage: [Insert Typical Use Case]
+- Target Audience: [Insert Target Audience]
+- Additional Features: [Insert Additional Features]
+
+Ensure the description is brief yet engaging, focusing on key selling points and how the product solves the buyer’s needs. Use persuasive and emotional language to encourage purchases.
 

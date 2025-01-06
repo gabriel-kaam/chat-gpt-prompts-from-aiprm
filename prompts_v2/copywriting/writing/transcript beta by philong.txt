@@ -11,4 +11,8 @@ ID: 1837387047842357248
 PromptHint: [ Transcript or keywords ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1837387047842357248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "transcript beta by PhiLong"](https://www.aiprm.com/prompts/copywriting/writing/1837387047842357248/)_"
+---
+Convert YouTube transcript to article blogpost, write important information in detail, optimize article to rank on Search Engine Results Page (SERP), write in informative style. Please bold the title tags of the post. Please write in [TARGETLANGUAGE].  [PROMPT]

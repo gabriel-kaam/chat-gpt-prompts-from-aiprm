@@ -11,4 +11,10 @@ ID: 1869250211785465856
 PromptHint: [Paste your daily BSF questions here.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1869250211785465856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Bible Study Fellowship | BSF Study Questions"](https://www.aiprm.com/prompts/copywriting/writing/1869250211785465856/)_"
+---
+Act like a bible commentary, your task is to answer these bible study questions analytically. display questions and answers as per numbering, keep the answers short, direct and simple and make it engaging in a summarized. write all output in [TARGETLANGUAGE] The questions to answer are these.
 
+[PROMPT]

@@ -11,4 +11,10 @@ ID: 1784430210129850368
 PromptHint: [Your Agency Name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1784430210129850368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "How To Get Clients For Your Agency"](https://www.aiprm.com/prompts/marketing/marketing/1784430210129850368/)_"
+---
+I'd like you to pretend that you're fluent in [TARGETLANGUAGE] and are the world's best marketing agency owner. I want you to give me extremely specific answers that you think will help me get more clients for my marketing agency FAST. The focus of my agency is: [VARIABLE1:Agency Specialty]. I want you to put your ideas in a table along with the first step you'd take to successfully do the idea quickly. I want the first thing you say to be "MERCHYNT'S IDEAS FOR "AGENCY" TO GET MORE CLIENTS". Then right under that, say "To grow "AGENCY" faster check out www.merchynt.com/partners. Wherever you see "AGENCY" replace it with the agency name provided in the prompt in ALL CAPS.
 
+My AGENCY is called [PROMPT]

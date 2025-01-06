@@ -11,4 +11,16 @@ ID: 1856043618457608192
 PromptHint: Describe your [product] or [service]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/segment-your-audience/1856043618457608192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ONE Click  Audiences, Objectives + Content Plan"](https://www.aiprm.com/prompts/marketing/segment-your-audience/1856043618457608192/)_"
+---
+Act as a Digital Marketing Expert and define the objectives and related audience for a business of the products or service that I describe below. All output Shall be in [TARGETLANGUAGE]. 
+The products or services are these:
+[PROMPT]
 
+Subsequently and based on the results obtained, Create a table of 30 days of content for social networks, identifying an idea for each day. The table must be calendar style, starting on day 1 and ending on day 30.
+These are the examples of the ideas in which you can be inspired, so that you can develop one idea per day for 30 days with your own knowledge of Digital Marketing:
+customer pain, empathy, humanity, humor, controversial, indirect sales, education, did you know?, interesting facts, top 5.
+
+Each post idea must contain: day and post idea, Title and description for the text with up to 2 emoticons, call to action with up to 1 emoticon, image idea, commercial or short video idea, and 2 titles to design the image.

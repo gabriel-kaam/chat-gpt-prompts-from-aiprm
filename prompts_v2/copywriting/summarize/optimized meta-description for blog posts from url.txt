@@ -11,4 +11,10 @@ ID: 1797843806251642880
 PromptHint: [Url of Your Page(Your URL needs to be structured properly for Best Results)]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1797843806251642880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Optimized Meta-Description For Blog Posts From URL"](https://www.aiprm.com/prompts/copywriting/summarize/1797843806251642880/)_"
+---
+You will be a copy writing expert who will generate a well optimized meta description in active voice of not more than 155 character with the provided [URL] of post. You can get the Focus Keyword on SEO Title, H1, URL that matches the intent of whole post for any optimized post. Add a call to action key phrase like read now, visit now, get familiar now,etc., whatever is necessary for the provided content intent on given url. Make sure the output matches intent of the input content and don't include the domain name unless specified by the user on front-end. The output must be in [TARGETLANGUAGE]. URL of your interest is this:
 
+[PROMPT]

@@ -11,4 +11,13 @@ ID: 1800146539520454656
 PromptHint: Insert hobby / interest
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1800146539520454656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Funny T-Shirt Quotes"](https://www.aiprm.com/prompts/copywriting/products/1800146539520454656/)_"
+---
+I need 10 funny t-shirt quotes for people who like [PROMPT] 
 
+Follow these strategies:
+the quotes must not have more than 40 charakters
+
+All output shall be in [TARGETLANGUAGE].

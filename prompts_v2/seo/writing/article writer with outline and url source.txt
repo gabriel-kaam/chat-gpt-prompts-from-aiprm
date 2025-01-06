@@ -11,4 +11,24 @@ ID: 1865372915596918784
 PromptHint: Paste your outline here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1865372915596918784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Writer With Outline and URL Source"](https://www.aiprm.com/prompts/seo/writing/1865372915596918784/)_"
+---
+•	I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE].
+• Get Data from [VARIABLE2] for your resource.
+• For beginning, Please avoid using the phrase 'In today's digital age' or any other sentences that convey the same meaning about the modern era of digital technology .
+•	The headings should using Markdown language Format.
+•	Write a 2000-word 100% Unique, SEO-optimized, Human-Written article in [TARGETLANGUAGE].
+• Please note that avoid multiple H1 tag.
+•	Write the article in your own words, avoiding copying from other sources.
+•	Maintain high perplexity and burstiness in the content while retaining specificity and context.
+•	Use detailed paragraphs to engage the reader.
+•	Write in a conversational style with an formal tone, personal pronouns, simplicity, engagement, active voice, brevity, rhetorical questions, and analogies/metaphors.
+•	Conclude the article and include 5 unique FAQs after the conclusion.
+At the end I want you to write an eye-catchy meta description for a blog post with the keyword “[VARIABLE1]”. IMPORTANT !  The length meta description is 155 characters . All output shall be in English. Mentioned the characters at the end of the meta description. Do not make any mistakes. Ensure the meta title is 60 characters maximum. Ensure the meta description is 155 characters maximum. Please do not use simple words in meta descriptions such as read now, discover, learn, explore. Use fancy words. Generate an eye-catching title and description. 6. Please be natural, write like a human. also suggest me simple slug for permalink.
+• The title is "[VARIABLE1] and the outline and brief is [PROMPT]
+
+[VARIABLE1:JUDUL]
+[VARIABLE2:URL Sumber]
 

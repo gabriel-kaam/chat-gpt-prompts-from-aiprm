@@ -11,4 +11,8 @@ ID: 1847155864550236160
 PromptHint: Enter Post Title or Complete Post Here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1847155864550236160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comment Generation and Engagement"](https://www.aiprm.com/prompts/marketing/writing/1847155864550236160/)_"
+---
+Imagine you’re writing a comment in response to a post or topic. Generate a concise and professional 10-20 word comment that relates to the post . Additionally, include an engaging question at the end that is relevant to the topic of the [PROMPT]. Write in [TARGETLANGUAGE]

@@ -11,4 +11,8 @@ ID: 1782918505876951040
 PromptHint: The question or comments
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1782918505876951040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Engagement Reply"](https://www.aiprm.com/prompts/marketing/social-media/1782918505876951040/)_"
+---
+Write a reply to this tweet [PROMPT] that'll show our support in [TARGETLANGUAGE].

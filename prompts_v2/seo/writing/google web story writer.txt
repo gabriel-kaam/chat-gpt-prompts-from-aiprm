@@ -11,4 +11,10 @@ ID: 1796494785293582336
 PromptHint: [Paste the Article URL]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796494785293582336/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Web Story Writer"](https://www.aiprm.com/prompts/seo/writing/1796494785293582336/)_"
+---
+Take Link of an Article from the user as input. After that, analyze the article and give 10 descriptions along with a suitable title, every description should be within 200-250 characters, this 10 descriptions should give the overall summary of the Article, should be easily readable, should be seo friendly, Should be ideal for creating a Google Web Story.[TARGETLANGUAGE]
 
+[PROMPT]

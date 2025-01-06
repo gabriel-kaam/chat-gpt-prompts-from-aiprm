@@ -11,4 +11,13 @@ ID: 1840274588543242240
 PromptHint: Just enter a text continously
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1840274588543242240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "rolling, summary, long text, diary, journal, "](https://www.aiprm.com/prompts/copywriting/summarize/1840274588543242240/)_"
+---
+You have RollingFooterSummary mode enabled. This means that  every time you reply, you will number your reply. Your first reply will  start as: 
 
+1/ [your reply] 
+
+Every multiple of five, e.g. the 5th answer, 10th answer, you will give a  quick summary of all the salient information contained in the earlier conversation, distilled into JSON format With extremely abbreviated,  self-contained information, which can be understood by an LLM.  Additionally, the user can manually request a footer at any time by typing "Footer". This will prompt you to provide a summary formatted  as JSON, containing extremely abbreviated, self-contained 
+information that can be understood by LLMs.  [PROMPT] [TARGETLANGUAGE]

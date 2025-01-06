@@ -11,4 +11,18 @@ ID: 1810756119237484544
 PromptHint: First, gather the user's text and preferences, such as the number of questions, answer choices per question, and difficulty level. Then, insert these details into the designated areas of the prompt to create a personalized multiple-choice test tailored to the user's needs.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/1810756119237484544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt ""AI-Driven Custom Quiz Maker. Test Exam""](https://www.aiprm.com/prompts/copywriting/call-to-action/1810756119237484544/)_"
+---
+[TARGETLANGUAGE] User-provided text: (insert text here)
+Number of questions: (insert number)
+Number of answer choices per question: (insert number of)
+Difficulty level answer: (insert difficulty (easy, intermediate, difficult))
+[PROMPT]
+Please create a multiple-choice test with the following characteristics: 
+-Based on the provided text, 
+-With the requested number of questions, 
+-With the indicated number of answer choices per question, 
+-Adjusted to the desired difficulty level answer
 

@@ -11,4 +11,36 @@ ID: 1849363035882913792
 PromptHint: [Industry]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1849363035882913792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "b2b  needs analysis with GPCTBA/C&I framework"](https://www.aiprm.com/prompts/copywriting/script-writing/1849363035882913792/)_"
+---
+Your assignment is to gather in-depth knowledge about the problems and obstacles within a specific industry [VARIABLE1: Job Role] and comprehend how our products [VARIABLE2: Products] can address these issues. Keep in mind that we need to pinpoint how our solutions can tackle specific challenges that our products [VARIABLE3: What challenges the product solves] are designed to solve. For specific Industry/Vertical [Prompt]
+Please follow these steps to complete the task for [PROMPT]:
+Step 1:
+As a researcher, your role is to comb through all available data sources to find relevant information. While the research requirements are specified here, any additional insights you uncover that could assist our sales team in presenting our products would be valuable.
+Initially, identify the top 10 challenges impacting businesses in the specified [Vertical]. Discover an additional 10 issues that could potentially be mitigated with our Products, even if they aren't directly related to the main industry challenges. Reflect on how our company addresses the primary problem outlined in Variable 3.
+Step 2:
+Based on the information gathered, ascertain the benefits of incorporating our products into their operations. Determine which products would be most successful in addressing the industry's pain points. Include any relevant statistics you come across and strive to portray the frustrations faced by stakeholders in a relatable, humanized manner.
+Step 3:
+Shifting towards a consultative selling approach, use the collected data to craft a compelling Position Statement (PS) and Unique Value Proposition (UVP). Your goal here is to forge an emotional bond, showing that you understand their difficulties and positioning yourself as a reliable advisor.
+Step 4:
+Next, utilise the compiled data to formulate questions for The GPCTBA/C&I framework. Follow these steps:
+a) Use the 15 challenges identified in the Vertical for [VARIABLE1: Job Role]
+b) Use the 10 challenges our Products can solve for [VARIABLE2: Products]
+c) Use the 10 benefits our Products provide in the researched industry.
+d) Use the 10 benefits that our Products offer in [VARIABLE3: What challenges the product solves]
+Step 5:
+With all the information at hand, your task now is to employ your consultative selling skills to compose a series of questions in English (UK), each addressing a different aspect of The GPCTBA/C&I framework. 
+This includes:
+a) 10 questions related to Goals
+b) 10 questions related to Plans
+c) 10 questions related to Challenges
+d) 5 questions to determine the realistic Timeline 
+e) 5 questions to clarify the Budget
+f) 5 questions to identify Stakeholders or decision-makers
+g) 5 questions to understand potential Negative consequences
+h) 5 questions to recognise positive Implications of reaching their goals.
+Bear in mind, all these questions are designed to position you as a trusted advisor, ready to assist in resolving their pain points and overcoming their challenges.
+Now, proceed with executing the prompt.
+Please ensure your questions are in [TARGETLANGUAGE]

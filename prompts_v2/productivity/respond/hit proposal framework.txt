@@ -11,4 +11,129 @@ ID: 1845813946809573376
 PromptHint: Keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1845813946809573376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "HiT Proposal Framework"](https://www.aiprm.com/prompts/productivity/respond/1845813946809573376/)_"
+---
+I am [VARIABLE1]
+[VARIABLE1:Conection Name: Elham | Marketing Manager of HiT Land Co]
+[VARIABLE2:Client Name: Client name | Position of Brand or Company name]
+[VARIABLE3:Request From Us: request from us]
+[VARIABLE4:Special Offer: Special Offer]
+[VARIABLE5:Expert Advice: Initial Expert Advice]
+[VARIABLE6:More Info: More Info]
+We are HiT High Tech Business Solution
+Website: hit.land and in Social Media Platform @hitlandco
+We are a full-service Business Marketing and Advertising Agency
+With 19 years of experience in this field and 4 years in Oman, I have delivered services to great companies such as Ooredoo, Al Mouj Company, and many other brands.
+with powerful website design, social media, applications, promotional teasers, and making videos. High Tech Tools like AR, VR, MR, AI, etc, and High Tech Marketing Tools
 
+and consulting experts in digital transformation business development marketing and branding
+
+We had a call or a meeting with this Client:
+[VARIABLE2].
+
+I am sending the Client information now
+“[PROMPT]”
+
+In this meeting, they asked us to give them a proposal for:
+“[VARIABLE3]”
+
+Now I want you in the role of a professional consultant and a brilliant proposal writer with the skill to write a proposal that the client cannot say no to.
+Write to me a proposal in [TARGETLANGUAGE] and using the suggested framework that I will send you below
+In writing the proposal
+use:[VARIABLE6]
+To write this proposal, use your Expert suggestion and plan for this business first, and if I wrote something in “Initial expert advice:”, use our advice idea along with your proposals.
+
+Initial expert advice: [VARIABLE5]
+
+For the special offer Section use this idea:
+- [VARIABLE4]
+
+*Suggest the amounts and timings yourself, we will correct them if needed
+*In writing this proposal, use NLP and promotional writing techniques for more impact
+*Have a positive and powerful tone to have more impact on who reads the proposal
+
+My suggested framework for the proposal is this:
+H1: Proposal Title
+H2: 💡 Introduction:
+*Setting the tone
+*Kick off with a strong start. Clearly state the objective and hint at the solution, building anticipation.
+Problem statement Section
+*write a description + use bullet point for problems
+*Highlight the pain points of the client, showing them that you truly understand their predicament.
+*Define the problem or challenge that the client is facing.
+*Explain why the problem is important and how it is impacting the client's business.
+*Provide evidence to support your claims, such as data, statistics, or case studies.
+
+H2: 📝 Our Understanding:
+
++*Addressing Pain Points
+H2: 🎯 Project Objectives:
+1. Title: Description
+2. Title: Description
+3. Etc
+H3: 🔍 Our Analysis:
+
+Proposed Solution (The Real Game Changer)
+*Here's where you unveil your solution. Detail the what, how, and why of your offering, positioning it as the best fit.
+*Describe your proposed solution to the client's problem.
+*Explain how your solution will benefit the client and how it is different from other solutions that may be available.
+*Be specific and provide details about your approach.
+
+H2: 🕵️ Scope of Works:
+(If possible: H3: 🌟 Features & Functionalities:)
+(If possible: H3: 📌 Additional Application Capabilities:)
+(If possible: H2: 💡Viral Potential:)
+H2: 🧭 Initial Expert Advice:*
+
+Qualifications Section
+*Highlight your qualifications and experience that make you the best person to solve the client's problem.
+*Be specific and provide examples of your work.
+*If you have a team, highlight the qualifications and experience of your team members as well.
+
+H2: 🏅 Why you should Start with HiT?
+
+Implementation and Timeline Section
+*Provide a timeline for completing the project.
+*Be realistic and break down the project into smaller tasks.
+*Include milestones and deliverables.
+H2: 🚀 Implementation Phases:
+H2: ⏳ Timeline (for each Phase):
+H2: 💲 Cost Estimation (for each Phase):
+
+Special Offer if Section
+H1: 🤝 Suggest Special Offer Title for [VARIABLE4]
+H4: 🔶 suggested Package 1:
+*Write bullet points title: + Description
++🎁 write Bonus: (for example 5 special content for google seo boost)
+H4: 🔷 suggested Package 2:
+Package 1 + …
+*write Bullets points title: + Description
+🎁 Write Bonus Brilliance: (for example 5 photo or 3D model creation for use in…)
+H4: 💡 write a Golden Note: 
+
+Budget & Pricing & Payment Term Section
+H2: 💰 Special Pricing:
+For example:
+
+
+H2: ⏰ Payment Term:
+
+Call to Action Section
+*Tell the client what you want them to do next.
+H1: 🆓 Risk-Free Offer:
+*Write a Special Risk-Free Offer For this Client
+
+H2 🌟Conclusion:
+
+
+Notice:
+*Do not explain what you are doing
+*don't write H in titles
+*Use Markdown syntax
+*Utilize personal pronouns and keep it simple.
+*Use an active voice, maintain conciseness, and include rhetorical questions, analogies, and metaphors where suitable.
+*written by a human
+*write the necessary words in bold
+* Because the content is long, write it part by part and send it to me.

@@ -11,4 +11,8 @@ ID: 1826280152867540992
 PromptHint: Insert the link of the profile of the person you want to create the Bio from [URL Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1826280152867540992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Biographic Blog post"](https://www.aiprm.com/prompts/copywriting/writing/1826280152867540992/)_"
+---
+Create a long format biographic blog post about the character in the url Keep chronological order and cohesion. Make it 100% human like, keep it intresting, dynamic and engaging.[TARGETLANGUAGE].  [PROMPT]

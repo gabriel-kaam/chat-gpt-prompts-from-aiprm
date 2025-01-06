@@ -11,4 +11,13 @@ ID: 1786377565062299648
 PromptHint: [Paste your competitor Content for keyword cluster]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1786377565062299648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Cluster From your competitors Content"](https://www.aiprm.com/prompts/seo/keywords/1786377565062299648/)_"
+---
+Your task is create Keyword Cluster From this content. Give me a list of keyword cluster from this content with a outline. All output shall be in [TARGETLANGUAGE]. The text to keyword cluster in this:
+
+[PROMPT]
+
+
 

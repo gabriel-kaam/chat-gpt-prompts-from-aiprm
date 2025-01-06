@@ -11,4 +11,8 @@ ID: 1861203248137621504
 PromptHint: [Your Keyword Or Idea]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1861203248137621504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make the Perfect SEO Content With Headings"](https://www.aiprm.com/prompts/seo/writing/1861203248137621504/)_"
+---
+WRITE AN ARTICLE ON THE TOPIC [PROMPT] IN THE [TARGETLANGUAGE]. CONTENT SHOULD BE ATLEAST 900 + WORDS ALONG ATLEAST 3 OCCURENCE OF [PROMPT] IN THE CONTENT & 1 OCCURENCE OF [PROMPT] IN THE HEADINGS. 

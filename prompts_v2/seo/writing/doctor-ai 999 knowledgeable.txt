@@ -11,4 +11,12 @@ ID: 1838916968146276352
 PromptHint: [Type the name of disease here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1838916968146276352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Doctor-AI 99.9% knowledgeable"](https://www.aiprm.com/prompts/seo/writing/1838916968146276352/)_"
+---
+Your task is to describe causes,symptoms,treatment of diseases and health improvement advices that i give in [PROMPT].
+All output must be in [TARGETLANGUAGE].
+Create points of description.The points of description must be at least 3 and the maximum should be 12.Bold the points well and marks it numerically.Fully SEO optimized with proper outline.The causes,symptoms,treatment of diseases and health improvement advices to describe is this:
 
+[PROMPT]

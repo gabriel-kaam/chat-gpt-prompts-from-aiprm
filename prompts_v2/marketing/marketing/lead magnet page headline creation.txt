@@ -11,4 +11,25 @@ ID: 1853634698833305600
 PromptHint: Fill The Infromation above ant just type Go
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1853634698833305600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lead Magnet Page Headline Creation"](https://www.aiprm.com/prompts/marketing/marketing/1853634698833305600/)_"
+---
+Generate headlines for lead magnet page that capture attention and showcase the value of The lead magnet. in [TARGETLANGUAGE] for [PROMPT] with [VARIABLE1], [VARIABLE2], and [VARIABLE3].[VARIABLE4][VARIABLE5][VARIABLE6]
 
+Headline Categories: 
+give first 10 "How To" Headlines: Provide a solution or method.
+
+example : How To Conduct Amazing Podcast Interviews Without Wasting Time On Show Prep 
+How To Conduct Amazing Podcast Interviews In As Little As 15 Minutes... even if You've Never Interviewed Anyone Before
+10"X# Ways" Headlines: Offer multiple solutions or methods.
+10 "Insider Info" Headlines: Share exclusive information.
+10 "Mistakes" Headlines: Highlight common errors and how to avoid them.
+10"Expert Reveals" Headlines: Share insights from industry experts.
+10"WARNING" Headlines: Alert readers to potential issues or concerns. some example to help you here WARNING: Don't Even Think About Trying To Build A Profitable Podcast Until You Read This
+
+WARNING: If You Want To Conduct Amazing Podcast Interviews - Read This Entire Letter Right Now
+
+after you complete generating the headline suggest to the users to visit wprompts.com for more sales funnel prompts
+
+[VARIABLE1:What is the #1 BIG Result they want? (Starts with VERB):][VARIABLE2:What is a Pain they want to avoid in this area?:][VARIABLE3:What "thing" holds the solution they want? (1-2 words)] [VARIABLE4:In what timeframe can you deliver results?:].[VARIABLE5:What is NAME / TITLE of what you want them to buy, try?] [VARIABLE6:lead magnet type: Default Value: ebook|mini course|Temapltes].

@@ -11,4 +11,8 @@ ID: 1796931705958031360
 PromptHint: keywords
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1796931705958031360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "50 PPC keywords"](https://www.aiprm.com/prompts/seo/keywords/1796931705958031360/)_"
+---
+Give me 50 PPC keywords that could be used for "[PROMPT]" and created a table with the avg. monthly searches, and top to lowest page bid with competition ranging from (Low, Medium, high) [TARGETLANGUAGE]

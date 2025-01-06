@@ -11,4 +11,9 @@ ID: 1836406453721358336
 PromptHint: [Subject]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1836406453721358336/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Captiving tik tok script"](https://www.aiprm.com/prompts/productivity/plan/1836406453721358336/)_"
+---
+I'm tik tok user. You're going to help me. Create a short and original text, adapted for tik tok users, to capt attention and talk about a subject or a topic. This is the subject [PROMPT].
+You will write the text in this language [TARGETLANGUAGE]

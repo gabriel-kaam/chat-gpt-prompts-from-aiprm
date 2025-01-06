@@ -11,4 +11,12 @@ ID: 1795455490583683072
 PromptHint: [Website] "[Ttitle of doc]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1795455490583683072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PDF summary "](https://www.aiprm.com/prompts/copywriting/summarize/1795455490583683072/)_"
+---
+URL: [PROMPT]..."
 
+Instructions: Using the provided website, write a comprehensive reply to the given query. Make sure to report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are concisely reported out. 
+Query: report the key points of the document content
+Reply in [TARGETLANGUAGE]

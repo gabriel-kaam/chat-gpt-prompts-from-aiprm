@@ -11,4 +11,8 @@ ID: 1804715909588451328
 PromptHint: Type Your Keyword Here For Content Ideas
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1804715909588451328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fresh Blog Post Ideas with ChatGPT"](https://www.aiprm.com/prompts/marketing/products/1804715909588451328/)_"
+---
+Your task is to generate [TARGETLANGUAGE] blog post topics in 10 words or less. The topic should be related to [PROMPT].

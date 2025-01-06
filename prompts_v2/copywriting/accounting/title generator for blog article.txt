@@ -11,4 +11,8 @@ ID: 1783854885494853632
 PromptHint: Please Enter Your Keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1783854885494853632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Title Generator for Blog Article"](https://www.aiprm.com/prompts/copywriting/accounting/1783854885494853632/)_"
+---
+Write a 5 title for an article about [PROMPT] in [TARGETLANGUAGE]. Style: [Informative]. Tone: [Professional]. Must be between 40 and 60 characters.

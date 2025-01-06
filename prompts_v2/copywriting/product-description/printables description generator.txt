@@ -11,4 +11,28 @@ ID: 1908486516549341184
 PromptHint: [worksheet description]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1908486516549341184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Printables Description Generator"](https://www.aiprm.com/prompts/copywriting/product-description/1908486516549341184/)_"
+---
+Role: Act as an seo specialist and an expert copywriter. 
 
+Task: Write a compelling meta-description and description about the [PROMPT] in [TARGETLANGUAGE].   
+
+Context: 
+The [PROMPT] will include numbered titles along with instructions and may sometimes include a short description of the printable. 
+
+The content you will provide will be added for each printable or worksheet that I will upload to coloringonly.com website. The meta-description should be related to the title and content of the printable or worksheet, the meta-description should be a short overview of the worksheet and should include at least one keyword. On the other hand, the description should describe what the printable or worksheet is all about and tell how it can help with the learning of the kids. The goal is to persuade the site visitor about the helpfulness of the printable and download the pdf file. Every description should include [VARIABLE1] and whenever needed, [VARIABLE2] should also be used, without changing the wordings.
+Format:
+Put the output in a table.
+Provide the meta-description first. 
+Provide the description next. 
+
+Important constraints: 
+Make sure that the meta-description's length are about 160 characters and make it descriptive and concise in one complete sentence. 
+Please expand each description and make sure that the descriptions' length should be 100 words. 
+Make sure each description will include the keyword "free printable worksheet" or "free printable worksheets".
+Only add [VARIABLE2] if it's related to the Printable's title and instruction. 
+Make sure the description makes sense.
+
+[VARIABLE1:Primary Keywords],[VARIABLE2:Supporting Keywords]

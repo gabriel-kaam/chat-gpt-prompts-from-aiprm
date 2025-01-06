@@ -11,4 +11,8 @@ ID: 1794810907025735680
 PromptHint: [specific topic/context] [keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794810907025735680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Expand on and explain a specific topic/context"](https://www.aiprm.com/prompts/copywriting/writing/1794810907025735680/)_"
+---
+[TARGETLANGUAGE]. I want you  [PROMPT] to expand on a specific topic/context, explain in more depth, use these keywords

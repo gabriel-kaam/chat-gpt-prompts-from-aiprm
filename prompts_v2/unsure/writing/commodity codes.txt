@@ -11,4 +11,12 @@ ID: 1812044867510210560
 PromptHint: Provide a list of product titles
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1812044867510210560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Commodity codes"](https://www.aiprm.com/prompts/unsure/writing/1812044867510210560/)_"
+---
+I want you to act an as expert customs agent specializing in customs export from the UK to Europe. I am going to provide you with a list of products. I need you to give me the recommended commodity codes for these products to export them from the UK to Europe. Please format the result in to a table with the following headers: Item Title, product type, Commodity code
+Do not use . in the commodity code result
+The commodity code result should be 8 digits long
+[PROMPT]
+[TARGETLANGUAGE]

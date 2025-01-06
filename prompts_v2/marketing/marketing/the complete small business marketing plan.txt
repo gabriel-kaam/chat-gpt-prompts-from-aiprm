@@ -11,4 +11,28 @@ ID: 1865357241290072064
 PromptHint: [Website url]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1865357241290072064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The Complete Small Business Marketing Plan"](https://www.aiprm.com/prompts/marketing/marketing/1865357241290072064/)_"
+---
+Act as a Marketing Director for a small business. Write a comprehensive marketing plan for 
 
+Source URL: [PROMPT]
+[CRAWLEDTEXT]
+
+The business is in the [VARIABLE1] industry. The marketing plan needs to include a high level overview and strategy for the fiscal year in [TARGETLANGUAGE]. Include questions and placeholders throughout the marketing plan when you need additional information. 
+
+Write the plan in markdown, formatted with bold headers and bulleted lists.
+
+The marketing plan needs to be formatted like this:
+
+Executive Summary
+Business Mission
+KPIs based on the following goals: [VARIABLE5]
+Market Research (Including step by step requirements to execute) about target audience in [VARIABLE2]
+Product and Service information about [VARIABLE3] and the unique selling proposition: [VARIABLE4]
+Annual Marketing Budget - [VARIABLE6]
+Content Initiatives and Strategies
+Outline your plan's need for contributors and their responsibilities
+
+[VARIABLE1:Industry],[VARIABLE2:Business Location],[VARIABLE3:Products and Services],[VARIABLE4:What makes your product or service unique?][VARIABLE5:Goals][VARIABLE6: Annual Marketing Budget]

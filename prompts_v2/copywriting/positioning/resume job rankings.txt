@@ -11,4 +11,11 @@ ID: 1822120861164101632
 PromptHint: [Copy paste Resume]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/positioning/1822120861164101632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Resume Job Rankings"](https://www.aiprm.com/prompts/copywriting/positioning/1822120861164101632/)_"
+---
+Your task is to list 10 roles the resume I give you qualify for,  rank them, and give a readiness percentage based on the likeliness to get that job in a table. All output should be in
+[TARGETLANGUAGE]. The resume is this:
 
+[PROMPT]

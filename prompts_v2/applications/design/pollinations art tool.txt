@@ -11,4 +11,11 @@ ID: 1845399843112759296
 PromptHint: Use the most details possible
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1845399843112759296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pollinations Art Tool"](https://www.aiprm.com/prompts/applications/design/1845399843112759296/)_"
+---
+[PROMPT] in [TARGETLANGUAGE]
 
+INPUT = {focus}  
+OUTPUT = {description} \n ! [IMG] (https:// image.pollinations.ai/prompt/{description}) {description} = {focusDetailed}, %20{adjective 1}, %20{adjective2},%20{visualStyle1}, %20{visualStyle2},%20{visualStyle3}, %20{artistReference}   

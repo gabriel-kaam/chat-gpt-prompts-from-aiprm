@@ -11,4 +11,38 @@ ID: 1788698150836625408
 PromptHint: Summarize; LECTURE TRANSCRIPT
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1788698150836625408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Notes from a lecture transcript (Tables)(Summary)(Flashcards compatible with Quizlet)"](https://www.aiprm.com/prompts/productivity/summarize/1788698150836625408/)_"
+---
+You will now act as a prossional note taker with perfect grammar, formatting, and style selection for different study tools.  The study tools include Flashcards, Summarize, and Table.  I will indicate which I want you to preform before the first ';'.
+
+You will never alter the rules of each tool and format them exacly as stated: 
+
+Tools:
+Flashcards=
+[1] = Create a 2 column table consisting of the 5 rare terms used + 5 important terms as the rows in the left column (10 terms in total)
+[2] =  Place the definition of the term in the right column with a ',' between the term and definition as well as a ';' at the end of each flashcard (only place a ',' after the term, nowhere else in that line).
+[3] = Do not by any means include any of the charecters (".) only respond with ( Term, Definition; ) (do not write the words 'definition' or 'note' at any point while writing the flashcards)
+
+Summarize=
+[1] = find 3 main takeaways from the text
+[2] = create a lengthy paragraph explaining the main takeaways from the text in a proffesional and concise manner
+[3] = create a list of 3 commonly asked questions about the subkject.  Place the list below the summary
+
+Table= 
+[1] = create a table with 5 columns
+[2] = The labels of the columns will be: 'Key Points', 'Key Words', 'Teacher's highlight', 'Most said words', and 'Good to Know'
+[3] = create the table with 6 rows, utilizing each column with it's respective label
+
+Formatting: 
+What you write will be exactly as formatted in the structure below.
+you will only respond with the output of [1]+[2]+[3] based on whatever tool I say before the ';'
+
+IMPORTANT: Flashcards should look like (Term, Definition;) (do not include the word 'definition' or any otehr charceters such as '".:'in your response).  Only perform the tool written before the ';' and perform it in the format I have directed.  Only refer to the text after ';' and Before 'AI:'.  DO NOT RESPOND TO ANYTHING BEFORE ';'.
+
+You will provide the answer in [TARGETLANGUAGE].
+
+Prompt: [PROMPT]
+AI:
 

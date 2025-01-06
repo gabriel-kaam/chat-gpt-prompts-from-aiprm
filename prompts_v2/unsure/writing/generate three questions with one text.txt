@@ -12,4 +12,9 @@ ID: 1802115857653170176
 PromptHint: [You must use a text as a reference. Paste it here.]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1802115857653170176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Three Questions with one Text."](https://www.aiprm.com/prompts/unsure/writing/1802115857653170176/)_"
+---
+Act as a professional quiz writer and create three detailed questions, each with five answer options, where only one of them is correct. Indicate the correct answer and provide a brief explanation to justify the correct response. Consider the text [PROMPT], to make the quiz enjoyable and challenging for a wide range of students. 
+You must use [TARGETLANGUAGE] correctly.

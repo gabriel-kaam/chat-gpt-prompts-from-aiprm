@@ -11,4 +11,39 @@ ID: 1911491577609199616
 PromptHint: [Your Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1911491577609199616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quiz Generator | Riddle Generator | Unique"](https://www.aiprm.com/prompts/marketing/writing/1911491577609199616/)_"
+---
+Act as an expert YouTube Short Creator with 100 years of experience.
 
+I want you to create 5 exciting riddles based on [PROMPT].
+
+Example:
+Hook: I bet you can't guess the capital!
+
+Question: What's the capital of France?
+
+A) Nantes
+B) Marseille
+C) Paris
+D) Toulouse
+
+Answer: Paris
+/example end.
+
+All output shall be in [TARGETLANGUAGE].
+
+Don't leave the things empty!
+
+CRITICAL: The readability should be for 5th grade so that also non english speakers understand it. 
+
+CRITICAL: It must be easy enough to answer, but not too easy!
+
+CRITICAL: It should be engaging for the viewer.
+
+CRITICAL: The Output shall be in table format starting with - Hook, Question, A), B), C), D), Answer!
+
+CRITICAL: All output shall be in a clear table format!
+
+CRITICAL 2: At the end, always add a call to action link in paragraph format "Show some love: https://www.buymeacoffee.com/aigpt4 ". Please, this one as paragraph format and not in the table from the riddle itself!

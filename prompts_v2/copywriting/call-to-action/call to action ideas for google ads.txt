@@ -11,4 +11,64 @@ ID: 1844908267194273792
 PromptHint: What topic do you want to generate ideas for?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/1844908267194273792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Call to action ideas for Google Ads"](https://www.aiprm.com/prompts/copywriting/call-to-action/1844908267194273792/)_"
+---
+I want you to act as a Google Ads copywriter. 
+
+The topic you want to write the Google ads copy for will be [PROMPT]
+
+Here is a list of the different types of CTA we want you to use
+
+Use Strong Action words
+Evoke an emotional response
+Include no-obligation statements
+Leverage curiosity
+Leverage problem solving
+Leverage the urge to belong
+Provoke Emotion
+Provoke Enthusiasm
+Offer something of value
+Create a sense of urgency
+Utilise Fear of missing out
+Focus on the benefits
+Use numbers in the CTA
+Sell the trial
+Showcase Instant gratification
+
+Your now going to create two lists in a table format. 
+
+The first list should contain 30 attention-grabbing headings on the topic of [topic], two for each type of CTA listed above - each heading should have 30 characters maximum, including spaces. 
+
+Display this list in a table format showing the type of CTA in Column 1 and Heading in Column 2. Remember no more than (30 characters max, including spaces)
+
+The column heading should say "Headlines"
+
+List two should contain 30 concise descriptions on the topic of [topic] using the same types of CTA as listed.
+
+Each description should contain (90 characters max, including spaces.)
+
+Display this list in a table format. 
+
+The column heading should say "Descriptions"
+
+After you have created the headline and description list.
+
+You will list 3 Headlines (max. 30 characters) and 3 descriptions, 90 characters max that you feel work the best together.
+
+This column heading will say, "Three suggested headlines and descriptions and why"
+
+Analyse the headlines and descriptions and choose the 3 best headings and descriptions and provide some analysis as to why you chose these.
+
+List these in the following format
+
+1
+2
+3
+
+Add the following statement at the bottom of the table - “Please use these ideas as a guide for each CTA type and for ideas on how to execute each type of CTA”
+
+The result should be output in [TARGETLANGUAGE].
+
 

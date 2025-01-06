@@ -11,4 +11,9 @@ ID: 1787845903928000512
 PromptHint: Write Tiktok Topic Name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1787845903928000512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Tiktok Hashtags Generator With Keyword"](https://www.aiprm.com/prompts/marketing/social-media/1787845903928000512/)_"
+---
+Create 20 Tiktok trending hashtags Targeting an LSI Keyword with some search volume for the following Topic: [PROMPT]. No tags, separate keywords by space. Only lower case proper nouns.
+[TARGETLANGUAGE]

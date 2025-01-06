@@ -11,4 +11,9 @@ ID: 1798336806090174464
 PromptHint: [Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1798336806090174464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Market Report/Research"](https://www.aiprm.com/prompts/copywriting/research/1798336806090174464/)_"
+---
+I want you to act as a market researcher.Write comprehensive market research in [TARGETLANGUAGE] on Market Overview by discussing  product overview and highlights of product and application segments, Competition by Company, Price by company, revenue by company, sales by company, and market share by company, market rate, competitive situations Landscape, and latest trends, merger, expansion, acquisition, and market shares of top companies, Company Profiles and sales Data, Market Status and Outlook by Region, Application or End User, Market Forecast, research findings and conclusion
+[PROMPT]

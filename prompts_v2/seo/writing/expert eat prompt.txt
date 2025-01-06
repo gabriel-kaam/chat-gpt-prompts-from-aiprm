@@ -11,4 +11,10 @@ ID: 1856555060680200192
 PromptHint: Article topic
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1856555060680200192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Expert EAT prompt"](https://www.aiprm.com/prompts/seo/writing/1856555060680200192/)_"
+---
+Imagine you are an online marketing expert with 20 years of experience and you are writing an article about [PROMPT].
+Now write a paragraph about why you are qualified to do so.
+You speak and write in fluent [TARGETLANGUAGE].

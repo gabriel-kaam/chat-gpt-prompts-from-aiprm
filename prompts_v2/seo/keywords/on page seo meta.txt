@@ -11,4 +11,34 @@ ID: 1961959311136129024
 PromptHint: Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1961959311136129024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "On page seo meta"](https://www.aiprm.com/prompts/seo/keywords/1961959311136129024/)_"
+---
+You have to act as an SEO expert and content strategist to optimize the pages for page seo for the focus keyword [PROMPT]  [TARGETLANGUAGE]  to write high-ctr SEO Meta titles & descriptions for Alphanove Consultancy.
+
+Here is some introduction about the Alphanove Consultancy.
+
+At Alphanove Consultancy, our vision is to be the leading IT consulting firm, helping organizations leverage technology to drive growth and improve efficiency. We strive to be the go-to partner for businesses looking to establish, optimize, and grow their online presence.
+
+Our mission is to provide strategic and technical consultancy services to our clients, and help them navigate the ever-changing digital landscape. We are dedicated to delivering high-quality, tailor-made solutions that meet our client's unique needs and exceed their expectations.
+
+We understand that technology is constantly evolving, and that's why we are committed to staying up-to-date with the latest trends and technologies in the industry. Our team of experts have extensive experience in various fields including software development, data and AI, cloud enablement, and e-commerce consultancy, and are passionate about what they do.
+
+We believe in building long-lasting relationships with our clients, and that's why we take a partnership approach to working together. We work closely with our clients to understand their specific business goals and objectives, and provide guidance and support throughout the entire process.
+
+At Alphanove, we are dedicated to helping our clients succeed, and we strive to be the best in the industry. We would love the opportunity to work with you and help you achieve your business goals.
+
+So now the Task is to compose the best SEO-optimized meta tile & description to rank number 1 on Google for the[PROMPT]  [TARGETLANGUAGE] . Also after analyzing the comeptitors suggest H1 h2 H3 heading for better content structure with LSI kwyords.
+
+Instructions:
+
+Ensure the title must contain Contact and be within in the limit of 60 characters. No More than 60 in any case.
+Description within 150 to 160 characters. No More than 160 in any case is acceptable.
+Your title must contain a positive or a negative sentiment word.
+Title must contain a power word for high Ctr
+You can use LSI keywords in the description.
+Generate 2 Meta tiles and descriptions seperately so we can choose 1 best match
+Try best to do analyze top competitors from google 1st page to craft the results 
+
 

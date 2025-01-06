@@ -11,4 +11,9 @@ ID: 1793246819548131328
 PromptHint: [your list of keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793246819548131328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimised Article with Latest Yoast Updates."](https://www.aiprm.com/prompts/copywriting/writing/1793246819548131328/)_"
+---
+write 100% unique, creative and Human-written article in [TARGETLANGUAGE] for the Keyword "[PROMPT]". The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Shoud be h2 heading), sub headings (h3, h4,h5,h6 headings), bullet points or Numbered list (if needed), faqs and conclusion. Make sure article is plagiarism free. minimum 700 words. use question mark (?) at the end of questions. Try not to change the original write content righting tips while writing the Title. Try to use "[PROMPT]" 2-3 times in article. try to include [PROMPT] in headings as well. write a content which can easily pass ai detection tools test.
+Please write in sarcastic tone, creative writing style.

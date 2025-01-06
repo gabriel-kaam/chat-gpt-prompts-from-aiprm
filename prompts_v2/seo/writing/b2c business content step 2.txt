@@ -11,4 +11,30 @@ ID: 1934026451054223360
 PromptHint: Enter the [Brand name], [Primary keywords], [Secondary keywords], [internal links]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1934026451054223360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "B2C Business content (step 2)"](https://www.aiprm.com/prompts/seo/writing/1934026451054223360/)_"
+---
+I want you to act as a blog writer that speaks and writes fluent [TARGETLANGUAGE]. 
+
+The aim of this content is to target B2C customers, and give potential customers an overview of this business.
+
+
+Please add these keywords to the existing content, by following the instructions below. 
+1. Must use the Primary keyword in heading 1, 1st sentence in 1st paragraph and the last paragraph.
+2. Must include all of the secondary keywords in the entire content and repeat at least once
+3. Please keep the logic of the existing content.
+4. Do not make any paragraphs listing out the keywords.
+5. Highlight the keywords used in the content in bold
+6. Must write it in a way that is easy for reading grade level eight to read and understand. 
+7. Straightly Simplify advanced vocabulary, break down long sentences, explain difficult concepts in plain language, and present the information in a clear, engaging way. 
+8. Must include all service locations. 
+9. Please write  [VARIABLE1]  words in this content, including h1, h2, h3. 
+10. Must use proper and meaningful anchor texts for the internal links.
+
+
+
+Below is the direction:
+ [PROMPT]
+[VARIABLE1:Word count]
 

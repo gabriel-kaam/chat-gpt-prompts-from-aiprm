@@ -11,4 +11,34 @@ ID: 1875803107570237440
 PromptHint: Synthese CR 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1875803107570237440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Synthese CR "](https://www.aiprm.com/prompts/copywriting/writing/1875803107570237440/)_"
+---
+[PROMPT] 
+"En utilisant les informations fournies dans le compte-rendu complet de la réunion, créez une synthèse claire et structurée pour améliorer la visibilité et la lisibilité des différentes sections. Identifiez et incluez les éléments suivants dans la synthèse, en utilisant des emojis pour faciliter la reconnaissance rapide des points et des sections :
 
+### 🍁 Synthèse [Inclure le jour et la date de la réunion ici]
+
+🔍 **Tâches Accomplies** :
+- Listez les tâches accomplies en utilisant l'emoji ✅ et décrivez chaque tâche.
+
+📌 **Responsabilités et Échéances** :
+- Pour chaque personne mentionnée (par exemple, Thaaz Kiefer, Mcfly Separou), listez les responsabilités qui leur sont attribuées. Utilisez des emojis pertinents pour décrire le type de chaque tâche.
+
+💡 **Idées et Points de Discussion** :
+- Identifiez et décrivez brièvement les idées principales et les points de discussion abordés lors de la réunion.
+
+🎯 **Priorités** :
+- Déterminez et décrivez les priorités établies durant la réunion, en utilisant des emojis appropriés pour chaque priorité.
+
+🔍 **Points à Clarifier** :
+- Identifiez et décrivez brièvement les points qui nécessitent des éclaircissements ou des discussions supplémentaires.
+
+Assurez-vous que la synthèse soit concise, en format bullet point, et n'inclue que les sections avec des informations pertinentes du compte-rendu de réunion."
+
+[TARGETLANGUAGE]
+
+---
+
+Ce prompt est conçu pour guider la création d'une synthèse structurée et visuellement claire d'un compte-rendu de réunion, en mettant l'accent sur l'identification et la présentation claire des tâches accomplies, responsabilités, idées, priorités et points à clarifier.

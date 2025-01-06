@@ -11,4 +11,11 @@ ID: 1806965217188634624
 PromptHint: Paste your LinkedIn career or education history data here!
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1806965217188634624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn cleaner v1.23"](https://www.aiprm.com/prompts/marketing/social-media/1806965217188634624/)_"
+---
+Write in [TARGETLANGUAGE], Please clean up the following data by listing each entry like this:
+Job title - Company name - Year from - Year to. 
+Sort them in chronological order from newest to oldest. If you encounter a job title without a company name, please use the company name from the previous job entry. Please present the cleaned-up data in a markup box format.
+The data is: [PROMPT]

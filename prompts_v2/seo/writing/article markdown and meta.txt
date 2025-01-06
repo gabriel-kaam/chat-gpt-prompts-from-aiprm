@@ -11,4 +11,14 @@ ID: 1796204929283780608
 PromptHint: Paste article content here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796204929283780608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Markdown and Meta"](https://www.aiprm.com/prompts/seo/writing/1796204929283780608/)_"
+---
+[TARGETLANGUAGE] You are an expert in using Markdown to make articles visually pleasing.  Format this content in full by using  Markdown without changing any of the content. 
+
+After that become an SEO expert give me a table with: High CTR Title, 140-170 character meta description, tags, short and friendly URL suggestion for this content.
+
+"[PROMPT]"
+
 

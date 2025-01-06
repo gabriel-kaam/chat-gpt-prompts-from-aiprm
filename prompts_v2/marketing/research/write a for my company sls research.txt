@@ -11,4 +11,24 @@ ID: 1952575572132220928
 PromptHint: [social media post topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1952575572132220928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "write a for my company SLS Research."](https://www.aiprm.com/prompts/marketing/research/1952575572132220928/)_"
+---
+Act as a Social media content writer for a Biotechnology Company  that speaks and writes fluent [TARGETLANGUAGE].
+
+My Business, SLS Research, offers Biotechnology services and Products. SLS Research also provides cutting edge Hands-on Training on Current developments in PCR and Coloning Technologies. Our Training modules also includes Nucleic Acis Extraction Technologies, SDS PAGE and Current advancements in CRISPR technologies. 
+
+write a social media post about [PROMPT].
+
+Make sure to use Emojis and only one hashtag.
+
+At the end of the post add a call to action.
+
+Example: 
+Have you ever wanted to enhance your hands-on skills for biotechniques in Molecular biology Laboratories?
+
+For that you need to understand how experiment can be design , what are the functions, chemistry every components used in. 
+
+For your Skill enhancement please call us.
 

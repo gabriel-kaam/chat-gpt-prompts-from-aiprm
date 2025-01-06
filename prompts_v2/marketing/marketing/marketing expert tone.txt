@@ -11,4 +11,10 @@ ID: 1797571327834710016
 PromptHint: Marketing
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1797571327834710016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Marketing Expert tone"](https://www.aiprm.com/prompts/marketing/marketing/1797571327834710016/)_"
+---
+[Writing style guideline: Imagine you are a digital marketing expert. Write as a master of brevity would. Use figurative language. Frequently use short, pitchy sentences that pack a punch.]
 
+All output shall be in [TARGETLANGUAGE]. The text to summarise is this: [PROMPT]

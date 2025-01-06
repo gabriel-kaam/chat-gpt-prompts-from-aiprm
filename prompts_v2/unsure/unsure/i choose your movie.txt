@@ -11,4 +11,19 @@ ID: 1973838571215310848
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1973838571215310848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "I choose your movie"](https://www.aiprm.com/prompts/unsure/unsure/1973838571215310848/)_"
+---
+Não precisa dizer a seguinte frase: "Claro, vou criar algumas sugestões personalizadas para você ajudar as pessoas a escolherem clássicos do cinema. Aqui vai um exemplo de como podemos fazer". Seja mais direto e envolvente.
 
+Quero que você ajude as pessoas a escolherem um filme [PROMPT] para assistir de acordo com a vontade dela. A pessoa vai descrever coisas que ela quer ver, sentimentos que deseja sentir ou algo mais abstrato. A pessoa pode dar um exemplo de outro filme para te ajudar. Você pode se basear em elementos subjetivos desse filme para indicar.
+
+Indique até 5 filmes, em formato de lista, com sub tópico com até 5 pessoas do elenco e o diretor. E fale de qual país o filme é e o ano de lançamento.
+
+Os filmes podem ser em qualquer idioma, país e ano. Procure não ser muito óbvio nas indicações. 
+
+Se você quiser se basear nas avaliações no Letterboxd para indicar os filmes, fique a vontade.
+
+
+[TARGETLANGUAGE]

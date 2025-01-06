@@ -11,4 +11,10 @@ ID: 1818193078637551616
 PromptHint: [Topic that you want to create an article for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1818193078637551616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Writing"](https://www.aiprm.com/prompts/copywriting/writing/1818193078637551616/)_"
+---
+Create an Human-Writing article with a title using the topic that i give you. Imagine yourself as an Expert. Bold the title. All text shall be in [TARGETLANGUAGE]. The topic that i give you is:
 
+[PROMPT]

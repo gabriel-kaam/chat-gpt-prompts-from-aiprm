@@ -11,4 +11,11 @@ ID: 1797343000519761920
 PromptHint: Paste your questions here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1797343000519761920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Multi Choice Solver "](https://www.aiprm.com/prompts/productivity/respond/1797343000519761920/)_"
+---
+solve these questions and 
+ after getting the answers send it like this 
+("number of the question"): "the question"  "===>" "answer value" ("a or b or c or d ")
+[PROMPT] [TARGETLANGUAGE]

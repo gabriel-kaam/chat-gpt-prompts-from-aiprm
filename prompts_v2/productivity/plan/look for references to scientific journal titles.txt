@@ -11,4 +11,8 @@ ID: 1797400435490029568
 PromptHint: enter the course name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1797400435490029568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "look for references to scientific journal titles"](https://www.aiprm.com/prompts/productivity/plan/1797400435490029568/)_"
+---
+berikan saya beberapa topik judul jurnal ilmiah tentang [PROMPT] di jurusan sistem informasi, menggunakan referensi yang sudah ada terlebih dahulu, dengan bahasa [TARGETLANGUAGE]

@@ -11,4 +11,8 @@ ID: 1789692417742729216
 PromptHint: Paste your transcript here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1789692417742729216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Documentation from Video Transcript"](https://www.aiprm.com/prompts/copywriting/summarize/1789692417742729216/)_"
+---
+You are a documentation expert. I want you to create detailed documentation for my internal wiki based on this video transcript [PROMPT]. Use clear language in [TARGETLANGUAGE] and provide step by step instructions when the transcript provides a process. Create a clear and concise summary. Provide a title that is easily searchable based on the transcript. Return the content as markdown

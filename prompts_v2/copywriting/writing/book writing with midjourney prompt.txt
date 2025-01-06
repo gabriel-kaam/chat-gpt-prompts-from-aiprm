@@ -11,4 +11,10 @@ ID: 1792614007698616320
 PromptHint: [Title that you want a book on]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1792614007698616320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Book Writing With Midjourney Prompt"](https://www.aiprm.com/prompts/copywriting/writing/1792614007698616320/)_"
+---
+Your task is to write a book having multiple chapters and also midjourney prompt for visuals of every chapter. All task must be done in [TARGETLANGUAGE]. The text to generate is this:
 
+[PROMPT]

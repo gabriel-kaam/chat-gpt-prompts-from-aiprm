@@ -11,4 +11,45 @@ ID: 1928538759877107712
 PromptHint: paste your CV
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1928538759877107712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Motivation Letter for Admission with Your CV"](https://www.aiprm.com/prompts/copywriting/writing/1928538759877107712/)_"
+---
+Role:
+I Want You To Act As A Professional Academic Writer who Writes Fluently English.
 
+Task:
+Extract the data from my CV and Write a Motivation Letter for the [VARIABLE1] in [VARIABLE2] at [VARIABLE3] in [TARGETLANGUAGE].
+
+Context:
+I am applying to [VARIABLE1] in [VARIABLE2] at  [VARIABLE3], and I need to upload a Motivation letter
+
+Content Instructions:
+1. Write In a Style As Written By A Human
+2. Do not write as advertised, as seen or anything like that.
+3. Do not use headings before the paragraph.
+4. Do not use fancy words. Use simple English language.
+5. Write the Motivation for the Program
+6. Please use B2 Level English
+
+Format Instructions:
+Paragraph 1. Opening Letter / Introduction (not a self-introduction. Introduce the academic field of Interest. Write how and why it interests you)
+Paragraph 2. Education Background: (Academic Information)
+Paragraph 3. Work Background: Related Professional Experience (If any) and Related Training and Certifications (If any)
+Paragraph 4 and 5. Why This Course: Motivation for the  [VARIABLE1] in [VARIABLE2]. (Specify why you want to pursue this course)
+Paragraph 6. Career plan & Goals: Clearly specify your goal after this course. Explain what you are going to do after this course
+Paragraph 7. Why this University: Specify the features of [VARIABLE3]
+Paragraph 8: Conclusion: Sum up what you have written
+
+----------
+After the motivation letter, insert line breaker and write this:
+
+Made with ❤️ by [Hussain Silat:https://www.instagram.com/stdyabrd] @ [Destiny Consultants:https://destinyconsultants.pk/]
+Don't forget to subscribe on Youtube: https://www.youtube.com/@HussainSilat
+
+[VARIABLE1:Program Option:Default Value:Bachelor|Master|PhD]
+[VARIABLE2:Course Name:]
+[VARIABLE3:University Name:University of]
+
+My CV:
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1822827283581501440
 PromptHint: [videotitle] [keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1822827283581501440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Title"](https://www.aiprm.com/prompts/unsure/unsure/1822827283581501440/)_"
+---
+for my video titled: [PROMPT] write me a 2 sentence exciting clickbait hook (starting with an emoji), then a good SEO description, followed by 11 or less hashtags optimized for the video topic and for youtube seo, use these keywords: [PROMPT]. [TARGETLANGUAGE]

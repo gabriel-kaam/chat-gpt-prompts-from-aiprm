@@ -11,4 +11,8 @@ ID: 1864659947972329472
 PromptHint: make article human generated
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1864659947972329472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "7ways"](https://www.aiprm.com/prompts/copywriting/script-writing/1864659947972329472/)_"
+---
+[PROMPT] Write a fully SEO optimized article about [KEYWORD] use simpler words and add Table of Contents. Also add a little humor and very interesting to read [TARGETLANGUAGE], Make the article long.

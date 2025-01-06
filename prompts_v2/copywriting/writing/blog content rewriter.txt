@@ -11,4 +11,8 @@ ID: 1842197249200504832
 PromptHint: Enter the text you would like to be rewritten into paragraphs.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1842197249200504832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Content Rewriter"](https://www.aiprm.com/prompts/copywriting/writing/1842197249200504832/)_"
+---
+Rewrite [PROMPT] into either 2 or 3 detailed paragraphs. Do NOT use verbs or adjectives the average reader would not understand. Output the rewritten text in [TARGETLANGUAGE].

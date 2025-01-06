@@ -11,4 +11,11 @@ ID: 1795071751529689088
 PromptHint: [keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1795071751529689088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "KW research Spanish"](https://www.aiprm.com/prompts/seo/keywords/1795071751529689088/)_"
+---
+Tu tarea es crear un keyword research a partir de la keyword [PROMPT]. 
+Sácalo en el idioma [TARGETLANGUAGE].
+Las Keywords las muestras en una tabla agregando el volumen de búsqueda. 
+Coloca una columna con la intención de búsqueda de cada keyword.

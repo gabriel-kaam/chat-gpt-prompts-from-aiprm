@@ -13,4 +13,8 @@ ID: 1793361911124062208
 PromptHint: [Type: Objective, Social Network and investment]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1793361911124062208/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Ads Plan in ONE click"](https://www.aiprm.com/prompts/marketing/social-media/1793361911124062208/)_"
+---
+Want you to act as a digital media planner and in a table format responding in [TARGETLANGUAGE], you will create a media plan for [PROMPT]. The campaigns objectives are focused on [PROMPT] with a [PROMPT] buying type. Inside this plan, divide the investment of [PROMPT] into the best performance formats knowing the estimate results for [PROMPT].

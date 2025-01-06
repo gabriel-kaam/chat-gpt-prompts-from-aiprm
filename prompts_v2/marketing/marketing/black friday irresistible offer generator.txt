@@ -11,4 +11,64 @@ ID: 2023127358148169728
 PromptHint: Welcome! Let’s craft an irresistible Black Friday offer together. Please answer the following questions to personalize your campaign: What’s the name of your company or product/service? Example: FitPro Coaching Describe your prospect’s current situation: Example: Struggling to lose weight and stay consistent. Describe their dream outcome: Example: Feeling confident and maintaining a healthy lifestyle. What are 2-3 main problems they face? Example: Lack of time, no guidance, no motivation. What is the original price of your product/service? What’s the Black Friday special price? How is the product/service delivered? Example: Group coaching, self-paced course, 1-on-1 sessions. What type of support do you offer? Example: Email, chat, live Q&A. How fast can they see results? Example: In as little as 30 days. Once you’ve answered these, I’ll use your inputs to generate: An attention-grabbing headline emphasizing transformation. A description showing the journey from their current situation to their dream outcome. Five bullet points of key benefits/solutions. Proof/credibility elements. A guarantee statement. Scarcity and urgency elements. A clear call-to-action. Let’s get started by answering the questions above!
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2023127358148169728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Black Friday Irresistible Offer Generator"](https://www.aiprm.com/prompts/marketing/marketing/2023127358148169728/)_"
+---
+Please write in English
 
+[PROMPT]
+
+Create a compelling Black Friday offer for [COMPANY NAME]'s [PRODUCT/SERVICE NAME] using these parameters:
+
+
+Create Your Core Offer You want it to be so good that people have FOMO Irresistible Offer Components ❏ Define prospect’s current situation ❏ Define pros
+pasted
+M
+ok, now redo it using this information about creating an irresistible offer:
+
+I'll create a more comprehensive template that incorporates these irresistible offer principles.
+
+
+Copy
+Please write in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Create an irresistible Black Friday offer for [COMPANY NAME]'s [PRODUCT/SERVICE NAME] using these strategic parameters:
+
+PROSPECT SITUATION:
+Current Situation: [DESCRIBE WHERE YOUR PROSPECT IS NOW]
+Dream Outcome: [DESCRIBE WHERE THEY WANT TO BE]
+Main Problems They Face: [LIST 2-3 KEY PROBLEMS]
+
+OFFER DETAILS:
+Original Price: [PRICE]
+Black Friday Price: [SPECIAL PRICE]
+Payment Options: [PAYMENT PLANS/OPTIONS]
+Delivery Method: [HOW IT'S DELIVERED - Group/1-1/Self-Paced/etc.]
+Support Level: [TYPE OF SUPPORT - Email/Chat/Phone/etc.]
+Time to Results: [HOW FAST THEY'LL SEE RESULTS]
+
+UNIQUE VALUE PROPOSITION:
+- What makes this unique: [DIFFERENTIATION POINT]
+- How we make it easier: [SIMPLIFICATION FACTOR]
+- How we make it faster: [SPEED ADVANTAGE]
+- What we guarantee: [SPECIFIC GUARANTEE]
+
+URGENCY & SCARCITY:
+- Offer Duration: [TIME LIMIT]
+- Availability: [NUMBER OF SPOTS/UNITS]
+- Special Bonuses: [LIST TIME-SENSITIVE BONUSES]
+
+Please create:
+1. Attention-grabbing headline emphasizing transformation
+2. Description showing journey from current to dream situation (75 words)
+3. 5 bullet points of key benefits/solutions to their problems
+4. Proof/credibility elements
+5. Guarantee statement
+6. Scarcity/urgency elements
+7. Clear call-to-action
+8. Terms and conditions
+
+Tone: [DESIRED TONE - e.g., confident but empathetic]

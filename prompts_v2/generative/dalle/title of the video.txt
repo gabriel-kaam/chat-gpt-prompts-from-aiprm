@@ -11,4 +11,10 @@ ID: 1852981654709878784
 PromptHint: Title of the video
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1852981654709878784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[Title of the Video]"](https://www.aiprm.com/prompts/generative/dalle/1852981654709878784/)_"
+---
+Your task to give the best thumbnail ideas for youtube videos which would be appealing for the audience.  All output shall be in [TARGETLANGUAGE]. The title of the youtube video is this:
 
+[PROMPT] 

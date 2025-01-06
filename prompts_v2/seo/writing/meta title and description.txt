@@ -11,4 +11,9 @@ ID: 1827947090500902912
 PromptHint: [keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1827947090500902912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "meta title and description"](https://www.aiprm.com/prompts/seo/writing/1827947090500902912/)_"
+---
+[PROMPT] Meta Title: Need to create 90 characters content with given exact keywords [TARGETLANGUAGE]
+[PROMPT] Meta Description: Need to create 150 characters content with given keywords [TARGETLANGUAGE]

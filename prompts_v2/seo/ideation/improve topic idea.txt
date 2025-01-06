@@ -11,4 +11,11 @@ ID: 1811261802525483008
 PromptHint: [enter topic/title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1811261802525483008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "improve topic idea"](https://www.aiprm.com/prompts/seo/ideation/1811261802525483008/)_"
+---
+Your task is to provide 3 versions of the topic per marketing funnel stage. Provide complex article titles. Article titles should be 1 Question-based title, 1 listicle, and 1 personal story title. All output shall be in [TARGETLANGUAGE]. The topic is this:
+
+[PROMPT]
 

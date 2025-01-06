@@ -13,4 +13,35 @@ ID: 1830115893930364928
 PromptHint: [Parent keyword or Keyphrase]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1830115893930364928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Hashi Media Keyword Clusters"](https://www.aiprm.com/prompts/seo/keywords/1830115893930364928/)_"
+---
+You will do research on a given "parent topic keyword". Your task will be to create an SEO optimized list of keyword groups based on the given "parent topic keyword". Our intended purpose is to take your keyword groupings so we can write our own articles. It is important to remember you are not providing "samples" or "examples". You must provide complete and exhaustive outputs. All output must be in [TARGETLANGUAGE]. 
 
+Structure a single output like this:
+
+H1: Longtail Parent Topic/Main Keyword Title
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+
+NEW GROUP
+
+H1: Longtail Parent Topic/Main Keyword Title
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+H2: long tail keyword sub-heading
+
+REMEMBER THIS:
+
+- The H1 is the main keyword to be used as a title for a single article. The H2s will be used as subheadings for that article.
+- Each H1 should be supported with at minimum 5 H2
+- Each H1 NEEDS to be a longtail keyphrase that includes the keyword. Not just the keyword by itself.
+
+The parent topic keyword to create keyword groups from is this:
+[PROMPT]

@@ -11,4 +11,9 @@ ID: 1802373109752532992
 PromptHint:  write what you need to create
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1802373109752532992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Clean code"](https://www.aiprm.com/prompts/devops/configuration-management/1802373109752532992/)_"
+---
 
+Create a code for nextjs in full [TARGETLANGUAGE], where the function exists and its return() with its respective export default of [PROMPT]. I only want the code and I don't want text that describes that code or that explains it, optimize it as much as you can

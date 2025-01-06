@@ -11,4 +11,10 @@ ID: 1846810047142440960
 PromptHint: Instruction of Freelance Job Description or [URL] of the Sub-Page
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1846810047142440960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Professional Freelance Project Proposal "](https://www.aiprm.com/prompts/seo/writing/1846810047142440960/)_"
+---
+Your task is to create a professional proposal or project proposal for applying to a freelance job, The length of this proposal template should be under in 200 words. All output shall be in [TARGETLANGUAGE]. The Freelance job description or subpage URL is this:
 
+[PROMPT]

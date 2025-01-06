@@ -12,4 +12,9 @@ ID: 2034986574068568064
 PromptHint: [teaching jobs] [jobs] [recruitment] [recruitment education]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/2034986574068568064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Education"](https://www.aiprm.com/prompts/unsure/design/2034986574068568064/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

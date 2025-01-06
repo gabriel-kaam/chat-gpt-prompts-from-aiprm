@@ -12,4 +12,8 @@ ID: 1801959363318112256
 PromptHint: [Write The Topic or Title of Your Interpreting Event]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1801959363318112256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Terminology Research"](https://www.aiprm.com/prompts/productivity/plan/1801959363318112256/)_"
+---
+Your Task is to Create a list of 50 terms and its brief definition on [PROMPT] and display it in a table of four columns where the first column is the term in English and the second column contains the definition in English, the third column is the translation in [TARGETLANGUAGE] and the fourth column is the definition in [TARGETLANGUAGE]. The  list will be sorted by the popularity of use.

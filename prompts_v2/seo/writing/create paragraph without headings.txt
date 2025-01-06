@@ -11,4 +11,9 @@ ID: 1887442531538190336
 PromptHint: [Paragraphs with 3000 words with zero headings]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1887442531538190336/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Paragraph Without Headings"](https://www.aiprm.com/prompts/seo/writing/1887442531538190336/)_"
+---
+3000 Words Paragraph without Headings. SEO optimized words according to Google.  [TARGETLANGUAGE] 
+Write paragraphs. [PROMPT]

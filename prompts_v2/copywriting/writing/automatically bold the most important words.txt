@@ -11,4 +11,8 @@ ID: 1798284886575144960
 PromptHint: Paste your text!
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798284886575144960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Automatically bold the most important words"](https://www.aiprm.com/prompts/copywriting/writing/1798284886575144960/)_"
+---
+You have to determine the most important words and phrases in this [PROMPT], once this is done, I want you to send me back the same text with the only change being that you have put in bold those words that you considered important. I need to see the bolded words very clearly in this text, to do this you should probably use the bold tag. , write all output in [TARGETLANGUAGE]:

@@ -11,4 +11,10 @@ ID: 1897871559348736000
 PromptHint: [find your song's]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1897871559348736000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Find Your Song"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1897871559348736000/)_"
+---
+tell everything about song's around the world[TARGETLANGUAGE]
 
+[PROMPT]

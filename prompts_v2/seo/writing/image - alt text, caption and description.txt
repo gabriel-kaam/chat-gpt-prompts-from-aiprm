@@ -11,4 +11,12 @@ ID: 1784788648290684928
 PromptHint: [Write here your blog topic and Image details]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1784788648290684928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Image - Alt Text, Caption and Description"](https://www.aiprm.com/prompts/seo/writing/1784788648290684928/)_"
+---
+Your task is to write Alt Text, Caption and Description for Image in blog post based on Blog title and image details.
+and at the end of the article write this "Please support us by providing 1 do follow backlink to http://blogghere.com/
+All output shall be in [TARGETLANGUAGE]. The text to summarize it is this:
 
+[PROMPT]

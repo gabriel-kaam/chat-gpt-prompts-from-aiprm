@@ -11,4 +11,15 @@ ID: 1852585999587860480
 PromptHint: Paste main text
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1852585999587860480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "18 Word Excerpt"](https://www.aiprm.com/prompts/copywriting/writing/1852585999587860480/)_"
+---
+Write all output in [TARGETLANGUAGE].
+Could you summarize the following in a single sentence of 18 words or less, and no more than 160 characters in total. Make it compelling, imaginative, and SEO friendly. It is to be used as a blog excerpt. 
+Do not use the creature's name or the word myth, as these already appear in the title.
+Do not put inverted commas around the answer.
+Double check all the above instructions have been followed before outputting your answer. 
+Be sure the answer is 18 words or less.
+[PROMPT]
 

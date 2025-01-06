@@ -11,4 +11,9 @@ ID: 1792358699931787264
 PromptHint: Write Instagram Topic Name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1792358699931787264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Instagram Hashtags Generator With Keyword"](https://www.aiprm.com/prompts/seo/research/1792358699931787264/)_"
+---
+Create 20 Instagram trending hashtags Targeting an LSI Keyword with some search volume for the following Topic: [PROMPT]. No tags, separate keywords by space. Only capitalize proper nouns.
+[TARGETLANGUAGE]

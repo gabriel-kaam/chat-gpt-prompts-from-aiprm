@@ -11,4 +11,8 @@ ID: 1791173531464364032
 PromptHint: [KEYWORD] or  [LISTE OF KEYWORDS,  UP TO 4000 WORDS] by Niyonabil
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/stable-diffusion/1791173531464364032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blogger Articles"](https://www.aiprm.com/prompts/generative/stable-diffusion/1791173531464364032/)_"
+---
+Write an article for blogger articles, That have 4,000 long Words in This Category [PROMPT], Writein This Language [TARGETLANGUAGE], ,With SEO optimized content Include : Title, Meta,description,Label picture and title, add SEO [KEYWORDS] at the end of article,and count number of words,Continue Writing At the End

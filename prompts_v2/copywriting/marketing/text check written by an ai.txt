@@ -11,4 +11,8 @@ ID: 1804419342235070464
 PromptHint: [TEXT] that you want to be checked if it is written by an AI
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1804419342235070464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text check: Written by an AI?"](https://www.aiprm.com/prompts/copywriting/marketing/1804419342235070464/)_"
+---
+[TARGETLANGUAGE] On a scale of 0-10, where 0-1 stands for a human author and 8-10 stands for written by AI, evaluate the probability that the following text was written by an AI or by OpenAI [PROMPT]

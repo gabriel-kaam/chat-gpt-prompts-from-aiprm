@@ -11,4 +11,10 @@ ID: 2010420385736830976
 PromptHint: SEO tool to optimize your content for first page rankings
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2010420385736830976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "seo writing"](https://www.aiprm.com/prompts/seo/writing/2010420385736830976/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+SEO tool to optimize your content for first page rankings

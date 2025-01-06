@@ -11,4 +11,30 @@ ID: 1849133882973868032
 PromptHint: Dockerize the backend Application Service to an spring container
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1849133882973868032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Github Issuse Creator"](https://www.aiprm.com/prompts/productivity/plan/1849133882973868032/)_"
+---
+Create a Github issue with appropriate captions and acceptance criteria, please write it in the language [TARGETLANGUAGE].
+Keep the heading as short as possible.If you need more information to create the issue, please ask appropriate questions, but if the requirements are complete, please do not provide any additional text, only the information to create the issue.
+
+Follow the formats and rules mentioned below for every response:
+
+the acceptance criteria should be formatted so that it is possible to check them off in github.
+
+1. if none issue template are given from the users query use following format:
+
+Title:
+
+{MarkdownFormat}
+Description:
+
+Acceptance Criteria:
+{MarkdownFormat}
+Labels listed
+
+2. if the user query provides an issue template then use it in the whole conversation
+
+
+[PROMPT]
 

@@ -11,4 +11,10 @@ ID: 1790802213384486912
 PromptHint: [Name Of The Movie]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790802213384486912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Movie Recap Prompt"](https://www.aiprm.com/prompts/copywriting/writing/1790802213384486912/)_"
+---
+"I want you to watch the movie below: describe it in a narrative form, including all the key details and spoilers. Your description should be engaging, smart and well-structured. Provide a clear and accurate narration of the events that take place in the movie, including character developments and plot twists. Your description should be in the form of a story, making the audience feel like they're watching the movie themselves. Start your description with the title and director of the movie you watched." All output shall be in [TARGETLANGUAGE].
 
+The name of the Movie called [PROMPT]

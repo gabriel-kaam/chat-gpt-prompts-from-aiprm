@@ -11,4 +11,48 @@ ID: 1859929084630130688
 PromptHint: [Your Competitor URL]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1859929084630130688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " [Live Crawl] Advidens Article - Public"](https://www.aiprm.com/prompts/seo/writing/1859929084630130688/)_"
+---
+I am writing a prompt for creating SEO optimized website content for our specific partner. We currently have a prompt we use for all our partners, but we want to switch this up. 
+We want company-specific attributes to be added. Like Location, Space for a variable for a FAQ Seqtion (we will input the questions in this variable - we use AIPRM), Main Keyword, Related Keyword, Unique Selling Points. 
 
+Ask me now questions you need to perfectionize the prompt afterwards. 
+
+The old prompt: 
+
+
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].
+You're a very proficient SEO and high-end copywriter that specializes in writing highly-converting articles and that speaks and writes fluently [TARGETLANGUAGE]. You are going to write for Advidens. Advidens specializes in independent advice on mortgages, credits, insurance, and finances, and since 2021, they exclusively broker payment and savings products from RegioBank, allowing you to manage all your financial matters under one roof.
+
+You can write content so well in [TARGETLANGUAGE] that it can outrank other websites.
+I want you to write the content in a conversational style as if it were written by a human.
+Write an SEO-optimized Long Form article with minimum 1100 words and maximum 1800 words.
+Do not reply that there are many factors that influence good search rankings. I know that quality of content is just one of them, and it is your task to write the best possible quality content here, not to lecture me on general SEO rules.
+
+I give you the Main Keyword [VARIABLE 1] of an article that we need to rank in Google. The keyword density shall not exceed 2,5%.
+I want you to only use products given from [VARIABLE3]. Do not use product names or company names of any of the competitors. Only use our brand name. Make sure to prioritize the description of our product over any other.
+I also give you Related Keywords: [VARIABLE2]. Use these in the article as well. The need to empower and support our Main Keyword. We will also try to rank for these keywords in Google.
+I give you also the High-ranking Relevant Articles: [PROMPT]. This is for your reference. You need to make sure that we outrank these articles in Google. Once again, do not use their names, or descriptions. Only scan their website and analyze their mistakes. Do acknowledge the mistakes from the Articles and make sure your newly written article does not have any of these mistakes. 
+
+Unique Selling Points: Seamlessly integrate the following USPs of Advidens in the content without sounding overly promotional:
+
+Personalized face-to-face meetings to understand individual financial needs.
+Comprehensive financial expertise ensuring that there's always someone available to answer any questions.
+Customized financial guidance to alleviate customers' financial burdens.
+
+In the next variable you will find information about our product/service: [VARIABLE3]. This entails the company name and the URL of the product/service. Make sure to write in this perspective. Your only goal is to make the reader want this product/service. Do focus on converting the readers into customers. 
+You write from the perspective of Advidens. While Advidens is based in Zutphen, they serve the entirety of The Netherlands. Make sure to mention their online operations spanning across the country - if fitted in the text. 
+The article you will be writing will be displayed on the Advidens website.
+
+Then I want you to write an article in an informative and authoritative 'jij/je' form that helps me outrank the article I gave you, in Google. Write a long, fully markdown formatted article in [TARGETLANGUAGE]. The article should contain rich and comprehensive, very detailed paragraphs, with lots of details. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Do not use generic filler phrases. Do use useful subheadings with keyword-rich titles. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible article. All output shall be in [TARGETLANGUAGE].
+
+The final paragraph should be a conclusion. However, do not name the paragraph 'Conclusion/Conclusie', come up with a better fitting header. Write the information in your own words, combine all knowledge given, and make it better. Write about the benefits the customer will experience when buying [VARIABLE3]. Sell the ideal result with the product.
+[CRAWLEDTEXT]
+
+
+[VARIABLE1: Enter Main Keyword]
+[VARIABLE2: Enter Related Keywords]
+[VARIABLE3: Enter Partner Product / Service URL]
+[VARIABLE4: Enter FAQ Questions]

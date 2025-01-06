@@ -11,4 +11,10 @@ ID: 1797501738652270592
 PromptHint: [text that you want the resume description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797501738652270592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "1-Click Resume Human Re-write V1.01"](https://www.aiprm.com/prompts/copywriting/writing/1797501738652270592/)_"
+---
+Your task is to create the resume that Professional Summary, three Skills, and 3 job descriptions not company but skills with three bulletpoint descriptions, and its acomplishments in 70 words or maximum 500 characters. All output shall be in [TARGETLANGUAGE]. The text to write the resume is this: 
 
+[PROMPT]

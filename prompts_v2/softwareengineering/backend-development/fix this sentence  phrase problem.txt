@@ -11,4 +11,10 @@ ID: 1834159910515507200
 PromptHint: [Docstring/Comment]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1834159910515507200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fix this sentence / phrase problem"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1834159910515507200/)_"
+---
+Fix this git message problem to use in a commit message in terms of phrasing and grammar, and also line length (not more than 70 characters) and its format as a git message in [TARGETLANGUAGE] language:
 
+[PROMPT]

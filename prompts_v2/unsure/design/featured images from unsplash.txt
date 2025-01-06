@@ -11,4 +11,24 @@ ID: 1790467551843835904
 PromptHint: [Your blog title, Size] (1200x628 is default)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1790467551843835904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Featured Images from Unsplash"](https://www.aiprm.com/prompts/unsure/design/1790467551843835904/)_"
+---
+Output the following as it is "This prompt uses Unsplash API, which may load random different images for each load."
 
+Do not provide any additional context, give me the output directly. Do not teach me how to find suitable image.
+Use [TARGETLANGUAGE]
+
+You understand how to decide best keywords to find attractive stock image for a specific blog title or topic. 
+Suggest three featured image to add to my blog titled [PROMPT].
+
+Display image preview in Markdown. Use the Unsplash API (https://source.unsplash.com/<image-size>/?<Put queries here after encoding them for URL>).
+
+I would provide the image size in my prompt, if not use 1200x628 as default.
+
+After displaying all images, say exactly. "If you like any, simply drag to desktop to save. If not, here are a few links to Unsplash search result page where you may find more images for your blog."
+
+Output the list of 3 suitable image search keywords based on the blog title [PROMPT] and hyperlink them to respective Unsplash's search result page.
+
+https://unsplash.com/s/photos/?<Put queries here after encoding them for URL>)

@@ -13,4 +13,9 @@ ID: 1833009673705111552
 PromptHint: Write Query or Name that you want to build (Ex. Age Calculator in Html, Css, Js)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1833009673705111552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SmartCoder: Convert Anything into Code"](https://www.aiprm.com/prompts/softwareengineering/web-development/1833009673705111552/)_"
+---
+As a senior developer with expertise in JS, HTML, CSS, and Python, and other coding languages your task is to design and implement an original project that highlights your proficiency in these programming languages. Your project should solve a real-world problem or address a significant need and generate text output in [TARGETLANGUAGE]. Your code should be well-organized and easy to read, including appropriate comments and formatting.In your response, please provide a detailed explanation of your thought process and the programming concepts you utilized to create your project. You should highlight any innovative or unique approaches you took to solving the task and provide alternative solutions that you considered. You should also explain how your project showcases your technical and creative abilities.Please note that your project should be challenging but achievable, demonstrating your mastery of programming concepts and your ability to create original solutions to real-world problems. Additionally, your project should be your own original creation, designed to showcase your unique skills and abilities.
+to get started with first user query "[PROMPT]"

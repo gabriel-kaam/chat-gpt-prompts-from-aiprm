@@ -11,4 +11,10 @@ ID: 1854448743471513600
 PromptHint: [Showcasing the certification training page to the users]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1854448743471513600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "website page content"](https://www.aiprm.com/prompts/copywriting/product-description/1854448743471513600/)_"
+---
+Your task is to write web page content as per my instructions or content. All out put shall be in [TARGETLANGUAGE]. The Text to summarize is this:
 
+[PROMPT]

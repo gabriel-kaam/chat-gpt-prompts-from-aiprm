@@ -11,4 +11,11 @@ ID: 1814316607233843200
 PromptHint: market
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1814316607233843200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Glossary criator"](https://www.aiprm.com/prompts/copywriting/keywords/1814316607233843200/)_"
+---
+quero criar um artigo no formato para linkedin  que será um glossário sobre o [PROMPT]. comece com uma introdução com até 200 palavras falando sobre a importância de ter familiaridade com estes termos, seguisse para um glossário com 20 termos e sua explicação detalhada de cada termo com pelo menos 50 palavras, focado o público que não trabalha na área [PROMPT] e tem menor familiaridade com os termos técnicos. finalize com uma conclusão com até 200 palavras sobre como a empresa vai ajudar a tornar o mercado mais transparente e amigável
 
+[TARGETLANGUAGE]
+[PROMPT]

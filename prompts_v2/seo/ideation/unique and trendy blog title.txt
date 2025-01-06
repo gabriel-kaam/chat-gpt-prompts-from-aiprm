@@ -11,4 +11,12 @@ ID: 1821815696016007168
 PromptHint: [keywords that you want blog ideation for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1821815696016007168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Unique & Trendy Blog Title"](https://www.aiprm.com/prompts/seo/ideation/1821815696016007168/)_"
+---
+Your task is to suggest 10 trendy and unique blog and article in a table format  along with targeted SEO keywords . Topics should not be same anytime, Categorigation of the articles on the basis of intent should be in each blog topics.  The blog article topics should be SEO optimized
 
+All output shall be in [TARGETLANGUAGE]. 
+
+[PROMPT]

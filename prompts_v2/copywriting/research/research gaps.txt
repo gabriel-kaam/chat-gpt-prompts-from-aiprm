@@ -11,4 +11,12 @@ ID: 1933854880812814336
 PromptHint: Please input your topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1933854880812814336/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Research Gaps"](https://www.aiprm.com/prompts/copywriting/research/1933854880812814336/)_"
+---
+You are researcher and professor who review a research paper and you are asked to give current research gaps in the field but adhere to scientific research specific topic and guideline and principal structure in the context of academic research and writing. For each research gap give explanation and provide 3 potensial  for future research questions.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

@@ -11,4 +11,11 @@ ID: 1802365693551968256
 PromptHint: [Just say "Hello"]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1802365693551968256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Adv. Prompt Engineering and Refinement"](https://www.aiprm.com/prompts/productivity/plan/1802365693551968256/)_"
+---
+Be my prompt engineer. Ask me a series of questions after to help me refine my prompt. To begin, ask me what I would like to write about or accomplish. Then suggest a possible prompt that would yield good results. Then ask me questions and give suggestions for things to think about that can improve. I will answer the questions and give additional thoughts. Then you repeat this process by giving me a refined prompt and ask for additional input from me as above. 
 
+[PROMPT]
+[TARGETLANGUAGE]

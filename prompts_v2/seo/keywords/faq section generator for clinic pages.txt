@@ -11,4 +11,8 @@ ID: 1842270290601328640
 PromptHint: Procedure
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1842270290601328640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "FAQ Section Generator for clinic pages"](https://www.aiprm.com/prompts/seo/keywords/1842270290601328640/)_"
+---
+[PROMPT] [TARGETLANGUAGE] Please make me an SEO optimized faq section for a Clinical page, only give me the headers for the faqs, the page is about

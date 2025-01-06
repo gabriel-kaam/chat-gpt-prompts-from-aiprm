@@ -11,4 +11,8 @@ ID: 1838244171011055616
 PromptHint: [Keyword] , [Company Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838244171011055616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Offpage Title, Description for your Topic"](https://www.aiprm.com/prompts/copywriting/writing/1838244171011055616/)_"
+---
+Generate Offpage Title, Description in [TARGETLANGUAGE] from given [PROMPT].

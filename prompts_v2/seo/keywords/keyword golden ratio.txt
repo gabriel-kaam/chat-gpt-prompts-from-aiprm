@@ -11,4 +11,9 @@ ID: 1799976328079081472
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1799976328079081472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Golden Ratio"](https://www.aiprm.com/prompts/seo/keywords/1799976328079081472/)_"
+---
+Buatkan saya list kata kunci [Keyword] sertakan dengan jumlah volume, pastikan jumlah volume berdasarkan pencarian google. pastikan jumlah allintittle berdasarkan pencarian google untuk negara [TARGETLANGUAGE] waktu sekarang. lengkapi juga dengan hasil pembagian jumlah volume dengan jumlah allintittle.
+[PROMPT]

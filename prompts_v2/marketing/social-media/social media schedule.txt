@@ -11,4 +11,8 @@ ID: 1788962600164528128
 PromptHint: [KEYWORD] or [A list of keywords for your campaign]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1788962600164528128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Schedule"](https://www.aiprm.com/prompts/marketing/social-media/1788962600164528128/)_"
+---
+Please create a social media post schedule for topics such as [PROMPT]  in the form of a table, where I am posting to Facebook, Instagram, Twitter, Pinterest, Tik Tok, and YouTube. The type of posts include; tips, tricks, quotes, facts, statistics, activity ideas, inspiration, lesson plan ideas, recipes, and lists. The format of these posts can be text, images, short videos or long format videos.[TARGETLANGUAGE]

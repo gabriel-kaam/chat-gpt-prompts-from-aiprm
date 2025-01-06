@@ -11,4 +11,10 @@ ID: 1826980475575730176
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1826980475575730176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Titles Generator | SEO | Clickbait Style"](https://www.aiprm.com/prompts/marketing/marketing/1826980475575730176/)_"
+---
+I'd like you to help me come up with a content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with clickbait style titles for these blog posts. Please provide at least 50 titles. Please provide all responses in [TARGETLANGUAGE]
 
+The keyword I'm targeting is: [PROMPT]

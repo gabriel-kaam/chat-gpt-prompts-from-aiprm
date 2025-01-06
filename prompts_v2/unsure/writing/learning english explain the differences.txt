@@ -11,4 +11,10 @@ ID: 1826218145631961088
 PromptHint: [A, B] that you want to compare
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1826218145631961088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[Learning English] explain the differences"](https://www.aiprm.com/prompts/unsure/writing/1826218145631961088/)_"
+---
+Please explain the differences between the following two. All outpot shall be in [TARGETLANGUAGE] with example sentences. 
 
+[PROMPT]

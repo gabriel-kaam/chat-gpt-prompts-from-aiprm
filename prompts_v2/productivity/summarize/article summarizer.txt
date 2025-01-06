@@ -11,4 +11,10 @@ ID: 1814021836799995904
 PromptHint: input the link from the article here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1814021836799995904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Summarizer"](https://www.aiprm.com/prompts/productivity/summarize/1814021836799995904/)_"
+---
+Your task is to summarize the document given with full clarity. Use judgment to write a fitting length summary to the amount of information given. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+Text from: [PROMPT]

@@ -11,4 +11,11 @@ ID: 1801191715894456320
 PromptHint: create a meta description with maximum of 160 characters and use exact keyword 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1801191715894456320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "meta description"](https://www.aiprm.com/prompts/seo/keywords/1801191715894456320/)_"
+---
+create a meta description with maximum of 160 characters using exact keyword about the given keyword. Remove ". Use a call to action at the end. The given keyword is
+[PROMPT]
 
+Use  [TARGETLANGUAGE] 

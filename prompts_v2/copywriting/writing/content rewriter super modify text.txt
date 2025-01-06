@@ -11,4 +11,11 @@ ID: 1803361252056227840
 PromptHint: [Fill in the text you want to describe here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803361252056227840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content rewriter (Super Modify Text)"](https://www.aiprm.com/prompts/copywriting/writing/1803361252056227840/)_"
+---
+Your task is to rewrite the entire article in better language, please write it in a completely different style or tone that makes it unique in natural language, you want to make sure you understand the main ideas and content of the original article, grammatically correct, logically clear and as easy to read and understand as possible. 
+and at the end of the article write this "Thank you for your support - https://www.buymeacoffee.com/Solalita"
+All output should use [TARGETLANGUAGE].
+[PROMPT]

@@ -11,4 +11,17 @@ ID: 1941459287545008128
 PromptHint: [best article]  2200 maximum  2300
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1941459287545008128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "best article"](https://www.aiprm.com/prompts/copywriting/writing/1941459287545008128/)_"
+---
+I want to blog with SEO[TARGETLANGUAGE], English with Arabic
+
+I want facebook  to make a hashtag[ VARIEBLE1] the target audience. To click the linke in the facebook post
+
+I geve you the url [PROMPT] of an article and i want You to rite copy for facebook post [VARIABLE 1] the inded this facebook post
+
+The post copy should be summary and not longer than [ VARIABLE2] words
+
+[ CRRAWLDTEXT]
 

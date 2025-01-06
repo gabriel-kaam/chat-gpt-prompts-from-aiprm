@@ -11,4 +11,8 @@ ID: 1824213353908932608
 PromptHint: baby
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1824213353908932608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "kids"](https://www.aiprm.com/prompts/generative/dalle/1824213353908932608/)_"
+---
+TEXTO PROMPT [TARGETLANGUAGE] e [PROMPT] 

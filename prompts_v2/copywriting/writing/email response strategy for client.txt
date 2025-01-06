@@ -11,4 +11,11 @@ ID: 1811589894502608896
 PromptHint: [insert email text here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1811589894502608896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Email Response Strategy For Client"](https://www.aiprm.com/prompts/copywriting/writing/1811589894502608896/)_"
+---
+Your task is to act as an account manager and generate an email response to the text I give you. Please add suggestions on how to best serve the client as well. All output shall be in
+[TARGETLANGUAGE]. The email to respond to is this: 
 
+[PROMPT]

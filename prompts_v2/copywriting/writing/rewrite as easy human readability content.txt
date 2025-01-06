@@ -11,4 +11,13 @@ ID: 1800876451923496960
 PromptHint: Easy Readability [Paste Your Content here - To be Rewritten]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800876451923496960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite as Easy Human Readability Content"](https://www.aiprm.com/prompts/copywriting/writing/1800876451923496960/)_"
+---
+Your task is to rewrite the entire text in better words and make it unique with natural language, Personalization, Empathy, Variety, and Contextual awareness. 
 
+And at the end of the article In the Next Line write this "Please support us Buy Me a Coffee - https://www.buymeacoffee.com/founderdeepak
+Visit Our Website: https://bestgrd.com/"
+
+All output shall be in [TARGETLANGUAGE]. The text to rewrite it is this: [PROMPT]

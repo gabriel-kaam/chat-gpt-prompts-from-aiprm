@@ -11,4 +11,18 @@ ID: 1799490314264899584
 PromptHint: Topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1799490314264899584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate 10x high CTR SEO title Xiaohongshu"](https://www.aiprm.com/prompts/seo/writing/1799490314264899584/)_"
+---
+`reset`
+`no quotes`
+`no explanations`
+`no prompt`
+`no self-reference`
+`no apologies`
+`no filler`
+`just answer`
 
+I want you to be the top expert of Xiaohongshu, good at SEO + copywriting + video marketing, combined with the following titles, use [TARGETLANGUAGE] to imitate the title of Xiaohongshu’s popular article, add a lot of emoji to write 10 eye-catching Xiaohongshu’s popular article titles , choose the best one among them, and give reasons. Then write the SEO description based on the best title (the SEO description should also be loaded with emoji):
+[PROMPT]

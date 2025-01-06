@@ -11,4 +11,11 @@ ID: 1829835372222480384
 PromptHint: Introduce your websites
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1829835372222480384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Media Class"](https://www.aiprm.com/prompts/seo/research/1829835372222480384/)_"
+---
+Act like an SEO expert [TARGETLANGUAGE]. Classify JUST in Transaccional(shops, clinics, services, ecommerce) or Informacional(blogs, press, magazine) the follow list of websites:  [LIST OF PPAA]
+Your response must be a table with two columns: website and type (transactional or informational)
 
+[PROMPT]

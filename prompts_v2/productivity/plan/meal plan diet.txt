@@ -11,4 +11,10 @@ ID: 1794282653428740096
 PromptHint: [describe your goal and describe your eating habits]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1794282653428740096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meal Plan diet"](https://www.aiprm.com/prompts/productivity/plan/1794282653428740096/)_"
+---
+MEAL PLAN for a healthy and balanced diet.
+All output shall be in [TARGETLANGUAGE] 
+The text is this [PROMPT]

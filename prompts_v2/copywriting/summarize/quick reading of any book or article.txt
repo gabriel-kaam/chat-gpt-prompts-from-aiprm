@@ -11,4 +11,11 @@ ID: 1796340787412463616
 PromptHint: Quick reading of any book or article.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1796340787412463616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quick reading of any book or article."](https://www.aiprm.com/prompts/copywriting/summarize/1796340787412463616/)_"
+---
+ 
+En [TARGETLANGUAGE], explica de modo claro y exhaustivo lo siguiente; a partir del texto proporcionado y lo que creas necesario para complementar. además asegúrate de que tu lenguaje sea lo mas directo y comprensible por todos:
 
+[PROMPT]

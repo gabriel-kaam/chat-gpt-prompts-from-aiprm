@@ -11,4 +11,31 @@ ID: 1792936120640864256
 PromptHint: Describe your business. E.g. A Design Agency, a Thai Restaurant in Singapore, etc.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1792936120640864256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Content Planner: Website Pages and Articles"](https://www.aiprm.com/prompts/seo/ideation/1792936120640864256/)_"
+---
+Create a Website Content Plan for a business focusing on [PROMPT]. 
 
+Create the Website Content Plan as if you are ChatGPT Plus and using your best ability and the most updated and relevant data to deliver the highest quality output with demonstrate expert-level SEO knowledge. 
+
+Please start with using one sentence to describe what you will deliver. 
+
+
+The Website Content Plan should contain two tables:
+
+1) Website Pages Ideas
+Conduct keyword research to discover the homepage keywords and 10 core keywords related to the business. Assign each keyword to one website page. No need to include FAQ, Gallery, and Contact us pages.
+
+Please create a super engaging and attractive title for each page according to its core keywords. Give an outline for each page. 
+
+Put all the above information into a table logically and clearly. No need to list out the keywords separately, but only put them into the table. 
+
+2) Blog Post Ideas 
+After that, please create another table with 10 Blog Post Ideas most relevant to the business and its website pages. Provide the blog post topics, keywords, outline, and Which page I should use the internal link to link to.
+
+(Each keyword in the two tables should be used once only.)
+
+Finally, suggest the writing style and tone that works best for the website. 
+
+Write everything in [TARGETLANGUAGE]

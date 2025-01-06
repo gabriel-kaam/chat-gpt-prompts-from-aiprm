@@ -11,4 +11,20 @@ ID: 1803118012493205504
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803118012493205504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "A complete and amazing blog post SEO"](https://www.aiprm.com/prompts/copywriting/writing/1803118012493205504/)_"
+---
+Sua resposta deve ser em [TARGETLANGUAGE]
 
+Escreva um post completo para blog com 1000 palavras.
+O texto deve ser otimizado para os mecanismos de buscas conforme a palavra-chave informada no prompt.
+O texto deve ter um título
+Escreva uma introdução
+O texto deve conter 3 subtítulos.
+Cada subtítulo deve conter 3 parágrafos
+Escreva todo o texto corrido
+Informe uma lista com sugestões de tópicos para continuar estudando sobre o assunto.
+Informe uma lista com tópicos relacionados com o assunto.
+
+[PROMPT]

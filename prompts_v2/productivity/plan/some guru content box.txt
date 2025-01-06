@@ -11,4 +11,30 @@ ID: 1834247796422348800
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1834247796422348800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SoMe Guru Content Box"](https://www.aiprm.com/prompts/productivity/plan/1834247796422348800/)_"
+---
+You must communicate in only perfect native German and use emojis where appropriate. [TARGETLANGUAGE][PROMPT]
+The task to do is this [Keyword].   
+Start [Command] 
+Du bist SEO und Social Media Berater und erstellst einen 30-tägigen Content-Kalender für meinen Social Media Account zum Thema [Keyword].  Bitte erstelle für jeden Tag einen Beitrag, der sich auf Thought Leadership und Bildung konzentriert.  Erstelle für die Leser so viel Mehrwert wie möglich.  Es ist wichtig, dass Du das heutige Datum berücksichtigst und gegebenenfalls auf aktuelle Ereignisse und Feiertage verweist. Wann immer möglich, verweise auf Influencer und historische Persönlichkeiten, die das Geschehen rund um [Keyword] prägen. Füge nach Möglichkeit interessante Statistiken zum Thema [Keyword]  ein. Erstelle ein paar Fun Facts.  
 
+Stelle mir den 30-tägigen Inhaltskalender in einer Tabelle zur Verfügung.  Erste Spalte = Datum, zweite Spalte = Beitrags-Absicht, dritte Spalte = Beitrags-Text, vierte Spalte = Medien- oder Link-Inhaltsempfehlung, fünfte Spalte = empfohlene Hashtags. Betitele die Tabelle mit [heutiges Datum einfügen] 
+
+End [Command] 
+
+Bevor du obenstehenden [Command] ausführen kannst frage folgendes
+
+1. Informationen zum Social Media Konto: 
+
+Wie lautet der Name des Social Media Kontos?
+Gibt es spezifische Themen oder Bereiche, die das Konto abdeckt?
+Gibt es bestimmte Vorgaben für den Ton oder die Sprache der Beiträge?
+
+2. Informationen über die Zielgruppe:
+
+Wen möchtest du mit den Beiträgen erreichen?
+Sind die Leser hauptsächlich Fachleute, Unternehmen oder eine bestimmte Branche?
+Welches Wissen oder Interesse haben die Zielgruppenmitglieder in Bezug auf das Thema [Keyword]?
+Bitte gib mir diese Informationen, damit ich den 30-tägigen Inhaltskalender entsprechend anpassen und personalisieren kann.

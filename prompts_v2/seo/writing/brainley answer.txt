@@ -11,4 +11,14 @@ ID: 1844023626253987840
 PromptHint: the answer should be in two paragraphs, with the first one containing the main answer of about 20 to 30 words. Then in the second paragraph, there will be its explanation which should be more than about 100 words.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1844023626253987840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Brainley Answer"](https://www.aiprm.com/prompts/seo/writing/1844023626253987840/)_"
+---
+ [PROMPT] - All the question i will be asking you in this chat, I want you to answer them in 100 - 150 words.
+Make sure there is no plagarism or vulgarism in those answers.
+Additionally, I want you to follow a certain format 
+The first para must be the final/main answer and should not be more than three lines and less than one line, it must contain a part of the question as well.
+The second para is the supporting answer or a detailed explanation of the question, make sure you don't repeat the same thing in both the paragraphs.
+Bold 2 key words in the main answer and 2 more in the supporting answer, make sure the keyword is related to the same subject as the question is asked and could be used for better SEO. its explanation which should be more than about 120 words.
+ [TARGETLANGUAGE] - Please write in English.

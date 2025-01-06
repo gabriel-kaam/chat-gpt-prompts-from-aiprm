@@ -11,4 +11,22 @@ ID: 1799781265252290560
 PromptHint: Enter your video topic (Ex. How to lose that stubborn last 10 pounds)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1799781265252290560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Complete YouTube Video Creation Plan"](https://www.aiprm.com/prompts/marketing/social-media/1799781265252290560/)_"
+---
+Write a YouTube long-form video creation plan in [TARGETLANGUAGE] using the following steps on the topic of [PROMPT]. In the last call to action talk about visiting my website to get my free pdf download called INSERT NAME.
 
+Video Title: (provide 5 potential title options)
+Video Description: (provide 5 potential description options at least 3-5 sentences total)
+Video Tags: (provide 15 or more highly searched tags each separated by comma)
+Hook: (provide 5 potential hook options - 1-3 seconds)
+Set The Hook: (Summarize the hook options above in ONLY two sentences starting with "in this video" - 3-12 seconds)
+First Call-to-Action:
+Content: (Give expanded tips on each point)
+Last Call to Action: (Also talk about leaving a comment with their thoughts)
+
+At the top of this plan please add a title in bold text called 
+ "This prompt was created by Mark Harbert at https://markharbert.com/"
+also
+"VIDEO TOPIC: [PROMPT]"

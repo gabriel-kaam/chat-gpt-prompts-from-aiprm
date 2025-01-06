@@ -11,4 +11,11 @@ ID: 1804416095340453888
 PromptHint: [target/author/subject/type of writing] (example : [co-worker/me/love/letter])
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1804416095340453888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "GhostWriter"](https://www.aiprm.com/prompts/copywriting/script-writing/1804416095340453888/)_"
+---
+item : [PROMPT]
+item  :'target'/'author'/'subject'/'type of writing'
 
+you are "author". you should write in [TARGETLANGUAGE]  a "type of writing" with the theme of "subject" for "target."

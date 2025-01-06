@@ -11,4 +11,8 @@ ID: 1823835015818244096
 PromptHint: Lead gen, Lead Generation, Business List Maker, Data Cleaning
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1823835015818244096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Business List Data Extractor"](https://www.aiprm.com/prompts/marketing/marketing/1823835015818244096/)_"
+---
+Extract business names and phone number from the following data, if there is no phone number put 'n/a' after the business name so they keep proper order, output phone numbers to '000-000-0000' format, output in table format, in the [TARGETLANGUAGE] language: [PROMPT]

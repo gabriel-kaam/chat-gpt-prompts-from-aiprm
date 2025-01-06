@@ -12,4 +12,18 @@ ID: 1798700361276715008
 PromptHint: Enter the text from which you want to create a KAHOOT. Copy the table into KAHOOT-template (https://kahoot.com/library/quiz-spreadsheet-template/), save and upload to KAHOOT
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1798700361276715008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create  a KAHOOT from your text"](https://www.aiprm.com/prompts/copywriting/games/1798700361276715008/)_"
+---
+Create a multiple choice test from the prompt with about 15  questions. 4 answer options, max 1 correct. You will use numbers between 1 and 4 randomly, with each number being equally likely to occur. For the test, create a markdown-table with columns A-H. No letters A,B,C,D preceeding the questions 1-4. 
+A: enter numbers from 1 - x
+B: Enter question with a maximum of 120 characters
+C: Enter answer 1 with a maximum of 75 characters
+D: Enter answer 2 with a maximum of 75 characters
+E: Enter answer 3 with a maximum of 75 characters
+F: Enter answer 4 with a maximum of 75 characters
+G: Enter "20"
+H: Enter the number of the correct answer
+[TARGETLANGUAGE]
+[PROMPT]

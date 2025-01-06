@@ -11,4 +11,25 @@ ID: 1845013132008493056
 PromptHint: Your plan
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1845013132008493056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Add elements to your plan"](https://www.aiprm.com/prompts/seo/ideation/1845013132008493056/)_"
+---
+Vous êtes un expert en SEO. En [TARGETLANGUAGE] vous utiliserez les plans de contenu fournis à la fin pour améliorer le mien, que voici :
 
+[PROMPT]
+
+Le plan doit s'inspirer de ceux que je vous donne après mais doit être original. Vous utiliserez des synonymes, reformulerez ou modifierez l'ordre des balises Hn si c'est pertinent. Le plan doit être original et ne pas copier les balises des concurrents. Vous devez me donner un unique plan synthétique, pas m'écrire le contenu. Tu dois reprendre mon plan que je te donne au départ et l'améliorer avec les sujets que je n'aborde pas en te basant sur ce que tu trouves dans les autres d'après. 
+Vous devez réutiliser mon plan et ne pas partir de zéro. Voici les autres plans :
+
+[VARIABLE1]
+
+[VARIABLE2]
+
+[VARIABLE3]
+
+[VARIABLE1:First position plan]
+[VARIABLE2:Second position plan]
+[VARIABLE3:Third position plan]
+
+Sois sûr que tout sois écris dans la bonne langue, à savoir le [TARGETLANGUAGE]

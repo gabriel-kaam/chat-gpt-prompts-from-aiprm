@@ -11,4 +11,9 @@ ID: 1800531073210519552
 PromptHint: Describe the product or the service to create, the possible market and the neccesary resources
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1800531073210519552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Business Strategy using TOWS analysis"](https://www.aiprm.com/prompts/copywriting/products/1800531073210519552/)_"
+---
+Your task is to create a brief swor analysis for the product or service: [PROMPT] taking in account its main characteristics, and considering the market in focus then aply a detailed tows analysis on the swot analysis results. Use an analytic formal analysis taking in account technological and enviromental trends. Avoid increased risk. [TARGETLANGUAGE]
 

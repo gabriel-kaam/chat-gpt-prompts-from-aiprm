@@ -11,4 +11,8 @@ ID: 1805923707521331200
 PromptHint: Give me an short image description of 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1805923707521331200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Give me an short image description of "](https://www.aiprm.com/prompts/marketing/marketing/1805923707521331200/)_"
+---
+[TARGETLANGUAGE]  [PROMPT] 

@@ -11,4 +11,18 @@ ID: 1800820234224132096
 PromptHint: Paste Email Here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1800820234224132096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SPAM Tester 1.2| Best for Email Marketing "](https://www.aiprm.com/prompts/marketing/writing/1800820234224132096/)_"
+---
+Be fluency in [TARGETLANGUAGE] 
+Now I want to ask you to please act like mail-tester.com
+Check this Email in Prompt and then give Results like this structure
+Write in Bold H1 Style ( Welcome To Spam Tester)  
+Write in Bold H2 Style ( Support Me www.buymeacoffee.com/AyazAhmad )   
+(1) Spam Score with Color ( If Very Good then Type Bold H3 Style (Green) ) ( If upto Two Spammy word then Type Bold H3 Style (Orange) ) (If More Than Three Spam Word Then Type Bold H3 Style (Red) )
+(2) Spam Word Count ( in Digits)
+(3) Make Spreadsheet of Spam Words that included in my Email and Suggest Good Words on Right Column
+My Email is [PROMPT]
+(Remember  Do Not Re-Write my Email)
+( After giving result Write in Bold H3 Style ( Please Thumbs Up for this Prompt )

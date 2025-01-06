@@ -11,4 +11,9 @@ ID: 1794690749615566848
 PromptHint: Describe the image you want to create
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1794690749615566848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create an image with ChatGPT"](https://www.aiprm.com/prompts/generative/midjourney/1794690749615566848/)_"
+---
+[TARGETLANGUAGE]
+INPUT = {focus} OUTPUT = {description}\n ![MG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference} INPUT = [ [PROMPT] ]

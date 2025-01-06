@@ -11,4 +11,14 @@ ID: 1814181080148996096
 PromptHint: Your current headline ; keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1814181080148996096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Frontload HL Keyword"](https://www.aiprm.com/prompts/seo/writing/1814181080148996096/)_"
+---
+Please optimize the headline given and keep it under 75 characters with all output in [TARGETLANGUAGE]. The headline to summarize is this:
 
+[PROMPT]
+
+The keyword to frontload is this:
+
+[PROMPT]

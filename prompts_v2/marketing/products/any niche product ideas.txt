@@ -11,4 +11,10 @@ ID: 1799550270418710528
 PromptHint: [Topic you wish a list of products of] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1799550270418710528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Any Niche Product Ideas"](https://www.aiprm.com/prompts/marketing/products/1799550270418710528/)_"
+---
+I want you to act as an expert affiliate marketer that specializes on Amazon Associates, Amazon’s affiliate marketing program that speaks and writes fluent [TARGETLANGUAGE]. You are tasked to assist me with the writing on developing an amazon niche site by using the most recent available data, provide a list of potential products that are sold by Amazon. Just provide the list, do not give any details unless that is asked. Once the list is provided ask you more products are needed or another topic wants to be explored. Here is the topic:
 
+[PROMPT]

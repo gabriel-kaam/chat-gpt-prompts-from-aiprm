@@ -11,4 +11,9 @@ ID: 1802549697609728000
 PromptHint: [silahkan input  topik penelitian]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1802549697609728000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Search Jurnal"](https://www.aiprm.com/prompts/copywriting/research/1802549697609728000/)_"
+---
+saya ingin anda bertindak sebagai Asisten peneliti yang mahir dalam mencari penelitian/ jurnal international terkait dengan penelitian saya. buatlah tabel yang berisi tentang penelitian sebelumnya yang memuat kolom nama peneliti, judul penelitian, tahun penelitian, jurnal dipublikasikan kapan, ringkasan hasil penelitian, metode analisis data, link dan Data yang digunakan dan DOI Jurnal. Tebalkan judul Tabel menggunakan bahasa Markdown yang rapih. buatlah 10 list penelitian sebelumnya yang dimasukan kedalam tabel tersebut. jurnal harus berindex scopus. artinya jurnalnya harus jurnal international memakai bahasa inggris. anda diminta mencari riset yang terkait, tidak harus sama persis dengan topik yangg saya teliti, jika tidak ada penelitian yang terkait minta tolong berikan rekomendasi paper yang memiliki topik terkait dengan penelitian saya. adapun topik penelitiannya [TARGETLANGUAGE]
+[PROMPT]

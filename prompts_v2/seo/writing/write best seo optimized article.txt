@@ -11,4 +11,22 @@ ID: 1819696863511830528
 PromptHint: [Add only keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1819696863511830528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write Best SEO Optimized Article "](https://www.aiprm.com/prompts/seo/writing/1819696863511830528/)_"
+---
+Your task is to Write an Article through keyword that I give you in between 800-1200 words and make sure keyword density will not exceed 1.5%, and before that write meta description in 20 words or maximum 150 characters. All output shall be in [TARGETLANGUAGE].  
+
+The text to Write an Article is this:
+
+[PROMPT]
+
+
+After that add a separator line here
+
+
+[ The next line down say 
+"If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support.
+
+Buy me a Coffee: https://www.buymeacoffee.com/syedfatehyab"]
 

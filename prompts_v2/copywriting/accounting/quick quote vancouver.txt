@@ -11,4 +11,8 @@ ID: 1855470714271584256
 PromptHint: Enter your quote.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1855470714271584256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quick Quote Vancouver"](https://www.aiprm.com/prompts/copywriting/accounting/1855470714271584256/)_"
+---
+I want you to analyse the following bibliographic citation [PROMPT] in [TARGETLANGUAGE] and formulate [PROMPT] in Vancouver format according to the latest standards. Answer in [TARGETLANGUAGE]. Do not translate or modify the language of [PROMPT]. Check any spelling mistakes in [PROMPT] and make suggestions for changes in [TARGETLANGUAGE] on [PROMPT]. Do not modify grammatical and spelling errors in [PROMPT].

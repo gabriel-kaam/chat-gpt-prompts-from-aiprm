@@ -11,4 +11,11 @@ ID: 1800264116565434368
 PromptHint: test prompt learning
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1800264116565434368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "test prompt save"](https://www.aiprm.com/prompts/copywriting/accounting/1800264116565434368/)_"
+---
+[PROMPT]
+
+Please write in clinical tone, informative writing style, [TARGETLANGUAGE].
 

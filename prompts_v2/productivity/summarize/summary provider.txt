@@ -11,4 +11,10 @@ ID: 1942157699110924288
 PromptHint: Provide the information you want to summerize
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1942157699110924288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summary Provider"](https://www.aiprm.com/prompts/productivity/summarize/1942157699110924288/)_"
+---
+Provide a summary of the [PROMPT]
 
+Provide a response in [TARGETLANGUAGE]

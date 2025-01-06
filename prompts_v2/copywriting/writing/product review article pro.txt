@@ -11,4 +11,12 @@ ID: 1786503176887996416
 PromptHint: [keyword] Or [product Name And Model] Or [review Article Title ] Etc
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1786503176887996416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product review article PRO"](https://www.aiprm.com/prompts/copywriting/writing/1786503176887996416/)_"
+---
+You write a product review article Minimum 100000000 character. include  SEO Article Title, SEO meta description, Focus keyword, Short article summary
+Short article summary, Introduction, products Information, Article body, Why people prefer This products, Feture, Additional Features, Warranty & Service, Other Users Opinion, Final Verdict, Pros and cons, Conclusion, See more information and Buy on amazon, 5 FAQ and answer. 5 article relevant Photo Link.
+[TARGETLANGUAGE].  The sentence to summarize is this.
 
+[PROMPT]

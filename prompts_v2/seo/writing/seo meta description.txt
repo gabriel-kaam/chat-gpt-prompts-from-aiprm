@@ -11,4 +11,10 @@ ID: 1839591000311083008
 PromptHint: [text that you want a meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1839591000311083008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Meta Description "](https://www.aiprm.com/prompts/seo/writing/1839591000311083008/)_"
+---
+Your task is to summarize the text I give you IN 20-100 words. All out put shall be in [TARGETLANGUAGE]. The text to summarize is this: 
 
+[PROMPT]

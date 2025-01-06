@@ -11,4 +11,10 @@ ID: 1807434248282693632
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1807434248282693632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate a list of alternative keywords"](https://www.aiprm.com/prompts/marketing/research/1807434248282693632/)_"
+---
+Your task is to find synonyms for words I give you in a bulleted format.
+[TARGETLANGUAGE]
+[PROMPT] 

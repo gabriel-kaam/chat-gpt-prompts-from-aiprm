@@ -11,4 +11,8 @@ ID: 1999523075616149504
 PromptHint: Please upload your images and enter your website URL.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1999523075616149504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate SEO Image Metadata"](https://www.aiprm.com/prompts/seo/web-development/1999523075616149504/)_"
+---
+I will provide you with several images, and I need you to write SEO-friendly metadata for them (title, description, alt text, caption, etc.). The goal is to help rank my website higher in Google search results, considering recent updates to Google's algorithms. Use the following website URL: [PROMPT], and apply the metadata to the images: [IMAGES]. Write everything in [TARGETLANGUAGE].

@@ -11,4 +11,12 @@ ID: 2027645561477922816
 PromptHint: Please ... Write A Unique, Seo Optimized Article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2027645561477922816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write A Unique, Seo Optimized Article"](https://www.aiprm.com/prompts/copywriting/writing/2027645561477922816/)_"
+---
+You are writer and you are asked to write a unique, SEO optimized article, but generate content based on established knowledge up to the last training cut-off in the context of fiction and creative writing projects.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

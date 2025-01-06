@@ -11,4 +11,18 @@ ID: 1818239516625080320
 PromptHint: Write Title followed by Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1818239516625080320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rank Math SEO Optimised Meta title "](https://www.aiprm.com/prompts/seo/writing/1818239516625080320/)_"
+---
+Taking this title: [TITLE]
+Please use the Keywords [PROMPT]
 
+Re write (ensuring under 60 characters) to the following requirements:
+
+Focus Keyword used at the beginning of SEO title.
+Title to contain a positive or a negative sentiment word.
+Title to contain a power word. Add at least one.
+SEO title to contain a number.
+
+Write all output in [TARGETLANGUAGE]

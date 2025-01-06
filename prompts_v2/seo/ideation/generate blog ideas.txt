@@ -11,4 +11,10 @@ ID: 1821674621922185216
 PromptHint: Enter Your Keywords here, for e.g [Keyword 1], [Keyword 2], [Keyword 3]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1821674621922185216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Blog Ideas"](https://www.aiprm.com/prompts/seo/ideation/1821674621922185216/)_"
+---
+Generate three blog ideas for the following keywords and all should be in [TARGETLANGUAGE]: 
 
+[PROMPT]

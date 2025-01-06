@@ -11,4 +11,9 @@ ID: 1896818851799887872
 PromptHint: [your list of keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1896818851799887872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comparison Chart of 4 countries"](https://www.aiprm.com/prompts/seo/keywords/1896818851799887872/)_"
+---
+Create a detailed comparison chart for the keywords will be provided. Include information on the world's top 4 countries (mention the country names) producing or manufacturing the above-mentioned product. Gather data from reputable sources on the internet. Each chart should consist of a minimum of 20 specifications for the specified product. Ensure that the information is presented in the English language.
+'Your task is [PROMPT]. The [TARGETLANGUAGE] is [ENGLISG]'

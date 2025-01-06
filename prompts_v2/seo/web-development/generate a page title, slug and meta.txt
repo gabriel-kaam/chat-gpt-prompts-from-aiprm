@@ -11,4 +11,10 @@ ID: 1842090630731018240
 PromptHint: Please enter your keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1842090630731018240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate a Page title, Slug and Meta"](https://www.aiprm.com/prompts/seo/web-development/1842090630731018240/)_"
+---
+Generate a SEO page title, slug and meta description in [TARGETLANGUAGE] for the following keyword:
 
+[PROMPT] 

@@ -11,4 +11,11 @@ ID: 1839936978973102080
 PromptHint: [Type your Keyword Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839936978973102080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ranked Keyword Article"](https://www.aiprm.com/prompts/copywriting/writing/1839936978973102080/)_"
+---
+Create [SEOOPTIMISED] blog post content in [TARGETLANGUAGE] which is 100% [HUMANWRITTEN] and 
+ [HUMANPATTERN]. Generated Content is [PLAGIARISMFREE] and focus on  [GOOGLERANKEDKEYWORD] & bypass [AI]
+Summarise this :
+[PROMPT]

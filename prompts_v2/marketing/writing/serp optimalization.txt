@@ -11,4 +11,15 @@ ID: 1845145694093701120
 PromptHint: [question1 +  question answer, repeat as many as you can find]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1845145694093701120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SERP Optimalization"](https://www.aiprm.com/prompts/marketing/writing/1845145694093701120/)_"
+---
+The goal is to give me blog recommendations based on this [PROMPT]. Give the output in the [TARGETLANGUAGE]
+
+Imagine that you are a Google ads specialist with 10 years of experience.
+
+Could you based on these questions, give me blog recommendations and a five-sentence snippet per question.
+
+Afterward, be constructive and advise me on optimizing the technical SEO.
 

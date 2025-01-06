@@ -11,4 +11,8 @@ ID: 1787103541173944320
 PromptHint: [Type a topic or subject you wish to create a lesson plan for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1787103541173944320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lesson Plan"](https://www.aiprm.com/prompts/productivity/plan/1787103541173944320/)_"
+---
+Topic: [PROMPT] For the topic above, create a lesson plan. Prioritize the Grade level and age of the child, the time it will take per topic, Objectives, Materials, Introduction, Instruction, Practice Exercises, and Assessment in the form of a quiz, Extensions beyond the class, and Interactive Fun Activities.[TARGETLANGUAGE] Add appropriate video links 

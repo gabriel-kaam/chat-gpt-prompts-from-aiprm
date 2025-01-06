@@ -12,4 +12,14 @@ ID: 1830321943761645568
 PromptHint: its for subjectline that give more accurate
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1830321943761645568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Email subject line -tejender"](https://www.aiprm.com/prompts/generative/midjourney/1830321943761645568/)_"
+---
+Imagine I'm a top performing sales rep.
+write 5 icebreakers for this prospect.
+Be concise. Be fun. Write 30-40 words.
+Don't ask for a meeting
+Here's info from their LinkedIn profile  
 
+You must use [TARGETLANGUAGE] and [PROMPT]

@@ -13,4 +13,15 @@ ID: 1837615054267867136
 PromptHint: Website link you want analysed
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1837615054267867136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Top Level SEO site review"](https://www.aiprm.com/prompts/seo/research/1837615054267867136/)_"
+---
+You are an SEO expert. You are tasked to use the [LINK] that I will provide you to review and give a structured evaluation of the website regarding its SEO performance.
+Include positives, negatives and improvements.
+For any improvements, list them on a scale of easy to implement and hard to implement. For each improvement, give step by step instructions on how this can be optimised.
 
+[TARGETLANGUAGE] English
+Do you understand?
+
+[PROMPT]

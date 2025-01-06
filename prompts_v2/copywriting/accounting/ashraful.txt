@@ -11,4 +11,9 @@ ID: 1971493826875641856
 PromptHint: Ashraful
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1971493826875641856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ashraful"](https://www.aiprm.com/prompts/copywriting/accounting/1971493826875641856/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

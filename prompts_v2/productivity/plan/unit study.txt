@@ -11,4 +11,10 @@ ID: 1787346350627872768
 PromptHint: [KEYWORD] or [Your list of keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1787346350627872768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Unit Study"](https://www.aiprm.com/prompts/productivity/plan/1787346350627872768/)_"
+---
+Create a Unit Study in [TARGETLANGUAGE] on the topic of [PROMPT] with the following in mind for each section. Add age and grade requirements. Create a schedule that will last 5 days.
+Choose a topic, and outline the goals that will be accomplished at the end of this unit study.
+Create a list of books with available amazon links that will support the topic, Create a list of Documentary, DVD, or YouTube videos with links that can support this topic. Include arts and crafts if possible as the activity that can help with the unit study topic. Plan a field trip, add a science project, Add there is a history section and geography component that can support the topic add it as well.  If the topic is mentioned in the bible please add it.

@@ -11,4 +11,10 @@ ID: 1899408746900869120
 PromptHint: create sales funnel post, create a converting post
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1899408746900869120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Sales Funnel Post"](https://www.aiprm.com/prompts/unsure/writing/1899408746900869120/)_"
+---
+Your task is to write a 80 words or 500 characters post based on the text I give you. All output shall be in [TARGETLANGUAGE]. The text to write post about is this;
 
+[PROMPT]

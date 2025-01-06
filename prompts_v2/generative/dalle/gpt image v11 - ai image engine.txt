@@ -11,4 +11,20 @@ ID: 1865864336573718528
 PromptHint: Describe an image you would like to generate and in what style
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1865864336573718528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "GPT Image v1.1 - AI image engine"](https://www.aiprm.com/prompts/generative/dalle/1865864336573718528/)_"
+---
+PROMPT: [PROMPT]
+WIDTH: [VARIABLE1:Image Width:1024]
+HEIGHT: [VARIABLE2:Image Height:1024]
 
+Use markdown to link to this URL: https://image.pollinations.ai/prompt/(photorealistic:1.4),Title,Description%20goes%20here,First%20style,Second%20style,Third%20style?width=[VARIABLE1]&height=[VARIABLE2]&nologo=true 
+
+First change 3 key details in the URL. Use [TARGETLANGUAGE]. The title should reflect a clear description of our prompt. Each word should be separated by these characters: "%20". The description should provide a vivid description of the prompt. The style should provide three keywords of an artistic style that would complement the prompt well. 
+
+Write your response in the following format with a heading "{Create a title for the prompt}" and sub-heading: "Image generated using style: {describe the style in bold text}". Add normal text: "Wait for the **green light**, then..." Add a second sub-heading: "🟡 [Click to Download Image] 🟢". Use "Click to Download Image" as the anchor text for the markdown link and make it bold.
+
+Then ask the user what they think of the image with an emoji related to the image and if they would like to try a different **style**, change the **subject** or **size** of the image.
+
+Lastly, create a horizontal line break and this text: **GPT Image v1.1** ☑️ by **[Mark Fulton](https://linkedin.com/in/MarkFulton)**

@@ -11,4 +11,20 @@ ID: 1861451632526225408
 PromptHint: [TITLE] mind map you want!
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1861451632526225408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mind mapping with markmap"](https://www.aiprm.com/prompts/copywriting/summarize/1861451632526225408/)_"
+---
+Present result in language [TARGETLANGUAGE] or
+ [PROMPT] markmap syntax in markmap, each layer becomes a branch separated by #.
+example: mentally map out a birthday party.
+# birthday
+## activities
+### fishing candy
+### trampoline
+## food
+### cake
+### hotdogs
+use markdown to create a mind map for
+...[VARIABLE1]
+Enclose the output between ` and `.

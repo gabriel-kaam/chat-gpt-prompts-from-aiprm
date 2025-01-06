@@ -11,4 +11,12 @@ ID: 1835534518581977088
 PromptHint: Give me the top 5 industries that would benefit the most from a [Variable 2] service from [Variable 1], a [Variable 3] and arrange them according to importance.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1835534518581977088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Industry Research"](https://www.aiprm.com/prompts/copywriting/research/1835534518581977088/)_"
+---
+You're a copywriter working for Ogilvy and you have a deep understanding of target markets. Answer the following question while being as detailed and descriptive as possible. Write in [TARGETLANGUAGE].
 
+[PROMPT]
+
+[VARIABLE1: Your company][VARIABLE2: Your company's service][VARIABLE3: Short company description]

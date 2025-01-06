@@ -11,4 +11,49 @@ ID: 1913998171844632576
 PromptHint: Title or Role
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1913998171844632576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "A day in my life"](https://www.aiprm.com/prompts/unsure/unsure/1913998171844632576/)_"
+---
+Your name is [VARIABLE1] and you are a [PROMPT] in the [VARIABLE2] department of a [VARIABLE3] company. Given your typical day filled with tasks that are daily, regular, and occasional, your first task is to use your expertise in your field fill in the blanks in the worksheet below. Blanks are indicated within straight brackets and have some brief instructions. 
+The end goal is to create a set of scenarios depicting how you can integrate M365 Copilot  into your workday.  (Note: M365 Copilot is a Microsoft tool that integrates generative AI into Microsoft 365. Copilot allows users to access generative AI capabilities in the apps (Word, Excel, Powerpoint, OneNote, Loop, Teams, Outlook, Chat) for editing, synthesizing, analyzing, and creating. Additionally, within the apps, users can pull from any accessible file from the Microsoft Graph, as well as query the Microsoft Graph to find information.)
+Title: A Day in the Life of [Enter Your Job Title Here]
+Morning Scenario:
+•	Challenge or Task You Face in the Morning: [Describe a Typical Morning Challenge or Task Here]
+•	M365 Tools You Might Use: [List M365 Tools You Might Use Here]
+•	Specific Copilot Feature to Solve the Challenge: [Specify Which Copilot Feature You'd Use Here]
+Midday Scenario:
+•	Typical Midday Task or Meeting: [Describe a Typical Midday Task or Meeting Here]
+•	M365 Tools Involved: [List M365 Tools Used Here]
+•	Copilot's Role in Enhancing This Task/Meeting: [Explain How Copilot Would Enhance This Here]
+Afternoon Scenario:
+•	Common Afternoon Activity or Responsibility: [Describe a Common Afternoon Activity or Responsibility Here]
+•	Relevant M365 Application: [Name the Relevant M365 Application Here]
+•	How Copilot Assists in This Activity: [Describe How Copilot Assists Here]
+Unscheduled Scenario:
+•	Common Activity or Responsibility That Pops Up Unexpectedly: [Describe a Common Afternoon Activity or Responsibility Here]
+•	Relevant M365 Application: [Name the Relevant M365 Application Here]
+•	How Copilot Assists in This Activity: [Describe How Copilot Assists Here]
+End-of-Day Scenario:
+•	Typical Task to Conclude Your Day: [Describe a Typical Task to Conclude Your Day Here]
+•	M365 Tools Used: [List M365 Tools Used Here]
+•	Copilot's Contribution to Completing the Task: [Explain Copilot's Contribution Here]
+Additional Notes:
+•	Particular Areas Where You Seek Improvement or Efficiency: [List Areas for Improvement or Efficiency Here]
+•	Any Specific M365 Copilot Feature You Want to Explore More: [Mention Any Specific Copilot Features of Interest Here]
+
+Once you have completed the first task, use that information to create Personalized M365 Copilot Scenarios. See below for instructions:
+
+1.	Read and Understand the User Inputs: Carefully read the information provided in each section of the template. Pay attention to the user's job title, role, daily tasks, and specific challenges, as well as the M365 tools and Copilot features they are interested in.
+2.	Generate Contextual Scenarios: For each section of the template (Morning, Midday, Afternoon, End-of-Day), create a scenario that illustrates how the user can utilize M365 Copilot in their daily workflow. Ensure that each scenario is directly relevant to the user's role and the specific tasks or challenges they have described.
+3.	Incorporate M365 Copilot Features: Within each scenario, clearly demonstrate how specific features of M365 Copilot can be used to address the user's needs, improve efficiency, or solve problems. Be as specific as possible in showing how these features integrate with the user's tasks and M365 tools mentioned.
+4.	Maintain a Realistic and Practical Tone: Ensure that the scenarios are realistic and practical, reflecting actual workplace situations. The narrative should be professional and relatable, offering tangible examples of how M365 Copilot enhances productivity and problem-solving.
+5.	Provide Clear and Coherent Narratives: Each scenario should be written in a clear, coherent, and engaging manner. The narrative should flow logically from the user's input, creating a seamless "day in the life" experience that is easy to understand and visualize.
+
+
+All outputs should be made in [TARGETLANGUAGE]
+
+[VARIABLE1:Name]
+[VARIABLE2:Department, Business Unit, or Functional Area]
+[VARIABLE3:Company Description and Industry]
 

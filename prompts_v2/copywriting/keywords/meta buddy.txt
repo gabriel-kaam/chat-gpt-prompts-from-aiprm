@@ -11,4 +11,15 @@ ID: 1802268907692883968
 PromptHint: [Full Article Text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1802268907692883968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Buddy"](https://www.aiprm.com/prompts/copywriting/keywords/1802268907692883968/)_"
+---
+Given the following context "[PROMPT]" help me with the following:
+- 5 Good Titles fitting to the context no longer than 30 characters, in a bullet point list
+- 3 Different Meta Descriptions of maximum 160 character, in a bullet point list
+- 5 Good categories for sorting, in a bullet point list
+- 5 Good tags for linking, in a bullet point list as well as a comma separated string
+- 10 good target Keywords in a bullet point list, as well as a comma separated string, there should be 5 short keywords and 5 longer specific keywords, ensure that the suggested keywords appear in the context text.
 
+Align with the content of the text and gives the best description there of in [TARGETLANGUAGE]:

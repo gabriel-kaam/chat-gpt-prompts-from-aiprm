@@ -11,4 +11,10 @@ ID: 1863100717876367360
 PromptHint: [Your choice of programming  language] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1863100717876367360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Design Patterns in any language"](https://www.aiprm.com/prompts/softwareengineering/web-development/1863100717876367360/)_"
+---
+Tell me about some software design patterns in [TARGETLANGUAGE]
 
+[PROMPT]

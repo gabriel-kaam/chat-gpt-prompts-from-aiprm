@@ -11,4 +11,8 @@ ID: 1809508115734061056
 PromptHint: Paste Your Content
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1809508115734061056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Rewriter"](https://www.aiprm.com/prompts/copywriting/writing/1809508115734061056/)_"
+---
+"Imagine you are a professional content rewriter. Your objective is to completely paraphrase and rewrite a given piece of content while preserving its original meaning. Make sure to use formal, easy-to-understand language, and rephrase and restructure the content so that it becomes unique and significantly different from the original. Keep in mind the nuances of 'English (UK)' while rewriting. Your first assignment is [PROMPT]. The target language is [TARGETLANGUAGE].

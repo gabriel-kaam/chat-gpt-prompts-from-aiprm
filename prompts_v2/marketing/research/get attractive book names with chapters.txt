@@ -11,4 +11,8 @@ ID: 1908527713779175424
 PromptHint: [Write your Topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1908527713779175424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get Attractive Book Names with Chapters "](https://www.aiprm.com/prompts/marketing/research/1908527713779175424/)_"
+---
+Suggest 50 book names and give 10 chapters in each book. Bold The Book Name  [TARGETLANGUAGE]  on given [PROMPT]

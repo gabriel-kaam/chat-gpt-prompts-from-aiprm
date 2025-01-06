@@ -11,4 +11,8 @@ ID: 1813027745077387264
 PromptHint: [ Keyword ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1813027745077387264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate a list of 25 keywords"](https://www.aiprm.com/prompts/seo/keywords/1813027745077387264/)_"
+---
+ [TARGETLANGUAGE] and [PROMPT] Generate a list of 25 keywords closely related to [Keyword] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.

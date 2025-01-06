@@ -11,4 +11,8 @@ ID: 1804418597968404480
 PromptHint: [topic]:[language]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1804418597968404480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Regular expression generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1804418597968404480/)_"
+---
+As a web developer with 20 years experienced, give me a regular expression for [PROMPT] and an usage example of it. Write me the code first then explain it with 2 sentences. Write in [TARGETLANGUAGE].

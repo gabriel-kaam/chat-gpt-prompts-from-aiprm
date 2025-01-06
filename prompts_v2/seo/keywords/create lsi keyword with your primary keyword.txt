@@ -11,4 +11,11 @@ ID: 1837768755007729664
 PromptHint: Primary Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1837768755007729664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create LSI keyword with your primary keyword"](https://www.aiprm.com/prompts/seo/keywords/1837768755007729664/)_"
+---
+Generate LSI Keyword on [KEYWORD] in [TARGETLANGUAGE]. Make sure keywords are not repeating. And also create them in tabular form like (LSI KEYWORDS, KEYWORD INTENT) in [TARGETLANGUAGE]. Use only 4 types of keyword intent: Informational Keyword, Navigational Keyword, Commercial Keyword, and Transactional Keyword. All output in [TARGETLANGUAGE]
 
+[TARGETLANGUAGE]
+[PROMPT]

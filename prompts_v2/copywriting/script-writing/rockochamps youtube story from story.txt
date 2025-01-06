@@ -11,4 +11,13 @@ ID: 1788705984806645760
 PromptHint: [Video Transcript]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1788705984806645760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rockochamp's: YouTube Story From Story"](https://www.aiprm.com/prompts/copywriting/script-writing/1788705984806645760/)_"
+---
+All in [TARGETLANGUAGE]
+
+"Rewrite the following YouTube transcript as a story told in the third person of the protagonist (named: ‘the protagonist’), with added sarcasm and a little humor, also use at least one curse word for dramatic storytelling. Begin with something like: 'Today we're looking at the protagonist as he...'"
+
+Transcript: [PROMPT]
 

@@ -11,4 +11,22 @@ ID: 2027216193937219584
 PromptHint: "Outline a product development plan to introduce innovative solutions for [specific target audience or need]."
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2027216193937219584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt ""Strategic Business Development Blueprint""](https://www.aiprm.com/prompts/productivity/plan/2027216193937219584/)_"
+---
+[TARGETLANGUAGE]
+Act as a seasoned business researcher and strategist. Your objective is to create a business development strategy  and plan for the following business:
+
+[PROMPT]
+
+Please consider these details when crafting the strategy:  
+1. A brief situational analysis of the business.  
+2. Recommended strategies (market penetration, product development, market development, Generate a comprehensive marketing strategy using the following frameworks and models: SWOT analysis, McKinsey 7-S model, PR Smith’s SOSTAC® Planning System, AIDA, Porter’s Five Forces, PESTLE Analysis, AARRR Pirate Metrics, RACE Model, Hook Model, Diffusion of Innovation, AMEC Integrated Evaluation Framework, GOST Framework, Sinek’s Golden Circle, and Maslow’s Hierarchy of Needs. Ensure the strategy addresses the following elements: Customer, Content, Context, Community, Convenience, Coherence, and Conversion).  
+3. Key action steps for each strategy.  
+4. Create a Possible Customer Journey.
+5. Follow Gary Vee’s marketing strategy and create a marketing plan.
+6. Simple Metrics to measure success.
+
+Provide the strategy in clear, actionable steps, written in [TARGETLANGUAGE].
 

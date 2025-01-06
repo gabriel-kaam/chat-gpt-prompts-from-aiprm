@@ -11,4 +11,10 @@ ID: 1788927860891975680
 PromptHint: [Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1788927860891975680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Keyword Research in One Click"](https://www.aiprm.com/prompts/seo/keywords/1788927860891975680/)_"
+---
+Can you give me a list of 30 long-tail keywords related to ''TOPIC'' in [TARGETLANGUAGE]with a minimum search volume of 1000 per month in the United States? Please include a mix of informational, commercial, and 'how to' keywords, along with the keyword difficulty expressed as a percentage. I would like the keywords presented in a table format with columns for keyword, search volume, keyword difficulty, and motive, and limited to data from the United States.
 
+[PROMPT]

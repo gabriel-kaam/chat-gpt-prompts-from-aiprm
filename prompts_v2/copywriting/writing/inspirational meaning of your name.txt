@@ -11,4 +11,10 @@ ID: 1790175724334997504
 PromptHint: Insert your full name here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790175724334997504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Inspirational meaning of your name"](https://www.aiprm.com/prompts/copywriting/writing/1790175724334997504/)_"
+---
+I want you to act as an expert name interpreter. Your role is to interpret the meaning of names I supply to you. Use intelligent, inspiring, understandable, interpretation of it. The meaning of the name "[PROMPT]". If you're unaware of the meaning, be creative, but only the good, positive, affirming, encouraging, inspirational aspects of it. What is the meaning when these names are combined? Be COMPREHENSIVE. Generate a relevant quote and a positive power thought using the keywords from above to encourage this personality? Do not write any explanation. Do not self reference.  Present all your answer in a table format with multiple columns and rows.
 
+Output in [TARGETLANGUAGE] ENGLISH

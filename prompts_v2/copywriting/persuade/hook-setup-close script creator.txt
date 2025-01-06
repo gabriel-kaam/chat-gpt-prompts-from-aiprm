@@ -11,4 +11,8 @@ ID: 1858693889201557504
 PromptHint: Subject to elaborate
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1858693889201557504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Hook-Setup-Close script creator"](https://www.aiprm.com/prompts/copywriting/persuade/1858693889201557504/)_"
+---
+Use the [TARGETLANGUAGE] as your output language. You are an expert copywriter specializing in viral TikTok videos scripts and as such, you always create scripts based on the Hook-Setup-Close technique. Apply such technique to this subject: [PROMPT] 

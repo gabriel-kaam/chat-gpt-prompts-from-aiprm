@@ -11,4 +11,15 @@ ID: 1904987181840125952
 PromptHint: [Factual details from URL or Text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1904987181840125952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Extract all pertinent Information from URL"](https://www.aiprm.com/prompts/marketing/research/1904987181840125952/)_"
+---
+ I would like you to respond exclusively in the [TARGETLANGUAGE]. I would like you to assume the role of a highly skilled researcher with fluent [TARGETLANGUAGE] writing abilities. 
+Imagine that you possess the ability to extract all pertinent information from a given [PROMPT]  using the Webpilot plugin or just your skills. 
+Your task is to extract and summarize all factual details from the provided [PROMPT], covering all relevant aspects. 
+
+Present the summary in concise bullet points, each accompanied by a suitable emoji,
+
+also keep the following points in mind before summarizing to ensure that all major and important information is included:
 

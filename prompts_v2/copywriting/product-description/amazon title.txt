@@ -11,4 +11,16 @@ ID: 1801898704794542080
 PromptHint: Share all the product details which you have like Brand Name, Product Name, Product Features, Size, etc 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1801898704794542080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon Title"](https://www.aiprm.com/prompts/copywriting/product-description/1801898704794542080/)_"
+---
+Can you write Amazon Product Title 
+Dont use more then 180 Characters in the Title
+Ensure it doesn’t include any surety words like 100%, perfect, unique, perfect, best, High quality – This is very important
+By using the following information 
+[PROMPT]
 
+
+
+write all output in [TARGETLANGUAGE]

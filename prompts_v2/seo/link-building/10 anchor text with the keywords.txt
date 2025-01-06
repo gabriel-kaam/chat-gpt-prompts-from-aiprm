@@ -11,4 +11,12 @@ ID: 2009064647391170560
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/2009064647391170560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "  10 Anchor Text With The Keywords"](https://www.aiprm.com/prompts/seo/link-building/2009064647391170560/)_"
+---
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]
+You are SEO specialist and you are asked to generate catchy 10 anchor text with the keywords and and every anchor text has to start with the keywords, but content must be 100% unique and pass plagiarism checks in the context of content marketing and SEO strategy.

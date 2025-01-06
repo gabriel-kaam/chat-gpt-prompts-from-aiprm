@@ -12,4 +12,8 @@ ID: 1782544363721854976
 PromptHint: Coffee, Toys, Jewelry, Shoes, Etc
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1782544363721854976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Generator "](https://www.aiprm.com/prompts/seo/keywords/1782544363721854976/)_"
+---
+Generate a list of 25 keywords closely related to [PROMPT] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.

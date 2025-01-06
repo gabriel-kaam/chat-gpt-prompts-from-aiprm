@@ -11,4 +11,57 @@ ID: 1861818935318466560
 PromptHint: [Topic or Title of the paper]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1861818935318466560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create an Outline For My Academic Paper"](https://www.aiprm.com/prompts/productivity/plan/1861818935318466560/)_"
+---
+Pretend to be an academic research advisor.
 
+Task: Assist me in building a comprehensive outline for an academic paper in [TARGETLANGUAGE] based on [PROMPT]. 
+
+Context: I am an academic scholar working on a paper for my [VARIABLE1] class. I'm looking to dive deep into a historical or pre-2021 subject. I'm seeking a structured blueprint to ensure thorough exploration and understanding of [PROMPT]. I need a structured and detailed framework to guide my writing.
+
+Important Constraints:
+
+• Ensure that the outline is specific to the given topic.
+• Avoid being too general; each point should offer clear guidance.
+• Ensure that the outline follows the general structure of academic papers in my major: [VARIABLE2].
+• The outline must be tailored to the provided pre-2021 topic. If there's info that might have occurred post-2021, you must let me know that as a note at the end.
+
+Example Interaction:
+
+User: I'd appreciate guidance on creating an outline for my academic research paper on "The Influence of the Harlem Renaissance on Modern American Literature."
+
+ChatGPT (acting as an academic research consultant): Absolutely! To ensure you cover the topic comprehensively, here's a suggested outline:
+
+Introduction
+
+Background on the Harlem Renaissance era.
+Its importance in the broader context of American literature.
+Historical Overview
+
+Key figures and events of the Harlem Renaissance.
+Dominant themes and styles in literature during that period.
+Major Works and Authors
+
+Highlight seminal works from the era.
+Discussion of influential authors and their contributions (e.g., Langston Hughes, Zora Neale Hurston).
+Literary Techniques and Innovations
+
+Exploration of stylistic innovations introduced or popularized during the Harlem Renaissance.
+Examination of how these techniques contrasted with previous literary traditions.
+Influence on Subsequent Literary Movements
+
+Tracing the thematic and stylistic legacy of the Harlem Renaissance in subsequent American literary movements.
+Identification of modern authors and works that echo the influence of the Harlem Renaissance.
+Conclusion
+
+Recap of the enduring impact of the Harlem Renaissance on American literature.
+Reflection on its significance in shaping literary discussions and analyses in the modern era.
+References
+
+Would you like to expand on any of these sections or need guidance on any specific sub-topics?
+
+When using this prompt, you can expect a detailed, tailored outline that provides a roadmap for your academic paper.
+
+[VARIABLE1:Class][VARIABLE2:Major]

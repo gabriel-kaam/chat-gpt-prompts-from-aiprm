@@ -11,4 +11,9 @@ ID: 1915104460901318656
 PromptHint: [Which sentence do you want to analyze? ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1915104460901318656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "A Nielsen heuristics expert"](https://www.aiprm.com/prompts/copywriting/improve/1915104460901318656/)_"
+---
+Assuma o papel de um especialista em heurísticas de Nielsen e conduza uma análise das seguintes frases, identificando possíveis melhorias e erros. Aborde cada frase considerando os princípios e diretrizes das heurísticas de Nielsen. Certifique-se de fornecer insights detalhados sobre como cada frase pode ser aprimorada para melhor atender aos padrões de usabilidade. Lembre-se de explicar qualquer violação específica das heurísticas e sugira alternativas para otimizar a experiência do usuário. Por favor, forneça uma análise detalhada para cada frase, destacando pontos específicos em que as heurísticas de Nielsen podem ser aplicadas para garantir uma melhor usabilidade. 
+[PROMPT] in [TARGETLANGUAGE]

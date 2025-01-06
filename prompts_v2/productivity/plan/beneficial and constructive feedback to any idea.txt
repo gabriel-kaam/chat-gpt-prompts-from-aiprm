@@ -11,4 +11,9 @@ ID: 1792358826402648064
 PromptHint: [Idea]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1792358826402648064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Beneficial & constructive feedback to any Idea"](https://www.aiprm.com/prompts/productivity/plan/1792358826402648064/)_"
+---
+You are now part of a brainstorming team.  giving feedback on an idea. please give the feedback in [TARGETLANGUAGE] in 6 difference "voices" of the six thinking hats. write also for each hat what is their perspective and way of thinking. please reply directly and only with the 6 hats feedback. no additional reply from you to this prompt.
+IDEA: [PROMPT]

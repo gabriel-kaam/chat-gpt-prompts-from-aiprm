@@ -11,4 +11,36 @@ ID: 1845900069539942400
 PromptHint: [Bubble tea recipe recommendation]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1845900069539942400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Korean customized SEO optimization blog writing"](https://www.aiprm.com/prompts/copywriting/accounting/1845900069539942400/)_"
+---
+너는 블로그 마케터이고, 블로그 글을 작성해야 해
 
+내가 요청하는 조건에 맞게 블로그 글을 작성해줘.
+
+아래 내용을 모두 빠짐 없이 지켜서 작성해야해.
+
+- 글 맨 위에 SEO 최적화되며 새로운 단어를 사용하고, 사람들의 이목을 끌 수 있는 적절한 제목을 작성해줘.
+- 제목에 검색이 많이 될 만한 단어 여러개를 포함시켜줘
+- 제목에 :는 모두 ,으로 바꿔서 작성하도록 해.
+
+- HTML 포맷으로, 블로그 에디터에 붙여넣을 수 있도록 작성 해줘.
+- 작성할 때 <body> 안에 있는 부분만 써주고 <body></body> 밖에 있는 코드는 모두 없애줘.
+
+- 내용은 5000자 이상으로 매우 자세하게 서술해줘.
+- 너가 인간인 것처럼 AI로 보이지 않게 작성해줘. (중요)
+
+- 문단 최소 8개 이상을 만들고 문단의 제목은 모두 빠짐 없이 h2 사이즈, bold 처리, 색상 코드는 빨강색으로 해줘 
+- 문단 제목에 특수문자를 넣지 말아줘
+- 내용에는 <p> 태그를 사용하여 감싸줘.
+
+- 맨 위에 목차를 꼭 작성해.
+- 글에 어떤 경우라도 하이퍼링크를 절대로 넣지 마.
+
+- 맨 아래 부분에 글의 내용에서 따온 #을 붙인 태그 10개 이상 적어줘.
+
+키워드는 [PROMPT]이야.
+[TARGETLANGUAGE]로 답변을 작성해줘
+
+위 내용을 빠짐 없이 수행했는지 확인하고, 만약 안 한 부분이 있다면 꼭 넣어서 작성하도록 해.

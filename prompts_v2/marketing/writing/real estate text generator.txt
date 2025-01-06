@@ -11,4 +11,25 @@ ID: 1877697009185202176
 PromptHint: Mention the address, district and place of residence
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1877697009185202176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Real Estate Text Generator "](https://www.aiprm.com/prompts/marketing/writing/1877697009185202176/)_"
+---
+Maak een wervende tekst van minimaal 5000 tekens voor de verkoop van de [PROMPT] welke wij als makelaar willen plaatsen op verschillende marketing kanalen zoals de website, social media en Funda. Schrijf in een losse stijl zonder te overdrijven.  Om een briljante verkooptekst te maken wil ik je vragen om te kijken naar [VARIABLE1]
+[VARIABLE2]
+[VARIABLE3] 
+[VARIABLE4] 
+[VARIABLE5]
+[VARIABLE6] 
+
+Verzin geen tekst als je de info niet hebt. 
+Geef alle output in [TARGETLANGUAGE].
+
+[VARIABLE1: Soort aanbod:rijtjeswoning:rijtjeswoning|2-onder 1 kap|appartement|vrijstaand|drive-in-woning|bouwkavel|Anders]
+[VARIABLE2: Welke sfeer past bij de woning:gezellige winteravonden bij open haard:gezellige winteravonden bij open haard|zomerse middagen in de tuin|feestelijke bijeenkomsten met familie en vrienden|super voor opgroeiende kinderen|zondagochtende met ontbijt op bed|gevoel van geborgenheid|nieuw begin en avontuur|rust en sereniteit|comfort & Gevoel van thuis|historie of luxe|Anders]
+[VARIABLE3:USP's van de woning:geschikt als thuiskantoorruimte:geschikt als thuiskantoorruimte| sauna of jacuzzi in tuin|ruime woning|privacy|originele houten balken| glas-in-lood ramen|moderne keuken|dakterras|duurzaamheid & energiezuinig|Anders] 
+[VARIABLE4:Beschrijving (woonlagen,ruimtes,buitenruimte)] 
+[VARIABLE5:Ligging:in woonwijk:woonwijk|aan rustige weg|aan water|vrij uitzicht|in centrum|landelijk gelegen|aan bosrand|aan drukke weg|buiten bebouwde kom|aan vaarwater|Anders]
+[VARIABLE6:Staat van de woning:gerestaureerd:gerestaureerd|goed onderhouden|gerenoveerd|geen verborgen gebreken|monumentaal|Jaren dertig style|duurzame materialen|luxe woning|modern ingericht|geschikt voor klussers|geschikt voor starters|Anders] 
+
 

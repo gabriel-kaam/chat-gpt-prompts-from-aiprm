@@ -11,4 +11,18 @@ ID: 1839207762879041536
 PromptHint: Enter Your Article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1839207762879041536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Internal Links"](https://www.aiprm.com/prompts/seo/link-building/1839207762879041536/)_"
+---
+Write in [TARGETLANGUAGE].
 
+I want you to analyze the semantics of this article:
+[PROMPT]
+
+After that, I want you to suggest "5-10 best URLs" that could be linked back to the article based on semantic and topical relevancy based ONLY on the list of URLs below:
+[VARIABLE1]
+
+Now, I want you to rewrite the article I provided in the beginning by including the "5-10 best URLs" you just picked from my list. Use markdown hyperlink keywords, with keyword-rich anchor text. Only use one link once.
+
+[VARIABLE1:Your Website's Links]

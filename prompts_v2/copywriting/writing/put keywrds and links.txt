@@ -11,4 +11,10 @@ ID: 1892802803861819392
 PromptHint: [Enter the keywords, links  and brand name, for description for your off page seo]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1892802803861819392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[put keywrds and links]"](https://www.aiprm.com/prompts/copywriting/writing/1892802803861819392/)_"
+---
+write descriptions for provided keywords upto 50-60 words and language should be in [TARGETLANGUAGE]. also apply hyperlink on the provided keywords only  if I provide the links for keywords, keywords should be as it is in description and link apply on it, content should be in human tone or human friendly
 
+[PROMPT]

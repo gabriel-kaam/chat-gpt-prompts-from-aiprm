@@ -11,4 +11,28 @@ ID: 1883039852971945984
 PromptHint: Copy the all content from one of your lecture slides with [PROMPT]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1883039852971945984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "University Lecture Slides to Quizlet"](https://www.aiprm.com/prompts/productivity/summarize/1883039852971945984/)_"
+---
+You will make a csv file. The contents of the csv file will be of the form:
+question, answer (then new line)
+question, answer,
+...
 
+Incorporate all these 3 types of questions for all of the content:
+1. The question is a difficult word, the answer is the definition
+2. Ask for a list of items (e.g. "Eight design patterns", answer: " * 1. The Initial Introduction
+* 2. Didactic Communication
+* 3. In Motion Together
+* 4. Personal Interests and History
+* 5. Recovering From Mistakes
+* 6. Reciprocal Turn-Taking in Game Context
+* 7. Physical Intimacy
+* 8. Claiming Unfair Treatment or Wrongful Harms"
+
+3. The question is formulated like an exam question would be, requiring more insight than just knowing the content. 
+
+Now, give the csv file for the following content:
+[PROMPT]
+answer in the language [TARGETLANGUAGE]

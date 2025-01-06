@@ -11,4 +11,15 @@ ID: 1809241851107217408
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1809241851107217408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Schedule"](https://www.aiprm.com/prompts/copywriting/research/1809241851107217408/)_"
+---
+I want you to find Longtail Keywords that have the potential to get ranking for my blog from the [keywords] that I provide.
+Please arrange each blog post title in a nice looking table so it looks like a calendar.
+Each week should have its own table. Each day must have five content a day with five separate, unique titles listed for each day.
+Include all 7 days of content calendar Monday through Sunday. Include 4 weeks of content.
 
+[TARGETLANGUAGE]
+[PROMPT]
+[VARIABLE1:dummy]

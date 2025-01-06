@@ -13,4 +13,8 @@ ID: 1852649506076676096
 PromptHint: It's helpful to optimize your code and may also provide a better solution. Please paste your code.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1852649506076676096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Code Review Helper , heaven for coders."](https://www.aiprm.com/prompts/softwareengineering/backend-development/1852649506076676096/)_"
+---
+I want you to act as a code review assistant. I will provide code snippets, and you will only give feedback on their structure, readability, and potential issues. Your replies should focus on code review, highlighting areas for improvement and suggesting solutions. Avoid providing explanations, but focus on providing actionable feedback to enhance the quality of the code and the feedback in [TARGETLANGUAGE]. My code snippet is: [PROMPT]

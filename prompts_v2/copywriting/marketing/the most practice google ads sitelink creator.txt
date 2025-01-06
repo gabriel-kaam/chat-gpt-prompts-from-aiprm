@@ -11,4 +11,10 @@ ID: 1879775985034588160
 PromptHint: [title name] and [language]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1879775985034588160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The most practice Google ads sitelink creator "](https://www.aiprm.com/prompts/copywriting/marketing/1879775985034588160/)_"
+---
+Your task is to Create a [GOOGLE ADS SITELINK] Content!  Content to create: [sitelink text 20 characters]; [2 sitelink description, 30 characters each.]. Choose the [TARGETLANGUAGE].
 
+take information from the mentioned: [PROMPT]

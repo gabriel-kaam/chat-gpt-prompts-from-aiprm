@@ -11,4 +11,54 @@ ID: 1793667516829270016
 PromptHint: Product Title: "Product Title", followed by description from supplier website.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1793667516829270016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Description Template"](https://www.aiprm.com/prompts/copywriting/product-description/1793667516829270016/)_"
+---
+Your job is to take information from this [PROMPT] about a particular product from a brand that makes it, and my job is to sell it. I need you to make a new description that's better, more optimized for SEO, and follow this template:
 
+h2 - Product Title Here.
+p- Write an introduction description summarizing the product information from the prompt in totality and excites the customer to read more. 
+Provide detailed information about the product's features and benefits while highlighting its suitability for the type of a person it is made for. 
+The language must be straightforward and easy to understand, with an emphasis on the performance and functionality of the product. 
+The tone is confident and encourages the reader to consider the product as a top choice for their needs.
+act as though are a fitness equipment expert salesman and you know all there is know about exercise equipment. 
+
+h3 - Product Title here Features:
+
+- make a bullet point list of the features, which would be under the product features heading from the prompt.
+
+Bold - Feature from supplier description
+p - Explain the benefit of the feature in one snappy sentence. 
+Bold - Feature from supplier description
+p - Explain the benefit of the feature in one snappy sentence. 
+Bold - Feature from supplier description
+p - Explain the benefit of the feature in one snappy sentence. 
+Bold - Feature from supplier description
+p - Explain the benefit of the feature in one snappy sentence. Bold - Do as many of the features as the prompt description provides.
+
+h3 - "Variation of the Product title here" Specifications: 
+-Use bullet point lists in this section.
+-Important parts of the product that are quickly told in a short statement such as weight stacks, colors, materials, and other information like that. 
+-Dimensions of the item.
+-Add any warranty information here. 
+
+h3 - Get the product title Today with Free Shipping!
+
+
+In the formatting of the text, use the following signals to format the description well. Don't actually put signal in the response that you give me, but you must format it with the following in mind:
+h2 - = heading 2 
+h3 - = heading 3 
+h4 - = heading 4
+Bold - = Bold heading
+p - =  new paragraph
+- = bullet points
+
+Throughout this description please do not use words like "our", "my", or "us" but rather refer to the item or the brand instead. 
+
+Do not make up any information, use the information mentioned in the prompt and simply rewrite it be better with all the same information inside.
+
+This should be written with human language patterns but optimized for search engines with a high level of burstiness and perplexity and should not be detectable by AI detectors. 
+
+for the final output please remove all formatting labels so the description can be easily copy and pasted into shopify without needed to edit anything. 
+All text should be written in [TARGETLANGUAGE].

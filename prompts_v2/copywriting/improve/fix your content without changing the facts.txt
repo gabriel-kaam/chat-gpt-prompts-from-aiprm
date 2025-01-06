@@ -11,4 +11,10 @@ ID: 1847656650317225984
 PromptHint: [Add the input content which you want to fix]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1847656650317225984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fix your content without changing the facts"](https://www.aiprm.com/prompts/copywriting/improve/1847656650317225984/)_"
+---
+Please correct any grammar mistakes, typos, and factual errors in the text written in the text here: [PROMPT]
 
+Your task is to improve the content while maintaining the tone of content as it is. Do not change the facts or information provided originally in the given input text. Strictly avoid speculation and include only 100% factual and accurate information. Maintain a simple and straightforward tone throughout and write in a casual and conversational style. Also, write words count of the output texts at the end. Input and output language is  [TARGETLANGUAGE] 

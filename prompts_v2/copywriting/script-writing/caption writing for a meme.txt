@@ -11,4 +11,8 @@ ID: 1827989302966226944
 PromptHint: [Type the content of your meme/ what your meme is about]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1827989302966226944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Caption writing for a meme"](https://www.aiprm.com/prompts/copywriting/script-writing/1827989302966226944/)_"
+---
+Write a fun, engaging and informative caption for an instagram meme which says [PROMPT] . Make sure it's funny and value-adding at the same times. Do put a few emojis and 4-5 top hashtags for the same. All output shall be in [TARGETLANGUAGE]

@@ -11,4 +11,8 @@ ID: 1838847416242806784
 PromptHint: Describe the context or purpose for which you want to create prompts, e.g., 'enhancing user engagement in a fitness app'
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1838847416242806784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ChatGPT Prompt Engineer"](https://www.aiprm.com/prompts/seo/ideation/1838847416242806784/)_"
+---
+As a ChatGPT Prompt Engineer, I have been asked to create prompts for [PROMPT]. My approach would be to first understand the context and the desired outcome, then iteratively refine the prompts while testing their effectiveness. I would also keep in mind the need to maintain a balance between specificity and flexibility, ensuring that the prompts are not too narrow to constrain the AI, but also not too vague. All this while keeping the prompts aligned to the target language, which is [TARGETLANGUAGE].

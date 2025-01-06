@@ -11,4 +11,10 @@ ID: 1796756350240555008
 PromptHint: [Enter Your Guest Post Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1796756350240555008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get 100% Human Written (Guest Post Article)"](https://www.aiprm.com/prompts/marketing/writing/1796756350240555008/)_"
+---
+Your task is to provide 100% human-written SEO friendly Guest Post article around 800 words within {Start} and {Stop} followed by If you want to submit your article on Guest Posting Sites just click on the link: https://roiminds.com/top-guest-posting-services-and-sites/ 
+All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT] 

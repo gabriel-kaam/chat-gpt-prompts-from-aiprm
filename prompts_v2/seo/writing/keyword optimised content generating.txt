@@ -12,4 +12,32 @@ ID: 1853845282644316160
 PromptHint: Enter your Keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1853845282644316160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Optimised Content Generating"](https://www.aiprm.com/prompts/seo/writing/1853845282644316160/)_"
+---
+ [PROMPT] 
+Generate search engine-friendly content that is:
+
+* Well-written and grammatically correct.
+* Informative and engaging.
+*Look like Human written that can't detect by AI detection tools
+* Optimized for keywords.
+* Not marked as bot text.
+*SHould Use SEO friendly Headings& sub headings like H1, H2... & bullets points etc
+The language of the Content will be [TARGETLANGUAGE]
+
+The content should be relevant to the following topics:
+
+[Keywords]
+
+The content should be at least 1,000 words long.
+
+Please use the following keywords in the content in Title H1, H2, H3, H4 wisely
+
+[Keywords]
+
+Please optimize the title and meta description for the following keywords:
+
+[Keywords]
 

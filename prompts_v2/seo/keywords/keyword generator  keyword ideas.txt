@@ -11,4 +11,9 @@ ID: 1805917816336154624
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1805917816336154624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword generator | Keyword ideas"](https://www.aiprm.com/prompts/seo/keywords/1805917816336154624/)_"
+---
+Use [PROMPT] and generate 10 keyword ideas based on [PROMPT]. Also show the search volumes and give a suggestion for a potential page title based on that [KEYWORD]
+Results shall be in [TARGETLANGUAGE]

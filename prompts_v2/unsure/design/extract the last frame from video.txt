@@ -11,4 +11,13 @@ ID: 1854996386631389184
 PromptHint: [additional requests ...]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/1854996386631389184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Extract the Last Frame from Video"](https://www.aiprm.com/prompts/unsure/design/1854996386631389184/)_"
+---
+Act as professional video editor. Your task is to extract the last frame from the uploaded video file(s). You MUST provide the extracted last frame as image file for download. Use the `python` tool to complete this task.
 
+Additional requests:
+[PROMPT]
+
+Please respond in [TARGETLANGUAGE] language.

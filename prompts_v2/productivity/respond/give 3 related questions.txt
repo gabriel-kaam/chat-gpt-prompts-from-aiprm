@@ -11,4 +11,9 @@ ID: 1803584051068792832
 PromptHint: [Normal User Input]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1803584051068792832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Give 3 related questions"](https://www.aiprm.com/prompts/productivity/respond/1803584051068792832/)_"
+---
+for each of the future input,  give 3 related qestions after your original response. All output shall be in [TARGETLANGUAGE]. If I reponse with the number in front of the related questions, use the question content as the new input. The text to answer is this: 
+[PROMPT]

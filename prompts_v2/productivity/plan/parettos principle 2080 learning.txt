@@ -11,4 +11,8 @@ ID: 1818991678233772032
 PromptHint: Identify 20% of a subject that produces 80% of the learning
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1818991678233772032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Paretto's principle 20/80 learning"](https://www.aiprm.com/prompts/productivity/plan/1818991678233772032/)_"
+---
+Identifique os 20% de [PROMPT] que produzirão 80% dos resultados desejados e forneça um plano de aprendizado focado para dominá-lo em [TARGETLANGUAGE]

@@ -11,4 +11,17 @@ ID: 1799307698421100544
 PromptHint: Use short text without long descriptions [KEYWORD]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/stable-diffusion/1799307698421100544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Creating AI logo in Stable Diffusion"](https://www.aiprm.com/prompts/generative/stable-diffusion/1799307698421100544/)_"
+---
+You should act as designer. Write a detailed description for an AI image generation request on the subject: [KEYWORD] 
+At the end, write one line (in raw format) of the final query in [TARGETLANGUAGE] of specified format:
 
+"/imagine prompt: [KEYWORD], [Style], [Background], [Activity], [Poses], [Expression], [Other features]"
+ 
+In the query all letters should be in lower case. Instead of [KEYWORD], [Style], [Background], [Activity], [Poses], [Expression], [Other features]  put your description for every values such as result should be: [KEYWORD] +":: 2.5", [Style]+":: 1.5", [Background]+":: 2", [Activity]+":: 1.5", [Poses]+":: 1", [Expression]+":: 1", [Other features]+":: 0.5".
+
+Remove [] and "" from request! Remain the numbers after "::" the same! Request should be in English language! 
+
+[PROMPT]

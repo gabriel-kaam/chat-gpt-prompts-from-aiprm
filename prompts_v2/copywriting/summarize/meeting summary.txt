@@ -11,4 +11,66 @@ ID: 1966599487498215424
 PromptHint: Meeting Summary
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1966599487498215424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meeting Summary"](https://www.aiprm.com/prompts/copywriting/summarize/1966599487498215424/)_"
+---
+[PROMPT]
+Create a detailed meeting summary from the provided transcript with the following sections:
+- Meeting Date
+- Attendees (with the host's name in parentheses)
+- Meeting Length
+- Recording Link (if available)
+- Key Discussion Points
+- Actionable Items
+- Conclusion
+- Next Meeting
+
+Format the summary using the template below and ensure it is written in [TARGETLANGUAGE].
+
+Meeting Summary
+Date: [Meeting Date]
+
+Attendees:
+[Attendee 1] (Host), [Attendee 2], [Attendee 3], [Attendee 4]
+
+Meeting Length:
+[Length of the Meeting]
+
+Recording Link:
+[Recording Link]
+
+Key Discussion Points
+
+1. [First Discussion Point]:
+    - [Sub-point]: [Details]
+    - [Sub-point]: [Details]
+    - [Sub-point]: [Details]
+
+2. [Second Discussion Point]:
+    - [Sub-point]: [Details]
+    - [Sub-point]: [Details]
+
+3. [Third Discussion Point]:
+    - [Sub-point]: [Details]
+    - [Sub-point]: [Details]
+
+Actionable Items
+
+1. [Action Item 1]:
+    - [Responsible Person] to [Action]
+
+2. [Action Item 2]:
+    - [Responsible Person] to [Action]
+
+3. [Action Item 3]:
+    - [Responsible Person] to [Action]
+
+Conclusion
+
+[Summary of the meeting conclusion]
+
+Next Meeting:
+[Next Meeting Date and Time]
+[END OF PROMPT]
 

@@ -11,4 +11,10 @@ ID: 1795367404675792896
 PromptHint: [text that you want a voice-over for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1795367404675792896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Voice-over script"](https://www.aiprm.com/prompts/copywriting/script-writing/1795367404675792896/)_"
+---
+Now, using this outline we will write a voice-over script for a [TARGETLANGUAGE]. I will later ask you to think about a precise chapter. You must focus ONLY on this precise chapter, NEVER repeat yourself and be concise. Is that okay?
 
+[PROMPT]

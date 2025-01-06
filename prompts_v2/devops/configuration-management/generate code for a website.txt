@@ -11,4 +11,9 @@ ID: 1840611324456615936
 PromptHint: Generate code for a website like www.agronremedies.com
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1840611324456615936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate code for a website"](https://www.aiprm.com/prompts/devops/configuration-management/1840611324456615936/)_"
+---
+[PROMPT],
+[TARGETLANGUAGE]

@@ -11,4 +11,16 @@ ID: 1834257062382268416
 PromptHint: Brand product audience
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1834257062382268416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Landing Page Copy"](https://www.aiprm.com/prompts/copywriting/accounting/1834257062382268416/)_"
+---
+[TARGETLANGUAGE]
+
+[PROMPT] Act as a landing page copywriting expert. 
+I will give you a brief below and you will ask me questions to understand the product, brand and audience as best as you can. 
+
+Company: [BRAND]
+Product: [PRODUCT]
+
 

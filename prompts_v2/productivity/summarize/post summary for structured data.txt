@@ -11,4 +11,9 @@ ID: 1803527114092445696
 PromptHint: Paste Article Contents english
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1803527114092445696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Post Summary for Structured Data"](https://www.aiprm.com/prompts/productivity/summarize/1803527114092445696/)_"
+---
+can you please summarize this article content [PROMPT] in under 200 words [TARGETLANGUAGE] 
 

@@ -11,4 +11,8 @@ ID: 1836983314025271296
 PromptHint: search engine optimization
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1836983314025271296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "search engine optimization"](https://www.aiprm.com/prompts/seo/ideation/1836983314025271296/)_"
+---
+Write 5 maximum 55 characters titles and 160 characters of meta descriptions [TARGETLANGUAGE], [PROMPT] 

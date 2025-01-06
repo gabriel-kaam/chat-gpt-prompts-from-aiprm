@@ -11,4 +11,13 @@ ID: 1791664679538647040
 PromptHint: [Put the Title of the SONG]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1791664679538647040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Music Lyrics and Chords"](https://www.aiprm.com/prompts/productivity/plan/1791664679538647040/)_"
+---
+Give me the chord progression and a list of five chord progresion suggestions with 
+scale changes and chord variations in Roman numerals of this popular song: [PROMPT]
+Tell me why the song [PROMPT] has become a hit and what topics does it cover
+Also create 5 song chorus with similar topics
+Finally recommend me 5 songs similar to [PROMPT]
+Please provide all responses in [TARGETLANGUAGE]

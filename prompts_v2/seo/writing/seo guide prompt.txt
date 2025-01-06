@@ -11,4 +11,8 @@ ID: 1870483808710164480
 PromptHint: "1. Include a table of contents for easy navigation.  Use high-volume, low-competition keywords based on keyword analysis. Incorporate sub-keywords and long-tail keywords naturally within the content. Add relevant hashtags like #[PROMPT] and #[TARGETLANGUAGE]. Include high-resolution, topic-related images to enhance the post. Link back to authoritative sources and include an Author URL for credibility."
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1870483808710164480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt ""SEO guide: [prompt]""](https://www.aiprm.com/prompts/seo/writing/1870483808710164480/)_"
+---
+"Please write an SEO-optimized blog post in [TARGETLANGUAGE] about '[PROMPT].' Your post should include high-volume, low-competition keywords, a table of contents, relevant hashtags, and high-resolution images."

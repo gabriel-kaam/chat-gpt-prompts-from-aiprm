@@ -11,4 +11,12 @@ ID: 1870006429860745216
 PromptHint: [topic / keywords]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1870006429860745216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Outline For Blog from Detailed Description"](https://www.aiprm.com/prompts/seo/writing/1870006429860745216/)_"
+---
+Write a detailed blog outline with H2, H3, subheadings, and bullet points about the topic [PROMPT] in [TARGETLANGUAGE]. 
 
+Use information provided by user, such as: topic, keywords, benefits. Write while having in mind the target group if it is specified. 
+
+The content outline should include a minimum of 20 headings and subheadings. The outline should be extensive and cover the whole topic. Use fully detailed subheadings that engage the reader. 

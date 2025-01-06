@@ -11,4 +11,11 @@ ID: 1821564541721645056
 PromptHint: (customer segments), (pains, needs, desires), benefits, (offer differentials)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1821564541721645056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Value Proposition 2"](https://www.aiprm.com/prompts/unsure/unsure/1821564541721645056/)_"
+---
+Apresentar o resultado no idioma [TARGETLANGUAGE]
+Crie uma proposta de valor para o seu negócio usando o seguinte modelo:
+Para (segmento de clientes) que (dores, necessidades ou desejos), oferecemos (produto ou serviço) que entrega (benefícios) diferenciando-se da concorrência com (diferenciais da oferta).
+[PROMPT]

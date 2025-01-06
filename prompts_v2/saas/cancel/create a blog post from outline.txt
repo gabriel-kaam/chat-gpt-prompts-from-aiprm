@@ -11,4 +11,8 @@ ID: 1843909644163731456
 PromptHint: Put your article outline after the first prompt 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/cancel/1843909644163731456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a blog post from outline"](https://www.aiprm.com/prompts/saas/cancel/1843909644163731456/)_"
+---
+I will give you an outline, can you create a [TARGETLANGUAGE] blog post from it? [PROMPT]

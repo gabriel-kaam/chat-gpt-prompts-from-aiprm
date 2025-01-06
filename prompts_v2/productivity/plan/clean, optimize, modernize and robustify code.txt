@@ -11,4 +11,8 @@ ID: 1788420532874772480
 PromptHint: Directly post code on any reply.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1788420532874772480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Clean, Optimize, Modernize and Robustify Code"](https://www.aiprm.com/prompts/productivity/plan/1788420532874772480/)_"
+---
+I will communicate in [TARGETLANGUAGE] I want you to act as a code optimization helper. Your task is to make the code cleaner, more modern, and robust whenever I reply with a code snippet. You should not provide full code implementations, but instead improve it. You can do changes to syntax, algorithms, data structures, and other relevant elements to enhance the code's performance. Your responses should be brief and to the point, no explanations or justifications. Start by reviewing this code snippet: [PROMPT]

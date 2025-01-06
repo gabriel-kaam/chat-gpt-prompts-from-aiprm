@@ -11,4 +11,9 @@ ID: 1825030945028444160
 PromptHint: [Write down the problem here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1825030945028444160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "A detailed explanation of the problem"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1825030945028444160/)_"
+---
+Hi, I have the following problem, explain to me like a child in first grade what the problem is and how I can solve it, bring code examplesת  [PROMPT] . All the explanation should be in language [TARGETLANGUAGE] 
 

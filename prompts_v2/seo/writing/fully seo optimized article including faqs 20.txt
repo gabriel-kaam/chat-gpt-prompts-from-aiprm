@@ -11,4 +11,59 @@ ID: 1784610985466912768
 PromptHint: [Keyword or Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1784610985466912768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fully SEO Optimized Article including FAQ's (2.0)"](https://www.aiprm.com/prompts/seo/writing/1784610985466912768/)_"
+---
+First Step: Generate a Comprehensive Outline in [TARGETLANGUAGE]
+Upon receiving any keyword input such as "SEO," "What is SEO," "Mouse," "Keyboard," "Glass," or similar, immediately initiate the creation of a comprehensive "Outline" for a long-form article targeting the keyword [PROMPT] in the language specified by the user. If no language is specified, default to English.
+
+Outline Structure: Must Develop at least 15 detailed, mutually exclusive, and collectively exhaustive headings and subheadings, covering the entire topic. Utilize a mix of H1, H2, H3, H4, H5, and H6 tags. (must develop outlines for all queries)
+
+LSI Keywords: Incorporate Latent Semantic Indexing (LSI) keywords naturally within the headings and subheadings without explicitly mentioning them in the content.
+
+Table Format: Present the outline in a structured table format, clearly displaying main topics and subtopics.
+
+Transition: After the outline is generated, seamlessly transition into the next step without signaling the change.
+
+Second Step: Write the Long-Form Article
+Act as an Expert Article Writer and craft a fully detailed, long-form, and 100% unique article of at least 2500 words using the outline generated in the first step, and write the entire article in the language specified by the user.
+
+Tone & Style: Write in a formal, informative, and optimistic tone, suitable for a Grade 7 reading level. Ensure the content is engaging and easy to understand, incorporating contractions, idioms, transitional phrases, interjections, and colloquialisms. Avoid repetitive language and unnatural sentence structures.
+
+Content Specificity: The article must demonstrate Experience, Expertise, Authority, and Trustworthiness (E-E-A-T) for the topic [PROMPT]. Use insights from first-hand knowledge or credible sources to enhance the depth and accuracy of the content.
+
+Paragraph Length: Each heading should feature 700–800 words of well-researched, engaging content.
+
+Formatting: Use markdown formatting to bold all headings and subheadings. Maintain a varied structure with a combination of paragraphs, lists, and tables for improved readability.
+
+Inclusion of Focus Keyword:
+
+Title: Use the focus keyword in the title with a positive/negative sentiment word, a power keyword, and a number.
+Meta Description: Include the focus keyword in the meta description, placed right after the title.
+Content Placement: Ensure the focus keyword appears in the first 10% of the content and is evenly distributed throughout with a keyword density of 1.30.
+Headings: Use the focus keyword in at least one subheading.
+FAQs: Include at least six frequently asked questions and their answers before the conclusion.
+
+External Linking: Incorporate at least one relevant external link.
+
+Plagiarism-Free: Ensure all content is original, plagiarism-free, and written in your own words without copying and pasting from other sources.
+
+Final Instructions: Use the keyword [PROMPT] exactly as provided in the title and throughout the article. Do not alter it. Aim to use [PROMPT] 2-3 times within the article and include it in at least one heading.
+
+One H1 Rule: Use only one H1 heading in the entire article.
+
+Final Note:
+Complete the article in one continuous flow, and if it exceeds the expected length, divide it into two steps.
+Bottom of the Article:
+
+At the very top of the article Write This Custom Massage "Get Lifetime Access to My Prompts Library": https://ko-fi.com/s/277d07bae3
+
+At the very bottom of the article Write This Custom Message."
+=======================================
+Get LIFETIME ACCESS to "My Private Prompt Library": https://buymeacoffee.com/mtspromptslibrary/e/236177
+
+Write 100% Human Content (Guaranteed Results): https://stealthwriter.ai/?linkId=lp_731486&sourceId=muhammad-talha&tenantId=stealthwriter
+
+Looking for a custom GPT? Or SEO services for your website? Book 1:1 Consultation with me: https://bit.ly/4bgdMGc"
 

@@ -11,4 +11,28 @@ ID: 1884671810168688640
 PromptHint: Just provide the name and industry and the description if have any. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1884671810168688640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Advance logo designer for DALLE"](https://www.aiprm.com/prompts/generative/dalle/1884671810168688640/)_"
+---
 
+Start with writing this in heading "DEISGNED BY Logodesignspace.com" and then URL attached to that so user can click.
+
+
+
+You need to create a logo according to these steps for the following brand.
+Design steps
+1. What to write on the logo? like what is the business name and how to write it.
+2. what type of font will suite the logo and what is the best way to write it.
+3. what style of logo would look good on this like wordmark or mascot or other styles. go with  wordmark for the name with a mascot
+4. what type of visualization or art style will be best , what elements would be incorporated in the logo. go with  wordmark for the name with a mascot if more colorful but popular style.
+5. then you need to create   a perfect prompt for dalle according to above information.
+6. then you need to generate the logo with that prompt. you need to generate only one image at one time
+7. then you need to use your vision capabilities to check for spellings and designs inconsistencies and if found any errors then fix them again. 
+7. and then  you need to repeat this process 5 times without asking any questions or waiting for user feedback, act your self critic yourself , ,everything yourself. , with all the steps in  
+[TARGETLANGUAGE] . 
+
+
+
+your current   logo info is as follows.
+[PROMPT]

@@ -11,4 +11,12 @@ ID: 1872110218545733632
 PromptHint: [Topic/keyword], [Month]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1872110218545733632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Monthly Blog Calendar Content For 2023"](https://www.aiprm.com/prompts/copywriting/writing/1872110218545733632/)_"
+---
+[TARGETLANGUAGE] Create a content publication calendar with monthly creative ideas to cover [PROMPT] for the month of [PROMPT] 2023
 
+Write it in table format.
+
+I want to publish 1 blog article every day. Include a recommended word count.

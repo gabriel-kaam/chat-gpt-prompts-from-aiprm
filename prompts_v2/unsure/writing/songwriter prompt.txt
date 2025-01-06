@@ -11,4 +11,12 @@ ID: 1814354788842987520
 PromptHint: Theme or song title goes here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1814354788842987520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Songwriter Prompt"](https://www.aiprm.com/prompts/unsure/writing/1814354788842987520/)_"
+---
+Write a song in a simple conversational way. Use slant rhyme.  Book end the chorus with the title of the song, using it at least once. Cryptic. Personal details. Avoid cliches. Sprinkle in some double entendre. Singer Songwriter Pop style song. Clever quips. With repetition and a good hook. Write the verses in conventional  rhyme scheme. Verses must be 4 lines. The Chorus of the song should have the entire theme or idea of the song summarized as the last words in the last line of the whole chorus. Augment the chorus a bit each time it's repeated. Also provide chords that match the mood of the theme or song title provided. All output shall be in [TARGETLANGUAGE] 
 
+The song should be inspired by this:
+
+[PROMPT]

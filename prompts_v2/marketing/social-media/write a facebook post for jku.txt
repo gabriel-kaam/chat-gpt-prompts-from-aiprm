@@ -11,4 +11,15 @@ ID: 1969605732593319936
 PromptHint: [Facebook Post Topic],[English]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1969605732593319936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Facebook Post for Jku"](https://www.aiprm.com/prompts/marketing/social-media/1969605732593319936/)_"
+---
+Act as an expert social media marketer.
+My business, Jku, offers internships in various domains to the students and institutes. I can provide you remote internships in all professional course including engineering and non engineering. I am located in Mumbai.
+Write a social media post for facebook about [PROMPT], in [TARGETLANGUAGE].
+Make sure you are using Three hashtag and two emojis.
+At the end call to action
+Example:
+Are you struggling in getting internships
+You can join us for remote internship for engineering and non engineering field both

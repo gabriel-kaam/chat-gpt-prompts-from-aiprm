@@ -11,4 +11,9 @@ ID: 1790510891230556160
 PromptHint: [job title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790510891230556160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cover Letter for a Job Title"](https://www.aiprm.com/prompts/copywriting/writing/1790510891230556160/)_"
+---
+I want you to act as a candidate looking for job. Write a cover letter for position in  [TARGETLANGUAGE]
+[PROMPT]

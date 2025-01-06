@@ -11,4 +11,10 @@ ID: 1820568986480545792
 PromptHint: Paste article then add "
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1820568986480545792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article Analyzer Starter"](https://www.aiprm.com/prompts/copywriting/marketing/1820568986480545792/)_"
+---
+[TARGETLANGUAGE] I'm going to give you an aritcle, then STRICTLY await instructions.
 
+article = "[PROMPT]"

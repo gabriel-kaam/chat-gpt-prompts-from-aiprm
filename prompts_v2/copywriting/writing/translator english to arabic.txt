@@ -11,4 +11,10 @@ ID: 1795703006134800384
 PromptHint: Put your English content here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795703006134800384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translator: English to Arabic"](https://www.aiprm.com/prompts/copywriting/writing/1795703006134800384/)_"
+---
+[TARGETLANGUAGE] Arabic
+[PROMPT] Act as an expert translator. Translate the below context into modern Arabic.
+context:

@@ -11,4 +11,8 @@ ID: 1801984413635182592
 PromptHint: Enter the product name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1801984413635182592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Link Building Email for a Product"](https://www.aiprm.com/prompts/seo/link-building/1801984413635182592/)_"
+---
+Create an email asking a website owner to consider including a link in a blog post to a product. Write all output in [TARGETLANGUAGE]. Please find the product name in [PROMPT]. Open the email with "Hello!" Begin by complimenting the blog post in the first paragraph. In the second paragraph, explain why the product would be a good addition to the blog post. In a third paragraph, thank the reader for their consideration. End by signing off. Avoid references to building a partnership. 

@@ -12,4 +12,9 @@ ID: 1802247078706147328
 PromptHint: [your list of keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802247078706147328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Posts Writer + Hashtags! "](https://www.aiprm.com/prompts/marketing/social-media/1802247078706147328/)_"
+---
+Create 5 social media posts and 4 hashtags in [TARGETLANGUAGE] for each of the keywords in the list here:
+[PROMPT]

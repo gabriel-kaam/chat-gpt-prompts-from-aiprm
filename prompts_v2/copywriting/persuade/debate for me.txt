@@ -11,4 +11,22 @@ ID: 1839307394690850816
 PromptHint: Clear
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1839307394690850816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Debate for me"](https://www.aiprm.com/prompts/copywriting/persuade/1839307394690850816/)_"
+---
+[PROMPT] your task is to.  Write me an argument from diverse perspectives additionally could you describe the characteristics of the different characters involved in the argument from diverse perspectives? [TARGETLANGUAGE] Formal
+
+The argument is for:
+[VARIABLE1]
+
+The argument is against: 
+[VARIABLE2]
+
+[VARIABLE1:The argument is for]
+[VARIABLE2: The argument is against]
+
+The argument need to be at minimum 1200 words
+
+
 

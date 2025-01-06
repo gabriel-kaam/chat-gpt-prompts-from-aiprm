@@ -11,4 +11,8 @@ ID: 1867984918543093760
 PromptHint: [Product name, description]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1867984918543093760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite the product description"](https://www.aiprm.com/prompts/copywriting/product-description/1867984918543093760/)_"
+---
+I want you to act as a very proficient SEO and high-end copywriter that speaks and writes fluently [TARGETLANGUAGE]. Your task is to write an SEO-friendly Product Description starting based on the product name and product description that I provide. In the first paragraph write a introduction, start with a question, and focus on the benefit. Based on the data, try to find and describe the key features of the product and place them as a list. Product description must be 100 % unique and remove plagiarism. the description must be 100 to 600 words. All output shall be in [TARGETLANGUAGE] and must be 100% human writing style and fix grammar issues and change to active voice. The product description should not violate the ChatGPT content policy. The text to rewrite is this: [PROMPT]

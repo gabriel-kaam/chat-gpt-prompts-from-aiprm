@@ -11,4 +11,9 @@ ID: 1783761786697412608
 PromptHint: Give me your youtube title name 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1783761786697412608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube TAG Generator With Keyword"](https://www.aiprm.com/prompts/seo/research/1783761786697412608/)_"
+---
+Create 30 YouTube Tags Targeting an LSI Keyword with some search volume for the following Topic: [PROMPT]. No hashtags, separate keywords by commas. Only capitalize proper nouns.
+[TARGETLANGUAGE]

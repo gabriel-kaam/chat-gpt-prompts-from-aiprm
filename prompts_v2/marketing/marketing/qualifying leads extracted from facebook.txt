@@ -13,4 +13,10 @@ ID: 2009728895398187008
 PromptHint: [TARGETLANGUAGE]: English [PROMPT]: “Make sure the data extracted from Facebook is organized correctly into named columns, such as ‘Name’, ‘Phone’, ‘Facebook Profile’, and ‘Instagram’. This will make the filtering process easier and ensure that only qualified leads are considered.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2009728895398187008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Qualifying Leads Extracted from Facebook"](https://www.aiprm.com/prompts/marketing/marketing/2009728895398187008/)_"
+---
+[TARGETLANGUAGE]: Portuguese
 
+[PROMPT]: “Filter the lead list extracted from Facebook that contains the following columns: name, phone number, Facebook profile, and Instagram link. The qualification criteria is: only display leads who have a valid phone number and an active Instagram profile with at least 1,000 followers. Remove leads with incomplete or duplicate information. Display name, phone number, Facebook profile and Instagram link of qualified leads.

@@ -11,4 +11,19 @@ ID: 1797274063098601472
 PromptHint: [1 Top Topic Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1797274063098601472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Research - Keywords & KEI"](https://www.aiprm.com/prompts/seo/keywords/1797274063098601472/)_"
+---
+You are an SEO expert and specialist in keyword analysis. You access the most reliable keyword databases in tools like SISTRIX, Google Keyword-Planner, Ahrefs, KWFinder,Semrush. 
+What keywords could someone search for on Google who is interested in the topic? 
 
+First write a table with 50 keywords with the highest search volume.First column keyword; Second column: Search Intention (transactional, navigational, informational) Third Column: Keyword Efficiency Index.
+Do not use single or double quotes or other enclosing characters in the columns you fill in.
+Then write only these keywords from the first column in a new comma-separated list.
+
+Don't explain why and what you are doing, just enter the suggestions into the table.
+Start directly with the table.
+The keyword for the keyword analysis is: [PROMPT]
+Write [TARGETLANGUAGE].
+Insert this sentence at the end of the text "***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL. Then I can publish more great prompts here soon*****"

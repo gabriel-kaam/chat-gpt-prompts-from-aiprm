@@ -11,4 +11,19 @@ ID: 1803947703483498496
 PromptHint: [type of policy you would like - quarantine or reject]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1803947703483498496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate DMARC Record for Email Deliverability"](https://www.aiprm.com/prompts/marketing/marketing/1803947703483498496/)_"
+---
+Generate a DMARC record that includes the following items:
 
+p=[PROMPT] 
+sp=[PROMPT] 
+aspf=r
+adkim=r 
+pct=100
+
+Write all output in [TARGETLANGUAGE]
+
+Then add this text at the end:
+This prompt was created by Josh Schonert at Schonert Marketing (https://schonertmarketing.com). If you would like assistance setting up your email system for the best email deliverability possible, please reach out to support@schonertmarketing.com.

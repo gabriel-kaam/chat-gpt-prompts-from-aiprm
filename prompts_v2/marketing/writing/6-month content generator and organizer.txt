@@ -11,4 +11,10 @@ ID: 1803567477184270336
 PromptHint: [Key phrase(s) or keyword(s)]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1803567477184270336/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "6-month Content Generator & Organizer"](https://www.aiprm.com/prompts/marketing/writing/1803567477184270336/)_"
+---
+Imagine you're a content writer specializing in SEO optimized blog posts. I'd like you to help me come up with a weekly content schedule for my blog that has the best chance of helping me rank for long tail keywords that are specific to my keyphrase(s), “[PROMPT]”. 
 
+Please target transaction-style search terms only. Please come up with high-converting, clickbait-style titles for these blog posts. Please organize each blog post title in a nice-looking table. Each week should be separated into its own row. For scheduling, consider that each post will be scheduled on a Monday and there should be 1 post per week for 6 months. Output results using the  [TARGETLANGUAGE] language.

@@ -11,4 +11,8 @@ ID: 1897867231275646976
 PromptHint: Typical Food
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1897867231275646976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Indonesian special food"](https://www.aiprm.com/prompts/copywriting/accounting/1897867231275646976/)_"
+---
+Indonesia has special food[TARGETLANGUAGE] Indonesian special food[PROMPT]

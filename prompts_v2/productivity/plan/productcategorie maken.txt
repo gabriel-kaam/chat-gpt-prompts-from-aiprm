@@ -11,4 +11,8 @@ ID: 1807356716585836544
 PromptHint: Brand, Size, Colour
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1807356716585836544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Productcategorie maken"](https://www.aiprm.com/prompts/productivity/plan/1807356716585836544/)_"
+---
+Make productcategories by means of brand, size or colour: [TARGETLANGUAGE] [PROMPT]

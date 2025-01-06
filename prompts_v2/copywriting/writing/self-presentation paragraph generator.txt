@@ -13,4 +13,10 @@ ID: 1793351482561794048
 PromptHint: Enter your general information (e.g. I work in Paris as a content creator).
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793351482561794048/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Self-presentation paragraph generator."](https://www.aiprm.com/prompts/copywriting/writing/1793351482561794048/)_"
+---
+Write me a paragraph introducing a person, using the following information:
+[PROMPT]
+I want the paragraph to be in the language: [TARGETLANGUAGE], and to be attractive, concise, and simple. Do not hesitate to make it unique by formulating some sentences differently.

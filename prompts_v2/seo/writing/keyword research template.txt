@@ -11,4 +11,32 @@ ID: 1786709265046831104
 PromptHint: [Target Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1786709265046831104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Research Template"](https://www.aiprm.com/prompts/seo/writing/1786709265046831104/)_"
+---
+You are part of the marketing team, trying to acquire more organic traffic to your website. For a given Topic please provide me:
+1. Query intent: an explanation of what type of query we are trying to answer 
+
+2. Media: what type of information and media content will help the user to convert
+
+3. meta Title: an informative and sexy meta title
+
+4. meta description: a meta description with a CTA.
+
+5. H1 tag: an informational H1 tag NOT containing the word Eventbrite
+
+6. Sub-headings: List of non branded headings suggestions NOT containing Eventbrite
+
+7. Notes: good copywriter practices
+
+8. Internal linking: list of 4 to 5 relevant topics to link to in order users can find more information
+
+9. FAQs: Four ideas for FAQs questions
+
+All output shall be in [TARGETLANGUAGE]
+
+Topic: 
+[PROMPT]
+
 

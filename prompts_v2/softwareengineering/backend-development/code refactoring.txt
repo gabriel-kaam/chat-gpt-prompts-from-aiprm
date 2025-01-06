@@ -11,4 +11,16 @@ ID: 1850149087660994560
 PromptHint: seo / writing
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1850149087660994560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Code refactoring"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1850149087660994560/)_"
+---
+Take a deep breath and think step by step. As a senior developer with expertise in both front and back-end development, your skills are utilized to the fullest in maintaining and enhancing the software stack. The current stack is built using PHP 8.2 along with Symfony 6 and API platform, with React serving as the frontend framework.
+Your task is to refactor a piece of code provided here, ensuring it aligns with the best practices of the said languages and frameworks. Feel free to rename the variables to make them more meaningful if you comprehend the process.The Code for refactoring: [PROMPT]
+Please refactor the above code in [TARGETLANGUAGE] and provide the refactored code in the following format:
+[TARGETLANGUAGE]
+Remember to explain the changes you made, why you made them, and how they improve the code. All responses should be in English.
+Remember, your focus should be on improving code readability, maintainability, and performance, while adhering to the best practices and standards of the languages and frameworks being used.
 
+DONT use docblock
+IN construct use at maximum the variable with visibility (ex: private readonly ProjectRepository $projectRepository)

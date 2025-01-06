@@ -11,4 +11,97 @@ ID: 1866531588386082816
 PromptHint: Team to help you decide
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1866531588386082816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Decision Making"](https://www.aiprm.com/prompts/unsure/unsure/1866531588386082816/)_"
+---
+Imagine you are 3 [VARIABLE1], [VARIABLE2], [VARIABLE3] reasoning step by step
+to ultimately solve a given problem or question by arriving at a final, synthesized best answer in [TARGETLANGUAGE].
+To start with, as each individual expert, brainstorm your initial thoughts on the following question.
+Remember to consider all relevant facts and principles, draw on your specialized knowledge
+and from the accumulated wisdom of pioneers in your field(s), and
+brainstorm in whatever direction you are most confident in starting with.
+
+The question is: [PROMPT]
+
+Now, as each expert, critique your own initial thought and the thoughts of the other experts.
+Identify any potential errors, inconsistencies, or gaps in reasoning.
+
+
+
+
+Assess the validity of your initial thoughts, considering the criticisms you've identified.
+As each expert, assign a likelihood to your current assertion being correct.
+You should estimate this likelihood based on the strength of the evidence and arguments you have considered, 
+as well as the criticisms you have received. Assign higher likelihoods to assertions that are well-supported 
+by strong evidence and arguments and have survived rigorous criticism.
+
+
+
+Develop your thoughts further, considering the critiques and perspectives of the other experts.
+As you do this, aim to strike a balance between refining your current line of thinking and exploring new, divergent ideas.
+You should prioritize refining your current ideas if they are well-supported and have survived criticism,
+but you should prioritize exploring new ideas if your current ideas have significant weaknesses
+or there are unexplored possibilities that could potentially be very promising.
+
+Consider the following:
+
+    - How do your new or refined ideas address the criticisms that were raised?
+    - Do these ideas bring new insights to the problem, or do they provide a different perspective
+      on existing insights?
+    - Are your new ideas still aligned with the original problem, or have they shifted the focus?
+      If the focus has shifted, is this shift beneficial to understanding or solving the problem?
+    - Remember, if necessary, don't hesitate to backtrack and start a new and improved branch of thinking.
+      But ensure that any new branches are still relevant and beneficial to the problem and objective at hand.
+	  
+	 
+	 
+	 Once again, as each expert, critique your own reasoning and the reasoning of the others.
+Identify any potential errors, inconsistencies, or gaps in reasoning.
+Based on the feedback, if there's an improvement or optimization to make,
+develop your answer further as necessary.
+Remember that the reasoning paths should remain relevant to the original question's essence and
+should be building towards a more accurate and thoughtful final answer.
+
+
+Once again, assess the validity of your expanded thoughts, considering the criticisms you've identified.
+As each expert, assign a new likelihood to your assertions.
+
+
+Now, it's time to converge on each expert's best, most likely answer. As each expert, reflect on the entire process.
+Consider the initial thoughts, the critiques made and how they were addressed, the likelihood assessments, and your revised thoughts.
+Synthesize all this information and formulate a final answer that you are most proud of.
+Remember, this answer should not just be the most likely from your individual perspective but should take into account
+the perspectives and insights of the other experts as well.
+Based on all this, what is the single best {answer} to the question:[PROMPT]
+
+Now, let's have all the experts converge together on the best collective answer by
+synthesizing each expert's individual final answer from the previous step.
+The experts will finalize their reasoning process and agree on the single best {answer} to the question: [PROMPT]
+
+inally, take a moment to reflect on the entire reasoning process, across all levels and abstractions.
+As each expert, consider the following questions and provide thoughtful responses:
+
+- Relection 1: Interactions and Emergent Properties: Throughout all stages of the reasoning process,
+  how did the various components interact with each other, and what positive and negative
+  emergent properties were observed? How did these interactions and properties affect
+  the overall outcome, and how could they be leveraged or mitigated in future iterations of the process?
+
+- Reflection 2: Self-Regulation and Adaptation: How well did the system self-regulate during the reasoning process,
+  and how did this regulation influence the effectiveness of each stage?
+  How did the system's responses to feedback lead to significant shifts or changes in direction,
+  and what implications did these changes have for the scalability and adaptability of the system in future iterations?
+
+- Reflection 3: During the expansion phase, were you able to effectively explore new lines of thinking?
+  What challenges did you encounter, if any?
+
+- Reflection 4: How confident were you in your ability to estimate a likelihood of correctness/quality, given the context?
+
+- Reflection 5: In the convergence phase, were you able to synthesize all the insights and arrive at a final,
+  most likely answer? How confident are you in this answer?
+
+- Reflection 6: Based on all of your reflections, what are your key takeaways from this
+  entire reasoning process and how might you approach similar problems in the future given this experience?
+  What would you do differently next time?
+
 

@@ -11,4 +11,12 @@ ID: 1832234166910189568
 PromptHint: [Please tell me your nationality or country of your passport]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1832234166910189568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Vietnam visa requirements"](https://www.aiprm.com/prompts/unsure/unsure/1832234166910189568/)_"
+---
+Please act as Vietnam Visa Advisor and tell me whether I need to apply for a visa to enter Vietnam if I tell you my [nationality]. 
+If I am exempted from a Vietnam visa, please tell me how many days to stay in Vietnam and the condition for a visa-free.
+If I need to apply for a Vietnam visa, please tell me how to apply for a visa and which website I should visit to apply for a Vietnam visa.
+All output shall be in [TARGETLANGUAGE]. The text for my [nationality] is this:
+[PROMPT]

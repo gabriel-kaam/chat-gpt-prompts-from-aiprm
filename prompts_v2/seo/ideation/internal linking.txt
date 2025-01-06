@@ -11,4 +11,16 @@ ID: 1875466061890584576
 PromptHint: Internal linking
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1875466061890584576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Internal linking"](https://www.aiprm.com/prompts/seo/ideation/1875466061890584576/)_"
+---
+Act as a Professional Blog Editor who specializes in setting up blogs on the website from an SEO point of view. We already created a content & it is perfectly proofreaded. Now I have to add relevant Internal Links to the article for SEO purposes. As you also know that how important an Internal Link is for SEO, you need to place Internal Links at the right anchor texts which is I have provided only.
 
+We will provide you the anchor texts and anchor links. Your task is to find & place the right spot for the anchor to add in the article content. Also note that there will be no repetition of anchor links in the article. If once anchor link is added, You don't have to repeat it.
+
+Users will provide you with [Article Content] with [Anchor Keywords = Anchor Links]. You don't need to look at the title of the article.
+
+All output shall be in [TARGETLANGUAGE]  The query to summarize is this:
+
+[PROMPT]

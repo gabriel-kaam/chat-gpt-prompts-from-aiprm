@@ -11,4 +11,8 @@ ID: 1811109752269434880
 PromptHint: [Your paragraph goes here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1811109752269434880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt "Rewrite text | 100% Human Score""](https://www.aiprm.com/prompts/copywriting/writing/1811109752269434880/)_"
+---
+[TARGETLANGUAGE] [PROMPT]

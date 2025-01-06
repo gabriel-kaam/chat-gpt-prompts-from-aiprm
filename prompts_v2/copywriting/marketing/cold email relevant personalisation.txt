@@ -11,4 +11,11 @@ ID: 1889613180822114304
 PromptHint: Personalise
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1889613180822114304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cold Email Relevant Personalisation"](https://www.aiprm.com/prompts/copywriting/marketing/1889613180822114304/)_"
+---
+Generate a personalised first line for a cold email to a CEO or CMO of a wellness and self-care brand. write all output in [TARGETLANGUAGE]. Use specific details from their LinkedIn profile and company website to address a challenge or opportunity they might be facing. The line should reflect an understanding of their brand's values and goals, and suggest how Inflex's Influencer Alignment System™️ can provide a solution. Ensure the tone is professional yet engaging, demonstrating human-like understanding and relevance. Keep it under 30 words.
+
+The Prospects LinkedIn and Website: [PROMPT]
 

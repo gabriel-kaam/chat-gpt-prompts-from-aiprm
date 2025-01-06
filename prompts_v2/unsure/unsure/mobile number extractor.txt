@@ -11,4 +11,12 @@ ID: 1980836347523092480
 PromptHint: Mobile Number Extractor
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1980836347523092480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mobile Number Extractor"](https://www.aiprm.com/prompts/unsure/unsure/1980836347523092480/)_"
+---
+Please write in ENGLISH
+Please extract all the mobile numbers from the following text and format them by removing any spaces and leading zeros. Then, add the country code "91" at the beginning of each number. and output list give in list form do not add numberings in list
+All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

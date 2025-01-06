@@ -11,4 +11,10 @@ ID: 1916546996799021056
 PromptHint: [link or content for Google post]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1916546996799021056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Highly Ranked Google Post"](https://www.aiprm.com/prompts/copywriting/marketing/1916546996799021056/)_"
+---
+Your task is to summarize the text I give you and turn it into a Google post. Make sure it is written in paragraph form. All output should be in [TARGETLANGUAGE].
 
+[PROMPT]

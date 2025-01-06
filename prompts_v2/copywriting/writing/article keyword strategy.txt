@@ -11,4 +11,8 @@ ID: 1794238595012489216
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794238595012489216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article keyword strategy"](https://www.aiprm.com/prompts/copywriting/writing/1794238595012489216/)_"
+---
+Create 100% unique a full minimum 1000 words blog post based on the title: "[PROMPT]". act as a professional SEO Writter and grammar corrector and improver and Human-written article in [TARGETLANGUAGE]. Use the outline generated above and incorporate the on-page optimization and featured snippets use cases. At the end of the article, write maximum a 60 character SEO-optimized title, maximum a 70 character permalink, maximum a 150 character SEO meta description, a description for the featured image, focus keywords, and 5 tags related to the article.

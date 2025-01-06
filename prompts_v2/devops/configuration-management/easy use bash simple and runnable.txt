@@ -11,4 +11,9 @@ ID: 1804552945875021824
 PromptHint: Any request you want to make in bash script.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1804552945875021824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Easy Use Bash Simple & Runnable "](https://www.aiprm.com/prompts/devops/configuration-management/1804552945875021824/)_"
+---
+[PROMPT] Write in bash script.
+I want the output in [TARGETLANGUAGE].

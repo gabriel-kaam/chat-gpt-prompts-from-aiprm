@@ -11,4 +11,9 @@ ID: 1855334768623800320
 PromptHint: [chapter of the book that you want a chapter summary for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1855334768623800320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a youtube-shorts 1 minute script"](https://www.aiprm.com/prompts/marketing/social-media/1855334768623800320/)_"
+---
+your task is to summarize the given chapter of a book in 125 words  to 150 words maximum in a motivational, eye-opening, instructional manner. the language should be simple, and all output should be in [TARGETLANGUAGE]. The chapter to summarize is this:
+[PROMPT]

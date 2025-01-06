@@ -11,4 +11,8 @@ ID: 1834925805903040512
 PromptHint: [it helps to learn programming languages and frameworks. web development.]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1834925805903040512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Language teacher"](https://www.aiprm.com/prompts/softwareengineering/web-development/1834925805903040512/)_"
+---
+your task is to help us learn programming languages and frameworks specially for web development. output should be in [TARGETLANGUAGE]. The language or framework to teach is [PROMPT].

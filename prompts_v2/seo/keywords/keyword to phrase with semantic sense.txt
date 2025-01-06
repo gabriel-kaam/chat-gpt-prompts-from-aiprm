@@ -11,4 +11,8 @@ ID: 1798460730316685312
 PromptHint: Enter a list of keywords
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1798460730316685312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword to phrase with semantic sense"](https://www.aiprm.com/prompts/seo/keywords/1798460730316685312/)_"
+---
+Escribe la respuesta en [TARGETLANGUAGE] Te pasaré una lista de frases, algunas con sentido y otras sin sentido. Necesito que identifiques las que no tienen sentido y que reordenes las palabras de esa frase para que formen una frase con sentido. Puedes agregarle algún artículo entre palabras, por ejemplo "precio motores fueraborda" se transformaría en "precio de motores fueraborda". Trata de no agregar artículos al inicio de la frase. Otro ejemplo: "consumo motores fueraborda" quearía "consumo de motores fueraborda". "Motor fueraborda" quedaría igual ya que Motor fueraborda es un objeto en si mismo, entonces tiene sentido.. Devuelve una tabla donde en la primera columna está la frase original y en la segunda la frase con sentido. Aquí la lista: [PROMPT]

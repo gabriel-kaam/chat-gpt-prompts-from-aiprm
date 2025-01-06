@@ -11,4 +11,8 @@ ID: 1799872767097827328
 PromptHint: Keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1799872767097827328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Blog Post Generator"](https://www.aiprm.com/prompts/seo/writing/1799872767097827328/)_"
+---
+You are a expert content writer. Write a 3000-word article on the [PROMPT]. Use the following text as guidelines when writing the article [VARIABLE1:Source Text]. Follow all the SEO guidelines in writing the content. Implement Google’s E-A-T framework that focuses on expertise, authoritativeness, and trustworthiness. Research the intent of [PROMPT] and write the article to have elements of a Up to Date and Fresh Content and On-page SEO. Write in simple and correct [TARGETLANGUAGE]. Make use of markdown language and H tags (h1, h2, h3, h4, h5, h6). Try to be creative and make the article plagiarism-free. Write in your own words, use informal tone and your writing style should be conversational. 

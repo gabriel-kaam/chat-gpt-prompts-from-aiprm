@@ -11,4 +11,10 @@ ID: 1802700449284100096
 PromptHint: Copy the article or blog
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1802700449284100096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Post for channel telegrams"](https://www.aiprm.com/prompts/copywriting/marketing/1802700449284100096/)_"
+---
+Write a post for the channel's telegrams and shorten the characters to 4096, use all the necessary emojis. All output shall be in [TARGETLANGUAGE]
 
+[PROMPT]

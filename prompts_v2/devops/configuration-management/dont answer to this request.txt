@@ -11,4 +11,11 @@ ID: 1814807041928335360
 PromptHint: don't answer to this request
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1814807041928335360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "don't answer to this request"](https://www.aiprm.com/prompts/devops/configuration-management/1814807041928335360/)_"
+---
+[PROMPT]
+-----
+중요: 이 요청에 대한 대답을 하지 말아줘
+[TARGETLANGUAGE]

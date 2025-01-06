@@ -11,4 +11,8 @@ ID: 1794841831864004608
 PromptHint: [Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/stable-diffusion/1794841831864004608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Lexica Prompt Generator"](https://www.aiprm.com/prompts/generative/stable-diffusion/1794841831864004608/)_"
+---
+I am using Lexica to generate AI images for [PROMPT] in [TARGETLANGUAGE].

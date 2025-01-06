@@ -11,4 +11,64 @@ ID: 1864358490031280128
 PromptHint: Put your recipe title + ingredients + directions 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1864358490031280128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a recipe post using SEO"](https://www.aiprm.com/prompts/copywriting/writing/1864358490031280128/)_"
+---
+I Want You To Act As A Content Recipe Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE] .
+Recipe Details:
+- i will share this : Recipe Name , Ingredients , How TO make it , in The end :
 
+Task: Create a comprehensive, SEO-optimized recipe article that includes:
+
+1. Engaging Introduction
+- Briefly discuss the recipe's background
+- Share an interesting story or cultural context
+- Highlight what makes this recipe special
+
+2. Detailed Recipe Overview
+- Prep time
+- Cooking time
+- Total time
+- Difficulty level
+- Servings
+
+3. Complete Ingredients List
+- Precise measurements
+- Potential substitutions
+- Notes on ingredient selection
+
+4. Step-by-Step Instructions
+- Clear, detailed cooking steps
+- Professional cooking tips
+- Techniques to ensure best results
+
+5. Expert Tips & Variations
+- Professional cooking recommendations
+- Possible recipe modifications
+- Serving suggestions
+
+6. Nutritional Information
+- Calorie count
+- Macro breakdown
+- Dietary labels
+
+7. Storage & Reheating
+- Proper storage instructions
+- Best reheating methods
+- Shelf life
+
+8. FAQ Section
+- 3-4 common questions about the recipe
+- Detailed, helpful answers
+
+Writing Style:
+- Conversational and engaging
+- First-person narrative
+- Descriptive and appetizing language
+
+SEO Considerations:
+- Naturally integrate relevant keywords
+- Use descriptive headers
+- Create a compelling meta description
+Now Write a Recipe on This Topic with these ingredients and direction : [PROMPT]

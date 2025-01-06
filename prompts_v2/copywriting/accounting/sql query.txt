@@ -11,4 +11,9 @@ ID: 1895085660722298880
 PromptHint: What is your SQL query
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1895085660722298880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Sql query"](https://www.aiprm.com/prompts/copywriting/accounting/1895085660722298880/)_"
+---
+[PROMPT]
+Provide answer in [TARGETLANGUAGE]

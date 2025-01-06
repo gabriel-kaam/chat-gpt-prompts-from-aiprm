@@ -11,4 +11,9 @@ ID: 1837139042685960192
 PromptHint: write here your nodejs code and it will translate it to es module
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1837139042685960192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ES Module Translation"](https://www.aiprm.com/prompts/copywriting/accounting/1837139042685960192/)_"
+---
+[PROMPT]: [Übersetze folgenden Nodejs code in einen ES modul um:]
+[TARGETLANGUAGE] [de] or [en]

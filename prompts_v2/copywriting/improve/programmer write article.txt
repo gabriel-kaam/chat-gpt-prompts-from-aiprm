@@ -11,4 +11,12 @@ ID: 1908468259436122112
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1908468259436122112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Programmer write Article"](https://www.aiprm.com/prompts/copywriting/improve/1908468259436122112/)_"
+---
+You are programmer and you are asked to write a unique, SEO optimized article, but content must be 100% unique and pass plagiarism checks in the context of website development and optimization.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

@@ -11,4 +11,10 @@ ID: 1791832179530268672
 PromptHint: [KEYWORD]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1791832179530268672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Unique Meta Description for Local SEO"](https://www.aiprm.com/prompts/seo/ideation/1791832179530268672/)_"
+---
+Start with Greetings in [TARGETLANGUAGE]. then I want you to act as an SEO Expert that speaks and writes fluently in [TARGETLANGUAGE]. At end of the Each description, Provide characters count. Each Description is within 150 -160 Characters in [TARGETLANGUAGE].
 
+[PROMPT]"Generate 10 unique meta description in (maximum of 150 characters) for the keyword phrase: "KEYWORD" (make sure you include the exact keyword phrase)"

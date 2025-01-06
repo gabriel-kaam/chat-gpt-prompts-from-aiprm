@@ -11,4 +11,8 @@ ID: 1803222332106596352
 PromptHint: [Write your product title here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1803222332106596352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Enticing SEO Description for E-commerce"](https://www.aiprm.com/prompts/seo/writing/1803222332106596352/)_"
+---
+I want you to act as an SEO Specialist and write a compelling and enticing SEO meta description for an e-commerce website selling home improvement products with only 155 character limit. Use the product title [PROMPT] as the keywords for the meta description. Make sure to include the price in the meta description and use words that reflects a sale, an on-going discount or promotion to entice users and give a sense of urgency. Write the meta description in [TARGETLANGUAGE] language

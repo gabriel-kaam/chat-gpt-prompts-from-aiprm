@@ -11,4 +11,20 @@ ID: 1817589512394772480
 PromptHint: Please confirm if I can continue in this manner
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1817589512394772480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Logner promt - next + proceed"](https://www.aiprm.com/prompts/copywriting/summarize/1817589512394772480/)_"
+---
+[TARGETLANGUAGE] ENGLISH
+[PROMPT]
+GPT, I would like to ask you a multi-part query. Please respond with "Next" after each input. When I type "PROCEED", generate a response taking into account all the previous parts of the query.
+Example:
+User: PART 1: [Enter the first part of the query here]
+GPT: Next
+User: PART 2: [Enter the second part of the query here]
+GPT: Next
+User: PART 3: [Enter the third part of the query here]
+GPT: Next
+...
+User: PROCEED
+GPT: [Response to all previously mentioned parts of the query]

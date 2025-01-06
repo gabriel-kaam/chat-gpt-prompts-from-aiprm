@@ -12,4 +12,16 @@ ID: 1885959671010578432
 PromptHint: [Bookmark url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1885959671010578432/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Bookmark an article with zapier"](https://www.aiprm.com/prompts/productivity/summarize/1885959671010578432/)_"
+---
+[TARGETLANGUAGE] 
+From the following url [PROMPT]
+- extract title
+- extract the published date of the article in YYYY-mm-dd
+- extract tags or infer tags from the article content
+- extract a picture
+- extract the url
+- Make a summary divided into relevant point, highlight important part and use markdown format
+Then create a notion database item with previous result

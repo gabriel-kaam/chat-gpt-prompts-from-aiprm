@@ -11,4 +11,78 @@ ID: 1894170439602425856
 PromptHint: Make html codes in their boxes according to the requested prompt
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1894170439602425856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Repair Text - Overview to Summary"](https://www.aiprm.com/prompts/copywriting/improve/1894170439602425856/)_"
+---
+<!----------------------recognize the text pattern ------------------------------
+Pahamilah dahulu variabel TEXT TEXT yang ada di dalam pola ini:-->
+"
+<h3>Overview:</h3>
+<blockquote><i>TEXTOVERVIEW</i></blockquote>
 
+
+About : <i>TEXTABOUT</i>
+
+
+
+
+
+<h3>Job Description:</h3>
+<div class="">TEXTJOBDESCRIPTION</div>
+
+
+
+Summary:
+<div class="jobsummary">TEXTSUMMARY</div>
+
+"
+
+<!-- di situ kamu akan mendapatkan isi bagian/variable dari: TEXTOVERVIEW, TEXTABOUT, TEXTJOBDESCRIPTION, dan TEXTSUMMARY.
+
+terhadap text artikel saya berikut ini, lakukan pengenalan pola dan pengambilan isi dari bagian/variabel: TEXTOVERVIEW, TEXTABOUT, TEXTJOBDESCRIPTION, dan TEXTSUMMARY.
+
+----------------------my prompt begins ------------------------------
+
+
+Lalu untuk masing masing bagian/variabel, lakukan hal hal berikut ini (ada 5 perintah).
+1. terhadap TEXTOVERVIEW : Mohon  di bagian TEXTOVERVIEW ini jangan sebutkan jumlah hari apapun, agar masih relevan. Jangan menggunakan kata 'yang lalu'. Jika ada yang kurang jelas, perbaiki text nya. Untuk bagian TEXTOVERVIEW ini, cukup  1 <blockquote> saja, dan per barisnya dipisahkan oleh tanda ganti baris yang tidak terlihat di wordpress text editor.  Jangan membuat tag <blockquote>untuk memisahkan per barisnya, namun gunakan <br> atau \n. Pisahkan tanggapanmu untuk pertanyaan ke - 1 tersendiri, dalam html code block. Outputnya harus dalam bentuk html code block terpisah. Contoh format akhirnya adalah: <!-- 1. TEXTOVERVIEW -->
+<h3>Overview:</h3>
+<blockquote><i>
+  Perusahaan Wesh Wash Laundry membuka lowongan pekerjaan untuk posisi Staff Laundry. Bergabunglah dengan tim kami dan temukan kesempatan menarik di dunia layanan laundry.
+</i></blockquote>
+
+
+
+
+2. terhadap TEXTABOUT : Perbaikilah kalimat dan susunan kata-nya, kamu boleh menambahkan kata lainnya agar text nya terasa alamiah ditulis manusia biasa. Tetapi tetap harus menggunakan sebagian besar kata kata kunci/penting dari text TEXTABOUT aslinya. Tujuannya untuk membuat text ini mengerti maksud / intensi / intention para pencari lowongan kerja di Google Search. Buatlah 2 kalimat lain sebagai pendukung untuk bagian TEXTABOUT ini dan dituliskan masih dalam satu bagian tag <i> tanpa ganti baris, tanpa tag <P>. Pisahkan tanggapanmu untuk pertanyaan ke - 2 tersendiri, dalam html code block. Outputnya harus dalam bentuk html code block terpisah. Contoh Format akhirnya adalah: <!-- 2. TEXTABOUT -->
+About : <i>
+  Bergabunglah dengan tim Wesh Wash Laundry dan raih kesempatan menarik sebagai Staff Laundry. Kami mencari individu yang jujur dan bertanggung jawab. 
+</i>
+
+	
+3.  terhadap TEXTJOBDESCRIPTION: seluruh text setelah "<h3>Job Description:</h3>" hingga sebelum bagian text "Summary:" adalah merupakan bagian text TEXTJOBDESCRIPTION. Atau dengan kata lain, TEXTJOBDESCRIPTION adalah isi dari pasangan html tag '<div class="">' hingga '</div>' JANGAN MALAS UNTUK MENGAMBIL SEMUA ISI TEXTJOBDESCRIPTION yang ada. Jangan menghilangkan sebuah kalimat apapun. Tolong jangan mengurangi isi panjang teks nya. Kamu hanya boleh memperbaiki kalimat yang kurang enak, atau salah tulis.. Jjumlah paragraph harus tetap sama. Jumlah list baik <UL> maupun <OL> harus tetap sama. Saya lebih menyukai model <OL>. Jumlah kata kata di bagian TEXTJOBDESCRIPTION ini harus menjadi bertambah lebih banyak. Kamu boleh menambahkan kata untuk membuat text tersebut menggambarkan pekerjaan nyata di bidangnya. Perbaikilah spellingnya. Perbaikilah kalimatnya jika kurang jelas.  Ulangi mencantumlan kembali struktur HTML bagian Introduksi Perusahaaan/ company profile, bagian Deskripsi Lowongan Kerja dan bagian Kualifikasi Pekerjaan. Ubah keyword yang terkandung di dalamnya terkait masalah keyword pekerjaan menjadi bold <b> atau <strong>. Kamu seolah olah ber-gaya sebagai Kepala Bagian Human Resource Department yang sudah sangat berpengalaman mencari calon karyawan berkualitas. Perbaikilah logika susunan kalimatnya. Perbaikilah syntax isi UL dan OL nya. Gunakan tag html untuk berganti baris, dan  numbered list bernomor urut. Hindarkan adanya text yang mengarah kepada alamat URL atau domain pihak lain selain domain saya sendiri (job.web.id). Pisahkan tanggapanmu untuk pertanyaan ke - 3 ini tersendiri, dalam html code block. Outputnya harus dalam bentuk html code block terpisah TETAPI TIDAK PERLU DITAMPILKAN. Berikan informasi tentang besarnya persentase perubahan jumlah karakter pada bagian TEXTJOBDESCRIPTION setelah proses pengeditan dibandingkan dengan jumlah karakter sebelum proses. Jika memungkinkan, sertakan perhitungan persentasenya. Dituliskan di luar html code block tanggapan!"
+
+
+4.  terhadap TEXTSUMMARY :  Mohon di bagian  TEXTSUMMARY ini jangan sebutkan jumlah hari apapun.  Jangan menggunakan kata 'yang lalu'. Perbaikilah kalimat dan susunan kata-nya, , kamu boleh menambahkan kata lainnya agar text nya terasa alamiah ditulis manusia yang mengerti struktur kalimat yang baik, masuk akal, bertatabahasa baik, terpelajar, dan berbudaya tinggi. Tetapi tetap harus menggunakan sebagian besar kata kata kunci/penting dari text TEXTSUMMARY. Jangan sebutkan angka uang di bagian ini. Tujuannya untuk membuat text ini mengerti maksud / intensi / intention para pencari lowongan kerja di Google Search. Berikan gambaran tentang pekerjaannya, dan perusahaan apa? Kembangkanlah menjadi minimal 2 - 4 kalimat penjelas lainnya untuk bagian TEXTSUMMARY ini, dan dituliskan masih dalam satu bagian tag <DIV> tanpa ganti baris, tanpa tag <P>. Pisahkan tanggapanmu untuk pertanyaan ke - 4 tersendiri, dalam html code block. Outputnya harus dalam bentuk html code block terpisah.Hanya boleh ada 1 <div class="jobsummary"> saja, namun boleh berisi hingga 4 kalimat.  Contoh format akhirnya adalah: <!-- 4. TEXTSUMMARY -->
+Summary:<br>
+<div class="jobsummary">
+  Bergabunglah dengan tim Wesh Wash Laundry sebagai Staff Laundry. Temukan pengalaman kerja yang menarik, bonus lembur, dan peluang untuk belajar lebih banyak.
+</div>
+
+
+5. terhadap TEXTJOBDESCRIPTION, "Buatlah deskripsi meta yang bersumber dari text TEXTJOBDESCRIPTION tersebut. Agar menjadi deskripsi yang detail namun terdengar mudah dan informatif untuk posisi pekerjaan di sebuah lowongan kerja. Gunakan kata kunci yang sering diketikkan para pencari kerja atau dipikirkan oleh  para pencari kerja yang melakukan pencarian di Google Search. Hindari penggunaan nama "kota/daerah/tempat atau geo location". Hindari kata "penunjuk tempat". Hindari kata ajakan. Hindari kata "di".  Hindari kata hubung "dan,dari,ke,serta,meskipun,juga". Hindari kata "apply". Berikan gambaran tentang pekerjaannya, dan perusahaan apa? Maksimal 120 huruf. Pisahkan tanggapanmu untuk pertanyaan ke - 5 tersendiri, dalam html code block. Outputnya harus dalam bentuk html code block terpisah. Contoh format akhirnya adalah: <!-- 5. Deskripsi Meta -->
+<meta name="description" content="
+Lowongan Kerja Staff Laundry full-time di Wesh Wash Laundry, Tangerang.
+" />
+
+
+Catatan untukmu:
+
+Outputmu dalam bentuk html code block terpisah - pisah. 
+
+Pisahkan tanggapanmu ke dalam beberapa html code block agar mudah saya copy paste kan.
+
+Baiklah , inilah text sumber artikel saya dalam format HTML untuk konten di wordpress https://job.web.id/ yang harus kamu kerjakan sesuai perintah saya di atas dan hasilnya harus ditulis dalam bahasa   [TARGETLANGUAGE] : 
+---------------------my prompt finished ------------------------------> 
+[PROMPT]

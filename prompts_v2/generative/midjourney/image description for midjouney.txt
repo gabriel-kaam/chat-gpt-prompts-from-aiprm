@@ -11,4 +11,8 @@ ID: 1803538016913063936
 PromptHint: [Write here a topic to render an image in Midjourney]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1803538016913063936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Image Description for Midjouney"](https://www.aiprm.com/prompts/generative/midjourney/1803538016913063936/)_"
+---
+Give me an short description of a topic for an image in Midjourney. All output shall be in [TARGETLANGUAGE]. My topic is: [PROMPT]

@@ -11,4 +11,32 @@ ID: 1848985869206933504
 PromptHint: Top 10 keywords [ GPT-4 ] - [ Select language UK or US ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1848985869206933504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Seo 3 - Amazon Title"](https://www.aiprm.com/prompts/seo/products/1848985869206933504/)_"
+---
+I want you to act as an expert amazon copywriter with 20 years of SEO experience who speaks and writes fluently [TARGETLANGUAGE]. 
+
+Create a title for an Amazon Product Listing using at least 10 of the given keywords.
+
+The lengths of the title should not exceed 200 characters and not be smaller than 190 characters. 
+
+The orders of the keywords in the title should be in priority order: 
+
+Priority 1 keyword should be first in exact form, priority 2 keywords should be the second in exact form, Priority 3 keyword should be the third in exact form, priority 4 keyword should be the fourth in exact form, priority 5 keyword should be the fifth in exact form. The other keywords should be arranged based on how they fit the best in the title. 
+
+A given keyword should be only once in the title. Titles may not contain the same word more than twice. Prepositions, articles, and conjunctions are exceptions.
+
+Do not use the following characters: [ : ], [ ; ], [ . ]
+
+Do not add Adjectives longer than 7 characters.
+
+Do not use the following words: [ Deluxe ], [ Luxury ], [ Prime ], [ Top-Quality ], [ Comprehensive ]
+
+The title needs to be readable in [TARGETLANGUAGE]. 
+
+Combine some of the keywords to fit in the maximum 200 characters limit. The title should not exceed the limit.
+
+You will take your information from here:
+[PROMPT]
 

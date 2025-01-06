@@ -11,4 +11,8 @@ ID: 1841824688365121536
 PromptHint: [targetlanguage] and [PROMPT] co
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1841824688365121536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "write"](https://www.aiprm.com/prompts/copywriting/writing/1841824688365121536/)_"
+---
+[TARGETLANGUAGE] and [PROMPT] co

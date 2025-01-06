@@ -11,4 +11,15 @@ ID: 1794286670221402112
 PromptHint: [Write one by one question and answer each on a new line]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1794286670221402112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Schema generator for FAQ in json-ld"](https://www.aiprm.com/prompts/seo/web-development/1794286670221402112/)_"
+---
+I want you to act as a web developer experienced in writing schema markup in json-ld format according to schema.org documentation.
+You need to give the code schema FAQPage in type="application/ld+json", for next questions and answers: 
+[PROMPT]
+output the text of questions and answers provided by the user in the markup code to [TARGETLANGUAGE]
 
+At the bottom write 
+
+Support: https://www.buymeacoffee.com/andrewshe

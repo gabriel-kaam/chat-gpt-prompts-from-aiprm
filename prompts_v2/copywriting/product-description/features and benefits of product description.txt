@@ -12,4 +12,13 @@ ID: 1796882412475777024
 PromptHint: product description
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1796882412475777024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "features and benefits of product description"](https://www.aiprm.com/prompts/copywriting/product-description/1796882412475777024/)_"
+---
+identify the features and benefits in this description.
+Make a list called Features and Benefits.
+Add the emoji check green in front of line of the list
+output in [TARGETLANGUAGE]
+[PROMPT]
 

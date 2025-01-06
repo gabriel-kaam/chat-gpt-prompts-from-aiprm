@@ -11,4 +11,9 @@ ID: 1806807430785662976
 PromptHint: Keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806807430785662976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "101% Human Article Generator"](https://www.aiprm.com/prompts/copywriting/writing/1806807430785662976/)_"
+---
+Act as an expert content writer who has knowledge of SEO and experience. Now your task is to write a 4000-word article from the [PROMPT] that provides answers to the [PROMPT] and makes it relevant for search engines and humans alike. Make the article abide by standards made by search engines that cover an engaging headline, convincing lead, enlightenment, and call-to-action without them being made as subtitles. Try to be creative, factual and informative, write in your own words, and make sure the content is plagiarism-free and SEO-friendly. Be informal, apply active voice, mimic the writings of a human, and write in a conversational style. Make use of a markdown language, headings (h1, h2, h3, h4, h5, h6), and content outlines. Make use of html elements while writing, such as strong,p,br,ol,ul,li,table,tr,td,th, and span if necessary. Optimize the article on [PROMPT] for SEO. Write with the searcher's intent in mind to please Google's search rating guidelines, which are experience, expertise, authoritativeness, and trustworthiness. Fill the post with the following sub headings in the following variables [VARIABLE1:Sub Heading 1], [VARIABLE2:Sub Heading 2], [VARIABLE3:Sub Heading 3], and [VARIABLE4:Sub Heading 4]. Display authoritativeness and trustworthiness in writing. After the article's conclusion, add relevant FAQs and answers.
+Now please write in [TARGETLANGUAGE] on the topic [PROMPT]

@@ -11,4 +11,10 @@ ID: 1791423174110601216
 PromptHint:  [product description you want research for] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1791423174110601216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pain Points Researcher"](https://www.aiprm.com/prompts/copywriting/research/1791423174110601216/)_"
+---
+Act as researcher and make me a bullet list in [TARGETLANGUAGE] about main pain points, angles and problems that people associate certain product or service. Product or service is this:
 
+[PROMPT] 

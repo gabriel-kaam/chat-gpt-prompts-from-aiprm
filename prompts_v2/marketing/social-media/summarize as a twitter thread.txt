@@ -11,4 +11,17 @@ ID: 1792708157693493248
 PromptHint: [Text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1792708157693493248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summarize as a Twitter thread."](https://www.aiprm.com/prompts/marketing/social-media/1792708157693493248/)_"
+---
+I will provide you with a text, and I want you to summarize it following the rules I list below:
+- The summary must be written in [TARGETLANGUAGE] .
+- The summary must be concise and capture the main points and arguments of the text.
+- The summary must be in the form of tweets composing a Twitter thread.
+- There summary must have between 5 and 10 tweets.
+- Enumerate all tweets using a numeric list, on this format "n/N message".
+- The first, and only the first, tweet must contain relevant hashtags.
+- Replace all well-known names with their Twitter id.
 
+[PROMPT]

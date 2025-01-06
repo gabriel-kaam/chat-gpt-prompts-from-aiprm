@@ -11,4 +11,8 @@ ID: 1839556842196357120
 PromptHint: Room Description New!
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839556842196357120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Room Description New!"](https://www.aiprm.com/prompts/copywriting/writing/1839556842196357120/)_"
+---
+Create a room description with full sentences and exactly 300 words and make it a human-written [TARGETLANGUAGE] text in 1 paragraph without spaces, lists or bullet points. Write in short sentences (maximum 13 words per sentence) . The output must be easily readable for a well-educated 14-year-old. Explain it to the reader using only third-person pronouns.  ###[PROMPT] ###

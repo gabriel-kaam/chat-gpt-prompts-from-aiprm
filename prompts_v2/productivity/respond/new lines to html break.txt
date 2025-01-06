@@ -11,4 +11,16 @@ ID: 1903061983566753792
 PromptHint: Your text
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1903061983566753792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "new lines to HTML break"](https://www.aiprm.com/prompts/productivity/respond/1903061983566753792/)_"
+---
+In [TARGETLANGUAGE]
+I will provide you a text, The only thing I want you to do is to replace **each new line (or empty line)** in the text with <br/>  and make it all in **one line**.
 
+Please just respond with the raw result without any quotations or comments from you.
+
+The text:
+---
+[PROMPT]
+---

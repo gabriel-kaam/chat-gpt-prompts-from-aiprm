@@ -11,4 +11,9 @@ ID: 1786508947910557696
 PromptHint: [PASTE YOUR CONTENT HERE]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1786508947910557696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Internal Linking Suggestion"](https://www.aiprm.com/prompts/seo/link-building/1786508947910557696/)_"
+---
+Based on the content of my page, what are 5 to 10 relevant topics I should be linking to? Before showing the list with the relevant topics, explain in a couple of sentences why those internal links will be helpful for users. All output shall be in [TARGETLANGUAGE].
+[PROMPT]

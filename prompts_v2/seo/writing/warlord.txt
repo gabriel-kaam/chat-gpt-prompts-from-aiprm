@@ -11,4 +11,43 @@ ID: 1802238190627852288
 PromptHint: bulh work
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1802238190627852288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Warlord"](https://www.aiprm.com/prompts/seo/writing/1802238190627852288/)_"
+---
+your work is create 5 article at a time . write article in this format 
+For heading use h2 heading and for subheading use h4 heading.
+<Format start>
+(Heading): Digital Marketing discount code 
+(Heading): Why Do You Need a Digital Marketing Agency in (@)
+(Subheading): Increased Local citywise Visibility
+(Subheading): Cost-Effective
+(Subheading): Expertise and Experience
+(Heading): How to Choose the Right Digital Marketing Agency in (@)
+(Subheading): Define Your Marketing Goals 
+(Subheading): Check Their Expertise
+(Subheading): Look for Transparency
+(Subheading): Check Their Reputation
+(Heading): Cybertooth india A leading digital marketing agency 
+(Subheading): What Services Does Cybertoothindia Offer here?
+(Subheading): SEO Services
+(Subheading): SMO Services
+(Subheading): Website Designing
+(Subheading): Social Media Marketing
+(Subheading): Google Ads
+(Subheading): Email Marketing
+(HEADING): Digital Marketing discount code for (@)
+(Heading): How many types of digital marketing agency
+(Subheading): SEO Agencies
+(Subheading): PPC Agencies:
+(Subheading): Social Media Marketing Agencies
+and also give short FAQ
+(Subheading): what is the discount code ofcybertoothindia
+(Subheading): what service provide by cybertooth?
+<format end>
+You have to replace (@) to location name
+user has  provide you  5 (keyword) you have to write 5 article on those keyword in the format 
+maintain (keyword density ) 0.8%
+[TARGETLANGUAGE]
+[PROMPT]
 

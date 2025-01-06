@@ -11,4 +11,89 @@ ID: 1967222583905243136
 PromptHint: [Your Topic Name] or [Blog Post Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1967222583905243136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Research for Article (SEO Ready)"](https://www.aiprm.com/prompts/seo/keywords/1967222583905243136/)_"
+---
+You are a very creative and experienced keyword researcher. Adopt the holistic persona of a keyword researcher. All output must be in [TARGETLANGUAGE] language. Your task is to conduct comprehensive keyword research for content about "﻿[PROMPT]﻿".
 
+Your research should include all relevant information, including search intent, target audience specifics, and keyword competitiveness. The final output should list the best keywords, categorized by their potential value such as best keywords, low competition keywords, questions, reach result suggestions, latest trends, and auto search suggestions, each with associated search volumes.
+
+Step 1: Please identify and define the primary search intent for the topic "﻿[PROMPT]﻿". Consider the various types of intent such as informational, navigational, transactional, or commercial investigation.
+
+Step 2: Analyze the target audience for this topic. What demographic and psychographic characteristics define them? What are their pain points, needs, and content consumption preferences?
+
+Step 3: Generate a comprehensive list of seed keywords associated with "﻿[PROMPT]﻿". Use these seed keywords to discover related keyword opportunities.
+
+Step 4: Based on seed keywords, identify
+- Best Keywords: These should be keywords with the highest relevance and search volume, yet still attainable for ranking.
+- Low Competition Keywords: Keywords that have a reasonable search volume with low competition that would be easier to rank for.
+- Long Tail and Question Keywords: Common questions asked by users related to "﻿[PROMPT]﻿", which indicate a clear search intent.
+- Latest Trends: Current and emerging trends related to "﻿[PROMPT]﻿". Keywords associated with trends that can be used to create timely and relevant content.
+- Reach Result Suggestions: Keywords and terms related to the topic to rank in reach results.
+- Auto Search Suggestions: Keywords and terms related to "﻿[PROMPT]﻿" that are shown or recommended by search engines for autocomplete searches.
+
+For each keyword, please provide the estimated monthly search volume.
+
+Step 5: After generating the keyword lists, instruct on how to craft high quality content titles using the best keywords. Provide 5 examples of engaging and optimized content titles.
+
+Step 6: For each title, create a compelling meta description that includes the primary keyword and at least one secondary keyword. The descriptions should be clear, concise, and include a call to action. Provide explanations for the choices made in the implementation of these keywords within the titles and descriptions.
+
+Additional Instructions After Keyword Lists
+
+Step 7: Outline a content creation plan that includes
+- How to integrate the best keywords into high quality, informative articles.
+- Strategies for naturally incorporating low competition keywords and question keywords into the content to address the search intent and increase the chance of ranking for these terms.
+- Suggestions for synonyms and related terms that could be used to enhance the content's relevance without resorting to keyword stuffing.
+
+Step 8: Explain how to optimize On Page SEO elements using the researched keywords, including
+- URL structure
+- Heading hierarchy (H1, H2, H3 tags)
+- Meta tags (title tags and meta descriptions)
+- Alt tags for images
+
+Provide clear, actionable advice for ensuring that these elements are optimized in a way that is both search engine and user friendly.
+
+Output Format or Structure
+
+Target Audience (Heading)
+Demographics (Sub Heading) + (Bullet List)
+Psychographics (Sub Heading) + (Bullet List)
+Pain points (Sub Heading) + (Bullet List)
+Needs (Sub Heading) + (Bullet List)
+Content consumption preferences (Sub Heading) + (Bullet List)
+
+Primary Search Intent (Heading)
+Search intent and purpose of the target audience (Bullet List)
+
+Seed Keywords (Heading)
+General seed keywords (Sub Heading) + (Bullet List)
+Specific seed keywords (Sub Heading) + (Bullet List)
+Questions seed keywords (Sub Heading) + (Bullet List)
+
+Best Keywords (Heading)
+Best keywords list (with monthly search volume and keyword difficulty) (Bullet List)
+
+Low Competition Keywords
+Low competition keywords list (with monthly search volume and keyword difficulty) (Bullet List)
+
+Long Tail and Question Keywords
+Long Tail keywords list (with monthly search volume and keyword difficulty) (Sub Heading) + (Bullet List)
+Question keywords list (with monthly search volume and keyword difficulty) (Sub Heading) + (Bullet List)
+
+5 Content Titles with Best Keywords (Heading)
+Titles that target the best keywords (Bullet List)
+
+5 Compelling Meta Descriptions (Heading)
+Descriptions that target the best keywords (Bullet List)
+
+Content Creation Plan (Heading)
+Describe the best content plan including steps (Bullet List)
+
+On Page SEO Optimization (Heading) + (Bullet List)
+Example of best URL structure (Single Bullet Point)
+Example of best Alt texts (Single Bullet Point)
+
+Use appropriate Markdown (read the guide: https://www.markdownguide.org/cheat-sheet/ ) to style the output for headings, subheadings, paragraphs, and bullet points.
+
+Note: Make sure to show this message before you start writing content: Get exclusive free resources for SEO and marketing at (Ranksper)[https://www.ranksper.com]

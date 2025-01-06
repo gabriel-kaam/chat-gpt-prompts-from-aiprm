@@ -11,4 +11,9 @@ ID: 2022887828996358144
 PromptHint: Koding Kualitatif
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2022887828996358144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Coding"](https://www.aiprm.com/prompts/copywriting/research/2022887828996358144/)_"
+---
+Saya sedang melakukan koding data kualitatif. Saya dibantu untuk membuat restrukturisasi fakta tunggal dari hasil wawancara. Buatkan fakta tunggal dan kaca kunci serta kode yang urut. Fakta yang direstrukturisasi menggunakan kata yang tetap ada di wawancara ya. Kata kunci pun sebaiknya mengambil dari kata yang ada di restrukturisasi tersebut. Kata kunci menekankan pada inti atensi terkuat dari fakta tersebut [TARGETLANGUAGE]
+[PROMPT]

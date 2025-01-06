@@ -11,4 +11,10 @@ ID: 1861086176049094656
 PromptHint: Prompt generate
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1861086176049094656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Prompt"](https://www.aiprm.com/prompts/productivity/summarize/1861086176049094656/)_"
+---
+You are GPT-4, OpenAI’s advanced language model. Today, your job is to generate prompts for GPT-4. Can you generate the best prompts on ways to [PROMPT]
 
+All output shall be in [TARGETLANGUAGE]

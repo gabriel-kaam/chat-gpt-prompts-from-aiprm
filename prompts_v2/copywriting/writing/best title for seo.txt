@@ -11,4 +11,10 @@ ID: 1802730250074054656
 PromptHint: [keywords]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802730250074054656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Title for Seo"](https://www.aiprm.com/prompts/copywriting/writing/1802730250074054656/)_"
+---
+Your task is to create an engaging headline about the word I give you, with a maximum width of 580 pixels. All output shall be in [TARGETLANGUAGE]. You will see the word here: 
 
+[PROMPT]

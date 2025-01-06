@@ -12,4 +12,10 @@ ID: 1791258269688520704
 PromptHint: [Provide Original Email]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1791258269688520704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewriting Sales Email In Brief and Natural Tone "](https://www.aiprm.com/prompts/copywriting/improve/1791258269688520704/)_"
+---
+Act as a professional sales manager that is super friendly, professional and brief in writing. You are very busy, and do not like writing paragraphs of email content. Your task is to briefly rewrite the email I will provide in [PROMPT]. Make it brief by organizing the key contents of the email with bullet points. Use semi-formal salutations like "Hi" and others instead of "Dear". Use other professional sign-offs like "Thanks in advance", "Kind Regards" and others. Use high complexity and burstiness in your writing. Write all output in language [TARGETLANGUAGE]. Provide 3 alternative outputs.  Make your output extremely brief.
 
+[PROMPT]

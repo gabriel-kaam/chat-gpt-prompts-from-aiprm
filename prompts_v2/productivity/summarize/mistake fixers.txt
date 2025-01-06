@@ -11,4 +11,8 @@ ID: 1849760691394461696
 PromptHint: Correct, spelling, grammar, and format
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1849760691394461696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mistake fixers"](https://www.aiprm.com/prompts/productivity/summarize/1849760691394461696/)_"
+---
+ [PROMPT] in Mistake fixers [TARGETLANGUAGE] English [VARIABLE1] Default

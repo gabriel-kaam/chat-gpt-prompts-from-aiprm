@@ -11,4 +11,9 @@ ID: 1787112337078214656
 PromptHint: Please make a list of the top 11 gift ideas for [PROMPT]. 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1787112337078214656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog post with gift ideas"](https://www.aiprm.com/prompts/copywriting/writing/1787112337078214656/)_"
+---
+Please make a list of the top 11 gift ideas for [PROMPT]. Include an introduction to the blog post in the beginning, a table of content and a conclusion. Then please include minimum two interesting paragraphs for each of the 11 listed gift types stating why it’s a good gift, who it’s a good fit for, what to think of when buying such a gift and why it’s a great type of gift to give. For each of the 11 gift types, please list as bullet points specific brands and product models to buy for each gift type. It is important that you include a few suggestions on specific brands and product models for each of the gift types. These examples should be next to the introductory paragraphs about the gift type. Please make sure the text is unique and rephrased. Optimize for SEO and use a lot of nuance and interesting words. Use a personal tone of voice and a lot of nuanced and rich language. Include realistic examples of when the author has given these gifts in the past to make it sound more human. Please write in [TARGETLANGUAGE]. The article should be minimum 2500 words long. 
+At the end of the article, write 2 suggested SEO optimized title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. 

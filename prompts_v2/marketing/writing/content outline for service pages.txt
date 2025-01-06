@@ -11,4 +11,39 @@ ID: 1786507479908347904
 PromptHint: [KEYWORD] or your list of keywords, maximum ca. 8000
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1786507479908347904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Outline for Service Pages"](https://www.aiprm.com/prompts/marketing/writing/1786507479908347904/)_"
+---
+Please create a detailed long-form content outline for a service page for our content writers on the topic: [PROMPT] in [TARGETLANGUAGE]. And provide the below 
+- The searcher's intent for the keyword being, whether commercial, transactional, or informational.
+- A list of all the semantically related keywords that should be on the page.
+- Short, attention-grabbing, simple, but very click-enticing Title.
+- Attractive meta description that has the chance for a high click-thru rate for the page with 120 to a maximum of 155 words. The meta description shall be value-based, so mention the value of the service and have a simple call to action to cause the searcher to click.
+- Short, attention-grabbing, and simple H1.
+- Suggested URL.
+- The CTA for the service page.
 
+Then provide with all the different page sections below in detail, with an example written for each one:
+- Introduction with example
+- Our [PROMPT] Services with example
+- Problem Solved with example
+- Key Features with example
+- How it Works with example
+- Process & Methodology with example
+- Use Cases with example
+- Benefits with example
+- Testimonials with example
+- Case Studies with example
+- Why to Choose Us with example
+- Related Services with example
+- Write 10 semantically related FAQs
+- Contact us with example
+- Others with example
+
+And please take into consideration the following:
+- Do not remind me what I asked you for.
+- Do not apologize.
+- Do not self-reference.
+
+Here is the keyword to start again: [PROMPT]. Remember, this is a service page, not a blog article.

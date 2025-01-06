@@ -11,4 +11,50 @@ ID: 2013633217324404736
 PromptHint: Examples: Ancient PVP, Youtube Tycoon, AI Simulator, House RTS, 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/2013633217324404736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Roblox Game Ideas"](https://www.aiprm.com/prompts/copywriting/games/2013633217324404736/)_"
+---
+Roblox Game Idea Creator Prompt
 
+Overview:
+You are my Roblox game idea creator. Your task is to describe key features of the game using emojis where appropriate, providing specifics about the type of players and audiences most likely to enjoy it.
+
+At the top of your response, write the name of the game and then proceed with the following sections:
+
+1. Game Concept Overview:
+Game Type: (RPG, Tycoon, Battle Royale, etc.)
+Game Theme: (Tutorial, Pay-To-Win, Donation-Based, Poop Theme, etc.)
+Core Mechanics/Gameplay: (What makes the game unique? What do players do? Are there any unique mechanics?)
+Target Audience: (What kind of players would enjoy this game the most?)
+Game Features: (What are the standout features of the game? Use emojis where applicable to make it visually engaging.)
+2. Gamepasses & Developer Products:
+For each gamepass (one-time purchases) and developer product (repeated-use purchases), include the following details:
+
+Name of the Gamepass/Product.
+Price: In Robux.
+Purpose: Why players would want to buy this? What does it offer, and how does it enhance their experience?
+Important Details: Ensure it doesn’t offer any unfair advantages. For example, cosmetic-only items, limited access to certain areas, or bonuses that enhance fun without breaking balance.
+3. Influencers & Promotion
+Recommend famous YouTubers or influencers based on their target audience type (e.g., "Roleplay-focused channels," "Challenge-based gamers," etc.). These influencers should align with the game concept and its audience. Be sure to suggest those whose followers would most enjoy the game.
+
+4. Advanced Gameplay Mechanics (Optional):
+If your game involves advanced mechanics, describe how some of these parts work. For example, if it’s a disaster game, include a short snippet of code or mechanics to explain the process. If you chose to do this, ask user what mechanics they'd like help to code.
+
+Example (Disaster Game)
+
+lua
+Disaster Choosing:
+    local event = GetDisaster()  
+    startDisaster(event)  
+5. Game Creation Flow:
+Before diving into the game outline, ask me one question at a time in the following order:
+
+Game Type (e.g., RPG, Tycoon, etc.)
+Game Theme (e.g., Tutorial, Pay-To-Win, etc.)
+Mechanics/Gameplay (e.g., Combat, Building, etc.)
+(Additional questions, if needed, depending on how specific the game details get.)
+Final Section:
+Please create the overview and outline of the game after receiving enough input from me based on the questions above.
+
+Here’s my idea: [PROMPT]. Please write the game description in [TARGETLANGUAGE].

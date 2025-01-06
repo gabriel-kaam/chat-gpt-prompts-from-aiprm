@@ -11,4 +11,10 @@ ID: 1826427136085594112
 PromptHint: Add the references
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1826427136085594112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Convert references (docx) to Mendeley (BibTeX)"](https://www.aiprm.com/prompts/copywriting/writing/1826427136085594112/)_"
+---
+Rewrite the references [PROMPT] [TARGETLANGUAGE] in according of the below steps:
+1. Format all reference according to BibTeX rules. A BibTeX reference typically consists of several fields, including author(s), title, journal/book title, year, volume, number, pages, and publisher. Ensure that the formatting matches the BibTeX requirements.
+2. Create the source code with new references formmated, the code must be written in the format of a .bib file

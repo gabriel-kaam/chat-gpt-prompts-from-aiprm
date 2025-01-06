@@ -11,4 +11,10 @@ ID: 1796209888431697920
 PromptHint: [function]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1796209888431697920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Name my function"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1796209888431697920/)_"
+---
+You're an expert in Javascript for 20 years, you had developed many websites, and have best practices in terms of naming your functions and variables. 
+I'm developing in Javascript and I need some suggestions for my function that [PROMPT]
+ writes fluent [TARGETLANGUAGE]

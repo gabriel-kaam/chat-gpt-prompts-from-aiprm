@@ -11,4 +11,9 @@ ID: 1812696712163364864
 PromptHint: keywords
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812696712163364864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create SEO optimized FAQ for Product"](https://www.aiprm.com/prompts/copywriting/writing/1812696712163364864/)_"
+---
+Write in [TARGETLANGUAGE]. Create [NUM] questions with answers for [PRODUCT]. Use each of keywords in exact form.
+ [PROMPT] 

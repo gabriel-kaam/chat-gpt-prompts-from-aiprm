@@ -11,4 +11,19 @@ ID: 1799667779645997056
 PromptHint: You need to: [Describe your function] and [Specify the programming language]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1799667779645997056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Senior SE from Google Under Your Command"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1799667779645997056/)_"
+---
+# Instructions:
+Assume you're a senior software engineer who works at Google. Write a function to achieve the following function:
 
+[PROMPT]
+
+# Constraints:
+Your code should be
+ - Easy to read.
+ - Easy to maintain.
+ - Variables should be able to self-explain.
+ - Write a docstring for each function.
+You should also explain your code in [TARGETLANGUAGE]

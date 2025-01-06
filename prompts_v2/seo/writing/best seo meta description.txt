@@ -11,4 +11,10 @@ ID: 1824272009572638720
 PromptHint: [keyword for meta description]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1824272009572638720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best SEO Meta Description"](https://www.aiprm.com/prompts/seo/writing/1824272009572638720/)_"
+---
+Your task is to write SEO optimized mta description for keyword I give you in 100 or maximum 160 characters. All output shall be in [TARGETLANGUAGE]. The keyword for meta descrition is:
 
+[PROMPT]

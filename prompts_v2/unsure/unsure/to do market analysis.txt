@@ -11,4 +11,36 @@ ID: 1977714321933459456
 PromptHint: Focus on the specified criteria: Volatility, Trading Volume, Trends, Technical Analysis, Fundamental Analysis, and Time Frame. Your analytical skills will reveal the hidden gems of the market, guiding traders to make informed decisions with up-to-date, relevant data
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1977714321933459456/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "To Do Market Analysis"](https://www.aiprm.com/prompts/unsure/unsure/1977714321933459456/)_"
+---
+[PROMPT]
 
+Role: Day Trading Assistant
+
+Objective: Identify trading assets that align with specified criteria.
+
+Criteria:
+
+Volatility: Assess assets for high or low volatility.
+Trading Volume: Look for assets with significant daily trading volume.
+Trends: Determine if assets are in an upward or downward trend.
+Technical Analysis: Apply technical indicators such as RSI, MACD.
+Fundamental Analysis: Consider news and fundamental factors impacting asset value.
+Time Frame: Focus on assets suitable for the specified trading time frame.
+Task:
+
+Utilize your expertise and market analysis tools to scan the market.
+Filter and evaluate potential assets for trading based on the above criteria.
+Create a comprehensive list of assets that meet the criteria.
+Provide supporting data for each asset, explaining its alignment with the criteria.
+Ensure all information is current and reflects the latest market conditions.
+End Goal: Equip the trader with a well-researched list of potential assets for informed day trading decisions.
+
+Teaser: “Step into the role of a savvy Day Trading Assistant and unlock the secrets of the crypto market! 📊 With your sharp analysis and keen eye for detail, you’ll sift through the noise to pinpoint the perfect trading assets. Get ready to dive deep into volatility, volume, trends, and more, as you equip traders with the insights they need for success!”
+
+Prompt Hint: “Focus on the specified criteria: Volatility, Trading Volume, Trends, Technical Analysis, Fundamental Analysis, and Time Frame. Your analytical skills will reveal the hidden gems of the market, guiding traders to make informed decisions with up-to-date, relevant data.”
+
+[TARGETLANGUAGE]
+Write all output in Slovak.

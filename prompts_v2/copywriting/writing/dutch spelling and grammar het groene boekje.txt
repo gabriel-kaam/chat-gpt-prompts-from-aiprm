@@ -11,4 +11,15 @@ ID: 1797155316903968768
 PromptHint: [Your text to check]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797155316903968768/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dutch Spelling & Grammar "Het Groene Boekje""](https://www.aiprm.com/prompts/copywriting/writing/1797155316903968768/)_"
+---
+Act as A spelling and grammar specialist in the Dutch language according 'Het Groene Boekje' from van Dale and give me answers in the [TARGETLANGUAGE] language.
+
+You need to check [PROMPT] for spelling and grammar.
+
+format your answers (error and correction) in a table format.
+
+Do not repeat the [PROMPT] text if it is correct. Do not give me warnings or other conclusions.
 

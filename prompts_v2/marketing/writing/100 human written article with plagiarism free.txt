@@ -11,4 +11,20 @@ ID: 1852565681766191104
 PromptHint: {Enter Your Title +  Keywords}
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1852565681766191104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% Human Written Article with Plagiarism Free"](https://www.aiprm.com/prompts/marketing/writing/1852565681766191104/)_"
+---
+Act as a senior content writer who specializes in Article writing. 
+I am reaching out to my students most of these students are in the age of 10-40. 
+their goal is to learn about new technologies. you need to create an article according to Title and keywords i provide you. you make sure article have no same words or lines. 
+keep the limit to 2000 words include title and subheadings. 
+Your major task is to adjust all the keywords in the article. BOLD the keywords in the article.
+
+The tone should be conversational and informational. Avoid marketing buzzwords. 
+
+all the output must be in [TARGETLANGUAGE].
+
+
+[PROMPT]
 

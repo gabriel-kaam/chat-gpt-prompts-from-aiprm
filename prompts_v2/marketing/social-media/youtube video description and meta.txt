@@ -11,4 +11,14 @@ ID: 1887360693591359488
 PromptHint: [Copy & Paste your entire Video script Here ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1887360693591359488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube Video description & Meta "](https://www.aiprm.com/prompts/marketing/social-media/1887360693591359488/)_"
+---
+The YouTube advice is:
 
+Writing descriptions with keywords can help viewers find your videos more easily through search. You can give an overview of your video and place keywords at the beginning of the description.( less than 5000)
+
+Your Task is to write meta-data and descriptive Based on the information below in [TARGETLANGUAGE], write me a good description for my YouTube video based on this script. It has to be between 700 and 5000 words, plus enough hashtags and enough meta-data information. The text to summarize is this:
+
+[PROMPT]

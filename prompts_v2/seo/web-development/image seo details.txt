@@ -11,4 +11,10 @@ ID: 1845347803028275200
 PromptHint: Enter a short description of your image
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1845347803028275200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Image SEO details"](https://www.aiprm.com/prompts/seo/web-development/1845347803028275200/)_"
+---
+Create an alt image text, image title, caption and meta description for an image  IN [TARGETLANGUAGE] showing an image of
 
+[PROMPT]

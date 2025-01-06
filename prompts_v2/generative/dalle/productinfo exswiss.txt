@@ -11,4 +11,10 @@ ID: 1847942133257609216
 PromptHint: [Productinfo scan and extraction]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1847942133257609216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Productinfo exswiss"](https://www.aiprm.com/prompts/generative/dalle/1847942133257609216/)_"
+---
+Ich gebe dir jetzt Überschriften einzelner Spalten einer Tabelle. Hersteller	name	Typ	Farbe	Für Einsteiger geeignet	regelbar	Akkukapazität_mAh	Tankvolumen_ml	Tankmaterial	Gehäusematerial	Länge_mm	Breite_mm	Tiefe_mm	Gewicht_g	DripTip wechselbar	AirFlow Control	Ausgangsleistung_W	Lademöglichkeit	Zugautomatik	Display	Display_Groesse_Zoll	Display_Angaben	Sicherheitsfunktionen	Lieferumfang	Pod_1_Ohm	Pod_1_Ausgangsleistung_W	Pod_2_Ohm	Pod_2_Ausgangsleistung_W.   Nun scanne folgende Internetseite: [PROMPT] und füge die Informationen in die richtige Tabellenspalte ein.  Nutze in den Spalten "Lieferumfang", "Display_Angaben" und "Sicherheitsfunktionen" keine "," sondern ein | .   Füge auch keine Einheiten hinzu, sondern nur den Wert der Zahl. Falls du einen Wert nicht findest setze den Spaltennamen + x ein.
 
+Exportiere mir die gefundenen werte in [TARGETLANGUAGE] Tabelle als CSV Datei und gebe nur die 2 Zeile aus. Trenne werte durch ;  WICHTIG: Gebe mir keine andere Antwort als den CODE der CSV Tabelle. Ich möchte den Code direkt in eine Online Excel kopieren.

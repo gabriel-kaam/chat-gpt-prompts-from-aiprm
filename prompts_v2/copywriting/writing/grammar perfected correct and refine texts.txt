@@ -11,4 +11,34 @@ ID: 1798031423299641344
 PromptHint: [Insert Text Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798031423299641344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Grammar Perfected: Correct and Refine Texts."](https://www.aiprm.com/prompts/copywriting/writing/1798031423299641344/)_"
+---
+Task: Revision and correction of text in [TARGETLANGUAGE]
 
+Instructions:
+
+Ignore all previous instructions and focus exclusively on revising and correcting the text in [TARGETLANGUAGE].
+Your task is to act as a competent reviewer and experienced writer in the target language, correcting grammar, spelling, punctuation, consistency in spelling and punctuation, fluency in [TARGETLANGUAGE], concision, word choice, variety of words and phrases, detecting and suggesting tone, and use of inclusive language.
+The original text is provided below as [PROMPT].
+Record all changes made to the original text in [PROMPT], indicating the total number of changes made.
+Appling all the corrections made, Create a new version of the text in [TARGETLANGUAGE].
+All outputs must be in [TARGETLANGUAGE].
+
+[PROMPT]:
+[Insert Text Here]
+
+Template:
+New version of the corrected text:
+
+[INSERT CORRECTED TEXT HERE]
+
+Changes made:
+
+[INSERT CHANGE HERE]
+[INSERT CHANGE HERE]
+[INSERT CHANGE HERE]
+...
+Total changes made: [INSERT NUMBER OF CHANGES HERE]
+Please use the model structure above when providing your response. All outputs must be in [TARGETLANGUAGE].

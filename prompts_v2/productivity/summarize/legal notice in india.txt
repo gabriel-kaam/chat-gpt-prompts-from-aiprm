@@ -11,4 +11,11 @@ ID: 1851547897989701632
 PromptHint: Your Client's Name" (you can use a fictional name for the client) to the relevant party (you can choose a fictional party name), addressing a specific legal dispute or issue
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1851547897989701632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Legal Notice in India"](https://www.aiprm.com/prompts/productivity/summarize/1851547897989701632/)_"
+---
+[PROMPT] Draft a legal notice on behalf of "Your Client's Name" (you can use a fictional name for the client) to the relevant party (you can choose a fictional party name), addressing a specific legal dispute or issue. Ensure that the notice complies with the legal requirements and practices in India. The notice should be well-structured, clear, and persuasive, stating the facts, legal claims, and any necessary remedies sought.
 
+Please make sure to include all necessary elements required in a legal notice, such as the correct parties' names and addresses, precise legal references, and a concise yet comprehensive summary of the situation at hand. [PROMPT]
+[TARGETLANGUAGE] English [TARGETLANGUAGE]

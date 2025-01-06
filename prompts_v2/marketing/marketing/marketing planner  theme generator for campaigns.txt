@@ -11,4 +11,20 @@ ID: 1867984067749466112
 PromptHint: Digite a palavra chave que eu montarei o planejamento de marketing para você.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1867984067749466112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Marketing planner + theme generator for campaigns"](https://www.aiprm.com/prompts/marketing/marketing/1867984067749466112/)_"
+---
+A palavra-chave é [KEYWORD]
 
+"ESTRATÉGIA 01 - SUGESTÃO DE MOTES PARA CAMPANHA"
+Sua tarefa é me dar 5 sugestões de temas/motes para uma campanha completa de marketing abrangendo canais online (como instagram, facebook, whatsapp, tiktok, youtube e google) quanto canais offline (outdoors, panfletos, rádio e tv) sobre a palavra-chave escolhida. Segmente apenas termos de pesquisa de estilo de transação. Por favor, seja o mais criativo, original e humanizado. Por favor, organize cada sugestão de tema/mote em uma linha da tabela. 
+
+Após, pegue a palavra-chave escolhida, escreva "ESTRATÉGIA 02 - PROGRAMAÇÃO DE POSTAGENS" e crie uma programação de postagem de mídia social com sugestões de temas para tópicos da palavra-chave escolhida na tabela abaixo, onde estou postando no Facebook, Instagram, Whatsapp e TikTok. O tipo de mensagens incluem; dicas, truques, fatos, ideias de atividades, inspiração, receitas,  reviews de produtos e listas. Informe também qual é formato dessas postagens. Pode ser texto, imagens ou vídeos curtos.
+
+"ESTRATÉGIA 03 - JORNADA DO CLIENTE"
+Eu gostaria que você me ajudasse a criar uma programação de conteúdo para minhas redes sociais que tivesse a melhor chance de me ajudar a classificar palavras-chave de cauda longa específicas para a palavra-chave escolhida.
+
+Por favor, descreva detalhadamente a jornada do cliente de um processo de compra para uma empresa. Necessito que o resultado esteja em formato de tabela com as colunas: Etapa, Descrição, Pontos de Contato, Ações de marketing a realizar e KPIs no topo.
+
+[TARGETLANGUAGE] [PROMPT]

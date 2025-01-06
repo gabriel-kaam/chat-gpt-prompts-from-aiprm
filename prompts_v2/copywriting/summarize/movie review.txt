@@ -11,4 +11,9 @@ ID: 1831894142897360896
 PromptHint: Movie name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1831894142897360896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Movie Review "](https://www.aiprm.com/prompts/copywriting/summarize/1831894142897360896/)_"
+---
+Act as a movie reviewer in [TARGETLANGUAGE]. Write a 1000 word review for the movie [PROMPT], ensuring you cover the plot, performances, cinematography, and overall impact.
+Please make sure you will output only facts, and not dream or hallucinate.

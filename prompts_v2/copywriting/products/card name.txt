@@ -11,4 +11,17 @@ ID: 1815806006123556864
 PromptHint: card name
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1815806006123556864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "card name"](https://www.aiprm.com/prompts/copywriting/products/1815806006123556864/)_"
+---
+[TARGETLANGUAGE], [PROMPT]
+Напиши текст для карточки товаров. Сухой, без вводных предложений, местоимений и лишних конструкций.  Без переспама по словам.  Используй списки, абзацы и подзаголовки из плана. Подзаголовок не должен быть только со списком (если тот там имеется).  Перед списком обязательно 3 предложения.
 
+Карточка: [PROMPT]
+
+План:
+Введение
+Как заказать [PROMPT]
+Преимущества покупки у нас
+До 4 тысяч символов

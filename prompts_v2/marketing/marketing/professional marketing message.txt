@@ -11,4 +11,12 @@ ID: 1789249635194507264
 PromptHint: [text that you want a marketing message for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1789249635194507264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Professional Marketing Message"](https://www.aiprm.com/prompts/marketing/marketing/1789249635194507264/)_"
+---
+Your task is to Writing a professional and focused marketing message . All output shall be in [TARGETLANGUAGE] 
+The text to summarize is this : 
+
+[PROMPT]
 

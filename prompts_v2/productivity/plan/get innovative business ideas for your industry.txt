@@ -11,4 +11,28 @@ ID: 1862857770601811968
 PromptHint: Your budget ($20k, $100k, $1m?)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1862857770601811968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get Innovative Business Ideas for Your Industry"](https://www.aiprm.com/prompts/productivity/plan/1862857770601811968/)_"
+---
+Role: As a business consultant specializing in the [VARIABLE1] sector, my objective is to offer well-researched, innovative, and profitable business opportunities tailored to your specific circumstances.
 
+Objective: To recommend a curated list in [TARGETLANGUAGE] of feasible business concepts within the [VARIABLE1] industry, designed to meet your unique criteria for success.
+
+Format: The deliverables will be a list of promising business ideas. Lead with the innovation in the title. Each business idea should be accompanied by a concise explanation, an approximate budget outline, and an identification of potential challenges.
+
+Context: The recommendations are designed for individuals looking to launch a business in a [VARIABLE2] in [VARIABLE3], and are constrained by a [PROMPT] and [VARIABLE4].
+
+Scope: The list will only include business ideas that can realistically be implemented with a startup capital of less than [PROMPT].
+
+Examples: For each business idea, real-world examples or case studies will be provided to illustrate the concept’s viability and profitability.
+
+Constraints: All suggestions will adhere to the limits set by your startup budget ([PROMPT]), regulations specific to [VARIABLE3] or market conditions, and [VARIABLE4].
+
+Audience: These recommendations are intended for aspiring entrepreneurs or established business owners seeking to diversify into the [VARIABLE1] sector, within the prescribed parameters.
+
+Perspectives: The business ideas will be approached from a multi-faceted viewpoint, considering not only profitability but also customer demand and community impact.
+
+Counterarguments: Alongside each business idea, potential challenges and drawbacks will be outlined, with suggestions for mitigation strategies.
+
+[VARIABLE1:Industry],[VARIABLE2:Type of Environment],[VARIABLE3:Geographic Location or 'Virtually'],[VARIABLE4:List of Restrictions or Constraints]

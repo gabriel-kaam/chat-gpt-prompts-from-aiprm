@@ -11,4 +11,8 @@ ID: 1793390448233152512
 PromptHint: [Type: Brand social media user, social network and analysis parameters]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1793390448233152512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Powerful Social Content Analysis"](https://www.aiprm.com/prompts/marketing/social-media/1793390448233152512/)_"
+---
+You will act as a content social expert and analyze the last [PROMPT] 10 posts in this social network: [PROMPT], then in a table format, selecting the post with the best [PROMPT] explain in [TARGETLANGUAGE] the parameters it is the best one.

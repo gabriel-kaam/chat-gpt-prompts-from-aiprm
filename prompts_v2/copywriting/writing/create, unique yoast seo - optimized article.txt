@@ -11,4 +11,12 @@ ID: 1943329298153459712
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1943329298153459712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create, Unique yoast SEO - Optimized Article"](https://www.aiprm.com/prompts/copywriting/writing/1943329298153459712/)_"
+---
+You are writer and you are asked to write a unique, SEO optimized article, but content must be 100% unique and pass plagiarism checks in the context of content marketing and SEO strategy.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

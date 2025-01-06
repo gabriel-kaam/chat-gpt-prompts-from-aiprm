@@ -11,4 +11,12 @@ ID: 1873285260407214080
 PromptHint: [list your keywords here. max. 1000]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1873285260407214080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword context"](https://www.aiprm.com/prompts/seo/ideation/1873285260407214080/)_"
+---
+If i give you a list with keywords, can you remove the brands in this list? The remaining keywords can you group keywords based on context?
 
+Please write in [TARGETLANGUAGE]
+
+[PROMPT]

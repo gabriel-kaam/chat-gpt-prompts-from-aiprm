@@ -11,4 +11,8 @@ ID: 1800157463308406784
 PromptHint: Put your keyword here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1800157463308406784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full optimized meta description for SEO"](https://www.aiprm.com/prompts/seo/writing/1800157463308406784/)_"
+---
+Write a meta description as copywriter for [PROMPT] in [TARGETLANGUAGE] language less than 140 characters, please don't use hashtags and include the [PROMPT] in the description, also considere that this is for Seo purpose. 

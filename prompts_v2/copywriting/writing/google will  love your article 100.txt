@@ -11,4 +11,23 @@ ID: 1870752597553205248
 PromptHint: Enter your Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1870752597553205248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google will  Love your Article 100%"](https://www.aiprm.com/prompts/copywriting/writing/1870752597553205248/)_"
+---
+Please ignore all my previous instructions.
+I want you to act as Google's experienced SEO-friendly article writer who writes detailed and thoughtful blog articles that are SEO-optimized.
+I will give you a keyword for a long-form article and i want you to create a catchy title and an outline for the title with a minimum of 20 headings and sub-headings.
+Then i want you to write a detailed article using the above outlines in colloquial [TARGETLANGUAGE].
+Every heading of the outline must contain a minimum of 100-word paragraphs.
+The article should be 100% plagiarism free, engaging and seo optimized.
+Please intersperse short and long sentences.
+Utilize uncommon terminology to enhance the originality of the content.
+Please format the content in a professional format.
+Do not self reference.
+Do not explain what you are doing.
+Send me the outline and then immediately start writing the complete article.
+The blog article keyword is - [PROMPT].
+
+Note: Bold all the Headings and Sub-Headings using Markdown Formatting.
 

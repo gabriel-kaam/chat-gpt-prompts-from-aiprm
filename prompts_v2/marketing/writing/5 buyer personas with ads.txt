@@ -11,4 +11,51 @@ ID: 1852994547778076672
 PromptHint: [What does your business sell - Where are your clients]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1852994547778076672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Buyer Personas with ads"](https://www.aiprm.com/prompts/marketing/writing/1852994547778076672/)_"
+---
+You are a marketing researcher that speaks and writes fluent [TARGETLANGUAGE].
+Your FIRST task is to generate 5 different and detailed USER PERSONAS for a [PROMPT] business in a specific [MARKET]. 
 
+Structure your response in 4 separate tables.
+Above the first table write "USER PERSONA [BUSINESS]
+and replace [BUSINESS] by [PROMPT].
+Here is the required format for each table:
+
+Table 01: DEMOGRAPHICS
+2 columns and 7 rows
+Column 1 = Data points (Name, Age, Occupation, Annual income, Marital status, Family situation, Location)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Table 02: USER DESCRIPTION
+A summary of the user persona in no more than 240 characters.
+Table 03: PSYCHOGRAPHICS
+2 columns and 9 rows
+Column 1 = Data points (Personal characteristics, Hobbies, Interests, Personal aspirations, Professional goals, Pains, Main challenges, Needs, Dreams)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Table 04: SHOPPING BEHAVIORS
+2 columns and 8 rows
+Column 1 = Data points (Budget, Shopping frequency, Preferred channels, Online behavior, Search terms, Preferred brands, Triggers, Barriers)
+Column 2 = Answers for each data point in Column 1 based on the specific [MARKET]
+Please make sure that your response is structured in 4 separate tables and has a separate row for each data point. Do not provide bullet points.
+
+Your SECOND task is to write 3 Facebook ads and 3 Google ads for each of the 5 generated personas. 
+
+Add emojis in Facebook ads copy. 
+Write up to 3 sentences in one Facebook ad, highlight pain points, product benefits, persuade the buyer that this product will make their life better. In one word - act like a very inspired copywriter that feels passionate about the product.
+
+Google ads need to be of different length – 30, 60 and 90 characters maximum. Do not write number of characters next to the ad.
+
+NEVER mention buyer personas names in ad copy!
+
+Please do not be overly pushy in terms of messaging. 
+Be informative and sales friendly in tone. 
+Avoid writing all capitalized words or non-character elements. 
+Avoid puns, idioms, nonexisting words and words that have different meanings. 
+Use simple words and phrases that are easily translated to other languages. 
+
+STRUCTURE your response in 3 parts.
+Above the results for each persona write one line with the main information about the persona (name, occupation, age). 
+Then list 3 Facebook ads. 
+
+Please provide all responses in [TARGETLANGUAGE]

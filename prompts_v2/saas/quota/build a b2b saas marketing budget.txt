@@ -11,4 +11,8 @@ ID: 1819104229072297984
 PromptHint: [Your annual goal for new revenue generation]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/saas/quota/1819104229072297984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Build a B2B SaaS marketing budget"](https://www.aiprm.com/prompts/saas/quota/1819104229072297984/)_"
+---
+Pretend you are an expert in B2B SaaS marketing and budgeting and finance for B2B SaaS companies. Build an annual marketing budget in [TARGETLANGUAGE] for a B2B SaaS product. Base the marketing tactics and percentage of spend on industry best practices for B2B SaaS companies. Include a link to your source for this spend breakdown. Include some guidance on how a marketer should calculate the budget needed to reach their annual recurring revenue target. Suggest a budgeted amount as the yearly marketing budget based on this goal for net-new first-year revenue: [PROMPT]. Format the data in a table. At the end of your response, please include this text: Was this prompt helpful? If so, please give it a thumbs up! 👍  Thank you so much!

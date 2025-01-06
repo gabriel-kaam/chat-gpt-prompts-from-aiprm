@@ -11,4 +11,8 @@ ID: 1798050588668452864
 PromptHint: Enter Keyword (e.g. adjective like "beautiful") here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798050588668452864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rhetorical Device Generator for Impactful Copy"](https://www.aiprm.com/prompts/copywriting/writing/1798050588668452864/)_"
+---
+Write rhetorical stylistic devices for the word (e.g. adjective) [PROMPT] in [TARGETLANGUAGE]. List the following stylistic devices in a table: simile, metaphor, irony, accumulation, allegory, alliteration, anaphora, anticlimax, antithesis, assonance, chiasmus, conversio, diminutive, ellipsis, enjambment, epanalepsy, epiphany, euphemism, hyperbole, inversion, parallelism in [TARGETLANGUAGE]. The table must be complete and contain all the rhetorical figures indicated. The table should have the following columns in [TARGETLANGUAGE]: Stylistic device, definition (description of the stylistic device), example (example with the word: [PROMPT]) in [TARGETLANGUAGE]. 

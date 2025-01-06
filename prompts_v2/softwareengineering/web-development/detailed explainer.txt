@@ -11,4 +11,15 @@ ID: 1877243930929135616
 PromptHint: Problem Explainer
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1877243930929135616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Detailed Explainer"](https://www.aiprm.com/prompts/softwareengineering/web-development/1877243930929135616/)_"
+---
+Your task is to explain this coding problem related the given framework in detail with explanation. All output shall be in [TARGETLANGUAGE]. The text to understand, explain and give detailed solution is as like user is a 5-year-old is this:
 
+[PROMPT]
+
+coding or specific framework related problem that i have i would explain it here.
+
+explain to me like i am a 5-year-old and my guru & coach and you want to make me the best game developer in the world, with every detail of the game development aspect of the design and the programming structure of the game and with confidence and professionally.
+do try to explain throw best methods and like explaining or describing things in like excel like table manner in appropriate view and method of explanation.

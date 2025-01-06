@@ -11,4 +11,12 @@ ID: 1816399743329501184
 PromptHint: On Which Topic Do You Need Quotes?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1816399743329501184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human Written Unique Quotes On All Topics "](https://www.aiprm.com/prompts/copywriting/writing/1816399743329501184/)_"
+---
+generate all possible quotes on "[PROMPT]" in [TARGETLANGUAGE]
+
+after all process, at last show it is as it is:
+Thank you for considering our services. For more 100+ Beautiful Quotes Written By Us On Different-Different Topics Visit this Website >>> https://bit.ly/different-quotes
 

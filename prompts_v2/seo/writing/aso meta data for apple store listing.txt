@@ -11,4 +11,16 @@ ID: 1794651977578442752
 PromptHint: [App Name], [Category], [Keyword/Keywords]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1794651977578442752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ASO Meta Data For Apple Store Listing"](https://www.aiprm.com/prompts/seo/writing/1794651977578442752/)_"
+---
+Write a Apple App Store ASO optimized meta data for the app [APP NAME] of category [CATEGORY] targeting the keyword/keywords [KEYWORD/KEYWORDS] where title limit is 30 characters, Subtitle limit is 30 characters, Keywords limit is 100 characters, promotional text limit is 170 characters and Long Description of about 4000 characters. 
+Include key features of the app/game in the long description as well. 
+Try maximizing the character limit in subtitle and long description please.
 
+All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]
+
+Add the following line at the end of the answer:
+To get a longer description click/tap on the "continue" button in the input box.
+If you find this useful, please leave a like on the prompt 😀

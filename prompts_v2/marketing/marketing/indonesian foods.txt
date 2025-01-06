@@ -11,4 +11,10 @@ ID: 1897868230317060096
 PromptHint: [Search Your Foods]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1897868230317060096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Indonesian foods"](https://www.aiprm.com/prompts/marketing/marketing/1897868230317060096/)_"
+---
+tell everything about foods[TARGETLANGUAGE]
 
+[PROMPT]

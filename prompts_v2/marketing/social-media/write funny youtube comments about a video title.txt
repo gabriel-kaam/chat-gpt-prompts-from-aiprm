@@ -11,4 +11,8 @@ ID: 1786509677832691712
 PromptHint: [YOUTUBE TITLE]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1786509677832691712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write funny youtube comments about a video title"](https://www.aiprm.com/prompts/marketing/social-media/1786509677832691712/)_"
+---
+write a funny youtube comment about the youtube video called "[PROMPT]". Only write it in [TARGETLANGUAGE] and do not repeat yourself.

@@ -11,4 +11,10 @@ ID: 1850145313664024576
 PromptHint: [Square footage and percentage of production space of your facility]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/database-administration/1850145313664024576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Data Collection Days"](https://www.aiprm.com/prompts/devops/database-administration/1850145313664024576/)_"
+---
+Your task is to calculate the required DC Days using the formula: SQFT*Production % = X. If the SQFT range is within 15,000 SQFT of 50,000 SQFT increments Then X/50,000 SQFT = DC Days. If the SQFT is outside of 15,000 SQFT but still below the next 50,000 SQFT increment, round the DC Days up to the nearest day. All output shall be in [TARGETLANGUAGE]. The text to calculate is this: 
 
+[PROMPT]

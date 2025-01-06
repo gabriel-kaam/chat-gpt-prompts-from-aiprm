@@ -11,4 +11,10 @@ ID: 1793590101092331520
 PromptHint: [product description you want sales page for] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793590101092331520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Sales page template 1"](https://www.aiprm.com/prompts/copywriting/writing/1793590101092331520/)_"
+---
+I want you to act as very proficient conversion copywriter that writes in fluent [TARGETLANGUAGE]. Your task is to write the text based on the product description but must follow this structure: benefit-focused headline, 6 short benefits that should not be longer than 5 words, 10 paragraphs with benefit headline and one to two sentences which will elaborate specific feature, and 4 user testimonials. The product description is this: 
 
+[PROMPT]

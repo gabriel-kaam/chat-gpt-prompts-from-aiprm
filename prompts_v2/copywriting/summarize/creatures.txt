@@ -11,4 +11,8 @@ ID: 1848465409914449920
 PromptHint: creatures, animal, fish, amphibians, reptiles, mammals, birds
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1848465409914449920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Creatures"](https://www.aiprm.com/prompts/copywriting/summarize/1848465409914449920/)_"
+---
+name of any creatures in [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARAIABLE2], [VARIABLE3]

@@ -11,4 +11,8 @@ ID: 1783142825010126848
 PromptHint: [KEYWORD/TOPIC}
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1783142825010126848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword List"](https://www.aiprm.com/prompts/seo/ideation/1783142825010126848/)_"
+---
+give me a list of 50 keywords for the topic [PROMPT]

@@ -11,4 +11,11 @@ ID: 1964601895100870656
 PromptHint: apply the hyperlink on a keyword that match with given permalink
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1964601895100870656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "description rewriter"](https://www.aiprm.com/prompts/copywriting/product-description/1964601895100870656/)_"
+---
+[TARGETLANGUAGE]] ENGLISH [PROMPT] rewrite the titles (Bold) and descriptions in the way human has written and leave the link as plain link under the description as it is
+content should be in human friendly tone
 
+all result should be in 

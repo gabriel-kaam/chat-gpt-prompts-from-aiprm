@@ -11,4 +11,9 @@ ID: 1855446957511417856
 PromptHint: C-sharp model
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1855446957511417856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Convert C# model class to TypeScript class"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1855446957511417856/)_"
+---
+The user would then paste the C# model class code into the prompt. The prompt would then analyze the C# model class code and generate the TypeScript export class code. The TypeScript export class code would then be displayed to the user. Don't write any description only write output
+[PROMPT] in [TARGETLANGUAGE] 

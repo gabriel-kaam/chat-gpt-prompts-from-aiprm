@@ -11,4 +11,15 @@ ID: 1903540364393574400
 PromptHint: Generate the list for (CITY, STATE) without description. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1903540364393574400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads Keywords"](https://www.aiprm.com/prompts/marketing/marketing/1903540364393574400/)_"
+---
+[PROMPT]
+"Please create a list of phrase match keywords containing zip codes or POIs in the city.
 
+Please generate the list for (CITY, STATE without description. 
+
+Please generate (50) keywords as if how people search for local flower shop"
+[PROMPT]
+ [TARGETLANGUAGE]  English

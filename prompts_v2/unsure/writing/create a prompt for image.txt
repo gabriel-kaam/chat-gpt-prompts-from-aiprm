@@ -11,4 +11,10 @@ ID: 1899443970484785152
 PromptHint: [What type of image colour, design and more]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1899443970484785152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a prompt for image"](https://www.aiprm.com/prompts/unsure/writing/1899443970484785152/)_"
+---
+I want to create a image so please generate me a prompt to create this image [TARGETLANGUAGE]. Ensure the image all word are clear and see nice [TARGETLANGUAGE]. The image prompt was short and best [TARGETLANGUAGE]. The image is related to:
 
+[PROMPT]

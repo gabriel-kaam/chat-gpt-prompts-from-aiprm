@@ -11,4 +11,11 @@ ID: 1799865427959218176
 PromptHint: [keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1799865427959218176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Linkedin content planner"](https://www.aiprm.com/prompts/marketing/social-media/1799865427959218176/)_"
+---
+Act like a LinkeDin world best content post planner.I'd like you to help me come up with a content schedule for my linkedin profile that has the best chance of helping me rank for long tail keywords that are specific to my keyword. I'll tell you my main target keyword in the prompt below. Please target transaction style search terms only. Please come up with hook or clickbait style titles for these blog posts. Please organize each post title in a nice looking table so that it looks like a calendar. Each week should be separated into its own table. Above the table say "🔥 LINKEDIN CONTENT CALANDER by AR services and company🔥  FOR KEYWORD" and replace "KEYWORD" with the keyword provided in the prompt in all caps. under the table say "If you liked this prompt please like it on the prompt search page so we know to keep enhancing it. - AR services and company"
 
+The keyword I'm targeting is: [PROMPT] 
+ [TARGETLANGUAGE] 

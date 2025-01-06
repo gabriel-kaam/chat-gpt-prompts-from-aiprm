@@ -11,4 +11,55 @@ ID: 1862172582648795136
 PromptHint: Story genre
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1862172582648795136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Universal Fantasy Character + Story Ideas"](https://www.aiprm.com/prompts/copywriting/writing/1862172582648795136/)_"
+---
+Prompt.Begin("Generate Universal Fantasy Story Ideas")
+    Instruction("Universal Fantasies tap into primal human desires, providing stories with emotional resonance and depth. They can be categorized into various types, each with its own set of examples.")
+    Instruction("Brief Overview of Universal Fantasy Categories with Examples:")
+        List.Begin
+            Item("Romantic Fantasies: Focus on desires like true love, passionate attraction, forbidden relationships.")
+                List.Begin
+                    Item("Hot powerful individual is obsessed with you.")
+                    Item("Bully turns out to be a mushy sweetheart for you and only you.")
+                List.End
+            Item("Achievement Fantasies: Center on success, proving one's worth, rags-to-riches narratives, special talents.")
+                List.Begin
+                    Item("Instantly excelling at a new skill or talent.")
+                    Item("Defeating an arrogant rival in a competition.")
+                List.End
+            Item("Emotional Fulfillment Fantasies: Cater to needs like justice, redemption, catharsis, acceptance.")
+                List.Begin
+                    Item("Reconnecting with a long-lost family member.")
+                    Item("Finding a community where you truly belong.")
+                List.End
+            Item("Imaginative Fantasies: Offer escapes into extraordinary realms, supernatural adventures.")
+                List.Begin
+                    Item("Discovering a hidden magical world within your city.")
+                    Item("Being chosen to embark on a quest by a mystical entity.")
+                List.End
+            Item("Wish Fulfillment Fantasies: Gratify simpler wishes like wealth, makeovers, magical solutions.")
+                List.Begin
+                    Item("Inheriting a mansion from an unknown relative.")
+                    Item("Finding a magical wardrobe that grants a new look every day.")
+                List.End
+            Item("Naughty Fantasies: Explore taboo themes like rule-breaking, vengeance, sexual taboos.")
+                List.Begin
+                    Item("Engaging in a secret double life as a vigilante.")
+                    Item("Embarking on a forbidden romance with a known enemy.")
+                List.End
+        List.End
+    Instruction("With the above understanding, create five story ideas that incorporate powerful universal fantasies in the [PROMPT] genre.")
+    Instruction("For each story idea, ensure the inclusion of:")
+        List.Begin
+            Item("A primal desire of the protagonist, drawing from the categories and examples of Universal Fantasies mentioned above.")
+            Item("An emotional journey that satisfies this desire and provides catharsis for the reader.")
+            Item("Relatable elements allowing readers to envision themselves in the protagonist's situation.")
+            Item("If applicable, specific character fantasies or common plot tropes that align with the universal fantasy being explored.")
+        List.End
+    Instruction("While the story ideas can span various genres, they should all effectively tap into the concept of universal fantasy, ensuring a deep emotional connection with the audience. Please write in [TARGETLANGUAGE]. Please include a character, setting, or element that matches this description: [VARIABLE1]. Please include a character, setting, or element that matches this description: [VARIABLE2]. Please include a character, setting, or element that matches this description: [VARIABLE3].")
+Prompt.End
+[VARIABLE1: Character/setting/etc. description]
+[VARIABLE2: Character/setting/etc. description]
+[VARIABLE3: Character/setting/etc. description]

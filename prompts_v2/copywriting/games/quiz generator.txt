@@ -11,4 +11,8 @@ ID: 1786946539558801408
 PromptHint: what subject do you want to quiz to be on
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1786946539558801408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quiz Generator"](https://www.aiprm.com/prompts/copywriting/games/1786946539558801408/)_"
+---
+I want you to respond only in [TARGETLANGUAGE]. I want you to create an pub quiz that speaks and writes fluent [English]. Pretend that you are an expert and have the most accurate and most detailed information about [PROMPT] available. write a full quiz in fluent [English]. I will give you the target keyword [PROMPT]. From this create quiz on [PROMPT]. Create a 10 round quiz that has 10 questions per round. each quetion must have a right answer. each question must have the answer provide for them

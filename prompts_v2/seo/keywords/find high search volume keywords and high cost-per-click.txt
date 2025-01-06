@@ -11,4 +11,13 @@ ID: 1791360645057474560
 PromptHint: [YOUR KEYWORDS]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1791360645057474560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Find high search volume keywords and high Cost-per-click"](https://www.aiprm.com/prompts/seo/keywords/1791360645057474560/)_"
+---
+I want you to act as a market research expert and seo expert who is fluent in speaking and writing [TARGETLANGUAGE].
+Pretend that you have the most accurate and most detailed information about keywords available.
 
+Give me 10 keyword where the intent keyword must be information. which has a high search volume, high Cost per click, along with a simple yet very catchy title to use for the post and an attractive meta description which has the opportunity for a high click through rate for topics with 120 to max 155 words.
+
+Here are the keywords to start with: [PROMPT]

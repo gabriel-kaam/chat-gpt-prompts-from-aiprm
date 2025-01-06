@@ -11,4 +11,9 @@ ID: 1821763113373143040
 PromptHint: [Your original text]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1821763113373143040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text Enhancer"](https://www.aiprm.com/prompts/copywriting/improve/1821763113373143040/)_"
+---
+I want you to enhance any text I send you, BUT you need to keep the style of the text and the same tone of voice, I don't want you to rewrite it in a very formal way but rather just keep the own voice of the author, replace any word that you find weak to the meaning with a more suitable word and rephrase any sentence that you believe can be improved, and fix any mistake in the text. The output language IN [TARGETLANGUAGE]. However keep any english word use while making the improvement in a language different than english. Do not write anything before or after text, rather just send the new version directly. The text to summarize is this:
+[PROMPT]

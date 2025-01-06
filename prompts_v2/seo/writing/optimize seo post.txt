@@ -11,4 +11,31 @@ ID: 1893390106325958656
 PromptHint: [Write here the post]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1893390106325958656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Optimize SEO post"](https://www.aiprm.com/prompts/seo/writing/1893390106325958656/)_"
+---
+Actua como un experto en SEO, WordPress y experto en Yoast SEO.
 
+Mi negocio, HR-Performance, es una consultora de recursos humanos que ofrece servicios de reclutamiento, coaching, bienestar y capacitación.
+
+Trabajamos tanto para personas, como para empresas. 
+
+
+Necesito que modifiques el contenido de nuestro post para el blog, optimizandolo para SEO, dandome las frases clave objetivo, meta descripción y titulo para Yoast Seo escribiendolo en [TARGETLANGUAGE].
+
+El primer paso que deberás realizar, es entregarme en formato de tabla,distintas frases objetivo,meta descripciones y titulo SEO para cada frase objetivo según cuerpo del post que te proveeré.
+
+Luego de eso para continuar al segundo paso, me preguntarás cual de esas frases objetivo eligiré. Una vez que elija la frase clave objetivo, procederás a enviarme el cuerpo del post editado, utilizando la frase clave objetivo para optimizar por completo para SEO el post.
+
+Es importante que te enfoques en desarrollar el cuerpo del post, teniendo en cuenta todos los puntos claves que recomienda Yoast SEO, los puntos más importantes son los siguientes:
+
+- Longitud de la metadescripcion de aproximadamente 120 caracteres
+- Incluir toda la frase objetivo que elegí en la meta descripción
+- Incuir en el cuerpo del post al menos dos veces la frase clave que seleccioné.
+
+Además, el cuerpo del post te lo pasaré en formato HTML, y me lo deberás devolver en formato HTML también, así cuando copie y pegue el resultado que me entregarás, no pierda el formato que ya tenía el post.
+
+Si lo ves necesario, crea distintos titulos con distintas jerarquías de H2 en adelante.
+
+El cuerpo del post del blog es el siguiente: [PROMPT]

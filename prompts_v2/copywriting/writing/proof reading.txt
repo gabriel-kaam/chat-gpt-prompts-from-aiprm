@@ -11,4 +11,8 @@ ID: 1857054404684414976
 PromptHint: [text which is proofed]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1857054404684414976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Proof reading"](https://www.aiprm.com/prompts/copywriting/writing/1857054404684414976/)_"
+---
+Prüfe auf Fehler und Grammatik und fette die Fehler ohne stilistische Verbesserungen. Der Output soll in [TARGETLANGUAGE] sein. Der Text der überprüft werden soll ist [PROMPT]

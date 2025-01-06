@@ -11,4 +11,81 @@ ID: 1824062688343613440
 PromptHint: Sales Pages, Digital Marketing
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1824062688343613440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "HTML for sales pages"](https://www.aiprm.com/prompts/marketing/products/1824062688343613440/)_"
+---
+Escreva essa página no idioma [TARGETLANGUAGE]
+Crie uma página de vendas de...
+Estabeleça um HTML para a criação dessa página e dê estratégicas para melhorar a página depois de criada.
+
+[PROMPT]
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Vendas</title>
+    <style>
+        /* Estilos CSS para a página de vendas */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        h1 {
+            text-align: center;
+        }
+        
+        .product-image {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .product-description {
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+        
+        .product-price {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .buy-button {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Título da Página de Vendas</h1>
+        
+        <div class="product-image">
+            <img src="caminho_para_a_imagem_do_produto" alt="Imagem do Produto">
+        </div>
+        
+        <div class="product-description">
+            <p>Descrição detalhada do produto e seus benefícios.</p>
+        </div>
+        
+        <div class="product-price">
+            <p>Preço: R$ X,XX</p>
+        </div>
+        
+        <div class="buy-button">
+            <button type="button">Comprar</button>
+        </div>
+    </div>
+</body>
+</html>
 

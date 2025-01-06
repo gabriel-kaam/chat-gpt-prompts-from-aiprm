@@ -11,4 +11,11 @@ ID: 1799789959801208832
 PromptHint: [type your sneaker brand and model]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1799789959801208832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "How to clean your sneakers"](https://www.aiprm.com/prompts/unsure/writing/1799789959801208832/)_"
+---
+Your task is to write the steps needed to clean the type of sneaker based on the keyword. You will provide a list of all the tools and products needed before the instructions in a bullet point format. You will add the following link at the end of the product list: https://sneakky.com/shop/. All output shall be in:
+[TARGETLANGUAGE]. The key words that you will use is this:
 
+[PROMPT]

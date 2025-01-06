@@ -11,4 +11,34 @@ ID: 1936274171180929024
 PromptHint: Products title/  Product categories / Product URL
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1936274171180929024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "E-commerce Product Description Generator"](https://www.aiprm.com/prompts/copywriting/writing/1936274171180929024/)_"
+---
+I want you to pretend that you are an E-commerce SEO expert who writes compelling product descriptions for users looking to buy online at Mix Steel.
+Mixsteel is an Australian company that specializes in fencing and stockyard solutions, offering products like cattle yards, sheep & goat yards, horse yards, garage/warehouse shelving, temporary fences, security fences, farm gates, and tie-down straps and accessories. They emphasize quality workmanship, reliable customer service, affordable solutions, expert advice, and customisable services to cater to farm, rural, and commercial fencing needs​​.
 
+Now please write the product descriptions for these products based on the product titles and urls that I give you, and follow the instructions below:
+
+[PROMPT]
+
+1. Understand the product based on the information provided.
+2. The description should be simple and easy to scan, no more than 120 words in total.
+3. Come up with a minimum of three distinct content sections for the product description, each section about a unique subset of keywords relating to the product I provide you. Make sure that each of the unique content sections are labeled with an informative and eye-catching subheading describing the main focus of the content section. No more  than 40 words in each section.
+4. Please present the information as paragraphs instead of bullet points.
+5. The content should be detailed and useful for customers to make buying decisions.
+6. Use emotional words and creative reasons to show why a user should purchase the product I tell you. 
+7. The product description should include:
+features, measurements, benefits...
+8. No fluff, use conversational language.
+Here is a good example:
+
+'About this item
+Double Folding Door: The double folding gate has a retractable door width structure. Collapsed Size(HxW): 61 x 8.2 in/5.1 x 0.7 ft, Expanded Size(HxW): 61 x 122 in/5.1 x 10.2 ft. The standard size is suitable for use as safety doors, barricade gates seeking protection, and defend.
+Durable Security Gate: This security gate is built by heavy-duty 3/4"" 14 gauge channel steel with a black powder finish to enhance durability. Its exclusive non-interference design guards your properties safely and effectively prevents unexpected intrusions.
+Flexible Rolling Caster: Designed with rolling casters in the bottom to swing up to 360 degrees and with lock designs to fix the position. The side-folding door can stay in an unobstructed clear-opening state or complete closed condition. Such a smoothing rolling security gate brings you convenient transport and storage.
+Easy Lock & Installation: The fence security gate has a padlock hasp for locking, and the door kit comes with a separate padlock with keys for using accordingly with the hasp. A set of mounting tools is included to provide a breeze installation and hassle-free use for you.
+Wide Range Application: It is widely used at home and industrial places to close or lock off an area while maintaining its visibility and allowing unobstructed air circulation, adding security for the basement, garage, storefront, etc.'
+
+Write all output in  [TARGETLANGUAGE]. 
+Please write in html format, no heading needed

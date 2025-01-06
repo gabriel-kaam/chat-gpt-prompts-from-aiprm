@@ -11,4 +11,9 @@ ID: 1818777774425640960
 PromptHint: What's the text?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1818777774425640960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quick mind map"](https://www.aiprm.com/prompts/productivity/summarize/1818777774425640960/)_"
+---
+Create a mind map in the following text or articles. List the main idea, main branches and sub-branches.  [KEYWORD] write all output to [TARGETLANGUAGE][PROMPT]
 

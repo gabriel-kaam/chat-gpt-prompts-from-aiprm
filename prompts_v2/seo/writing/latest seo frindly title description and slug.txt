@@ -11,4 +11,9 @@ ID: 1829379939254923264
 PromptHint: Enter Your Description or title
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1829379939254923264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Latest SEO Frindly title Description and slug"](https://www.aiprm.com/prompts/seo/writing/1829379939254923264/)_"
+---
+Write seo frindly short title and slug for given text in [TARGETLANGUAGE].
+[PROMPT]

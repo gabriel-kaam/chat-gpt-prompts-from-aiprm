@@ -11,4 +11,19 @@ ID: 1802096686492024832
 PromptHint: [the topic of your video series]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1802096686492024832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Video Series Creator"](https://www.aiprm.com/prompts/copywriting/script-writing/1802096686492024832/)_"
+---
+The task you are give is to create a outline for a 3-part video series.
 
+Include titles for each video.
+
+Write a script for each video.
+
+Create 3 examples of names for the video series.
+Provide 20 additional related keywords.
+ 
+All output will be in [TARGETLANGUAGE]
+
+The keyword to use for the video series is [PROMPT]

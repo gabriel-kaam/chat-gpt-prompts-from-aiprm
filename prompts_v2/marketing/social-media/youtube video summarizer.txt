@@ -11,4 +11,8 @@ ID: 1802417457823211520
 PromptHint: [Transcript of YouTube Video to summarize]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802417457823211520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YouTube Video Summarizer"](https://www.aiprm.com/prompts/marketing/social-media/1802417457823211520/)_"
+---
+In [TARGETLANGUAGE], Summarize this video with bullet points of the key topics covered. Add a short paragraph background of the video in the beginning before the bulleted summary. Here is the video transcript:  [PROMPT]

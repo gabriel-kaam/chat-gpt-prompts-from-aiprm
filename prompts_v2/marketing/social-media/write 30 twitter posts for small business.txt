@@ -11,4 +11,23 @@ ID: 1839306055343984640
 PromptHint: [Business Name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1839306055343984640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write 30 Twitter Posts for Small Business"](https://www.aiprm.com/prompts/marketing/social-media/1839306055343984640/)_"
+---
+Act as an expert social media manager for a small business. Write 30 Twitter posts and list them out for [PROMPT] in the [TARGETLANGUAGE] language. [PROMPT] is in the [VARIABLE1] industry.
 
+Criteria for the Twitter Posts:
+
+• Keep it short and simple
+• Make it conversational
+• Include a call to action
+• Include [VARIABLE4] hashstags
+• Include [VARIABLE5] emojis
+• Suggest an image or gif to include (with a clear description)
+
+Try a variety of subjects, styles, and formats for the tweets. Include helpful information about the business like their products ([VARIABLE2]), their industry ([VARIABLE1]), and their location ([VARIABLE3])
+
+Remember create a numbered list with markedup language and add 2 line breaks before each tweet. Just produce the list, don't include any prelude before the list.
+
+[VARIABLE1:Industry],[VARIABLE2:Products and Services],[VARIABLE3:Location],[VARIABLE4:Hashtags::0|1|2],[VARIABLE5:Emojis::0|1|2]

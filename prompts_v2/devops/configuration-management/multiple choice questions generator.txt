@@ -11,4 +11,18 @@ ID: 1795596564245508096
 PromptHint: E.g. 5 questions about sample bash commands 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1795596564245508096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Multiple choice questions generator"](https://www.aiprm.com/prompts/devops/configuration-management/1795596564245508096/)_"
+---
+Target language is [TARGETLANGUAGE]
+
+Create multiple choice questions:  [PROMPT]. 
+
+Each question must include 5 possible answers:
+- one is correct 
+- three are wrong 
+- one is "I do not know"
+
+
 

@@ -11,4 +11,8 @@ ID: 1799766530049970176
 PromptHint: Title of the job posting + further information, if applicable
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1799766530049970176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Professional Job Posting"](https://www.aiprm.com/prompts/productivity/respond/1799766530049970176/)_"
+---
+Interagiere als Recruiting Spezialist und schreibe für mich eine professionelle Stellenanzeige. Schreibe sie in der "Du" Form und in Stichpunkten und nutze dabei die typische Gliederung (Deine Aufgaben, Dein Profil, Wir bieten) . Schreibe auf [TARGETLANGUAGE] die Stellenanzeige für folgenden Job:  [PROMPT]

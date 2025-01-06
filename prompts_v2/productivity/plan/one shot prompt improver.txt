@@ -11,4 +11,16 @@ ID: 1842353247999500288
 PromptHint: Your simple prompt
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1842353247999500288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "One Shot Prompt Improver"](https://www.aiprm.com/prompts/productivity/plan/1842353247999500288/)_"
+---
+Given the user's initial prompt "[PROMPT]" enhance it.
+1. Start with clear, precise instructions placed at the beginning of the prompt.
+2. Include specific details about the desired context, outcome, length, format, and style.
+3. Provide examples of the desired output format, if possible.
+4. Use appropriate leading words or phrases to guide the desired output, especially if code generation is involved.
+5. Avoid any vague or imprecise language.
+6. Rather than only stating what not to do, provide guidance on what should be done instead.
 
+Remember to ensure the revised prompt remains true to the user's original intent. Write in [TARGETLANGUAGE].

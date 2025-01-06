@@ -11,4 +11,8 @@ ID: 1797000007317192704
 PromptHint: Enter [Product Title or Keyword] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1797000007317192704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get full SEO product description, FAQs..."](https://www.aiprm.com/prompts/seo/products/1797000007317192704/)_"
+---
+Hi mate, I have this product "[PROMPT]", I want to outrank my competition with. Using [TARGETLANGUAGE] as the writing language, please generate a well detailed product post with Headline, Introduction, Subheadings with Descriptions, please also suggest at least 3 possible titles, suggest at least 10 Target Keywords, Generate Meta Title and Meta Description then Finally, also generate possible FAQs and answers.

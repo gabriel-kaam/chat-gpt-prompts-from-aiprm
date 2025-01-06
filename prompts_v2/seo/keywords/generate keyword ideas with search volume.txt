@@ -11,4 +11,11 @@ ID: 1831309175960109056
 PromptHint: Type Keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1831309175960109056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate keyword ideas with search volume"](https://www.aiprm.com/prompts/seo/keywords/1831309175960109056/)_"
+---
+generate a table for 10 related keywords 2-5 words with cpc , difficulty, and volume on the basis of user search intent by country which i given on the following primary keyword:
+also write source of cpc 
+[TARGETLANGUAGE]
+[PROMPT]

@@ -11,4 +11,11 @@ ID: 1791735341691170816
 PromptHint: [url of competitor]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1791735341691170816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "KDP Amazon Competitor Metadata"](https://www.aiprm.com/prompts/seo/research/1791735341691170816/)_"
+---
+Your task is to find metadata of provided url of amazon kdp
+[TARGETLANGUAGE] url is this 
 
+[PROMPT]

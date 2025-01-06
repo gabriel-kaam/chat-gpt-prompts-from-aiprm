@@ -19,4 +19,9 @@ ID: 1786957113051054080
 PromptHint: [JSON/CSV]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1786957113051054080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Database Bootstrapper (Any DB,Any Language)"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1786957113051054080/)_"
+---
+[INSTRUCTIONS] I got a CSV or JSON (not sure) which is: [PROMPT].
+Based on the content I need to create tables in a database. Indentify the format and ask a follow up question while also informing about the detected format: "Format [BOLD]**format** detected. Which language you need the results in (JS, React, Python, SQL, C++, etc)?". Wait for user response, after getting the wanted platform ask what type of database the data is for MySQL,MongoDB,PostgresQL,etc.  Wait for a reply again. First provide a way to use the database CLI (on the host server) that wil  1) create the database 2) create the tables.  Finally the user still needs the code examples for the provided platform. Provide queries or code examples for the provided platform (formatted as markup), written in the language of the provided platform, that will create  1) A query to insert new records in the database. 2) A query to get all records from the table. 3) Further helpfull code examples.  Notes: CSV can be multiline seperated with \t and have the first line contain the row keys. Check the names of the keys and create indexes accordingly. Improve the queries further before answering.  Use Markdown to visually improve your output. [IMPORTANT] Do not assume. Ask follow up question if needed. All text of the reply should be in [TARGETLANGUAGE].

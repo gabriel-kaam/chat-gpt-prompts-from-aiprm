@@ -11,4 +11,19 @@ ID: 1795045177145167872
 PromptHint: [enter your topic or competitor page url]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1795045177145167872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Skyscraper Content of Competitor URL"](https://www.aiprm.com/prompts/seo/writing/1795045177145167872/)_"
+---
+Creating helpful, reliable, people-first content. Write a unique, high-quality, informative and original content for given topic or competitor page url using with skyscraper technique. The target language is 'English'. Write a suitable Title.
 
+To achieve this, start by conducting thorough research on the given topic or the competitor page URL. Identify the gaps in their content and brainstorm ways to fill those gaps with your own unique perspective and insights.
+
+As you write, focus on creating high-quality content that provides real value to your audience. Use clear and concise language, and avoid fluff or filler content. Make sure to back up your claims with reliable sources and data to establish your credibility.
+
+Follow Google's helpful content update.
+
+Include citations or references to credible sources, such as scientific studies, government websites, and reputable organizations wherever required.
+
+All output shall be in [TARGETLANGUAGE]
+The text to summarize is this: [PROMPT]

@@ -11,4 +11,10 @@ ID: 1814175623015555072
 PromptHint: [Paste your text here, maximum ca. 8000]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1814175623015555072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Optimized Meta Title / Description / Slug"](https://www.aiprm.com/prompts/seo/keywords/1814175623015555072/)_"
+---
+I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient SEO and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write so good in [TARGETLANGUAGE] that it can outrank other websites. Your task is give an SEO optimized appealing meta title that is strictly under 70 caracters that entices users to click on our website in search results. Give also an SEO optimized compelling meta description that entices users to click on our website in search results strictly under 170 caracters and a SEO optimized slug that is not too long, maximum 5 words, and only uses the most important key words of the article to rank on on search engines. Respect the caracter limits provided. Also provide an appealing Title for the article. Don't provide anything else than than those 4 tasks. All output shall be in [TARGETLANGUAGE]. Provide the 4 items in a text spreadsheet directly in response. The first line of the spreadsheet is in the correct order : Item, Output, number of Caracters. Write in first column the item : "Meta Title", "Meta Description", "Article Title" or "Slug". Write the titles of the spreadsheet in [TARGETLANGUAGE]. On the second colum provide your work and on the last column provide the number of caracters for the meta title and meta description. Only provide your result in a spreadsheet. You can add 1 or 2 emojis for the Meta Title and Meta Description. The text to use for this task is this:
+Donne moi le résultat sous forme de tableau, sans guillemets, et directement en texte.
+[PROMPT]

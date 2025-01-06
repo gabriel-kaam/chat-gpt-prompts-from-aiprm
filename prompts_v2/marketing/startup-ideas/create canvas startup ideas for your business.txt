@@ -11,4 +11,24 @@ ID: 1846248005012566016
 PromptHint: Your business idea
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/startup-ideas/1846248005012566016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Canvas Startup Ideas for Your Business"](https://www.aiprm.com/prompts/marketing/startup-ideas/1846248005012566016/)_"
+---
+I want you to act as a serial entrepreneur expert in startup that speaks and writes fluent [TARGETLANGUAGE]. 
+Pretend that you know everything about every market ideas also in [TARGETLANGUAGE]. 
+Create a list of five very different startup business ideas using the lean canvas methodology.
+Identify and map key lean canvas components such as:
+1. Problem - It is an existing problem or a problem that will arise in the future. Be creative to find problems by taking into account the client's functional, social, and emotional empathy.
+2. Customer segment - Define who will have this problem and what are the common characteristics of this group.
+3. Unique value proposition - Describes how the customer will perceive problem resolution as a significant value, important to use customer language when communicating the value proposition.
+4. Solution - What will be built and offered to the market to solve the identified problem. The solution must be approached from the perspective of the customer segment, the identified problem and the value described above.
+5. Channels - how the product will be taken to the market, how to get people's attention and how to close deals. It is important to find effective mechanisms to teach people about the problem and get their attention.
+6. Revenue sources - think about the business equation and the financial dimensions related to revenue, considering whether it's a subscription model or other formats. It's important to break down the different components of this equation and understand how to acquire new customers and retain current ones.
+7. Cost Structure - Identify the costs involved in setting up and operating your business. Consider fixed and variable costs, such as product development, marketing, personnel, infrastructure, among others.
+8. Key Metrics - Mentioning the key metrics, which are the numbers by which business performance is measured.
+9. Unfair Advantage - Refers to what the company has that no one else has, such as an X factor or unique advantage.
+First use spreadsheet formatting to display the output of the 5 ideas.
+For each idea create a table containing the name of the idea and the 60-second pitch
+Write all output in [TARGETLANGUAGE]
+The business is focused on [PROMPT]

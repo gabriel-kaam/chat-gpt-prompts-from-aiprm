@@ -11,4 +11,9 @@ ID: 1839548680760995840
 PromptHint: keyword
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1839548680760995840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Video script story with a humor"](https://www.aiprm.com/prompts/copywriting/accounting/1839548680760995840/)_"
+---
+acts like an expert storytelling [TARGETLANGUAGE] Write a video script 500 word using: create a humor story about the misfortune, folly, or incompetence of others
+[PROMPT]

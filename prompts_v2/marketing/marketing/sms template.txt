@@ -11,4 +11,10 @@ ID: 1811277016843157504
 PromptHint: enter [Prompt] and [TargetLanguage]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1811277016843157504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Sms template"](https://www.aiprm.com/prompts/marketing/marketing/1811277016843157504/)_"
+---
+As a marketer, your task is to create a short and attention-grabbing SMS template that will immediately catch the recipient's eye and persuade them to take action. Keep in mind that you only have 40 characters to work with, so every word must count. Consider using action-oriented verbs, asking a question, or creating a sense of urgency to entice the recipient to engage with your message.
 
+My first task is to generate an eye-catching SMS template for [PROMPT] that is no more than 40 characters long. The target language is [TARGETLANGUAGE].

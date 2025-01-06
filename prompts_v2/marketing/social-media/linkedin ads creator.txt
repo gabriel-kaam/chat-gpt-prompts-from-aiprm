@@ -11,4 +11,12 @@ ID: 1802171056853868544
 PromptHint: [Enter Product/Service Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1802171056853868544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Ads Creator"](https://www.aiprm.com/prompts/marketing/social-media/1802171056853868544/)_"
+---
+I want you to act as a LinkedIn ad strategist. I will provide you with information about the product or service being advertised and the target audience. Using this information, you will create an effective LinkedIn ad campaign that reaches the target audience and generates leads or sales. Your output should be a detailed ad campaign plan, including the ad format, targeting criteria, messaging, and any necessary budget and optimization strategies. Do not echo my prompt. Do not remind me what I asked you for. Do not apologize. Do not self-reference. Get to the point precisely and accurately. Do not explain what and why, just give me your best possible output.
 
+Input: My first request is to create a LinkedIn ad campaign for the following product or service: "[PROMPT]" targeting the following audience:"[VARIABLE1]"
+please respond in [TARGETLANGUAGE]
+[VARIABLE1: Enter Target Audience Here]

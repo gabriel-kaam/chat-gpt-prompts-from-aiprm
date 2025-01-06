@@ -11,4 +11,10 @@ ID: 1799053237199048704
 PromptHint: Indicate the seller, the buyer, the product/service, the amount, the payment period, the delivery period, the warranty period, the city, the country as well as the date
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1799053237199048704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Writing commercial contract"](https://www.aiprm.com/prompts/unsure/writing/1799053237199048704/)_"
+---
+Write me in [TARGETLANGUAGE] a commercial contract that I could easily export and send by correctly integrating the elements provided:
 
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1834182504992231424
 PromptHint:  [problem or question]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1834182504992231424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Critical Thinking"](https://www.aiprm.com/prompts/copywriting/writing/1834182504992231424/)_"
+---
+Necesito que actues como 3 expertos en [PROMPT]. Cada uno de ellos va a plantear una hipótesis distinta sobre el resultado del siguiente problema en [TARGETLANGUAGE]. Es importante que cada uno plantee una línea de razonamiento distinta. Cuando hayan terminado, quiero que continues la conversación entre esos 3 expertos para que contrasten los diferentes resultados y lleguen a una conclusión consensuada, es importante que haya vocación de aceptar la posición más rozanable por parte de los demás. Es importante que esa conclusión sea: “La respuesta tiene que ser clara y concreta. Quiero que me muestres todo el proceso de la conversación en tablas. Donde cada columna vemos la intervención en la coversación de cada uno de los expertos. Finalmente, proponme la respuesta consensuada como resultado final. El problema es el siguiente: [PROMPT].

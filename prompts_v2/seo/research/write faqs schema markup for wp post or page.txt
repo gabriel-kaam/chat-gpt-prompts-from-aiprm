@@ -11,4 +11,10 @@ ID: 1791518832024870912
 PromptHint: [Paste your text here by line (question and answer)]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1791518832024870912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write FAQs schema markup for WP Post or Page"](https://www.aiprm.com/prompts/seo/research/1791518832024870912/)_"
+---
+your job is to Write FAQs schema markup for WP page. Note always start with [<script type="application/ld+json">] and input endline this [</script>] in code section.
 
+Your language shall be in [TARGETLANGUAGE] and your output based on [PROMPT]

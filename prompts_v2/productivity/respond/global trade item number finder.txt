@@ -11,4 +11,9 @@ ID: 1987297148740034560
 PromptHint: Product Title
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1987297148740034560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Global Trade Item Number Finder"](https://www.aiprm.com/prompts/productivity/respond/1987297148740034560/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT], I have a product title, and I need to find its GTIN (Global Trade Item Number). Search the entire internet to find. Do not stop until you do. Please provide the product GTIN number as per the product title I enter.

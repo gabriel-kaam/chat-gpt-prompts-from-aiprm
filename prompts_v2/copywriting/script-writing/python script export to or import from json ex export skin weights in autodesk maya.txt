@@ -11,4 +11,23 @@ ID: 1787137393145679872
 PromptHint: Write python script: “Export Skin Weights to JSON file” for Autodesk Maya
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1787137393145679872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Python Script: Export To (or) Import From JSON. Ex: Export Skin Weights in AutoDesk Maya"](https://www.aiprm.com/prompts/copywriting/script-writing/1787137393145679872/)_"
+---
+Write [TARGETLANGUAGE] script: [Describe Script Here] for [Software Name]
+[PROMPT]
+            ▪ [Main query/title] options:
+                • [bullet point 01]
+                • [bullet point 02]
+                • And so on
 
+            ▪ Generic options [mostly needed for all the tools]
+                • [bullet point 01 -Use ‘pymel.core as pm’]
+                • [bullet point 02 -Write comments]
+                • And so on
+
+            ▪ Specific options needed for this tool
+                • [bullet point 01]
+                • [bullet point 02]
+                • And so on

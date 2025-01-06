@@ -11,4 +11,20 @@ ID: 1820091124543643648
 PromptHint: Describe your [Business] , and your [Product]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/segment-your-audience/1820091124543643648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Persona and Value Proposition Canvas"](https://www.aiprm.com/prompts/marketing/segment-your-audience/1820091124543643648/)_"
+---
+Create a descriptive and optimistic buyer persona for a [Business or Industry] offering [Product or Service]. The target market consists of [Target Market], and the key selling points include [Key Selling Points]. The main competitors in this space are [Competitors], and the primary goals or challenges for this business are [Goals or Challenges].
 
+Please provide a brief description of the persona, including demographics and hard facts, in 100-120 words.
+
+Next, describe the persona's personality and psychological profile in 100-120 words.
+
+Finally, outline the persona's interests, hobbies, passions, sports, flaws, and other relevant information that can help marketers offer their services to this persona, in 100-120 words.
+
+After creating the buyer persona, apply the Value Proposition Canvas to analyze the alignment of the [Product or Service] with the persona's needs, desires, and preferences. Describe the Customer Jobs, Gains, and Pains for this persona, as well as the Products and Services, Gain Creators, and Pain Relievers offered by the business.
+
+All output shall be in [TARGETLANGUAGE]
+
+[PROMPT]

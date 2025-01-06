@@ -11,4 +11,8 @@ ID: 1838143952810418176
 PromptHint: [Keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1838143952810418176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Description generator"](https://www.aiprm.com/prompts/seo/writing/1838143952810418176/)_"
+---
+Write 1100 words articles and also meta descriptions. Article should be in clear and active voice, sentenses not be longe, add headings and content should not be plagirisim. [PROMPT]. Must add the keyword [PROMPT] in it and add related keywords yourself.  [TARGETLANGUAGE] is english.

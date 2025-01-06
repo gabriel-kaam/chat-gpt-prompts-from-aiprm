@@ -11,4 +11,10 @@ ID: 1824536548834795520
 PromptHint: [translation]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1824536548834795520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "translation with meaning 2"](https://www.aiprm.com/prompts/copywriting/script-writing/1824536548834795520/)_"
+---
+I want you to translate the text i give you in [TARGETLANGUAGE] and give a explanation in [ENGLISH] of what you translate, using maximum 50 words.
 
+[PROMPT]

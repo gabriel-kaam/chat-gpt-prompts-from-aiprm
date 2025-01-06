@@ -13,4 +13,10 @@ ID: 1830095908742889472
 PromptHint: write movie name here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1830095908742889472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Friendly Movie Content"](https://www.aiprm.com/prompts/seo/writing/1830095908742889472/)_"
+---
+write a text description for the movie [PROMPT]
+also include some download button in it and related text
+add my keyword Film Downloader in it and also include 'you may also like' link, the content length should be not less than 600 words.  Also, the content should be SEO friendly and keyword density should be around 1%-2%. Also use the main keyword in a heading H2 or H3 and it should be near at the beginning of the content. The paragraphs should be short and precise for better human readability and UX. The content should be in [TARGETLANGUAGE]

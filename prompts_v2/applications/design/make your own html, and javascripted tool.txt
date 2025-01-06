@@ -11,4 +11,9 @@ ID: 1851882799003389952
 PromptHint: [Please enter name for your tool]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1851882799003389952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make your own html, and javascripted tool"](https://www.aiprm.com/prompts/applications/design/1851882799003389952/)_"
+---
+Please make an html, javascript, CSS coding with one main html file i mean internel coding.
+Make sure to make [TARGETLANGUAGE], use internal coding with the smart centred layout, the script should workfull and can work properly for [PROMPT]

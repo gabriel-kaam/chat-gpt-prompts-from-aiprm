@@ -11,4 +11,8 @@ ID: 1896794271240704000
 PromptHint: [give me title to create SEO friendly article] 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1896794271240704000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human friendly Article with FAQs [V1.0.2]"](https://www.aiprm.com/prompts/copywriting/writing/1896794271240704000/)_"
+---
+your task is write article the title i give you write word 20 to 5000 words [TARGETLANGUAGE] write well human readability, with faqs [PROMPT]

@@ -11,4 +11,9 @@ ID: 1814033180270006272
 PromptHint: [Enter the country Or area Code with a +]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1814033180270006272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "See Country or State Or area Code"](https://www.aiprm.com/prompts/copywriting/writing/1814033180270006272/)_"
+---
+Your task is to give the country or state if the code or area code given. Or if the country is given write the  country or area code for that. And always add a plus or + for a code [TARGETLANGUAGE]. 
+[PROMPT]

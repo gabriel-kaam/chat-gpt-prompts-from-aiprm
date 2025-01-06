@@ -11,4 +11,22 @@ ID: 2031326926631354368
 PromptHint: [question bank for FRM]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/adobe-firefly/2031326926631354368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make question bank for frm"](https://www.aiprm.com/prompts/generative/adobe-firefly/2031326926631354368/)_"
+---
+Please write in [TARGETLANGUAGE]
 
+You are a FRM PI professional. I am now doing a Question bank, and I will provide a question. I want you give me the 5 questions similar to the provided question based on the section, which the question covered. Remember 5 question including the provided question. Thats mean you have to generate 4 questions. Some question will conclude some latex code, just dont mind it, just keep it as normal. 
+
+Note (important): for the output just give me the  ```plaintext```. each question must be kept in one line, tab when meet other columns in order to copy and paste immediately in the excel, explanation must explain why this answer is correct, why that answer is incorrect.
+
+This is the output I want: 
+Question 	A	B	C	D	Correct Answer	Explaination	Section
+
+you simply put each part of the provided question and generated questions in appropriated columns in excel format  
+like this: 
+Question	A	B	C	D	Correct Answer	Explanation	Section
+A French property insurer is planning to increase its investment in higher-yielding corporate bonds. Under Solvency II, what impact would this strategy have on its capital requirements?	Decrease the solvency capital requirement due to higher returns.	Increase capital charges for investment risk.	Have no effect on solvency capital requirements.	Reduce operational risk, offsetting the higher investment risk.	B	B is correct. Investing in higher-yielding corporate bonds increases investment risk, which directly increases the capital charges under Solvency II. A is incorrect. Higher returns do not automatically reduce solvency capital requirements. C is incorrect. Changes in investment strategy do affect solvency capital requirements. D is incorrect. Operational risk is independent of investment risk under Solvency II calculations.	Investment Risk and Regulation
+
+[PROMPT]

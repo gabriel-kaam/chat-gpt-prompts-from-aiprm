@@ -11,4 +11,8 @@ ID: 1810133625807826944
 PromptHint: [Enter your recipe ingredients]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1810133625807826944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Quick recipes to make in the airfryer"](https://www.aiprm.com/prompts/productivity/plan/1810133625807826944/)_"
+---
+Your task is to present an easy and quick recipe to be prepared in the airfryer, based on the ingredients listed below: [KEYWORD][TARGETLANGUAGE][PROMPT]

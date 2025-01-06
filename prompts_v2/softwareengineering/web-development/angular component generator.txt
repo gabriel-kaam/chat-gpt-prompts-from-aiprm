@@ -11,4 +11,9 @@ ID: 1789036803341410304
 PromptHint: Angular Component Generator
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1789036803341410304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Angular Component Generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1789036803341410304/)_"
+---
+"Explain a scenario for a angular component descrption [COMPONENT DESCRIPTION] and generate the corresponding Angular component, service, and HTML template files. Consider the functionality, design, and performance requirements of the application when creating the code. Ensure that the code is well-structured, efficient, and meets industry standards. My first task is to [PROMPT]. The target language is [TARGETLANGUAGE]."
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE]."

@@ -11,4 +11,10 @@ ID: 1810983648535769088
 PromptHint: Please write your formula here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1810983648535769088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Adapt formula into Excel 2016 standards"](https://www.aiprm.com/prompts/productivity/respond/1810983648535769088/)_"
+---
+I want you to act as an expert in MS Excel that speaks and writes fluent [TARGETLANGUAGE]. Please adapt this formula into Excel 2016 standards and make it work:
 
+[PROMPT]

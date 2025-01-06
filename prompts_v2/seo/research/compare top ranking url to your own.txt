@@ -11,4 +11,8 @@ ID: 1886454059847376896
 PromptHint: Content 1: Top Ranking Site in Google   Content 2:  Your Site Url
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1886454059847376896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Compare Top Ranking URL to Your Own"](https://www.aiprm.com/prompts/seo/research/1886454059847376896/)_"
+---
+Using either Webpilot or Link Reader, Compare this content from the two URLs strictly using the content only. Also what content gaps do you see in Content 2?  [PROMPT]. Use the default [TARGETLANGUAGE].

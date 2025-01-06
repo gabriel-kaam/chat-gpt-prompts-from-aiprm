@@ -11,4 +11,11 @@ ID: 1803510567126953984
 PromptHint: Rewriting an Article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1803510567126953984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Article Rewriter | No Passive Voice"](https://www.aiprm.com/prompts/copywriting/writing/1803510567126953984/)_"
+---
+I want you to rewrite this text in [number of words] words,  and make it SEO optimized for the keyword [KEYWORD], no passive voice, and make it friendly to hook the reader.
 
+All output should be in [TARGETLANGUAGE].
+The article to rewrite is this: [PROMPT]

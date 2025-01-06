@@ -11,4 +11,8 @@ ID: 1817209137629761536
 PromptHint: [Name of article or website you want NLP anchors for]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1817209137629761536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "NLP Anchor Text Generator"](https://www.aiprm.com/prompts/seo/link-building/1817209137629761536/)_"
+---
+In [TARGETLANGUAGE], generate a list of NLP-friendly anchor texts for the article “[PROMPT]“. Ensure that the anchor texts suggested are clear, precise, contextually relevant, and concise. Use lowercase letters, and make sure anchor texts have between 3 and 7 words. The suggested anchor texts must be extremely relevant to the title of my article. Lastly, avoid generic keywords like check out, read, click here, guide, etc.

@@ -11,4 +11,20 @@ ID: 1810800217994563584
 PromptHint: Paste code that you working on
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1810800217994563584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Swift ios"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1810800217994563584/)_"
+---
+Help me with IOS developing with Swift and Xcode
 
+MY CODE: [PROMPT]
+
+My expectation about this problem: [VARIABLE1] 
+My error: [VARIABLE2]
+
+My goal: [VARIABLE3]
+ All output should be in [TARGETLANGUAGE]
+
+[VARIABLE1:My problem:none]
+[VARIABLE2:Error you got:none]
+[VARIABLE3:Goal to achive:none]

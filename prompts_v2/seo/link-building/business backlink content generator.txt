@@ -18,4 +18,32 @@ ID: 1925457452662009856
 PromptHint: Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1925457452662009856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Business backlink content Generator"](https://www.aiprm.com/prompts/seo/link-building/1925457452662009856/)_"
+---
+Hey ChatGPT, I need assistance with SEO content writing. Can you help me with this?"
 
+Context:
+"I'm looking for 300 word organised content and 45 characters title on keyword=[PROMPT]."
+
+Additional Information:
+"Here are some details about my business, Name=[VARIABLE2], addrress=[VARIABLE3], mobile no=[VARIABLE4], EMAIL=[VARIABLE5], website=[VARIABLE6]."
+
+Formatting:
+"Use bullet points where necessary, write in formatted way. Avoid using single paragraph, use multiple paragraphs."
+
+Tone:
+"Please respond in a helping and human tone."
+
+Language Style:
+"I want you to respond only in language [TARGETLANGUAGE], I prefer responses in American English, and it would be great if you could provide unique content."
+
+Closing:
+"Thanks in advance for your help! Looking forward to your answer.
+
+[VARIABLE2:Your Business Name]
+[VARIABLE3:Business  Address]
+[VARIABLE4:Mobile No.]
+[VARIABLE5:Email]
+[VARIABLE6:Website]

@@ -13,4 +13,16 @@ ID: 1839702848728780800
 PromptHint: [Name or Title of Product], [Brand, Model No],[a List of Specific Features of the Product], [ Weight, Size, Bundle set, UNIT], and [any other specific information]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1839702848728780800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Online Product Lister for all Platforms"](https://www.aiprm.com/prompts/seo/products/1839702848728780800/)_"
+---
+GENERATE an illustrative "Product Description" Article for this Product in [PROMPT], [VARIABLE 1], [VARIABLE 2], [VARIABLE 3], [VARIABLE 4]. Where [PROMPT] = Name or Title of Product, [VARIABLE 1] = the Brand Name, Model No, [VARIABLE 2] = List of Specific Features of the Product, [VARIABLE 3] = a List of product Weight, Size, Dimension, Package contents, or Bundle set, [VARIABLE 4]= any other information of the product.
+[TARGETLANGUAGE] = English.
+Be Illustrative and Specific, Also Categorise your result into these Categories and Sub-headings 
+"Introduction"  = [What is [PROMPT]? ,  [PROMPT] and components of [PROMPT]], 
+ 2 = use Subheading "Benefits and Features :" Must Use a Table to Illustrate your result, Simplify in lists of Bullet points, Maximum of 6 bullet-Points = The Benefits of the Product in [PROMPT] + Specific Features of the Product in [PROMPT] + Material composition of the Product in [PROMPT] + Real-World Applications of the Product in [PROMPT] + summarise any other relevant Information such as; abilities of [PROMPT], Advantages of product [PROMPT], durability and storage ability of product [PROMPT],  package style or Design of product in [PROMPT].
+3 = Use Subheading "Product Specification:" = Create a Table of the "specifications" and "features" and "attributes" Using available internet resources on the product in [PROMPT]. Detail in this Category must be nested in the table of maximum 3 Columns with the following attributes of "Brand"= Brand Name of [PROMPT], "Country of Manufacture"= Country of Origin, "Model No"= "If Applicable", "Product Weight" = Actual weight of the [PROMPT], "Bundle Set" = "an example 2 Unit or a Pair","Product Dimension", "Package Content" = [PROMPT]Title "x 1", "Number of Boxes"=default of "1 Box"
 
+End your Result with -
+[Use Subheading "Key Tags:" = Perform an advanced Google search and Create a List of 20 Keywords and searchable tags associated with the Products [Prompts]]

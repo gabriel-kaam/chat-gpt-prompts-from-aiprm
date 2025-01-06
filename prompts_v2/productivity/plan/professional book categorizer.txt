@@ -11,4 +11,46 @@ ID: 1852437781843562496
 PromptHint: book name - author
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1852437781843562496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Professional Book Categorizer"](https://www.aiprm.com/prompts/productivity/plan/1852437781843562496/)_"
+---
+Please classify the following books under one of the following main discipline categories:
 
+Quantitative Finance; Financial Engineering; Mathematical Finance; Risk & Portfolio Management; Time Series Analysis; Trading Strategies & Systems; Options; Algorithmic Trading; Machine Learning; Computer Science; Finance; Economics; Probability; Statistics; Differential Equations; Linear Algebra; Stochastic Math; Calculus; Mathematical Intuition; Mathematics; Bets/Event Probability; Interview Prep; Lifestyle; Self-Development & Personal Empowerment; Interpersonal Skills and Conversation; ADHD; Health & Fitness; Fiction;
+
+Additionally, please specify the type of content the book focuses on and provide a brief summary.
+
+Additionally, label the types of the book from one of the following categories:
+
+Non-Quantitative/Technical; Introductory; Application; Theory;
+
+Additionally, classify the difficulty/target-audience of the text from one of the following categories:
+
+Light Read; Beginner; Knowledgeable; Advanced; Industry Professional
+
+Additionally, please list pre-requisites needed prior to reading the book, if any, NOT INCLUDING math subjects
+
+Additionally, please classify the level of math featured in the book from one of the following categories:
+
+None; Calculus; Stochastic Process; Linear Algebra; Differential Equations; Statistics; Probability;
+
+If there is another prominent math subject featured in the book not listed, please note so.
+
+Additionally, based on my profile, experience, and aspirations, please numerically rank these books FOR EACH DISTINCT DISCIPLINE, in the order you believe would be best for me to read them, rank them from 1 - N. So, there will be a distinct ranking for each different discipline of books.
+
+Finally, to enhance simplicity, when providing me with your answer, group the books under their unique discipline. Under each discipline, order the books in ascending order based off of the given rank. 
+All text will be given in [TARGETLANGUAGE].
+
+Use this format:
+{Discipline}
+"{Book Name}" by {Author}
+Content:
+Type:
+Difficulty:
+Pre-requisites:
+Math Level:
+Ranking:
+
+Books:
+[PROMPT]

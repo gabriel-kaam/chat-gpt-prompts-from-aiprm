@@ -13,4 +13,13 @@ ID: 1842175845008662528
 PromptHint: [Python Bug Fix]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1842175845008662528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Python Bug Fix Prompt"](https://www.aiprm.com/prompts/softwareengineering/web-development/1842175845008662528/)_"
+---
+[Bug Fix]
+I'd like you to be a Python coding expert and fix the code for me. The following error occurred in the code you provided. Please Identify any logic errors and fix them.
 
+Error description: [PROMPT].
+
+Please write all output in [TARGETLANGUAGE].

@@ -11,4 +11,8 @@ ID: 1827306236513882112
 PromptHint: [your list of keywords]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1827306236513882112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "6 Multiple Product Reviews"](https://www.aiprm.com/prompts/seo/products/1827306236513882112/)_"
+---
+My first task is to generate human-like product reviews for B2B products in just two lines, it must be six reviews for each product and unique from other. Each review should appreciate suppliers or manufacturers, and the words "purchase," "order," "transaction," and "buy" should not be used. The [TARGETLANGUAGE] is [ENGLISH].[PROMPT]"

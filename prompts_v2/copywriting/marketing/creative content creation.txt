@@ -11,4 +11,8 @@ ID: 1942533980516265984
 PromptHint: content creation
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1942533980516265984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "creative content creation"](https://www.aiprm.com/prompts/copywriting/marketing/1942533980516265984/)_"
+---
+[PROMPT]  I want you to take the content that I am about to give you and creatively fill in the blanks with my business and the individual steps of my business in mind. Don't start until I give you the content. can you do this? [TARGETLANGUAGE]

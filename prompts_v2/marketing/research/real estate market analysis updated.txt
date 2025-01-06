@@ -20,4 +20,20 @@ ID: 1798876309221543936
 PromptHint: What city/town/region/etc. would you like to analyze? 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1798876309221543936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Real Estate Market Analysis [Updated]"](https://www.aiprm.com/prompts/marketing/research/1798876309221543936/)_"
+---
+Provide a market analysis on [PROMPT] for 2011-2021, using reputable sources.  Provide data on the following KPIs: Population Growth, Job growth, median household income, median home values, crime rate.  
+
+ Provide the output in [TARGETLANGUAGE]. Provide the following output: 
+
+1) a data table  in [TARGETLANGUAGE] that shows the data for each KPI. the columns will be the years, and show the actual data figure, and then the last 2 columns will show "total % change over time", and "avg % change over time". 
+
+2)  Cite you sources in [TARGETLANGUAGE] for the KPI data.
+
+3) A detailed and analysis in [TARGETLANGUAGE] of unique economic, development, and/or regional challenges that exist or are unique to the area
+
+4) A detailed and expanded analysis in [TARGETLANGUAGE] of  positive economic or development opportunities that exist in the area, especially those of interest to an investor. Do not write a conclusion unless instructed. 
+
 

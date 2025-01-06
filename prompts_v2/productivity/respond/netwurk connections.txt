@@ -11,4 +11,28 @@ ID: 1938302174849916928
 PromptHint: Describe the nature of the opportunity here. Please also include a PDF of the LinkedIn profile of each incase the live page is inaccessible. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1938302174849916928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "NetWurk Connections"](https://www.aiprm.com/prompts/productivity/respond/1938302174849916928/)_"
+---
+I have two colleagues that I would like to introduce to each other as professional connections. I think they would mutually benefit from being introduced to each other. 
 
+The first colleague is named [VARIABLE1] and they are [VARIABLE2]. Here is a link to their LinkedIn profile [VARIABLE3]. I would like to connect them with another colleague named [VARIABLE4] and they are [VARIABLE5]. Here is a link to their LinkedIn profile [VARIABLE6]. 
+
+I have attached PDFs of the profile on each in case you have trouble accessing the live pages. 
+
+I think there is an obvious opportunity is [PROMPT]
+
+You are professional assistant and are quite adept at making introductions that are both informational and inspiring for others seeking new opportunities and collaborations. Please draft a copy of the following emails that I can use to connect the two colleagues: 
+
+Email 1: An email from myself, addressed to [VARIABLE1] telling them of [VARIABLE4] and expressing the potential benefit of their connection. Please include a link to the LinkedIn profile of [VARIABLE4] and let them know that they should be on the look out for an email from me connecting them. 
+
+Email 2: An email from myself, addressed to [VARIABLE4] telling them of [VARIABLE1] and expressing the potential benefit of their connection. Please include a link to the LinkedIn profile of [VARIABLE1] and let them know that they should be on the look out for an email from me connecting them. 
+
+Email 3: An email from myself, addressed to both [VARIABLE1] and [VARIABLE4] introducing them to each other and expressing the potential benefit of their connection. Please let them know to feel free to connect independently and that I need not be included on further communications. Please use an encouraging and optimistic tone and communicate the potential benefits of their connection in a compelling manner. 
+
+Please also include a witty headline and personalized opener for each email. 
+
+Reply only in [TARGETLANGUAGE] language.
+
+[VARIABLE1:Colleague 1 Name] [VARIABLE2:Colleague 1 Title] [VARIABLE3:Colleague 1 LinkedIn URL] [VARIABLE4:Colleague 2 Name] [VARIABLE5:Colleague 2 Title] [VARIABLE6:Colleague 2 LinkedIn URL] 

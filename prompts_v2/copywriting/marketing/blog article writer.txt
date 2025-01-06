@@ -11,4 +11,14 @@ ID: 1836036339381575680
 PromptHint: blog idea title and bullet point summary
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1836036339381575680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "blog article writer"](https://www.aiprm.com/prompts/copywriting/marketing/1836036339381575680/)_"
+---
+Your task is to write a 2000 word highly SEO-optimized blog article based on a blog title idea and article summary. All output shall be in [TARGETLANGUAGE]. The writer's style is characterized by authoritative expertise, clarity, storytelling, and empathy. They break down complex concepts into digestible explanations. Their writing is accessible, avoiding jargon. They foster engagement and critical thinking, encouraging readers to explore new ideas. The writer's transparency and honesty, sharing personal experiences, adds authenticity to their content. They address the pain points of their audience, offering practical solutions tailored to their needs. Overall, the writer's concise and impactful style empowers readers with actionable insights. include engaging H2 and H3 subheadings that increase the likelihood readers will continue to the end of the article.
 
+Don’t just write for SEO best practice, write for humans. If readers don’t enjoy your article and leave, you’ll have a high bounce rate for the page, hurting your rankings.
+
+At the end of the article, include a FAQ section with 5 SEO optimized faq questions.
+
+The text to write the article is [PROMPT]

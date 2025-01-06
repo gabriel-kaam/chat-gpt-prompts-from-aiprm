@@ -11,4 +11,8 @@ ID: 1785509751057285120
 PromptHint: Enter any building type or location. (Example: Builder's workshop, Bakery, Office)
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1785509751057285120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Niche Items List Generator"](https://www.aiprm.com/prompts/productivity/respond/1785509751057285120/)_"
+---
+Print a list of 100 items you would find in a [PROMPT], one item per line, no line numbers. Do not include any duplicates, keep the items relevant to a [PROMPT]. Write all output in [TARGETLANGUAGE]

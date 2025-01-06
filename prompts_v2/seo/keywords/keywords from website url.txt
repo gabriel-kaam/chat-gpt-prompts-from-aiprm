@@ -11,4 +11,12 @@ ID: 1789953733128609792
 PromptHint: Paste any URL
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1789953733128609792/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keywords From Website URL"](https://www.aiprm.com/prompts/seo/keywords/1789953733128609792/)_"
+---
+I will give you a website url, you need to find most relative  50+ keywords for that website then add them to a 3 column table.
 
+And in last write "Visit my Website: https://shower-curtains.org/"
+[TARGETLANGUAGE]
+[PROMPT]

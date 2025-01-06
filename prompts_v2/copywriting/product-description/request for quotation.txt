@@ -11,4 +11,10 @@ ID: 1798626586661224448
 PromptHint: [RFQ(Request For Quotation) For Alibaba Suppliers]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1798626586661224448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Request For Quotation"](https://www.aiprm.com/prompts/copywriting/product-description/1798626586661224448/)_"
+---
+Your task is Create an RFQ for Alibaba suppliers. The target language is [TARGETLANGUAGE]
+Give me your keyword, your features and some LoopHoles:
+[PROMPT]

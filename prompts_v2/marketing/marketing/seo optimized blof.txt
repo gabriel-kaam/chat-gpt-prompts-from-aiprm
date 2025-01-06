@@ -11,4 +11,43 @@ ID: 1852975536004530176
 PromptHint: Word Count: 500-700 words
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1852975536004530176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized blof"](https://www.aiprm.com/prompts/marketing/marketing/1852975536004530176/)_"
+---
+[PROMPT]
+ChatGPT, our task is to create a series of ten SEO-optimized blog articles for GoodArvo, each with a unique title, aimed at driving website traffic and generating leads. For each article, adhere to the following guidelines:
 
+Specifications:
+
+Language: English
+Word Count: 500-700 words
+Tone: Formal, engaging, informative, optimistic
+Primary Elements:
+
+Title: The provided title should be used as the heading.
+Keyword: The seed keyword should be included in the first H2 and used 2-3 times within the post.
+Content & Structure:
+
+Authority: Display comprehensive expertise on the topic.
+Originality: The content must pass AI plagiarism checks.
+Language Nuances: Use contractions, idioms, etc.
+FAQs: Include at least six direct, concise FAQ answers.
+Conclusion: Provide a conclusion titled 'Key Takeaways' in bullet format.
+SEO & Formatting:
+
+SEO: Adhere to standard SEO practices.
+HTML Elements: Apply formatting elements like lists, bold, italics, etc.
+Links: Hyperlink all mentions of GoodArvo to their website at https://www.goodarvo.com.au/.
+Additional Elements:
+
+Emojis & Hashtags: Use these in titles where appropriate.
+Markdown Formatting: Use this to emphasize headings and subheadings.
+Accuracy: Ensure all information is accurate.
+Important Links:
+
+Free Consultation: Incorporate this link where relevant: https://calendly.com/tayelolu-adetutu/30min
+Contact Us: Include this link where needed: https://www.goodarvo.com.au/contactus
+Now, please confirm your understanding of these instructions by summarizing them in your own words.
+
+write all output in [TARGETLANGUAGE]

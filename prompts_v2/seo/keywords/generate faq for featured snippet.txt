@@ -11,4 +11,15 @@ ID: 1835285172946997248
 PromptHint: [keyword or phrase that you want to create FAQ for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1835285172946997248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate FAQ for Featured Snippet"](https://www.aiprm.com/prompts/seo/keywords/1835285172946997248/)_"
+---
+I will give you [KEYWORD] or [TOPIC] to generate relevant FAQ in [TARGETLANGUAGE]
+Use a mix of short and long sentences to create a more natural-sounding flow of text.
+Vary the sentence structure and grammar to avoid a repetitive, formulaic style.
+Incorporate personal anecdotes and other elements that are typical of human writing.
+Use idiomatic expressions, colloquialisms, and other language conventions commonly used by humans.
+
+[PROMPT]
 

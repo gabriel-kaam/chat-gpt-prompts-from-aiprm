@@ -11,4 +11,14 @@ ID: 1816520211818606592
 PromptHint: Insert your list of keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1816520211818606592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comprehensive Article Brief From Keyword List"](https://www.aiprm.com/prompts/copywriting/writing/1816520211818606592/)_"
+---
+Write the an article brief which contains the structure for an article  in [TARGETLANGUAGE] that targets the following keywords: [PROMPT].  This article should include an intro section (emphasize that this intro should be BRIEF) with 2-3 bullet points of what the intro should include. The article should then include 8-10 heading sections (each heading should start with "H2: " to clarify this is a heading, and be in bold) with at least 3-4 bullet points detailing what should be written in the paragraph(s) under each heading. These bullet points are written to explain what the  writer of this article should focus on for each paragraph - they are not written for an article reader. Each bullet point should be a complete sentence. Do not duplicate content.
 
+Everything should be written in [TARGETLANGUAGE] and as if you were a talented SEO and Copywriter who spoke fluent [TARGETLANGUAGE]. 
+
+After each section, include on a new line the top 2-3 keywords that should be targeted in that section. Use keywords from this list "[PROMPT]". This sentence should start with the words "Optional keywords for targeting are: " and then list the related keywords in italics.
+
+Lastly, create an FAQ section with 10 questions related to these keywords: [PROMPT]

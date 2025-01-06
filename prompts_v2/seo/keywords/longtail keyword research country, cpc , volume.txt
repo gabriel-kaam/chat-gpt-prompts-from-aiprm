@@ -11,4 +11,11 @@ ID: 1791391224083775488
 PromptHint: [Type Keyword or kw + , + Country]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1791391224083775488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Longtail Keyword Research Country, CPC , Volume"](https://www.aiprm.com/prompts/seo/keywords/1791391224083775488/)_"
+---
+generate a table for 40 long tail related keywords 2-5 words with cpc , difficulty, and volume on the basis of user search intent by country which i given on the following primary keyword:
+also write source of cpc 
+[TARGETLANGUAGE]
+[PROMPT]

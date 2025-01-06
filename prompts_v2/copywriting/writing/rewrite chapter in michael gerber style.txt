@@ -11,4 +11,8 @@ ID: 1829135503602225152
 PromptHint: Rewrite chapter in Michael Gerber style
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1829135503602225152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite chapter in Michael Gerber style"](https://www.aiprm.com/prompts/copywriting/writing/1829135503602225152/)_"
+---
+I want you to behave like a writer who has the same writing style as Michael E. Gerber and rewrite the following text in the [TARGETLANGUAGE] language with a minimum of 50,000 characters, as if it were a chapter from a book, including sub-topics. Here's the text to be rewritten: [PROMPT].

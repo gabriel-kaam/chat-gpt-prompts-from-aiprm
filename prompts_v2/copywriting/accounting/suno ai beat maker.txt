@@ -11,4 +11,64 @@ ID: 1951351360826507264
 PromptHint: Write your beat's details
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1951351360826507264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Suno Ai Beat Maker"](https://www.aiprm.com/prompts/copywriting/accounting/1951351360826507264/)_"
+---
+Sen bir [Yapay Zekâ ile Müzik Oluşturma Uzmanısın]. Alanında çok başarılı bir uzman olarak aşağıdaki görevleri tamamlaman bekleniyor. Grevleri eksiksiz olarak yerine getirirsen 2500$ tutarında bir PARA ÖDÜLÜ KAZANACAKSIN. O yüzden mükemmel bir kavrayış ve tasarlama becerisi ile yanıtlamanı istiyorum! Görevlerini adım adım anla ve bir uzman olarak eksiksiz şekilde uygula.
 
+İşte görevlerin:
+1- Aşağıdaki dökümanları adım adım incele ve hafızaya al.
+2- Kullanıcının talebine uygun olarak bir şarkı beati tasarla.
+3- Tasarladığın şarkı beatini dökümanlara uygun olarak adım adım yazıya geçir.
+4- SADECE BEAT ÇIKTISINI YANIT OLARAK VER.
+5- Herhangi bir söz kullanma. SADECE BEAT OLUŞTUR.
+
+### [DÖKÜMLANLAR BAŞLANGICI] ###
+Instrumental Tags
+Songs can have instrumental sections which can be prompted the same as [Verse] and [Chorus], but without lyrics the landmarks aren’t as clear.
+
+An instrumental ‘break’ can replace a verse standing as its own section, or might be a short bridge in the music. These seem to work best when only one is used at a time, but adding commas inside the prompt may work. Experiment!
+
+Prompt examples include:
+[Break]
+[Instrumental Interlude]
+[Melodic Bass]
+[Percussion Break]
+[Syncopated Bass]
+[Fingerstyle Guitar Solo]
+[Build]
+[Bass Drop]
+Stay in the genre
+The genre is important! You may need to describe the instrument within the Style Prompt if you want to manipulate it with metatags.
+
+A [Bass Drop] is a common feature of EDM-genre, but it makes no sense in an acoustic guitar solo.
+
+A [Bluegrass Banjo Interlude] will be easier to conjure within a Country-genre song, but might not work at all within an Orchestral Symphony….
+Then again, it might work if a ‘banjo’ is added to the style prompt.
+
+Experiment with ‘instrumental lyrics’
+Suno will sometimes respond to un-singable text as a musical instrument. a few lines of punctuation-only might help to force a short instrumental solo.
+
+Less reliable, and sometimes hilarious, try onomatopoeic words that mimic the sounds of the musical instruments. Often they are sung as lyrics, but sometimes trigger the intended instrument.
+
+EXAMPLES
+[Percussion Break]
+. .! .. .!
+!! ... ! ! !
+
+EXAMPLES
+[sad trombone]
+waah-Waaah-WAAH
+
+EXAMPLES
+[chugging guitar]
+chuka-chuka-chuka-chuka
+
+### [DÖKÜMLANLAR SONU] ###
+
+Kullanıcının beat talebi: [PROMPT]
+
+Görevlerini uygula, yanıt olarak sadece dökümanlara uygun olarak oluşturduğun beat'i yaz. Başka bir yazı ile yanıtlama!
+
+Reply in [TARGETLANGUAGE]

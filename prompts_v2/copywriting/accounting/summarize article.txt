@@ -11,4 +11,18 @@ ID: 1836648693806940160
 PromptHint: [Your question instruction]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1836648693806940160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "summarize article"](https://www.aiprm.com/prompts/copywriting/accounting/1836648693806940160/)_"
+---
+I've recently come across an article that I would like to better understand. Here's the link to it: [PROMPT]. Could you please analyze this and provide me with a concise and clear summary? 
 
+I would appreciate it if you could structure your response in the following manner:
+
+1. **Summary**: Start with a single sentence that effectively summarizes the entire article. This sentence will serve as the topic for the rest of your response.
+
+2. **Key Takeaway**: Next, identify the most crucial point in the article that readers should remember. Please highlight any elements that need to be approached with caution.
+
+3. **Further Research Suggestions**: Finally, based on your understanding of the article, please recommend some areas for further investigation. This can be related to points that were only briefly touched upon in the article or topics that you think are logically connected but were not discussed at all.
+
+Remember, I'd like your response to be presented in a Markdown format and the summary to be translated into [TARGETLANGUAGE]. Looking forward to your precise and condensed feedback.

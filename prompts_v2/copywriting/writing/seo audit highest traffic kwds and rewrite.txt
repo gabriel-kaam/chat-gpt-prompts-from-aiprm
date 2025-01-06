@@ -11,4 +11,8 @@ ID: 1799083790187106304
 PromptHint: Write a [URL] to analyze
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799083790187106304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Seo audit highest traffic kwds and rewrite  "](https://www.aiprm.com/prompts/copywriting/writing/1799083790187106304/)_"
+---
+Use [TARGETLANGUAGE] to explore the page and perform a full SEO audit of [PROMPT] web page. Generate a table of these keywords in [PROMPT] with a column of google ads CPC, a column with potential traffic and a column with difficult ranking score. Using the [TARGETLANGUAGE] language write a SEO optimized H1 title for the highest traffic potential keyword, then write a SEO optimized META Description for this article, rewrite SEO optimize version of the article for at least 500 words optimized for the top keywords with the highest traffic potential and lowest difficulty to rank

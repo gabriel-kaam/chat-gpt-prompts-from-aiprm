@@ -11,4 +11,68 @@ ID: 1860011570060058624
 PromptHint: Business Services
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1860011570060058624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Cold Email Outbound Sales Campaign"](https://www.aiprm.com/prompts/copywriting/writing/1860011570060058624/)_"
+---
+Act as a sales expert who excels at writing outbound cold emails.
 
+Write a [VARIABLE1] email cold outbound campaign, for my business, [VARIABLE2] in the [VARIABLE3] Industry about [PROMPT] in [TARGETLANGUAGE]. 
+
+Keep the emails Brief: Aim for brevity. A long, dense email is likely to get ignored. Use clear, concise language.
+Avoid Sales Jargon: Be genuine and avoid using buzzwords or overly technical terms that might alienate the reader.
+
+First, provide a recommended cadence for the email campaign.
+
+Then, using the [VARIABLE4] sales email framework, write each email to effectively achieve the goal of the campaign.
+
+• Offer 3 Subject Lines for each email
+
+Include the following in the body of the first email.
+
+• Personalized Introduction: Address the recipient by name and mention [VARIABLE5] to show that this isn't a generic mass email.
+• Value Proposition: Clearly state the offer and how it can benefit the recipient or their business.
+• Credibility Statement: Provide evidence or credentials that support why they should trust or engage with you. This could be a notable client you've worked with, a case study, or an impressive result.
+• Call to Action (CTA): Clearly indicate what you'd like them to do next, whether it's scheduling a call, replying to the email, or checking out a link.
+• Sign-off: End with gratitude (thanking them for their time) and include your full name, title, and company details.
+
+Adjust following emails accordingly without being too repetitive. If you need more details for following emails, ask.
+
+Leave placeholder opportunities for recipient’s first name, sales rep sign off, other prospect personalization throughout the email and the opportunity to add in any resources of relevant links like a case study, blog post, or even a website.
+
+[VARIABLE1:Number of emails],[VARIABLE2:Business Name],[VARIABLE3:Industry],[VARIABLE4:Email Copy Framework::PAS|AIDA|Before-After-Bridge|4P’s|QQC],[VARIABLE5:Prospect Detail][VARIABLE6:What’s your key offer and benefit?]
+
+For Reference - Sales Email Frameworks:
+
+PAS -
+Problem: describe the pain point that the consumer has.
+Agitate: discuss how it will only get worse without a solution.
+Solve: provide the solution.
+
+AIDA -
+Attention: draw in the attention of the reader with an interesting statement.
+Interest: keep them going with a supporting statement. 
+Desire: explain how the product solves their problems or gives them an advantage.
+Action: tell them how to grab what you are offering.
+
+Before-After-Bridge -
+Describe a 'before' scenario (the problem), paint a picture of the 'after' (the solution), and then present your product/service as the bridge to get from before to after.
+
+4P's -
+Pain: Identify a pain point relevant to the recipient.
+Promise: Assure them you have a solution to that pain.
+Proof: Provide evidence (e.g., a case study, testimonial, or stat) that
+supports your claim.
+Proposal: Make a proposal or CTA, such as scheduling a demo or call.
+
+QQC -
+Question: Open with a thought-provoking question tailored to the recipient's context or business.
+Qualify: Position your product or service as the answer to the posed question or problem.
+Close: Encourage them to take the next step with a CTA.
+
+Do not explicitly mention any part of the email framework in the copy!!
+
+Do NOT explicitly mention Problem, Agitate, or Solve in the email copy.
+Do NOT explicitly mention Attention, Interest, Desire or Action in the email copy.
+Do NOT mention Pain, Promise, Proof, or Proposal in the email copy.
+Do NOT explicitly mention Before or After in the email copy.

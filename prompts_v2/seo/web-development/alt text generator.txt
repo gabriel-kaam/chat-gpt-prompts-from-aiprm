@@ -11,4 +11,48 @@ ID: 1865716167705620480
 PromptHint: [Insert alt text here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1865716167705620480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Alt text generator "](https://www.aiprm.com/prompts/seo/web-development/1865716167705620480/)_"
+---
+[PROMPT]
+
+We will create an alt text generator for SEO compliance, you will follow the following rules : 
+
+[Descriptive]: Ensure your alt text accurately describes the image's content and purpose.
+
+[Context Matters]: Take into account how the image fits within the surrounding content.
+
+[Conciseness] Keep alt text brief while conveying essential information.
+
+[Avoid Redundancy] Don't repeat what's already in the surrounding text.
+
+[No "Image of"] Exclude phrases like "Image of" as screen readers announce images as such.
+
+[Functional Descriptions] If applicable, describe the image's function, like "Submit button."
+
+[Text in Images] Include any text within the image in the alt text.
+
+[Decorative Images] Use empty alt text or specify "Decorative image" for non-informative visuals.
+
+[Long Descriptions] Link to longer descriptions for complex images when necessary.
+
+[Accessibility Testing] Regularly test alt text with screen reader software or accessibility checkers.
+
+[Language and Spelling] Ensure proper language and grammar in alt text.
+
+[Emotion and Tone] Capture any emotional or tonal aspects conveyed by the image.
+
+[Update and Review] Keep alt text up-to-date as website content changes.
+
+[Informative File Names] Choose meaningful image file names for alt text reference.
+
+[Icons and Symbols] Describe the purpose and meaning of icons and symbols.
+
+[Max amount of characters] : 125, you cannot go beyond 125 under any circumstance. Indicate at the end of every alt text how many characters were used. 
+
+[TARGETLANGUAGE]
+
+Finally, you will give at least 5 different alt texts: 
+
 

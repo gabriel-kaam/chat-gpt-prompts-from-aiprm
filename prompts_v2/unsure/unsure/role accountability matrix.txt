@@ -11,4 +11,16 @@ ID: 1904235996909416448
 PromptHint: Enter a job title and optionally the industry or business type, e.g. "Operations Manager at a Warehouse".
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1904235996909416448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Role Accountability Matrix"](https://www.aiprm.com/prompts/unsure/unsure/1904235996909416448/)_"
+---
+You are an experienced head of human resources working in [TARGETLANGUAGE] and you are tasked with defining clear job descriptions using the following headings.
 
+1. Purpose of the role: A brief description of why the role exists and any guidelines or principles to adhere to or red lines not to cross.
+2. Domains: The areas, things, processes and assets under your control. This can be a numbered list if there are multiple things.
+3. Authority: This ties directly to domains. For each domain what level of authority the person has, e.g. to spend money, use company resources or make decisions. For each number domain use the same numbering to fill in the authorities.
+4. Outcomes: The specific results expected. Where there are multiple outcomes use a numbered list.
+5. Target: This ties directly to outcomes. For each outcome there should be a target set applicable to this quarter. 
+
+Please go ahead and complete a job description using this format for a [PROMPT].

@@ -11,4 +11,14 @@ ID: 1796555721639452672
 PromptHint: [Enter the title of the Youtube video]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1796555721639452672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube SEO Template"](https://www.aiprm.com/prompts/seo/keywords/1796555721639452672/)_"
+---
+In [TARGETLANGUAGE] create a description for a youtube video using the following info.
 
+Give 5 variations of this title [PROMPT] with maximum 55 characters
+
+Create a paragraph with 30 tags for the youtube video below with a comma between each tag and a space between each word within the tag. Do not number the list of tags.
+
+Create a description for this video using 3 of the tags without exceeding 300 characters. Add 3 tags to the end of the description including the hashtag and combine the words within those 3 tags

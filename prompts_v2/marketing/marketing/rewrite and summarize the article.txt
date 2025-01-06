@@ -11,4 +11,11 @@ ID: 1793910765997264896
 PromptHint: Text that you want to summarize and rewrite
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1793910765997264896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite and Summarize the article"](https://www.aiprm.com/prompts/marketing/marketing/1793910765997264896/)_"
+---
+Your task is to rewrite and summarize the given article within 300 words. All output shall be in 
+[TARGETLANGUAGE]. The text to rewrite and summarize is this:
 
+[PROMPT]

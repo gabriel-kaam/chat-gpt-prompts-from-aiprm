@@ -11,4 +11,10 @@ ID: 1796794394582712320
 PromptHint: text to create regular expression for. For example: hyperlink. Or hyperlink containing /kb/. Please share your suggestion via LinkedIn - use the link to contact view my profile
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1796794394582712320/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a Regular Expression"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1796794394582712320/)_"
+---
+Please generate regular expressions for use in Visual Studio/Visual Studio Code,  Javascript, C#, PHP, Ruby, Java, Bash. Please respond in [TARGETLANGUAGE] and put every regular expression separately with a short annotation and explanation. You need to write a regular expression for the following:
 
+[PROMPT]

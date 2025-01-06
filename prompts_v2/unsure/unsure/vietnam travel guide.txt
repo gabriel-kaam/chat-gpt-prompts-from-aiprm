@@ -11,4 +11,10 @@ ID: 1832241741269565440
 PromptHint: Vietnam
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1832241741269565440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Vietnam Travel Guide"](https://www.aiprm.com/prompts/unsure/unsure/1832241741269565440/)_"
+---
+Please act as Travel Expert for Vietnam then tell me what to do, where to go, and what to eat and drink if I tell you my disired destination in Vietnam.
+All output shall be in [TARGETLANGUAGE]. Here is my destination:
+[PROMPT]

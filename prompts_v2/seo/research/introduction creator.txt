@@ -11,4 +11,18 @@ ID: 1820077308195893248
 PromptHint: your [title] here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1820077308195893248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Introduction Creator"](https://www.aiprm.com/prompts/seo/research/1820077308195893248/)_"
+---
+Write me an introduction for the guide on [PROMPT]. Use the focus keyword in the first line.
 
+- Don't make it long. Keep it short.
+
+- Tease the reader and hook them so that they want to read the guide
+
+- Make it 3 sentences maximum
+
+- Keep it concise, crunchy and informal
+
+-output must be in [TARGETLANGUAGE]

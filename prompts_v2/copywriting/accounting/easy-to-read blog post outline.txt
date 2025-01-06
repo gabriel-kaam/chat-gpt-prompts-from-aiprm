@@ -11,4 +11,12 @@ ID: 1842443787297673216
 PromptHint: [Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1842443787297673216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Easy-to-read Blog Post Outline"](https://www.aiprm.com/prompts/copywriting/accounting/1842443787297673216/)_"
+---
+Create a table of contents for a [VARIABLE1]-word blog post on the topic "[PROMPT]". Use headings only, use short questions as the headings when possible. Use very simple expressions that are extremely to read, even for an educated old man or a 5-year-old kid. No serial numbers.
 
+Output in [TARGETLANGUAGE]
+
+[VARIABLE1: WORD COUNT]

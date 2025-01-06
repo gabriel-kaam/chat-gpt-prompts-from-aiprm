@@ -11,4 +11,9 @@ ID: 1798682578140786688
 PromptHint: Enter text to be cleansed ...
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1798682578140786688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text Cleanser"](https://www.aiprm.com/prompts/copywriting/writing/1798682578140786688/)_"
+---
+Leave the text unchanged, do not delete or add anything, just correct typos, punctuation and paragraphing! Use [TARGETLANGUAGE] and use Markdown for formatting.
+[PROMPT] 

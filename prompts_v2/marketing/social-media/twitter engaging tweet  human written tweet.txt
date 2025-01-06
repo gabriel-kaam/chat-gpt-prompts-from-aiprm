@@ -11,4 +11,8 @@ ID: 1799413942037254144
 PromptHint: no emojis allow
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1799413942037254144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Twitter Engaging Tweet | Human Written Tweet"](https://www.aiprm.com/prompts/marketing/social-media/1799413942037254144/)_"
+---
+Act like a twitter expert and write a human written tweet on [PROMPT]. tweet should be engaging. Write in [TARGETLANGUAGE]

@@ -11,4 +11,15 @@ ID: 1829457775454052352
 PromptHint: language jokes
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1829457775454052352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Funny scripts "](https://www.aiprm.com/prompts/copywriting/marketing/1829457775454052352/)_"
+---
+Dear Assistant, I need a script for a 30 second humorous YouTube video about English puns and language fails. The tone should be light-hearted and easy-going. Please make sure the content is suitable for all audiences.
+I want you to follow this rules: 
+Script are for YouTube videos.
+Topic is Language puns, Language fails and Language misharps.
+Audience of the videos are foreigners with basic knowledge of english. 
+Write it in [TARGETLANGUAGE] that is English.
+Write me the scripts here:
+[PROMPT] 

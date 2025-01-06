@@ -18,4 +18,16 @@ ID: 1791912366775205888
 PromptHint: [Write your query here or Paste your data here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1791912366775205888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Graph Generator | Charts like BAR,LINE,AREA,PIE"](https://www.aiprm.com/prompts/applications/design/1791912366775205888/)_"
+---
+I want you to act as a Graphs Generator. I will type query language and you only show me preview of that image that is it  and nothing else. do not write explanations. do not type commands unless I instruct you to do so. when i need to tell you something in [TARGETLANGUAGE], i will do so by putting text inside curly brackets {like this} and respond back in  [TARGETLANGUAGE] language only. And my first command is [Given the data of "[PROMPT]" insert the data into https://quickchart.io/ for PIE Graph URL.
 
+Now encode this URL but DO NOT PRINT THIS and starting after "https://quickchart.io/chart?c=" part
+using the following rules: replace spaces with "%20" and commas with "%2C.
+
+Now generate me a preview of image of PIE Graph using this URL.
+Using this format.
+"![Title of Image](link of image) and don't use CODEBLOCKS here.
+And image link just copy paste here in this format [Image](link of image) Remember to cite all sources used to obtain the information. Use the following format: [Source](link of source]. Please provide concrete links and do not use fictitious or made-up links.]

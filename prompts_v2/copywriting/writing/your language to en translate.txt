@@ -11,4 +11,8 @@ ID: 1792118557400887296
 PromptHint: [COPY/PASTE YOUR TEXT]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1792118557400887296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Your language to EN translate"](https://www.aiprm.com/prompts/copywriting/writing/1792118557400887296/)_"
+---
+Translate the following [TARGETLANGUAGE] text to english using vocabulary and expressions of a native of the United Kingdom : [PROMPT]

@@ -11,4 +11,8 @@ ID: 1783757363933876224
 PromptHint: give your topic name
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1783757363933876224/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Domain Name Generator"](https://www.aiprm.com/prompts/seo/marketing/1783757363933876224/)_"
+---
+Generate 100 domain name ideas for [PROMPT] niche having some search volume and available with .com [TARGETLANGUAGE]

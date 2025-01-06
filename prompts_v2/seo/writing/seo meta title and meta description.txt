@@ -12,4 +12,20 @@ ID: 1791807701295300608
 PromptHint: [write a keyword or a topic. eg. social media marketing or 10 tips for social media marketing]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1791807701295300608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Meta title and Meta Description"](https://www.aiprm.com/prompts/seo/writing/1791807701295300608/)_"
+---
+I want you to act as a content marketer specializing in on-page SEO with a decade of experience.
+I want you to write an eye-catchy meta title and meta description for a blog post with the keyword "[PROMPT]" while ensuring that the meta title is 60 characters max and meta description is 160 characters max. All output shall be in [TARGETLANGUAGE]. 
 
+Follow these instructions:
+1. Mentioned the characters at the end of the Meta title and meta description.
+2. Ensure the meta title is 60 characters maximum.
+3. Ensure the meta description is 160 characters maximum.
+4. Use a conversational tone using simple language, avoiding jargon and complex terms.
+5. Please be natural, write like a human.
+
+After writing, write: "Share your feedback or Connect with me on LinkedIn  https://www.linkedin.com/in/hussainsilat/"
+
+At last, write "Instruction: Google's SERP update removed website names from Meta titles. you can use 60 characters in Meta titles."

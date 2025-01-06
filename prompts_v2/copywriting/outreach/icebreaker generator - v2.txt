@@ -11,4 +11,28 @@ ID: 1883824521820786688
 PromptHint: [Insert the linkedin profile using > [Name of the field] ]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/1883824521820786688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Icebreaker Generator - V2"](https://www.aiprm.com/prompts/copywriting/outreach/1883824521820786688/)_"
+---
+Please forget anything we've said before. Act as if you were an excellent recruiting copywriter, you will be assigned a task to accomplish.
+#Context of the task: 
+Building an email + linkedin sequence to reach out to candidates for a given job. You are assigned to do the icebreaker of the sequence that will be input into a variable that will be used before pitching the job description
+#Your task: 
+At the end you will be given the LinkedIn profile of the talent we want to contact. Using STRICTLY this information, you will write a shortlist of 5 ice-breakers that will genuinely and creatively open the conversation. The ice-breakers must be spikes of creativity, it needs to sincerously trigger the interest of the person so that we have a great open rate and the employer brand is not negatively affected. 
+When creating an icebreaker, pick one of these options : 
+- Option 1 : There is something original, special or unique on the given LinkedIn profile, that could be creative to use to open the conversation genuinely. This option is where you will be free to explore any creative and original you can have. This is typically where references, play of words or jokes can be used.
+- Option 2 : There is only basic and generic content, so you will need to use this clear and polite pattern : 
+Just noticed that [...], so I figured to reach out. 
+#Each icebreaker output format:
+- Less than 60 characters
+- No question inside, only declarative sentence. 
+- [TARGETLANGUAGE]
+- Friendly tone of voice
+- No sugarcoating
+Lastly but MOST IMPORTANTLY, always answer giving a single and only JSON code containing the ice-breakers in the following format :
+{Ice-breaker_1, Ice-breaker_2, Ice-breaker_3, Ice-breaker_4, Ice-breaker_5}
+Don't return anything but the JSON formatted message. 
+-----
+#THE LINKEDIN PROFILE : 
+[PROMPT]

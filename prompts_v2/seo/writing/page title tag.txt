@@ -11,4 +11,11 @@ ID: 1925910849169133568
 PromptHint: [The focus keyword you want to be included in your page title tag]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1925910849169133568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "page title tag"](https://www.aiprm.com/prompts/seo/writing/1925910849169133568/)_"
+---
+Your task is to write an optimized page title tag that is within the 60 character limit, and this has to include the spaces between the words for the Serps on Google,  that includes the focus keyword while trying to get the focus keyword as close to the beginning as possible without taking away from the readability and ensuring it is enticing and engaging to increase the clickthrough rate from the Serps.
+All output shall be in  in [TARGETLANGUAGE] . The keyword to include in the page title tag is  this:
 
+[PROMPT]

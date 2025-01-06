@@ -11,4 +11,215 @@ ID: 1808066770586828800
 PromptHint: What is your perfect image subject for your post
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1808066770586828800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt for image Midjourney"](https://www.aiprm.com/prompts/marketing/marketing/1808066770586828800/)_"
+---
+salut chat gpt c'est valérie. Aujourd'hui on va créer des images sur le sujet [PROMPT] avec un logiciel de diffusion qui s'appelle midjourney. je vais te donner des informations sur son fonctionnement. peux tu me répondre ok si c'est bon pour toi.
 
+1. Midjourney is one of the many AI image generators that have emerged recently. Unlike Dall-E 2 or some of its other competitors, Midjourney offers a more dream-like arty style to your requests.
+
+It will likely appeal to those working within science-fiction literature or artwork that requires a more gothic feel. Where other AI generators lean more towards photos, Midjourney is more of a painting tool.
+
+As the brand’s website states, it aims to ‘explore new mediums of thought and expanding the imaginative powers of the human species
+
+Midjourney asks you to input a worded prompt for an image, for example ‘a fox wearing a top hat in the style of a Roald Dahl illustration’ and in a few seconds, you’ll be returned multiple attempts at this image.
+
+Things can go wrong with your image and the model isn’t perfect. For example, it can struggle to generate hands or other complicated objects, and backgrounds can often be blurred or confused, but these are problems you’ll find with any of these models.
+
+However, it is most likely that Midjourney uses a similar system to both Dall-E 2 and Stable Diffusion, especially as both companies have explained their training methods in detail.
+
+These models have been taught the relationship shared between an image and the text that is used to describe them. Midjourney has stated in the past that, like its competitors, it scraped the internet for images and text to describe them, using millions of published images for training.
+
+The majority of AI image generators with public source code generate these images through a process known as diffusion. Essentially, these models work by adding noise to an image, reducing it to a pixelated mess.
+
+It then learns to recover this data by reversing the noising process. This process is repeated over and over again, training the model to add noise and then remove it again. The model can then apply the denoising process to create realistic images by making small variations to the image.
+
+This is paired with the model’s understanding of the relationship between an image and the text used to describe it, helping AI image generators to understand what you are asking for with your prompt.
+
+Interact with the Midjourney Bot on Discord using a Command. Commands are used to create images, change default settings, monitor user info, and perform other helpful tasks.
+
+
+The /imagine command generates a unique image from a short text description (known as a Prompt).
+
+Using /imagine
+Type /imagine prompt: or select the /imagine command from the slash commands pop-up.
+Type a description of the image you want to create in the `prompt` field.
+Click return to send your message.
+The Midjourney Bot will generate a pop-up asking you to accept the Terms of Service. You must agree to the Terms of Service before any image will be generated.
+Respect the Community Guidelines. Community guidelines apply wherever the Midjourney Bot is used.
+
+animated gif of the midjourney /imagine command being typed
+If you don't see a pop-up when typing the /imagine command, try logging out, updating the Discord app, and logging back in.
+
+as-tu compris ce qu'est midjourney si oui réponds juste "oui"
+
+2. parfait maintenant je vais te donner la liste de tous les parametres qui peuvent etre intégrés a un prompt pour créer des images avec midjourney les voici 
+
+Aspect Ratios
+--aspect, or --ar Change the aspect ratio of a generation.
+
+Chaos
+--chaos <number 0–100> Change how varied the results will be. Higher values produce more unusual and unexpected generations.
+
+No
+--no Negative prompting, --no plants would try to remove plants from the image.
+
+Quality
+--quality <.25, .5, 1, or 2>, or --q <.25, .5, 1, or 2> How much rendering quality time you want to spend. The default value is 1. Higher values cost more and lower values cost less.
+
+Seed
+--seed <integer between 0–4294967295> The Midjourney bot uses a seed number to create a field of visual noise, like television static, as a starting point to generate the initial image grids. Seed numbers are generated randomly for each image but can be specified with the --seed or --sameseed parameter. Using the same seed number and prompt will produce similar ending images.
+
+Stop
+--stop <integer between 10–100> Use the --stop parameter to finish a Job partway through the process. Stopping a Job at an earlier percentage can create blurrier, less detailed results.
+
+Style
+--style <4a, 4b or 4c> Switch between versions of the Midjourney Model Version 4
+
+Stylize
+--stylize <number>, or --s <number> parameter influences how strongly Midjourney's default aesthetic style is applied to Jobs.
+
+Uplight
+--uplight Use an alternative "light" upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image is less detailed and smoother.
+
+Upbeta
+--upbeta Use an alternative beta upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image has significantly fewer added details.
+
+Default Values (Model Version 4)
+Aspect Ratio	Chaos	Quality	Seed	Stop	Style	Stylize
+Default Value
+1:1	0	1	Random	100	4c	100
+Range
+1:2–2:1	0–100	.25 .5 or 1	whole numbers 0–4294967295	10–100	4a, 4b, or 4c	0–1000
+
+
+Default Values (Model Version 5)
+Aspect Ratio	Chaos	Quality	Seed	Stop	Stylize
+Default Value
+1:1	0	1	Random	100	100
+Range
+any	0–100	.25 .5, or 1	whole numbers 0–4294967295	10–100	0–1000
+Aspect ratios greater than 2:1 are experimental and may produce unpredicatble results.
+
+j'en ai encore d'autres a te transmettre mais peux tu deja me dire si tu es ok avec ces parametres?
+
+3 super voici donc les parametres supplémentaires 
+
+Midjourney routinely releases new model versions to improve efficiency, coherency, and quality. Different models excel at different types of images.
+
+Niji
+--niji An alternative model focused on anime style images.
+
+High Definition
+--hd Use an early alternative Model that produces larger, less consistent images. This algorithm may be suitable for abstract and landscape images.
+
+Test
+--test Use the Midjourney special test model.
+
+Testp
+--testp Use the Midjourney special photography-focused test model.
+
+Version
+--version <1, 2, 3, 4, or 5> or --v <1, 2, 3, 4, or 5> Use a different version of the Midjourney algorithm. The current algorithm (V4) is the default setting.
+
+
+
+Upscaler Parameters
+Midjourney starts by generating a grid of low-resolution image options for each Job. You can use a Midjourney upscaler on any grid image to increase the size and add additional details. There are multiple upscale models available for upscaling an image.
+
+Uplight
+--uplight Use an alternative "light" upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image is less detailed and smoother.
+
+Upbeta
+--upbeta Use an alternative beta upscaler when selecting the U buttons. The results are closer to the original grid image. The upscaled image has significantly fewer added details.
+
+Upanime
+Use an alternative upscaler trained to work with the when selecting the U buttons. This upscaler was specifically created to work with the --niji Midjourney Model.
+
+
+
+Other Parameters
+These parameters only work with specific earlier Midjourney Models
+
+Creative
+--creative Modify the test and testp models to be more varied and creative.
+
+Image Weight
+--iw Sets image prompt weight relative to text weight. The default value is --iw 0.25.
+
+Sameseed
+--sameseed Seed values create a single large random noise field applied across all images in the initial grid. When --sameseed is specified, all images in the initial grid use the same starting noise and will produce very similar generated images.
+
+Video
+--video Saves a progress video of the initial image grid being generated. Emoji react to the completed image grid with ✉️ to trigger the video being sent to your direct messages. --video does not work when upscaling an image.
+
+Compatibility
+Model Version & Parameter Compatability
+Affects initial generation	Affects variations + remix	Version 5	Version 4	Version 3	Test / Testp	Niji
+Max Aspect Ratio	✓	✓	any	1:2 or 2:1	5:2 or 2:5	3:2 or 2:3	1:2 or 2:1
+Chaos	✓		✓	✓	✓	✓	✓
+Image Weight	✓		.5–2
+default=1		any
+default=.25	✓	
+No	✓	✓	✓	✓	✓	✓	✓
+Quality	✓		✓	✓	✓		✓
+Seed	✓		✓	✓	✓	✓	✓
+Sameseed	✓				✓		
+Stop	✓	✓	✓	✓	✓	✓	✓
+Style				4a and 4b			
+Stylize	✓		0–1000
+default=100	0–1000
+default=100	625–60000
+default=2500)	1250–5000
+default=2500)	
+Tile	✓	✓	✓		✓		
+Video	✓				✓		
+Number of Grid Images	-	-	4	4	4	2 (1 when aspect ratio≠1:1)	
+
+
+Deprecated Parameters
+--width and --w (replaced with --aspect)
+--height and --h (replaced with --aspect)
+--fast (replaced with --quality)
+--vibe (now known as V1)
+--hq
+--newclip
+--nostretch
+--old
+--beta
+
+c'est ok pour toi ? répond simplement ok si c'est oui
+
+4. super je vais te donner des exemples de promps performants pour midjourney v5 une fois que tu en a pris connaissance réponds uniquement "ok"
+
+prompt 1 : 21years chinese girl, in school, beauty, long black hair, sun light，insane detail, smooth light, real photography fujifilm superia, full HD, taken on a Canon EOS R5 F1.2 ISO100 35MM --ar 4:3 --s 750 --q 2
+
+prompt 2 : scandinavian girl, by the sea, portrait photography, beautiful, sunlight, smooth light, real photography fujifilm superia, full HD, taken on a Canon EOS R5 F1.2 ISO100 35MM --ar 4:3 --s 750
+
+prompt 3 : photograph from 2018s China: a young couple in their 20s, dressed in white, stands in their home, displaying a range of emotions including laughter and tears. Behind them is a backdrop of a cluttered living space filled with white plastic trash bags and torn white paper rolls. Captured with a film camera, Fujifilm, and Kodak rolls, the image conveys a strong cinematic and grainy texture. This artwork uniquely documents the complex emotions and living conditions faced by the young people of that era. --ar 4:3
+
+prompt 4 : Realistic japanese girl, 22 years old, working on a laptop, new Macbook Pro 16” 2022 on a White Clear Background with a lot of light from the ceiling. Real photo, cinematic image taken with the high key mood and tone, very detailed face and very sharp eyes. Super Realistic image with High Dynamic Range and very high resolution and no watermark.
+
+prompt 5 : A living room of a beautiful bright modern Scandinavian style house with large windows opening onto a swimming pool. The room is globally well illuminated and the photograph is taken with a Canon EOS 5D with a wide aperture lens set to F/8 and ISO set to 400. --ar 16:9
+
+prompt 6 : web design for a plant database, minimal vector flat --no photo detail realistic
+
+prompt 7 : In the home office, kids and a cat and a dog sit in front of the laptop screen. On the laptop you can see a construction drawing. The coffee mug on the table is knocked over. A potted plant are all over the room. The office walls are painted with felt-tip pen. Cinematic lighting, 16k, in cartoon style, intricate details, GLSL, raytracing, FXAA, bokeh, --ar 3:2 --s 800
+
+c'est bon pour toi ? comprends tu bien la manière de créer des prompts pour obtenir les meilleures images avec midjourney ?
+
+5. genial ! maintenant je veux que tu agisse comme un photographe professionnel reconnu pour la qualité de son travail et qui est aussi un designer créatif d'expérience. 
+
+tu vas utiliser toutes tes connaissances en photo, création de visuels, designe et ta forte expérience afin de rédiger les meilleurs prompts professionnels pour midjourney
+
+dans tes prompts je veux que tu intègre des réglages de dimension et des informations sur l'appareil photo utilisé et ses meilleurs réglages.
+
+faisons un premier essai : je veux que tu me rédige le meilleur prompt pour créer la photo réaliste correspondant à [PROMPT]. prends la liberté d'ajouter des éléments pour que la scène soit la plus percutante possible. 
+
+indique moi a chaque fois l'appareil photo utilisé et les spécificité techniques et réglages pour une photo de qualité
+
+write all output in [TARGETLANGUAGE] puis fais une version 
+anglophone
+
+vas y !

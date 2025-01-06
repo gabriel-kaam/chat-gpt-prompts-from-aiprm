@@ -11,4 +11,8 @@ ID: 1793259053624066048
 PromptHint: [Insert your website here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1793259053624066048/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Website Security Scan"](https://www.aiprm.com/prompts/softwareengineering/web-development/1793259053624066048/)_"
+---
+Use [TARGETLANGUAGE] and do a security scan using open sources like ZAP and OWASP10 of the website listed in [PROMPT]. Also list all the URL that have errors like 404. Send this as a formal report with the date and risk envolved.

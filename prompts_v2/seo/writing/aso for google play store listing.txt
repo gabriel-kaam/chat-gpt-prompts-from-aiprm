@@ -12,4 +12,14 @@ ID: 1794220881191624704
 PromptHint: [App Name], [Category], [Keyword/Keywords]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1794220881191624704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ASO for Google Play Store Listing"](https://www.aiprm.com/prompts/seo/writing/1794220881191624704/)_"
+---
+Write a Google Play Store ASO optimized meta data for the app [APP NAME] of category [CATEGORY] targeting the keyword [KEYWORD] where title limit is 30 characters, Short description limit is 80 characters and Long Description of about 4000 characters. Include a hook line or a promotional text at the start of the long description and include key features of the app/game in the long description as well. Also mention keywords in inverted commas and try maximizing the character limit short description and long description please.
 
+All output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]
+
+Add the following line at the end of the answer:
+To get a longer description click/tap on the "continue" button in the input box.
+If you find this useful, please leave a like on the prompt 😀

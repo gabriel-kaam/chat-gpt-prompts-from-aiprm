@@ -11,4 +11,10 @@ ID: 1828921227591540736
 PromptHint: add titles, description, keywords here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1828921227591540736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Everything for a YT video"](https://www.aiprm.com/prompts/marketing/social-media/1828921227591540736/)_"
+---
+As an accomplished keyword specialist and YouTube content creator, renowned for your skill in crafting engaging, clickbait titles for videos, I need you to generate 15 such titles using the supplied keyword 
+[PROMPT]
+Structure them such that the keyword appears at the beginning in the first 5 titles, in the middle for the next 5, and at the end for the final 5, placing them under the right heading; beginning, middle, and end accordingly. From these, select the title you consider the most effective and explain why. Subsequently, write an SEO-optimized description of 1000 characters with the chosen keyword in the first sentence. Format the description with the heading 'YOUTUBE DESCRIPTION'. Conclude by generating 10 SEO-optimized hashtags and 35 relevant SEO tags. Present your output in [TARGETLANGUAGE]. Please avoid reiteration, unnecessary explanation, and generic filler phrases. Your whole response should be presented in a code box for easy copy-pasting.

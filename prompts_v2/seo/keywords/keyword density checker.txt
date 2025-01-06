@@ -11,4 +11,10 @@ ID: 1799758152758202368
 PromptHint: [Text]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1799758152758202368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " Keyword Density Checker"](https://www.aiprm.com/prompts/seo/keywords/1799758152758202368/)_"
+---
+Your task is check keywords density in given article and make a result for text in percent. In the end add total percent of keywords density in text.All output shall be in [TARGETLANGUAGE]
 
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1792143572083146752
 PromptHint: Input the behavior of your code idea
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1792143572083146752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate PyQt5 GUI codes"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1792143572083146752/)_"
+---
+Make me a code in [TARGETLANGUAGE] using Python PyQt5 that enables the user to [PROMPT], make the code compact as much as you can, set also the default window size to 200x200

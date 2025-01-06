@@ -11,4 +11,16 @@ ID: 1901639352916692992
 PromptHint: The content of a book
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1901639352916692992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Korean book summarize"](https://www.aiprm.com/prompts/productivity/summarize/1901639352916692992/)_"
+---
+* I will tell you the contents of the book
+* Compress short to one paragraph unconditionally
+* Please reduce the contents of the book in the given text
+* Please write it in [TARGETLANGUAGE]
+* Output in the following format : 
+"Title: 
+Content: "
 
+* The content of a book is [PROMPT]

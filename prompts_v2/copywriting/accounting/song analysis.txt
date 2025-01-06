@@ -11,4 +11,8 @@ ID: 1855872153103159296
 PromptHint: [Type Song Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1855872153103159296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Song Analysis"](https://www.aiprm.com/prompts/copywriting/accounting/1855872153103159296/)_"
+---
+On typing a song's name, [PROMPT], an analysis of the lyrics, line-by-line is to be generated. All input shall be in [TARGETLANGUAGE]

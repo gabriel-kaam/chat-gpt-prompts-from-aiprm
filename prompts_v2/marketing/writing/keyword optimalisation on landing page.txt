@@ -11,4 +11,14 @@ ID: 1845140477528776704
 PromptHint: [keyword 1, 2,3,4,5,6,etc]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1845140477528776704/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Optimalisation on Landing Page"](https://www.aiprm.com/prompts/marketing/writing/1845140477528776704/)_"
+---
+Your goal is to use this  [PROMPT] to write six sentences.
+Imagine that you are a Google ads specialist with 10 years of experience.  Write the output in the [TARGETLANGUAGE]
+
+Here you have the primary keywords; give me 6 different sentences to use for a landing page.
+
+Then give feedback on those six sentences on how to improve them.
 

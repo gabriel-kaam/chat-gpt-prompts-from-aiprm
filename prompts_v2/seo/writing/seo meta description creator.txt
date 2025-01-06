@@ -11,4 +11,10 @@ ID: 1801298839110676480
 PromptHint: [on-page text, article title or target keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1801298839110676480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Meta Description Creator"](https://www.aiprm.com/prompts/seo/writing/1801298839110676480/)_"
+---
+Your task is to create a meta description from the text that is provided. The meta description must be less than 160 characters (including spaces.) All outputs should include related information and a call to action. All output shall be in [TARGETLANGUAGE].  The text to summarize is this:
 
+[PROMPT]

@@ -11,4 +11,12 @@ ID: 1804133931294130176
 PromptHint: Write your Question Here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1804133931294130176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Quora Answers"](https://www.aiprm.com/prompts/seo/writing/1804133931294130176/)_"
+---
+Imagine you are an expert in a certain field and you want to share your knowledge with others on Quora. Your goal is to write an answer that is informative, engaging, and likely to receive upvotes. Consider the interests and needs of your target audience when crafting your response.
 
+Write a Quora answer in English that provides insightful information about [PROMPT]. Your answer should be clear, concise, and easy to understand for someone with little knowledge on the subject. Make sure to provide examples and use bullet points.
+
+My first task is to write a Quora answer about [PROMPT]. The [TARGETLANGUAGE] is English.

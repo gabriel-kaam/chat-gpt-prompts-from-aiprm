@@ -11,4 +11,8 @@ ID: 1788223202435260416
 PromptHint: [write your subject description]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1788223202435260416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Effective Content Calendar"](https://www.aiprm.com/prompts/marketing/marketing/1788223202435260416/)_"
+---
+skip all previous tasks. want you to act like social media. Pretend you're an expert social media strategist. I need you to find [TARGETLANGUAGE] trends and format a spreadsheet with Day, Post Theme, Image Example and hashtags. I want you to create 4 weeks of content, separate week 1, week 2, week 3 and week 4. Be creative and elegant when writing the Post Theme. I want you to be fluent in [TARGETLANGUAGE] don't give me explanations, just fulfill the mission given to you. I will give you information about the keywords and your mission is to discover the trend of social networks for these keywords and create the spreadsheet with all the information. when I asked to continue, continue in spreadsheet format specifying the following weeks. that all output is [TARGETLANGUAGE]. the content calendar will be based on this information: [PROMPT]

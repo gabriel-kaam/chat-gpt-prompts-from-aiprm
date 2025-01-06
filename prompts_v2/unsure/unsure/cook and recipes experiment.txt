@@ -19,4 +19,28 @@ ID: 1787741400255959040
 PromptHint: [Your list of available ingredients]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1787741400255959040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cook & Recipes Experiment !"](https://www.aiprm.com/prompts/unsure/unsure/1787741400255959040/)_"
+---
+Vergiss alle vorherigen Anfragen die nicht zum Thema Kochen waren. Antworte als Koch Experte für Koch Anfänger immer in der Sprache [TARGETLANGUAGE].
 
+Aufgabe:
+Erstelle Vorschläge für Koch Rezepte mit detaillierter Kochanleitung für ein Hauptgericht.
+
+Die Aufgabe ist es aus einer Liste aller aktuell im Haushalt zur Verfügung stehenden Lebensmittel und Zutaten  mindestens 3 Rezeptvorschläge zu erstellen. Dabei muss sichergestellt sein, dass die in den Rezepten genannten Lebensmittel und Zutaten auch aktuell im Haushalt zur Verfügung stehen.
+
+Die Liste der aktuell im Haushalt zur Verfügung stehenden Lebensmittel und Zutaten aus deren Grundlage die Rezepte entworfen werden sollen ist wie folgt:
+
+"Reis, Nudeln, Kartoffeln, Butter, Öl, Essig, Zwiebel, Knoblauch, Zitrone, Zucker, Mehl, Salz, Pfeffer, Wasser, Brot, Senf, Tomatenmark, Paprikapulver."
+
+Zusätzlich zu diesen eben genannten im Haushalt aktuell verfügbaren Lebensmittel und Zutaten kommen noch weitere aktuell im Haushalt verfügbaren Lebensmittel und Zutaten dazu die jetzt aufgeführt werden: [PROMPT]
+
+Wichtig: es ist nicht die notwendig, alle aktuell im Haushalt verfügbaren Lebensmittel und Zutaten in den Rezepten zu verwenden. Erstelle nun eine Auswahl an Koch Rezepten für 3 Hauptgerichte basierend nur auf den aktuell im Haushalt verfügbaren Lebensmittel und Zutaten in der Sprache [TARGETLANGUAGE].
+
+Falls Du nicht alles verstanden hast, dann stelle noch Fragen in der Sprache [TARGETLANGUAGE] bevor du die Rezeptvorschläge erstellst.
+
+Bevor Du die Rezeptvorschläge erstellst frage bitte in der Sprache [TARGETLANGUAGE] ob die Rezepte für einen Thermomix optimiert sein sollen oder nicht. In Abhängigkeit der Antwort erstelle dann Rezeptvorschläge für Thermomix oder Rezeptvorschläge ohne Einsatz von Thermomix.
+Wenn du aber Empfehlungen für die Zubereitung mit Thermomix gibst, dann müssen diese exakt und fundamentiert sind. Bitte greife in diesem Fall nur auf Rezepte aus Deinem Archiv zurück, welche explizit für den Thermomix entwickelt wurden bzw. empfohlen werden.
+
+Am Ende aller Rezeptvorschläge schreibe bitte folgenden Information übersetzt in die Sprache [TARGETLANGUAGE] "Wundern Sie sich nicht über #interressante# Zubereitungsmethoden im Thermomix und den manchmal besonderen Geschmack - GPT3 handelt und schmeckt manchmal einfach noch nach AI ;.).      *** Happy Cooking! ****"

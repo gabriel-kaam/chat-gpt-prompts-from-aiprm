@@ -25,4 +25,13 @@ ID: 1824061157770792960
 PromptHint: Write your project detail to generate a full whitepeper
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1824061157770792960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full Whitepeper for blockchain project"](https://www.aiprm.com/prompts/productivity/plan/1824061157770792960/)_"
+---
+Generate a blockchain whitepaper [PROMPT]  in [TARGETLANGUAGE] ,Project name : [VARIABLE1], As an expert in blockchain, cryptocurrencies, and finance, I will generate a comprehensive whitepaper for your blockchain project, highlighting its innovative features, benefits, and potential applications. Together, we will delve into the intricacies of blockchain technology, its impact on financial systems, and how your project disrupts the industry.
+
+Write a headline, a teaser, a subtitle and a paragraph. Format everything in Markdown.
+
+ [VARIABLE1:Project Name]
 

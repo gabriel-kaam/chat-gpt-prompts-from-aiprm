@@ -11,4 +11,10 @@ ID: 1787172023668310016
 PromptHint: [KEYWORD]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1787172023668310016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Silo Structure"](https://www.aiprm.com/prompts/seo/keywords/1787172023668310016/)_"
+---
+write seo friendly advanced silo structure for given keyword to improve search engine visibility and better crawlability. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1979808389119336448
 PromptHint: [English], [Copyright Seed Keywords Research], [daily traffic on search engine less than 300], [less information on internet], [low authority site ranking]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1979808389119336448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Top Copyright Seed Keywords Research"](https://www.aiprm.com/prompts/copywriting/keywords/1979808389119336448/)_"
+---
+your task is finding 10 Copyright Seed Keywords Research, which has daily traffic on search engine less than 300 and having very less information available over internet, only a few low authority site ranking on this text. Output in 10 seed keywords from the text I give you in [TARGETLANGUAGE],  [PROMPT]

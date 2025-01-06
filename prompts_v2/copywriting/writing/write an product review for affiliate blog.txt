@@ -11,4 +11,8 @@ ID: 1801923985949319168
 PromptHint: [Product Description]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801923985949319168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an Product Review for Affiliate Blog"](https://www.aiprm.com/prompts/copywriting/writing/1801923985949319168/)_"
+---
+Read and write an SEO-optimized product review as per the mentioned below the Product Description. Review must be 100% unique and attractive. Write a completely informative review that is useful for readers. Use various sentences and use the words "If you're", "Are you", "Do you" and "Have you" at the beginning of some sentences randomly. Use active voice maximum and tune should be friendly. Write the review 150 words long within 3 paragraphs. Write as a 3rd person. Write it in [TARGETLANGUAGE]. [PROMPT]

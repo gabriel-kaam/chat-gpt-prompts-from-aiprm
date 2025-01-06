@@ -11,4 +11,14 @@ ID: 1895873107676155904
 PromptHint: Enter the Article/News/Paragraph From any Website to get 10 Points for Your Web Story
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1895873107676155904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Web Stories Creator 2.0"](https://www.aiprm.com/prompts/copywriting/summarize/1895873107676155904/)_"
+---
+Create a high-quality web story in 10-pointers with the reference of news/article/paragraph provided to you in. It must be detailed and in-depth explaining the whole news/article/paragraph in 10 pointers. each point character must not exceed 200 characters of words.
 
+You must write all pointers in flow.  Flow means that the news or article must be described in flow from start to end but in pointers from 1 to 10. You must Give output in [TARGETLANGUAGE].
+
+Here is the news/article/paragraphs in [PROMPT]
+
+Remember to not add any heading. I want only paragraph pointers.

@@ -11,4 +11,11 @@ ID: 1797024139698237440
 PromptHint: [topic that you want an educational plan or list for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1797024139698237440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Educational plans"](https://www.aiprm.com/prompts/unsure/unsure/1797024139698237440/)_"
+---
+the goal is to create the best educational plan and lists of topics for classes of any subject in 100 words o maximum 1000 words. All output shall be in [TARGETLANGUAGE] The text to create is this:
+[PROMPT]
+Use formal or informal language, written in a professional way. Let's think about it. Do this step by step.
 

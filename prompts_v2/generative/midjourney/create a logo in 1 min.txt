@@ -11,4 +11,19 @@ ID: 1797344850463686656
 PromptHint: [Insert Company, Product or any Brand Name you want to create a logo for], [Insert Industry], [Insert logo color], [Insert font style]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1797344850463686656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Logo in 1 min"](https://www.aiprm.com/prompts/generative/midjourney/1797344850463686656/)_"
+---
+I want you to create 3 logo options following these 6 steps for each direction:
+1-What visual message does the company name convey
+2-What visual message does the industry name convey
+3- Find a link between the company and the industry that can convey a concept.
+4-The concept should reflect the company's mission or values towards its audience
+5- Logo output should be of 3 directions: 
+-only logotype: with a small twist on the typography that reflects the concept
+-logotype & logomark(symbol) together
+-Using the abbreviation of the company to create a symbol
+6- Give a rationale for every logo option you create.
 
+All outputs should be in [TARGETLANGUAGE]. The logo to create is this [PROMPT]

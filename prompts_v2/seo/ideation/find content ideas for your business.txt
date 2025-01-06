@@ -11,4 +11,12 @@ ID: 1798632556753838080
 PromptHint: [Enter your interest or Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1798632556753838080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Find content Ideas for your business"](https://www.aiprm.com/prompts/seo/ideation/1798632556753838080/)_"
+---
+Suggest a list of trending and hot topics with breif and content outlines to write an article for given any interest or keword phrase. Suggest a most suitable article Title along with it.
 
+
+All output shall be in [TARGETLANGUAGE]
+The text to summarize is this: [PROMPT]

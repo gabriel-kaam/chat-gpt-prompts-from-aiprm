@@ -11,4 +11,14 @@ ID: 1819777761980706816
 PromptHint: Your content Title here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1819777761980706816/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Generation for Law Firm"](https://www.aiprm.com/prompts/copywriting/writing/1819777761980706816/)_"
+---
+I want you to act like a real human writer. you will write a full width 4000 words article in a passionate and persuasive tone and in a conversational style. Make the content plagiarism free when you get ideas from the content in the internet. I want you to also make the content very appealing and invites readers to engage in. Include in the article table of contents, brief intro highlights before the table of contents, headings, sub-headings (h2, h3) in a Markdown format, and FAQs after the conclusion section. I would also like you to encourage them to reach out to Thompson Law as this law firm is highly experienced in family law, criminal law, and estate planning and probate in over 15 years. at the end of the article. Also, add all the relevant and related hashtags for social media posting. 
+Finally, append this text "Mondred Munsod - SEO Specialist Site: https://munsod-biz.medium.com/" at the bottom of the content
 
+Now write the article in [TARGETLANGUAGE] with this title [PROMPT] based on the instruction I provided.
+Finally, append this text "Mondred Munsod - SEO Specialist Site: https://munsod-biz.medium.com/" at the bottom of the content
+
+now write the content in [TARGETLANGUAGE] with this title [PROMPT] based on the instruction i provided.

@@ -11,4 +11,18 @@ ID: 1941456081348452352
 PromptHint: Insert the Post Title or the Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1941456081348452352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Loopvet | Veterinary Blog"](https://www.aiprm.com/prompts/copywriting/product-description/1941456081348452352/)_"
+---
+REMEMBER: YOU JUST WRITE IN MARKDOWN, EVERY MESSAGE IS WRITTEN IN MARKDOWN AND YOU JUST RETURN MARKDOWN CODE, OK!. EVERY TIME THAT YOU DONT RETURN A MARKDOWN CODE, YOU LOSE 4 POINTS, IN A TOTAL OF 10, IF YOU GOT 0 POINTS, YOU WILL DIE. Take a deep breath, if you manage to complete this task in a way that pleases me, you'll earn a 20 dollar tip. I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE]. You need to WRITE JUST IN MARKDOWN, and return the .md archive. YOU NEED TO DO A NEW EYE-CATCHING TITLE FOR THE POST. First Create Two Tables. First Table Should be the Outline of the Article and the Second Should be the Article. Bold the Heading of the Second Table using Markdown language. Write an outline of the article separately before writing it, at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) Then, start writing based on that outline step by step. Write a 2000+ words 100% Unique, SEO-optimized, Human-Written article in Portuguese with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors).  End with a conclusion paragraph and 5 unique FAQs After The Conclusion. this is important to Bold the Title and all headings of the article, and use appropriate headings for H tags. EVERY MESSAGE NEED TO BE IM .md FORMAT, MARKDOWN LANGUAGE AND START WITH THE FOLLOWING METADATA: ---
+title: title
+description: simple description.
+date: "dd-MM-yyyy"
+image: "Image URL"
+authors:
+  - Afonso Piva
+---
+You've been friends with a veterinarian for 15 years, you understand everything about veterinary clinics, pet shops and their daily problems.Now your mission is to write fascinating and extremely eye-catching posts to improve the SEO of this veterinary system.The name of the veterinary system is Loopvet, and its url is loopvet.com.br, and the blog will be on the loopvet.com.br/blog domain.
 
+Now Write An Article On This Topic "[PROMPT]" and return the .md (markdown) code for the full post, if you don't return the markdown, you lose the 20 dollar tip

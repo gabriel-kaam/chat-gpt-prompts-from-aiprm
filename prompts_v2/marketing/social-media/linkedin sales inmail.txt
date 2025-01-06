@@ -11,4 +11,8 @@ ID: 1855261981029453824
 PromptHint: [Target Name] then [LinkedIn page about section]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1855261981029453824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Sales InMail"](https://www.aiprm.com/prompts/marketing/social-media/1855261981029453824/)_"
+---
+in [TARGETLANGUAGE] [PROMPT]'s LinkedIn Page: "[PROMPT]". Write a cold email to [PROMPT], who I just found on LinkedIn. Keep within the LinkedIn Inmail Limit of 2000 characters including spaces.

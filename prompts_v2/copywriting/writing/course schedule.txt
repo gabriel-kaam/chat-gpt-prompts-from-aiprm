@@ -11,4 +11,17 @@ ID: 1923801969635110912
 PromptHint: [course]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1923801969635110912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Course Schedule"](https://www.aiprm.com/prompts/copywriting/writing/1923801969635110912/)_"
+---
+Eu sou um criador de curso online.
+Estou criando um curso de [COURSE]
+Eu quero que você escreva um índice com módulos  para a criação desse curso.
+Depois escrava o resumo de cada um destes módulos.
+Me informe o público alvo deste curso.
 
+
+
+[TARGETLANGUAGE]
+[PROMPT]

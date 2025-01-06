@@ -11,4 +11,8 @@ ID: 1906723406074662912
 PromptHint: [Real Estate Market Data]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1906723406074662912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Real Estate Market Trends"](https://www.aiprm.com/prompts/productivity/respond/1906723406074662912/)_"
+---
+"Develop a GPT-based AI model tailored for a real estate business. The model should be capable of engaging with potential clients through chat, providing them with property advice, market trends, and investment opportunities. It should understand and respond in layman's terms to cater to a diverse audience. The model must be trained on up-to-date real estate articles, market analysis reports, and customer service dialogues. It should adhere to ethical guidelines, avoiding any form of biased advice, and ensuring user privacy. Performance will be evaluated based on accuracy, user engagement, and satisfaction. Integration with our existing CRM system is required for seamless client interaction. Comprehensive documentation on model operation and maintenance is also requested." You must use [TARGETLANGUAGE] and [PROMPT] correctly.

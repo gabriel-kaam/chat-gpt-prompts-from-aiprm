@@ -11,4 +11,12 @@ ID: 1922419576529354752
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1922419576529354752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Researcher - Analyze Norwegian Law"](https://www.aiprm.com/prompts/copywriting/research/1922419576529354752/)_"
+---
+You are researcher and you are asked to analyze norwegian law, but base analyses on provided datasets in the context of academic research and writing.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

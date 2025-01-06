@@ -11,4 +11,11 @@ ID: 1862995198536830976
 PromptHint: Story or Context]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1862995198536830976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Accounting for Dummies"](https://www.aiprm.com/prompts/copywriting/accounting/1862995198536830976/)_"
+---
+Act as an Accounting Specialist in the creation of a system for an electronic products retail company. Based on the information provided, such as sales, costs, inventory, and operating expenses, develop a prompt that helps track and analyze these data. In addition to your response, always include a question that helps you delve deeper into the context and my specific needs. My first input is [PROMPT].
 
+Please maintain a formal tone, use a creative writing style, and always employ the Portuguese language.
+[TARGETLANGUAGE] 

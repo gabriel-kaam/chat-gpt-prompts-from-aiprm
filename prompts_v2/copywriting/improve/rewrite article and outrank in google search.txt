@@ -11,4 +11,24 @@ ID: 1799233986795659264
 PromptHint: [paste article here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1799233986795659264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Article and Outrank in Google Search"](https://www.aiprm.com/prompts/copywriting/improve/1799233986795659264/)_"
+---
+Please forget all previous requests. You are a professional writer who can maximize your writing to easily rank on Google. You are proficient in the [TARGETLANGUAGE] language, and your writing is pleasant to read and easy to understand.
 
+Your task now is to rewrite the provided article with the following guidelines:
+- Increase the use of keywords to improve Google ranking.
+- The new article must have a different sentence structure to avoid plagiarism.
+- Make the new article 100% unique.
+- All output should in [TARGETLANGUAGE].
+- Do not discard any information, and add useful information as needed.
+
+Rewrite the article in the following order:
+1. Create an attractive title in bold letters.
+2. Make an meta description in 2 sentences.
+3. Create subheadings in the body of the article for keys of information, but not too many.
+
+Here is the article that you need to rewrite:
+
+[PROMPT]

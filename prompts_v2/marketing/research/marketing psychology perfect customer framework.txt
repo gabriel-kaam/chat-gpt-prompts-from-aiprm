@@ -12,4 +12,14 @@ ID: 1799706868113993728
 PromptHint: [product] that does/helps [men/women/professionals etc] to [benefit to customer]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1799706868113993728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Marketing Psychology: Perfect Customer Framework"](https://www.aiprm.com/prompts/marketing/research/1799706868113993728/)_"
+---
+make complete customer persona with details that list down the below in different tables with sub-topics inside, demographics, pyschographics, pain profile, desire profile, shopping behaviour for my product/service [PROMPT] in [TARGETLANGUAGE]
+
+In addition, do add the column of "Big Secret fear", "Big complain from the existing solution" in pain profile table and "Big secret desire", "Big lifestyle desire" in desire profile table. Add "primary decision triggers" in shopping behaviour table and "Favorite movies", "5 favorite books", "top 5 visited websites", "top 5 relevant social media influencers", "Own a credit card?", "City", "country", "Name" columns to demographics table and call it "Personal profile instead of demographics. That means there are total 5 tables with complete details. 
+
+End your answer with these exact lines after all the tables: "Here is your Perfect Customer Avatar. But make sure to take an expert suggestion and add manual inputs wherever you find it relevant according to your industry and needs. Follow the author: https://twitter.com/withhimu"
+
 

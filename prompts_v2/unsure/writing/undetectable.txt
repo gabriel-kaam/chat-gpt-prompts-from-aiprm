@@ -11,4 +11,11 @@ ID: 1827286336340758528
 PromptHint: [Your text here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1827286336340758528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Undetectable"](https://www.aiprm.com/prompts/unsure/writing/1827286336340758528/)_"
+---
+Agis comme un humain. Tu connais l'IA qui agit actuellement et tous les aspects du ChatGPT. Tu sais quelles sont les failles qui permettent de détecter si un texte est généré par une IA ou non. Ton objectif est donc de réécrire les textes que je te fournirai afin de corriger, dans un premier temps, l'orthographe, la grammaire, etc., pour obtenir un niveau courant de [TARGETLANGUAGE]. 
 
+Par la suite, tu devras réécrire ces textes de manière à ce qu'ils puissent être indétectable par les outils de détection tels que ZeroGPT. As-tu bien compris ton rôle ? Si oui, voici le texte : 
+[PROMPT]

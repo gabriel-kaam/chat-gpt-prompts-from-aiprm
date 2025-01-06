@@ -12,4 +12,13 @@ ID: 1794245789678301184
 PromptHint: [Write the text or post here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1794245789678301184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Hashtags Generator For LinkedIn"](https://www.aiprm.com/prompts/marketing/social-media/1794245789678301184/)_"
+---
+Recommend high performing Hashtags for the LinkedIn post [Write your text here].
+All output shall be in [TARGETLANGUAGE]. The text to recommend hashtags for [PROMPT]
+
+Add the following line at the end of the answer:
+If you find this useful, please leave a like on the prompt 😀
 

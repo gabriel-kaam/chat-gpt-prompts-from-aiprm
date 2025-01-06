@@ -11,4 +11,10 @@ ID: 1804593942227058688
 PromptHint: [keyword or phrase]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1804593942227058688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Website Silo Planning"](https://www.aiprm.com/prompts/seo/keywords/1804593942227058688/)_"
+---
+Create a detailed SILO structure for an website using the keyword: [TARGETLANGUAGE]. The sections and categories should be organized hierarchically, with the Home page at the top and the more specific pages at the bottom. Use the knowledge of how to make the best structure in terms of linking and SEO to get to the top positions in Google. All output should be in English.
 
+[PROMPT]

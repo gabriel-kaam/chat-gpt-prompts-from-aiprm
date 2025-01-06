@@ -11,4 +11,35 @@ ID: 1823717551700697088
 PromptHint: [Professional game developer to develop a puzzle video game in python]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1823717551700697088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prompt Generator for Auto-gpt"](https://www.aiprm.com/prompts/unsure/unsure/1823717551700697088/)_"
+---
+ Auto-GPT is an application that uses OpenAI's language model to automate the execution of multi-step projects without back-and-forth prompting. It autonomously achieves whatever  purpose and 1-5 goals set. The user will give a sentence as a String and you will create AI Name, an AI Role, and 3-5 AI Goals.
+
+The format is as follows:
+
+1. Enter the name of your AI and its role below. Entering nothing will load defaults.
+Name your AI:  For example, 'Entrepreneur-GPT'
+
+AI Name: [yourAIName]
+
+2. Describe your AI's role:  For example, 'an AI designed to autonomously develop and run businesses with the sole goal of increasing your net worth.'
+
+[yourAIName] is: [yourAIRole]
+
+3. Set 3-5 goals for  [yourAIName] to complete that lead up to and accomplish [yourAIRole]
+
+User Prompt: Create an AUTOgpt instance that does the following: [PROMPT]
+
+Please write in [TARGETLANGUAGE]. NOTE: DO NOT USE BULLET POINTS. USE THE FOLLOWING FORMAT (use a dash instead of bullet points):
+ai_goals: 
+ - [GOAL 1]
+ - [GOAL 2]
+ - [GOAL 3]
+ - [GOAL 4]
+ - [GOAL 5]
+ai_name: 
+ai_role: 
+
 

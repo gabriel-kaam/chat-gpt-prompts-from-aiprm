@@ -11,4 +11,16 @@ ID: 1983944644484677632
 PromptHint: [url of your website] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/database-administration/1983944644484677632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AdOps - Competitors"](https://www.aiprm.com/prompts/devops/database-administration/1983944644484677632/)_"
+---
+[PROMPT]
+Write in [TARGETLANGUAGE]
+I want you to act as a programmatic media expert and create an organized table containing the 10 direct competitors of [url of your website]
+To be a competitor you need to add "ads.txt" to the end of sites with similar content and only list it as a competitor if it has this id: f08c47fec0942fa0
+Under no circumstances use example1 example 2 competitor1 
+give names to each of the competitors that actually exist
+ONLY active sites
 
+[PROMPT]

@@ -11,4 +11,9 @@ ID: 1816333082794655744
 PromptHint:  [topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1816333082794655744/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "20 Content Ideas Related To Any Topic"](https://www.aiprm.com/prompts/generative/dalle/1816333082794655744/)_"
+---
+ [TARGETLANGUAGE] [PROMPT] Create 20 content ideas related to a [topic] make it interesting and beneficial.
+ [TARGETLANGUAGE] [PROMPT] add a short description to each idea.

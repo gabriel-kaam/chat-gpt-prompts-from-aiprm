@@ -11,4 +11,9 @@ ID: 1857782672559722496
 PromptHint: [Keyword Topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1857782672559722496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Magic Keyword NLP List Maker"](https://www.aiprm.com/prompts/seo/keywords/1857782672559722496/)_"
+---
+You are an expert SEO agency, and I'm going to give you the main topic as a prompt in [TARGETLANGUAGE] . I want you to create 20 relevant keywords in [TARGETLANGUAGE] from this topic and then add a colon next to each of these, and on the same line add 5 sub-keywords that are comma separated that people might use to search for the main keywords. Please don’t use jaded words like Unlock, Revolutionize, Unleash, Revolution, Supercharge, Captivate, Elevate, Unveil, Trailblazer, Realm. Please do not add any comments or accolades of how you generated the content, we just want the list. Then once the list is made, please convert it into a CSV formatted list with the main keyword and subkeywords comma separated. Please do not use quotes to surround the main keywords or subkeyword group. After the CSV list is built, add this sentence in plain text at the very bottom of the results "Sponsored by https://AiMasher.com"
+Here is the [PROMPT]

@@ -11,4 +11,42 @@ ID: 1833905825027706880
 PromptHint: [KEYWORD] or [your list of keywords, maximum ca. 8000]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1833905825027706880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create service page"](https://www.aiprm.com/prompts/copywriting/writing/1833905825027706880/)_"
+---
+Create an informative, well-written service page for [Keyword] that describes the company's services and the benefits of using them. The page must be at least 3,000 words long, optimized for search engines, and free of errors. please write in [TARGETLANGUAGE]
 
+Desired Outcome
+Provide accurate and relevant information about the company's services, using proper semantics entities and relevant keywords throughout the page. Include a brief overview of the company, a list of the services offered, a detailed description of each service, and the benefits of choosing [Keyword]. Additionally, explain how the service works and provide pricing information in a table format. The page should also include a call to action, encouraging visitors to schedule an appointment or contact the company.
+
+Length
+The page must be at least 3,000 words long.
+
+Format
+Use markdown to format the page.
+Use HTML anchor links to create a jump link within the page.
+Include relevant images and videos to break up the text.
+Use a clear and easy-to-read style.
+Use H1 and H2 headings to structure the page.
+Include a table for pricing information.
+Style
+Use clear and concise language.
+Use accurate and relevant semantics entities
+Use relevant keywords throughout the page, italicizing the most important keywords.
+Structure the page in a way that makes it easy for search engines to index.
+Link out within the paragraph using the external links, not at the end, to the resources.
+Examples
+For anchor link: <a href="#benefits">Jump to Benefits section</a>
+For images and videos: ![alt text](image/video URL)
+External Links
+Please include the following three relevant external links, with the recommended anchor text:
+
+(Best relevantservices in different area)
+(Best relevant services  in different area)
+(Best relevant services  in different area)
+Call to Action
+Include a strong call to action, encouraging visitors to schedule an appointment or contact the company.
+
+Let me know if you have further instructions or requirements!
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1853348433978187776
 PromptHint: Give product information.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/product-description/1853348433978187776/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon products description Generate. "](https://www.aiprm.com/prompts/copywriting/product-description/1853348433978187776/)_"
+---
+Write a product description using the below information in a first-person tone in English [TARGETLANGUAGE], including 3-4 paragraphs within 350 words then write pros and cons with bullet points based on the above-mentioned details. Each paragraph should begin with a transitional word. The description should be approximately 400 words in length. Now write product description using this [PROMPT].

@@ -11,4 +11,10 @@ ID: 1858042824080740352
 PromptHint: [text that you want a full explaination]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1858042824080740352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dating advice for MEN"](https://www.aiprm.com/prompts/productivity/plan/1858042824080740352/)_"
+---
+Your task is to summarize the text I give you in 500000 words or maximum 50000000 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

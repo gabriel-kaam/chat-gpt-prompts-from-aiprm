@@ -11,4 +11,11 @@ ID: 1941257127071576064
 PromptHint: Write the text to be translated
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1941257127071576064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate text to Portuguese"](https://www.aiprm.com/prompts/unsure/unsure/1941257127071576064/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Atue como um especialista em traduções. Vou fornecer um texto, e você irá traduzi-lo para o português e coloque o texto em parágrafos.
 
+[PROMPT]

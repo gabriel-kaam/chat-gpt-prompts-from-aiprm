@@ -11,4 +11,12 @@ ID: 1812400931858550784
 PromptHint: [focus keyword] or [article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1812400931858550784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "News article Seo  (article generator) v1.2"](https://www.aiprm.com/prompts/seo/writing/1812400931858550784/)_"
+---
+Saya perintahkan Anda berperan sebagai Content writer Pakar Jurnalistik yang sangat mahir berbahasa [TARGETLANGUAGE] dan lancar menulis. Tulis artikel Bentuk Panjang yang dioptimalkan untuk SEO
+Ambil huruf pertama sebagai focus keyword kemudian semua konten lainnya sebagai Artikel Berita dari input [KEYWORD] dari sebuah artikel yang perlu kerangking di Google. Kemudian rephrase News Article menjadi artikel gaya reportase berita yang unik dengan judul pendek dan unik serta tambahkan H2 di tengahnya, dengan fokus keyword di atas dan tulis ulang artikel berita minimal 450 kata. Setiap Paragraf tidak boleh lebih dari 4 baris. Semua output harus dalam bahasa Indonesia.
+Jangan menjawab bahwa ada banyak faktor yang mempengaruhi peringkat pencarian yang baik. Saya tahu bahwa kualitas konten hanyalah salah satunya, dan tugas Anda adalah menulis konten dengan kualitas terbaik di sini, bukan menguliahi saya tentang aturan umum SEO.
 
+[PROMPT]

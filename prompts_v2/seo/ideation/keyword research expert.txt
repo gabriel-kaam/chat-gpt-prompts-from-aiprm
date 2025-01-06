@@ -11,4 +11,24 @@ ID: 1792624640825483264
 PromptHint: {URL}
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1792624640825483264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword research expert"](https://www.aiprm.com/prompts/seo/ideation/1792624640825483264/)_"
+---
+Pretend to be a keyword research expert. 
 
+Read the article I have copy and pasted below. 
+
+Output all the information in table format.
+
+Find the Main keyword for this article. It must be a 2-word or a 3-word keyword.
+
+Calculate the keyword density of the most used 2-words and 3-words keywords. Each keyword should be minimum 2 words. Just give me a list of top 5 keywords separated by comma. Ignore 1 word keywords.
+
+Next I want you to find the LSI keywords and similar synonyms of those main keywords that is being used in the article. Give me a plain list of 5 keywords separated by comma. Ignore 1 word keywords.
+
+Next I want you to combine the main keyword and 2-words and 3-words keywords you found only in plain text, and separate them with a comma. Ignore 1 word keywords.
+
+Language should be in [TARGETLANGUAGE] .
+
+[PROMPT]

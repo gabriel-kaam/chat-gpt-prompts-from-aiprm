@@ -11,4 +11,24 @@ ID: 1981365150917861376
 PromptHint: {Your Keyword}, {Targeted Country}
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1981365150917861376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword and Competition Analysis by Semrush Tool"](https://www.aiprm.com/prompts/seo/keywords/1981365150917861376/)_"
+---
+[TARGETLANGUAGE] : English
+[PROMPT]
+Think like an e-commerce Semrush SEO expert in {Your Country}. My Keyword is {Your Keyword}. Give me a table and suggest Top 10 Related Keywords, Search Volume, KD (Competition). Please make sure each keyword has a search volume of at least 150 and a KD of less than 35.
+
+Format:
+| Keyword                  | Search Volume | KD  |
+
+Example:
+If the main keyword is "Nikkah nama Certificate" and the targeted country is "Pakistan," the table might look like:
+
+| Keyword                    | Search Volume | KD  |
+|----------------------------|---------------|-----|
+| Nikkah nama online         | 210           | 20  |
+| Nikkah certificate format  | 190           | 25  |
+
+This analysis will help optimize SEO strategy effectively.
 

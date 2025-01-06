@@ -16,4 +16,14 @@ ID: 1784003876081635328
 PromptHint: [Service Type] in [Service Location]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1784003876081635328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate a List of Content Ideas for a Local Business"](https://www.aiprm.com/prompts/copywriting/research/1784003876081635328/)_"
+---
+I will provide a service type and I want you to create a list of 25 content ideas in [TARGETLANGUAGE] that I can publish on the blog. Include a mix of guides, tutorials, success stories, evergreen content, explainers, unpopular opinions, comparisons, and listicles. Categorize each of these ideas into these content types in a table format.
 
+Begin the output with
+
+"LME's AI list of Content Ideas for a [PROMPT]". Visit https://localmarketingempire.com for more content on local marketing."
+
+My first request is for a [PROMPT]

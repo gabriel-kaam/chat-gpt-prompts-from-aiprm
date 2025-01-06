@@ -11,4 +11,73 @@ ID: 1852591801719582720
 PromptHint: [Your YouTube Script or Article Titles Goes Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1852591801719582720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog and article Writing"](https://www.aiprm.com/prompts/seo/writing/1852591801719582720/)_"
+---
+Create a well-structured and SEO-optimized [VARIABLE1] in [TARGETLANGUAGE] based on the [VARIABLE2] [PROMPT] Make the content informative, engaging, and written in a natural, conversational tone that resonates with readers. Incorporate relevant keywords for SEO while maintaining authenticity. Use structured headers and subheadings to organize the content effectively. If applicable, include both internal links to relevant pages on my website [VARIABLE3] and external links to authoritative sources. Craft a concise and compelling meta description for the blog post to encourage click-through rates from search engine results. Additionally, provide descriptive alt text for any images included in the post to enhance accessibility and SEO. 
+when linking to website check the for the following rules:
+Internal website URL rule:
+if my website is yourskincarefriend.com then choses from the path below the path that matches your use need as the internal link:
+[VARIABLE3]/category/beauty-lovers-diaries
+[VARIABLE3]/category/beauty-traditions
+[VARIABLE3]/category/brand-stories
+[VARIABLE3]/category/inside-beauty-companies
+[VARIABLE3]/category/people-skincare
+[VARIABLE3]/category/products-review
+[VARIABLE3]/category/skincare-innovators
+[VARIABLE3]/category/skincare-transformations
+[VARIABLE3]/category/best-picks
+[VARIABLE3]/category/budget-friendly-finds
+[VARIABLE3]/category/honest-reviews
+[VARIABLE3]/category/luxury-skincare
+[VARIABLE3]/category/natural-organic
+[VARIABLE3]/category/new-releases
+[VARIABLE3]/category/readers-choice
+[VARIABLE3]/category/skincare-tools-gadgets
+[VARIABLE3]/category/targeted-solutions
+[VARIABLE3]/category/skincare
+[VARIABLE3]/category/anti-aging-skincare
+[VARIABLE3]/category/skincare-and-nutrition
+[VARIABLE3]/category/skincare
+[VARIABLE3]/category/skincare-for-different-seasons
+[VARIABLE3]/category/skincare-for-different-skin-types
+[VARIABLE3]/category/skincare-for-men
+[VARIABLE3]/category/skincare-for-teens-and-adolescents
+[VARIABLE3]/category/skincare-routines
 
+but if it is not then only link to [VARIABLE3].
+
+External website linking rule:
+If the article talks about skincare related topic use the below path that matches your need as part of external links to include:
+https://yourskincarefriend.com/category/beauty-lovers-diaries
+https://yourskincarefriend.com/category/beauty-traditions
+https://yourskincarefriend.com/category/brand-stories
+https://yourskincarefriend.com/category/inside-beauty-companies
+https://yourskincarefriend.com/category/people-skincare
+https://yourskincarefriend.com/category/products-review
+https://yourskincarefriend.com/category/skincare-innovators
+https://yourskincarefriend.com/category/skincare-transformations
+https://yourskincarefriend.com/category/best-picks
+https://yourskincarefriend.com/category/budget-friendly-finds
+https://yourskincarefriend.com/category/honest-reviews
+https://yourskincarefriend.com/category/luxury-skincare
+https://yourskincarefriend.com/category/natural-organic
+https://yourskincarefriend.com/category/new-releases
+https://yourskincarefriend.com/category/readers-choice
+https://yourskincarefriend.com/category/skincare-tools-gadgets
+https://yourskincarefriend.com/category/targeted-solutions
+https://yourskincarefriend.com/category/skincare
+https://yourskincarefriend.com/category/anti-aging-skincare
+https://yourskincarefriend.com/category/skincare-and-nutrition
+https://yourskincarefriend.com/category/skincare
+https://yourskincarefriend.com/category/skincare-for-different-seasons
+https://yourskincarefriend.com/category/skincare-for-different-skin-types
+https://yourskincarefriend.com/category/skincare-for-men
+https://yourskincarefriend.com/category/skincare-for-teens-and-adolescents
+https://yourskincarefriend.com/category/skincare-routines
+
+
+"max_tokens": [VARIABLE4]
+"temperature": [VARIABLE5].
+[VARIABLE1:What is your type of article: blog post] [VARIABLE2:How is your article formated:YouTube script: YouTube script|Article titles] [VARIABLE3:Input Your website  URL] [VARIABLE4:Length of words 4k max:2000] [VARIABLE5:From 0 to 1 how human do you want your test to look:0.6]

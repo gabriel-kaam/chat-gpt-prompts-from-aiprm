@@ -11,4 +11,10 @@ ID: 1842779736461025280
 PromptHint: [coding language, concept like arrays, loops or variables, etc.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1842779736461025280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Coding Tutorial Generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1842779736461025280/)_"
+---
+Act as a computer science teacher; Create a detailed tutorial for me to learn the basics of programming; The programming language should be [LANGUAGE] and the output should be in [TARGETLANGUAGE]; The topic is [SUBJECT]; Create 3 sample codes each (easy, medium, hard) including the appropriate output for each; Describe the snippets in step-by-step instructions. Address each topic with a detailed explanation.
 
+[LANGUAGE, SUBJECT] = [PROMPT]

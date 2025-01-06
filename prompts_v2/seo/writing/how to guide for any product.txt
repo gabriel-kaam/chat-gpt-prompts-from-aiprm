@@ -11,4 +11,8 @@ ID: 1786979254903500800
 PromptHint: How to Guide
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1786979254903500800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "How to Guide for Any Product"](https://www.aiprm.com/prompts/seo/writing/1786979254903500800/)_"
+---
+[PROMPT]Write a detailed how-to guide for a product called [Product Name] Include step-by-step instructions and any necessary images or videos. Make sure to highlight the unique features and benefits of the product.[TARGETLANGUAGE]

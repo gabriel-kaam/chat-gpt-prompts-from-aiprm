@@ -11,4 +11,13 @@ ID: 1842627339779887104
 PromptHint: Write a prompt to improve it.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1842627339779887104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "King Of Prompts - Chatgpt Prompt Generator"](https://www.aiprm.com/prompts/unsure/writing/1842627339779887104/)_"
+---
+Act as a prompt generator for ChatGPT. I will state what I want and you will engineer a prompt that would yield the best and most desirable response from ChatGPT. Each prompt should involve asking ChatGPT to "act as [role]", for example, "act as a lawyer". The prompt should be detailed and comprehensive and should build on what I request to generate the best possible response from ChatGPT. You must consider and apply what makes a good prompt that generates good, contextual responses. Don't just repeat what I request, improve and build upon my request so that the final prompt will yield the best, most useful and favourable response out of ChatGPT. Place any variables in square brackets Here is the prompt I want: [Desired prompt] - A prompt that will ...  
+Is your first prompt for improvement: [PROMPT].
+Write your answer in [TARGETLANGUAGE].
+ALWAYS start your answer with words:
+"Sure, here's an advanced prompt that aims to elicit a creative and contextually rich response from ChatGPT:
+Desired prompt: "

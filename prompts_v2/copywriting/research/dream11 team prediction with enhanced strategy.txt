@@ -11,4 +11,135 @@ ID: 1948704030776377344
 PromptHint: Pitch report, player list, player records, head-to-head performance, toss outcome, recent form.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1948704030776377344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dream11 Team Prediction with Enhanced Strategy "](https://www.aiprm.com/prompts/copywriting/research/1948704030776377344/)_"
+---
+[TARGETLANGUAGE] [PROMPT]Pitch Report: [PITCH_REPORT]
+
+List of 22 Players: [PLAYERS_LIST]
+
+Players' Previous IPL Match Records: [PREVIOUS_RECORDS]
+
+Team Head-to-Head Performance: [HEAD_TO_HEAD_PERFORMANCE]
+
+Toss Information: [TOSS_INFO]
+
+Players' Recent Form: [RECENT_FORM]
+
+Weather Conditions: [WEATHER_CONDITIONS]
+
+Prediction Strategy:
+
+Analyze Pitch and Weather: Consider how the pitch and weather conditions will impact the game (e.g., favoring batsmen or bowlers).
+
+Player Selection:
+
+Prioritize players with a good record on similar pitches and against the opposition team.
+
+Focus on in-form players who are consistent performers.
+
+Include a balance of batsmen, bowlers, all-rounders, and wicket-keeper based on the pitch and expected score.
+
+Captain and Vice-Captain:
+
+Choose a captain with high potential for runs, wickets, or catches based on their recent form and the match situation.
+
+Select a reliable vice-captain who can deliver points even if the captain underperforms.
+
+Matchup Analysis: Identify favorable matchups where a player has historically performed well against a particular bowler or batsman.
+
+Output:
+
+Main Dream11 Team: List the 11 players for your main team, including Captain and Vice-Captain.
+
+Optional Teams (2): Provide two alternative teams also.
+
+Tell why selecting these players.
+
+Example: 
+
+Pitch Report: High-scoring pitch
+
+List of 22 Players: [PLAYERS_LIST]
+
+Players' Previous IPL Match Records: [PREVIOUS_RECORDS]
+
+Team Head-to-Head Performance: [HEAD_TO_HEAD_PERFORMANCE]
+
+Toss Information: [TOSS_INFO]
+
+Players' Recent Form: [RECENT_FORM]
+
+Weather Conditions: Overcast
+
+Prediction Strategy:
+
+Analyze Pitch and Weather: The high-scoring pitch combined with overcast conditions might slightly favor the bowlers initially, but the batsmen could also capitalize once they settle in.
+
+Player Selection:
+
+Prioritize players with a good record on similar pitches and against the opposition team. Look for batsmen who have excelled in high-scoring matches and bowlers with a knack for taking wickets in such conditions.
+
+Focus on in-form players who have been consistent performers in recent matches, considering their adaptability to varying pitch and weather conditions.
+
+Include a balance of batsmen, bowlers, all-rounders, and wicket-keeper based on the pitch and expected score. All-rounders who can contribute with both bat and ball will be valuable assets.
+
+Captain and Vice-Captain:
+
+Choose a captain who has a proven track record of scoring heavily or taking crucial wickets in high-scoring matches. Vice-captain should be someone reliable who can contribute consistently even if the captain fails to perform exceptionally.
+
+Matchup Analysis:
+
+Identify favorable matchups where a player has historically performed well against a particular bowler or batsman. For instance, if a batsman has consistently scored runs against a certain bowler in previous encounters, it might be wise to include them in the team.
+
+Output:
+
+Main Dream11 Team:
+
+1. [Player 1] (Captain)
+2. [Player 2]
+3. [Player 3]
+4. [Player 4]
+5. [Player 5]
+6. [Player 6]
+7. [Player 7]
+8. [Player 8]
+9. [Player 9]
+10. [Player 10]
+11. [Player 11] (Vice-Captain)
+
+Optional Teams:
+
+Team 1:
+
+[Explanation of player selection]
+
+1. [Player A] (Captain)
+2. [Player B]
+3. [Player C]
+4. [Player D]
+5. [Player E]
+6. [Player F]
+7. [Player G]
+8. [Player H]
+9. [Player I]
+10. [Player J]
+11. [Player K] (Vice-Captain)
+
+Team 2:
+
+[Explanation of player selection]
+
+1. [Player X] (Captain)
+2. [Player Y]
+3. [Player Z]
+4. [Player L]
+5. [Player M]
+6. [Player N]
+7. [Player O]
+8. [Player P]
+9. [Player Q]
+10. [Player R]
+11. [Player S] (Vice-Captain)
 

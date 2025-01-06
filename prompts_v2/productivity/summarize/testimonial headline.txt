@@ -11,4 +11,12 @@ ID: 1902702440894562304
 PromptHint: AIPRM testimonial message
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1902702440894562304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Testimonial Headline"](https://www.aiprm.com/prompts/productivity/summarize/1902702440894562304/)_"
+---
+In [TARGETLANGUAGE],
+Create a testimony expressive headline for this testimonial message about AIPRM, in a single fluent sentence (not more than 9 words), as a summary quote, not an actual title:
+---
+[PROMPT]
+---

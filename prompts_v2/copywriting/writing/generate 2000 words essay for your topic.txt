@@ -11,4 +11,10 @@ ID: 1801727948785709056
 PromptHint: [Topic] or [Niche]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801727948785709056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate 2000 words essay for your topic"](https://www.aiprm.com/prompts/copywriting/writing/1801727948785709056/)_"
+---
+Your task is to create minimum of 2000 words analytical, human written essay that is Plagiarism free with 10 external sources embedded with in text citations for each source including MLA citation page for all the sources used with the topic i give you. All output shall be in [TARGETLANGUAGE]. The topic to elaborate on is this:
 
+[PROMPT]

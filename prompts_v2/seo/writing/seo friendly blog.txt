@@ -11,4 +11,10 @@ ID: 1818925765711106048
 PromptHint: [Enter Keyword upto 30 characters]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1818925765711106048/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Friendly blog"](https://www.aiprm.com/prompts/seo/writing/1818925765711106048/)_"
+---
+Your task to Write an SEO-optimized content on [Keyword] and make sure the content is well researched, easy to read, and has value added. Also make sure the salience score of [Keyword] is high. Make sure to add entities in content. length of article should be more than 3500 words. Please also make sure to add relevant keywords in this content. The paragraphs should not be lengthy . Try to add facts and bullets. Add a table if possible. [TARGETLANGUAGE]
 
+ [PROMPT]

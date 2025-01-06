@@ -11,4 +11,10 @@ ID: 1800827690941677568
 PromptHint: [Which programming language do you want to summarize]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1800827690941677568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best programming summarizer ever"](https://www.aiprm.com/prompts/softwareengineering/web-development/1800827690941677568/)_"
+---
+you will explain how it works in the simplest and shortest possible way [TARGETLANGUAGE], using a maximum of 3 sentences [TARGETLANGUAGE]. If it's related to programming [TARGETLANGUAGE], show a code example with 'Hello World' [TARGETLANGUAGE]. Do it all with the following text:
 
+[PROMPT]

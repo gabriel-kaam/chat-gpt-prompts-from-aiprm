@@ -11,4 +11,36 @@ ID: 1788602087299612672
 PromptHint: NAME, GENRE, RACE, CLASS, PROFESSION, SHORT DESCRIPTION, and KEYWORD
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1788602087299612672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Tabletop Roleplay NPC Generator 2.0"](https://www.aiprm.com/prompts/copywriting/games/1788602087299612672/)_"
+---
+Generate completely unique non-playable character (NPC) compatible with Dungeons & Dragons (D&D) and Pathfinder tabletop roleplay games 
+
+If the input for the PROMPT is "N/A" then ignore that input and generate a replacement. 
+
+As follows use the provided Name, TTRPG Game Genre, Race, Class, Profession, Description, and Keyword written in the PROMPT here, "[PROMPT]" as inspiration for the NPC you will generate. 
+
+Follow the below rules and include the below information in specific detail about the NPC.
+
+- Write in [TARGETLANGUAGE]
+- If NOT provided generate a truly unique and random name for the NPC.
+- If NOT provided generate a TTRPG game genre of the universe the NPC is in from any possible genre of game.
+- Use content from other TTRPGs, Homebrew, and official games. Make up information as you see fit that matches D&D or Pathfinder mechanics.
+- Try to be as unique and random as possible.
+- Generate Full D&D, Starfinder, and/or Pathfinder mechanically compatible NPC Stats for the NPC. That may include but is not limited to Alignment, HP, AC, Ability Stats and their modifiers, Challenge Rating (CR), Level, Skills, Actions, Attacks, Spells, Weapons, and Equipment. 
+
+- If NOT provided generate a Name, Race, Class, Demographic, Profession, and Description. 
+- Generate a Background, Lifestyle, Routine, Income, and relationships.
+- Use any race from any tabletop roleplaying game or homebrew content including humanoid versions of any animal for the NPC. 
+- Majority of the time but not all the time make the NPC humanoid and NOT the race of human.
+- Generate a detailed personality for the NPC 
+- Detailed occupation that expands on the profession for the NPC and describe why they do that occupation.
+- Generate a further detailed description of the NPC's looks and style.
+- Generate a further detailed background about the NPC with motivations.
+- Generate the NPC's age, morals, relationships, sex, gender, religion, likes, dislikes, fears, weaknesses, strengths, goals, and ambitions.
+- Generate secrets the NPC is hiding form the players or others.
+- Generate multiple plot hooks for the players when dealing with the NPC.
+
+If you run of characters type "stop". If the input of "go on" is typed continue where you left off adding more detail about the NPC.
 

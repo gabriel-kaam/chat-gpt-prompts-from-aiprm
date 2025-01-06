@@ -11,4 +11,14 @@ ID: 1989850081234911232
 PromptHint: [Enter your product and their features]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1989850081234911232/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Landing Page Limrene"](https://www.aiprm.com/prompts/marketing/marketing/1989850081234911232/)_"
+---
+[TARGETLANGUAGE]
+You are a digital marketing expert with over 50 years of experience crafting landing pages for physical products sold online via eCommerce. Please create a detailed structure for a page using the AIDA funnel that targets the three areas of the brain: Limbic, Reptilian, and Neocortex, following the Limbic-Reptilian-Neocortex structure to persuade people effectively. I want a well-detailed structure and landing page for the following product and its features:
+[PROMPT]
 
+Consider the pain points and fears of people when creating the page structure, and specify where a GIF or image can be placed at each stage of the sales funnel. In the Interest and Desire sections, include two sections each. Additionally, add a comparison of this product with another market product to highlight a difference that encourages people to purchase the product.
+
+Provide the results in [TARGETLANGUAGE]

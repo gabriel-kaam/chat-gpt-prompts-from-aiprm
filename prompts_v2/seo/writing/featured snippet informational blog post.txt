@@ -11,4 +11,40 @@ ID: 1835706600649379840
 PromptHint: [KEYWORD PHRASE], list of SEO terms to include, and click "continue" anytime it stops
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1835706600649379840/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "“Featured Snippet” Informational Blog Post "](https://www.aiprm.com/prompts/seo/writing/1835706600649379840/)_"
+---
+Follow the below instructions EXACTLY. Pay attention to instructions regarding structure:
+H1 = Write the title in H1 format
+H2 = Write the heading in H2 format
+subheadings = write the heading in H3 format
 
+You are going to write a blog post about the keyword phrase in [TARGETLANGUAGE] as though you were me. 
+ 
+Refer to the list of SEO terms provided for optimizing the blog post for Google Search. For the list of terms, please include as many as you can throughout the article in a natural-sounding way.
+
+Now you will write the blog post. I’m going to give you all the commands up front, BUT you're only going to execute ONE COMMAND PER GENERATION. DO NOT write the whole article at once. Each command =  output from you of about 500 words. Each separate command is notated by this symbol: >
+Once you execute the first command, I will simply tell you “continue,” and you will execute the next command in the sequence until all the commands are complete. Do not label headings. 
+
+Here are the commands:  
+
+>Write a title that contains the keyword phrase followed by a subtitle in the form of a strong statement. (TITLE SHOULD BE IN H1 FORMAT) Then, write an introduction in 2nd person that sets up the topic in 1-2 sentences, restating the question as it relates to the reader. Then in a new paragraph, provide a concise and direct answer to the question in an encyclopedic tone in bold text. 
+
+>Starting with the words, "in this article," write 1-3 sentences introducing what the rest of the article will embody
+
+>write an H2 heading starting with "a detailed explanation," followed by 3-4 detailed paragraphs explaining the above, including subheadings. End this section with a transition sentence starting with "here's everything else"
+
+>Depending on the nature of the question, choose one of the following formats for the remainder of the article:
+Option 1: related questions the reader is most likely to have next
+Option 2: related headings the reader will need to know
+Whichever you decide, write at the FIRST THREE headings with AT LEAST 2-3 paragraphs under each. Be sure to delve into the nuances and any relevant steps, tips, examples, or analogies that will help explain it to the reader.
+
+>continue with the NEXT THREE headings with AT LEAST 2-3 PARAGRAPHS UNDER EACH.
+
+>Use the H2 heading “Final Thoughts” then in 2nd person narrative, write a 1-2 paragraph conclusion that BRIEFLY touches on what the reader has learned from the article, and end on an encouraging note. 
+
+>Write an FAQ with related questions that were NOT covered in the article above. The answers should be no more than 1-2 sentences each. 
+
+The first line provided is the keyword phrase, every line after that are SEO terms:
+[PROMPT]

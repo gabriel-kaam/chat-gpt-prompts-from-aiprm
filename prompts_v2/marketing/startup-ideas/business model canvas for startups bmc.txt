@@ -11,4 +11,17 @@ ID: 1800523140850511872
 PromptHint: Describe the product or the service, the possible market and the neccesary resources
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/startup-ideas/1800523140850511872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Business Model Canvas for Startups (BMC)"](https://www.aiprm.com/prompts/marketing/startup-ideas/1800523140850511872/)_"
+---
+Audience: Small business owners and people seeking instructions and information for their product or service strategy 
+Format and length: 500-1000 words, for professional text writing 
+Keywords and subtopics: use keywords from the “prompt” description
+Tone and style: Professional, with a focus on practical advice and real-world examples
+Research and sources: Please include data and statistics from reputable scientific sources such as financial times, forbs, Inc, New York times statista, marketwatch, Data.gov, Google Public Data Explorer, World Bank Data, OECD Data, Eurostat, elstat, taking in account recent business trends like sustainability and enviroment
+Constraints or limitations: Please avoid disputable material
+Deadline: This post should be submitted by today
+Your task is to use the provided information about the product or service taking in account its main characteristics, and considering the market in focus and the required resources to create a BUSINESS MODEL canvas  for a new product or service. use an analytic formal analysis taking in account all possible parameters. Avoid increased risk. [TARGETLANGUAGE]:
+[PROMPT]
+Analyse further each part of the Business model canvas

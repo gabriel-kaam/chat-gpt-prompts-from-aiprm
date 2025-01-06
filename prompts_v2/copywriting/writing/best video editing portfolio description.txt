@@ -11,4 +11,12 @@ ID: 1838306898622554112
 PromptHint: Write the TITLE of your video or Describe it
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1838306898622554112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Video Editing Portfolio Description"](https://www.aiprm.com/prompts/copywriting/writing/1838306898622554112/)_"
+---
+I'm a video editor and going to add a video  that I did for my client to my Fiverr portfolio so I need a project description. All output shalle be in [TARGETLANGUAGE].
 
+The title of the video for the description is this :
+
+[PROMPT]

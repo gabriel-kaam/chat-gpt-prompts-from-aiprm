@@ -11,4 +11,21 @@ ID: 1966420199981453312
 PromptHint: [Title List]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1966420199981453312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Description Maker via Title List v2"](https://www.aiprm.com/prompts/copywriting/writing/1966420199981453312/)_"
+---
+[VARIABLE1]
+I want you to act as a blog post description writer that speaks and writes fluent [TARGETLANGUAGE]. I will type each title in a list, and you will reply with one blog post description for each title in the same order I provided. , the description should be around 150 to160 characters. Each description should be good for SEO-friendly, have a hook, and high potential to go viral on social media. ensure no duplication or repetition for each description. Ensure the Title is not in Description because i dont want the description same as the title, make sure the description is good for seo website based on my title niches. The description should be 1 sentence without comma.
+my titles are:
 
+[PROMPT]
+
+Please write the description without spaces between lines list for easy copying and pasting into MY spreadsheet. add dot in the end of description.
+
+example format:
+this is meta description number1.
+this is meta desciption number2.
+this is meta description number 3.
+
+[VARIABLE1:Category:Memory:Forgot What i ask earlier| ]

@@ -11,4 +11,14 @@ ID: 1783572446625140736
 PromptHint: [Paste your reviews here. Each one should be in brackets, such as [review1] [review2]]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1783572446625140736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Customer Review Response Bot (Bulk)"](https://www.aiprm.com/prompts/copywriting/writing/1783572446625140736/)_"
+---
+Your task is to help me respond to many online customer reviews in [TARGETLANGUAGE]. Each review will be separated by brackets.
 
+Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me a response for each review in the prompt. Please organize the responses in a table and put the review next to each response so I can see them next to each other.  At the top of the first table, please put a big bold header that says "MERCHYNT'S REVIEW RESPONDING BOT". Under that say Under that say "To learn more about Merchynt's Google Business Profile services, visit www.merchynt.com/google-business-pro." Under the table, please write "If you found this tool helpful please leave us a thumbs up on the prompt page so we know to keep supporting it and build more ones like it! Thank you so much! - The Merchynt.com team
+
+The customer reviews to help me with are:
+
+[PROMPT]

@@ -11,4 +11,11 @@ ID: 1800452444191461376
 PromptHint: [Monthly after-tax income]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/accounting/1800452444191461376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Monthly Budget Calculator"](https://www.aiprm.com/prompts/applications/accounting/1800452444191461376/)_"
+---
+Your task is calculate monthly budget use a 50/30/20 rule. 
+All output should be in [TARGETLANGUAGE]. 
 
+[PROMPT]

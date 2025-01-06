@@ -11,4 +11,9 @@ ID: 1796395619133415424
 PromptHint: SEO friendly Article
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796395619133415424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% SEO friendly and unique article"](https://www.aiprm.com/prompts/seo/writing/1796395619133415424/)_"
+---
+[TARGETLANGUAGE], [PROMPT]
+write a creative, 100% unique and Human-written article in English for the Keyword [KEYWORD]. The article should include Creative Title (should be in H1 Heading), SEO meta description, Introduction, headings (Should be h2 heading), subheadings (h3, h5, h6 headings), bullet points or Numbered list (if needed), FAQs and conclusion. Make sure article is plagiarism free. The minimum length of the article should be 1000 words long. Don't forget to use question mark (?) at the end of questions. Try not to change the original WordPress while writing the Title. Try to use the [KEYWORD] 5-6 times in article. try to include [KEYWORD] in headings as well. write a content which can easily pass ai detection tools test.

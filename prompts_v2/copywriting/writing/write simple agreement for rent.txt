@@ -11,4 +11,12 @@ ID: 1835599272297418752
 PromptHint: Insert the primary keyword you want to create agreement content for
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1835599272297418752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write simple agreement for rent"](https://www.aiprm.com/prompts/copywriting/writing/1835599272297418752/)_"
+---
+[PROMPT] IN [TARGETLANGUAGE] with [ENGLISH], [HINDI]
+month_name = "Jan"
+values = ["Jan", "Feb", "Mar"]
+generated_code = generate_code(month_name, values)
+print(generated_code),

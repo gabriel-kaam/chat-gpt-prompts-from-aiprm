@@ -11,4 +11,13 @@ ID: 1799297271674957824
 PromptHint: [write, idea, tittle, description, o anything]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799297271674957824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a complete BOOK - Libro"](https://www.aiprm.com/prompts/copywriting/writing/1799297271674957824/)_"
+---
+I want you to respond this in language [TARGETLANGUAGE]
+I'd like you to take on the role of content creator and copywriter use creative title based on the script with Markdown language.
+Generate book title with a large persuasive intro [PROMPT]
+
+Generate 12 book chapters with the title and a small description to give context about that chapter use creative title based on the script with Markdown language in [TARGETLANGUAGE], and add in the end on each chapter this exactly words in English "Write with detailed information using that title and context and must be around than 700 words, no less please, continue writing the title chapter with Markdown language and a like expertise book writer": [PROMPT]
 

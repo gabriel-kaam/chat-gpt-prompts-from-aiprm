@@ -11,4 +11,10 @@ ID: 1787403294411579392
 PromptHint: [Text for which you must give the context of your problem]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1787403294411579392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt ".NET MAUI Beginner"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1787403294411579392/)_"
+---
+Your task is to give me solutions with the code in .NET MAUI with a context that I will give you each time. All results must be in [TARGETLANGUAGE]. The context is as follows:
 
+[PROMPT]

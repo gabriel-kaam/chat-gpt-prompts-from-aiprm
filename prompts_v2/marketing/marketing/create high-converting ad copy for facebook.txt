@@ -11,4 +11,12 @@ ID: 1920484178194591744
 PromptHint: Topic and Location
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1920484178194591744/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create High-converting Ad Copy For Facebook"](https://www.aiprm.com/prompts/marketing/marketing/1920484178194591744/)_"
+---
+You are social media manager and you are asked to create high-converting ad copy for Facebook, but follow brand guidelines and tone of voice in the context of e-commerce product descriptions.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

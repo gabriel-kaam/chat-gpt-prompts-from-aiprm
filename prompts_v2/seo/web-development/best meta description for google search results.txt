@@ -11,4 +11,10 @@ ID: 1833589409594466304
 PromptHint: [Enter the URL of the website or page you want the meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1833589409594466304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Meta Description For Google Search Results"](https://www.aiprm.com/prompts/seo/web-development/1833589409594466304/)_"
+---
+Your task is to create a meta description from the url provided in 160 characters or less. and prvide a list of 10 keywords related to the URL. All output shall be in [TARGETLANGUAGE]. The url to use to create the meta description and keywords is:
 
+[PROMPT]

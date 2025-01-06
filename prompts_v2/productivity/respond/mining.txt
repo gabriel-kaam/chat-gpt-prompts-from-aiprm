@@ -11,4 +11,11 @@ ID: 1942153339391959040
 PromptHint: [keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1942153339391959040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mining"](https://www.aiprm.com/prompts/productivity/respond/1942153339391959040/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE] 
+Eu quero que voce traduza a palavra ....
+Depois apresente ao menos 5 exemplos em frases curtas e simples em inglês e português em uma tabela
+[PROMPT]

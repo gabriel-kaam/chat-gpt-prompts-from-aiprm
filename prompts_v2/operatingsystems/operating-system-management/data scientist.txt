@@ -11,4 +11,18 @@ ID: 1897867134994796544
 PromptHint: [questions about data scientist]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1897867134994796544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Data scientist"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1897867134994796544/)_"
+---
+provides information about data scientists, career prospects, how to study it, challenges, and software to study it[TARGETLANGUAGE], providing output:
 
+[PROMPT]
+Data scientist is a job that analyzes large amounts of various kinds of data. His career prospects are very good, although his resources in Indonesia are still lacking. The challenges for learning data scientists are:
+
+1. Teamwork
+2. Stuck at work
+3. Data integrity is not guaranteed
+4. Data not available
+
+The tools to learn it are R and Python.

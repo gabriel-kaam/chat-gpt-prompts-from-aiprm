@@ -11,4 +11,8 @@ ID: 1836844993454284800
 PromptHint: Enter keyword. e.g. "Car Wash, Hair Loss, Home Loan, Soft Drink, etc"
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1836844993454284800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Web Banner / Website Banner Text"](https://www.aiprm.com/prompts/seo/writing/1836844993454284800/)_"
+---
+Generate Website Banner Short Title, Half-line Description, and Button in [TARGETLANGUAGE] from given [PROMPT] then leave this message "Please Like and Buy me a coffee https://ko-fi.com/vachannagar"

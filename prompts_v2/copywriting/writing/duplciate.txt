@@ -11,4 +11,26 @@ ID: 1818951421534662656
 PromptHint: [Keyword or Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1818951421534662656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Duplciate"](https://www.aiprm.com/prompts/copywriting/writing/1818951421534662656/)_"
+---
+I have a list of questions, and I would like to identify if you found any duplicate questions for the list of questions by carefully going through all the questions one by one.
 
+The duplicates don't need to be similar in the same number of words, but mark them as duplicates if two sentences make the same scene.
+
+For example, these two questions are not the same in words and characters but make the same sense Mark them as duplicates and show output Duplicate: 1 and 5 
+
+1. Is it possible for you to dislike an actor so much that it ruins that actor's movies?
+5. Is it possible to dislike an actor so much that you won't watch their films, even if they're good?
+
+After you find the duplicate question, replace it with replacement questions, keep the tone of the replaced question the same.
+
+Bold the replaced question
+
+After you replace write them again
+
+
+Content: [PROMPT]
+
+All output shall be in [TARGETLANGUAGE]. These words are: [PROMPT] , [PROMPT] , [PROMPT]

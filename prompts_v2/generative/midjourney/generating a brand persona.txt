@@ -11,4 +11,8 @@ ID: 1849477990606491648
 PromptHint: brand persona generator
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1849477990606491648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generating a brand persona"](https://www.aiprm.com/prompts/generative/midjourney/1849477990606491648/)_"
+---
+Create a high-resolution, Canon EOS R5, long shot,  realistic image of a [PROMPT][TARGETLANGUAGE], ensuring accurate proportions and no distortions.

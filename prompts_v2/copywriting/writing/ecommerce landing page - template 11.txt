@@ -11,4 +11,10 @@ ID: 1793241261776564224
 PromptHint: [product description you want the sales page for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1793241261776564224/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "eCommerce landing page - template 11"](https://www.aiprm.com/prompts/copywriting/writing/1793241261776564224/)_"
+---
+I want you to act as very proficient conversion copywriter and that writes in fluent [TARGETLANGUAGE]. Your task is to write the text based on product description but must follow this structure: benefit-focused headline; product description; 3 most important benefits that should not be described in more than 5 words; 6 additional benefits described in short paragraphs and with strong inviting headlines; and 8 user testimonials. The product description is this: 
 
+[PROMPT]

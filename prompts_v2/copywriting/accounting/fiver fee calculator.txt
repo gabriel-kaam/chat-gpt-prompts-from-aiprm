@@ -12,4 +12,17 @@ ID: 1802272656012345344
 PromptHint: Enter your incomes
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1802272656012345344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fiver Fee Calculator"](https://www.aiprm.com/prompts/copywriting/accounting/1802272656012345344/)_"
+---
+Your task is calculate the amount with the Fiverr Fee. All output shall be in [TARGETLANGUAGE].  Fiverr makes most of their money by keeping 20% of seller service fees.
+
+[PROMPT]
+Information about Fiverr
+
+Amount without fee
+Amount with fee
+The fee
+
 

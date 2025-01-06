@@ -11,4 +11,10 @@ ID: 1849903426944364544
 PromptHint:  [Text to optimize]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1849903426944364544/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Improve text for prompt use"](https://www.aiprm.com/prompts/copywriting/writing/1849903426944364544/)_"
+---
+Your task is to correct and improve the spelling of the provided text in  [TARGETLANGUAGE] . Your goal is to preserve the original intent while elevating the clarity and fluency of the text. Concentrate on fixing any spelling or grammatical errors, and contemplate rewording any awkward or unclear sentences to enhance overall readability for use as a prompt in ChatGPT-4. Your response should comprise the revised and enhanced text, free of supplementary comments or explanations. This response is explicitly crafted as a "prompt" in ChatGPT-4 and should be optimized accordingly. The text to optimize is this:
 
+[PROMPT]

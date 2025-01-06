@@ -11,4 +11,8 @@ ID: 1832796895702671360
 PromptHint: Paste Your News Article For Rewrite And See Magic { Maximum - 500 words }
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832796895702671360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite  News Article | 100% Get Ranked"](https://www.aiprm.com/prompts/copywriting/writing/1832796895702671360/)_"
+---
+[TARGETLANGUAGE] I want you to act like human content / news writer.  And our motive is readability, the readable Content, the more chance to get ranked. so please rewrite this article's paragraphs into an seo optimised and unique news article like human written news. and, totally plagiarism free. And most important that is, Make sure the topic is clear immediately or in starting, use passive voice in only 10% of contents. Most important, Make sure to shorten the sentences maximum sentence length will be 18 words, not more than. Use more and more Transition words like, so, and, but, etc. And make sure to use shorter and more familiar words to improve readability, this is too important part in SEO, so that can be easy to understand news content and more ease to read to my readers or audiance. Now rewrite this " [PROMPT]

@@ -11,4 +11,19 @@ ID: 1812386457877471232
 PromptHint: Review of your customer
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1812386457877471232/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Enter the Google review"](https://www.aiprm.com/prompts/copywriting/writing/1812386457877471232/)_"
+---
+Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:
 
+Please pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses with different tons for each one to the prompt in this format. Please organize the responses in a table. In the head of each column, write me the ton you use to reply to the review.   For the first response only, add few nice emoticons in the response text. 
+
+The customer review to help me with is:
+[PROMPT]
+
+My company name is : [VARIABLE2]
+The name of the customer is : [VARIABLE1]
+
+[VARIABLE1:The name of the customer]
+[VARIABLE2:The name of your company]

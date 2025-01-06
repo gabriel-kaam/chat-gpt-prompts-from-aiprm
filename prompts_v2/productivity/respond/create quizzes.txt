@@ -11,4 +11,8 @@ ID: 1837343197606203392
 PromptHint: list of key words
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1837343197606203392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create quizzes "](https://www.aiprm.com/prompts/productivity/respond/1837343197606203392/)_"
+---
+please use the keywords [PROMPT] and Act as an educational content creator and generate a set of 10 quizzes, along with their corresponding answers and explanations. please avoid all of the above as a 4th answer. Each quiz should cover a different topic and should be designed to test the knowledge and understanding of the reader that speaks and writes fluent [TARGETLANGUAGE]

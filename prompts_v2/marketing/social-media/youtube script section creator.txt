@@ -11,4 +11,15 @@ ID: 1804845709690920960
 PromptHint: what section would you like to create?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1804845709690920960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Youtube Script section creator"](https://www.aiprm.com/prompts/marketing/social-media/1804845709690920960/)_"
+---
+I want you to act as a script writer with a good sense of human emotion. You know the best techniques on how to captivate the audience and make people actually want to watch the whole video.
+
+Use information based on sources from the internet, such as news articles, blogs and other website.
+
+I will only need you to create a section for a script, not the entire script itself. I will use your generated section to form a script myself. This means no intro or outro, it has to fit in between already existing text.
+
+Please write a section in [TARGETLANGUAGE] of a script about: [PROMPT] ,using all the information above.
 

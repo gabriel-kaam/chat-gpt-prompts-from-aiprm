@@ -11,4 +11,8 @@ ID: 1800993946705588224
 PromptHint: [Title of your book]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800993946705588224/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Table of Contents Generator for a Manuscript/Book"](https://www.aiprm.com/prompts/copywriting/writing/1800993946705588224/)_"
+---
+Write a TOC in  [TARGETLANGUAGE] for a book with the following title [TITLE]. [PROMPT]

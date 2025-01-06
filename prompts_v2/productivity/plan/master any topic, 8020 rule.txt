@@ -11,4 +11,8 @@ ID: 1811431133381132288
 PromptHint: enter "subject" you would like to learn about
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1811431133381132288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Master any Topic, 80/20 rule"](https://www.aiprm.com/prompts/productivity/plan/1811431133381132288/)_"
+---
+Identify the 20% of [PROMPT] that will yield 80% of the desired results and provide a focused learning plan to master it. Please output in [TARGETLANGUAGE]

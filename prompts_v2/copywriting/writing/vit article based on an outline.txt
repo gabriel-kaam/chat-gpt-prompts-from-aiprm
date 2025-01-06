@@ -11,4 +11,11 @@ ID: 1821067776312471552
 PromptHint: Enter outline here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821067776312471552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Viết article based on an outline"](https://www.aiprm.com/prompts/copywriting/writing/1821067776312471552/)_"
+---
+[TARGETLANGUAGE]
+Write content for the outline below with a professional voice like HR Manager, short, logical sentences, no repetition of words, no overlap with content on the internet
+[PROMPT]
+[VARIABLE]

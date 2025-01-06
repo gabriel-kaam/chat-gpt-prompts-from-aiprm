@@ -11,4 +11,8 @@ ID: 1839970258912935936
 PromptHint: [Url to analyze]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1839970258912935936/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Helpful Content Review"](https://www.aiprm.com/prompts/copywriting/improve/1839970258912935936/)_"
+---
+Please analyze the guidelines at https://developers.google.com/search/docs/fundamentals/creating-helpful-content and then analyze [PROMPT] to ensure that it follows all of the recommendations outlined by Google in [TARGETLANGUAGE].

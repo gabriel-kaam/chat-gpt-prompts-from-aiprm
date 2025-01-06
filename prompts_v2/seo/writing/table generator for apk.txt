@@ -11,4 +11,10 @@ ID: 1799374949220343808
 PromptHint: [Enter your APK name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1799374949220343808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Table Generator for APK"](https://www.aiprm.com/prompts/seo/writing/1799374949220343808/)_"
+---
+Your task is to create a table for and apk including app name, latest version, release date, publisher name, genre, Requirements, and file size. All the output should be in [TARGETLANGUAGE] and two column format. The APK name is:
 
+[PROMPT]

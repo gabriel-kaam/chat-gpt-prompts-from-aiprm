@@ -11,4 +11,45 @@ ID: 1941112300547887104
 PromptHint: drop your LINK here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1941112300547887104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Recipe Template"](https://www.aiprm.com/prompts/copywriting/writing/1941112300547887104/)_"
+---
+If one plugin can't access the link, try using the other 2 plugins. if all don't work, ask for the ingredients & instructions
+You're going to act like a social media Manager for a Facebook page about cooking recipes.
 
+ Scan the  LINK and extract the name of the recipe, the ingredients and rewrite the instructions. Please, make sure to extract the full list of ingredients and full list of instructions, sometimes they come in more than 1 step.
+
+All the text should be in  [TARGETLANGUAGE], The LINK to use in this [PROMPT]
+make sure to add some fancy words to the recipe title. make sure to not change the ingredients part. your output should look exactly like how it's written on the website. do not add or remove anything.
+
+make sure to rewrite the step-by-step instruction list so that it looks unique and doesn't look the same as the original. your output should look exactly like how it's written in the website. do not add or remove anything.
+
+* Always switch pork-related ingredients to  alternatives.
+* don't use alcoholic ingredients, find alternatives and use it on your output.
+
+Your output should be like this :
+
+- fancy recipe name styled with emojis at beginning & end ( up to 2 lines maximum)
+
+Detailed Recipe & Step By Step Instruction Here 👇
+
+
+- 📋 Ingredients: Use emojis related to each ingredient when it's available. Emojis must be at the beginning of each ingredient list.
+important rule: you must include how much proportion to use for each  ingredient
+
+
+- 📝Instructions: use emoji numbers at the start of each step to define the step-by-step process. 
+ - at the end of each step, Use emojis related to each instruction
+
+- Preparation time:     -Cooking Time:   -Servings:   -Calories: 
+
+- Notes 💡: related to the recipe. Use emojis at the end of the note when possible. 
+(don't recommend alcoholic-related tips) use numbers list style
+Make it as short as possible. (2 to 3 notes max)
+use ◻️ at the beginning of each note
+
+20 related hashtags, on the same line
+
+1 Social Media Post with different emojis for each social media post, to promote the recipe.
+Add for each post a different combination of 15 relevant hashtags each, on the same line, but leaving a new line from the post caption to the tags

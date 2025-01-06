@@ -11,4 +11,9 @@ ID: 1821864011596296192
 PromptHint: [English content]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1821864011596296192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translation of Terminology"](https://www.aiprm.com/prompts/copywriting/writing/1821864011596296192/)_"
+---
+Please translate the following English content into [TARGETLANGUAGE]. You must ensure accuracy and fluency in the translation, while understanding the meaning and context of the original text. If encountering professional terminology or fixed phrases, please find the correct [TARGETLANGUAGE] counterpart to fully retain the information of the original text.The English content to translate is this:
+[PROMPT] 

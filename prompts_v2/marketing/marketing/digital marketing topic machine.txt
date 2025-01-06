@@ -11,4 +11,10 @@ ID: 1797313173087580160
 PromptHint: Provide the number of topics you'd like to be generated. Example "5"
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1797313173087580160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Digital Marketing Topic Machine"](https://www.aiprm.com/prompts/marketing/marketing/1797313173087580160/)_"
+---
+Create a table in Markdown language of [PROMPT] Digital Marketing Blog Topics with Clickbait-Like Titles, and assign a Creative Score and SEO Score for each. The Creative Score should reflect how catchy and attention-grabbing the title is, while the SEO Score should reflect how well the title is optimized for search engines. Please also include Topic Category, and Tags in table as well. All output shall be in [TARGETLANGUAGE].
+
 

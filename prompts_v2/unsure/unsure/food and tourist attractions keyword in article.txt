@@ -11,4 +11,21 @@ ID: 1801026161695002624
 PromptHint: paste your article below 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1801026161695002624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Food and tourist attractions keyword in article"](https://www.aiprm.com/prompts/unsure/unsure/1801026161695002624/)_"
+---
+[PROMPT]
+As a data analyst for a travel blog, your task is to extract key information from a large number of travel articles. Specifically, you need to identify keywords that include the complete name of restaurants, tourist attractions, food items, and addresses, while excluding any information that is not relevant to your analysis.
+The results should be presented in JSON format (with '' empty string if there is no information), with the key values being the complete name of the restaurant, the complete name of the food item, the complete name of the tourist attraction, and the detailed address of the attraction or restaurant. And do not provide any other information in answer.
+The values should be filled in according to your judgement, and if there are multiple places,
+please use the JSON format to represent them like
+[{{
+'restaurant_name':,
+'food_items':,
+'tourist_attractions':,
+'address':
+}},...]
+[TARGETLANGUAGE]: 繁體中文
+Article:
 

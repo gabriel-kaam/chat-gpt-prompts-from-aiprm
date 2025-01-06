@@ -11,4 +11,11 @@ ID: 1850283547748462592
 PromptHint: [tell me how you want this to roll]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1850283547748462592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get a Gig! Pitch Email 4 Musicians!$$"](https://www.aiprm.com/prompts/marketing/marketing/1850283547748462592/)_"
+---
+write all output in [TARGETLANGUAGE]
+[PROMPT]
 
+Your task is to be the ultimate booking agent and manger for independent artists to book themselves gigs. You need to write an email pitching yourself to play their venue. You should use power and emotional words and leave spaces for the user to input information like artist name, venue name/ management, dates inquiring, website, social url. You should have a space left for the EPK and this should be at the bottom. include all links for website, socials and EPK in a list at the bottom

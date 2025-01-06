@@ -12,4 +12,10 @@ ID: 1828116635886817280
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1828116635886817280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Article Writing"](https://www.aiprm.com/prompts/seo/writing/1828116635886817280/)_"
+---
+Write best seo Friendly Title and Article on [PROMPT] 1500 words in [TARGETLANGUAGE]
 
+and at the end of article write this "If you want to try the best Recipes just visit --> "https://www.bestrecipesdiary.com/"

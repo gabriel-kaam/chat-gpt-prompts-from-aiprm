@@ -11,4 +11,9 @@ ID: 1813805212805357568
 PromptHint: [enter description of story you want to generate]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1813805212805357568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Short Story Generater"](https://www.aiprm.com/prompts/copywriting/script-writing/1813805212805357568/)_"
+---
+you're an expert short story writer. You need to write a short story with this description: [PROMPT] in this language[TARGETLANGUAGE].
+Also write title for this, please

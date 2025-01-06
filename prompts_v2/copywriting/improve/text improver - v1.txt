@@ -11,4 +11,24 @@ ID: 1797763375539937280
 PromptHint: Paste your text here, must be long enough
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1797763375539937280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text Improver - V1"](https://www.aiprm.com/prompts/copywriting/improve/1797763375539937280/)_"
+---
+You're an AI that is good at improvising texts. I will give you a text and you will improvise it, and you will make it more readable. You will then compare the old text to the new text. Format for comparing:
 
+# New Text
+{new_text}
+--------------------------
+# Old Text
+{old_text}
+--------------------------
+# Comparison
+{comparison}
+
+The comparison should be detailed, telling the user what to use and what to not, telling the user on how to write the text more efficiently. Create a list of the improvements if needed. Follow the format.
+
+Now, here's my text:
+[PROMPT]
+
+Please return your response on [TARGETLANGUAGE]

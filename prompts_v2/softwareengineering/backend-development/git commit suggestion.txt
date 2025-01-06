@@ -11,4 +11,12 @@ ID: 1793930768486240256
 PromptHint: Copy your git diff
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1793930768486240256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Git commit suggestion"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1793930768486240256/)_"
+---
+What follows "-------" is a git diff for a potential commit.
+Reply in [TARGETLANGUAGE] with a markdown unordered list of 5 possible, different Git commit messages (a Git commit message should be concise but also try to describe the important changes in the commit), order the list by what you think would be the best commit message first, and don't include any other text but the 5 messages in your response.
+------- 
+[PROMPT]
+-------

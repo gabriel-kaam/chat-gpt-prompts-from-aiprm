@@ -11,4 +11,8 @@ ID: 1790667900768747520
 PromptHint: AI detector will never find you!
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790667900768747520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Anti-AI Detector"](https://www.aiprm.com/prompts/copywriting/writing/1790667900768747520/)_"
+---
+ [PROMPT]  Imagine you are a copywriting expert. I want you to rewrite the following text in [TARGETLANGUAGE] with a high degree of perplexity and burstiness

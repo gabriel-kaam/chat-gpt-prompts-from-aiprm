@@ -11,4 +11,10 @@ ID: 1798443431031472128
 PromptHint: Question, example: How to create a Cloud Function?
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1798443431031472128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Cloud Platform | GCP | Helper"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1798443431031472128/)_"
+---
+Please ignore all previous requests. I'm going to ask a question related Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step guid in [TARGETLANGUAGE] on how to achieve a solution to the problem. You will assume that the project has already been created.
 
+The question is: [PROMPT]

@@ -11,4 +11,8 @@ ID: 1871929543758704640
 PromptHint: Hey [name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1871929543758704640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Hello Friend"](https://www.aiprm.com/prompts/copywriting/accounting/1871929543758704640/)_"
+---
+Hey [PROMPT] in [TARGETLANGUAGE] [VARIABLE1]

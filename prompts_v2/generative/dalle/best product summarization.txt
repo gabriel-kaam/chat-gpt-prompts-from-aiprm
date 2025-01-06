@@ -11,4 +11,10 @@ ID: 1937985210801729536
 PromptHint: [text that you a want for Best Summary
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1937985210801729536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Product Summarization"](https://www.aiprm.com/prompts/generative/dalle/1937985210801729536/)_"
+---
+Your task is to summarize the I give you in 60 words or maximum 300 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

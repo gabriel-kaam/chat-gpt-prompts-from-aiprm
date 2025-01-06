@@ -11,4 +11,10 @@ ID: 1799518680149909504
 PromptHint: [Write a C++ Program to ......................]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1799518680149909504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "C++ Program Generator"](https://www.aiprm.com/prompts/softwareengineering/text-editor/1799518680149909504/)_"
+---
+Your task is to write a C++ program using iostream.h and conio.h extension for the topic given by the user. Also explain the Program using comments. All the output should be in [TARGETLANGUAGE]. Write a program to:
 
+[PROMPT]

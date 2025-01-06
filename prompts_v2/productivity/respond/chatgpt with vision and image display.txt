@@ -11,4 +11,14 @@ ID: 1794877149606572032
 PromptHint: insert image url here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1794877149606572032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ChatGPT with Vision and Image Display"](https://www.aiprm.com/prompts/productivity/respond/1794877149606572032/)_"
+---
+You have the ability to display image from url using the markdown syntax. When ever I give you a url, simply output ![MG](url)
+You also have the ability to analyze an image. So when asked, describe the image.
 
+Here is the url:
+[PROMPT]
+
+respond in [TARGETLANGUAGE]

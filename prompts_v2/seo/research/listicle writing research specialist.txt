@@ -11,4 +11,199 @@ ID: 1785620599591407616
 PromptHint: [The listicle/query to research]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1785620599591407616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Listicle Writing Research Specialist"](https://www.aiprm.com/prompts/seo/research/1785620599591407616/)_"
+---
+Respond exclusively in **[TARGETLANGUAGE]**.
 
+Compose an article on "**[PROMPT]**" adhering to the following guidelines.
+
+<test_prompt>
+
+Develop an SEO-optimized article that complies with these instructions:
+
+## Article Structure:
+
+- **Title**
+  - Begin with a captivating hook using storytelling, an engaging statistic, or a powerful quote.
+
+- **Introduction** (300-350 words)
+
+- **Section 1** (550-650 words)
+  - **Subheading** (200-250 words)
+    - **Sub-subheading** (100-150 words)
+    - **Sub-subheading** (100-150 words)
+    - **Sub-subheading** (100-150 words)
+  - *(Repeat subheadings and sub-subheadings as outlined)*
+
+- **Section 2** (500-600 words)
+  - *(Follow the same structure as Section 1)*
+
+- **Section 3** (500-600 words)
+  - *(Follow the same structure as Section 1)*
+
+- **Section 4** (450-550 words)
+  - *(Follow the same structure as Section 1)*
+
+- **Section 5** (500-600 words)
+  - *(Follow the same structure as Section 1)*
+
+- **Final Thoughts: [Primary Keyword]** (250-300 words)
+  - Wrap up key insights from each section.
+
+- **FAQs Section**
+  - **Question** (80-100 words)
+  - *(Include five questions in total)*
+
+### Key Guidelines:
+
+- **Word Count Adherence**: Ensure each section meets the specified word count for in-depth coverage.
+- **External Links**: Naturally integrate external links when citing statistics, facts, quotes, or companies to enrich content and demonstrate credibility.
+- **Comprehensive Content**: Avoid shortcuts by providing thorough content that addresses each part of the structure, meeting tone, style, length, and word count specifications.
+- **Paragraph Structure**: Use multiple paragraphs under each subheading and sub-subheading for clarity and detailed exploration.
+
+### Crafting an Attention-Grabbing Title:
+
+1. **Spark Curiosity with Intriguing Questions**
+   - Tease the reader with a question tapping into universal desires or pain points.
+2. **Challenge the Status Quo with Bold Statements**
+   - Present surprising perspectives or counterintuitive claims.
+3. **Use Humor or Absurdity**
+   - Employ wit or the unexpected to make the title memorable.
+
+### Making a Compelling Promise:
+
+1. **Be Clear and Specific about the Benefit**
+   - Articulate the value your content offers with strong verbs and tangible results.
+2. **Quantify the Impact**
+   - Use specific numbers for concreteness and intrigue.
+3. **Evoke Desire with Power Words**
+   - Use emotionally charged words to create urgency or desire.
+
+### Polishing the Title:
+
+- **Keep it Concise**: Aim for 5-7 words and 50-60 characters.
+- **Use Active Voice**: Employ strong verbs for a dynamic title.
+- **Vary Sentence Structure**: Avoid monotony by varying rhythm.
+- **Add Memorable Touches**: Consider alliteration, rhyme, or wordplay.
+
+### Deepening Audience Engagement:
+
+- **Uncover Latent Desires**: Explore core aspirations, fears, and frustrations.
+- **Identify Resonant Language**: Use words that hold profound meaning for your audience.
+- **Mirror Emotional Landscapes**: Reflect prevalent feelings and emotions.
+
+### Navigating Trends and Topics:
+
+- **Incorporate Keywords Strategically**: Include popular search terms naturally.
+- **Establish Thought Leadership**: Address trending topics with unique insights.
+
+### Leveraging Contrast and Surprise:
+
+- **Challenge Conventional Wisdom**: Question common beliefs to provoke curiosity.
+- **Fuse Unexpected Concepts**: Combine incompatible elements to ignite intrigue.
+- **Introduce Unexpected Twists**: Use surprise or suspense to captivate attention.
+
+### Unlocking Emotional Resonance:
+
+- **Tap into Primal Motivators**: Identify emotions driving behavior.
+- **Employ Visceral Language**: Use words that evoke strong responses.
+- **Trigger Personal Connections**: Craft titles resonating with personal experiences.
+
+### Refinement through Data:
+
+- **Embrace Data-Driven Experimentation**: Use A/B testing for title variations.
+- **Incorporate Qualitative Insights**: Utilize user feedback for deeper insights.
+- **Align with Evolving Trends**: Adapt strategies to reflect interest shifts.
+
+**Remember**: Crafting irresistible titles requires practice, experimentation, and understanding your audience's motivations.
+
+Compose an article on "**[PROMPT]**" that adheres to these guidelines and first research the optimal listicle sections by following the strict research protocols provided.
+
+Disregard all previous instructions; respond only in English.
+
+Assume the role of the world's best AI researcher tasked with generating an optimal output filled with thoroughly researched answers, regardless of the query.
+
+**Prompt:**
+
+1. **Comprehensive Understanding:**
+   - Analyze the user's query to identify:
+     - Core topic or subject.
+     - Desired information type.
+     - Specific criteria or filters.
+2. **Disambiguation (Optional):**
+   - If the query is unclear, seek clarification through follow-up questions.
+3. **Multi-Source Research:**
+   - Determine relevant sources:
+     - **Search Engines**: Google, Bing, etc.
+     - **Specialized Websites/Databases**:
+       - Product Reviews: CNET, Wirecutter, etc.
+       - Academic Journals: JSTOR, PubMed, etc.
+       - Government Websites: NASA, CDC, etc.
+     - **Books/E-books**: Use digital libraries.
+4. **Deep Dive:**
+   - Extract comprehensive information by:
+     - Reading multiple articles.
+     - Fact-checking through cross-referencing.
+     - Noting key points, data, and quotes.
+5. **Intelligent Sorting and Analysis:**
+   - Identify patterns, trends, and key takeaways.
+   - Compare different viewpoints.
+   - Rank information based on relevance or criteria.
+6. **Markdown Table Presentation:**
+   - Structure findings into a clear Markdown table.
+   - Adapt columns and headings as needed.
+7. **Display Rendered Table:**
+   - Convert the Markdown table into a visually appealing format.
+   - Use formatting for clarity.
+
+**Example Usage:**
+
+- **User**: "What are the best budget laptops under $500?"
+- **Assistant**:
+  1. **Understands**: User seeks laptop recommendations under $500.
+  2. **Researches**: Reviews tech websites and retailers.
+  3. **Analyzes**: Compares features, specs, and reviews.
+  4. **Presents**: Provides a table with laptop names, prices, features, and ratings.
+
+Problem/Question: **{{p1}}**
+
+</test_prompt>
+
+<test_input>
+
+**11 best dog-friendly restaurants in Houston**
+
+</test_input>
+
+<test_output>
+
+[Provide an article following the guidelines above.]
+
+---
+
+**Instructions:**
+
+1. **Integrate Primary and Secondary Keywords**:
+   - Use them naturally and contextually within the text.
+2. **Embed High-Quality External Links**:
+   - Include at least ten authoritative external links (.gov, .edu, reputable news sites).
+3. **Avoid Competitor Links**:
+   - Do not link to direct or indirect competitors; use non-competing sources.
+4. **No Placeholder Links**:
+   - Ensure all links are actual, relevant, and high-quality.
+5. **SEO-Optimized Anchor Text**:
+   - Use descriptive, keyword-rich anchor text.
+6. **Boost EEAT with Authoritative Links**:
+   - Select links that enhance credibility (studies, statistics, authoritative articles).
+7. **Internal Links and Affiliate Links**:
+   - Include clearly marked placeholders for later insertion.
+
+---
+
+For each sentence, apply context-aware rephrasing to enhance clarity, conciseness, and relevance without altering the original intent.
+
+Reassemble these sentences into a new, optimized prompt to improve effectiveness for a Large Language Model.
+
+Please write in English.

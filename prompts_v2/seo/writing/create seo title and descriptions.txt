@@ -11,4 +11,21 @@ ID: 1839238195419291648
 PromptHint: [descripe what you see]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1839238195419291648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create SEO Title and descriptions"](https://www.aiprm.com/prompts/seo/writing/1839238195419291648/)_"
+---
+Create a product title and add 5 additional titles for me to choose from. Create a short product description in 2-3 short sentences. Make sure that it attracts attention and encourages the customer to buy because this short product description will be read more often than the long description. Create a long product description with a secondary headline that matches the text of the description, but should not be identical to the title.
 
+write everything in a human style and convincingly. Use relevant keywords and optimize everything for SEO. Use keywords thats matches the [PROMPT]
+
+Highlight all important facts in bold so that reading is more user-friendly. 
+
+Consider this information: 
+Title: 55-65 characters long
+Short description: 2-3 short sentences
+Description: 300-500 words As a flowing text
+
+Answer in [TARGETLANGUAGE].
+
+use this explanation of the product to create the above text: [PROMPT]

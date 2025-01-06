@@ -12,4 +12,9 @@ ID: 1807029951011225600
 PromptHint: [description of your product, your target, and your product benefit]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1807029951011225600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Facebook Ads "](https://www.aiprm.com/prompts/marketing/social-media/1807029951011225600/)_"
+---
+Comporte-toi comme si tu étais un expert en génération de publicité pour Facebook Ads. 
+Génère une publicité Facebook faisant la promotion de [PROMPT]. Met en avant les bénéfices du produit. Utilise un langage persuasif et une touche d'humour pour engager l'audience. Réponse en [TARGETLANGUAGE]

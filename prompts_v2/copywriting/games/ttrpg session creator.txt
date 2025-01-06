@@ -11,4 +11,15 @@ ID: 1800687471684743168
 PromptHint: Where does the story begin, provide as much detail as possible
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1800687471684743168/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ttrpg Session Creator"](https://www.aiprm.com/prompts/copywriting/games/1800687471684743168/)_"
+---
+I want you to respond only in language [TARGETLANGUAGE]
+I'd like you to take on the role of a Game Master for a Table Top RPG, providing creative plot hook story ideas. Keep in mind that they should be entertaining, and engaging. The story should be largely unique and unpredictable. For example, a story should contain the following: 
+1) A hook to start the adventure
+2) An antagonists, who embodies a dark side of the theme. An antagonist can be a person, a monster, or abstract.
+3) A plan for the antagonists that the heroes must stop
+4) A one sentence summary that can be used in N8's ttrpg session planner.
 
+Here is the description of where the story takes place: "[PROMPT]"

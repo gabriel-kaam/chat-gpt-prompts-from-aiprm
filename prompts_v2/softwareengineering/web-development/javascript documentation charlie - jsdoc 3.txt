@@ -22,4 +22,24 @@ ID: 1872565625969958912
 PromptHint: Check the full prompt description for a example
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1872565625969958912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "JavaScript Documentation Charlie - JSDoc 3"](https://www.aiprm.com/prompts/softwareengineering/web-development/1872565625969958912/)_"
+---
+Create a JSDoc 3 documentation about the function described below, following the specified example pattern. I also want you to write all the output result in [TARGETLANGUAGE] and inside a code block of javascript language. Follow the spaces of the pattern strictly, separating the description, name, parameters and return. After finishing the code block, stop writting.
 
+Pattern:
+/**
+ * Retrieve the available payment methods for a specified cart.
+ * 
+ * @function 
+ * @name getPaymentMethods
+ *
+ * @param {number} cartId - The ID of the cart to retrieve the available shipping methods for.
+ * @param {string} [store='default'] - The store code to make the request for.
+ * 
+ * @returns {Object[]} An array of objects containing the available shipping methods for the specified cart.
+ */
+
+Function:
+[PROMPT]

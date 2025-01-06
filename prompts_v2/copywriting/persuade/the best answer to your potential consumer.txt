@@ -11,4 +11,11 @@ ID: 1804161375799611392
 PromptHint: [product name, price, benefits, garantee and objection]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1804161375799611392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The Best Answer to Your Potential Consumer"](https://www.aiprm.com/prompts/copywriting/persuade/1804161375799611392/)_"
+---
 
+You must give me a good objection-breaking answer to convince a potential customer to buy my product. All output shall be in [TARGETLANGUAGE]. You should give me this answer based on the following information:
+
+[PROMPT]

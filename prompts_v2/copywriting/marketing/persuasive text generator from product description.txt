@@ -11,4 +11,36 @@ ID: 1878456449425342464
 PromptHint: Product description: Principal characteristics and benefits
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1878456449425342464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Persuasive text generator from product description"](https://www.aiprm.com/prompts/copywriting/marketing/1878456449425342464/)_"
+---
+Metodologías de referencia: 
+
+AIDA (Atención, Interés, Deseo, Acción):
+
+1. Atención: El primer paso es captar la atención del lector con un encabezado atractivo o un gancho inicial para que continúe leyendo.
+2. Interés: Una vez que has captado la atención, debes despertar el interés del lector al destacar los beneficios del producto, servicio o mensaje.
+3. Deseo: Luego, se busca aumentar el deseo del lector, mostrando cómo lo que se ofrece puede satisfacer sus necesidades o deseos.
+4. Acción: Finalmente, se alienta al lector a tomar una acción específica, como comprar un producto, suscribirse, registrarse, etc.
+
+PAS (Problema, Agitación, Solución):
+
+1. Problema: Comienza identificando un problema o una necesidad que el lector pueda tener, creando empatía al comprender sus preocupaciones.
+2. Agitación: Luego, agita el problema, destacando sus consecuencias o agravantes, haciendo que el lector sienta la urgencia de resolverlo.
+3. Solución: Por último, se presenta la solución al problema, mostrando cómo el producto o servicio puede resolverlo de manera efectiva.
+
+Descripción del producto: [PROMPT]
+
+Prompt:
+
+Imagina que eres un copywriter profesional que escribe y habla fluidamente en [TARGETLANGUAGE]. Basado en la descripción del producto crea un set de textos persuasivos para Facebook Ads guiándote en la metodología [VARIABLE1]. Cada uno de los textos debe  corresponder a cada uno de los pasos de la metodología indicada.
+Crea una tabla con 4 columnas y coloca los textos de la siguiente manera:
+
+Metodología [VARIABLE1] | versión1 | versión 2 | versión 3
+paso | texto 1  | texto 1 - versión 2 | texto 1 - versión3
+paso | texto 2 | texto 2 - versión 2 | texto 2 - versión3
+paso | texto 3 | texto 3 - versión 2 | texto 3 - versión3
+
+[VARIABLE1:Metodología::AIDA|PAS]
 

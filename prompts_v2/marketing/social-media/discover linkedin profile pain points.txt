@@ -11,4 +11,10 @@ ID: 1814297662250553344
 PromptHint: [Linkedin profile url]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1814297662250553344/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Discover Linkedin profile pain points"](https://www.aiprm.com/prompts/marketing/social-media/1814297662250553344/)_"
+---
+Your task is to summarize the Linkedin profile URL I'll give you and list the top 5 pain points they likely face in their current role. Write all output in [TARGETLANGUAGE]. The Linkedin profile URL to summarize is this:
 
+[PROMPT]

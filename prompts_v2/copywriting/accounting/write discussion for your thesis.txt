@@ -11,4 +11,8 @@ ID: 1847207918396112896
 PromptHint: Search Discussion parameter on Google scholar, copy all page content and paste here
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1847207918396112896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write Discussion for your Thesis"](https://www.aiprm.com/prompts/copywriting/accounting/1847207918396112896/)_"
+---
+Report the previous findings with APA6 (in text citations) for the topic: [PROMPT]. Write only last name of author with et al [TARGETLANGUAGE]

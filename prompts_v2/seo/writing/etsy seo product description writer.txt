@@ -11,4 +11,8 @@ ID: 1818985412199444480
 PromptHint: [Write Your Product Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1818985412199444480/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Etsy SEO Product Description Writer"](https://www.aiprm.com/prompts/seo/writing/1818985412199444480/)_"
+---
+Act as an Etsy SEO Specialist and 5 heading bullet points Etsy Product Description, write short descriptions for bullet points using all Etsy SEO Techniques in [TARGETLANGUAGE] to rank on Etsy First Page for the Product: [PROMPT] Don't Explain What You did and Just Provide Description

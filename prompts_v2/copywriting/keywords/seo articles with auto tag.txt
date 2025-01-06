@@ -11,4 +11,8 @@ ID: 1800718313140252672
 PromptHint: [Keyword or Title]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1800718313140252672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Articles with auto tag"](https://www.aiprm.com/prompts/copywriting/keywords/1800718313140252672/)_"
+---
+Create an long articles 1500 words for SEO purpose. Write an article about [PROMPT] in [TARGETLANGUAGE] language. The articles contain 25 paragraphs, each paragraph containing 200 words, explaining more fully. Before Conclusion add FAQ's. Title tag must be descriptive and contain keyword: [PROMPT]. Write in HTML without html and body tag. Primary title: <h1>. Sub titles: <h2>. Conclusion title: <p> Paragraphs: <p>.

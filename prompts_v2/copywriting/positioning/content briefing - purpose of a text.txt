@@ -11,4 +11,14 @@ ID: 1797311325488287744
 PromptHint: [Main Topic of Text]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/positioning/1797311325488287744/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content Briefing - Purpose of a text"](https://www.aiprm.com/prompts/copywriting/positioning/1797311325488287744/)_"
+---
+You write a content briefing for a copy writer. 
+What could be the purpose of a text about [PROMPT] on a website?
+First write in continuous text with a maximum of 5 sentences. Write a summary in bullet points.
+Don't explain why and what you are doing.
+Do not adress the copywriter.
+Write in [TARGETLANGUAGE].
+Insert this sentence at the end of the text "***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL. Then I can publish more great prompts here soon*****"

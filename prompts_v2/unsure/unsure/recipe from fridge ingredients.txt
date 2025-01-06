@@ -11,4 +11,16 @@ ID: 1792322109767421952
 PromptHint: bread, eggs, ketchup, pasta, etc
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1792322109767421952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Recipe from Fridge Ingredients"](https://www.aiprm.com/prompts/unsure/unsure/1792322109767421952/)_"
+---
+I’m going to give you a list of ingredients in my fridge and you will come up with a recipe using some or all of the listed ingredients.
 
+Assume I have access to salt and pepper, butter, sugar, common spices and other various cooking essentials.
+
+Output the recipe in [TARGETLANGUAGE].
+
+Here is the list of ingredients:
+
+[PROMPT]

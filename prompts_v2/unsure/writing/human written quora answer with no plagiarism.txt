@@ -11,4 +11,10 @@ ID: 1916677555953061888
 PromptHint: Paste your Quora question
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1916677555953061888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human written Quora answer with no Plagiarism"](https://www.aiprm.com/prompts/unsure/writing/1916677555953061888/)_"
+---
+Your task is to write the 100% Human written Quora answer with no plagiarism. All output shall be in [TARGETLANGUAGE]. The text summarize is this:
 
+[PROMPT] 

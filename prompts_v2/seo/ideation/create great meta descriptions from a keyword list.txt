@@ -11,4 +11,10 @@ ID: 1788844703798792192
 PromptHint: [Keyword List]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1788844703798792192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create great meta descriptions from a keyword list"](https://www.aiprm.com/prompts/seo/ideation/1788844703798792192/)_"
+---
+Target Language is [TARGETLANGUAGE]
+Turn each of the following keywords into a compelling 2nd person meta description. Includes the keyword, exactly as it's written in the list below, near the beginning of the meta description. The entire description must be at least 130 characters in length, but no longer than 160 characters in length:
+[PROMPT]

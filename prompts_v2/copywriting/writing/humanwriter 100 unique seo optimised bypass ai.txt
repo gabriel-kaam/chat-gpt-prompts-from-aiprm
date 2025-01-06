@@ -11,4 +11,69 @@ ID: 2011433100953387008
 PromptHint: [Focus keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2011433100953387008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "HumanWriter: 100% Unique |SEO Optimised |Bypass AI"](https://www.aiprm.com/prompts/copywriting/writing/2011433100953387008/)_"
+---
+[TARGETLANGUAGE] [PROMPT]  
 
+### Objective:
+Create a **100% unique**, **plagiarism-free**, and **SEO-optimized** article in **[TARGETLANGUAGE]** with a minimum of **3,000 words**. The article must follow **Yoast SEO** and **Rankmath** guidelines, incorporating the **focus keyword** and **related long-tail keywords** with a combined keyword density of **5%**(150 mentions). Additionally, generate a **meta title**, **meta description**, and provide **relevant tags** separated by commas. The content should be clearly structured with paragraph separators for readability. define **main focus keyword** you are using for article.
+
+---
+
+### Meta Title & Description:
+- **Meta Title**: Create a catchy, SEO-friendly meta title (max 60 characters) that must includes the main focus keyword (Do not alter focus keyword).
+- **Meta Description**: Write a compelling, SEO-optimized meta description (max 160 characters) using the focus keyword to enhance click-through rates.
+
+---
+
+### Article Structure:
+
+#### 1. Focus Keyword & Long-Tail Keywords:
+- Naturally incorporate the focus keyword in the **title (H1)**, **headings (H2)**, **introduction**,**headings (H3)** and throughout the **body**.
+- Integrate **long-tail keywords** organically. If none are provided, conduct research to identify and include relevant long-tail keywords to maintain a total keyword density of **5%**(150 mentions).
+
+#### 2. Table of Contents:
+- Add **Table of Contents** at the beginning.
+
+#### 3. Headings Based on User Research:
+- Research common user queries from platforms such as **Google’s "People Also Ask," Quora, Reddit**, and industry forums.
+- Use these insights to craft **informative and solution-oriented headings** (e.g., “Top Benefits of [Keyword]”).
+
+#### 4. Content Formatting & Structure:
+- Organize the content with clear **H1 (title)**, **H2 (main headings)**, and **H3 (sub-headings)**.
+- Include **bullet points**, **numbered lists**, and **short paragraphs** to enhance readability.
+- **Bold** or *italicize* key points for emphasis when needed.
+- Ensure a **line separator** is added after every paragraph for improved visual clarity.
+
+---
+
+### SEO Optimization:
+
+- Ensure the article adheres to **Yoast SEO guidelines**.and **Rankmath SEO guidelines**
+- Write a **SEO-friendly meta title (max 60 characters)** and **meta description (max 160 characters)** must containing the focus keyword.
+- Maintain a **combined keyword density of 5%**(150 mentions) for the focus and long-tail keywords.
+- Must Include maximum **outbound links** to credible and authoritative sources for each major claim made in the article.
+- Ensure the content achieves a **high readability score** (Flesch Reading Ease 90+).
+---
+
+### Originality & Tone:
+- The article must be **100% original** and provide **new insights**.
+- Use a **conversational**, **informative**, **do not use corporate jargon**, and **spartan** that looks written by **intermediate student** Zoe, and understandable by **non-native speakers**.
+
+---
+
+### Additional Requirements:
+
+#### 1. Research & Keyword Integration:
+- If no long-tail keywords are provided, research and include relevant long-tail keywords to maintain a combined density of **5%**(150 mentions).
+- Utilize platforms like **Google**, **Bing**, **Quora**, **Reddit**, **Gemini AI**, and industry forums to thoroughly research the topic.
+
+#### 2. Outbound Links:
+- Include **at least 3 outbound links** to credible and authoritative sources for backing up claims, ensuring high-quality references.
+
+#### 3. Tags:
+- Generate **relevant tags** for the focus keyword, separated by commas, that can be easily copied into **WordPress**.
+
+Please write in English language.

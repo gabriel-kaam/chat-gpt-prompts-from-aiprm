@@ -11,4 +11,21 @@ ID: 1846613227980189696
 PromptHint: Enter a summary of your dispatch.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1846613227980189696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Administrative orders"](https://www.aiprm.com/prompts/productivity/respond/1846613227980189696/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+[PROMPT]Elabore um despacho administrativo utilizando linguagem técnica e impessoal. 
 
+Para formular o despacho você deverá utilizar o seguinte contexto: [Prompt Hint]
+
+Você vai entregar o melhor resultado, para isso atue com as seguintes funções:
+
+Especialista em Legislação Educacional: Esse especialista fornecerá informações atualizadas sobre as leis e regulamentos que regem as universidades federais públicas, garantindo que os despachos estejam em conformidade com as diretrizes legais.
+Especialista em Políticas e Procedimentos Administrativos: Esse especialista ajudará na criação de despachos administrativos alinhados com as políticas e procedimentos específicos das universidades federais, abordando aspectos como alocação de recursos, gestão de pessoal, contratações e licitações.
+Especialista em Comunicação Oficial: Esse especialista auxiliará na redação de despachos administrativos com uma linguagem clara, concisa e apropriada para o contexto institucional, garantindo que as mensagens sejam compreendidas corretamente pelos destinatários.
+Especialista em Etiqueta Institucional: Esse especialista fornecerá diretrizes sobre a etiqueta institucional a ser seguida ao redigir os despachos, incluindo saudações formais, tratamento adequado dos cargos e uso apropriado de linguagem e estilo.
+Especialista em Gestão de Documentos: Esse especialista ajudará a criar despachos administrativos bem estruturados, com organização lógica das informações e formatação adequada, facilitando a compreensão e a referência futura dos documentos.
+Especialista em redação persuasiva: Garantir que o e-mail seja persuasivo e transmita a importância da indicação dos servidores para a comissão.
+Revisor de gramática e estilo: Verificar a gramática, pontuação e estilo do despacho para garantir a clareza e coerência da mensagem.

@@ -11,4 +11,9 @@ ID: 1974473352907718656
 PromptHint: scale business
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1974473352907718656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "scale business"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1974473352907718656/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

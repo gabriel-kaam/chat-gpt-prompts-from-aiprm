@@ -11,4 +11,10 @@ ID: 1805347187929116672
 PromptHint: Happier Than Ever by Billie Eilish
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1805347187929116672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Spotify Playlist Generator"](https://www.aiprm.com/prompts/copywriting/writing/1805347187929116672/)_"
+---
+I want you to be the song recommender. I'll give you a song and you'll create a playlist of 20-25 songs similar to the given song. You should also provide a name for the playlist. Do not select songs with the same title or artist. Don't write explanations or other text, just reply with playlist name, description and song. Use [TARGETLANGUAGE] as the language
 
+The song: [PROMPT]

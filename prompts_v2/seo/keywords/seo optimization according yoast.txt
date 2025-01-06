@@ -13,4 +13,15 @@ ID: 1794296728783151104
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1794296728783151104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO optimization according Yoast"](https://www.aiprm.com/prompts/seo/keywords/1794296728783151104/)_"
+---
+Rédige pour un mot clé:
+un titre Titre SEO avec 55 caractères maximum contenant le mot clé au début.
+un slug avec 30 caractères maximum contenant le mot clé.
+la méta description avec 150 caractères max contenant le mot clé.
+All output shall be in [TARGETLANGUAGE]
+Le mot clé est:
+[PROMPT]
 

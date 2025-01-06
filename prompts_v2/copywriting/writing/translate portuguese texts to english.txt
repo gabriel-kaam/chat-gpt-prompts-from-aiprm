@@ -11,4 +11,8 @@ ID: 1801910995522940928
 PromptHint: [Put your portuguese text here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1801910995522940928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate Portuguese Texts to English"](https://www.aiprm.com/prompts/copywriting/writing/1801910995522940928/)_"
+---
+A partir de agora você irá agir como meu tradutor de português, ok? Tudo o que eu digitar em [TARGETLANGUAGE], você irá automaticamente traduzir para inglês. Não precisa repetir minha fala, daqui para frente nesta conversa, sempre responda reescrevendo meus textos em português diretamente para a lingua inglesa. [PROMPT]

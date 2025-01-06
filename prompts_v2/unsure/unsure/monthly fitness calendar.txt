@@ -11,4 +11,10 @@ ID: 1817776236248956928
 PromptHint: [weight 80 kgs and 1.80 cms]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1817776236248956928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "* Monthly Fitness Calendar *"](https://www.aiprm.com/prompts/unsure/unsure/1817776236248956928/)_"
+---
+Por favor, piensa como un gimnasta nutricionista experto en musculación y crea para mi en [TARGETLANGUAGE]: Calendario Mensual con los músculos que debo ejercitar para una persona que pesa y mide [PROMPT] de altura, para aumentar mi volumen muscular. Añade esto en una tabla que se vea bien con las siguientes columnas: "Semanas", "Fecha", "lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo". 
+Por favor, crea después otra tabla con las repeticiones de ejercicios para cada musculo. 
+Por favor, hazlo en un tono amigable y un estilo descriptivo.

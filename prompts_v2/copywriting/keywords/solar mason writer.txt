@@ -11,4 +11,8 @@ ID: 1825136805222285312
 PromptHint: Solar Mason, Solar Energy, Solar Panels, Engineering, Procurement, Construction, String Inverters, Micro-Inverters, Enphase, Ironridge, Q-Cell, SolarEdge, Solar PV, EV, Charging
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1825136805222285312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Solar Mason Writer"](https://www.aiprm.com/prompts/copywriting/keywords/1825136805222285312/)_"
+---
+the keywords to use in the analysis are [PROMPT]. want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]

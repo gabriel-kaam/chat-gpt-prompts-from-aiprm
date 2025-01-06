@@ -11,4 +11,10 @@ ID: 1821455981503315968
 PromptHint: [Paste Your Text Here ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1821455981503315968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Proofread and Edit Text Like Human "](https://www.aiprm.com/prompts/copywriting/improve/1821455981503315968/)_"
+---
+Your task is to proofread and Edit The text i give you. Remove all unnecessary words and add best one. All output shell bi in [TARGETLANGUAGE]. The Text to Proofread and Edit is this:
 
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1818238878012928000
 PromptHint: [Topic]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1818238878012928000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pareto Principle"](https://www.aiprm.com/prompts/productivity/plan/1818238878012928000/)_"
+---
+I wan to learn [PROMPT]. Can you use the Pareto Principle, wich identifies the 20% of the Topic that will yield 80% of the desired results, to create a focused learning plan for me?  All output schould be in the the [TARGETLANGUAGE]

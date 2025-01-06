@@ -16,4 +16,12 @@ ID: 1794387468406222848
 PromptHint: Write your topic for README and explain the structure of it
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/text-editor/1794387468406222848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Readme Generator | Markdown Format | GitHub."](https://www.aiprm.com/prompts/softwareengineering/text-editor/1794387468406222848/)_"
+---
+I want you to act as Markdown README generator. Using this link learn the Markdown format https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet and now generate me a README for [PROMPT] and
+Show me output in Markdown format only in codeblocks and no plain text.
+Dont write any explanations or output text other than a text in markdown format in codeblocks.
+The output should be in a large codeblocks that would fit the whole output.
+And use [TARGETLANGUAGE] write the output.

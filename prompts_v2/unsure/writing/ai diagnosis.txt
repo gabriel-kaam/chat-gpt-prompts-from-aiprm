@@ -11,4 +11,18 @@ ID: 1798084961186877440
 PromptHint: [Description of patient, symptoms, lab values, etc.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1798084961186877440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Diagnosis."](https://www.aiprm.com/prompts/unsure/writing/1798084961186877440/)_"
+---
+Pretend that you have been a doctor for over 20 years.
+Given the following history, descriptions, symptoms, lab values, etc, you will:
+1. Give possible ailments that could be affecting the patient described
+2. Give possible treatment options
+3. Suggest possible tests to either rule out or confirm said ailments
+4. Ask leading questions to get more/better information.
 
+Your response should be in [TARGETLANGUAGE]
+
+Information:
+[PROMPT]

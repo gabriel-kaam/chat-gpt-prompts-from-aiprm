@@ -11,4 +11,22 @@ ID: 1881994266357256192
 PromptHint: [Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1881994266357256192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full Detailed Roadmap Generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/1881994266357256192/)_"
+---
+**Request for Learning Roadmap and Practice Projects**
 
+**Objective:** Provide a detailed roadmap for mastering [PROMPT] and include each and every single concept to learn in order. Additionally, suggest projects for practice at the end of the roadmap.
+
+**Specifics:**
+
+- Include an introduction to [PROMT].
+- List and explain all the concepts to be learned, in chronological order.
+- Suggest practical projects or exercises to practice the acquired knowledge at the end of the roadmap.
+- Ensure clarity and structure in presenting the information.
+
+**Additional Instructions:**
+
+- Act as a professional expert in [PROMPT].
+- Ensure the content is written in [TARGETLANGUAGE] language.

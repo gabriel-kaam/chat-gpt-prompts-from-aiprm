@@ -11,4 +11,9 @@ ID: 1786702625711067136
 PromptHint: [ask for or send some code + question]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1786702625711067136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Better JavaScript Prompting"](https://www.aiprm.com/prompts/softwareengineering/web-development/1786702625711067136/)_"
+---
+Hi ChatGPT, I will send you some javascript code or ask you to create it. Use 'let' for variables or 'const'. Write the complete code in only one block. Use proper variable, parameters and etc names for [TARGETLANGUAGE], but keep the name of the functions that I indicate. Use only single quotes in the code. When using increment operator, use "i += 1" instead of "i++". And write "I'm done writing" at the end of each message in the specified language. All the text message should be written in [TARGETLANGUAGE].
+[PROMPT]

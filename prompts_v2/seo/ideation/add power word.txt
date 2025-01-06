@@ -11,4 +11,9 @@ ID: 1877701722869125120
 PromptHint: [paste your title here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1877701722869125120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "add power word"](https://www.aiprm.com/prompts/seo/ideation/1877701722869125120/)_"
+---
+your task is to add  power word or number before title within 1 or 2 word within 20 chacrecters.all output will be [TARGETLANGUAGE]
+[PROMPT]

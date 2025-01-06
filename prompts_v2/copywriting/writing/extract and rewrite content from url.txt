@@ -11,4 +11,11 @@ ID: 1987576183323881472
 PromptHint: Please ...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1987576183323881472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt ""Extract and Rewrite Content from URL"."](https://www.aiprm.com/prompts/copywriting/writing/1987576183323881472/)_"
+---
+"Extract key information from the provided link, then rewrite the content to ensure it is 100% unique and exclusive. Ensure that the new content maintains the original message while being free of any plagiarism."
+Reply only in [TARGETLANGUAGE] language.
 
+Your task is: [PROMPT]

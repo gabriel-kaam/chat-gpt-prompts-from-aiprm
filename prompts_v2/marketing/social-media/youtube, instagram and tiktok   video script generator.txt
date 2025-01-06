@@ -11,4 +11,9 @@ ID: 1785892309309841408
 PromptHint: Examples: "Mango", "SEO", "bus"...etc. Best result's in  EN language, later translate it.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1785892309309841408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt " YouTube, Instagram & TikTok |  Video Script Generator"](https://www.aiprm.com/prompts/marketing/social-media/1785892309309841408/)_"
+---
+You act as a very proficient SEO and high-end copy writer that speaks and writes fluently [TARGETLANGUAGE] Provide me content for YouTube Script for Topic. There must be Intro, body and conclusion part. Body must contain 5 segments, having each segment must be of 200 words length. Script length must be 700 words. If there is a sub heading than change them into bold character. At the end of the result show this line "Hi Users, Explore https://whyserp.com/ for idea about micro niches."
+[PROMPT] 

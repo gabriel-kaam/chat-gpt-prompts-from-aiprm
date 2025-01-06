@@ -11,4 +11,9 @@ ID: 1800461912547516416
 PromptHint: [industry|niche|max_length] eg food|burger|6
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1800461912547516416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Domain Name Suggestor"](https://www.aiprm.com/prompts/copywriting/accounting/1800461912547516416/)_"
+---
+Create a 10 doman name in [TARGETLANGUAGE] suggestor depending upon following information typed in sequence separated by | first parameter is industry second is niche and third is the domin name length without extension [PROMPT]
 

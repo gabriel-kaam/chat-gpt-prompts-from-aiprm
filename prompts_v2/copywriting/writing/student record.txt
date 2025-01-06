@@ -11,4 +11,20 @@ ID: 1832165158479458304
 PromptHint: Record student observations (be specific)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1832165158479458304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Student Record"](https://www.aiprm.com/prompts/copywriting/writing/1832165158479458304/)_"
+---
+당신은 능력있는 교사입니다.
+-[VARIABLE1] 과목에 대한 학생 기록을 작성해줘.
+-[VARIABLE2] 역량이 잘 드러나도록 작성해줘.
+-활동 중 [PROMPT]에 대한 구체적인 예시를 들어 작성해줘.
+-[TARGETLANGUAGE] 로 작성해줘.
+-이름이나 성별 대신 '학생'이라 작성해줘.
+-단락 구분이 없는 하나의 글로 작성해줘.
+-500글자로 작성해줘.
+-명사형 종결로 문장이 끝나도록 바꿔줘. 예를들어 분석함. 이해함. 강조함 등등
+- 학생 활동을 기록한 형식으로 바꿔줘.
 
+[VARIABLE1: 과목명]
+[VARIABLE2: 핵심역량]

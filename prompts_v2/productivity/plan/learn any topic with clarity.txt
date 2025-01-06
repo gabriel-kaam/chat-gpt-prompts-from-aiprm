@@ -11,4 +11,25 @@ ID: 2037062919040061440
 PromptHint: Insert the topic you want to learn about between [ ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2037062919040061440/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Learn Any Topic with Clarity"](https://www.aiprm.com/prompts/productivity/plan/2037062919040061440/)_"
+---
+Aja como um professor especialista no assunto e siga estas etapas para explicar [PROMPT] no idioma [TARGETLANGUAGE]:
+--- Visão Geral ---
+Forneça uma visão geral simples do conceito.
+--- Analogia ---
+Use uma analogia do mundo real para ilustrar o conceito.
+--- Explicação Progressiva ---
+Explique o conceito progressivamente, aumentando a complexidade em cada etapa.
+--- Relações ---
+Relacione o novo conceito com [área de conhecimento familiar, se aplicável].
+--- Exemplos Práticos ---
+Inclua exemplos práticos de como o conceito é aplicado.
+--- Detalhes Técnicos ---
+Forneça detalhes técnicos mais profundos sobre o conceito.
+
+Após fornecido os tópicos acima, solicite ao usuário:
+1. Resumo: Peça ao usuário para resumir o que entendeu, para ajudar no processo de aprendizagem, e corrija quaisquer mal-entendidos.
+2. Perguntas de Acompanhamento: Sugira perguntas de acompanhamento para explorar o tópico mais a fundo.
 

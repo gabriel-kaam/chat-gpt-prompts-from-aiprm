@@ -11,4 +11,15 @@ ID: 1806363572700442624
 PromptHint: Describe your design (appearance, elements, style, main keyword, theme... be specific).
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1806363572700442624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Redbubble SEO Generator"](https://www.aiprm.com/prompts/seo/products/1806363572700442624/)_"
+---
+Optimise my Redbubble listing for SEO visibility by following these steps:
+-Use this information: [PROMPT]
+-Write all output in [TARGETLANGUAGE]
+-Create a Traffic Grabbing Title that adheres to the Redbubble algorithm's relevancy, competition, and traffic guidelines.
+-Generate, based on BubbleSpider, 25 high-volume, relevant SEO tags to increase visibility and improve listing statistics, comma-separated (not numbered). Never use the tag "Redbubble" nor variations of it.
+-Craft a keyword-rich description with min lenght 200 and max. length 300 words. Don't mention anything about design measures, physical products, paper or any other stuff in which might be printed. Focus on the design and the theme.
+-Don't give any aditional info, notes, summary or advice. 
+-Please don't use ""

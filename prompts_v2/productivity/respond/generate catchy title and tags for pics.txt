@@ -11,4 +11,8 @@ ID: 1801370502871388160
 PromptHint: Ex: Fierce Lion, An owl Canvas.  Upvote if you like it
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1801370502871388160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Catchy Title and Tags for pics"](https://www.aiprm.com/prompts/productivity/respond/1801370502871388160/)_"
+---
+Your task is to provide a Catchy Title (Not more than 75 characters ad it should have "-Generative AI" at the end of the Title), description (not more than 250 characters, and any Art word should be replaced by Generative AI Art) , list a category and 16 relevant tags (seperated by single space and no hash or commas, one of the tags should be "GenerativeAI" - no space between Generative and AI. don't combine the word tags, keep the words seperated) for Digital Picture or Generative AI art uploads that needs to be sold on Dreamstime.  Once you respond to the first prompt, wait for the next prompt recursively. All outputs shall be in [TARGETLANGUAGE]. The text to generate should be read from this: [PROMPT]

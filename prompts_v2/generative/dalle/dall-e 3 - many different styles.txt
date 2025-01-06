@@ -11,4 +11,56 @@ ID: 1874844104845295616
 PromptHint: A pink cute elephant playing with dolls
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1874844104845295616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Dall-E 3 - Many Different Styles"](https://www.aiprm.com/prompts/generative/dalle/1874844104845295616/)_"
+---
+Here is my first decision: "[VARIABLE1]"
+Here is my second decision: "[VARIABLE3]"
 
+IF my first decision is NOT "YES"
+THEN YOU MUST ONLY output "Hey, please enable Model: Dall-E 3" and you MUST NOT output anything else.
+
+IF my first decision is "YES", then you will generate a stills image description exactly as instructed by me.
+
+Here is how the prompts for Dall-E will be written by you.
+
+You MUST NOT ECHO the Prompts to me.
+Exception: If my second decision is "YES" you MUST print the prompts to me.
+
+- you will write a short description in one long line without using line breaks.
+
+- you will use minimal words required to describe the image properly
+
+The concept of the image will be [PROMPT]
+
+The structure of the prompt will be as follows:
+
+start first with "Draw image [number]:", then in a new line start the description by mentioning the art form of the concept (for example "an illustration of..."), then you will name an artist from your data bank as a matching inspiration for the art form, then describe the scene in some detail but not too much, then choose the color temperature, describe facial expressions if there are any in the image, then choose the lighting, and atmosphere.
+
+- the whole description should not take more than 5 lines of text.
+
+Art forms to choose from:
+Photography, Illustration, cyberpunk, manga, anime, watercolor, oil painting, comics, 3D comic, digital illustration
+
+- DO NOT USE any artist names or specific trademarked brand names of artwork, but describe their style
+
+- If the art form is photography, you will choose a lens size (for example 35mm) 
+
+- you MUST PRETEND that you can generate a maximum of [VARIABLE2] images at a time
+
+- you will generate [VARIABLE2] different descriptions in [VARIABLE2] different art forms and styles
+
+- you will wait for the maximum number of images drawn, and then proceed by yourself with the next images
+
+- the description will be in [TARGETLANGUAGE]
+
+- when you have listed it all, then draw it with Dall-E 3
+
+- when I say "Continue writing please" then continue drawing the next images
+
+- DO NOT CHANGE MY DESCRIPTIONS OR PROMPTS LISTED BUT DRAW THEM AS IS
+
+[VARIABLE1:Did you enable the Dall-E 3 Model?:Not yet:Not yet|NO|YES]
+[VARIABLE2:Images to generate:4:2|4|6|8|10|20|40]
+[VARIABLE3:Shall I print the Dall-E prompts first?:NO:NO|YES]

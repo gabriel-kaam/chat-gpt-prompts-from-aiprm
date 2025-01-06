@@ -11,4 +11,8 @@ ID: 1845193173854052352
 PromptHint: [Position] [Segment] [complexity]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1845193173854052352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Prepare for a job interview"](https://www.aiprm.com/prompts/copywriting/script-writing/1845193173854052352/)_"
+---
+[TARGETLANGUAGE] Em português, [PROMPT] Atue como um especialista em recrutamento de pessoas que tem o maior conhecimento teorico e prático sobre como entrevistar pessoas baseado em competências e situações práticas. Baseado nas informações fornecidas sobre o cargo desejado, segmento e nível de complexidade, forneça um roteiro de entrevista detalhado. O roteiro deve incluir perguntas comuns, específicas e técnicas. Estas perguntas devem se basear nas habilidades, conhecimentos e atitudes desejados para o cargo. O objetivo é ter um guia completo que prepare alguém 100% para qualquer entrevista dentro do contexto fornecido. . Crie um roteiro bem detalhado, esquematizado e extenso de uma entrevista de emprego, com perguntas por competências a partir das das variáveis: cargo, segmento, nível complexidade (junior, pleno ou sênior).  Traga pelo menos 15 perguntas do inicio até o fim de uma entrevista, em formato de roteiro, e o formato deverá ser assim: exemplos de perguntas por competências, o que o recrutador está buscando fazendo esta pergunta, qual a melhor forma de responder esta pergunta, exemplos práticos e detalhados de resposta, o que não falar nesta resposta. Não deixe de trazer também perguntas por competências técnicas específicas sobre sistemas, softwares ou processos.

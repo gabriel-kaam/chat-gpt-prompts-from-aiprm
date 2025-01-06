@@ -11,4 +11,17 @@ ID: 1803963509625843712
 PromptHint: [Enter the service name Example: Dishwasher Repair NYC]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/1803963509625843712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "GMB Services Meta Description."](https://www.aiprm.com/prompts/seo/marketing/1803963509625843712/)_"
+---
+Your task is to research and summarize the text in 50 words up to 300 characters. Your research should be related to service provider companies. Please paraphrase it using simple street language in a friendly, cheerful voice.
 
+Write the meta description text related to the service. 
+This text must contain synonymous keywords and meta descriptions. Write in marketing language stile.
+
+Write the meta description of the service. Summarise in short sentences.
+
+Every piece of output must be written in [TARGETLANGUAGE]. The text summarizes this:
+
+[PROMPT]

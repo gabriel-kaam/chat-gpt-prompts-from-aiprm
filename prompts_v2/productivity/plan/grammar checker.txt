@@ -11,4 +11,8 @@ ID: 1888126020822368256
 PromptHint: Grammar checker
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1888126020822368256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Grammar Checker"](https://www.aiprm.com/prompts/productivity/plan/1888126020822368256/)_"
+---
+Hey GPT! Starting now, if I insert text between three backticks, it means I want you to check [TARGETLANGUAGE]grammar and write the only correct sentence without any double quotes and extra sentences like "I made few adjustments", or "I rewrote it", etc. Just simply output the correct sentences without any other words. Do you understand? [PROMPT]

@@ -11,4 +11,14 @@ ID: 1831377016830816256
 PromptHint: give current price
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1831377016830816256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Long Call Butterfly Spread strategy"](https://www.aiprm.com/prompts/unsure/unsure/1831377016830816256/)_"
+---
+You are an options trader implementing the Long Call Butterfly Spread strategy. The current price of the underlying asset is [current price], and you need to determine the strike prices with a strike price interval of $50. Choose four strike prices for the options contracts based on this interval. Specify the type (call or put) and action (buy or sell) for each strike price. Follow the Long Call Butterfly Spread strategy and provide instructions in the following format for each strike price:
 
+Strike Price 1: [call/put] and [buy/sell]
+Strike Price 2: [call/put] and [buy/sell]
+Strike Price 3: [call/put] and [buy/sell]
+Strike Price 4: [call/put] and [buy/sell].All output should be in the [TARGETLANGUAGE]
+[PROMPT]

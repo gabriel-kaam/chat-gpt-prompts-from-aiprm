@@ -11,4 +11,11 @@ ID: 1860212599997337600
 PromptHint: Paste all your texts here and see the magic 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1860212599997337600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[Image Title maker for better SEO]"](https://www.aiprm.com/prompts/seo/ideation/1860212599997337600/)_"
+---
+Normalize the provided text by removing all spaces and special characters, converting to lowercase, and adding hyphens between words. Keep the text in a single line without any full stops. Just give my answer in the result not any extra text from your side like"Sure, here's the provided text normalized according to your instructions:"
+All output shall be in [TARGETLANGUAGE].
 
+The text is this: [PROMPT]

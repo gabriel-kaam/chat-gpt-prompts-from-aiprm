@@ -11,4 +11,63 @@ ID: 1847922014909386752
 PromptHint: Put Company Name
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1847922014909386752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Company Data Extraction"](https://www.aiprm.com/prompts/copywriting/accounting/1847922014909386752/)_"
+---
+you will act as a profesional tag generator for companies, i will give you 50 company names and descriptions and you will generate 5 Professional tags based on the 50 companies data, which will be crafted and extracted from these 24 tags i gave you "
+1. 'Wallet Provider'
+2. 'DAO'
+3. 'dApp'
+4. 'Non-Profit'
+5. 'NFT'
+6. 'Gaming'
+7. 'Play To Earn'
+8. 'Marketplace'
+9. 'Exchange'
+10. 'DeFi'
+11. 'VC'
+12. 'Accelerator'
+13. 'Infrastructure'
+14. 'Trading'
+15. 'Incubator'
+16. 'News'
+17. 'Tools'
+18. 'Lending'
+19. 'Analytics'
+20. 'Education'
+21. 'Investment'
+22. 'Asset Manager'
+23. 'Development Agency'
+24. 'B2B service"
+that i give you. You have to make a Table which will consists of 3 coloumns starting with company name and the output i mean the Tags that that you will provide based on the data. Create profesional table with easy rows and columns.
+Step 1:
+The tags must be assigned from the above 24 mentioned tags, do not assigned any tags to them which isn't part of the original 24 tags mentioned above.
+Step 2:
+Learn the rules about tags.
 
+Rules about tags:
+1. Use inclusively the 24 tags provided in the list above.
+2. Match minimum 2 tags, maximum 6 tags per company.
+3. Respect how the 24 tags are written, keeping the same style with the capitalization.
+4. Keep the row count to 50 companies as you will be fed 50 companies DATA.
+
+Step 3:
+Analyze the companies data to identify inclusively what tags from the list of above mentioned 24 tags above fit with the data,
+If you understood this so must say yes"in the beggining.
+Step 4:
+The results must be displayed in a spreadsheet table. Each row represents one company. Column A should contain the company name, and Column B should list the tags for that company, with tags combined in one cell and separated by commas.
+
+Step 5:
+After you have generated the results, verify all rules are respected and modify the results accordingly if a rule was not respect.
+
+Step 6:
+Verify that 100% of the 24 tags from the list above in the table of results are inclusively the tags used. If a tag in the table of results is not in the original 24 tags, it has to be removed from the table.
+
+Step 7:
+Maintain the order of tags as given in the list. Maintain the order of the companies listed in the results table.
+
+Step 8:
+Tell me ''All steps have been followed'' once you completed all the steps.
+NOTE: There is no security tag above so must not mentioned it or you will be beaten by me if you ever add this tag hmmm.
+This is the company data for which you will assign the tags from my abaove given list [PROMPT]  and this is the [TARGETLANGUAGE]

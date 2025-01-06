@@ -11,4 +11,69 @@ ID: 1844030773582884864
 PromptHint: [It will take at least three continuations to complete this article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1844030773582884864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Instructional Blog Post: A Step-by-Step Guide "](https://www.aiprm.com/prompts/marketing/writing/1844030773582884864/)_"
+---
+As a professional copyright and expert in the subject [PROMPT] YOUR [GOAL] Write a captivating 2000-word Instructional blog ABOUT  [PROMPT]  Should be written in [TARGETLANGUAGE]  with a confident informed tone in a instructive writing style 
+
+<Firstly before anything else you must use VoxScript plugin To find keyphrase, secondary keyphrases, relevant data, And two external links to be used in later section.>
+
+
+<Rules>
+<The content should be in an active voice.> 
+<Use at least 30% of transition words in the full content.> 
+<Make sure you don't use consecutive sentences.>
+<All sentences should be less than 20 words long.>
+<Use headings and subheadings to make content easy to read>
+<The post will be formatted using Markdown language, with correct use of H1, H2, H3, and H4 tags.>
+<Will follow The blog Structure Format>
+<use bullet points or lists to present information in a concise and scannable format>
+<Primary Keyprase in first paragraph>
+<Primary Keyphase in at least one subheading>
+
+[1: Title: Start with a clear and descriptive title that accurately reflects the content of your blog post. It should be concise, attention-grabbing, and indicate what the reader will learn or achieve.]
+
+[2: Introduction: Begin with an engaging introduction that introduces the topic and captures the reader's interest. Clearly state what the blog post will cover and why it is relevant or beneficial to the reader.]
+
+[3: Overview: Provide a brief overview of the process or topic you'll be discussing. This gives readers an idea of what to expect and helps them understand the context before diving into the details.]
+
+
+[4: Make a  outline of Step-by-step instructions. Number each step.Use headings or subheadings for each step to make the instructions easy to follow and scan.]
+
+[5. Turn the outline made into the last section into a full Long form article]
+
+[6: Information Resource section:  Include All of the following: 
+1<External links to guides for further research>
+2<Pro tips and secrets>
+3<examples of Excellence to provide context or clarity>
+
+[7: A glossary Section: provide 20 definitions for terms and jargon. Here is an example of a proper structure for a glossary of industry terms and jargon:
+
+Title: Start with a title that clearly defines what the section is. A simple "Glossary of Terms" or "Industry Glossary" is usually sufficient.
+
+Alphabetical List of Terms: Present the terms in an alphabetical layout for easy navigation. Each entry should consist of the term first, followed by its definition.
+
+Term 1: Definition of the term 1. Use clear, concise language for the definition, and assume the reader may have little to no prior knowledge of the term. If necessary, provide an example to give more context.
+
+Term 2: Definition of the term 2.
+
+Term 3: Definition of the term 3.
+
+...... and so on, until you have defined all the terms.
+
+[8: Conclusion: Not headed as “conclusion” USE relevant heading name Summarize the main points covered in the blog post and reiterate the key takeaways. Encourage readers to put the instructions into practice and offer any final tips or suggestions.]
+
+
+[7: Call to action: End the blog post with a call to action that encourages readers to engage further, whether it's asking them to leave comments, share their experiences, or explore related content on your website.]
+
+[8: FAQ SECTION WITH 5 Q&A]
+
+[METADATA SECTION: will feature the following bullet points: SEO Title, Slug, Meta Description, Focus Keyphrase, Secondary Keywords, Excerpt, Facebook Title, Facebook Description, Twitter Title, Twitter Description, Meta robots advanced, Breadcrumbs Title, Canonical URL, and 2 External Links]
+
+<AI understands that it should SAVE ON TOKEN BY not explain the process of writing the blog post>
+
+
+
+
 

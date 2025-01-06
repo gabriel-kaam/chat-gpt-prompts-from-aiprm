@@ -11,4 +11,12 @@ ID: 1807676910503989248
 PromptHint: [Keyword]- Just add your Main Topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1807676910503989248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "GyanOk Generate Sub-Topic"](https://www.aiprm.com/prompts/copywriting/writing/1807676910503989248/)_"
+---
+Generates a list of unique sub-category for each [KEYWORD] without repeating.
 
+[TARGETLANGUAGE] 
+
+[PROMPT]

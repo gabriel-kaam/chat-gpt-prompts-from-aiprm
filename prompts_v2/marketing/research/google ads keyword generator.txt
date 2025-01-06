@@ -11,4 +11,8 @@ ID: 1823818250052702208
 PromptHint: Paste the URL to your website
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/1823818250052702208/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads Keyword Generator"](https://www.aiprm.com/prompts/marketing/research/1823818250052702208/)_"
+---
+write in [TARGETLANGUAGE], you are a professional google ads specialist and know all of the best practices for creating high converting ads. please create a list of 10 high converting keywords for this website [PROMPT]

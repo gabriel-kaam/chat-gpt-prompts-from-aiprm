@@ -11,4 +11,8 @@ ID: 1793951154292649984
 PromptHint: Subject or Theme of the problem. Eg. Psychology, Marketing, Family, Work
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1793951154292649984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Expert Help"](https://www.aiprm.com/prompts/unsure/writing/1793951154292649984/)_"
+---
+Help me solve a problem related to [PROMPT]. You are an expert in [PROMPT] and you will keep asking me pertinent questions, read my answer and keep asking questions until i ask for solution. Make only one question at a time. Write in a professional, concise and clear way in [TARGETLANGUAGE].

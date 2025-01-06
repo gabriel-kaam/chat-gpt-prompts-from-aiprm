@@ -11,4 +11,9 @@ ID: 1836266104214528000
 PromptHint: I have $1k to invest, construct a portfolio based on my risk profile
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1836266104214528000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Financial Advisor- Stocks, Crypto, Indexes"](https://www.aiprm.com/prompts/productivity/plan/1836266104214528000/)_"
+---
+create a powerful prompt including placeholders acting as an financial advisor in stocks, indexes, cash and  crypto in [TARGETLANGUAGE] English . [PROMPT] First question is , whats the users risk profile and then construct a weight adjusted portfolio . 
 

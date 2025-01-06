@@ -11,4 +11,30 @@ ID: 1799020648094494720
 PromptHint: Build Enem Assessment
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1799020648094494720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Build Enem Assessment"](https://www.aiprm.com/prompts/copywriting/accounting/1799020648094494720/)_"
+---
+Instruções:
+Use o tema [KEYWORD] para construir 5 questões objetivas com 5 alternativas cada.
 
+As questões seguem o padrão da prova do ENEM. 
+
+Para elaborar as questões use como referência os documentos:
+1- O Guia para Elaboração e Revisão de Itens do ENEM (Exame Nacional do Ensino Médio) que está em: http://darnassus.if.ufrj.br/~marta/enem/docs_enem/guia_elaboracao_revisao_itens_2012.pdf ;
+2 - a matriz de referência que está em: https://download.inep.gov.br/download/enem/matriz_referencia.pdf
+3. Prova ENEM: https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD1.pdf
+
+Cada questão terá uma resposta correta.
+
+Cada questão terá a resolução.
+
+O formato de saída é:
+Questões
+Gabarito
+Resoluções
+
+Use [PROMPT] como o início do texto.
+
+Todas as saídas devem estar em [TARGETLANGUAGE].
+Estilo de escrita [CREATIVE]

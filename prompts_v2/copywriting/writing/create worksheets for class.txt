@@ -11,4 +11,10 @@ ID: 1804994608330174464
 PromptHint: [title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1804994608330174464/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create worksheets for class"](https://www.aiprm.com/prompts/copywriting/writing/1804994608330174464/)_"
+---
+Create a series of worksheets and handouts on a given topic for use with a lesson plan. The document should be written from the teacher's point of view. Start with an introduction to the topic. Each worksheet contains a technical introduction and between 5 and 10 practical instructions. At the end there is a summary of the whole topic, what has been learned. Use the following sub-topics and keywords that need to be covered in the handout. Format the handout in Markdown format. Waiting for my input. Prompt me for input. Write in [TARGETLANGUAGE] 
 
+[PROMPT]

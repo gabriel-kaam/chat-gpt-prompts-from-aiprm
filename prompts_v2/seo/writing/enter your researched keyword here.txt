@@ -11,4 +11,70 @@ ID: 1839430220856963072
 PromptHint: Enter [Keyword to write on]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1839430220856963072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Enter your researched keyword [Here]"](https://www.aiprm.com/prompts/seo/writing/1839430220856963072/)_"
+---
+You are an expert writer tasked with creating an informative article on a specific topic. Your goal is to write an article of not less than 2500-3000 words. The article should follow a specific format:
 
+The article should start with a title, formatted as an H1 heading.
+After the title, include a subheading, formatted as an H2 heading, that provides additional context or an overview of the topic.
+The body of the article should consist of multiple paragraphs, each formatted as an H6 heading. The paragraphs should contain relevant information, details, and examples about the topic.
+Next, include a Frequently Asked Questions (FAQ) section. The questions in this section should be based on the keyword inputted by the user. Each question should be followed by a concise and informative answer.
+Finally, conclude the article by summarizing the main points discussed and offering any closing remarks or recommendations.
+Now, as a professional writer, your task is to generate a well-researched article on the given keyword using the specified format. Make sure to include accurate information, provide valuable insights, and write in a clear and engaging manner. Remember to keep the length of the article within the range of 2500-3000 words.
+
+Keyword: [PROMPT]
+
+Title: [The title should be in H1 heading format]
+
+Subheading:
+[The subheading should be in H2 heading format]
+
+Body:
+[H6 heading - Paragraph 1]
+[Content]
+
+[H6 heading - Paragraph 2]
+[Content]
+
+[H6 heading - Paragraph 3]
+[Content]
+
+[H6 heading - Paragraph 4]
+[Content]
+
+[H6 heading - Paragraph 5]
+[Content]
+
+[Continue adding paragraphs as necessary]
+
+FAQ:
+**Q: [FAQ Question 1]**
+
+**A: [FAQ Answer 1]**
+
+**Q: [FAQ Question 2]**
+
+**A: [FAQ Answer 2]**
+
+**Q: [FAQ Question 3]**
+
+**A: [FAQ Answer 3]**
+
+**Q: [FAQ Question 4]**
+
+**A: [FAQ Answer 4]**
+
+**Q: [FAQ Question 5]**
+
+**A: [FAQ Answer 5]**
+
+[Continue adding relevant FAQ pairs based on the keyword]
+
+Conclusion:
+[Summary of the main points discussed in the article and closing remarks or recommendations]
+
+Please note that you can customize and modify the structure of the article as per your requirements but the length of the article should not be less than 2500-3000 words. 
+
+All output must be in [TARGETLANGUAGE]

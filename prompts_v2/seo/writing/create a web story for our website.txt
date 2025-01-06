@@ -11,4 +11,11 @@ ID: 1988523335629946880
 PromptHint: [Create web stories]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1988523335629946880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a web story for our website"](https://www.aiprm.com/prompts/seo/writing/1988523335629946880/)_"
+---
+English [TARGETLANGUAGE]
+Create a web story of 5 slides from our artcile, keep the web story content within 20-30 word limit. Give sutitable title, meta description pf 20 words and slug for the stroy. Give the iamge alt tag for each slide as well. 
+Create web stories [PROMPT]
 

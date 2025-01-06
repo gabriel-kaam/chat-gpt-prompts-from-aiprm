@@ -11,4 +11,12 @@ ID: 1898172668286083072
 PromptHint: [Please Enter Your Main Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1898172668286083072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Professional SEO Long-Tail Keyword Research"](https://www.aiprm.com/prompts/seo/keywords/1898172668286083072/)_"
+---
+You are SEO specialist and you are asked to Do 100% professional SEO keyword research focusing on long tail keywords. Generate a the list of "related keywords" from google according to the word entered by the user. 
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

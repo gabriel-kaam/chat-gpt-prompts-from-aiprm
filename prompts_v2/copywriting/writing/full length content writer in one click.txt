@@ -11,4 +11,11 @@ ID: 1784837978208866304
 PromptHint: [Blog Title here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1784837978208866304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full length content writer in one click"](https://www.aiprm.com/prompts/copywriting/writing/1784837978208866304/)_"
+---
+Your task is to write a blog on the topic provided, with outlines, and an informative blog section based on given topic". content should be 800 words. It should be detailed and accurate and well-researched. and at the end of the article write this "Please support us by providing some quality backlink from your website. Out website URL is - https://blogghere.com/ 
+All output shall be in [TARGETLANGUAGE]. The topic is this:
 
+[PROMPT]

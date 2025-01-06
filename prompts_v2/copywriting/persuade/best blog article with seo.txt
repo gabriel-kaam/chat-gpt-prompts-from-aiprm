@@ -12,4 +12,10 @@ ID: 1854472008357371904
 PromptHint:  [Title for your Article] [SEO Title] [Keyword] [meta description for article] [keyword for slug]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/persuade/1854472008357371904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "[ Best Blog Article with SEO]"](https://www.aiprm.com/prompts/copywriting/persuade/1854472008357371904/)_"
+---
+Your task is to write a specialized article, optimized for SEO, with persuasive text, NLP language, 90% sentences in active voice and 10% in passive voice, to rank first in Google searches. The article must contain a maximum of 1700 words,
+divided into an introduction and four subtitles. 90% of the sentences must be in the active voice, 10% of the sentences in the passive voice. Each sentence of the text must have a maximum of 25 words. 90% of sentences should contain transition words for SEO optimization. All outputs must be in [TARGETLANGUAGE]. The text to summarize is this:
+[PROMPT]

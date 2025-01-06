@@ -11,4 +11,10 @@ ID: 1789642121356251136
 PromptHint: [Product or service you are selling]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1789642121356251136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads Callout Extentions"](https://www.aiprm.com/prompts/marketing/writing/1789642121356251136/)_"
+---
+Your task is to only type up with 20 titles about [PROMPT]
+The titles have a character limit of 20 in [TARGETLANGUAGE] 
+Based on the content of this URL: https://support.google.com/google-ads/answer/6079510?hl=en#:~:text=Callouts%20can%20improve%20your%20text,a%20computer%20or%20mobile%20device.

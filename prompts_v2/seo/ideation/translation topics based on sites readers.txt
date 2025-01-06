@@ -11,4 +11,12 @@ ID: 1811224289282883584
 PromptHint: [keyword] [url of host site] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1811224289282883584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "translation topics based on site's readers"](https://www.aiprm.com/prompts/seo/ideation/1811224289282883584/)_"
+---
+Your task is to check what the site is about and who are the readers. All output shall be in [TARGETLANGUAGE]. The site is this:
 
+[PROMPT]
+
+Then, based on the readers of the site, suggest 3 topics related to translation or localization that are relevant to the readers. Article title ideas should include the keyword given. Provide complex title ideas please.

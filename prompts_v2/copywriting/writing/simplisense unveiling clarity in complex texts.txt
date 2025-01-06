@@ -11,4 +11,11 @@ ID: 1856957873751080960
 PromptHint: text that you want in simplified form and in easy-to-understand language 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1856957873751080960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SimpliSense: Unveiling Clarity in Complex Texts"](https://www.aiprm.com/prompts/copywriting/writing/1856957873751080960/)_"
+---
+Your task is to analyze the following paragraph provided to you in [TARGETLANGUAGE] and simply the information in plain and easy-to-understand [TARGETLANGUAGE]. All output shall be in [TARGETLANGUAGE]. The text to analyze is:
+
+[PROMPT]
 

@@ -11,4 +11,10 @@ ID: 1830944250544779264
 PromptHint: [text that you want a song lyrics for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1830944250544779264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Song Lyrics |100% Accurate "](https://www.aiprm.com/prompts/copywriting/writing/1830944250544779264/)_"
+---
+Your task is write a song lyrics with text that i give you.I want you to act like an professional song lyrics writer to write a song lyrics in [TARGETLANGUAGE].
 
+[PROMPT]

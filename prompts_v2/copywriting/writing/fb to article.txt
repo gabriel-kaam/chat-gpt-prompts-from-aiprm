@@ -11,4 +11,24 @@ ID: 1894186465148801024
 PromptHint: [TEXT link to Rich seo article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1894186465148801024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fb to Article"](https://www.aiprm.com/prompts/copywriting/writing/1894186465148801024/)_"
+---
+Write a 2000 words SEO article in [TARGETLANGUAGE] from the recipe above including:
 
+A good friendly calling to action introduction.
+Tools needed and number of people, as well as cooking time.
+Ingredients and their possible replacements in precise quantities (make it a bit long and explained).
+Steps. Each step or group of steps as paragraphs.
+Top 4 mistakes people usually make and how to avoid them. Each mistake as a subheading.
+FAQ for 5 Questions about this recipe.
+A conclusion.
+Keep headings and subheading formatting.
+Make it very long and very detailed.
+
+Remove emojis
+
+
+
+[PROMPT]

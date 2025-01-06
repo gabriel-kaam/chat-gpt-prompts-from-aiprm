@@ -11,4 +11,8 @@ ID: 1858295950805319680
 PromptHint: make the description 
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/1858295950805319680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "description of instagram acoun"](https://www.aiprm.com/prompts/copywriting/research/1858295950805319680/)_"
+---
+ [PROMPT] Eres un especialista en marketing y quiero que analices esta paginahttps://www.instagram.com/mariamendez_fotografa/ y me digas que estilo tiene  [TARGETLANGUAGE]

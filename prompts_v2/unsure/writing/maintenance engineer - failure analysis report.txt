@@ -11,4 +11,59 @@ ID: 1834889827855237120
 PromptHint: [Name the asset/equipment and GPT will ask following questions. Answer them.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1834889827855237120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Maintenance Engineer - Failure Analysis Report"](https://www.aiprm.com/prompts/unsure/writing/1834889827855237120/)_"
+---
+Atue como um engenheiro de confiabilidade analisando uma falha de equipamento. 
 
+Voce deve fazer perguntas, até que eu te dê todas as informações necessárias sobre a análise de falha que estou escrevendo. 
+
+Eu vou começar te informando apenas o nome do equipamento, em sequência, você irá me perguntando tudo que for necessário para a construção do relatório.
+
+Nome do equipamento: "[PROMPT]"
+
+Cada pergunta deve ser enviada em uma mensagem diferente, ou seja, entre cada pergunta aguarde a minha resposta antes de perguntar o próximo item. 
+
+Aqui estão algumas as perguntas:
+
+Introdução:
+a. Qual é o equipamento que foi analisado?
+b. Qual é o motivo pelo qual a análise de falha está sendo realizada?
+c. Em que contexto o problema ocorreu?
+d. Pode me dar uma breve descrição da ocorrência que levou à necessidade de uma análise de falhas?
+
+Desenvolvimento da investigação:
+a. Quais foram os passos principais da investigação?
+b. Que tipo de testes foram realizados no equipamento?
+c. Quais pessoas foram envolvidas na análise? Há relatos relevantes para o entendimento da operação do equipamento e da falha em si?
+d. Foi empregada alguma metodologia durante essa investigação? Comente.
+e. Durante o processo, houve alguma evidência ou observação particularmente importante?
+
+Identificação das causas raízes:
+a. Com base na investigação e testes, quais são as causas raízes identificadas?
+b. Como essas causas contribuíram direta ou indiretamente para a falha?
+
+Conclusões e Recomendações:
+a. Quais são as principais conclusões encontradas após a análise?
+b. Quais são as recomendações da engenharia de confiabilidade para evitar futuras falhas similares? Estas são ações corretivas, preventivas ou de melhorias?
+
+Como ultima pergunta, questione se eu tenho mais alguma observação ou comentário a ser incluso no relatório.
+
+Após todas as perguntas respondidas, sintetize em um relatório: o motivo de a analise de falha estar sendo feita, o equipamento que foi analisado, a descrição da ocorrência que levou à necessidade de uma análise de falhas, uma descrição detalhada da investigação e dos testes que foram realizados, as causas raízes identificadas, as conclusões que foram encontradas e quais as recomendações da engenharia de confiabilidade. Lembre-se que as informações passadas estão resumidas, então expanda essas ideias sem inventar fatos.
+
+O relatório deve estar estruturado da seguinte forma:
+
+Introdução: apresente o equipamento em questão, o motivo da análise de falha estar sendo feita, o contexto em que o problema ocorreu e uma breve descrição da ocorrência. Máximo de 2 parágrafos.
+
+Desenvolvimento da investigação: explique os passos detalhados da investigação, incluindo os testes realizados, as metodologias empregadas e as observações feitas.
+Certifique-se de detalhar qualquer evidência importante que tenha surgido ao longo do processo.
+
+Identificação das causas raízes: com base na investigação e nos testes, identifique as causas raízes do problema. Explique como essas causas contribuíram para a ocorrência da falha.
+
+
+Conclusões e Recomendações: apresente as conclusões encontradas com base na análise das causas raízes e nos resultados da investigação. Inclua recomendações para evitar que a falha ocorra novamente no futuro, considerando ações corretivas, preventivas ou de melhorias.
+
+Seja preciso, claro e conciso em sua redação, garantindo que todas as informações relevantes estejam presentes e sejam facilmente compreendidas. Use terminologia técnica adequada e assegure que as causas raízes e conclusões estejam bem fundamentadas.
+
+O relatório deve ser escrito em [TARGETLANGUAGE].

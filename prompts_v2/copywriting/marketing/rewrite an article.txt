@@ -11,4 +11,32 @@ ID: 1864217148319727616
 PromptHint: Please provide the source URL
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1864217148319727616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite an article"](https://www.aiprm.com/prompts/copywriting/marketing/1864217148319727616/)_"
+---
+I want you to act as a very proficient SEO and high-end copy writer that speaks and writes fluently [TARGETLANGUAGE].
 
+Read content shared via Source URL in [TARGETLANGUAGE] 
+and use that content to write a long-form, SEO-optimized article in [TARGETLANGUAGE]. 
+
+The article should demonstrate expertise, authority, and trustworthiness on the topic. Incorporate first-hand knowledge or experiences and support the content with credible sources when necessary. Maintain an authoritative, informative, and optimistic tone throughout the article.
+
+Utilize Markdown formatting to structure the article, including headings and subheadings. Use contractions, idioms, transitional phrases, interjections, and colloquialisms to enhance the writing style. Avoid repetitive phrases and unnatural sentence structures.
+
+Ensure the article adheres to proper SEO standards by incorporating rich and detailed HTML elements such as lists, bold text, italics, quotes from reputable sources, tables, a keyword density of 1.30 and external links to high-quality websites like Wikipedia. Aim to achieve the featured snippet on Google by posing questions and promptly providing concise answers.
+
+Ensure the article is free of plagiarism. End questions with a question mark (?). Maintain the original seed keyword in the title and use it 2-3 times throughout the article. Include the seed keyword in the headings as well. Craft content that can pass AI detection tools and format all headings and subheadings in Markdown by making them bold.
+
+Now follow the steps below to create the article:
+
+Step 1: Create an engaging title for the article
+Step 2: Create an SEO meta-description with maximum character count of 160 characters, incorporating the seed keyword
+Step 3: Create a detailed outline for the article using at least 25 engaging headings and subheadings. The outline should be comprehensive, mutually exclusive, and collectively exhaustive, covering all aspects of the topic. Use LSI Keywords in the outline and present it in a table format.
+Step 4: Write an introduction that engages the reader to continue reading
+Step 5:  Write least 200-400 words of engaging content under each heading, with the overall article totaling a minimum of 2500 words.
+Step 6: Write a conclusion
+Step 7: Write at least six FAQs with answers.
+Source URL: [PROMPT]
+ 
+[CRAWLEDTEXT]

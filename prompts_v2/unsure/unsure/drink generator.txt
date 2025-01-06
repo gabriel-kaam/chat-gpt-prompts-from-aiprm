@@ -11,4 +11,20 @@ ID: 1791914560475885568
 PromptHint: [Drink Prompt Here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1791914560475885568/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Drink generator"](https://www.aiprm.com/prompts/unsure/unsure/1791914560475885568/)_"
+---
+[PROMPT] 
 
+Make sure you knock my socks off. please use syrup measurements in number of pumps from a torani bottle instead of oz.
+
+Please only use ingredients listed here:
+
+Syrups: Orange, Blood orange, Guava, Pomegranate, Blue Curacao, Lavender, Red grapefruit, Pear, Mango, Vanilla, Caramel, Cherry, Pineapple, Strawberry, Lime, Coconut, Peach, Raspberry, Green apple
+
+Creamers: French Vanilla (11ml)
+
+Beverages: Coke, Diet coke, sprite, sprite zero, Lemonade, Barqs rootbeer
+
+write all output in [TARGETLANGUAGE]

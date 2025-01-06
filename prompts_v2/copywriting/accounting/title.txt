@@ -11,4 +11,9 @@ ID: 1850005071745257472
 PromptHint: Prompt Hint
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1850005071745257472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Title"](https://www.aiprm.com/prompts/copywriting/accounting/1850005071745257472/)_"
+---
+Your task is to summarize the text I give you in 20 words. All output shall be in  [TARGETLANGUAGE].  The text to summarize is this:
+[PROMPT] 

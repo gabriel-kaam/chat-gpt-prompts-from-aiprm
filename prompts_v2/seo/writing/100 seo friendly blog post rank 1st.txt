@@ -11,4 +11,8 @@ ID: 1814703443424833536
 PromptHint: Consider the common challenges or goals of your target audience related to the focus keyword, and provide actionable tips that can help them address these challenges or achieve their goals.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1814703443424833536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100% SEO friendly Blog Post [rank 1st]"](https://www.aiprm.com/prompts/seo/writing/1814703443424833536/)_"
+---
+Write a [TARGETLANGUAGE] article about [PROMPT] that explains [aspect of topic].

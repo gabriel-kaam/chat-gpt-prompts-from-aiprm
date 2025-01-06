@@ -11,4 +11,9 @@ ID: 2037938743730262016
 PromptHint: [article for websites]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2037938743730262016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "write a article for microrage solution "](https://www.aiprm.com/prompts/copywriting/writing/2037938743730262016/)_"
+---
+Write an article for my agency website for "Microrage Solutions". We are a pakistan based agency and targeting the USA based software houses for outsourcing of development/programming services. I will give you the keywords and you'll provide me humanized article which should contain a catchy title, around 10-12 subheadings and a call to action to ask the reader to contact us. The article should have more than 1500 words. also provide a keyword based backlink in the article. Also FAQ Please write in [TARGETLANGUAGE]
+[PROMPT]

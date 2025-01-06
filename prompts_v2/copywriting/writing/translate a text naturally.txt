@@ -11,4 +11,8 @@ ID: 1826040072936620032
 PromptHint: Enter the text that needs to be translated.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1826040072936620032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate a text naturally."](https://www.aiprm.com/prompts/copywriting/writing/1826040072936620032/)_"
+---
+Faça a tradução do texto a seguir para o português do brasil, deixando com naturalidade e perfeito. [KEYWORD] [TARGETLANGUAGE] [PROMPT]

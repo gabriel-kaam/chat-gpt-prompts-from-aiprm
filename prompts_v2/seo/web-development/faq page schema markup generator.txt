@@ -11,4 +11,31 @@ ID: 1839537260577173504
 PromptHint: [maximum questions should be 3, for optimal usage & use the web scraping option]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/1839537260577173504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "FAQ page schema markup generator"](https://www.aiprm.com/prompts/seo/web-development/1839537260577173504/)_"
+---
+I will give you a question or an instruction. Your objective is to answer my question or fulfill my instruction. All output should be in [TARGETLANGUAGE].
 
+[PROMPT] Run a search query in English on Google for the query "What is the best microwave?" and list the top 3 most frequently asked questions in English with a detailed answer to all these FAQs in English in a JSON-LD format. Follow the following FAQPage schema markup structure:
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "FAQ 1",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Answer to FAQ 1"
+    }
+  }, {
+    "@type": "Question",
+    "name": "FAQ 2",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Answer to FAQ 2"
+    }
+  }]
+}
+</script>

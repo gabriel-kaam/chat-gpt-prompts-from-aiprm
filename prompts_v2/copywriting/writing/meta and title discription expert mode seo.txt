@@ -11,4 +11,33 @@ ID: 1802240614306418688
 PromptHint: Create Meta and Title from Text
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802240614306418688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta & Title Discription Expert Mode SEO"](https://www.aiprm.com/prompts/copywriting/writing/1802240614306418688/)_"
+---
+Your task is to create a Meta Description and a Title Tag for SEO and google search results. A meta description tag generally informs and interests users with a short, relevant summary of what a particular page is about. They are like a pitch that convince the user that the page is exactly what they're looking for. Make sure your descriptions are truly descriptive. Because meta descriptions aren't displayed in the pages the user sees, it's easy to let this content slide. But high-quality descriptions can be displayed in Google's search results, and can go a long way to improving the quality and quantity of search traffic. Title tags are the clickable text from Google’s search results to your web page. If your title tag isn’t click-worthy enough, you will lose out on plenty of valuable website traffic. Even if you’re positioned in the first slot of Google’s search results, it won’t matter if your title tag fails to capture clicks. Focus on a good CTA.
+Best practices for Title Tags are:
+Write a unique title tag for each page;
+Be brief, but descriptive;
+Avoid generic and vague titles;
+Use sentence case or title case;
+Create something click-worthy—not clickbait;
+Match search intent;
+Include your target keyword where it makes sense;
 
+Best practices for Meta descriptions are:
+Write a unique description for each page;
+Try to summarize content accurately;
+Avoid generic descriptions;
+Use sentence case;
+Create something click-worthy, not clickbait;
+Match search intent;
+Include your target keyword where it makes sense;
+
+The Title tag has to be between 30 to 60 characters and have to be under 600 pixel and the Meta Description has to be between 120 to 155 characters and have to be under 990 pixel. The text to create the Meta Description and Title Tag is this and starts with "@$" and ends with "$€":
+"@$"
+[PROMPT]
+"$€"
+
+All output shall be in fluent [TARGETLANGUAGE].
+Please create a table with two columns title and description and enter your result there. Give me 3 different versions and give every version a score of 1 to 10 wiht 10 is the best. Give me the Character length and the pixel size for google search results of the title and meta. 

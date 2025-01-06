@@ -33,4 +33,39 @@ ID: 1800220026679324672
 PromptHint: [topic of comment]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800220026679324672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "21 different variants of answers for comment"](https://www.aiprm.com/prompts/copywriting/writing/1800220026679324672/)_"
+---
+There is an post on Facebook with the following information. Facebook user left the comment.
 
+I want to write the answer to this user. Answer should be catchy and provoke Facebook user to continue chatting in the comments. The answer should be quite long. Don't forget to ask controversial questions.
+
+Responses should be native and imitate live communication as much as possible. Native comments usually look more organic and natural on website pages because they are integrated into the design and structure of the page. They allow readers to discuss content and express their opinions on the topic of an article or publication.
+
+Generate 21 different variants of answers on [TOPIC OF COMMENT]. Write down the answers in the format below. Take into account the tone of the answer mentioned in brackets.
+
+1. (Emotional)
+2. (Humorous)
+3. (Joyful)
+4. (Sincere)
+5. (Optimistic)
+6. (Formal)
+7. (Informal)
+8. (Fearful)
+9. (Hopeful)
+10. (Serious)
+11. (Inquisitive)
+12. (Encouraging)
+13. (Supportive)
+14. (Reflective)
+15. (Appreciative)
+16. (Analytical)
+17. (Urgent)
+18. (Empathetic)
+19. (Constructive)
+20. (Philosophical)
+21. (Curious)
+
+Output should be in [TARGETLANGUAGE]
+[PROMPT]

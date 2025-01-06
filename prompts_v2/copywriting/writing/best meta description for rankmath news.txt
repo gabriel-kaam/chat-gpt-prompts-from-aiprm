@@ -11,4 +11,13 @@ ID: 1844673258726379520
 PromptHint: [text that you want a meta description for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1844673258726379520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Meta description for rankmath (news)"](https://www.aiprm.com/prompts/copywriting/writing/1844673258726379520/)_"
+---
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE] .
+Your task is to write a description according to the requirements:
+Description: Add Focus Keyword to your SEO Meta Description. And Description required have long below 160 characters.
+
+The keywords to use in the description are [PROMPT]
 

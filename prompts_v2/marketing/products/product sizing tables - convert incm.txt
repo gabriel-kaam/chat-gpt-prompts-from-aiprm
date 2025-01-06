@@ -14,4 +14,13 @@ ID: 1817159787021078528
 PromptHint: [paste your SIZING table here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/products/1817159787021078528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Sizing Tables - convert IN~CM"](https://www.aiprm.com/prompts/marketing/products/1817159787021078528/)_"
+---
+I want you to analyse this product sizing table [PROMPT].
+First, begin with the table heading (BOLD) "Sizing (International - cm)", create a new table with cm.
+Second, begin with the table heading (BOLD) "Sizing (USA - inches)", create a new table with in.
+Third, begin with the table heading (BOLD) "Sizing International (cm) and US (inches)", create a table with all cm and in.
+Do not tell me what you are doing, simply create the headings and tables.
+write all output in [TARGETLANGUAGE]

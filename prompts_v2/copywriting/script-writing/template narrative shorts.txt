@@ -11,4 +11,17 @@ ID: 1842019070414434304
 PromptHint: [Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/1842019070414434304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Template Narrative Shorts"](https://www.aiprm.com/prompts/copywriting/script-writing/1842019070414434304/)_"
+---
+sebagai seorang tiktok content creator senior, buatlah content short video berbahasa [TARGETLANGUAGE] berdasarkan keyword dengan aturan:
+1. Keyword hanyalah topik, tidak perlu ditulis
+2. Berikan hook yang menarik di awal ("Lu pasti gatau" + hook) hook berupa kalimat yang singkat padat dan to the point, meninggalkan kesan kita tahu sesuatu yang audience tidak tahu, dan maksimal 15 karakter
+3. wajib bersifat story telling
+4. pisahkan menjadi satu kalimat per baris dan berikan baris baru diantara kalimat
+5. Maksimal 500 karakter
+6. Gunakan bahasa yang santai
+7. Buatkan caption beserta hashtag yang digunakan (caption berperan sebagai judul kedua)
+8. Buatkan Comment Hook, hook yang akan saya masukan pada comment yang bertujuan membuat audience meninggalkan komentar
+Keyword: [PROMPT]

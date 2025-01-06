@@ -11,4 +11,8 @@ ID: 1788022581530726400
 PromptHint: Provide the website link to be analyzed Ex: https://en.wikipedia.org/wiki/Netflix
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1788022581530726400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Analyze the URL and report all the key points concisely"](https://www.aiprm.com/prompts/productivity/summarize/1788022581530726400/)_"
+---
+Your task is to analyze the website I give you and report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are consicely reported out.  Please use as many bullet points as needed. After reporting out Finally add a "Key Takeaway" from the URL. All outputs shall be in [TARGETLANGUAGE]. The text to the report should be read from this URL: [PROMPT]

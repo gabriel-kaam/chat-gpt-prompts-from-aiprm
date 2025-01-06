@@ -11,4 +11,15 @@ ID: 1850161188387291136
 PromptHint: [Title]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1850161188387291136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write article with Hyperlinks"](https://www.aiprm.com/prompts/copywriting/writing/1850161188387291136/)_"
+---
+Write a comprehensive blog post titled "[PROMPT]" The blog should revolve around the keyword "[VARIABLE1]" and related terms throughout the content. Additionally, add a hyperlink to "[VARIABLE1]" (pointing to "[VARIABLE2]") every time the exact phrase "[VARIABLE1]" is mentioned in the blog post. Moreover, include at least five hyperlinks to related terms or synonyms of "[VARIABLE1]," each leading to a relevant page on the website "[VARIABLE2]." Brand name is "[VARIABLE3]", You have to give Hyperlink it too. Link out within the 2nd and 3rd paragraph to helpful resources, not at the end, to the resources.
 
+Please ensure that all hyperlinks are in plain text format without any image-related tags. The Blog should also don't have any image-related tags. The output should be in Markdown format and written in the [TARGETLANGUAGE] language.
+
+
+[VARIABLE1:Keyword]
+[VARIABLE2:Internal Link]
+[VARIABLE3:Brand Name]

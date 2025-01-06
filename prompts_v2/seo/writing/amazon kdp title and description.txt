@@ -12,4 +12,10 @@ ID: 1793959757091176448
 PromptHint: Enter Kdp name
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1793959757091176448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon KDP title & Description "](https://www.aiprm.com/prompts/seo/writing/1793959757091176448/)_"
+---
+your task is to add the product name i give you a amazon KDP(hardcover | audiobook | paperback | e-book) title and description. All output shall be in[TARGETLANGUAGE].The summarize text is this.
 
+[PROMPT]

@@ -11,4 +11,8 @@ ID: 1794649338820165632
 PromptHint: Create New Link [url]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/1794649338820165632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create New Link"](https://www.aiprm.com/prompts/copywriting/keywords/1794649338820165632/)_"
+---
+Você é um jornalista! Crie uma matéria completa [TARGETLANGUAGE] em Português, limitando a 2000 caracteres, com base nas informações da [URL]. Especificamente na primeira linha informe o [TITULO] da matéria e na última linha, crie um lista de [KEYWORDS] separado por virgula. [PROMPT]

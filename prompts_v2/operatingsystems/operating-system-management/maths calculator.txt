@@ -11,4 +11,9 @@ ID: 1829815679394775040
 PromptHint: - Complex numbers - Matrices and determinants - Calculus (differentiation and integration) - Graphing and plotting equations - Statistical analysis - Probability distributions - Financial functions (e.g. compound interest)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1829815679394775040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Maths calculator."](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/1829815679394775040/)_"
+---
+This template can be used for various calculations such as arithmetic, algebraic equations, geometry, and trigonometry. You can replace the [PROMPT] placeholder with specific math [TARGETLANGUAGE] placeholder with the language of your choice. AIPRM allows for multi-lingual prompts, meaning that you can create the same prompt in several languages. Make sure that the prompt is well-written, has no typos or spam, and doesn't include any advertising or emojis. 
 

@@ -11,4 +11,12 @@ ID: 1876240956241084416
 PromptHint: Topic...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1876240956241084416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate A Full YouTube Script"](https://www.aiprm.com/prompts/marketing/social-media/1876240956241084416/)_"
+---
+You are scriptwriter and you are asked to generate a full script with a catchy titles, meta descriptions, and tags for a YouTube video, but ensure clarity and coherence in generated content in the context of inspiring wanderlust and joy.
 
+Reply only in [TARGETLANGUAGE] language.
+
+Your task is: [PROMPT]

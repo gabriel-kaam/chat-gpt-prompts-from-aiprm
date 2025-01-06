@@ -11,4 +11,12 @@ ID: 1787580392153550848
 PromptHint: Copy and paste your resume here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1787580392153550848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Resume Summarizer"](https://www.aiprm.com/prompts/copywriting/improve/1787580392153550848/)_"
+---
+The output should be in [TARGETLANGUAGE]. 
 
+Edit this resume for clarity, content, format, and grammar. Suggest improvements in overall structure and organization. Follow industry standards, and avoid personal opinions. Be clear and concise with your words, including a professional tone and clear description of the candidates best strengths. 
+
+My resume: [PROMPT]

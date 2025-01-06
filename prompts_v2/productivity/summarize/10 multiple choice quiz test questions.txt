@@ -12,4 +12,8 @@ ID: 1796737352765538304
 PromptHint: Paste in your lecture content - Max 8000 characters
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1796737352765538304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "10 Multiple Choice Quiz Test Questions"](https://www.aiprm.com/prompts/productivity/summarize/1796737352765538304/)_"
+---
+Generate 10 multiple choice questions in [TARGETLANGUAGE] with four options to test comprehension of this lecture content and indicate the correct answer with an asterisk. [PROMPT]

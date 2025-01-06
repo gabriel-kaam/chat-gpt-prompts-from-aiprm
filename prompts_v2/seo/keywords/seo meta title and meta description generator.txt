@@ -11,4 +11,8 @@ ID: 1832366364615249920
 PromptHint: [Title] or [Text Section]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1832366364615249920/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Meta Title & Meta Description Generator"](https://www.aiprm.com/prompts/seo/keywords/1832366364615249920/)_"
+---
+Create a Meta Title and Meta Description for the following topic: [PROMPT]. The meta title should have not more than 57 characters. The Meta Description should not contain more than 160 characters. Give me 5 suggestions each. The Output should be in [TARGETLANGUAGE]. Please provide the output in a table || Meta Title | Meta Description ||

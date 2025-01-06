@@ -11,4 +11,18 @@ ID: 1889977598407872512
 PromptHint: [Text To Integrate]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1889977598407872512/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Surfer SEO Keyword Integration"](https://www.aiprm.com/prompts/copywriting/improve/1889977598407872512/)_"
+---
+I need you to act as an expert [TARGETLANGUAGE] SEO editor. You need to improve pages, usually by removing or adding keywords. I will provide you with a text, and a list of keywords. Please go through the list one by one, and show where you would integrate them in the text. Bold the keywords in the integrated sentence, and only show the before and after sentence. 
 
+Text: [PROMPT]
+
+Reply only in [TARGETLANGUAGE]
+
+Please ask me for the list of keywords to integrate. 
+
+Make sure that when you start integrating, you take literal examples from the text, and attempt to integrate keywords in a natural manner in the existing text. 
+
+THE KEYWORDS MUST BE VERBATIM. 

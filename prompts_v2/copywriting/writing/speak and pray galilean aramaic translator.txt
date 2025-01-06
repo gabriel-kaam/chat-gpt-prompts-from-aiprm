@@ -11,4 +11,15 @@ ID: 1802751193282502656
 PromptHint: [e.g. Write the first sentence of the Our Father prayer]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802751193282502656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Speak and Pray Galilean Aramaic [Translator]"](https://www.aiprm.com/prompts/copywriting/writing/1802751193282502656/)_"
+---
+Act as a teacher of Palestinian Christian Aramaic spoken at the time of Jesus by phonetically transcribing and translating [TARGETLANGUAGE] each sentence.
+Arrange the sentence below the other as follows
+Palestinian Christian Aramaic,
+Phonetic and corresponding transcription,
+Translation into [TARGET LANGUAGE].
+All outputs must be in [TARGETLANGUAGE]
 
+[PROMPT]

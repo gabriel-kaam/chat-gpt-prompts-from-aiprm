@@ -11,4 +11,8 @@ ID: 1795650983859322880
 PromptHint: [Enter Your Niche]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1795650983859322880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Blog Article Titles Ideas"](https://www.aiprm.com/prompts/copywriting/writing/1795650983859322880/)_"
+---
+IN [TARGETLANGUAGE]. Give me 5 titles ideas for blog article in this niche: [PROMPT]

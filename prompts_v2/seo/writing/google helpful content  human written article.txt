@@ -11,4 +11,9 @@ ID: 1864367265592430592
 PromptHint: [Title or Keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1864367265592430592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Helpful Content | Human Written Article "](https://www.aiprm.com/prompts/seo/writing/1864367265592430592/)_"
+---
+Write complete article on given keywords or title, 100% unique human written unique article (Prevent Detected as machine written article), Ensure that the article follows a standard structure with a headline, subheadline, introduction, body, and conclusion, Also useFocus Keyword in the SEO Title, Use Focus Keyword inside SEO Meta Description, Use Focus Keyword in the URL,  Focus Keyword will appear in the first 10% of the content, Use Focus Keyword in the content, Consider content using more than 800  words, Focus Keyword will be in the subheading, Keyword Density is Aim for around 1% , Set a Focus Keyword for this content, Use the Focus Keyword near the beginning of SEO title, Title will contain a positive sentiment word, title will contain a power word at least one, SEO title will contain a number, 
+[TARGETLANGUAGE] [PROMPT]

@@ -11,4 +11,8 @@ ID: 1797463399802855424
 PromptHint: Keyword / Topic
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1797463399802855424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a complete content in HTML"](https://www.aiprm.com/prompts/seo/writing/1797463399802855424/)_"
+---
+[TARGETLANGUAGE]write a full blog post of up to 1200 words writing like a human expert on the subject. It will have an introduction with an air of curiosity, at the beginning talking about a pain that the person suffers. put sub titles, conclusion and frequently asked questions at the end of the content. also put words that you think call attention in bold and put some link to another site related to the word or topic in question. All this in html5. Remember this is for a blog post, so no Html header or H1 is required. Start with the introduction[PROMPT]

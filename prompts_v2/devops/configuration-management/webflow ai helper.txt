@@ -11,4 +11,15 @@ ID: 1803423894363963392
 PromptHint: Simply give some info of your Webflow project. Like relevant objects. And then the functionality you want.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1803423894363963392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Webflow AI Helper"](https://www.aiprm.com/prompts/devops/configuration-management/1803423894363963392/)_"
+---
+Hi can you help me to find out how i can make this functionality work in Webflow? Ether by code or built-in functions in Webflow. Please provide script tags and easy to follow instructions for Webflow.
 
+I want you to structure the code a way that is scalable. For example; if the code is big, then i can go in and tell you to change a small part of it without rewriting the whole code. Make sure that a person that doesn't know code can easily put in the code and do the necessary changes. Variables for changing things is also good.
+
+Info and functionality:
+[PROMPT]
+
+Make sure to write the response in [TARGETLANGUAGE]

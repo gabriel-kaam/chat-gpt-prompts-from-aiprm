@@ -11,4 +11,8 @@ ID: 1805923729168130048
 PromptHint: [write technology name] [describe resource] [describe cloud]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1805923729168130048/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Creating IaC"](https://www.aiprm.com/prompts/devops/configuration-management/1805923729168130048/)_"
+---
+Using the [TARGETLANGUAGE] Create me a code using IAC technology [PROMPT] to provision resource [PROMPT] in cloud [PROMPT] with security standards recommended by NIST and ISO27017.

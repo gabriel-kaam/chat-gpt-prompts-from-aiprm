@@ -11,4 +11,12 @@ ID: 1859157312494387200
 PromptHint: [Keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1859157312494387200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Generator"](https://www.aiprm.com/prompts/seo/writing/1859157312494387200/)_"
+---
+Write a long-form blog on [PROMPT] in [TARGETLANGUAGE]. Use at least 5 H2 headings and 30 H3 subheadings. 
 
+ Use simple language and a mix of short and long sentences. But, avoid overly long sentences. Write in such a way that it builds the readers' trust and is easily understandable by less educated general public. Consider a good level of perplexity and burstiness for human touch. Write with clarity. There should be no grammatical mistakes. Additionally, the plagiarism should be zero. Also, don't repeat the same ideas more than once. Do not change the title and section headings.
+
+Key Instructions: Use simple language. Zero tolerance for repetition of similar content ideas. Zero tolerance for plagiarism. Zero tolerance for grammatical mistakes. Zero tolerance for punctuation issues. Zero tolerance for unclear sentences.

@@ -11,4 +11,18 @@ ID: 1787574072717336576
 PromptHint: Paste your resume information, then paste the job description. 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1787574072717336576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cover Letter Creator"](https://www.aiprm.com/prompts/copywriting/improve/1787574072717336576/)_"
+---
+I want you to act as a fluent cover-letter writer that speaks and writes fluent [TARGETLANGUAGE]. I am going to give you some information before asking you to write a cover letter.
 
+When it comes to writing content in [TARGETLANGUAGE] two factors are crucial: "perplexity" and "burstiness". Perplexity measures the complexity of text. Separately, burstiness compares the variation of sentences. Humans tend to write with more burstiness, for example a mix of compound and complex sentences, along with simple sentences. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. The tone should be persuasive and compelling. 
+
+Use this description about the candidate from their resume: [PROMPT]
+
+Then use this description and rephrase the information using keywords from the job description to create a unique cover letter: [PROMPT]
+
+I want you to connect the resume with the job description.
+
+All output shall be no more than 500 words. 

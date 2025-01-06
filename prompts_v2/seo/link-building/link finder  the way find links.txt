@@ -11,4 +11,16 @@ ID: 1837538039069462528
 PromptHint: [paste your article here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/1837538039069462528/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Link Finder | The way find links"](https://www.aiprm.com/prompts/seo/link-building/1837538039069462528/)_"
+---
+now in this [PROMPT] give me a list of ten words that I should search them and find another article with great content to link them into  ( to maybe explain something better or give more info). I want you to provide the list of ten words in a table where first i see the word or phrase and second where it is in the article (paragraph). 
 
+After you made the table of the words, I want you to:
+1. you write this custom message
+[For each one of these ten words, search and find me a link to a blog post that explains them or add more information about them]
+
+and 2 rewrite only the list of 10 the words you found before separated with "," 
+
+ [TARGETLANGUAGE] will be english

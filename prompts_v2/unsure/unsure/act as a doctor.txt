@@ -11,4 +11,10 @@ ID: 1854154181503102976
 PromptHint: [Type a disease name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1854154181503102976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Act as a Doctor"](https://www.aiprm.com/prompts/unsure/unsure/1854154181503102976/)_"
+---
+act as patient and chat with me, i want to practice my clinical skills.   [TARGETLANGUAGE].
+information should be correct according to the user written disease. 
+[PROMPT]

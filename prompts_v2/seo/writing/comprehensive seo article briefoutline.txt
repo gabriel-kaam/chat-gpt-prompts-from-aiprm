@@ -11,4 +11,41 @@ ID: 1863238568655982592
 PromptHint: [Enter your keyword or topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1863238568655982592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comprehensive SEO Article Brief/Outline"](https://www.aiprm.com/prompts/seo/writing/1863238568655982592/)_"
+---
+all output must be in [TARGETLANGUAGE]
 
+your task is to act as an seo content specialist and create an seo article brief/outline on this topic -  [PROMPT]
+
+write about 120 characters meta description for this article that contains the main keyword.
+the brief should be broken down into sequential sub-headings that cover the topic in-depth.
+please do not go out of the context of the topic.
+this brief should be comprehensive enough to be sent to an article writer for writing.
+the brief should start with an intro section and end with a conclusion.
+suggest some semantic keywords to include in the article.
+come up with 5 different catchy title variations.
+include relevant faqs that need to be answered regarding the topic.
+suggest appropriate h tags for the different sub-headings of the outline.
+here is a structure you can follow for the brief:
+
+title: {give 5 variations}
+objective: {suggest an objective for the article}
+target audience: {suggest the target audience for the article}
+tone of voice: should be informal
+main keyword: {extract a main keyword for the article based on the topic}
+related/semantic keyword: {suggest at most 5} - these should be words that are different but have the same search intent/meaning as the main keyword. for example. a semantic keyword for "table saw blades" is "blades for table saw"
+target article length: {suggest the target article length}
+
+main article outline:
+- introduction: ...
+- {your sub-heading suggestions}
+- conclusion: ...
+
+At the end of your output, write this:
+
+If you found this prompt useful, please give it a like. Also, feel free to check out my digital marketing services at https://digitalwebcoach.com/
+
+Best wishes,
+Chukwuezugo Aronu

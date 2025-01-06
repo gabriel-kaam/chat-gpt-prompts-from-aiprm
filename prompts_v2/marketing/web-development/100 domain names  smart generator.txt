@@ -11,4 +11,24 @@ ID: 1947273859267575808
 PromptHint: [KEYWORDS] or [topics on your website]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/web-development/1947273859267575808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "100 Domain Names | Smart Generator"](https://www.aiprm.com/prompts/marketing/web-development/1947273859267575808/)_"
+---
+I want you to act as an SEO specialist.
 
+Generate 100 domain name ideas that combine the following topics: [PROMPT] niches. The names should:
+
+- Be relevant to the target audience. Focus on keywords related to these topics that people are likely to search for.
+- Have search volume. Use a keyword research tool (like Google Keyword Planner) to identify keywords with a decent number of monthly searches.
+- Be catchy and memorable. Choose names that are short, easy to remember, and easy to type.
+- Be available with a .com extension. Check domain availability using a domain registrar before finalizing a name.
+- Being creative and unique. Go beyond just combining keywords and try to come up with names that stand out.
+- Using power words. Include words that evoke a sense of authority, success, or action.
+- Use words in the [TARGETLANGUAGE].
+
+At the bottom of the output, add this text:
+"Please upvote if you enjoyed 👍.
+For more professional prompts, visit my website [https://leodan.digital](https://leodan.digital/) 😎.
+And support me at https://buymeacoffee.com/leodan ❤️.
+Wishing you success!"

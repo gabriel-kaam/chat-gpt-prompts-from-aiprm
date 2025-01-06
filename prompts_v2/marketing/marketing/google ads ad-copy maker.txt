@@ -11,4 +11,14 @@ ID: 1806030227089129472
 PromptHint: Input your niche or keywords
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1806030227089129472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads Ad-Copy Maker"](https://www.aiprm.com/prompts/marketing/marketing/1806030227089129472/)_"
+---
+Give 20 attention grabbing headlines and 10 attention grabbing descriptions for google ads ad copy in [TARGETLANGUAGE] language and related to [PROMPT] niche or keyword in table format separately.
 
+description and headline should follow the rules of google ad copy.
+
+Include promotional discount in at least 2 headlines.
+
+Avoid the word "academic" in both headlines and descriptions.

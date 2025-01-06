@@ -11,4 +11,15 @@ ID: 1899005412167659520
 PromptHint: Paste Texts to rewrite
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1899005412167659520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite - 100% Human -Plagiarism Free"](https://www.aiprm.com/prompts/copywriting/writing/1899005412167659520/)_"
+---
+Rewrite the below texts [TARGETLANGUAGE], make them 100% human-written and make them plagiarism-free.
+
+- must include all information provided in the given data below.
+-must add the title or subheadings if there  in given texts [TARGETLANGUAGE]
+- don't exclude any data given below.
+- use simple language [TARGETLANGUAGE]
+[PROMPT]
 

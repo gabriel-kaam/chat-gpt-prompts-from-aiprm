@@ -11,4 +11,8 @@ ID: 1800483020579536896
 PromptHint: Text to make human generated and AI detection proof
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1800483020579536896/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human Writer "](https://www.aiprm.com/prompts/copywriting/writing/1800483020579536896/)_"
+---
+Please rewrite the following text in Language [TARGETLANGUAGE] and by adding a high degree of perplexity and burstiness: [PROMPT]

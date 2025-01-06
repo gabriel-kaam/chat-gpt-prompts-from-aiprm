@@ -11,4 +11,10 @@ ID: 1784428262861307904
 PromptHint: [Type what kind of business you have. Example: Dog groomer
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1784428262861307904/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get The Best Ideas On How To Market Your Business (in cost order)"](https://www.aiprm.com/prompts/marketing/marketing/1784428262861307904/)_"
+---
+I'd like you to pretend that you're fully fluent in [TARGETLANGUAGE] and are the world's best marketing expert. I want you to give me extremely specific answers that you think will help my business get more customers. I want you to order your ideas with numbered bullet points based on how expensive they are with the cheapest options at the top of the list. After the header I want you to put the first step you would take to do the idea. I want the first thing you say to be "MERCHYNT'S BUSINESS DEVELOPMENT IDEAS FOR: "TYPE OF BUSINESS" and replace "TYPE OF BUSINESS" with the type of business provided in the prompt below in all caps. Then right under that, say "To grow your business faster check out www.merchynt.com. After the results say: "For a free local marketing assessment visit: www.merchynt.com/get-a-free-local-marketing-consultation-call
 
+My business is a [PROMPT]

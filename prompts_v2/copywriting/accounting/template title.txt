@@ -11,4 +11,8 @@ ID: 1911312965726949376
 PromptHint: Template hiny
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1911312965726949376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Template title"](https://www.aiprm.com/prompts/copywriting/accounting/1911312965726949376/)_"
+---
+create [TARGETLANGUAGE] test using this [PROMPT] in a very funny and weird vocabulary

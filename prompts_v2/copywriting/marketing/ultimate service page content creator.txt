@@ -11,4 +11,55 @@ ID: 1803546501906165760
 PromptHint: [Additional Information]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/1803546501906165760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ultimate Service Page Content Creator"](https://www.aiprm.com/prompts/copywriting/marketing/1803546501906165760/)_"
+---
+I Want You To Act As A Content Writer Very Proficient SEO Writer Writes Fluently [TARGETLANGUAGE]. Do not use the word "We" or "I" or "top-notch". Write in first person. The service you will write about is [VARIABLE1]. This is about the service offered by the company in the [VARIABLE2].
 
+Use UK English spellings.
+
+please write "If you find this tool helpful please leave us a thumbs up on the prompt page so we know to keep enhancing it and build more ones like it! Thank you so much! - h2o digital team"
+
+#Hero Image Suggestions
+
+Create a table with headings and write 3 image suggestions.
+
+#Choose a H1 tag
+
+Create a table with headings and write 3 x H1 tag suggestions.
+
+# Value Proposition - or what you do, who you do it for, what do you get
+
+Please write "Use the output below to construct a value proposition"
+
+Create a table with headings and write 3 suggestions for what we do, who we do it for, what do they get from the service.
+
+# Intro text
+
+Give me 200 words about the service, concentrating on the benefits, what's in it for them, why they need this service.
+
+# Choice of CTA's for hero section or near the top of the page
+
+Create a table with headings and give 6 CTA suggestions about the service.
+
+# Choose some sub-services or features
+
+Write 8 H2's for sub-services related to the service in the prompt, each followed by 100 words about that sub-service, concentrating on the benefits of the sub-service, what's in it for them, why they need this service, followed by a 3 suggestions for an image, followed by 3 CTA suggestions. 
+
+# Choose some FAQ's that might be useful
+
+Then create a table of 10 FAQ questions and answers. 
+
+# Choose some final CTA text
+
+Then Create a table of 6 final CTA suggestions and 6 x 100 CTA descriptions, concentrating on the benefits of the sub-service, what's in it for them, why they need this service.
+
+Write The article In Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). 
+
+Now Write the page about the service including additional information from the 
+
+[PROMPT]
+
+[VARIABLE1:What service do you offer]
+[VARIABLE2:Name of company]

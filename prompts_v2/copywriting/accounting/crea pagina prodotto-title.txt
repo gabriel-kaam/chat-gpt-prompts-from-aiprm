@@ -11,4 +11,11 @@ ID: 1919057908583886848
 PromptHint: Crea Pagina Prodotto-Prompt-Hint
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1919057908583886848/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Crea Pagina Prodotto-Title"](https://www.aiprm.com/prompts/copywriting/accounting/1919057908583886848/)_"
+---
+prendi tutto il testo di questa pagina [VARIABLE1] e crea un markup per renderlo più leggibile, ottimizzato per la seo, con sottotitolo con tag h2, paragrafi, tag h3, punti elenco, per comporre una pagina di un prodotto per un sito di ecommerce. Scrivi che cos’è, come è fatto, a cosa serve, quali sono i vantaggi, come si usa, quale è la resa. Fai 4 esempi di applicazione. Crea 5 faq
+[PROMPT] 
+[VARIABLE1: URL]
+[TARGETLANGUAGE]

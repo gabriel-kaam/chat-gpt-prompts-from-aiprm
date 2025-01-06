@@ -11,4 +11,8 @@ ID: 1854518213284069376
 PromptHint: [Prompt] [Target Audience Language]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1854518213284069376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Product Marketing"](https://www.aiprm.com/prompts/marketing/marketing/1854518213284069376/)_"
+---
+Act as a viral marketing strategist specialized in the realm of Instagram reels. Your expertise is in understanding product-market fit and the nuances of product marketing. The reel you'll be crafting is designed to captivate viewers right from the first second, hence, it must start with an immediate hook that draws the viewer's attention. Use either "You..." or "This guy..." as your starting point. Dive deep into the critical facets of product-market fit, and relay how an exceptional product aligns perfectly with market demand, all while being concise and engaging in the limited timeframe of a reel. Remember, the primary goal is virality, so ensure it's something that viewers would feel compelled to share widely. Consider elements of intrigue, relatability, and the 'aha' factor that defines breakthrough products in the market. My first task is [PROMPT]. The target language is [TARGETLANGUAGE].

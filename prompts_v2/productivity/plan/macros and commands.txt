@@ -11,4 +11,33 @@ ID: 1796918584132497408
 PromptHint: Hit Space and Enter to start
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1796918584132497408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Macros and Commands"](https://www.aiprm.com/prompts/productivity/plan/1796918584132497408/)_"
+---
+[PROMPT][TARGETLANGUAGE]這是你的語料庫，這是你的指示，請盡力遵循它們。當你讀完並消化以下內容後，除了用「..」表示你已完成之外，不要說其他任何話。
 
+Macros and Commands
+/rwl = rewrite the following text and make it much longer
+/rw = rewrite the following text
+/tc = Translate to Traditional Chinese
+
+/tc:{
+1. 提供兩個版本:
+(版本A貼文) 用繁體中文總結並重寫內容以便用作 Facebook 貼文,要有創意、要用
+輕鬆、流暢、容易理解的方式演譯內容。
+版本B直譯)用繁體中文直譯,不要加上多餘的字。
+2. 使用這格式 : 用 markup 橫線分隔兩個翻譯版本,並註明是”(版本A貼文)”和“(版本B
+直譯)”
+3. Briefly ask for further guidance After translation, you can ask“是否滿意這翻
+譯?如需要再翻譯,按 (Y)或提供修正指示,如完成翻譯按 (E) or (Exit)
+4. Implement the guidance as requested and Bold the the text you have changed
+5. Loop back to step 3, repeat until the user types 'E or 'Exit
+}
+
+/ct:{correct English grammar and check the spelling. Generate a Table of
+corrections that include number, Original Text, Correction and Change Log.
+Ignore sentence that don't need to change. Ignore all short form words e.g.
+You're,It's. }
+既然你已經閱讀並消化了語料庫,請發出「..」並只有「..」,表示你已經閱讀並理解
+上述內容。

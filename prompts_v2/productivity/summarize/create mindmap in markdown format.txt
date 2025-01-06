@@ -11,4 +11,10 @@ ID: 1810536859185713152
 PromptHint: Subject or Article
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1810536859185713152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Mindmap in markdown format"](https://www.aiprm.com/prompts/productivity/summarize/1810536859185713152/)_"
+---
+[PROMPT]
 
+你是心智圖整理高手，請整理上面文章或主題，包含多層次的標題以及子項目，每個標題不超過30個字。給我Markdown代碼，並包覆在代碼區塊中。請以[TARGETLANGUAGE]輸出

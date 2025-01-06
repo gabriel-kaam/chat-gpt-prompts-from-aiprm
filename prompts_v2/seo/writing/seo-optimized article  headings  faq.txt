@@ -11,4 +11,24 @@ ID: 1807104753042456576
 PromptHint: [Enter title or keyword]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1807104753042456576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO-Optimized Article | Headings | FAQ"](https://www.aiprm.com/prompts/seo/writing/1807104753042456576/)_"
+---
+As a content writer, your goal is to create engaging and informative articles that rank high on search engine results pages. To achieve this, follow these steps:
 
+Create Two Tables
+First Table: Create an outline of your article with at least 15 headings and subheadings, including H1, H2, H3, and H4 headings.
+Second Table: Write the full article, including all headings and subheadings, with the title in bold using Markdown language.
+Write the Article
+Write a 1800-word article that is 100% unique, SEO-optimized, and human-written in [TARGETLANGUAGE].
+Ensure that the article covers the topic provided in the prompt and uses the headings and subheadings from your outline.
+Write in your own words rather than copying and pasting from other sources.
+Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context.
+Use fully detailed paragraphs that engage the reader.
+Write in a conversational style as written by a human. Use an informal tone, utilize personal pronouns, keep it simple, engage the reader, use the active voice, keep it brief, use rhetorical questions, and incorporate analogies and metaphors.
+Conclusion and FAQs
+End with a conclusion paragraph that summarizes the main points of the article.
+Include 5 unique FAQs after the conclusion.
+Make sure to bold the title and all headings of the article, and use appropriate headings for H tags.
+Now, write an article on the topic [PROMPT] that follows these guidelines.

@@ -15,4 +15,21 @@ ID: 1846576045974364160
 PromptHint: [Paste the Body description of all Customer Reviews reviews.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1846576045974364160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Amazon Product Review Analyzer (updated)"](https://www.aiprm.com/prompts/productivity/summarize/1846576045974364160/)_"
+---
+Act as a Summarizer.
+
+Summarize the problems mention in a [PROMPT]. Read the Title, body and rating Colum in the Excel Document. Analyze Body which have 4, 3, 2, 1 rating in [English]. mention how many numbe of times a problem is repeating in different Rows of body and present a summarice form of problem in nullet point.
+
+Suggest the Solution based on the problems in [TARGETLANGUAGE]
+
+Prioritize in providing solution of those problems repeating higher number of times.
+
+Example
+
+Long shoes are not suitable for shoe organizers
+
+You need to understand the design of the product and based on the utility suggest the solution.
 

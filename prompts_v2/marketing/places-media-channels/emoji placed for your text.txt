@@ -11,4 +11,10 @@ ID: 1803804972190789632
 PromptHint: [text that you want an emoji]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/places-media-channels/1803804972190789632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Emoji placed for your text"](https://www.aiprm.com/prompts/marketing/places-media-channels/1803804972190789632/)_"
+---
+Your task is to place a corresponding emoji at the end of each phrase of the [TARGETLANGUAGE] The text to have emoji is this:
+[PROMPT]
 

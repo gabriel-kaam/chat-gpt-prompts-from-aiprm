@@ -11,4 +11,10 @@ ID: 1794343765922803712
 PromptHint: [Ideal Customer] with [Problem] solve with [product, service or idea]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1794343765922803712/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "High Converting Email Marketing Campaigns"](https://www.aiprm.com/prompts/copywriting/writing/1794343765922803712/)_"
+---
+Your task is to Use the Problem-Agitate-Solve framework, write an email marketing campaign where the "ideal customer avatar" has a problem "list the problem here", agitate that problem and solve with "product, service or idea"  All output shall be in [TARGETLANGUAGE]. The test to summarize is this:
 
+[PROMPT]

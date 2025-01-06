@@ -11,4 +11,25 @@ ID: 2031913711086342144
 PromptHint: Input URL and Headings
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/2031913711086342144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Heading Tags Optimization"](https://www.aiprm.com/prompts/seo/ideation/2031913711086342144/)_"
+---
+Improve these heading tags for the webpage linked below without adding new headings. Ensure they remain relevant, clear, and professional while following the specified hierarchy. Avoid using colons unless required and make the language user-friendly and SEO-aligned. Always Include Procedure or Keyword. Output should be the same format with Input.
 
+Input Template:
+Improve these heading tags for this page: [URL]
+
+<H1> [Original H1 text]  
+<H2> [Original H2 text]  
+<H2> [Original H2 text]  
+<H3> [Original H3 text]  
+
+Output Template:
+<H1> [Revised H1 text]  
+<H2> [Revised H2 text]  
+<H2> [Revised H2 text]  
+<H3> [Revised H3 text]  
+
+[TARGETLANGUAGE]
+[PROMPT]

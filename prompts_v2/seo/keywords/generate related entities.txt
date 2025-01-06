@@ -11,4 +11,13 @@ ID: 1784023163353698304
 PromptHint: [KEYWORD]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1784023163353698304/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate Related Entities"](https://www.aiprm.com/prompts/seo/keywords/1784023163353698304/)_"
+---
+Use [TARGETLANGUAGE].First, create a table with one row and eight columns. The first column is labeled "Keyword" and the second column is labeled "Related Terms." The third column is idea-based entities. The fourth column is thing-based entities. The fifth column is event-based entities. The sixth column is location-based entities. The seventh column is action-based entities. The eighth column is descriptive entities.
+
+Fill the cell in the Keyword column with [PROMPT]. Fill in related terms with terms semantically related to the entry in the keyword column. Fill in the other empty cells.
+
+Add more entities.
 

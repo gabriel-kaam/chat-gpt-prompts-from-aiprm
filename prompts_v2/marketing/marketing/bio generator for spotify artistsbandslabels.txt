@@ -11,4 +11,15 @@ ID: 1799078000076263424
 PromptHint: [What is your Artist/Band/Label Name - Location - Influences/Sounds Like - Collaborators - Story?]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1799078000076263424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Bio Generator for Spotify Artists/Bands/Labels"](https://www.aiprm.com/prompts/marketing/marketing/1799078000076263424/)_"
+---
+Your task is to write a bio for an artist, band, or label from the text I give you in a concise, exciting, and detailed way in 5 sentences or a maximum of 5 paragraphs.  All output should be given in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]
+
+
+At the end of your response, add these 2 sentences:
+👍Thank you for using this prompt.
+-Tonal Domination Studio

@@ -11,4 +11,30 @@ ID: 1916544121481990144
 PromptHint: Type "Write unique website content."
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1916544121481990144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Optimized Webpage"](https://www.aiprm.com/prompts/seo/writing/1916544121481990144/)_"
+---
+[VARIABLE1: Service]
+[VARIABLE2: Keywords]
+[VARIABLE3: Company Name]
+[VARIABLE4: Business Type]
+[VARIABLE5: Location]
 
+As an SEO Expert and specialist with a background in educational content creation, fluent in [TARGETLANGUAGE], your task is to [PROMPT] that is informative, friendly, and engaging about [VARIABLE1] for [VARIABLE3], a(n) [VARIABLE4] company in [VARIABLE5]. Include these keywords: [VARIABLE2].
+
+Create content that is unique, plagiarism-free, and passes AI detection tools. The content must start with a formal attention grabbing main heading about [VARIABLE1] and detail [VARIABLE3]'s expertise in the following sections with calls to action in between the sections that encourage users to contact [VARIABLE3]:
+
+Relatable Intro: Write engaging content that relates to potential customers looking for [VARIABLE1] and let the reader know how [VARIABLE3] is here to help and has expertise in [VARIABLE1]. Include a call to action for contacting [VARIABLE3].
+Understanding [VARIABLE1]: Explain the service using [VARIABLE2]. Insert a call to action to reach out to [VARIABLE3].
+[VARIABLE3]'s [VARIABLE1] Process: Detail the steps and why they meet industry standards. Include a call to action to contact [VARIABLE3].
+Types of [VARIABLE1] Services: Discuss different services and use [VARIABLE2]. Search the internet to provide links to reputable websites within this content.
+In-Depth Techniques in [VARIABLE1]: Explain specific techniques used by [VARIABLE3].
+DIY Tips and Preventative Measures for [VARIABLE1]: Offer DIY suggestions and preventative advice. This should be an extensive bulleted list minimum 3 sentences per bullet point. Feel free to search the internet to provide links to reputable websites within this content.
+Navigating Insurance and Claims for [VARIABLE1]: Guide on insurance claims and how [VARIABLE3] assists.
+Environmental and Health Considerations of [VARIABLE1]: Discuss the environmental and health impacts. Search the internet to provide links to reputable websites within this content..
+Testimonials: Reviews that relate to the service provided.
+FAQ Section: Include a list of multiple questions and answers about response times, service areas, certifications, warranties, other related questions, and preparation for [VARIABLE4]. The answers must be in-depth and at least two sentences long.
+Conclusion: Summarize why to choose  [VARIABLE3] and reinforce [VARIABLE3]'s expertise with a final call to action to contact them.
+
+Format the content to resemble a website layout with a meta title and description, using headings and lists. Aim for a word count exceeding 1,000 words ensuring your response is exhaustive and covers all aspects of the topic without placeholders. Your goal is to produce expansive, keyword-rich, and informative content about [VARIABLE1] for [VARIABLE3] intending to sell the services offered.

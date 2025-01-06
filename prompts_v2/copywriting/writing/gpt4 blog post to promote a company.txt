@@ -11,4 +11,32 @@ ID: 1805361487343259648
 PromptHint: Paste Internal Links Here (will AHREF keywords through out post)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1805361487343259648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "GPT4 Blog Post to Promote a Company"](https://www.aiprm.com/prompts/copywriting/writing/1805361487343259648/)_"
+---
+Instructions: 
+Let's write a blog post that will rank on Google. You must write all output in [TARGETLANGUAGE]. I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other websites. The blog post should contain at minimum 1500 words of content. You should use markdown formatting, (H2 & H3 title headings where necessary) including bold, UL/OL, (DO NOT BOLD CONTENT HEADINGS) and write with a degree of creativity and human-like. Write this post in a friendly and conversational tone. Use transition words. Use active voice. The content must be written as if the company itself is writing it ...ie.  "we" "our" "us" etc. Please follow the steps below.
 
+Step 1:  
+Create a detailed table of contents for the following keyword: [VARIABLE1]. Generate a short, SEO optimized, click baity title for the blog post based on this keyword, but DO NOT include the company name in the blog post title. Be sure to also include a FAQ section with the top 5 questions related to this keyword. DO NOT AHREF FORMAT THE TABLE OF CONTENTS.
+
+Step 2: 
+Using Step 1 as a reference guide for writing this content, please write an informative blog post article based on the blog title and keyword.  Make sure to BOLD format this keyword (or any related keywords) through-out the article but DO NOT BOLD ANY HEADINGS. Do not forget to SEO optimize this entire article based on the given keyword and any other related keywords. Make sure every section of the outline is explained in detail.
+
+You must tailor this article for and promote the following company name: [VARIABLE2].  This blog post article should provide a comprehensive analysis of the key factors that impact the blog post title/keyword. This article should be written in an informative and objective tone that is accessible to a general audience. 
+
+You can also create additional relevant keywords for this blog post using these interal links:
+
+[PROMPT] 
+
+Please incorporate these internal links, using the ahref format, and link the top keywords to the most relevant links provided. I need to be able to copy and paste this content, with the incorporated link formatting. Only use each link one time through out the article. Please note that you don't need to use all the provided internal links... only reference and use those that are relevant to the articles topic. 
+
+Lastly, ahref link the provided company phone number and CTA (call to action) url: [VARIABLE3]. Do this in the articles conclusion. The intent is to get the reader to request service by calling or filling out the online form.
+
+Step 3: 
+After writing this blog post, please write a 160 character max seo meta description. Also include a good and short slug for this post.
+
+[VARIABLE1:Keyword or Post Title to Generate Content From]
+[VARIABLE2:Company Name to Promote]
+[VARIABLE3:Company Phone, Call to Action URL]

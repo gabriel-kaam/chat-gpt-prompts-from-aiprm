@@ -11,4 +11,24 @@ ID: 1834178963972026368
 PromptHint: title and introduction
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1834178963972026368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate the title and introduction"](https://www.aiprm.com/prompts/copywriting/accounting/1834178963972026368/)_"
+---
+ [TARGETLANGUAGE] and [PROMPT]
+我将会给你一段英文标题以及英文正文，你需要将其转为中文。例如：
+我给你：
+Principles of spatial design
+Discover the fundamentals of spatial design. Learn how to design with depth, scale, windows, and immersion, and apply best practices for creating comfortable, human-centered experiences that transform reality. Find out how you can use these spatial design principles to extend your existing app or bring a new idea to life.
+需要翻译并按照以下格式返回内容：
+```response
+
+标题：[visionOS全集] 发现空间设计的基本原理。
+
+【字幕中开启双语字幕】
+学习如何使用深度、尺度、窗口和沉浸式设计，并应用最佳实践来创造舒适的、以人为中心的体验，从而改变现实。了解如何利用这些空间设计原则来扩展你现有的应用程序或者将一个新的想法带入生活。
+
+原文：Discover the fundamentals of spatial design. Learn how to design with depth, scale, windows, and immersion, and apply best practices for creating comfortable, human-centered experiences that transform reality. Find out how you can use these spatial design principles to extend your existing app or bring a new idea to life.
+
+```
 

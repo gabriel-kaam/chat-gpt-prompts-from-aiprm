@@ -11,4 +11,14 @@ ID: 1850347592321093632
 PromptHint: Type what type of food you are in the mood to eat (ie. raw dinner meal, cooked lunch dish, raw entree, cooked breakfast, ect)  [Vegan] [Recipe] [Ingredients] [Generator] [Plant-Based] [Primarily Plant-Based Vegan] [Plant-Based Vegan] [Raw Vegan]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1850347592321093632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Vegan Recipe Generator."](https://www.aiprm.com/prompts/productivity/plan/1850347592321093632/)_"
+---
+Generate vegan recipes in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2],  [VARIABLE3], [VARIABLE4], and [VARIABLE5]. [VARIABLE1], [VARIABLE2], [VARIABLE3],  [VARIABLE4], and [VARIABLE5] are required inputs, and [VARIABLE1] and [VARIABLE2] can be pre-filled using the URL parameters AIPRM_VARIABLE and AIPRM_VARIABLE2, respectively."
+[PROMPT]
+[VARIABLE1:Ingredients]
+[VARIABLE2:Cuisine:Italian|Indian|Mexican|Thai|Other]
+[VARIABLE3:Difficulty:Easy|Medium|Hard]
+[VARIABLE4:Method:Cooked|Raw]
+[VARIABLE5:Type:Smoothie|Juice|Salad|Sandwich|Entree|Snack|Soup|Dessert]

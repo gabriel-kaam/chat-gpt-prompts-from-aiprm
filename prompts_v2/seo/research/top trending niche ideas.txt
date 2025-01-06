@@ -11,4 +11,14 @@ ID: 1854208526940651520
 PromptHint: [Enter your field of interest]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/1854208526940651520/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Top Trending Niche Ideas"](https://www.aiprm.com/prompts/seo/research/1854208526940651520/)_"
+---
+Act as a seo expert and niche researcher. 
+I am a fresh blogger and want to start a new blog to generate money, I am trying to find out best trending niche to start new blog. 
+Give me list of top 10-20 niches [TARGETLANGUAGE] related in [to [PROMPT] 
+Give results in a table with columns niche, search volume, competition, cpc. 
+Please conduct deep research and give accurate results with less number of artificial data or guess. Please provide actual results. 
 
+At the end ask that "Are you satisfied with my result", if "No", give next 10-20 niche and so on and if "Yes" then Stop working. 

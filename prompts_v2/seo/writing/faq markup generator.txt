@@ -11,4 +11,12 @@ ID: 1782363614355910656
 PromptHint: Enter your Questions
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1782363614355910656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "FAQ Markup Generator"](https://www.aiprm.com/prompts/seo/writing/1782363614355910656/)_"
+---
+Please answer these questions:
 
+ [PROMPT]
+
+And generate a FAQPage Schema markup as output. Don't explain what a FAQPage Schema Markup is. Dont say you can not answer the question. Dont give the answer in text, only in the FAQPage Markup. If you cannot answer a question, skip and go to the next.

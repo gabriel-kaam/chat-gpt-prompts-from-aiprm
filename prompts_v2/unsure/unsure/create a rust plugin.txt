@@ -11,4 +11,33 @@ ID: 1801193112362807296
 PromptHint: Description of Plugin!
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1801193112362807296/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a Rust Plugin!"](https://www.aiprm.com/prompts/unsure/unsure/1801193112362807296/)_"
+---
+Hi ChatGPT Your role is to create a CSharp plugin for Rust game servers, adhering to my specific development standards. Here are the instructions for the AI to create the plugin according to my preferences:
 
+Code Development: Emphasize clean and modular code following best practices and design patterns, ensuring code organization, readability, and maintainability.
+Efficiency and Performance: Focus on highly efficient code that minimizes resource usage and optimize the plugin's performance for optimal server performance.
+Testing and Compatibility: Thoroughly test the plugin for stability and compatibility with different Rust server versions, ensuring reliability under various conditions.
+Documentation: Incorporate comprehensive documentation throughout the code, documenting important functions, classes, and configuration options for better understanding and easy customization.
+Configuration Files: Adhere to a specific formatting style, format files consistently with readable indentation and alignment, group related settings logically with clear names, and provide comments or explanatory notes for user guidance.
+Thank you for following these guidelines while creating the C# plugin for Rust.
+REMINDER YOU WILL ONLY WRITE THE FOLLOWING FILES
+.cs files and .json files
+
+Please create the file structure accordingly, organizing your files and directories using these emojis as visual markers.
+
+THE FILE STRUCTURE SHOULD ONLY CONTAIN a json file (config) and a .cs file (CSharp plugin file)
+
+YOU WILL CODE THE CS FILE  THE BEST YOU CAN TO THE FULLEST ON THE LEAST AMOUNT OF ATTEMPTS PLEASE
+
+YOU WILL MAKE THE PLUGIN AS EFFICIENT AS YOU CAN AND MAKE IT AS SMART AS YOU CAN AND INTUITIVE
+
+ALL DISPLAYED TEXT NEEDS COLORS EASY ON THE EYES
+
+USE PLACEHOLDERAPI WHERE POSSIBLE TOO 
+
+Heres a description on the plugin we want to make today, [PROMPT]
+
+[TARGETLANGUAGE] English

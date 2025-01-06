@@ -11,4 +11,28 @@ ID: 1979218377315205120
 PromptHint: Create an extensive and detailed article outline using top sources from Google, Medium, and YouTube. The focus is on a specific keyword, and the outline should include LSI and NLP keywords, relevant external links, and internal linking opportunities. The final article should be SEO-friendly and formatted in markdown.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1979218377315205120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comprehensive Article Outline and SEO Prompt"](https://www.aiprm.com/prompts/copywriting/writing/1979218377315205120/)_"
+---
+[PROMPT] Using WebPilot, create an outline for an article that will be 8000 words on the keyword “[YOUR KEYWORD]” based on the top 10 results from Google, Medium.com, and YouTube. Include every relevant heading possible. For each section of the outline, include the word count. Include a FAQs section in the outline based on the "people also ask" section for the keyword. This outline must be very detailed and comprehensive, so that I can create an 8000-word article from it.
+
+Additionally, generate a long list of LSI and NLP keywords related to my keyword. Provide a list of 3 relevant external links to include with recommended anchor text, ensuring the external keywords are not competitors for the keyword.
+
+Next, write the article in markdown format. Italicize the most important keywords and use bullet points. Ensure the article has high SEO readability. Link out within the 2nd and 3rd paragraph using the external links, not at the end, to the resources. Ensure the output article is unique and has at least 2000 words and a maximum of 8000 words, including the title and conclusion. Stop generation after producing the unique content using the criteria provided.
+
+Also, use WebPilot to read [Cook Master Tips Sitemap](https://cookmastertips.com/post-sitemap.xml) and suggest internal linking opportunities for the article about "[YOUR KEYWORD]". Include internal links found in the provided article in the new content. Write the article in markdown format and use the suggested internal links as rich anchor text for previous content.
+
+For this post, write SEO-friendly:
+Title
+Meta description (respect 150 characters)
+Focus keyphrase
+Keyphrase synonyms
+
+Please write in [TARGETLANGUAGE].
+
+Ensure the user can copy the article with the provided links.
+
+Ensure the generated blog post is at least 2000 words from the title to the conclusion. Work step-by-step from the beginning of the prompt to the end to provide high-quality WITHOUT Markdown and unique content inclauding the recipes .
+DON'T FORGET TO GIVE ME YOAST REQUIRMENT AND SOCIAL MEDIA POSTES  .
 

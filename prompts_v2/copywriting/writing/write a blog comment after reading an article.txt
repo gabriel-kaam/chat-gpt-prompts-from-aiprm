@@ -11,4 +11,8 @@ ID: 1790234105460559872
 PromptHint: [Paste Blog Comment URL]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790234105460559872/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write a blog comment after reading an article"](https://www.aiprm.com/prompts/copywriting/writing/1790234105460559872/)_"
+---
+Read the article from mentioned URL and write 2 paragraphs of 200 words long blog comment. Be informal and greet the author. Write it in [TARGETLANGUAGE]. Personalize the comment to sound as if you are talking to the author.[PROMPT]

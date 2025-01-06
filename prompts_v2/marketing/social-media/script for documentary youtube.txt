@@ -11,4 +11,22 @@ ID: 1794537156883251200
 PromptHint:  Type here theme, story, company, person and time of video
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1794537156883251200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Script for Documentary Youtube"](https://www.aiprm.com/prompts/marketing/social-media/1794537156883251200/)_"
+---
+youtube-script --topic --company --person --thing --video-length "[PROMPT]"
 
+--text "Create a complete script following the structure below in [TARGETLANGUAGE]:
+
+Introduction: (write an attention-grabbing introduction that presents the topic of the video)
+Question: (pose a question that draws attention to the next topic)
+History: (tell the story of the company/organization, including who founded it, how it started, and its history, in great detail)
+Question: (pose a question that draws attention to the next topic)
+Detailed market data: (provide information to support the content, such as the company's revenue, market value, size, number of employees, among others)
+Question: (pose a question that draws attention to the next topic)
+Hero's Journey or Journey of Defeat: (describe moments of great success or challenges and losses that the company/organization faced, including any turning points)
+Current status: (describe where the company/organization is now, what it has been doing, and why it is relevant or irrelevant, depending on the current state)
+Relevant causes it supports: (if applicable, describe any social, environmental, or other important causes that the company/organization has created or revolutionized the market, only if it is true and factual)
+Future trends: (describe what the company/organization sees as a trend for the future, if applicable and factual)
+Final conclusion: (provide a final conclusion on the topic, present deep reflections on the subject, and always leave a question at the end for the viewer to draw their conclusions about the topic)"

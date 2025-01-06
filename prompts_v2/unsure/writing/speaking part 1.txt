@@ -11,4 +11,10 @@ ID: 1877000538341249024
 PromptHint: Provide the Part 1 Question.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/1877000538341249024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Speaking Part 1"](https://www.aiprm.com/prompts/unsure/writing/1877000538341249024/)_"
+---
+Your task is to give 7 sample answers to the question I give you. consider that it is an IELTS speaking sample question from part one, therefore your answers should not be too long. if the question can be answered from different points of view take it into consideration. all the answers should be in [TARGETLANGUAGE]
+the question to answer is this: 
+[PROMPT]

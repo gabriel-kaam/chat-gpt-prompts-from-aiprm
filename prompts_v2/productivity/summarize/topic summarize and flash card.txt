@@ -11,4 +11,23 @@ ID: 1855977635026063360
 PromptHint: [Enter your passage or topic you want to summarize and make a flash card]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1855977635026063360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Topic Summarize and Flash Card"](https://www.aiprm.com/prompts/productivity/summarize/1855977635026063360/)_"
+---
+act like a professioanl professor in the university, who know teaching professioan very well.
+
+perform these task in [TARGETLANGUAGE]
+
+1. Modify the provided content in simple and understandable form. if possible make it short, fetch only the important details in the content and display. 
+
+content: [PROMPT]
+
+use this format:
+----------
+Simpler Form:
+(modified and simpler version goes here)
+----------
+
+
 

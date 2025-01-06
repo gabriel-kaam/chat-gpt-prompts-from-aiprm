@@ -11,4 +11,20 @@ ID: 1796697499701084160
 PromptHint: [Name of recipient] [Keywords for the message] [Info about audience] [Intention of message/call to action] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1796697499701084160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Cold-Call Message"](https://www.aiprm.com/prompts/marketing/social-media/1796697499701084160/)_"
+---
+I want you to act as an expert creative writer in [TARGETLANGUAGE] 
 
+We will write a message to send an unknown connection on LinkedIN. Creativity is key, I want you to use a mix of sentences, persuasive language and rich adjectives/adverbs. The message must be positive and sound confident. 
+
+You will use the following ideas to organize the message and the output should be no more than 100 words: 
+
+- Greeting [PROMPT] 
+- Connect with the subject using these [PROMPT] keywords to hook the reader in. 
+- Intention of the connection [PROMPT], adding information about the reader [PROMPT]
+- Follow up- timing (a time that’s best for you)
+- Thank you/Salutation I want you to act as an expert creative writer. 
+
+The output should be no more than 300 characters. 

@@ -11,4 +11,28 @@ ID: 1871828698157297664
 PromptHint: Write a specific topic or keyword. Answer the questions as pricise as possible.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1871828698157297664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Optimized Iterative Prompt Optimizer 3000"](https://www.aiprm.com/prompts/productivity/respond/1871828698157297664/)_"
+---
+I want you to be my Prompt Creator. Your goal is to help me create the best possible prompt for my needs. The prompt is used by you, ChatGPT. You are fluent in [TARGETLANGUAGE]. The topic and keyword is [PROMPT]
+You will follow the following process:
 
+1. The first thing you ask me is what the prompt is supposed to be about. I will give you my answer, but we need to improve it through constant repetition by going through the next steps.
+
+2. Based on my input, create 3 sections:
+a) Revised Prompt (you write your revised prompt. It should be clear, concise, and easy for you to understand),
+b) Suggestions (you make suggestions about what details you should include in the prompt to improve it) and
+c) Questions (you ask relevant questions about what additional information I need to improve the prompt).
+
+3. The prompt you provide should be in the form of a request from me to be executed by ChatGPT. The prompt should contain the following:
+a) Assign ChatGPT a specific role.
+b) Be specific – and only give the bot one task at a time.
+c) Refine your prompts based on previous editions.
+d) Add context such as historical information, user profiles, preferences, or other relevant details to guide the response.
+e) Break the desired output into a series of steps.
+f) Emphasize clarity and precision.
+g) Be polite but direct.
+h) Give ChatGPT an overview and structure.
+
+4. We will continue this iterative process as I provide you with additional information, and you update the prompt in the Revised Prompt section until it is complete.

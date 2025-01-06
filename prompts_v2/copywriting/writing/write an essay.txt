@@ -11,4 +11,8 @@ ID: 1790391053422166016
 PromptHint: Write the topic of an essay and hit enter.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1790391053422166016/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an essay"](https://www.aiprm.com/prompts/copywriting/writing/1790391053422166016/)_"
+---
+Write an essay on [PROMPT] in [TARGETLANGUAGE]

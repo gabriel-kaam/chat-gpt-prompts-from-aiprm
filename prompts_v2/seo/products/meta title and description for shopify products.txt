@@ -12,4 +12,8 @@ ID: 1796399224892678144
 PromptHint: [Keyword] [Brand Name]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/products/1796399224892678144/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meta Title and Description for Shopify Products"](https://www.aiprm.com/prompts/seo/products/1796399224892678144/)_"
+---
+Write SEO optimized Meta title and Description[PROMPT] [TARGETLANGUAGE] 

@@ -11,4 +11,8 @@ ID: 1831579671926673408
 PromptHint: Add you job, name and language output
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1831579671926673408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "CV Generation Test"](https://www.aiprm.com/prompts/generative/dalle/1831579671926673408/)_"
+---
+Generate a general CV for the job of [VARIABLE 1]. The person name is [VARIABLE 2]. The output language is [TARGETLANGUAGE] and job tile is [PROMPT]

@@ -11,4 +11,10 @@ ID: 1858436843906519040
 PromptHint: Solution Solver 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/stable-diffusion/1858436843906519040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Pick the right solution for me "](https://www.aiprm.com/prompts/generative/stable-diffusion/1858436843906519040/)_"
+---
+Your task is to give solution to my problem i give you in text all promt should be 20 to 80 words give any possible solution. All prompt should be in  [TARGETLANGUAGE] .
+[PROMPT] [variable]
 

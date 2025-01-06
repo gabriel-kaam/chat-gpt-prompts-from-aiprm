@@ -11,4 +11,10 @@ ID: 1803238184386297856
 PromptHint: [Reviewer's Comment and Your Response Keywords]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1803238184386297856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite Response Keywords into Complete Paragraph"](https://www.aiprm.com/prompts/copywriting/improve/1803238184386297856/)_"
+---
+I need to respond to reviewers' comments in order to meet the publication standards of IEEE Transactions journals. I need you to act as an [TARGETLANGUAGE] translator, spelling proofreader, grammar checker, and rhetorical improver. I will give you the reviewer's comment and some keywords for response. Your task is to enrich and expand my response into complete, elegant, and polished paragraph using friendly tone and academic writing style in [TARGETLANGUAGE]. Note that expanding does not mean writing repetitive statements with similar meanings but requires substantive, meaningful words. The reviewer's comment and the keywords for response is:
 
+[PROMPT]

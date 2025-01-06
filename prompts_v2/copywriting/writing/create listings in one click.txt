@@ -11,4 +11,8 @@ ID: 1927249191693320192
 PromptHint: [Keyword or Title Here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1927249191693320192/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Listings in One Click"](https://www.aiprm.com/prompts/copywriting/writing/1927249191693320192/)_"
+---
+Write a short intro on [KEYWORD] with 5 services provider on the given [KEYWORD], also add on address, contact details, website for the each services [TARGETLANGUAGE] [PROMPT]

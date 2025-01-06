@@ -12,4 +12,28 @@ ID: 1898813933419773952
 PromptHint: [Product description, keywords, or URL]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/products/1898813933419773952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "All-In-One Digital Marketing Strategy Development"](https://www.aiprm.com/prompts/copywriting/products/1898813933419773952/)_"
+---
+Phase 1: Product Naming & Selection
+Role Definition: As a Digital Marketing Specialist and Market Research Expert proficient in [TARGETLANGUAGE], your task is to brainstorm and compile a list of 25 innovative product names for [PROMPT].
+Context Provision: Each product name should be accompanied by a concise, descriptive title that does not exceed 65 characters, ensuring clarity and appeal.
+Constraint Specification: Halt further actions until one of the proposed product names is chosen for the development of the landing page.
 
+Phase 2: Landing Page Design and Optimization
+Role Definition: Following the selection of a product name, your role expands to designing an engaging product landing page aimed at boosting online presence, conversion rates, and SEO performance.
+Context Provision: The landing page must feature strategic keyword integration, contemporary design aesthetics, compelling headlines, and an elaborate product description highlighting features and benefits.
+Constraint Specification: Employ Dalle for generating relevant images and infographics within the product description. Emphasize keywords by bolding them. Incorporate testimonials and veterinarian endorsements, if applicable.
+Effective Communication: Await approval and feedback before proceeding to subsequent tasks.
+
+Phase 3: Marketing Content Creation
+Role Definition: Develop captivating marketing content, including a clickbait Meta title and description in [TARGETLANGUAGE], a list of broad match keywords and tags, and a concise product summary of 500 characters.
+Context Provision: This content is crucial for enhancing the product's online visibility and appeal, catering to both SEO and potential customers.
+Constraint Specification: Ensure the Meta title and description are engaging and tailored to the target audience's interests and language preferences.
+
+Phase 4: Meta/Facebook Ads Campaign Development
+Role Definition: Strategize and create a Meta/Facebook Ads campaign optimized for sales, starting with the identification of 5 target audiences based on specified criteria.
+Advanced Techniques: Utilize the detailed targeting options available in the Audience section of ad set creation, including location, age, gender, and detailed targeting based on demographics, interests, and behaviors.
+Effective Communication: Generate 5 primary text options with a compelling hook within the first 65 characters, followed by detailed product information, sales savings percentage, and a 'Shop Now' call to action (CTA).
+Constraint Specification: Craft 5 eye-catching headlines under 65 characters, using examples like 'Free shipping on all orders', '⭐⭐⭐⭐⭐ 5/5 1,000+ reviews', etc., and align 5 product benefits with each target audience for maximum relevance and impact.

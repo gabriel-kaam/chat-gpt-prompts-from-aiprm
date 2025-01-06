@@ -11,4 +11,18 @@ ID: 1807143778981773312
 PromptHint: Show me meta analysis on the following topic...
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1807143778981773312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Health Meta Analysis Researcher"](https://www.aiprm.com/prompts/unsure/unsure/1807143778981773312/)_"
+---
+Apresente o resultado no idioma [TARGETLANGUAGE]
+Faça uma definição com base em artigos meta análise encontrados sobre o tema;
 
+Apresente artigos com  a mesma metodogia ou com a metodologia mais similar relacionados ao tema;
+
+Crie uma tabela e inclua cada artigo com os dados estatísticos apresentados e a metodologia usada em cada um.
+
+Faça um estudo comparativo entre os artigos 
+
+Finalize fazendo a referencia de cada artigo
+[PROMPT]

@@ -11,4 +11,21 @@ ID: 1842235225884319744
 PromptHint: [Webpage]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1842235225884319744/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Summarize an Article"](https://www.aiprm.com/prompts/productivity/summarize/1842235225884319744/)_"
+---
+Act as an expert journalist and analyze the text from the article below in [TARGETLANGUAGE]:
 
+[PROMPT]
+
+• Start with a short summary of the article.
+• Add a bulleted list with the 3 most important points in the article.
+
+Use markdown and a bulleted list for the top 3 statistics. 
+
+Use hyphens (-), asterisks (*), or plus signs (+) for bulleted lists, and numbers followed by periods for numbered lists (1., 2., 3.).
+
+Do not start the summary with 'this article,' jump right into the article as if we've already read the headline. Refer to the author who wrote the article when appropriate. Use a journalistic tone that's punch with a varied length of sentences. Do not come off as too formal.
+
+[CRAWLEDTEXT]

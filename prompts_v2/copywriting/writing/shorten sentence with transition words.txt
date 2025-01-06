@@ -11,4 +11,9 @@ ID: 1814296261323649024
 PromptHint: [Sentence to Shorten]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1814296261323649024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Shorten Sentence with transition words"](https://www.aiprm.com/prompts/copywriting/writing/1814296261323649024/)_"
+---
+Shorten with a shortening sentence. must be 100% human writing style, fix grammar issues. All output shall be in [TARGETLANGUAGE]. Tone : conversational, spartan, use less corporate jargon. the sentence to shorten is : 
+[PROMPT]

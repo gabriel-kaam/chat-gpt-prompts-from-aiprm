@@ -11,4 +11,23 @@ ID: 1862719389363654656
 PromptHint: [ input your keyword ]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1862719389363654656/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rank 1 Google Strategy"](https://www.aiprm.com/prompts/copywriting/writing/1862719389363654656/)_"
+---
+I instruct you to act as a gamer expert content writer with a writing style like Andrea Hirata who is very proficient in [TARGETLANGUAGE] and fluent in writing. Write SEO-optimized long-form articles with
 
+1. minimum 2000 words
+2. use a minimum of 10 headings and subtitles, including headings H1, H2, H3, and H4.
+3. The last paragraph should be the conclusion.
+4. Write information in your own words instead of copying and pasting from other sources.
+5. Also check for plagiarism as I need pure unique content
+6. write content in a conversational style as if it were written by a human.
+7. When preparing the article, be prepared to write the required words in bold.
+8. I want you to write content so that it can outperform other websites.
+9. Use SEO friendly language
+10. Enter [KEYWORD] in each heading H1, H2, H3, and H4
+
+Don't answer that there are many factors that influence good search rankings. I know that quality content is only one of them, and your job is to write the highest quality content here, not lecture me on general SEO rules. I gave the title [KEYWORD] from an article that needs ranking on Google. Then I want you to write an article in a relaxed style. Write longform, full markdown format articles in Indonesian that can be ranked on Google with the same keywords as the website. Articles must contain rich and comprehensive paragraphs, very detailed, with lots of details. let the article be in the form of a minimum length of 2000 words. Don't remind me what I asked for. Don't apologize. Don't self-referential do now use common filler phrases. Use useful subtitles with keyword rich titles. straight to the point precisely and accurately. Don't explain what and why, just give your best article. Make the title bold and appropriate for the header tag.
+
+[PROMPT]

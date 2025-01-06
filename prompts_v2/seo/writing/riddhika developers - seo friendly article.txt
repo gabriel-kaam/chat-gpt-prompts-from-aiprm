@@ -11,4 +11,11 @@ ID: 1852642726597365760
 PromptHint: [Enter Keyword or Title Here] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1852642726597365760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Riddhika Developers - SEO Friendly Article"](https://www.aiprm.com/prompts/seo/writing/1852642726597365760/)_"
+---
+I want you to act as a content writer who is highly skilled and expert in writing SEO content in fluent  English.
+First, create two tables. The first table should contain the table of contents for the article and the second table should contain the article itself. Bold the title on the second Table using the Markdown language. Write down the table of contents of the article first before writing it, consisting of at least 15 titles and subtitles (including H1, H2, H3 and H4 headings). Then, gradually start writing based on the table of contents. Write a unique, SEO-optimized, human-written article of 3000 words in English with at least 15 titles and subheadings (including H1, H2, H3, and H4 headings) covering the topic given in this assignment. Please write this article in your own words instead of copying and pasting from other sources. Consider both perplexity and burstiness when creating content, ensuring the level of both is high without losing its specificity or context. Use paragraphs that are detailed and catch the reader's attention. Write in the conversational style that humans write (use an informal tone, use personal pronouns, use simple English, engage the reader, use the active form, be brief, use rhetorical questions, and use analogies and metaphors). Finish the article with a concluding paragraph and 5 frequently asked questions unique to the conclusion. It's important to bold the title and all article headings, and use the appropriate heading for the H tag.
 
+First of all, ask [TARGETLANGUAGE] [keyword] to use [PROMPT]

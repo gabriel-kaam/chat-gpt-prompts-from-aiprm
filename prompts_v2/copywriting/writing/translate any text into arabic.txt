@@ -11,4 +11,20 @@ ID: 1853505206068449280
 PromptHint: [text that you want in arabic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1853505206068449280/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Translate any text into Arabic"](https://www.aiprm.com/prompts/copywriting/writing/1853505206068449280/)_"
+---
+Translate the following text into Arabic!, but pay attention to the following points:
 
+* write only the translation and not write: "بالطبع، سأكتب لك باللغة العربية:" or something else!!!
+
+* try to structure long texts well and work well with headings!
+
+* and try to use blod fonts!
+
+All output should be in [TARGETLANGUAGE].
+
+The text to be translated is:
+
+[PROMPT]

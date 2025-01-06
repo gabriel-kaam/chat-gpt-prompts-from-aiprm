@@ -11,4 +11,15 @@ ID: 1834096107497205760
 PromptHint: [Type of business] or [your list of types of business, maximum approx. 8000], [Focus Area] or [your list of focus areas, maximum approx. 8000], [Challenge] or [your list of challenges, maximum approx. 8000]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1834096107497205760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Custom Business Strategy Generator"](https://www.aiprm.com/prompts/marketing/marketing/1834096107497205760/)_"
+---
+Example [PROMPT] in [TARGETLANGUAGE] with [VARIABLE1], [VARIABLE2] and [VARIABLE3].
+[VARIABLE1:Type of Business] [VARIABLE2:Focus Area:Marketing] [VARIABLE3:Challenge:Capturing new customers:Retaining customers|Expanding market share|Improving online visibility].
 
+[PROMPT]
+"I need a business strategy for my [VARIABLE1] focused on the [VARIABLE2] area to overcome the challenge of [VARIABLE3]."
+
+[TARGETLANGUAGE]
+"English"

@@ -11,4 +11,52 @@ ID: 1981214711849172992
 PromptHint: [industry,your expertise]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1981214711849172992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Linkedin client sniper techniqe"](https://www.aiprm.com/prompts/marketing/social-media/1981214711849172992/)_"
+---
+I'd like to use the Client Sniper Technique to find my ideal clients on LinkedIn. Can you help me generate a detailed report that includes:
 
+Target Audience: Identify the specific industry, job title, company size, and location of my ideal clients.
+Search Keywords: Provide a list of relevant keywords I can use to find these clients on LinkedIn's advanced search features.
+Sample Connection Request: Craft a personalized connection request template that mentions a specific pain point or challenge my ideal clients might be facing, and how I can potentially help them.
+
+Input:
+
+Your Industry: [VARIABLE1]
+Your Expertise: [VARIABLE2]
+Example:
+
+Sample Input:
+
+Your Industry: Marketing
+Your Expertise: Content Marketing
+Output:
+
+Target Audience:
+Industry: B2B Technology Companies
+Job Title: Marketing Manager, Content Director
+Company Size: 50-500 Employees
+Location: North America
+Search Keywords: "Content Marketing," "B2B Marketing," "Demand Generation," "Marketing Manager," "Content Director"
+Sample Connection Request:
+Hi [Name],
+
+I came across your profile while searching for marketing professionals in the B2B tech space. I'm particularly impressed by your work on [mention specific content or achievement].
+
+I specialize in Content Marketing and I've helped several companies like yours develop high-performing content strategies that drive leads and engagement. I understand that creating content consistently can be a challenge for busy marketers.
+
+I'd love to connect and discuss some strategies that might be helpful for you. Are you open to a quick chat sometime next week?
+
+Best regards,
+[Your Name]
+
+
+
+
+
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+
+[VARIABLE1:Industry]
+[VARIABLE2:Your Expertise]

@@ -11,4 +11,11 @@ ID: 1818676660430704640
 PromptHint: Paste SOW into Prompt
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1818676660430704640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Project Statement of Work -  Red Team"](https://www.aiprm.com/prompts/unsure/unsure/1818676660430704640/)_"
+---
+Please respond in [TARGETLANGUAGE]/ Act like a B2B Executive VP with deep project management expertise  who vehemently opposes what my document suggests. come up with five arguments from the article that the person would most criticize and give me a good counterargument for each criticism. Think this thru step by step
+also check for grammar and spelling and suggest corrections
+finally review the entire thing and suggest 5 ways to make it simpler and clearer
+[PROMPT]

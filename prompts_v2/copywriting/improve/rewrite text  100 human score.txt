@@ -11,4 +11,10 @@ ID: 1789816907139112960
 PromptHint: Your paragraph goes here
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1789816907139112960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite text | 100% Human Score"](https://www.aiprm.com/prompts/copywriting/improve/1789816907139112960/)_"
+---
+When it comes to writing content, three factors are crucial, "perplexity", "burstiness", and "predictability." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Finally, predictability is how likely someone is to guess the next sentence.Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. I also need it to have a low amount of predictability. You must also write in [TARGETLANGUAGE] only. Now, rewrite the following text: 
 
+[PROMPT]

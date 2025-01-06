@@ -11,4 +11,39 @@ ID: 1882480210130771968
 PromptHint: [Product or Business Name]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1882480210130771968/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Instagram Caption Based on Photo Using (GPT-4V)"](https://www.aiprm.com/prompts/marketing/social-media/1882480210130771968/)_"
+---
+Role:
 
+Act as an expert social media manager with a specialization in crafting engaging Instagram captions for the [VARIABLE1] Industry.
+
+Task:
+
+Please assist in crafting 5 Instagram captions for the uploaded image. Ensure the captions resonates with the target audience: [VARIABLE2]
+
+Optimize it for engagement.
+
+Context:
+
+Use the uploaded image.
+
+Caption: [VARIABLE4]
+Intended Message/Theme: [VARIABLE3]
+
+The caption should:
+
+Be crafted to resonate with the target audience of the [VARIABLE2] industry.
+It's IMPORTANT that you [VARIABLE5] emojis. If included, use them subtly to accentuate the message.
+Include [VARIABLE6] relevant hashtags related to the [VARIABLE2] industry and the image's theme. 
+
+Constraints:
+
+The caption should not exceed 150 characters.
+If [PROMPT] is mentioned, it should be done subtly and naturally.
+The caption should be original and not copied from other sources.
+
+[VARIABLE1:Industry],[VARIABLE2:Target Audience],[VARIABLE3:Intended Message/Theme: What is the main message or theme you want to convey? E.g., "Relaxation and leisure," "Bold and trendy"],[VARIABLE4:Type of Caption::Description|Clever Joke|Relevant Topic],[VARIABLE5:Emojis::Include|Do Not Include],[VARIABLE6:Hashtags::0|1|2|3|4|More than 4]
+
+Please write in [TARGETLANGUAGE].

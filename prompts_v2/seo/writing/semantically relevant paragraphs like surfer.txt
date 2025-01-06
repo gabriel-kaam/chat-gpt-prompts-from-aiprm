@@ -11,4 +11,10 @@ ID: 1796099504437719040
 PromptHint: [topic or heading that you want a semantically relevant paragraph for]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1796099504437719040/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Semantically Relevant Paragraphs like Surfer "](https://www.aiprm.com/prompts/seo/writing/1796099504437719040/)_"
+---
+Your tasks are the following: First generate a list of semantically relevant terms from the topic I'm going to provide you. Name these as NLP terms. You are going to provide NLP terms in [TARGETLANGUAGE]. Then write multiple paragraphs that includes all of these terms in the [TARGETLANGUAGE]. Before writing paragraphs, tell the users that now I will include these terms in the following paragraphs. The topic is:
+[PROMPT]
 

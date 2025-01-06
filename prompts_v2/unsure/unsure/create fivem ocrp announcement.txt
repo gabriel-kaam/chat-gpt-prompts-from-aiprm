@@ -11,4 +11,9 @@ ID: 1920243736953765888
 PromptHint: Enter your updates
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/1920243736953765888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create FiveM OCRP Announcement"](https://www.aiprm.com/prompts/unsure/unsure/1920243736953765888/)_"
+---
+Act like you are a senior developer, you have 5 years of experience writing update logs for companies in the development industry. You write annnouncements for a fivem community which is outstanding and attention grabbing, the server is called OCRP. Your first job is to write an announcement about:
+[PROMPT] in [TARGETLANGUAGE]

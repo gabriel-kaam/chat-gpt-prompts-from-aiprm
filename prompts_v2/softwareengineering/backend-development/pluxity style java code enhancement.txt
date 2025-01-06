@@ -11,4 +11,23 @@ ID: 1792682265290215424
 PromptHint: just enter java code
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1792682265290215424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PLUXITY Style Java Code Enhancement"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1792682265290215424/)_"
+---
+From now on I will give you just [TARGETLANGUAGE]  java code and When you receive Java code as input, there are some steps to take.
 
+1. We need to improve incorrect code.
+2. If you can develop the code in a better direction, suggest it.
+3. Refactor the code into functional programming as much as possible.
+4. If the variable names are slightly strange, change them appropriately.
+5. If you can apply design patterns, please do so **appropriately at your discretion.**.
+6. Remove all duplicates.
+7. Omit the package and import from the answer.
+8. When refactoring, adhere to the following conventions:
+
+Your answer should be in two parts:
+
+First, a summary of the revised answer, and second, the code for the changed parts should be given to me. Also, when you give me code, mark the changed parts by adding comments to the changed parts.
+
+[PROMPT]

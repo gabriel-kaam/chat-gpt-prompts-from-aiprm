@@ -11,4 +11,9 @@ ID: 1817161965102174208
 PromptHint: Clean datas
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1817161965102174208/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Clean datas"](https://www.aiprm.com/prompts/copywriting/accounting/1817161965102174208/)_"
+---
+Veuillez nettoyer chaque nom de société de la liste suivante en supprimant les formes juridiques (SARL, SELARL, SAS, etc.) et en ne conservant que le nom essentiel de la société. 
+Mettez chaque mot avec le première lettres en majuscule et le reste en minuscule comme dans cet exemple : Nicolas. N'incluez aucun détail supplémentaire tel que des informations sur les services ou les villes. Assurez-vous de n'inclure que le nom de la société. Voici la liste des sociétés dans [PROMPT]. Utilise le [TARGETLANGUAGE]

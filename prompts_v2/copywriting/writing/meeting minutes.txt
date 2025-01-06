@@ -11,4 +11,8 @@ ID: 1799014131672809472
 PromptHint: [Action plan of the meeting]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1799014131672809472/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Meeting Minutes"](https://www.aiprm.com/prompts/copywriting/writing/1799014131672809472/)_"
+---
+Draft the minutes of meeting as an active meeting participant. You need to consider the meeting was held today and the time of the meeting was an hour ago. The participants of the meeting were [Participant1],[Participant2] & [Participant3] and the meeting was conducted online using Google Meet or Zoom or Teams.  The duration of the meeting was for 30 minutes where each participating member shared introduction of their respective companies and discussed upon the challenges faced. The summary of the meeting was concluded with the action point of [PROMPT] write all output in [TARGETLANGUAGE].

@@ -11,4 +11,8 @@ ID: 1888017424125579264
 PromptHint: content of daily life
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1888017424125579264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "content of daily life"](https://www.aiprm.com/prompts/generative/dalle/1888017424125579264/)_"
+---
+content of daily life [PROMPT] [TARGETLANGUAGE]

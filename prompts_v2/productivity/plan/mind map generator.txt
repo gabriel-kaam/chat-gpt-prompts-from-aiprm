@@ -11,4 +11,12 @@ ID: 1805286971392921600
 PromptHint: [text to help you organize your mind]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1805286971392921600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mind Map Generator"](https://www.aiprm.com/prompts/productivity/plan/1805286971392921600/)_"
+---
+Use a mind map theory to create  a large text mind map about "should I change careers?"
+[TARGETLANGUAGE] 
+Use emojis and markdown to make it more visual. Don't use excessive description but rather keywords. Follow each point with potential gain or lose from a material impact on my life from statistical data. Again use only few words. Add numbers to each claim.
 
+[PROMPT]

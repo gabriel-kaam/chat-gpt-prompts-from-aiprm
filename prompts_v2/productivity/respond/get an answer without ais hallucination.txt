@@ -11,4 +11,10 @@ ID: 1789868704406958080
 PromptHint: Just write your question in the [PROMPT] to get a truthful answer or an "I don't know".
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1789868704406958080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Get an answer without AI's hallucination"](https://www.aiprm.com/prompts/productivity/respond/1789868704406958080/)_"
+---
+Answer the question as truthfully as possible in [TARGETLANGUAGE], and if you're unsure of the answer, say "Sorry, I don't know".
+Q: [PROMPT]
+A: 

@@ -11,4 +11,12 @@ ID: 1802786509959720960
 PromptHint: [paste the article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1802786509959720960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rank math on page seo"](https://www.aiprm.com/prompts/seo/ideation/1802786509959720960/)_"
+---
+I will give you [PROMPT] You need to analyze each paragraph and then write 3 FOCUS Keyword that will rank my news article on google, write a SEO friendly title that will contain positive or negative sentiment, add a power word in title, write a maximum 60 words of slug, write a meta description and meta tags. 
 
+at the end of the content suggest me how can i make more SEO friendly my [PROMPT] so it will rank on google. 
+
+now start in [TARGETLANGUAGE]

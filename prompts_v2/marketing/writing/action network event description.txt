@@ -11,4 +11,10 @@ ID: 1790838036163198976
 PromptHint: [KEYWORD]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1790838036163198976/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Action Network Event Description"](https://www.aiprm.com/prompts/marketing/writing/1790838036163198976/)_"
+---
+"Act as an event organizer and create a captivating event page on actionnetwork.org that will attract a large number of attendees. Consider the latest events trends, current events, and the interests of your target audience when crafting your page. Highlight the unique features of your event, and use eye-catching images and persuasive language to entice people to attend.
 
+My first task is [PROMPT]. The target language is [TARGETLANGUAGE].

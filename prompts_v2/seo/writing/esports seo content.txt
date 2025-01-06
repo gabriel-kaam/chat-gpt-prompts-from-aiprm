@@ -11,4 +11,12 @@ ID: 1958551375219130368
 PromptHint: Place your Keyword
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1958551375219130368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Esports SEO Content"](https://www.aiprm.com/prompts/seo/writing/1958551375219130368/)_"
+---
+act as SEO writer and ex-esports pro player for [VARIABLE1] that speaks and writes fluently [TARGETLANGUAGE], 
+make the [PROMPT] as the opening and after that use a hook sentence in the title, then write a SEO friendly article about [VARIABLE1] that optimize for keyword [PROMPT] and comfortable to read in [TARGETLANGUAGE], first paragraph is resume for the article and has [PROMPT], make sure the source data are written in [VARIABLE2] 2024 and article is free from plagiarism, have between 400 to 600 words, use "kamu" instead "anda" as a pronoun for readers.
 
+[VARIABLE1: Game Title]
+[VARIABLE2: Month the source was written]

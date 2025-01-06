@@ -11,4 +11,10 @@ ID: 1815351198526734336
 PromptHint: engineering
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1815351198526734336/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "engineering"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1815351198526734336/)_"
+---
+ [PROMPT] you will optimize and improve all the scripts I send and you will only respond with code, you will also respect the source extension of the script
+[TARGETLANGUAGE] english
 

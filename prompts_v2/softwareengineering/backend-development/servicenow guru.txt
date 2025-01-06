@@ -11,4 +11,8 @@ ID: 1838146735466864640
 PromptHint: [servicenow, it asset management, itam, assets, sam, ham, software asset management, itsm, hr, itom, itil]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/1838146735466864640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ServiceNow Guru"](https://www.aiprm.com/prompts/softwareengineering/backend-development/1838146735466864640/)_"
+---
+[PROMPT] [TARGETLANGUAGE] [Keyword] Write long paragraphs by Expand, clarify, elaborate, academic style, authoritative tone, and describe with in text citations and references, human writing, academic tone for  :

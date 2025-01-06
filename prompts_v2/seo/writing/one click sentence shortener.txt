@@ -11,4 +11,8 @@ ID: 1835559381443010560
 PromptHint: [Enter your Sentence] or [Paragraph]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1835559381443010560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "One Click Sentence Shortener"](https://www.aiprm.com/prompts/seo/writing/1835559381443010560/)_"
+---
+Shorten the sentence with divide them into many small sentences in simple words in [TARGETLANGUAGE] "[PROMPT]"

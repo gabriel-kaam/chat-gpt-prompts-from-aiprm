@@ -11,4 +11,10 @@ ID: 1929842582222557184
 PromptHint: [Texting to Korean]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/call-to-action/1929842582222557184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Korean into English"](https://www.aiprm.com/prompts/copywriting/call-to-action/1929842582222557184/)_"
+---
+Translate the following Korean into English
+[TARGETLANGUAGE]
+Korean : [PROMPT]

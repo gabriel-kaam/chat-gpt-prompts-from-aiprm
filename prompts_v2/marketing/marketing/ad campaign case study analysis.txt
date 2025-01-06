@@ -11,4 +11,121 @@ ID: 2010412341636378624
 PromptHint: [KEYWORD] or [Paste your full ad campaign case study details here, including campaign objectives, target audience, strategies used, results, and challenges faced. Maximum 8000 characters.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2010412341636378624/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ad Campaign Case Study Analysis"](https://www.aiprm.com/prompts/marketing/marketing/2010412341636378624/)_"
+---
+Please write in English [TARGETLANGUAGE]
 
+Analyze the following ad case studies, breaking each one down into these phases. After explaining each phase, provide a set of beginner-friendly questions and answers, and then ask the user if they want to continue to the next phase or have more questions:
+
+Analyze the following ad case studies, breaking each one down into these phases. After explaining each phase, provide a set of beginner-friendly questions and answers, and then ask the user if they want to continue to the next phase or have more questions:
+
+1. Campaign Overview:
+   - Briefly summarize the campaign's main objective and target audience.
+   - Identify the industry and product/service being advertised.
+
+   Potential Questions:
+   1. What is a campaign objective?
+   2. How do you determine a target audience?
+   3. Why is it important to identify the industry?
+
+   [Provide simple answers with examples for each question]
+
+   Would you like to continue to the next phase, or do you have any more questions about the Campaign Overview?
+
+2. Top of Funnel (TOF) Strategy:
+   - Describe the tactics used to attract new potential customers (cold audiences).
+   - Analyze the testing phase: What ad creatives and audience groups were tried?
+   - Explain how successful ads were identified and scaled.
+
+   Potential Questions:
+   1. What does "Top of Funnel" mean?
+   2. What are cold audiences?
+   3. How do you test different ad creatives?
+   4. What does scaling an ad mean?
+
+   [Provide simple answers with examples for each question]
+
+   Shall we move on to the Middle of Funnel Strategy, or do you have more questions about the Top of Funnel phase?
+
+3. Middle of Funnel (MOF) Strategy:
+   - Detail the retargeting approach for warm audiences who showed initial interest.
+   - Examine the content used to build trust and credibility (e.g., reviews, testimonials).
+
+   Potential Questions:
+   1. What is retargeting?
+   2. Who are considered "warm audiences"?
+   3. Why are reviews and testimonials important in ads?
+
+   [Provide simple answers with examples for each question]
+
+   Are you ready to proceed to the Bottom of Funnel Strategy, or do you have more questions about the Middle of Funnel phase?
+
+4. Bottom of Funnel (BOF) Strategy:
+   - Outline the tactics used to convert hot audiences ready to buy.
+   - Analyze the call-to-action (CTA) and any special offers or discounts used.
+
+   Potential Questions:
+   1. What are "hot audiences"?
+   2. What is a call-to-action (CTA)?
+   3. How do special offers help in converting customers?
+
+   [Provide simple answers with examples for each question]
+
+   Should we continue to the Post-Purchase Strategy (if applicable), or do you have more questions about the Bottom of Funnel phase?
+
+5. Post-Purchase Strategy (if applicable):
+   - Describe any efforts made to re-engage existing customers for additional sales.
+
+   Potential Questions:
+   1. Why is post-purchase marketing important?
+   2. What are some common post-purchase strategies?
+   3. How can you measure the success of post-purchase campaigns?
+
+   [Provide simple answers with examples for each question]
+
+   Are you ready to move on to the Key Metrics and Results, or do you have more questions about the Post-Purchase Strategy?
+
+6. Key Metrics and Results:
+   - List the primary KPIs used to measure success.
+   - Provide quantitative results for each funnel stage (TOF, MOF, BOF).
+   - Calculate and explain the overall return on ad spend (ROAS).
+
+   Potential Questions:
+   1. What are KPIs?
+   2. How do you measure success in different funnel stages?
+   3. What is ROAS and why is it important?
+
+   [Provide simple answers with examples for each question]
+
+   Shall we proceed to the Challenges and Solutions section, or do you have more questions about the Key Metrics and Results?
+
+7. Challenges and Solutions:
+   - Identify any significant obstacles encountered during the campaign.
+   - Explain how these challenges were addressed or overcome.
+
+   Potential Questions:
+   1. What are common challenges in ad campaigns?
+   2. How can you prepare for potential obstacles?
+   3. Why is it important to document solutions to challenges?
+
+   [Provide simple answers with examples for each question]
+
+   Are you ready for the final section on Lessons Learned and Best Practices, or do you have more questions about Challenges and Solutions?
+
+8. Lessons Learned and Best Practices:
+   - Summarize the key takeaways from this case study.
+   - Highlight any innovative or particularly effective strategies used.
+
+   Potential Questions:
+   1. How can you apply lessons from one campaign to future campaigns?
+   2. What makes a strategy "innovative" in advertising?
+   3. How often should you review and update your best practices?
+
+   [Provide simple answers with examples for each question]
+
+   We've completed all phases of the case study analysis. Do you have any final questions, or would you like to move on to the next case study?
+
+For each case study, provide a structured analysis following these phases. Ensure that you extract actionable insights and best practices that could be applied to future campaigns. Remember to pause after each section to allow for questions and confirmation to proceed.
+[PROMPT]

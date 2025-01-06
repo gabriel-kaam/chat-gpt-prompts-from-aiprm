@@ -11,4 +11,11 @@ ID: 1860627039779557376
 PromptHint: Enter the Category of you Niche
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1860627039779557376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "(Niche Finder) Idea of Website"](https://www.aiprm.com/prompts/seo/ideation/1860627039779557376/)_"
+---
+Act as an Expert SEO Niche Finder Very Proficient and Very Accurate and Find Niche for me having traffic more than [VARIABLE1] in [TARGETLANGUAGE]. Give me at-least [VARIABLE2] niches. My Niche is [PROMPT].
 
+[VARIABLE1: Please Enter Minimum Traffic]
+[VARIABLE2: How many Niche ideas it should Generate]

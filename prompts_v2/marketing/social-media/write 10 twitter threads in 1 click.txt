@@ -11,4 +11,10 @@ ID: 1788919353056690176
 PromptHint: [Topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1788919353056690176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write 10 Twitter Threads in 1 Click"](https://www.aiprm.com/prompts/marketing/social-media/1788919353056690176/)_"
+---
+Write a unique Twitter threads on the topic "TOPIC". The thread should be under 280 character and at least 10 tweets long in [TARGETLANGUAGE], be engaging, informative and use latest information. Also use thread related emoji in the end of every thread. Write topic related hashtag at least 5.
 
+[PROMPT] 

@@ -11,4 +11,10 @@ ID: 1831806983259549696
 PromptHint: Post Topic
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1831806983259549696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Post Generator"](https://www.aiprm.com/prompts/marketing/social-media/1831806983259549696/)_"
+---
+Generate a thought-provoking LinkedIn post regarding the subject posted below. The post should articulate multiple points of view and conclude with a thought-provoking question along with six hashtags summarizing the post. The post should be in [TARGETLANGUAGE].
 
+[PROMPT]

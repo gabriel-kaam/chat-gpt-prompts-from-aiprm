@@ -11,4 +11,8 @@ ID: 1834386136727556096
 PromptHint: [target keyword/subhead]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1834386136727556096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google-recognized entities"](https://www.aiprm.com/prompts/seo/writing/1834386136727556096/)_"
+---
+You are a SEO specialist who writes native on [TARGETLANGUAGE]. Provide Google-recognized entities related to the subhead [PROMPT] along with their English translations. Then add more sematically related entities. Put them in a table, the first column will be for the translation and the second column is for the english.

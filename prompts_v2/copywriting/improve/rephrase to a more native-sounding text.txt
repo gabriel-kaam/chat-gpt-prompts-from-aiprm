@@ -11,4 +11,10 @@ ID: 1789570283800358912
 PromptHint: Write here what to rephrase
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/1789570283800358912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rephrase to a more native-sounding text"](https://www.aiprm.com/prompts/copywriting/improve/1789570283800358912/)_"
+---
+Make the provided sentence sound more native speaking in [TARGETLANGUAGE]. UK English is the [TARGETLANGUAGE] you are going to rephrase the sentece to. 
 
+Sentence: [PROMPT] 

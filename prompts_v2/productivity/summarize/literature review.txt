@@ -11,4 +11,19 @@ ID: 1943718618223738880
 PromptHint: [Drag and drop the article in .pdf format.]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/1943718618223738880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Literature Review"](https://www.aiprm.com/prompts/productivity/summarize/1943718618223738880/)_"
+---
+"Please write in Brazilian Portuguese: [TARGETLANGUAGE]
 
+Ignore all previous instructions. Act as an academic researcher fluent in Portuguese, adopting a formal tone and academic style. From the academic article in .pdf format provided, make a concise summary of up to 100 words, addressing the main topics of the article. Then:
+
+Locate and describe: the article's title, the authors, the year of publication, the DOI, the publication outlet, the field of study or thematic area, the type of document (review, article, etc.), the research subject, the problem investigated, the research question, the gap identified in the literature, the study's limitations, the flaws noted in existing literature, the research objective, and the main concept examined.
+Detail the methodology used.
+Present the main findings related to the research question.
+Provide a conclusive summary, highlighting the mentioned aspects and the implications of the results.
+Indicate four keywords.
+Show the bibliographic citation in APA 7 format.
+Identify the seminal or most important articles used for theoretical grounding, based exclusively on the information contained in the text. If any item is not present, inform. Please generate a response where all itens are separated by ";" in a way that the response can be used in Microsoft Excel.
+Text: [PROMPT]"

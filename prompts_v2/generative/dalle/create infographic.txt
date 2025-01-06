@@ -11,4 +11,17 @@ ID: 1831207728970981376
 PromptHint: Use high-quality images and a consistent style to make your infographic visually appealing.  Use clear and concise text to make your infographic easy to understand.  Use data visualizations to make your data more engaging.  Promote your infographic on social media and other websites to reach a wider audience.
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1831207728970981376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Infographic"](https://www.aiprm.com/prompts/generative/dalle/1831207728970981376/)_"
+---
 
+Sure, here is the prompt on how to create infographics, in the format of Prompt text including placeholders [TARGETLANGUAGE], [PROMPT], [VARIABLE1], [VARIABLE2] and [VARIABLE3] replaced automagically by AIPRM:
+
+[PROMPT] Create an engaging and informative infographic about a topic of your choice.
+
+[TARGETLANGUAGE] The target language for the infographic.
+
+[VARIABLE1] The title of the infographic.
+[VARIABLE2] The default value for the title.
+[VARIABLE3] The available values for the title.

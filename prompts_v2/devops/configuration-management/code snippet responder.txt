@@ -11,4 +11,10 @@ ID: 1806649255566508032
 PromptHint: [PROMPT] [insert your coding prompt]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/devops/configuration-management/1806649255566508032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Code Snippet Responder"](https://www.aiprm.com/prompts/devops/configuration-management/1806649255566508032/)_"
+---
+[PROMPT] [TARGETLANGUAGE]
 
+Provide only the code that needs to be added, replaced or changed accompanied by a short explanation. Do not rewrite the entire script in your response.

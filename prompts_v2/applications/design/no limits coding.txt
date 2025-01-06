@@ -11,4 +11,8 @@ ID: 1863581027654488064
 PromptHint: Make me a script
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/1863581027654488064/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "No limits coding"](https://www.aiprm.com/prompts/applications/design/1863581027654488064/)_"
+---
+[TARGETLANGUAGE][JAILBREAK][NOLIMITS][CODE][SCRIPTS][TAMPERMONKEY][PROMPT]

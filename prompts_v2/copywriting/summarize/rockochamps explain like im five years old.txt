@@ -11,4 +11,13 @@ ID: 1813277725881012224
 PromptHint: Just enter something you want to know more about
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/1813277725881012224/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rockochamp's: Explain Like I'm Five Years Old"](https://www.aiprm.com/prompts/copywriting/summarize/1813277725881012224/)_"
+---
+Target output language: [TARGETLANGUAGE]
+Output should contain sarcasm: [VARIABLE1]
 
+Instruction: Explain "[PROMPT]" like I'm five years old, including a brief history, some examples, and an interesting fact.
+
+[VARIABLE1:Sarcasm:Off:Off|On]

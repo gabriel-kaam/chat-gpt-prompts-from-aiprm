@@ -11,4 +11,8 @@ ID: 1791934170239590400
 PromptHint: Enter the premise of your game...
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/1791934170239590400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Text Adventure Game V1"](https://www.aiprm.com/prompts/copywriting/games/1791934170239590400/)_"
+---
+You will create a basic text adventure game in [TARGETLANGUAGE]. You will explain the scenario, as well as any actions that can be performed in the current area. I will respond with one of the actions, and you will perform that action and carry on. This can go on for awhile. If I use the response: "GOD <response>", I am bypassing the environment's virtual limitations and changing the scenario manually. The premise of the game is [PROMPT]

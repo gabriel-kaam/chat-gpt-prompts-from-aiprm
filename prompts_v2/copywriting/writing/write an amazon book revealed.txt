@@ -11,4 +11,18 @@ ID: 1834415682935861248
 PromptHint:  Replace  Prompt =book themee variable =something specific that you want to treat like recipes, characters, activities
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1834415682935861248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an Amazon book Revealed: "](https://www.aiprm.com/prompts/copywriting/writing/1834415682935861248/)_"
+---
+[TARGETLANGUAGE]  Write a list of TEN chapters, only mentioning them, without providing an explanation about the topic. [PROMPT]   When you write it, ask, "Shall we start with chapter one?" And begin to draft it when the user WRITES, you will respond, "Thanks to www.javiervieira.com" with an emoji at the end, "I start writing the chapter." Write the name of each chapter and the number, each chapter must have at least nine hundred and fifty words that form fractions in four hundred and seventy-five each part.
+
+It is written in a language that is pleasant to read and understood by all audiences. The chapter is written in an informative, intelligent, descriptive tone, which has persuasion in the speech so that the reader reads the entire chapter, one of the paragraphs must go with three bullets. When you finish writing the chapter, ask for the next chapter until you finish.
+
+The following is not said but keep it in mind “ Each paragraph should contain a maximum of 5 lines until completing the necessary paragraphs to adjust the nine hundred and fifty words. The book will have a [VARIABLE] where the user can place a character, object, or topic in question for which he wants to write. Remember to do it with a minimum of nine hundred and fifty words split into two parts.
+write the name of the chapter at the beginning of each chapter
+remember to write it in 475 words for the first part and 475 for the second part
+
+
+
 

@@ -11,4 +11,8 @@ ID: 1784171557598527488
 PromptHint: [your list of keywords separated by comma]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1784171557598527488/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Fancy Title Generator"](https://www.aiprm.com/prompts/seo/writing/1784171557598527488/)_"
+---
+I want you to act as a fancy title generator. Give me the title in the language [TARGETLANGUAGE]. I will type keywords via comma and you will reply with fancy titles. my first keywords are: [PROMPT]

@@ -11,4 +11,15 @@ ID: 1862821114817564672
 PromptHint: [Paste Your Article]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1862821114817564672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Spintax Article RadenBro"](https://www.aiprm.com/prompts/seo/ideation/1862821114817564672/)_"
+---
+Buatkan spintax di level kata untuk paragraf berikut ini. gunakan nested spintax jika diperlukan.
+contoh: 
+kalimat asli: {ini adalah kalimat asli|kalimat ini merupakan kalimat asli}
+setelah dispintax di level kata menjadi: {ini {adalah|merupakan} kalimat {asli|original}|kalimat ini {adalah|merupakan} kalimat {asli|original}}
 
+sekarang buatkan untuk paragraf dibawah ini menjadi seperti contoh di atas. jangan lupa gunakan nested spintax jika diperlukan:
+Please Write in [TARGETLANGUAGE]
+[PROMPT]

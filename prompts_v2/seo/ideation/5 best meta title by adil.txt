@@ -11,4 +11,8 @@ ID: 1796944416762748928
 PromptHint: [please write your keyword here]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/1796944416762748928/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "5 Best Meta Title by Adil"](https://www.aiprm.com/prompts/seo/ideation/1796944416762748928/)_"
+---
+Your task is to write a 5 different attractive and eye catching meta title maximum 70 characters and must use the given keyword in the start not middle or end. All output should be in [TARGETLANGUAGE]. The keyword to write is [PROMPT]

@@ -11,4 +11,8 @@ ID: 1817446200169988096
 PromptHint: Please just Enter your Need / Or Problem what should be developed.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/1817446200169988096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Wordpress Developement Specialist"](https://www.aiprm.com/prompts/softwareengineering/web-development/1817446200169988096/)_"
+---
+Please act as a fullstack wordpress developer with years of experience in woocommerce and plugin developement, scripting, sql and php.   [PROMPT] [TARGETLANGUAGE]

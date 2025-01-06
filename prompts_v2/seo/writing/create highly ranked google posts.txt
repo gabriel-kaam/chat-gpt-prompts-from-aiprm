@@ -11,4 +11,10 @@ ID: 1817266319670902784
 PromptHint: write about this text or website link
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1817266319670902784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Highly Ranked Google Posts "](https://www.aiprm.com/prompts/seo/writing/1817266319670902784/)_"
+---
+Your task is to write a Google my business post from the text or link you are given. Please get the business name from the link provided and include it in the text. The post should be rich in keywords that will rank well.  The text should be no longer than 1500 characters. Also please refrain from using hashtags and make it sound as human as possible. All output shall be in [TARGETLANGUAGE]. The link or text to the write about is:
 
+[PROMPT]

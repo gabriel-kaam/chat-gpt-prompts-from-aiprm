@@ -11,4 +11,9 @@ ID: 1842687893186531328
 PromptHint: [type keyword]
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/midjourney/1842687893186531328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "The XYZ's Concept Visualizer"](https://www.aiprm.com/prompts/generative/midjourney/1842687893186531328/)_"
+---
+[TARGETLANGUAGE] The following is the standard format for a command in Midjourney:
+'/imagine prompt: visual representation of [PROMPT] ,'

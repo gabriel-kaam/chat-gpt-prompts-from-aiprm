@@ -11,4 +11,52 @@ ID: 2032837304662085632
 PromptHint: load info
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2032837304662085632/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "load"](https://www.aiprm.com/prompts/productivity/plan/2032837304662085632/)_"
+---
+[TARGETLANGUAGE] English
+In English evaluate the attached document and use ocr to find the following information and display the results in text format:
+General Information
+Load Tender Number: ___________________________
+Date of Tender: ______________________________
+Customer Name: ________________________________
+Shipper Name: ______________________
+Shipment Details
+Origin Address: ______________________________
+Destination Address: _________________________
+Pick-Up Date/Time: ___________________________
+Delivery Date/Time: __________________________
+Contact Information (Pick-Up): ______________
+Contact Information (Delivery): _____________
+Load Description: ____________________________
+Freight Specifications
+Commodity: ___________________________________
+Weight: ______________________________________
+Dimensions (L x W x H): _____________________
+Pallet/Unit Count: __________________________
+Temperature Requirements: ___________________
+Pricing and Financial Details
+Rate: ________________________________________
+Fuel Surcharge: _____________________________
+Accessorial Charges: ________________________
+Payment Terms: ______________________________
+Total Amount: _______________________________
+Mode and Equipment
+Mode of Transport: __________________________
+Equipment Type: _____________________________
+Trailer Requirements: _______________________
+Hazmat Designation: _________________________
+Additional Requirements
+Special Instructions: _______________________
+Delivery Appointment Requirements: __________
+Required Documentation: _____________________
+Tracking and Reporting Requirements: ________
+Terms and Conditions
+Liability and Insurance: ____________________
+Cancellation/Change Policies: ______________
+Force Majeure Clause: _______________________
+Dispute Resolution: _________________________
+Compliance Requirements: ___________________
 
+[PROMPT]

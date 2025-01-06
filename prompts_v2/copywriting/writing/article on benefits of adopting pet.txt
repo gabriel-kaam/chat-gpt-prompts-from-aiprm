@@ -11,4 +11,10 @@ ID: 1806610605478776832
 PromptHint: [Keyword] Adopting any pet (eg: dog)
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1806610605478776832/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article on benefits of adopting Pet"](https://www.aiprm.com/prompts/copywriting/writing/1806610605478776832/)_"
+---
+Write a 1000-word article about the benefits of adopting a [PROMPT] as a pet. Please include information about the positive impact of [PROMPT] ownership on mental health, the various types of [PROMPT] and their personalities, how to prepare your home for a new [PROMPT], and resources for finding a reputable [PROMPT] adoption agency, if any. Also, please include at least three personal anecdotes about your experiences with [PROMPT] to help engage and connect with readers. Your article should be informative, engaging, and well-researched, with proper citations where necessary.
 
+write all output in [TARGETLANGUAGE]

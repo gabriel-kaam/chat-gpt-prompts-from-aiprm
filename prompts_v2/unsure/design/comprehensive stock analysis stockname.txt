@@ -11,4 +11,8 @@ ID: 2009869012007907328
 PromptHint: [STOCK_NAME] is a company in the [SECTOR] sector. Provide your analysis considering both short-term market trends and long-term growth outlook.
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/design/2009869012007907328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Comprehensive stock analysis: [STOCK_NAME]"](https://www.aiprm.com/prompts/unsure/design/2009869012007907328/)_"
+---
+Please write in [TARGETLANGUAGE] a detailed stock analysis report for [PROMPT]. The report should include financial, technical, and SWOT analysis of the stock, along with a conclusion on whether it's a good long-term investment.

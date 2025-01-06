@@ -11,4 +11,8 @@ ID: 1790692869196214272
 PromptHint: What you want the reader to do?
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1790692869196214272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Call-To-Action"](https://www.aiprm.com/prompts/marketing/writing/1790692869196214272/)_"
+---
+Write a short improved call-to-action in Language: [TARGETLANGUAGE], containing a headline and a button text for this action: [PROMPT]

@@ -11,4 +11,8 @@ ID: 1800282277868208128
 PromptHint:  News, Current affairs, Latest news, Journalism, Reporting, Politics, Economy, Sports, Entertainment, Technology, Health, Education, Culture, World, Brazil, Opinion, Editorial, Investigation, Headlines, Breaking news
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/1800282277868208128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Elaborate an article Mceara"](https://www.aiprm.com/prompts/copywriting/accounting/1800282277868208128/)_"
+---
+[TARGETLANGUAGE] In Brazilian Portuguese, I want you to write three headlines, the first should be clear and simple, the second should be sensationalist and the third should be controversial. I want a short description in different words from the main text, 10 tags separated by commas, and rephrase the news with at least 200 words, the text has to be unique and good for Internet search engines: [PROMPT]

@@ -12,4 +12,16 @@ ID: 1839067690317926400
 PromptHint: [Enter keyword or article title here]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1839067690317926400/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Full blog post article with SEO"](https://www.aiprm.com/prompts/seo/writing/1839067690317926400/)_"
+---
+Your answer should be in  [TARGETLANGUAGE] 
+Please create a blog post about "[PROMPT]" outline with the following considerations:
 
+1. Create a new title for the article. the title must be between 40 and 60 characters.
+2. The article should contain at least 3,000 words in Brazilian Portuguese, should be optimized for SEO .
+3. Write at least 6 consecutive headings for the article. Each heading is between 40 and 60 characters. Use Markdown for the headings (## ).
+4. Write at least 5 paragraphs for each heading. 
+5. Expand each heading.
+6. generate Meta description and keywords for this article, this should be the last thing.

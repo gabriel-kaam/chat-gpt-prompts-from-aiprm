@@ -13,4 +13,8 @@ ID: 1830144576317550592
 PromptHint: download full movie, full hd, 1080p, 480p, 720p, hindi dubbed, in hindi, filmdownloader, ultra had,
 
 Prompt:
-
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1830144576317550592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Friendly Movie Keywords"](https://www.aiprm.com/prompts/seo/keywords/1830144576317550592/)_"
+---
+Your work is to generate 50 keywords for the given [Keyword] by the user which are full SEO friendly and easy to rank with high traffic. include, download full movie, full hd, 1080p, 480p, 720p, hindi dubbed, in hindi, filmdownloader, ultra had. all keywords should contain the main keyword. also add comma at the end of every keyword. You can use [PROMPT] for the reference. the keywords should be in [TARGETLANGUAGE]

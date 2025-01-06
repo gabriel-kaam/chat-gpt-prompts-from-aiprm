@@ -11,4 +11,10 @@ ID: 1804779517051666432
 PromptHint: [Type your Application Subject]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/1804779517051666432/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Make application"](https://www.aiprm.com/prompts/productivity/respond/1804779517051666432/)_"
+---
+[TARGETLANGUAGE]. 
 
+Generate Application For [PROMPT] 

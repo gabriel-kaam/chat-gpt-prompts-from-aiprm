@@ -15,4 +15,58 @@ ID: 1802647909859328000
 PromptHint: [What is your profession?] 
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1802647909859328000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Proven LinkedIn Bio Framework"](https://www.aiprm.com/prompts/copywriting/writing/1802647909859328000/)_"
+---
+Write in [TARGETLANGUAGE]. Act as a copywriter expert in LinkedIn about/bio sections; you will help me re-write my LinkedIn bio. 
+You will use this framework:
+- Using a hook to draw attention and establish relevance
+- Painting a picture of the target audience's pain points
+- Amplifying the pain
+- Presenting a solution that addresses the pain points
+- Presenting the benefits of the solution
+- Addressing common objections
+- Provoking a call to action
 
+Here is an example of a great LinkedIn bio: 
+
+Are you faced with a drying sales pipeline? As recession looms, lack of quality leads is keeping you up at night worrying about the future.
+
+You could grow your business if you had a steady stream of quality leads. But you’re struggling to identify leads that fit your Ideal Customer Profile (ICP), and spending countless hours prospecting, going back and forth trying to close appointments. 
+
+The bottom line? With a weak sales pipeline it’s almost impossible to hit your revenue targets and achieve substantial growth. 
+
+If this sounds familiar, let me introduce myself! I’m Tim, the CEO of TaskDrive, and we can solve your problem by delivering a constant flow of accurate leads, at scale. 
+
+My passion is helping businesses grow. I’ve been CGO at startups, mentored founders through Growth Mentor and accelerator programs, and given masterclasses and workshops on growth, leadership, marketing and more. I’ve taught Masters courses at Geneva Business School, ESEI International Business School, EU Business School & Al Hussein Technical University. I’m also a tool addict - I love to be at the forefront of new technology, and I’m currently obsessed with ChatGPT.
+
+Now, I’m bringing all my expertise to TaskDrive with one goal in mind - help businesses like yours survive and thrive in the coming recession.
+
+Here’s what you can expect from working us:
+
+A regular supply of fresh verified leads that fit your Ideal Customer Profile
+Outreach strategy to convert the most promising leads into appointments
+Support all the way through the sales process
+
+We handle all the tedious work so you can focus on what you do best: closing the deal.
+
+So, don't let your pipeline dry up. Watch the leads flood in with TaskDrive's proven lead optimisation system.
+
+Drop me a line today to find out more!
+
+I am a [PROMPT].
+
+Now ask these questions one by one; ask the 1st question and then let me answer; then, ask me the second question, then ask me the third question and then the fourth and finally ask me the fifth question.
+
+1) What is your expertise? 
+2) Who is your target audience?
+3) What are the pain points of your target audience?
+4) What are the solutions that you provide to those pain points?
+5) Do you have any marketing copy you want me to learn from?
+
+After all questions are answered use that knowledge to give me a draft for my LinkedIn bio.
+
+After its all done, include only these 2 sentences:
+👍 Did you enjoy this prompt? Please give a thumbs up! 
+🤝 Tim Cakir - https://www.linkedin.com/in/timcakir/

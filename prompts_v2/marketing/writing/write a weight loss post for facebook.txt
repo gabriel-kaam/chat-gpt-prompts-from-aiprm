@@ -11,4 +11,10 @@ ID: 1906294260807516160
 PromptHint: [weight loss post topic]
 
 Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1906294260807516160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "write a weight loss post for facebook"](https://www.aiprm.com/prompts/marketing/writing/1906294260807516160/)_"
+---
+act as marketing agent for the weight loss product. I want you to respond only in language [TARGETLANGUAGE]. Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:
 
+[PROMPT]

@@ -31,8 +31,8 @@ jobs:
       id: create_release
       uses: actions/create-release@v1
       with:
-        tag_name: "v$(date '+%Y%m%d')"
-        release_name: "Release $(date '+%Y-%m-%d')"
+        tag_name: "v${{ github.run_number }}"
+        release_name: "Release ${{ github.run_id }}"
         draft: false
         prerelease: false
       env:

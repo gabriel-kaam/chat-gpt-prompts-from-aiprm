@@ -2,6 +2,7 @@
 
 declare(strict_types=1);
 
+define('BATCH_SIZE', 10);
 define('USER_ID', getenv('USER_ID'));
 define('DATA_URL', 'https://api.aiprm.com/api9/Prompts?Topic=&Limit=10&Offset=0&OwnerOperatorERID=' . USER_ID . '&OwnerSystemNo=1&SortModeNo=2&UserFootprint=&IncludeTeamPrompts=true');
 
@@ -61,37 +62,72 @@ function fetch_prompts_in_parallel($urls) {
     return $responses;
 }
 
+function get_paths($prompt) {
+    $promptID = $prompt->ID;
+    $chunks = explode('/', trim($prompt->CanonicalURL, '/'));
+    $path = "prompts_v2/{$chunks[0]}/{$chunks[1]}";
+    $name = strtolower(sanitize($prompt->Title));
+    return [
+        'json' => ".data/{$promptID}.json",
+        'txt' => "$path/{$name}_{$promptID}.txt",
+        'dir' => $path
+    ];
+}
+
+function should_fetch_prompt($paths, $promptRevisionTime) {
+    return !file_exists($paths['json']) || !file_exists($paths['txt']) || strtotime($promptRevisionTime) > filemtime($paths['json']);
+}
+
+function save_prompt($prompt, $response, $paths) {
+    @mkdir($paths['dir'], 0777, true);
+    file_put_contents($paths['json'], $response);
+    file_put_contents($paths['txt'], file_content_from_prompt($prompt));
+}
+
+function handle_batch($batch, $current, $total) {
+    $urls = [];
+    $responses = [];
+
+    foreach ($batch as $prompt) {
+        $paths = get_paths($prompt);
+        if (should_fetch_prompt($paths, $prompt->RevisionTime)) {
+            $urls[$prompt->ID] = "https://api.aiprm.com/api9/Prompts/{$prompt->ID}?OperatorERID=" . USER_ID . "&SystemNo=1&Basic=true";
+        }
+    }
+
+    if (!empty($urls)) {
+        $responses = fetch_prompts_in_parallel($urls);
+    }
+
+    foreach ($batch as $prompt) {
+        $paths = get_paths($prompt);
+        $promptID = $prompt->ID;
+        if (isset($responses[$promptID])) {
+            $prompt->Prompt = json_decode($responses[$promptID])->Prompt;
+            save_prompt($prompt, $responses[$promptID], $paths);
+            echo "\n[+] Processing: {$prompt->CanonicalURL}\n";
+        }
+    }
+
+    display_progress($current, $total);
+}
+
+function display_progress($current, $total) {
+    $progress = ($current / $total) * 100;
+    $barLength = 50;
+    $filledLength = (int)round($barLength * ($current / $total));
+    $bar = str_repeat('=', $filledLength) . str_repeat(' ', $barLength - $filledLength);
+    printf("\rProgress: [%s] %d%% (%d/%d)", $bar, $progress, $current, $total);
+}
+
 $data = file_get_contents(DATA_URL);
 $prompts = json_decode($data);
 
-$i = 0;
 $max = count($prompts);
-$batchSize = 10;
+$totalBatches = ceil($max / BATCH_SIZE);
 
-for ($j = 0; $j < $max; $j += $batchSize) {
-    $batch = array_slice($prompts, $j, $batchSize);
-    $urls = [];
-
-    foreach ($batch as $prompt) {
-        $urls[$prompt->ID] = "https://api.aiprm.com/api9/Prompts/{$prompt->ID}?OperatorERID=" . USER_ID . "&SystemNo=1&Basic=true";
-    }
-
-    $responses = fetch_prompts_in_parallel($urls);
-
-    foreach ($batch as $prompt) {
-        $chunks = explode('/', trim($prompt->CanonicalURL, '/'));
-        $path = "prompts_v2/{$chunks[0]}/{$chunks[1]}";
-        $name = strtolower(sanitize($prompt->Title));
-        @mkdir($path, 0777, true);
-
-        if (isset($responses[$prompt->ID])) {
-            file_put_contents(".data/{$prompt->ID}.json", $responses[$prompt->ID]);
-            $prompt->Prompt = json_decode($responses[$prompt->ID])->Prompt;
-        }
-
-        file_put_contents("$path/{$name}_{$prompt->ID}.txt", file_content_from_prompt($prompt));
-        echo "[$i/$j/{$max}]\tWorking on $prompt->CanonicalURL\n";
-    }
-
-    $i++;
+for ($i = 0; $i < $max; $i += BATCH_SIZE) {
+    handle_batch(array_slice($prompts, $i, BATCH_SIZE), $i + BATCH_SIZE, $max);
 }
+
+echo "\nAll batches processed.\n";

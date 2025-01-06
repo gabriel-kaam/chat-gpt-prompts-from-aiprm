@@ -89,7 +89,9 @@ for ($j = 0; $j < $max; $j += $batchSize) {
             $prompt->Prompt = json_decode($responses[$prompt->ID])->Prompt;
         }
 
-        file_put_contents("$path/$name.txt", file_content_from_prompt($prompt));
-        echo "[$j/" . $i++ . "/{$max}]\tWorking on $prompt->CanonicalURL\n";
+        file_put_contents("$path/{$name}_{$prompt->ID}.txt", file_content_from_prompt($prompt));
+        echo "[$i/$j/{$max}]\tWorking on $prompt->CanonicalURL\n";
     }
+
+    $i++;
 }

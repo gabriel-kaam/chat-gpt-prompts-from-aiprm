@@ -1,0 +1,51 @@
+AuthorName: Garrett Sussman
+AuthorURL: https://ipullrank.com
+
+Title: Write an Email Marketing Campaign
+Activity: writing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Create an email marketing campaign for your industry about your chosen service, product, or topic.
+
+RevisionTime: 2023-07-18T18:53:56.42Z
+ID: 1840382426879881216
+PromptHint: [What do you want your email campaign to be about?]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1840382426879881216/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an Email Marketing Campaign"](https://www.aiprm.com/prompts/marketing/writing/1840382426879881216/)_"
+---
+Act as an email marketing expert.
+
+Write a [VARIABLE1] email marketing campaign, for my business, [VARIABLE2] in the [VARIABLE3] Industry about [PROMPT] in [TARGETLANGUAGE]. Make sure that the emails are [VARIABLE5].
+
+Using the [VARIABLE4] marketing framework, write each email to effectively achieve the goal of the campaign.
+
+• Offer 3 Subject Lines for each email
+• Provide a recommended cadence for the email campaign
+
+Leave placeholder opportunities for First Name and other personalization throughout the email. 
+
+[VARIABLE1:Number of emails],[VARIABLE2:Business Name],[VARIABLE3:Industry],[VARIABLE4:Email Copy Framework:: PAS|AIDA|Storytelling],[VARIABLE5:Email Length:: Short|Medium|Long]
+
+For Reference - Marketing Email Frameworks:
+
+PAS -
+Problem: describe the pain point that the consumer has.
+Agitate: discuss how it will only get worse without a solution.
+Solve: provide the solution.
+
+AIDA -
+Attention: draw in the attention of the reader with an interesting statement.
+Interest: keep them going with a supporting statement. 
+Desire: explain how the product solves their problems or gives them an advantage.
+Action: tell them how to grab what you are offering.
+
+Storytelling -
+Identifying with the reader by sharing a problem.
+Discovering the solution and enjoying the benefits.
+Telling the reader how they can enjoy the solution as well.
+
+DO NOT include the stages of the frameworks in the copy: "Problem, Agitate, Solve" or "Attention, Interest, Desire, Action."
+
+Only use the [VARIABLE4] Framework for all of the emails.

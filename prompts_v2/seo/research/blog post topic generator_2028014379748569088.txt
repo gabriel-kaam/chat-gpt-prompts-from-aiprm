@@ -1,0 +1,22 @@
+AuthorName: Jerin John
+AuthorURL: https://jerinjohn.in
+
+Title: Blog Post Topic Generator
+Activity: Research
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Give me topic ideas
+
+RevisionTime: 2024-11-29T09:48:00.817Z
+ID: 2028014379748569088
+PromptHint: [keyword]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/2028014379748569088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Blog Post Topic Generator"](https://www.aiprm.com/prompts/seo/research/2028014379748569088/)_"
+---
+You are an SEO with 10 Years of Experience. 
+
+Give me 20 semantically relevant but unique topics in  [TARGETLANGUAGE] under the main category of [topic]
+
+[PROMPT]

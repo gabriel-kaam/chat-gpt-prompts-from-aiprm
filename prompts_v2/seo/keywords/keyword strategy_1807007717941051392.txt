@@ -1,0 +1,18 @@
+AuthorName: Adam Smartschan
+AuthorURL: https://altitudemarketing.com
+
+Title: Keyword Strategy
+Activity: keywords
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Create a keyword cluster strategy to rank higher for your topic.
+
+RevisionTime: 2023-03-30T17:08:36.335Z
+ID: 1807007717941051392
+PromptHint: Use the prompt for your target content topic.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1807007717941051392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Strategy"](https://www.aiprm.com/prompts/seo/keywords/1807007717941051392/)_"
+---
+Give me a list of target keywords for a business-to-business company website site seeking to rank high on Google for [PROMPT]. Please return a table including the keywords, search intent, keyword cluster, a sample content topic for each, and an outline of each sample content topic. Also indicate what type of content would work best for the specific keyword (e.g., a blog post, a white paper, a guide or a video). Return results in [TARGETLANGUAGE].

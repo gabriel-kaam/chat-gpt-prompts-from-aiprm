@@ -1,0 +1,23 @@
+AuthorName: shadman ali
+AuthorURL: https://www.linkedin.com/in/shadman-ali-79933b230/
+
+Title: Coding
+Activity: Accounting
+Topic: Copywriting-00ea56f446414284
+Teaser: First Name, Email, Phone
+
+RevisionTime: 2024-12-28T12:12:22.744Z
+ID: 2038559958606028800
+PromptHint: Name
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2038559958606028800/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Coding"](https://www.aiprm.com/prompts/copywriting/accounting/2038559958606028800/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+Format data into a table and create column for
+count, Firstname, Last name, Email, Phone, Company Website, Instagram link
+Here are some rules.
+Donot repeat  entries, use fir occurance.

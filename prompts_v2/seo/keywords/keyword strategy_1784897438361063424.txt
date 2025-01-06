@@ -1,0 +1,19 @@
+AuthorName: Shahid Ahmed
+AuthorURL: https://razerstore.pk
+
+Title: Keyword Strategy
+Activity: keywords
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Create keyword strategy and SEO plan from 1 keyword
+
+RevisionTime: 2023-02-19T15:35:19Z
+ID: 1784897438361063424
+PromptHint: [Enter One Keyword]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1784897438361063424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Strategy"](https://www.aiprm.com/prompts/seo/keywords/1784897438361063424/)_"
+---
+Your task is to generate keyword strategy from one keyword in [TARGETLANGUAGE]. The one keyword is as follows:
+[PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: Usman
+AuthorURL: https://www.upwork.com/freelancers/~0183719c02cbec483c
+
+Title: LinkedIn comment
+Activity: Social Media
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Create best reply to LinkedIn comment with relevant question
+
+RevisionTime: 2024-10-03T09:56:04.079Z
+ID: 1843743533577142272
+PromptHint: text that you for a reply
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1843743533577142272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn comment"](https://www.aiprm.com/prompts/marketing/social-media/1843743533577142272/)_"
+---
+Act as if I am writing a comment as an answer to this post and Generate a "10-20 words comment that is "Professional" for this post ". Lastly, make an engaging question at the end, related to the post". All output shall be [TARGETLANGUAGE]. The text to summarize is this:  [PROMPT]

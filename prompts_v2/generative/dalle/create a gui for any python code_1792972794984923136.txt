@@ -1,0 +1,19 @@
+AuthorName: scrappy
+AuthorURL: https://github.com/LagoonYt
+
+Title: Create a GUI for any python code!
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Turn any python code into a working GUI
+
+RevisionTime: 2023-02-19T19:41:20Z
+ID: 1792972794984923136
+PromptHint: [Enter your Code]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/1792972794984923136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a GUI for any python code!"](https://www.aiprm.com/prompts/generative/dalle/1792972794984923136/)_"
+---
+Take the python code and create a TKinter GUI for it. Explain every step in [TARGETLANGUAGE] and only in [TARGETLANGUAGE]
+[PROMPT]

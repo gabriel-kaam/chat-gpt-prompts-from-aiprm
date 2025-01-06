@@ -1,0 +1,61 @@
+AuthorName: Garrett Sussman
+AuthorURL: https://ipullrank.com
+
+Title: Write an Email Marketing Campaign
+Activity: writing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Create an email marketing campaign for your industry about your chosen service, product, or topic.
+
+RevisionTime: 2023-10-03T18:31:37.858Z
+ID: 1844419018929991680
+PromptHint: [What do you want your email campaign to be about?]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1844419018929991680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an Email Marketing Campaign"](https://www.aiprm.com/prompts/marketing/writing/1844419018929991680/)_"
+---
+Role:
+
+Act as an email marketing expert.
+
+Task:
+
+Write a [VARIABLE1] email marketing campaign, for my business, [VARIABLE2] in the [VARIABLE3] Industry about [PROMPT] in [TARGETLANGUAGE] for [VARIABLE4]. Provide a recommended cadence for the email campaign.
+
+Context:
+
+Using only the [VARIABLE5] marketing framework, write each email to effectively achieve the goal of the campaign.
+
+For Reference - Marketing Email Frameworks:
+
+PAS -
+Problem: describe the pain point that the consumer has.
+Agitate: discuss how it will only get worse without a solution.
+Solve: provide the solution.
+
+AIDA -
+Attention: draw in the attention of the reader with an interesting statement.
+Interest: keep them going with a supporting statement. 
+Desire: explain how the product solves their problems or gives them an advantage.
+Action: tell them how to grab what you are offering.
+
+Storytelling -
+Identifying with the reader by sharing a problem.
+Discovering the solution and enjoying the benefits.
+Telling the reader how they can enjoy the solution as well.
+
+Format:
+
+• Provide the email cadence first.
+• Offer 3 subject lines for each email.
+• Leave placeholder opportunities for First Name and other personalization throughout the email.
+
+IMPORTANT Constraints:
+
+• Make sure that the emails are [VARIABLE6].
+• Do NOT include any emojis in the email, including the subject line.
+
+[VARIABLE1:Number of emails],[VARIABLE2:Business Name],[VARIABLE3:Industry],[VARIABLE4:Target Audience],[VARIABLE5:Email Copy Framework:: PAS|AIDA|Storytelling],[VARIABLE6:Email Length:: Short|Medium|Long]
+
+ DO NOT explicitly mention any part of the marketing framework. For the PAS framework, do not mention Problem, Agitate, Solve.

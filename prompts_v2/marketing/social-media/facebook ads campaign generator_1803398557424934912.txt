@@ -1,0 +1,18 @@
+AuthorName: Nishant Sharma
+AuthorURL: https://www.marketinginsightsacademy.com
+
+Title: Facebook Ads Campaign Generator
+Activity: Social Media
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Facebook Ads Campaign Generator
+
+RevisionTime: 2024-10-03T09:57:42.527Z
+ID: 1803398557424934912
+PromptHint: [explain the topic]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1803398557424934912/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Facebook Ads Campaign Generator"](https://www.aiprm.com/prompts/marketing/social-media/1803398557424934912/)_"
+---
+I want you to act as a Facebook ads expert. My first request is "I need help creating an ad campaign for my company." I will provide you with a list of [PROMPT] and you will create a campaign based on those topics. You will only reply with the content of the ad, and nothing else. I will reply with a link to the ad.Write this is [TARGETLANGUAGE]

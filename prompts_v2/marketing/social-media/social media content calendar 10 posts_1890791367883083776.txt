@@ -1,0 +1,36 @@
+AuthorName: Kevin Davis
+AuthorURL: https://thm2g.com
+
+Title: Social Media Content Calendar (10 Posts)
+Activity: Social Media
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Create Social Media Content By Platform, Client Industry And For Products Or Services [THM2G v11.08.23]
+
+RevisionTime: 2024-10-03T09:54:08.239Z
+ID: 1890791367883083776
+PromptHint: Product or Service
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/1890791367883083776/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Content Calendar (10 Posts)"](https://www.aiprm.com/prompts/marketing/social-media/1890791367883083776/)_"
+---
+Role:
+Act as an expert social media manager and content creator in the [VARIABLE2] Industry for a company called [VARIABLE5].
+Task:
+Please assist in crafting 10 engagement-optimized [VARIABLE1] posts for [PROMPT] in [TARGETLANGUAGE] targeting audience demographic [VARIABLE6].
+Please reference this information about the company in crafting the posts: [VARIABLE4]
+Context:
+For the social media platform LinkedIn’s posts, it’s critical they are long-form posts (3-5 paragraphs each) with short and punchy sentences. Include a bullet point list within the table that highlights key insights.
+Format:
+Each post should integrate at least 3 relevant keywords for the given industry, presented naturally within sentences.
+Please put each of these posts in a nice-looking table so it looks like a calendar. For each post, propose a fitting image. The table above should present (1) the post number, (2) the post content, and (3) the recommended image.
+After the table, suggest the cadence for the selected social media platform and best posting times.
+Constraints:
+Avoid mentioning discounts or new product launches.
+Make the posts educational, informative, or entertaining.
+Do not excessively self-promote in the posts.
+[VARIABLE3] emojis in the posts.
+Adhere strictly to the guidelines provided.
+[VARIABLE1: Social Media Platform],[VARIABLE2:Industry],[VARIABLE3: Emojis::Include|Do Not Include], [VARIABLE5: Business Name] [VARIABLE6: Target Demographic] [VARIABLE4: About The Business]
+

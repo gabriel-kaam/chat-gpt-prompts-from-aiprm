@@ -1,0 +1,18 @@
+AuthorName: Ian
+AuthorURL: https://contractorgrowthnetwork.com/
+
+Title: Keyword Strategy
+Activity: keywords
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Make a Keyword Strategy
+
+RevisionTime: 2023-03-16T17:27:23Z
+ID: 1797340691232452608
+PromptHint: [roofing]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/1797340691232452608/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Strategy"](https://www.aiprm.com/prompts/seo/keywords/1797340691232452608/)_"
+---
+Your task is to generate a list of 20 keywords based on [PROMPT]. Then generate 3 blog topics per keyword. The first blog should match an informational search intent. The second blog should be a comparison or "how to" blog. The third blog should focus on how much the list keyword costs. Once all this is complete, put everything into a table. All outputs should be in [TARGETLANGUAGE]

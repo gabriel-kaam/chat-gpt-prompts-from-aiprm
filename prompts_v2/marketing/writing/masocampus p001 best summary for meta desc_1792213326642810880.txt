@@ -1,0 +1,18 @@
+AuthorName: Masocampus
+AuthorURL: https://www.masocampus.com
+
+Title: masocampus P001 Best summary for meta desc
+Activity: writing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Create the best summary for my content
+
+RevisionTime: 2023-07-07T04:00:18.319Z
+ID: 1792213326642810880
+PromptHint: [TEXT that you want a meta description for]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/1792213326642810880/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "masocampus P001 Best summary for meta desc"](https://www.aiprm.com/prompts/marketing/writing/1792213326642810880/)_"
+---
+Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be [TARGETLANGUAGE]. The text to summarize is this: [PROMPT]

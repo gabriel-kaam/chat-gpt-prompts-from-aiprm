@@ -1,0 +1,26 @@
+AuthorName: Judyta
+AuthorURL: htttp:\\www.judyta.com
+
+Title: Betting Guides
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Create a betting guide from [TOPIC] [URL] [URL] [focuskeyphrase] [keyword] [keyword] [keyword] in a minute
+
+RevisionTime: 2023-07-26T15:34:37.031Z
+ID: 1797297395974004736
+PromptHint: [topic], [url], [url], [Focus keyphrase], [keyword], [keyword], [keyword]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1797297395974004736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Betting Guides"](https://www.aiprm.com/prompts/copywriting/writing/1797297395974004736/)_"
+---
+Give me a text of 1800 words long. Make a professional and educational piece about the next topic and, using 2 reference links, also use the following focus keyphrase. I wil give the info like this: "topic", "URL1", "URL2", "Keyphrase", "keyword","keyword", "keyword"
+
+Include please a meta description 22 words long and 6 FAQs with answers after create the betting guide. 
+
+I want you to try it with these: [PROMPT]. 
+
+Make it user-friendly separating the content sections in headings and use SEO best practices using keywords relevant for the topic, and including the focus keyword as the Yoast plugin parameters would demand. 
+
+Return the text in perfect [TARGETLANGUAGE].

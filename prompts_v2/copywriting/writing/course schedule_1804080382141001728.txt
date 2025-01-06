@@ -1,0 +1,26 @@
+AuthorName: Leandro Biffi
+AuthorURL: https://biffi.com.br
+
+Title: Course Schedule
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Create a complete schedule for your course with modules and lectures. (Biffi)
+
+RevisionTime: 2023-03-22T18:01:44.644Z
+ID: 1804080382141001728
+PromptHint: [Course]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1804080382141001728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Course Schedule"](https://www.aiprm.com/prompts/copywriting/writing/1804080382141001728/)_"
+---
+Eu sou um criador de curso online.
+Estou criando um curso de [COURSE].
+Eu quero que você escreva um índice com módulos para a criação desse curso.
+Depois escreva um resumo de cada um desses módulos.
+Me informe o público alvo desse curso.
+
+
+[TARGETLANGUAGE]
+[PROMPT]

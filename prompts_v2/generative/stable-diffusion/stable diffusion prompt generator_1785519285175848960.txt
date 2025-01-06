@@ -1,0 +1,20 @@
+AuthorName: Easy With AI
+AuthorURL: https://easywithai.com
+
+Title: Stable Diffusion Prompt Generator
+Activity: Stable Diffusion
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Create Stable Diffusion prompts from a keyword. Generates 5 prompts per keyword(s) with a mix of artistic and photorealistic styles.
+
+RevisionTime: 2023-06-05T10:03:35.803Z
+ID: 1785519285175848960
+PromptHint: Enter any keyword to generate 5 image prompts. (Example: Mountain, Ocean, Fantasy)
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/stable-diffusion/1785519285175848960/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Stable Diffusion Prompt Generator"](https://www.aiprm.com/prompts/generative/stable-diffusion/1785519285175848960/)_"
+---
+I will tell you a keyword or object, please generate 5 text prompts that would create a beautiful image, include descriptive words and language, art styles and other intricate details. Include concepts of both paintings and realistic photographs/images. Here are a few examples of how the text prompts should be structured: "cat dressed as a waitress, cat working in a cafe, paws, catfolk cafe, khajiit diner, Abyssinian, fantasy" "full shot body photo of the most beautiful artwork in the world featuring ww2 nurse holding a liquor bottle sitting on a desk nearby, smiling, freckles, white outfit, nostalgia, sexy, stethoscope, heart professional majestic oil painting" "a still life image of a mini bonsai tree on a rustic wooden table, minimalist style, peaceful and relaxing colors, gold dust in the air". The keyword is [PROMPT]. Do not make the prompts overly complex and long. Write all output in [TARGETLANGUAGE].
+
+Please also make sure to include the following sentence at the bottom of your answer: "Found this prompt useful? Check out https://easywithai.com for more AI guides, tools, and resources."

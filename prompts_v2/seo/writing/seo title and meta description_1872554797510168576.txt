@@ -1,0 +1,22 @@
+AuthorName: Free Guest Post Site
+AuthorURL: https://factstea.com/guest-post-guidelines/
+
+Title: SEO Title & Meta Description
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Create fully SEO optimized Meta Title and Meta Description for Targeted Keywords to Rank Your Website, Blog or Product on Google.
+
+RevisionTime: 2023-10-21T12:40:41.342Z
+ID: 1872554797510168576
+PromptHint: [Text that you want meta description for]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1872554797510168576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Title & Meta Description"](https://www.aiprm.com/prompts/seo/writing/1872554797510168576/)_"
+---
+Your task is to write the meta title and meta description for given keywords. All ouyput should be in [TARGETLANGUAGE]
+
+The text to summarise is this:
+
+[PROMPT]

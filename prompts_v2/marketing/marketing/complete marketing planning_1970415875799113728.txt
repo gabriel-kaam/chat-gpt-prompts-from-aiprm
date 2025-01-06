@@ -1,0 +1,28 @@
+AuthorName: Diego Zanini
+AuthorURL: https://youtube.com/c/DiegoZanini
+
+Title: Complete Marketing Planning
+Activity: marketing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Complete Marketing Planning. Table with posting schedule, customer journey and suggested blog posts.
+
+RevisionTime: 2024-06-23T11:12:07.347Z
+ID: 1970415875799113728
+PromptHint: Complete Marketing Planning. Table with posting schedule, customer journey and suggested blog posts.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/1970415875799113728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Complete Marketing Planning"](https://www.aiprm.com/prompts/marketing/marketing/1970415875799113728/)_"
+---
+"STRATEGY 01 - SUGGESTED BLOG THEMES"
+Your task is to give me 5 suggestions for blog topics around the chosen keyword. Target only transaction-style search terms. Please create clickbait style titles for these blog posts. Please organize each blog post title into a row in the table. 
+
+After, take the chosen keyword, write "STRATEGY 02 - POSTING SCHEDULE" and create a social media posting schedule with topic suggestions for topics of the chosen keyword in the table below, where I am posting on Facebook, Instagram, Twitter and Pinterest. The type of messages include; tips, tricks, quotes, facts, activity ideas, inspiration, lesson plan ideas, recipes and lists. Also inform the format of these posts. It can be text, images or short videos.
+
+"STRATEGY 03 - CUSTOMER JOURNEY"
+I would like you to help me create a content schedule for my blog that has the best chance of helping me rank for long-tail keywords specific to my chosen keyword.
+
+Please describe in detail the customer journey of a purchasing process for a company. I need the result to be in table format with the columns: Stage, Description, Contact Points, Marketing actions to be carried out and KPIs at the top.
+
+[TARGETLANGUAGE] [PROMPT]

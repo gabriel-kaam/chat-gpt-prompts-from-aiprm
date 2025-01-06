@@ -22,7 +22,7 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add .
-        git commit -m "$(date '+%Y-%m-%d Release')"
+        git commit -m "update $(date '+%Y-%m-%d')"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

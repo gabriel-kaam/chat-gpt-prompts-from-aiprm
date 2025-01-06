@@ -2,7 +2,7 @@ name: Run PHP
 
 on:
   schedule:
-    - cront: '0 5 * * 1'
+    - cron: '0 5 * * 1'
 
 jobs:
   build:

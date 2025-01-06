@@ -1,0 +1,30 @@
+AuthorName: UltraIA Prompt Engineers 
+AuthorURL: https://twitter.com/Ultra_IA
+
+Title: ULTRAcoder-1 click create app from Idea
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: ULTRAcoder - is a fast and advanced tool for application development.
+Write your [idea] and Choose your [programming language].
+WOW!
+The return:
+*Suggest Libraries and Frameworks.
+*Folders and files organized and structured for the project. 
+*Code creation
+*Implementation of requirements.txt
+
+USAGE ex:
+Write in [Idea Of the Project]
+"an application for send message in whatsapp automatic"
+Choose [Programming Language]
+"Python" / "Rust"/ "GO" and Others
+
+Enjoy and welcome feedback for improvements.
+This is my first prompt, it worked for me! Thank you!!!
+
+RevisionTime: 2023-07-22T02:05:21.339Z
+ID: 1793602997943791616
+PromptHint: explain your [Idea] choose [Programming Language]
+
+Prompt:
+

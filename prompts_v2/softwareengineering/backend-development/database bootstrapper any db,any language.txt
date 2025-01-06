@@ -1,0 +1,22 @@
+AuthorName: Ron van Etten
+AuthorURL: https://demandcluster.com
+
+Title: Database Bootstrapper (Any DB,Any Language)
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: JSON/CSV  Database, Code. Any programming language/database.
+Hover to read instructions.
+
+Give a JSON or CSV example text.
+When using CSV should have at least 2 lines and the first line should have the keys. Use \t as the line seperator.
+
+The AI will detect if you gave it JSON or CSV and will ask you follow up questions for the programming language (or plain SQL) you want to use. It will also ask you the type of database to use (MySQL, MongoDB, can also be any).
+
+You will get all the code or queries to get your database started from your example. Both server side and client side instructions will be provided. After the AI will be ready to answer follow up questions about the generated code and queries.
+
+RevisionTime: 2023-02-19T15:35:19Z
+ID: 1786957113051054080
+PromptHint: [JSON/CSV]
+
+Prompt:
+

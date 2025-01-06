@@ -1,0 +1,16 @@
+AuthorName: DrLP
+AuthorURL: http://www.drlp.com
+
+Title: GP discharge letter
+Category: 
+Teaser: This template allows you to enter relevant patient information, including a current progress note, to generate a letter to the GP. Information from previous GP letters can also be used as part of the prompt to create an up to date letter. It will generate the headings of: Patient Name, Medications, Diagnosis and Treatment History.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1787481978497667072
+PromptHint: [text that you want to include your GP letter summary - you should provide patient pseduonym, current medications, diagnosis and information about treatment history]
+PromptPackageID: 
+
+Prompt:
+

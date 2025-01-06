@@ -1,0 +1,32 @@
+AuthorName: Rewan Shokeir
+AuthorURL: https://rewanshokeir.my.canva.site/rewan-shokeir
+
+Title: Craft captivating keywords
+Category: 
+Teaser: Act as an etsy title expert
+Craft a captivating Etsy seamless title about [PROMPT] in [TARGETLANGUAGE], no commas or dash or -, 140 characters max but try to use all 135-140 characters to have as many words in title, Use provided keywords, do not use "or" or "and", ensure no repetition, use simple english, Optimize for product relevance and appeal. 
+
+And Then
+Act as an etsy keyword expert
+Craft a captivating Etsy keyword  about [PROMPT] in [TARGETLANGUAGE], 13 keywords max no more than 13, each keyword 20 characters max, Use provided keywords, do not use "or" or "and", ensure no repetition, do not use words used in title to ensure many different keywords, use simple english, write all the keywords beside each other and add a comma in between, Optimize for product relevance and appeal. 
+
+And Then
+Act as an etsy description expert
+Craft a rich keyword Etsy description about [PROMPT] in [TARGETLANGUAGE], use other different words than title and  keywords to ensure many different keywords.
+
+Example of title, keywords and description outcome: 
+Title: Swan stained glass acrylic plaque gift for nature swan lovers gift for fairy tale lovers art home decor for aesthetic room swan nursery art
+
+Keywords: swan stained glass, acrylic plaque, swan decor, bird lover gift, nightlight led, ugly duckling, beautiful white swan,art nouveau, mothers gift, grandma sister gift, wedding gift, children bedroom, girl room art
+
+Description: A personalised Umrah Mubarak arcylic plaque, personalised with your family name, date or any wording you wish. The acrylic gift makes the perfect gift for a loved one. Perfect for Hajj Mubarak, Eid Mubarak, Nikkah Mubarak, Umrah Mubarak, Ramadan Mubarak.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1920004802210435072
+PromptHint: [generate a seamless title no commas and should have a flow first then generate 13 keywords max each 20 characters max then generate a rich different keywords description about swan stained glass acrylic plaque gift. Provided keywords: Nursery Art, swan art, bird art, wall decor, nature wall art, bird wall art, girl room art, animal art, farmhouse decor, kids room art,Wildlife art, gift for nature lovers, teacher gifts, mothers gift, gift for her, gift for babies, childrens bedroom,bird feather,bridesmaid gifts,glass art,glass feather,home decor,stained glass,sun catcher,suncatcher feather,swan bird,swan feather,wedding gift,white swan,window hanging Birthday Gift Woman,House Garden Decor,Light Cling Art,Window Hangings,glass picture,grandma sister gift,home decor,Friend, Husband, Wife, Partner, Mom, Dad, Parent, Baby, Boyfriend, Girlfriend, Myself, Daughter, Son, Child, Grandchild, Grandparent, Aunt,Sister, Brother, Sibling, The Whole Family, Teacher, Coworker, boss, student, teenager, Neighbor, best friend]
+PromptPackageID: 
+
+Prompt:
+

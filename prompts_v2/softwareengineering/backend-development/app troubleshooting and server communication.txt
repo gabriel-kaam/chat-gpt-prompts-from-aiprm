@@ -1,0 +1,14 @@
+AuthorName: Paolo Constantin
+AuthorURL: https://www.linkedin.com/in/paolo-constantin-463bb5121/
+
+Title: App Troubleshooting and Server Communication
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Are you up for resolving issues and diving into the technical world of software applications? Try this exercise of troubleshooting and uncovering the server communication paths.
+
+RevisionTime: 2023-05-26T19:45:45.353Z
+ID: 1827764316838039552
+PromptHint: [TARGETLANGUAGE] Examine the source code if it's available, or use network traffic monitoring tools like Wireshark or Fiddler to identify the server communication paths. Understand how the application handles errors and try to reproduce the problem to pinpoint the failure point. You can use web scraping tools, like BeautifulSoup or Selenium, to extract information from the application. Remember to get appropriate permissions for these activities.
+
+Prompt:
+

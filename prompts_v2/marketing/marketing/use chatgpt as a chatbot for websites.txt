@@ -1,0 +1,14 @@
+AuthorName: Wys
+AuthorURL: https://discord.gg/8z2Jkuvhws
+
+Title: Use ChatGPT as a chatbot for websites.
+Activity: marketing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Setup a chatbox environement for ChatGPT.
+
+RevisionTime: 2023-02-21T08:30:17.49Z
+ID: 1793529871293739008
+PromptHint: Replace [PROMPT] with the company's activity. Replace [TARGETLANGUAGE] with desired one.Your can add additionnal information such as the company's name, adress, website url... If you want to talk to chatGPT (Giving instructions, recalibrating responses), add a "#* before your message. If you want to simulate a customer, place a "[Last name] [First name] :" before the message.
+
+Prompt:
+

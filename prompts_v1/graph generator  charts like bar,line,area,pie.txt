@@ -1,0 +1,23 @@
+AuthorName: Haseeb Mir
+AuthorURL: https://haseeb-heaven.blogspot.com/2023/02/generate-and-plot-graphs-barpieline-in.html
+
+Title: Graph Generator | Charts like BAR,LINE,AREA,PIE
+Category: 
+Teaser: Graph Generator is a tool used to generate quick and simple graphs using QuickChart. It allows the user to simply input a query and receive a preview of the graph. The process is simple: the user types in their query using English inside curly brackets, and the program generates a graph based on the input.
+
+ It is a simple and free chart-making tool that can process data from any type of JSON, XML, CSV or Raw format. The program takes advantage of the flexibility and ease of use of QuickChart, allowing users to quickly create and share graphs.
+
+Example 1 : Top 3 BMW Car models
+Example 2 :Top 3 Smartphones in 2020
+Example 3 : {2022    Chrome    Edge    Firefox    Safari    Opera
+October    79.9 %    8.1 %    5.2 %    4.2 %    1.7 %}
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1791912366775205888
+PromptHint: [Write your query here or Paste your data here]
+PromptPackageID: 
+
+Prompt:
+

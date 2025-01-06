@@ -1,0 +1,16 @@
+AuthorName: Nikolai Valiotti & Egor Satyukov
+AuthorURL: https://valiotti.com
+
+Title: Data Analysis Assistant
+Category: 
+Teaser: The ChatGPT assistant that helps with data analysis. The assistant takes a database schema in the JSON format as initial prompt and generates SQL queries using business questions as subsequent prompts; it can also be asked to compose code for a specific programming language to visualize the results of the generated SQL query. To convert your schema from SQL to JSON, you can use another AIPRM template - "SQL DDL to json converter".
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1827292112719450112
+PromptHint: [The database schema in the JSON format]
+PromptPackageID: 
+
+Prompt:
+

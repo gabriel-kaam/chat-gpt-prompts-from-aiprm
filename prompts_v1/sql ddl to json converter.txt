@@ -1,0 +1,16 @@
+AuthorName: Nikolai Valiotti & Egor Satyukov
+AuthorURL: https://valiotti.com
+
+Title: SQL DDL to json converter
+Category: 
+Teaser: Convert SQL CREATE statements into the JSON format. You can enter statements one by one and collect them together later or enter all statements at once.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1827666952433426432
+PromptHint: [SQL create statement(s)]
+PromptPackageID: 
+
+Prompt:
+

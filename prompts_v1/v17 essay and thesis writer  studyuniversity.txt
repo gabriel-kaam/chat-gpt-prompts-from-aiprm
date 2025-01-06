@@ -1,0 +1,23 @@
+AuthorName: Daniel
+AuthorURL: https://www.lysien.de
+
+Title: v1.7 essay and thesis writer  (study/university)
+Category: 
+Teaser: Create a first draft text for your seminar paper on your topic on a chapter from your seminar paper. Use documented statements from real sources. Use this template for best results:
+
+Main topic: [TOPIC].
+Chapter: [CHAPTER]. 
+Text length: [NUMBER OF WORDS] words. 
+Statement 1: [STATEMENT] - [SOURCE], 
+Statement 2: [STATEMENT] - [SOURCE],
+Statement #: ...
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1853335085026918400
+PromptHint: Main topic: {topic}. Chapter: {chapter}. Text length: {numberofwords} words.  Statement 1: {statement} - {source}, Statement 2: {statement} - {source}, Statement x: {...}
+PromptPackageID: 
+
+Prompt:
+

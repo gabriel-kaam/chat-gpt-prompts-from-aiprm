@@ -1,0 +1,16 @@
+AuthorName: Milena Johnston
+AuthorURL: https://cafecomdados.medium.com/
+
+Title: Convert Credit Card Bill to Spreadsheet
+Category: 
+Teaser: Quickly convert a simple text-based credit card bill (in PDF, for example) into a table format that you can easily copy and paste into Excel or Google Sheets.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1834051476722020352
+PromptHint: Copy the text from the credit card bill and paste it below. The prompt will eliminate spaces in establishment names and return the combined names. It will also separate the columns in the text into a table format.
+PromptPackageID: 
+
+Prompt:
+

@@ -1,0 +1,65 @@
+AuthorName: Jundee Mark Molina
+AuthorURL: https://www.linkedin.com/in/jundee-mark-gerona-molina-293b83260/
+
+Title: Task sorting
+Category: 
+Teaser: Teaser:
+Organize your tasks effortlessly with the help of ChatGPT. Just provide your tasks and let the AI sort them by categories, priorities, timeframes, and subtasks. Hover to see details.
+
+This prompt template is perfect for use with AIPRM and can automatically organize tasks in Obsidian format.
+
+Example input:
+Plan a company retreat, create a marketing strategy, and update payroll information
+
+Output:
+obsidian
+---
+Categories:
+- Event Planning
+- Marketing
+- Human Resources
+
+Tasks:
+1. Event Planning
+   - Plan a company retreat
+     * Timeframe: 2 months
+     * Priority: High
+     * Subtasks:
+       - Choose a location
+       - Plan activities
+       - Send invitations
+       - Arrange accommodations
+
+2. Marketing
+   - Create a marketing strategy
+     * Timeframe: 1 month
+     * Priority: High
+     * Subtasks:
+       - Analyze target audience
+       - Develop marketing goals
+       - Choose marketing channels
+       - Create a content calendar
+
+3. Human Resources
+   - Update payroll information
+     * Timeframe: 1 week
+     * Priority: Medium
+     * Subtasks:
+       - Review current payroll data
+       - Input new payroll information
+       - Verify accuracy
+       - Notify employees of updates
+---
+
+
+Provide your tasks, and ChatGPT will sort and organize them for you, making it easy to stay on top of your project management needs.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1819609089177808896
+PromptHint: Please provide a list of tasks that you would like to be organized, categorized, and prioritized. 
+PromptPackageID: 
+
+Prompt:
+

@@ -1,0 +1,14 @@
+AuthorName: Egor M
+AuthorURL: https://www.linkedin.com/in/egor-m-053303239/
+
+Title: Disabling Web Directory Listing on Web Servers
+Activity: Configuration Management
+Topic: DevOps-f3e52afbf831197f
+Teaser: Get step-by-step instructions for disabling web directory listing on your specific web server. Whether you're working with NGINX, Apache, IIS, or another server, simply input the server's name and get guidance in your language of choice.
+
+RevisionTime: 2023-06-13T10:02:39.947Z
+ID: 1834140558990901248
+PromptHint: Enter the name of the web server where you want to disable web directory listing. For instance, "NGINX", "Apache", "IIS".
+
+Prompt:
+

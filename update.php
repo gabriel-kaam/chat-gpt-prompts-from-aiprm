@@ -1,6 +1,8 @@
 <?php
 
-define('DATA_URL', 'https://api.aiprm.com/api3/Prompts?Community=&Limit=10&Offset=0&OwnerExternalID=user-uGYvFVhqDuXSFLXmGL33vjmL&OwnerExternalSystemNo=1&SortModeNo=2&UserFootprint=');
+declare(strict_types=1);
+
+define('DATA_URL', 'https://api.aiprm.com/api9/Prompts?Topic=&Limit=10&Offset=0&OwnerOperatorERID=' . getenv('USER_ID') . '&OwnerSystemNo=1&SortModeNo=2&UserFootprint=&IncludeTeamPrompts=true');
 
 function sanitize($string) {
 	$string = str_replace([
@@ -22,15 +24,13 @@ AuthorName: {$prompt->AuthorName}
 AuthorURL: {$prompt->AuthorURL}
 
 Title: {$prompt->Title}
-Category: {$prompt->Category}
+Activity: {$prompt->Activity}
+Topic: {$prompt->Topic}
 Teaser: {$prompt->Teaser}
 
-Community: {$prompt->Community}
-CreationTime: {$prompt->CreationTime}
-Help: {$prompt->Help}
+RevisionTime: {$prompt->RevisionTime}
 ID: {$prompt->ID}
 PromptHint: {$prompt->PromptHint}
-PromptPackageID: {$prompt->PromptPackageID}
 
 Prompt:
 {$prompt->Prompt}
@@ -46,8 +46,8 @@ if(!$data = @file_get_contents(DATA_URL)) {
 $prompts = json_decode($data);
 
 foreach ($prompts as $prompt) {
-	list($topic, ) = explode('-', $prompt->Community, 2);
-	$path = "prompts/$topic/{$prompt->Category}";
+	$chunks = explode('/', trim($prompt->CanonicalURL, '/'));
+	$path = "prompts_v2/{$chunks[0]}/{$chunks[1]}";
 	$name = strtolower(sanitize($prompt->Title));
 	@mkdir($path, 0777, true);
 

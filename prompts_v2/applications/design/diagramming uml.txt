@@ -1,0 +1,14 @@
+AuthorName: Antoine Boucher
+AuthorURL: https://github.com/antoinebou12
+
+Title: Diagramming UML
+Activity: Design
+Topic: Applications-f69b52b4213a6bd3
+Teaser: Improve your diagramming skills with [DIAGRAMMING TOOL] by creating optimized diagrams for various purposes using [DIAGRAM TYPE].
+
+RevisionTime: 2023-07-22T02:08:01.292Z
+ID: 1801311126437490688
+PromptHint: [DIAGRAM TYPE] - Sequence, Use Case, Class, Activity, Component, State, Object, Deployment, Timing, Network, Wireframe, Archimate, Gantt, MindMap, WBS, JSON, YAML [ELEMENT TYPE] - Actors, Messages, Objects, Classes, Interfaces, Components, States, Nodes, Edges, Links, Frames, Constraints, Entities, Relationships, Tasks, Events, Modules [PURPOSE] - Communication, Planning, Design, Analysis, Modeling, Documentation, Implementation, Testing, Debugging [DIAGRAMMING TOOL] - PlantUML, Mermaid, Draw.io, Lucidchart, Creately, Gliffy
+
+Prompt:
+

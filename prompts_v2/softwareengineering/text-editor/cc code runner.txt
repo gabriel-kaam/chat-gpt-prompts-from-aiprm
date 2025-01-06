@@ -1,0 +1,26 @@
+AuthorName: Haseeb Mir
+AuthorURL: https://haseeb-heaven.blogspot.com/2023/02/turn-chat-gpt-to-code-runner-for.html
+
+Title: C/C++ Code Runner
+Activity: Text Editor
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Run your C/C++ programs in ChatGPT using this prompt. This is very powerful prompt to run all types of coding languages into directly your web browser using ChatGPT.
+
+Just simply type your C or C++ code you want to run in prompt and the Chat-GPT will give you output of that program in reply.
+
+This is very useful if you dont have Compiler installed in your PC and want to test some code now you can do it by simple prompt.
+
+Example for C++ code.
+#include <iostream>
+
+int main(){
+     std::cout << "Hello Chat-GPT3" << std::endl;
+    return 0;
+}
+
+RevisionTime: 2023-02-19T15:35:19Z
+ID: 1787454818370191360
+PromptHint: Write your C++ code here
+
+Prompt:
+

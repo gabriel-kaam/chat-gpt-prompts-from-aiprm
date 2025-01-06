@@ -1,0 +1,16 @@
+AuthorName: Mattia Pastrello
+AuthorURL: https://www.brilia.farm/
+
+Title: Text quality score
+Category: 
+Teaser: Quality score for your text. F=The Fluidity of the text, S=Use of Synonyms, S=replacing the noun with the pronoun, S=ability to meet research intent, A=and overall Assessment.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1802247585319358464
+PromptHint: [Purpose of the text][Text to analyze]
+PromptPackageID: 
+
+Prompt:
+

@@ -1,0 +1,41 @@
+AuthorName: ELI5 Education
+AuthorURL: https://www.eli5.education
+
+Title:  HIGHLY SEO OPTIMIZED FAQ PAGE - Allows you to use keywords to include in your FAQ list
+Category: 
+Teaser: IMPORTANT: TO UNDERSTAND FORMAT, PLEASE HOVER OVER THIS TEXT AND READ CAREFULLY.
+
+Place keywords in parenthesis and format like this: 
+Example: (KEYWORDS: dog, blue cat, pig). 
+
+If you want the prompt to generate random questions around a specific topic, type "TOPIC: [your topic]". 
+Example: (KEYWORDS: dog, blue cat, pig). 
+
+If you want to include your own specific questions, type "QUESTIONS: [list your questions and separate with a line break]".
+
+FULL EXAMPLES BELOW:
+
+Example input 1:
+(KEYWORDS: dog, blue cat, pig) 
+QUESTIONS: 
+What are the benefits of having pets? 
+What are the best pets?
+
+Example input 2:
+(KEYWORDS: dog, blue cat, pig) 
+TOPIC: Pets
+
+Example input 3:
+TOPIC: Pets
+
+If you want to see some examples of how these FAQs are used check out the articles in the link in the Author URL or go to www.ELI5.education
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1786632240739115008
+PromptHint: Example: (KEYWORDS: Dog, blue cat, pig) QUESTIONS: What are the benefits of having pets? What are the best pets?
+PromptPackageID: 
+
+Prompt:
+

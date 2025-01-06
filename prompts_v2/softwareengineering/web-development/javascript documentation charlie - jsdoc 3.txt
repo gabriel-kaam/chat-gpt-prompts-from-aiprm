@@ -1,0 +1,25 @@
+AuthorName: Willian Pagane
+AuthorURL: https://www.linkedin.com/in/willian-pagane/
+
+Title: JavaScript Documentation Charlie - JSDoc 3
+Activity: Web Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Your days of doing trainee work are over, its time to start your new life as Charlie's supervisor when making the functions documentation. Give Charlie the name of the function, its parameters and a brief description, and he will make the basic documentation on instants.
+
+EXAMPLE: 
+
+function getPaymentMethods( cartId , store )
+
+cartId is a number
+store is a string containing a list of available store codes
+
+Makes a request to AdobeCommerce API in order to retrieve an array of objects with the available payment methods for the specified cart
+
+#api #js #java script #javascript #request #webapp #documentation #docs #jsdoc #js doc #http
+
+RevisionTime: 2023-09-27T10:50:09.818Z
+ID: 1872565625969958912
+PromptHint: Check the full prompt description for a example
+
+Prompt:
+

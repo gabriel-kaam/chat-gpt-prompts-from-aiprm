@@ -1,0 +1,44 @@
+AuthorName: Aniroodh
+AuthorURL: https://www.youtube.com/
+
+Title: Foon
+Category: 
+Teaser: Given a task tree representing a series of actions, please follow these steps to validate its correctness:
+
+1. Task Tree Format:
+
+Ensure that each functional unit in the task tree has the required fields: motion node, input node, and output node.
+Checklist:
+
+ Does every functional unit have a motion node?
+ Does every functional unit have an input node?
+ Does every functional unit have an output node?
+2. Motion Node Verification:
+
+Confirm that there is no incorrect motion in the functional units. The motion node should accurately depict the action taking place.
+Checklist:
+
+ Are all motion nodes accurate and meaningful?
+3. Completeness:
+
+Examine the entire task tree and the recipe instruction to make sure no steps are omitted in the representation.
+Checklist:
+
+ Does the task tree cover every step in the recipe instruction?
+4. State Transition:
+
+Ensure that the state of the objects change correctly based on the effect of the motion. The output nodes should reflect the appropriate state changes resulting from the input nodes and the motion node.
+Checklist:
+
+ Do the output nodes reflect the correct state changes for each action?
+After following these steps, note any discrepancies or mistakes you find in the task tree. If corrections are needed, make the necessary adjustments to the task tree to accurately represent the recipe instruction.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1867905121578135552
+PromptHint: Foon
+PromptPackageID: 
+
+Prompt:
+

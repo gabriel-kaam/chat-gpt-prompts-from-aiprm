@@ -1,0 +1,14 @@
+AuthorName: Duy Le
+AuthorURL: https://github.com/duylevietluu/
+
+Title: Generate Unit Test for .NET with xUnit...
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Use this to create several unit tests in the xUnit framework. It will be in Arrange-Act-Assert test structure probably with Moq and FluentAssertions libraries.
+
+RevisionTime: 2023-07-05T07:06:01.108Z
+ID: 1842006130814607360
+PromptHint: [Your code that you want to be tested]
+
+Prompt:
+

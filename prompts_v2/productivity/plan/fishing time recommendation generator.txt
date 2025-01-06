@@ -1,0 +1,14 @@
+AuthorName: ismail bejja
+AuthorURL: https://www.linkedin.com/in/ismailbejja
+
+Title: "Fishing Time Recommendation Generator"
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: This prompt provides the best fishing times and durations based on real-time data using [TARGETLANGUAGE]. It factors in tides, weather conditions, and more.
+
+RevisionTime: 2024-09-17T13:46:54.492Z
+ID: 2001569160945733632
+PromptHint: Enter the location and other necessary information for a personalized fishing recommendation.  Explanation of Fixes: [PROMPT]: This placeholder allows the user to input specific data (such as location, current weather conditions, etc.). It ensures the prompt is flexible and can be reused across different scenarios or locations.  [TARGETLANGUAGE]: This placeholder ensures that the output can be generated in any language specified by the user, making it more useful for a global audience.  Descriptions: The Teaser, Prompt Hint, and Title provide clarity on what the prompt does, and how the user should input information. This makes the template easy to understand and use.  By ensuring correct placement and use of [PROMPT] and [TARGETLANGUAGE], and providing well-written descriptions, you are meeting the AIPRM Prompt Template guidelines.
+
+Prompt:
+

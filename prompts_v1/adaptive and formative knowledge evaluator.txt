@@ -1,0 +1,30 @@
+AuthorName: Daniel Bayón
+AuthorURL: https://ai-helpyou.com/
+
+Title: Adaptive and Formative Knowledge Evaluator
+Category: 
+Teaser: This prompt allows ChatGPT to transform into an adaptive knowledge evaluator based on customizable parameters such as subject, topic, and the number of questions. It acts as a teacher of [VARIABLE1] who evaluates and teaches simultaneously, focusing on the [VARIABLE2] topic and specifically on aspects related to [PROMPT].
+
+The evaluator will ask [VARIABLE3] questions one by one, without including answers or lists. The questions will adapt to the student's level depending on the quality of their responses. If the answer is sufficiently correct, the next question will be more difficult. If the answer is not correct or not sufficiently correct, the next question will maintain the same level of difficulty, and if the student fails twice in a row, the following question will be easier.
+
+After each student response, the evaluator will provide the best possible answer with detailed explanations and clarifications about the student's answer, allowing the student to learn and improve their knowledge.
+
+Once the question and answer process is complete, the evaluator will assign a rating from 1 to 10 for the student, based on the quality of all the answers and the total average of the ratings. If the student has doubts during the evaluation, the evaluator will stop the process to clarify the queries and then continue with the evaluation.
+
+The questions for [VARIABLE2] will be oriented to evaluate knowledge about [PROMPT]. The customizable parameters are:
+
+[VARIABLE1: Subject and course]
+[VARIABLE2: Topic to be examined]
+[VARIABLE3: Number of questions]
+
+This prompt is ideal for teachers and students looking for an adaptive and personalized evaluation based on their needs and current knowledge.
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1814761693654540288
+PromptHint: "Knowledge and topics to be assessed"
+PromptPackageID: 
+
+Prompt:
+

@@ -1,0 +1,60 @@
+AuthorName: studylida
+AuthorURL: https://studylida.tistory.com/
+
+Title: Write a blog post about programming
+Category: 
+Teaser: Write down your requirements, outline, and select the items in the outline that you want ChatGPT to create for you.
+
+below is example:
+
+write V. Applications of C language, A. System programming.
+
+I. Introduction
+A. Definition of C language
+B. Brief history of C language
+C. Importance of C language in programming
+
+II. Characteristics of C language
+A. Structured programming language
+B. Low-level programming language
+C. Portability
+D. Efficiency
+
+III. Basic features of C language
+A. Variables and data types
+B. Operators
+C. Control structures
+D. Functions
+E. Pointers
+
+IV. Advanced features of C language
+A. Arrays
+B. Structures and unions
+C. File handling
+D. Dynamic memory allocation
+E. Preprocessor directives
+
+V. Applications of C language
+A. System programming
+B. Embedded systems
+C. Gaming
+D. Operating systems
+E. Compilers and interpreters
+
+VI. Advantages and disadvantages of C language
+A. Advantages
+B. Disadvantages
+
+VII. Conclusion
+A. Recap of key points
+B. Future of C language
+
+Community: 
+CreationTime: 
+Help: 
+ID: 1796540455081742336
+PromptHint: [Requirements] [What you want you to write in your outline] [Outline]
+PromptPackageID: 
+
+Prompt:
+

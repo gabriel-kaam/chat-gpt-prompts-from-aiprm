@@ -1,0 +1,28 @@
+AuthorName: Catalin Sorian
+AuthorURL: http://zamolxis.es
+
+Title: Cinematic Scene Builder Video
+Activity: Sora
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Create a detailed cinematic scene description, including environment, subject, movements, and artistic style
+
+RevisionTime: 2025-01-25T06:39:51.777Z
+ID: 2048622628365389824
+PromptHint: Cinematic Scene Builder, Scene Details, Subject Description, Camera Movement, Scene Motion, Subject Motion, Cinematic Style.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/sora/2048622628365389824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cinematic Scene Builder Video"](https://www.aiprm.com/prompts/generative/sora/2048622628365389824/)_"
+---
+Create a cinematic scene description in [TARGETLANGUAGE] based on the following guidelines:  
+
+Scene Detail: [Describe the environment and setting with at least 2 descriptive details. Include any prominent background elements or the camera angle if relevant.]  
+Subject Details: [Identify the subject and describe at least 2 visible attributes, along with their placement in the scene.]  
+Style Description: [Provide a brief description (10 words or less) of the cinematic/artistic style.]  
+Camera Movement: [Explain how the camera moves, or specify if it’s static.]  
+Scene Motion: [Optional: Detail any changes or motion in the scene’s environment.]  
+Subject Motion: [Describe any significant movement or transformation by the subject.]  
+
+[PROMPT]: Use the structure above to create a visually compelling cinematic moment in [TARGETLANGUAGE].  
+

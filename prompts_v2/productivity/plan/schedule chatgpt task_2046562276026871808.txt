@@ -1,0 +1,22 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Schedule ChatGPT task
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Helps you schedule ChatGPT tasks & automations using a prompt format that is expected by ChatGPT
+
+RevisionTime: 2025-01-19T17:53:50.666Z
+ID: 2046562276026871808
+PromptHint: Describe the task e.g. [to write in my journal] or [of a cat]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2046562276026871808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Schedule ChatGPT task"](https://www.aiprm.com/prompts/productivity/plan/2046562276026871808/)_"
+---
+Create a new automation based on the following instructions. Model should [VARIABLE1] [PROMPT]. Model should do this [VARIABLE2] [VARIABLE3].
+
+ONLY If the `automations` tool is not available, tell the user to select "GPT-4o with scheduled tasks" model using the model selector and then try again.
+
+Respond in [TARGETLANGUAGE]. [VARIABLE1:Task:remind me:generate image|remind me|search for|suggest|tell me] [VARIABLE2:Schedule:daily:once|daily|weekly|monthly|annually] [VARIABLE3:Time:9am]

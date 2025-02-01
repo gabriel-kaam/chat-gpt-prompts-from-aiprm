@@ -1,0 +1,35 @@
+AuthorName: Nafis Iqbal
+AuthorURL: https://nafisiqbal.com/
+
+Title: Semantic SEO Topic and Keyword Clustering Tool
+Activity: ideation
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generate Sub Topics, Child Topics, and Keyword Clusters with Blog Post Ideas – Perfect for SEO and Content Strategy.
+
+RevisionTime: 2025-01-27T08:21:06.406Z
+ID: 2049371207359000576
+PromptHint: Just provide a [Seed Topic] 
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/2049371207359000576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Semantic SEO Topic and Keyword Clustering Tool"](https://www.aiprm.com/prompts/seo/ideation/2049371207359000576/)_"
+---
+I want you to act as a topic and keyword clustering assistant for SEO. Based on the **seed topic** provided in [PROMPT], perform the following steps:
+
+1. **Sub-Topics**: Generate 10 relevant sub-topics related to the seed topic.  
+2. **Child Topics**: For each sub-topic, generate 10 child topics to create deeper content structures.  
+3. **Keyword Clusters**: Perform keyword clustering and group relevant keywords for each sub-topic and child topic.  
+
+Display the results (Sub-Topics, Child Topics, and Keyword Clusters) in a **table** format with the following columns:  
+   - **Sub-Topic**  
+   - **Child Topic**  
+   - **Keyword Cluster**
+
+4. **Blog Post Ideas**:  
+For each sub-topic, generate **blog post ideas** targeting different intents (Informational, Navigational, Transactional, and Commercial). Display these in a **table** format with the following columns:  
+   - **Intent**  
+   - **Post Title**
+
+Ensure the output is in [TARGETLANGUAGE], formatted clearly and ready to use.
+

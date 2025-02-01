@@ -1,0 +1,30 @@
+AuthorName: AA
+AuthorURL: https://crickettamasha.com/
+
+Title: Humanizer v1.2
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Humanize 100% | Bypass all AI-Detectors | Wait for The Next Update | Press The Like Button
+
+RevisionTime: 2025-01-20T12:59:20.513Z
+ID: 2034835486061383680
+PromptHint: [Humanize]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2034835486061383680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Humanizer v1.2"](https://www.aiprm.com/prompts/copywriting/writing/2034835486061383680/)_"
+---
+Rewrite the given text randomly and inconsistently.
+Use easy words of the targeted language.
+The rewritten text must be 100% unique.
+Generate three outputs in a single response:
+Level 1: Random rewritten text (do not include improvement score).
+Level 2: Improved version of Level 1 text with the improvement percentage explicitly stated (e.g., Improved: "15%").
+Level 3: A superior improvement over Level 2 text with the improvement percentage stated (e.g., Improved: "30%").
+Your output must always mimic the same style, length, and design of the input while changing the content.
+Rewrite only the provided paragraph, maintaining its word count and structure.
+Avoid expanding the text into a full blog or introducing unrelated content.
+Always follow instructions as provided, and do not modify styles, design, or information independently.
+Please write in [TARGETLANGUAGE]
+[PROMPT]

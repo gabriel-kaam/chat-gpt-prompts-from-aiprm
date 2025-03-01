@@ -1,0 +1,27 @@
+AuthorName: Muhammad Dawood
+AuthorURL: https://muhammaddawood.info
+
+Title: LinkedIn Post Generator
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: create a highly engaging and detailed LinkedIn post based on the given topic
+
+RevisionTime: 2025-02-26T08:02:54.808Z
+ID: 2059167075498991616
+PromptHint: Title of your LinkedIn post
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2059167075498991616/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "LinkedIn Post Generator"](https://www.aiprm.com/prompts/seo/writing/2059167075498991616/)_"
+---
+Your task is to write in [TARGETLANGUAGE] professional LinkedIn post on given Post Structure
+
+Hook: Start with a strong hook (a question, bold statement, or personal insight).
+Value & Insights: Provide key takeaways, industry trends, or practical advice. talk on advanced level and rare information
+not basic knowledge.
+Clarity: Keep paragraphs short and easy to read.
+Tone: Conversational, insightful, and engaging.
+Call to Action (CTA): End by inviting the audience to comment, share opinions, or ask questions.
+
+Topic: [PROMPT]

@@ -1,0 +1,38 @@
+AuthorName: Fabio Machado
+AuthorURL: https://www.smartadv.ai/
+
+Title: Do Brasilian Contract Employee
+Activity: Respond
+Topic: Productivity-b5a49cdd0796137a
+Teaser: These prompt help you to do a brasilian employee contract by the brasilian rules
+
+RevisionTime: 2025-02-14T21:24:04.093Z
+ID: 2056093413275353088
+PromptHint: Do fast a contract to your brasilian employee
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/2056093413275353088/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Do Brasilian Contract Employee"](https://www.aiprm.com/prompts/productivity/respond/2056093413275353088/)_"
+---
+Your task is to do a labor contract for a brazilian employee. All output shall be in [TARGETLANGUAGE]. The contract is 
+
+[PROMPT]
+
+
+"Create a detailed employment contract for a Brazilian employee, considering Brazilian labor laws. The contract should include the following essential information:
+
+Identification of the parties: Full name, CPF, RG, address, and details of the contracting company and the employee.
+Job description and duties: Define the employee's position and the responsibilities and tasks they must perform.
+Start date: Specify the start date of the employment contract.
+Remuneration: Specify the monthly or hourly salary, payment method (monthly, biweekly, etc.), and payment date.
+Work schedule: Define the weekly working hours, start and end times, breaks for rest and lunch.
+Benefits: Specify benefits such as transportation vouchers, meal vouchers, health plans, etc., if applicable.
+Vacation: Define the vacation period and the remuneration for it.
+13th salary: Explain the payment of the 13th salary as per the law.
+FGTS: Provide information about the monthly FGTS deposit and the conditions for withdrawing the fund.
+Labor rights: Address the employee's rights under the CLT, such as weekly rest, maternity/paternity leave, etc.
+Contract termination: Specify the conditions under which the contract can be terminated, including notice periods, termination for just cause, or voluntary resignation by the employee.
+Additional clauses: Include specific clauses regarding confidentiality, non-compete agreements, or other particular conditions, if needed.
+Jurisdiction: Define the jurisdiction to resolve any disputes related to the contract.
+The contract must comply with the Consolidation of Labor Laws (CLT) and be signed by both parties to be valid."

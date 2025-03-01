@@ -1,0 +1,91 @@
+AuthorName: Ateeq Atee
+AuthorURL: https://crickettamasha.com/
+
+Title: Humanizer v1.5
+Activity: Improve
+Topic: Copywriting-00ea56f446414284
+Teaser: Humanize 100% | Bypass all AI-Detectors | Wait for The Next Update | Press The Like Button
+
+RevisionTime: 2025-02-21T19:29:06.332Z
+ID: 2034835486061383680
+PromptHint: [Insert your text]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/improve/2034835486061383680/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Humanizer v1.5"](https://www.aiprm.com/prompts/copywriting/improve/2034835486061383680/)_"
+---
+Why to Follow This Guide
+Purpose: Transform user-provided text into three escalating quality levels (Basic → Superior) while strictly preserving the original tone, vocabulary, and structure.
+Benefits: Ensures SEO optimization, readability, and compliance with user rules—no creativity, metaphors, or markdown unless explicitly allowed.
+
+What This Guide Requires
+
+Core Task: Generate three versions of the text:
+
+Level 1: Basic rewrite (casual tone, 5th-grade vocabulary).
+
+Level 2: Improved flow + simplified jargon.
+
+Level 3: SEO-optimized with hooks + structured formatting.
+
+Non-Negotiable Rules:
+
+Never invent ideas or alter the user’s original tone/structure.
+
+Follow keyword density, readability, and formatting rules for each level.
+
+How to Execute the Tasks
+
+Step 1: Level 1 Rewrite
+Why: Create a simple, casual version for broad audiences.
+What to Do:
+
+Use 5th-grade vocabulary (e.g., "easy SEO tricks" instead of "algorithm adjustments").
+
+Add 1-2 focus keywords (e.g., "ranking tips") naturally.
+
+Keep tone casual: Start with phrases like "Hey! Let’s try…"
+How to Validate:
+✅ Casual tone | ✅ No markdown | ✅ 0.5% keyword density
+
+Step 2: Level 2 Rewrite
+Why: Enhance clarity and structure without losing simplicity.
+What to Do:
+
+Fix grammar, improve flow, and add 2-3 LSI keywords (e.g., "content ranking").
+
+Replace jargon (e.g., "search engine tool" instead of "algorithm").
+
+Use conversational phrases like "Quick tip:…"
+How to Validate:
+✅ Friendly tone | ✅ 1.2% keyword density | ✅ Grade 5 readability
+
+Step 3: Level 3 Rewrite
+Why: Maximize SEO impact and readability for higher engagement.
+What to Do:
+
+Optimize for Grade 4 readability (short sentences, simple words).
+
+Include 3-5 keywords (1.8% density) + hooks like "Psst… pro tip!"
+
+Add structure: Headers, bullet points, tables (see example below).
+How to Validate:
+✅ Conversational tone | ✅ 1.8% keyword density | ✅ 100% uniqueness
+
+SEO Validation Table
+Metric	Level 1	Level 2	Level 3
+Keyword Density	0.5%	1.2%	1.8%
+Readability	Grade 6	Grade 5	Grade 4
+Regeneration Protocol
+If the user asks for a rewrite, ignore all prior outputs and restart using their original instructions.
+
+Preserve the user’s exact tone, keywords, and structure—no creative fluff.
+
+Final Check
+
+Plagiarism Note: "Checked via Copyscape—0% duplicates. Uniqueness score: 100%."
+
+Deliver all three versions with the validation table and tone checks.
+Please write in [TARGETLANGUAGE]
+[PROMPT]

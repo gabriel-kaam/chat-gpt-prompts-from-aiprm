@@ -1,0 +1,29 @@
+AuthorName: KarthiDreamr
+AuthorURL: https://github.com/KarthiDreamr
+
+Title: Copy Text within Markdown for Forms
+Activity: Respond
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Create a codeblock markdown with plain text inside
+
+RevisionTime: 2025-02-26T06:59:33.109Z
+ID: 2060223597721178112
+PromptHint: plain text, copy button, inside markdown, easy copy
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/respond/2060223597721178112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Copy Text within Markdown for Forms"](https://www.aiprm.com/prompts/productivity/respond/2060223597721178112/)_"
+---
+for the prompt
+``` [PROMPT]  ``` respond in [TARGETLANGUAGE] in 
+
+FORMAT
+---
+Title with or without markdown if relevant
+```
+Answer in plain text
+```
+---
+
+Chat UI shows a copy button, easier as a user to copy paste within forms

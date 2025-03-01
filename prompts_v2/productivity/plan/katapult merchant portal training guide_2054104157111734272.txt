@@ -1,0 +1,31 @@
+AuthorName: alex chen
+AuthorURL: https://www.katapult.com
+
+Title: "Katapult Merchant Portal Training Guide"
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: "Step-by-step guide to help merchants navigate the Katapult portal for transactions, refunds, and reporting."
+
+RevisionTime: 2025-02-09T09:52:26.309Z
+ID: 2054104157111734272
+PromptHint: "Merchant Name (optional for customization)."
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2054104157111734272/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt ""Katapult Merchant Portal Training Guide""](https://www.aiprm.com/prompts/productivity/plan/2054104157111734272/)_"
+---
+Please write in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Write a structured training guide for merchants using the Katapult merchant portal. The guide should include:
+
+1. How to process transactions.
+2. Reviewing customer applications.
+3. Managing refunds.
+4. Accessing reports and insights.
+5. Common troubleshooting tips.
+
+Make it clear, easy to follow, and professional in tone.
+

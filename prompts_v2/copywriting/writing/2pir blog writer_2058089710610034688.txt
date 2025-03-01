@@ -1,0 +1,88 @@
+AuthorName: Mr Duhh
+AuthorURL: https://twopirconsulting.com
+
+Title: 2pir Blog Writer
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Helpful Writer ready to Generate A Comprehensive, Seo-optimized, And Expert-level Blog Post On Topic Following Hubspot’s Seo Structure And Salesforce Ben’s Technical Depth. The Content Must Be Strictly Atleast 2000 Words Long And Structured With:  Introduction (300+ Words) – Engage The Reader, Introduce [Topic], And Highlight Its Importance. Comprehensive Guide (400+ Words) – Detailed Explanation With Industry Trends, Statistics, And Comparisons. Implementation Guide (400+ Words) – Step-by-step Technical Guide With Code Snippets, Best Practices, And Security Considerations. Real-world Use Cases (400+ Words) – Five Detailed Success Stories, Roi Metrics, And Best Practices. Expert Tips (400+ Words) – Twelve Actionable Best Practices, Pitfalls To Avoid, And Technical Optimizations. Troubleshooting Guide (400+ Words) – Common Challenges, Debugging Methods, And Solutions. Summary & Next Steps (400+ Words) – Key Takeaways, An Implementation Checklist, And Links To Further Resources. Seo And Content Quality Guidelines: Strategic Keyword Selection: Include Topic Naturally Throughout The Content. E-e-a-t (Experience, Expertise, Authoritativeness, Trustworthiness): Cite Authoritative Sources, Add Expert Insights, And Include Original Research. Readability & Engagement: Use Concise Paragraphs, Bullet Points, And Easy-to-scan Sections. Formatting & Depth: Include At Least Three Code Snippets, Five Bullet Lists, And Three "Read More" References. Professional Yet Conversational Tone: Write In A Style That Engages Both Technical And Non-technical Audiences. Include Relevant Context From Knowledge Base Documents When Available.
+
+RevisionTime: 2025-02-25T08:55:57.871Z
+ID: 2058089710610034688
+PromptHint: Please give title & Refernce Link
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2058089710610034688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "2pir Blog Writer"](https://www.aiprm.com/prompts/copywriting/writing/2058089710610034688/)_"
+---
+"Generate a 2000+ word expert blog post titled '[BLOG TITLE]' following this structure:  
+
+**1. Introduction (300+ words)**  
+- Explain *what* [TOPIC] is and *how* it works at a foundational level  
+- Highlight *key differentiators*:  
+  - How it contrasts with Salesforce's native features (e.g., Reports vs. Einstein Analytics)  
+  - Competitive advantages over similar tools from Oracle, HubSpot, or Microsoft  
+- Discuss its *evolution*: Major releases/updates in 2023-2024 and their business impact  
+- Include a *real-world analogy* (e.g., 'Like a GPS for customer data...')  
+- End with *why* it matters now (cite industry trends like AI adoption or remote work)  
+
+**2. Permission & Licensing Requirements**  
+- List exact *permission sets* (e.g., 'Marketing User' + 'Analytics Cloud Permission Set')  
+- Specify *user licenses* required (Salesforce Platform, CRM Analytics, etc.)  
+- Outline *access controls*: Object/field-level permissions, IP restrictions  
+
+**3. Comprehensive Guide (400+ words)**  
+- Technical architecture diagram (describe in text)  
+- Compare 3 implementation approaches (e.g., declarative vs. code-heavy)  
+- Include *pricing tiers*: Starter ($/user/month), Enterprise (custom quotes)  
+- Add *sector-specific ROI examples*:  
+  ```markdown  
+  - Retail: 27% faster campaign ROI measurement (Nike case study)  
+  - Healthcare: HIPAA-compliant patient journey mapping (Mayo Clinic example)  
+  ```  
+
+**4. Implementation Guide (400+ words)**  
+- Step-by-step setup with *3 code snippets* (Apex triggers, LWC examples)  
+- Security checklist:  
+  ```  
+  1. Enable TLS 1.2+  
+  2. Restrict data sharing via profiles  
+  3. Audit login hours  
+  ```  
+- Common errors (e.g., 'INVALID_ACCESS_LEVEL' fixes)  
+
+**5. Real-World Use Cases (400+ words)**  
+- 5 detailed examples across industries with metrics:  
+  ```  
+  Coca-Cola: 19% supply chain cost reduction using [TOPIC] + Tableau  
+  ```  
+
+**6. Expert Tips (400+ words)**  
+- 12 actionable items like:  
+  "Use Platform Encryption with Date fields to avoid SOQL scan limits"  
+- Pitfalls: "Avoid sharing rule cascades in orgs with 1000+ users"  
+
+**SEO & Compliance Requirements**  
+- Primary keyword: "[TOPIC] Implementation Guide"  
+- Secondary keywords: "Salesforce [TOPIC] Pricing", "[TOPIC] Permission Sets"  
+- Cite 3+ sources:  
+  1. Salesforce Ben article on [TOPIC] (include [REFERENCE LINK 1])  
+  2. Salesforce Help Article #XXXXX  
+  3. Gartner 2024 CRM Market Guide  
+
+**Tone & Formatting**  
+- Use 14 subheadings minimum  
+- Include 5 comparison tables (vs. competitors/legacy tools)  
+- Add 3 'Read More' CTAs linking to official Salesforce docs  
+- Maintain Flesch-Kincaid Grade Level 8-9"  
+
+**User Input Required**  
+1. Blog Title: [INSERT]  
+2. Reference Links: [INSERT 3 LINKS]  
+
+This prompt systematically includes permissions, pricing, comparisons, technical depth, and real examples while enforcing E-E-A-T through Salesforce Ben/docs citations.
+STRICT NOTE:
+you dont have to include salesforce ben and salesforce article link in the blog but rather have to visit their site, check what they have written and based on that, customise the blog
+
+Give output in [TARGETLANGUAGE] only
+Your task is: [PROMPT]

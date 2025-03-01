@@ -1,0 +1,33 @@
+AuthorName: Abdullah Habib
+AuthorURL: https://www.linkedin.com/in/abdullahabib/
+
+Title: Rewrite AI-Generated Content to Sound Human
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: I have an AI-generated article. It feels robotic and lacks a human touch.
+
+RevisionTime: 2025-02-04T21:19:54.065Z
+ID: 2052468485925892096
+PromptHint: [insert topic], [insert keywords], and [insert audience]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2052468485925892096/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rewrite AI-Generated Content to Sound Human"](https://www.aiprm.com/prompts/copywriting/writing/2052468485925892096/)_"
+---
+Please write in [TARGETLANGUAGE]
+I have an AI-generated article on [insert topic] targeted at [insert audience]. It feels robotic and lacks a human touch.
+
+Your Task:
+Rewrite the article to sound conversational, engaging, and relatable by doing the following:
+
+Hook the Reader: Rewrite the introduction to immediately captivate the audience with a bold statement, question, or interesting fact.
+Friendly Tone: Use contractions (I'm, don't) and rhetorical questions to sound conversational.
+Storytelling: Add relatable examples or mini-anecdotes to make the content engaging.
+Sentence Variation: Mix short, punchy sentences with longer ones to create a natural rhythm.
+Simplify: Break down complex ideas with simple examples and avoid jargon.
+Flow: Add transitions between sections for a smoother reading experience.
+SEO Optimization: Ensure the final content naturally incorporates these keywords: [insert keywords].
+Final Touch: Imagine you're a content editor for a top magazine, focus on authenticity, readability, and audience connection.
+
+[PROMPT]

@@ -1,0 +1,32 @@
+AuthorName: Meredith's husband
+AuthorURL: https://www.meredithshusband.com
+
+Title: Create Key Points + Blog Post
+Activity: Summarize
+Topic: Copywriting-00ea56f446414284
+Teaser: Create Summaries & Blog Posts for SEMRUSH solution videos
+
+RevisionTime: 2025-02-24T22:42:55.738Z
+ID: 2007522288979402752
+PromptHint: Paste video transcript here...
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/2007522288979402752/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Key Points + Blog Post"](https://www.aiprm.com/prompts/copywriting/summarize/2007522288979402752/)_"
+---
+[TARGETLANGUAGE] Please write in english
+[PROMPT]
+Remove line breaks, any unneeded punctuation, and repetition from the following transcript. Include the revised transcript, labeled "Video transcript". Place this revised "transcript" after the "summary" described below. 
+
+Summarize the "video transcript" in a short summary paragraph followed by a bullet point list to highlight the "Key Points". Do not refer to "the speaker". Instead, write from the first person directly to the reader.
+
+Separate the first sentence of the summary paragraphy from the rest of the paragraph with a line break and include the text "INSERT VIDEO" on a line between the first and following sentences.
+
+Address the reader directly with phrases like "your" website. 
+Begin the first sentence of the summary with "The video below describes...".
+
+In the next section labeled "blog post" create a blog post from the Video Transcript. 
+Use bold text for title of the blog and h2 format for subheadings.
+
+Include a section labeled blog post details after the title of the blog and before the text of the blog. Include a meta description with fewer than 150 characters.  

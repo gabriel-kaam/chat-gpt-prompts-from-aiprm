@@ -1,0 +1,32 @@
+AuthorName: soulknightapk.com
+AuthorURL: https://soulknightapk.com/
+
+Title: Write an SEO-Optimized Blog Post on [Topic]
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generate an SEO-optimized, well-structured blog post on any topic in simple, engaging language! Just provide a topic & keyword, and let AI do the magic!
+
+RevisionTime: 2025-03-23T07:54:35.188Z
+ID: 2069295517821300736
+PromptHint: Enter your blog topic and focus keyword below. Example:  Topic: "Best Weapons in Soul Knight"  Keyword: "Soul Knight best weapons"   AI will generate a high-quality, SEO-friendly blog post in simple English with proper structure.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2069295517821300736/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Write an SEO-Optimized Blog Post on [Topic]"](https://www.aiprm.com/prompts/seo/writing/2069295517821300736/)_"
+---
+[TARGETLANGUAGE]
+
+Act as an expert SEO content writer. Write a well-structured, SEO-optimized blog post based on the following user input:  
+
+[PROMPT]  
+
+✅ **Follow these guidelines:**  
+- Use **simple 5th-grade English** for better readability.  
+- Start with an **engaging introduction** (hook + problem + solution preview).  
+- Write in **short, clear sentences** with bullet points where needed.  
+- Use **proper headings (H2, H3, H4)** for better SEO.  
+- Naturally integrate the focus keyword **at least 4 times**.  
+- Add a compelling **meta description** (max 160 characters).  
+- End with a **strong conclusion & CTA**.  
+

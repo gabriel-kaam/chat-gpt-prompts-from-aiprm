@@ -1,0 +1,47 @@
+AuthorName: Noé Cortés
+AuthorURL: https://sportlandmx.com/
+
+Title: Test cases
+Activity: Adobe Firefly
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Are you making a critical mistake without even realizing it? Ensure your next move is error-proof with 100% accurate insights tailored for American companies. Stay ahead—discover what you might be overlooking today!
+
+RevisionTime: 2025-03-26T15:16:58.396Z
+ID: 2070316627379486720
+PromptHint: Create a compelling teaser that sparks curiosity and urgency. It should hint at a critical error that American companies might overlook, emphasizing the importance of accuracy. The teaser should be persuasive, leaving the audience eager to learn more without revealing too much. Keep it sharp, engaging, and thought-provoking
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/adobe-firefly/2070316627379486720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Test cases"](https://www.aiprm.com/prompts/generative/adobe-firefly/2070316627379486720/)_"
+---
+Please write in [TARGETLANGUAGE] 
+
+[PROMPT] Act like a profesional QA enginner and become the informacion that i provide to you.
+
+Be sured that the error had all the elements that i will provided you.
+
+Be sure that the inform be 100% for American comapanies.
+DONT have limitation to ask all things necesary as it needs:
+
+Mandatory Fields
+ID: Unique number that identifies the error report.
+
+Title: Brief description of the error.
+
+Steps to Reproduce: Detailed step-by-step guide to replicate the error.
+
+Results: Comparison between expected and actual results.
+
+System Configuration: List of operating systems and browsers where the error occurs.
+
+Severity: Level of criticality and urgency to resolve the error.
+
+Optional Fields
+Description: Additional information if the title is not clear enough about the defect.
+
+Preconditions: Requirements that must be met before performing the test.
+
+Postconditions: Actions needed to restore the system to its original state after testing.
+
+Additional Materials: Supporting elements, such as screenshots or screencasts, to help illustrate the error.

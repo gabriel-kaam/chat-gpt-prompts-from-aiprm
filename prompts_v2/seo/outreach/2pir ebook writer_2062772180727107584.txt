@@ -1,0 +1,85 @@
+AuthorName: Twopir Support
+AuthorURL: https://twopirconsulting.com
+
+Title: 2pir Ebook Writer
+Activity: Outreach
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: This prompt ensures your e-books are detailed, actionable, and aligned with your requirements, delivering value to readers while maintaining a consistent, professional style. Let me know if you’d like adjustments or have a specific topic in mind!
+
+RevisionTime: 2025-03-06T13:02:22.544Z
+ID: 2062772180727107584
+PromptHint: Give us details for E-BOOK TITLE, TOPIC(your specific subject) & Target Audience
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/outreach/2062772180727107584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "2pir Ebook Writer"](https://www.aiprm.com/prompts/seo/outreach/2062772180727107584/)_"
+---
+Generate a 10,000–15,000 word e-book titled [E-BOOK TITLE] in a professional, approachable, and solution-focused style. The e-book must be technically rigorous, offering actionable insights for implementing [TOPIC] within the Salesforce ecosystem (e.g., Salesforce CRM, Marketing Cloud, Service Cloud). Structure the e-book into well-defined sections with in-depth explanations, real-world examples, and practical steps, meeting the word count while delivering maximum value to [TARGET AUDIENCE].
+
+Target Audience:
+
+[Specify the audience, e.g., Salesforce Administrators, Developers, or Business Leaders]. Tailor the content to their needs—e.g., focus on administrative configurations for Administrators, or include code snippets and technical depth for Developers.
+
+Tone:
+
+Professional yet conversational, blending technical authority with accessibility. Emphasize practical, actionable solutions to real-world Salesforce challenges, using active voice and clear explanations of technical terms.
+
+E-Book Structure:
+
+Introduction (500–700 words)
+Hook readers with a compelling opener (e.g., a statistic like “In 2023, 65% of Salesforce users struggled with X—[TOPIC] solves this”) or a relatable scenario.
+State the e-book’s purpose, the specific Salesforce challenges it addresses, and the key benefits for readers.
+Introduce [TOPIC], its relevance to modern Salesforce ecosystems, and why it matters to [TARGET AUDIENCE].
+Chapter 1: Understanding [TOPIC] (1,500–2,000 words)
+Core Concepts: Define [TOPIC], tracing its history and evolution within Salesforce. Use relatable analogies (e.g., “Think of [TOPIC] as the engine driving your Salesforce workflows…”).
+Technical Breakdown: Detail 5–7 key elements (e.g., features, processes, or technologies), with Salesforce-specific examples (e.g., how [TOPIC] integrates with Lightning).
+Problem-Solving Context: Highlight 2–3 common challenges [TOPIC] addresses, supported by mini case studies (e.g., “A healthcare firm cut reporting time by 40% using [TOPIC]…”).
+Chapter 2: Implementing [TOPIC] in Salesforce (2,000–2,500 words)
+Step-by-Step Process: Provide a clear, detailed guide to implementing [TOPIC], including:
+Pre-implementation planning (e.g., assessing system requirements or user needs).
+Setup instructions with best practices and 2–3 relevant code snippets (e.g., Apex, SOQL queries), annotated for clarity.
+Visual placeholders (e.g., “[Insert screenshot: Configuring [TOPIC] in Setup]”).
+Challenges and Solutions: Address 3–4 common implementation obstacles with practical fixes (e.g., “If X fails, adjust Y setting like this…”).
+Practical Tools: Include a checklist or template (e.g., “Implementation Checklist: ☑️ Validate Permissions, ☑️ Test Workflow…”).
+Chapter 3: Advanced Techniques and Use Cases (2,000–2,500 words)
+Advanced Strategies: Explore cutting-edge features or techniques of [TOPIC], showing how they enhance Salesforce functionality (e.g., “Automate X with [Advanced Feature]…”).
+Use Cases: Provide 3–4 detailed examples, each including:
+Context (e.g., “Retail Sector”).
+Challenge (e.g., “Struggled with lead tracking”).
+Solution using [TOPIC], with technical details (e.g., configuration steps or code).
+Results (e.g., “Boosted conversions by 30%”).
+Expert Tips: Include 2–3 quotes or insights from Salesforce experts (e.g., “Salesforce Architect John Smith advises…”).
+Chapter 4: Measuring Success and Optimization (1,500–2,000 words)
+Performance Metrics: Explain how to measure **[TOPIC]’s impact using Salesforce tools (e.g., reports, dashboards) and specific KPIs (e.g., “Track X to gauge efficiency”).
+Optimization Tips: Offer 3–4 strategies to refine and scale [TOPIC] (e.g., “Integrate Z to improve performance…”).
+Future Outlook: Discuss emerging trends or upcoming Salesforce features tied to [TOPIC] (e.g., “AI-driven updates will enhance [TOPIC] by 2025…”).
+Conclusion (500–700 words)
+Summarize key takeaways from each chapter, reinforcing **[TOPIC]’s value to Salesforce users.
+End with an inspiring statement (e.g., “Master [TOPIC] to unlock your Salesforce potential”).
+Add a specific call to action (e.g., “Visit TwopirConsulting.com/[TOPIC]-resources for tools and support” or “Contact Twopir Consulting for expert guidance”).
+Appendices (Optional, 500–1,000 words)
+Include a glossary of Salesforce and [TOPIC]-related terms, additional checklists, or curated links to Salesforce Trailhead modules and resources.
+Content Expansion Guidelines:
+
+Reach the 10,000–15,000 word count by weaving in multiple examples, technical details, and scenarios per chapter. For [TARGET AUDIENCE], prioritize relevant content—e.g., admin workflows for Administrators, coding examples for Developers.
+Include 5–7 code snippets (e.g., Apex triggers, JSON configs), each with a brief explanation (e.g., “This SOQL query retrieves X…”).
+Add 3–4 tables (e.g., “Comparison: [TOPIC] vs. Manual Methods”) with clear labels and concise data.
+Provide 2–3 checklists or templates in a user-friendly format (e.g., numbered steps or bullet points), with instructions for use.
+Embed 5–7 hyperlinks to Salesforce Trailhead, Twopir blog posts, or external tools, ensuring relevance and recency.
+Style and Formatting:
+
+Tone: Combine technical depth with practical guidance (e.g., “Here’s how to tackle this, step-by-step…”). Avoid overly formal language.
+Structure: Use clear, descriptive headings (e.g., “Solving Data Sync Issues”) and subheadings. Keep paragraphs short (≤5 lines) and use bullet points or numbered lists for readability.
+Readability: Target Flesch-Kincaid Grade 8–10—use simple language, define jargon, and break complex ideas into digestible parts.
+Visuals: Add placeholders for 3–5 visuals (e.g., “[Insert flowchart: [TOPIC] Process]”), specifying types like screenshots, flowcharts, or UI mockups.
+Formatting: Use Arial or Times New Roman, size 12, with 1.5 line spacing for a clean, professional look.
+Additional Instructions:
+
+Ensure technical accuracy with in-depth explanations, best practices, and Salesforce-specific context.
+Select real-world examples that resonate with [TARGET AUDIENCE] (e.g., a CRM use case for Business Leaders).
+For actionable insights, include step-by-step guides, downloadable templates, or links to Twopir Consulting resources.
+Distribute the word count as follows: Introduction (500–700), Chapter 1 (1,500–2,000), Chapter 2 (2,000–2,500), Chapter 3 (2,000–2,500), Chapter 4 (1,500–2,000), Conclusion (500–700), Appendices (500–1,000 if included).
+Give output in [TARGETLANGUAGE] only.
+
+Your task is: [PROMPT]"

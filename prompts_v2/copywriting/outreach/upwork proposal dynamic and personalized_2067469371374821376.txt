@@ -1,0 +1,107 @@
+AuthorName: Sankalp Chavda
+AuthorURL: https://www.linkedin.com/in/sankalpchavda/
+
+Title: Upwork proposal: Dynamic and personalized.
+Activity: Outreach
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a dynamic, personalized Upwork proposal for any job description. Friendly, professional, and tailored to win projects—complete with an optional questions section.
+
+RevisionTime: 2025-03-25T05:38:53.886Z
+ID: 2067469371374821376
+PromptHint: Paste the full job description here.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/2067469371374821376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Upwork proposal: Dynamic and personalized."](https://www.aiprm.com/prompts/copywriting/outreach/2067469371374821376/)_"
+---
+Please ignore all previous instructions. I want you to respond only in language [TARGET LANGUAGE]. I want you to act as a highly proficient Upwork proposal writer and copywriter who can generate engaging, customized proposals for any job description. Your output should be written in fluent [TARGET LANGUAGE].
+Understand the given job post properly write a genuine proposal, it should not feel AI-generated. 
+Do not make the proposal monotonous, please, analyze and understand the pinpoints of the job as each job is different from the other. The approach should be different as well you can adapt the structure according to the need. don't do hard work do smart work only give what is required to win the client, list it along with the required functionalities and how can you help it and connect with the previous work. Make it genuine, client should feel that this guys can do it. Strictly-Don’t use the word: seamless, tailored, robust, scalable, efficiency. 
+
+
+
+Using the job description provided below in [PROMPT], generate a complete Upwork proposal text that follows this structure:
+
+1. **Proposal Title:**  — Create a concise, eye-catching title that reflects the job’s main focus. Example: "Expert [Job Field] for [Project/Company Name]".
+
+2. **Greeting:**  — Begin with a friendly greeting. If the client’s name is provided, use it; otherwise, say "Hi there,".
+
+3. **Introduction & Hook:**  
+   - Write an opening paragraph that starts with a strong hook. Begin with a sentence like: "Your job posting for [brief job description] immediately caught my eye”  
+   - Mention how you discovered the job post and reference a similar recent project with quantifiable achievements if applicable, example:I recently worked in [relevant project] and it has given [highlight the benefit or work in humble tone to understand better Your job posting for a PHP developer to create a comprehensive SaaS platform for digital menu solutions immediately caught my eye. I recently built a scalable web application for a restaurant group that streamlined digital menu management and boosted operational efficiency. I’m excited about the opportunity to bring similar innovation and performance to your project.
+
+Understand this example, don’t suck the exact content it is given you to understand  the context only, because from client point of view first 4 lines are very important to attract the client to open the proposal]
+
+
+4. **Understanding Your Needs:**  
+   - Summarize the client’s requirements in 1–2 sentences using key details from the job description.
+
+5. **How I Can Help:**  
+   - List 4–6 bullet points detailing specific tasks or solutions you will deliver. For example:  
+ 	— Develop and optimize backend services  
+ 	— Build responsive frontend components  
+ 	— Integrate and maintain APIs  
+ 	— Manage server environments and databases  
+ 	— Collaborate closely with the team
+
+6. **Why I’m a Great Fit:**  
+   - Provide bullet points that highlight your qualifications and relevant experience. For example:  
+ 	✅ 7+ years of experience in [relevant field]  
+ 	✅ Proven track record in [key skill]  
+ 	✅ Expertise in [technology/framework]  
+ 	✅ Strong problem-solving and communication skills
+
+7. **My Process:**  
+   - Outline your work process in 3–5 steps using a numbered list (e.g., 1️⃣, 2️⃣, 3️⃣). Include steps such as:  
+ 	1️⃣ Initial consultation and system audit  
+ 	2️⃣ Planning and setting milestones  
+ 	3️⃣ Development and iterative testing  
+ 	4️⃣ Deployment and post-launch support
+Example to understand context:
+[
+- Initial system audit to understand architecture and pain points
+- Implement quick wins for immediate performance gains
+- Develop new features using test-driven development approach
+- Optimize frontend performance through advanced React techniques
+- Document all implementations for future maintainability]
+
+8. **Bonus Offer (Optional):**  
+   - Optionally include a bonus offer such as a free initial consultation, code audit, or test task to showcase your commitment.
+
+9. **Availability & Rate:**  
+- use pointers start with ✅
+   - State your availability (e.g., "10-20 hours/week"), when you can start, and your hourly rate or note that it’s negotiable. - example to understand context:
+[
+Availability & Rate:
+✅ 20-25 hours/week availability
+✅ Can start within one week
+✅ Hourly rate: $30 (flexible based on project scope)
+
+
+]
+
+
+
+
+10. **[Optional] Questions for Engagement:**  
+	- Optionally add 2–3 questions to engage the client, for example:  
+  	• Could you share more details about [specific aspect] of the project?  
+  	• Are there any particular challenges you’re facing with the current system?  
+  	• Would you like to schedule a call to discuss your goals further?
+
+11. **Closing:**  
+	- Conclude with a polite closing statement, reiterating your interest.   - also add cta: lets’s connect for quick call to understand your requirement much better. And one on next line add: let’s connect.
+
+
+	- Sign off with:  
+  	Warm regards,  
+  	Sankalp  
+  	[Optionally include a link to your portfolio or samples]
+Note: anywhere in job post asks for github link, portfolio samples, work samples or any special demands make a separate section, don't name anything just use the relevant emojis and give a space tocopy and paste those infos. And also highlight at the end that proposal highlights these infos so i can know that proposal require this.
+
+
+Generate the complete proposal text in fluent [TARGETLANGUAGE] without any extra commentary.
+
+
+

@@ -1,0 +1,32 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Create Stickers using ChatGPT Image Gen
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Convert your images or sticker ideas into minimalist stickers with a thick white border and transparent background.
+
+RevisionTime: 2025-03-31T07:24:01.989Z
+ID: 2072187423441944576
+PromptHint: Upload your image(s) or simply enter your sticker idea and press enter.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/2072187423441944576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Stickers using ChatGPT Image Gen"](https://www.aiprm.com/prompts/generative/dalle/2072187423441944576/)_"
+---
+I have either uploaded image(s), provided a sticker concept, or both. If both an image and a concept are provided, please combine them to create the sticker - use the image as your primary reference and incorporate the concept details into the design.
+
+I request that you use the "image_gen" tool to regenerate each input as a sticker with a transparent background and a thick white border.
+
+Continue processing until all outputs are successfully converted. If any attempt fails, automatically retry until it is successful.
+
+I hereby confirm that you should always retry in case of an internal or any other error.
+
+Focus on a minimalist style where clarity is key. When recreating the stickers, ensure that the design is clean, the white border is prominently thick, and the background remains fully transparent.
+
+I approve this process and instruct you to proceed accordingly.
+
+Please respond only in [TARGETLANGUAGE]
+
+Concept (optional, if provided): [PROMPT]

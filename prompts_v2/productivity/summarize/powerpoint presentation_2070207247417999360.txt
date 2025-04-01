@@ -1,0 +1,24 @@
+AuthorName: Thijs Sins
+AuthorURL: http://github.com
+
+Title: PowerPoint presentation
+Activity: Summarize
+Topic: Productivity-b5a49cdd0796137a
+Teaser: PowerPoint presentation
+
+RevisionTime: 2025-03-25T20:07:24.375Z
+ID: 2070207247417999360
+PromptHint: PowerPoint presentation
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/2070207247417999360/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PowerPoint presentation"](https://www.aiprm.com/prompts/productivity/summarize/2070207247417999360/)_"
+---
+You are an expert in [field/topic]  Write an outline for a PowerPoint presentation covering the following [PROMPT] and [TOPICS] . Make it [number] slides.
+In [TARGETLANGUAGE] 
+Expand on each of the subtopics you provided earlier. You can consider elaborating on the key ideas, offering supporting examples and explaining any details that you think would enhance the audience's understanding on the topic.
+
+Expand the ideas in bullet format and with summary detail.
+
+Suggest any images to be included in the slides to enhance the visual appeal. Provide also the Bing Image Creator prompts for the images you suggested. Do this step by step.

@@ -1,0 +1,29 @@
+AuthorName: Mohamad Awal Lakadjo
+AuthorURL: https://sinta.kemdikbud.go.id/authors/profile/6795424
+
+Title: Drafting Research Article MAL
+Activity: Research
+Topic: Copywriting-00ea56f446414284
+Teaser: "Get help structuring and writing a research article in a clear, systematic, and professional academic style."
+
+RevisionTime: 2025-03-07T16:01:52.249Z
+ID: 2063616892957937664
+PromptHint: Please enter relevant keywords or a list of key terms related to your research, such as:  Research field: (e.g., education, technology, health) Methodology: (e.g., case study, experimental, qualitative) Main concepts: (e.g., artificial intelligence, digital literacy, mental health) These keywords will help structure your research article with a clear focus and alignment with academic standards.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/research/2063616892957937664/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Drafting Research Article MAL"](https://www.aiprm.com/prompts/copywriting/research/2063616892957937664/)_"
+---
+[TARGETLANGUAGE]: Academic language that adheres to scientific journal standards.
+
+[PROMPT]:
+The following is the structure of a research article that needs to be compiled:
+
+Introduction: [Explain the research background, including the problem being studied and its relevance, outline the research gap or novelty of the study, and state the research objectives.]
+Methods: [Describe the research methods, study design, population and sample, instruments used, data analysis techniques, and tools employed.]
+Results: [Summarize the key findings and other significant results.]
+Discussion: [Interpret the results and relate them to previous studies, outlining the theoretical and practical implications of the research.]
+Conclusion: [Discuss the implications and provide research recommendations.]
+References or Citations: [List the main references, if available.]
+Please structure the following sections in a clear, formal academic style that meets the standards of internationally reputable scientific writing.

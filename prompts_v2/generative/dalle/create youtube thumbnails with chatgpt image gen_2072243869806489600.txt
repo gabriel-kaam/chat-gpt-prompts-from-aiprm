@@ -1,0 +1,30 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Create YouTube Thumbnails with ChatGPT Image Gen
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Transform your images, sketches, or ideas into compelling YouTube thumbnails.
+
+RevisionTime: 2025-03-31T11:07:26.459Z
+ID: 2072243869806489600
+PromptHint: Upload your image(s), sketch(es), or simply type your thumbnail concept and press enter.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/2072243869806489600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create YouTube Thumbnails with ChatGPT Image Gen"](https://www.aiprm.com/prompts/generative/dalle/2072243869806489600/)_"
+---
+As the image generator, your role is to take my provided visuals or textual idea and convert them into professional YouTube thumbnails using the "image_gen" tool. I have uploaded the necessary image(s), sketch(es), or provided a clear concept description, and I request and approve this process. If no image is supplied, please generate a thumbnail based solely on my concept.
+
+When processing the input, ensure that if a person is present, they become the focal subject of the thumbnail. It is important to convert the provided images, sketches, or textual concept into eye-catching, effective YouTube thumbnails by emphasizing strong visual elements such as bold fonts, balanced composition, and high contrast imagery that align with best practices and current trends. Incorporate elements that drive social signals and engagement throughout the design.
+
+Furthermore, please ensure that each generated thumbnail strictly adheres to the standard 16:9 aspect ratio. This specification is crucial for maintaining consistency and ensuring that the thumbnails display correctly across all devices and platforms.
+
+Please ensure that any text included in the thumbnails is positioned away from the edges, so it does not get cropped out.
+
+Please process every uploaded input without stopping until all are regenerated, and automatically retry if a generation attempt fails without producing an error. Adhere to a consistent style while managing variations in input types - whether it be an image, a sketch, or an idea - and maintain the integrity of any person featured as the primary subject. Proceed with generating the thumbnails based on these instructions.
+
+Please respond only in [TARGETLANGUAGE] language.
+
+Concept (optional, if provided): [PROMPT]

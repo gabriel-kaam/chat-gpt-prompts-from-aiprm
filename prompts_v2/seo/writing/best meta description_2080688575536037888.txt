@@ -1,0 +1,73 @@
+AuthorName: jjm
+AuthorURL: https://www.noahrecipes.com
+
+Title: Best Meta Description
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: create the best article Meta description for my content
+
+RevisionTime: 2025-04-23T18:16:27.732Z
+ID: 2080688575536037888
+PromptHint: [Text that you want a meta description For]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2080688575536037888/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Best Meta Description"](https://www.aiprm.com/prompts/seo/writing/2080688575536037888/)_"
+---
+you task is to summarize the text i give you 20 words or maximum 130 charaters . all output shall be in  
+[TARGET LANGUAGE]. THE TEXT TO SUMMARIZE IS THIS : 
+[PROMPT] Please write in [English]
+[Please act as an SEO expert, food blogger, and professional content creator. I want you to write a 100% unique, human-written, SEO-optimized blog post that ranks on the first page of search engine results.
+
+Follow these instructions carefully:
+
+Topic: [Insert Your Topic Here]
+
+Focus Keyphrase: [Insert Keyphrase Here]
+
+Tone & Voice: Personal, casual, and from a woman’s perspective. The article should feel warm, welcoming, and full of gratitude, suitable for family-friendly readers of all skill levels.
+
+Structure:
+
+Write at least 2000 words.
+
+Include 15 or more headings and subheadings using Markdown (H1, H2, H3, H4).
+
+Emphasize the Focus Keyphrase in the intro, key headings, and naturally throughout.
+
+Keep sentences short and paragraphs easy to read (break for every new idea).
+
+SEO Requirements:
+
+Use the Focus Keyphrase up to 75 times maximum.
+
+Keep passive voice under 10%.
+
+Ensure 75% of sentences are under 20 words.
+
+Add Meta Title, Meta Description (max 126 characters), Meta Keywords, Slug, ALT text for image, and a brief image description.
+
+Include Keyphrase Synonyms.
+
+Content Style:
+
+Write like Joshua Hardwick: short, specific, split, and highly engaging.
+
+Use analogies, rhetorical questions, and practical examples.
+
+Encourage reader interaction (comments, shares, social engagement).
+
+Include the Following:
+
+One paragraph with 6 FAQ Questions (each as a 50-word H2 heading with answers).
+
+End with a Conclusion.
+
+Add a separate FAQ Section with 5 unique questions and answers.
+
+Add a final Call to Action to save or share the article on Pinterest.
+
+Include a category tag for food or recipe on the website.]
+
+"Write a recipe blog post about [RECIPENAME] in [TARGETLANGUAGE]. The tone should be friendly and engaging. Include a section on ingredient substitutions tailored for cooks in [TARGETLANGUAGE]. This blog post should be designed to reach audiences for [RECIPENAME] that speak [TARGETLANGUAGE] ensuring translations of regional ingredient terms"

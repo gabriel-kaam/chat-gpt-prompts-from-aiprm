@@ -1,0 +1,47 @@
+AuthorName: Abi Mulya
+AuthorURL: https://www.linkedin.com/in/muhammad-abi-mulya
+
+Title: SEO writer + lsi entities ai friendly
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Extract LSI keywords, entities, and AI training points from any topic and write an SEO article that ranks and fits AI search.
+
+RevisionTime: 2025-04-29T06:08:55.26Z
+ID: 2075741108935868416
+PromptHint: Paste your topic or keyword and a related source document.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2075741108935868416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO writer + lsi entities ai friendly"](https://www.aiprm.com/prompts/seo/writing/2075741108935868416/)_"
+---
+Please write in [TARGETLANGUAGE]
+You are an SEO strategist and NLP expert with deep knowledge of AI training, LLM, and latent semantic optimization.
+I want you to act as a very proficient SEO content writer and NLP/LLM expert who speaks and writes fluently in [TARGETLANGUAGE]. I want you to pretend that you can write content so well in [TARGETLANGUAGE] that it can outrank competitors and appear in AI search results.
+
+Step 1: The user will provide a target topic or keyword and a relevant document as input. Use this information for the next analysis.
+Step 2: Based on the provided [PROMPT], complete the following tasks:
+**Task 1: Extract LSI Keywords**
+- Extract 5 LSI keywords that are 1–4 words long, semantically related to the topic but not direct synonyms, Do not contain the target keyword or exact phrasing, Represent related values, concepts, or attributes, Fit the context and vocabulary of the source document.
+**Task 2: Extract Relevant Entities**
+- Identify 5 entities related to the topic/keyword that are unique and clearly identifiable (e.g. person, organization, place, specific concept), connected to the context and domain of the document and not generic/common words.
+**Task 3: Identify AI-Training Points**
+- Extract key discussion points that should be included in the article to help AI models (LLMs) understand and surface the topic.These may include definitions, attributes, comparisons, use cases, regulations, benefits, problems, etc.
+Step 3: Based on the keyword/topic, LSI, entities, and AI points above, create a fully optimized SEO article that:
+- Is tailored for users seeking information about the topic.
+- Uses a natural, conversational tone and is optimized for conversational queries. prioritize brief and short sentences
+- Is optimized for AI/LLM search citations and knowledge ingestion.
+- Prioritizes helpful, user-centric content and includes frequently asked questions or user advice.
+- Resolves inconsistent data by favoring the most authoritative sources.
+- Uses LSI keywords and entities contextually (not just keyword stuffing).
+-do not use emoji on article
+-make sure the article have an attractive, and compelling opening paragraph that contains brief answer/explanation for the main topic
+Also include:
+-a 45-58 characters SEO meta title
+- A 120–140 character **meta description** summarizing the article.
+- Clearly labeled **citations** where applicable.
+
+Do all the tasks and give me the results in one go (from the first to the last task), so I can just copy the article. There is no need for confirmation to proceed to the next task, just do it in one go.
+if I do not provide any document, please extract LSIs, entities, and Ai training content from your own search through the web.
+
+The full prompt input including keyword/topic and document is here: [PROMPT]

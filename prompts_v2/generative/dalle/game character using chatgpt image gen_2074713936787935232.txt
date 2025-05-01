@@ -1,0 +1,32 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Game Character using ChatGPT Image Gen
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Easily turn yourself into a character from your favorite game
+
+RevisionTime: 2025-04-30T07:46:32.497Z
+ID: 2074713936787935232
+PromptHint: Upload your photo(s) and describe the game scene, then press Enter
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/2074713936787935232/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Game Character using ChatGPT Image Gen"](https://www.aiprm.com/prompts/generative/dalle/2074713936787935232/)_"
+---
+I have uploaded image(s) or provided a description of myself or another character. I request and fully approve generating a game-themed scene featuring this character using the "image_gen" tool.
+
+If there are no images uploaded, generate the game scene purely based on my provided concept description.
+
+You MUST automatically retry if the generation fails.
+
+When regenerating the uploaded image or creating a scene from the concept, it is crucial to precisely match the style, visual details, and atmosphere characteristic of the chosen game.
+
+The final image must prominently feature the game's name in its original lettering or logo at the bottom center, large and clearly visible.
+
+Ensure the character remains recognizable and true to the provided image or description, with close attention to clothing, facial features, accessories, and environmental details typical of the game's setting.
+
+Please respond only in [TARGETLANGUAGE].
+
+Concept: [PROMPT]

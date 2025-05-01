@@ -1,0 +1,30 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Create Easter card using ChatGPT Image Gen
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Create a virtual Easter card from your uploaded image(s) or provided concept.
+
+RevisionTime: 2025-04-30T07:46:49.624Z
+ID: 2078744047375896576
+PromptHint: Please upload your image(s) or enter your concept and custom text - then press enter when ready
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/2078744047375896576/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Easter card using ChatGPT Image Gen"](https://www.aiprm.com/prompts/generative/dalle/2078744047375896576/)_"
+---
+I have uploaded my image(s) (or provided my concept). You must use the **image_gen** tool to generate the output. The **Easter greeting card** must capture the exact features of the character from my photo. Design a modern, visually appealing Easter card using a fresh spring palette and any decorative motifs you find suitable. Seamlessly incorporate any text included in the Concept; **if no text is provided, write the headline “Happy Easter” across the top**. Use creative discretion to achieve a balanced, professional composition.
+
+I request and approve the creation of a stylized virtual Easter card. If the generation fails, please retry automatically.
+
+Focus on accurately replicating the character's details and emphasizing the overall card design. Concentrate on ensuring a hyper‑realistic illustration with a subtle paper texture and a contemporary Easter vibe.
+
+Pay close attention to the arrangement and clarity of the text, character, and decorations, ensuring that the design is sharp, clean, and faithful to the original input.
+
+Proceed accordingly using the provided image(s) and, if available, any Concept details. If no Concept is supplied, rely on the default greeting above.
+
+Please respond only in **[TARGETLANGUAGE]**.
+
+Concept (optional): **[PROMPT]**

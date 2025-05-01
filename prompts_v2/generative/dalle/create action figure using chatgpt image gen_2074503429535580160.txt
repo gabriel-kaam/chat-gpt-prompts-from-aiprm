@@ -1,0 +1,33 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Create Action Figure using ChatGPT Image Gen
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Create a hyper-realistic action figure from your uploaded image(s) or provided concept.
+
+RevisionTime: 2025-04-30T07:46:27.303Z
+ID: 2074503429535580160
+PromptHint: Please upload your image(s) or enter your concept, specify the name and accessories - then press enter when ready
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/2074503429535580160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create Action Figure using ChatGPT Image Gen"](https://www.aiprm.com/prompts/generative/dalle/2074503429535580160/)_"
+---
+I have uploaded my image(s) (or provided my concept). You must use the image_gen tool to generate the output. The action figure must capture the exact features of the character from my photo. It should be sealed in collectible blister packaging with a background featuring a futuristic circuit board pattern in blue and purple hues. The packaging must have centered bold yellow text at the top that reads "[VARIABLE1]" with a return spacing sub-lettering that says "Action Figure" in white. The full-body character should be displayed in a central transparent casing. To the right of the figure, include miniature accessories - [VARIABLE2], each in its own compartment.
+
+I request and approve the creation of a stylized plastic action figure. If the generation fails, please retry automatically.
+
+Focus on accurately replicating the character's details and emphasizing the precise packaging design. Concentrate on ensuring the hyper-realistic appearance with a subtle plastic shine and a modern tech-inspired vibe.
+
+Pay close attention to the arrangement and clarity of the text, casing, and accessories, ensuring that the design is sharp, clean, and faithful to the original input.
+
+Proceed accordingly using the provided image(s) or concept details.
+
+Please respond only in [TARGETLANGUAGE]
+
+Concept (optional, if provided): [PROMPT]
+
+[VARIABLE1:Name:John Doe]
+[VARIABLE2:Accessories:notebook, book, guitar]

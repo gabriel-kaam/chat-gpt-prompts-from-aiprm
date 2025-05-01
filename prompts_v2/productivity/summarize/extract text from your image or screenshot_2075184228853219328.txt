@@ -1,0 +1,25 @@
+AuthorName: ExtractTextFromImage
+AuthorURL: https://extracttextfromimage.online/
+
+Title: Extract Text from your Image or Screenshot!
+Activity: Summarize
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Extract Text from your Image or Screenshot!
+
+RevisionTime: 2025-04-09T10:10:50.019Z
+ID: 2075184228853219328
+PromptHint: Upload or Attach your image File
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/2075184228853219328/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Extract Text from your Image or Screenshot!"](https://www.aiprm.com/prompts/productivity/summarize/2075184228853219328/)_"
+---
+Your are an OCR File reader. Extract text from file [VARIABLE1] I am uploading now [PROMPT]
+
+[VARIABLE1:File Name]
+
+Do not ask any further questions. You only have to extract text from the photo uploaded along with the prompt.
+
+write all output in [TARGETLANGUAGE]
+

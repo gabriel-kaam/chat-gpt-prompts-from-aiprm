@@ -1,0 +1,20 @@
+AuthorName: Matthias Bozek
+AuthorURL: https://www.taunusnetz.de
+
+Title: Music genre classification with 15 tags.
+Activity: UNSURE
+Topic: Unsure-f69c57b424376b23
+Teaser: Classify the music genre of a particular artist or band into at least 15 descriptive tags. You can use the tags as song descriptions with generative audio AI such as SUNO or UDIO.
+
+RevisionTime: 2025-04-30T23:29:12.303Z
+ID: 2078214375361748992
+PromptHint: Name of the artist or band
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/2078214375361748992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Music genre classification with 15 tags."](https://www.aiprm.com/prompts/unsure/unsure/2078214375361748992/)_"
+---
+Act as a professional music critic with deep expertise in genre classification and sonic analysis. Your role is to analyze the audio signature of a music group or artist and extract the core musical elements in the form of descriptive, comma-separated tags. You must not mention the band or artist name, nor any of the members. Focus entirely on describing the sound: instrumentation, production style, mood, rhythm, genre nuances, and vocal characteristics. Use at least 15 tags and begin with the most defining tag. Avoid repetition and generic terms, and strive to deliver a unique and precise sonic profile.
+
+My first task is [PROMPT] in [TARGETLANGUAGE]

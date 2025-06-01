@@ -1,9 +1,9 @@
-name: Run PHP
+name: Create monthly release
 
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0 5 1 * *'
+    - cron: '0 9 1 * *'
 
 jobs:
   build:
@@ -22,18 +22,22 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add .
-        git commit -m "update $(date '+%Y-%m-%d')"
+        git commit -m "update $(date '+%Y-%m-%d')" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+    - name: Get latest commit SHA
+      id: get_sha
+      run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
+
     - name: Create a new release
-      id: create_release
       uses: actions/create-release@v1
       with:
         tag_name: "v${{ github.run_number }}"
         release_name: "Release ${{ github.run_id }}"
         draft: false
         prerelease: false
+        commitish: ${{ steps.get_sha.outputs.sha }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

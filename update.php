@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 define('BATCH_SIZE', 10);
 define('USER_ID', getenv('USER_ID'));
-define('DATA_URL', 'https://api.aiprm.com/api9/Prompts?Topic=&Limit=10&Offset=0&OwnerOperatorERID=' . USER_ID . '&OwnerSystemNo=1&SortModeNo=2&UserFootprint=&IncludeTeamPrompts=true');
+define('DATA_URL', 'https://app.aiprm.com/api2/prompts');
 
 function sanitize($string) {
     $string = str_replace(['&'], ['and'], $string);
@@ -34,6 +34,10 @@ EOF;
 }
 
 function fetch_prompts_in_parallel($urls) {
+    if(empty(USER_ID)) {
+        die('USER_ID is missing');
+    }
+
     $multiHandle = curl_multi_init();
     $curlHandles = [];
     $responses = [];
@@ -90,6 +94,7 @@ function handle_batch($batch, $current, $total) {
 
     foreach ($batch as $prompt) {
         $paths = get_paths($prompt);
+
         if (should_fetch_prompt($paths, $prompt->RevisionTime)) {
             $urls[$prompt->ID] = "https://api.aiprm.com/api9/Prompts/{$prompt->ID}?OperatorERID=" . USER_ID . "&SystemNo=1&Basic=true";
         }
@@ -102,6 +107,7 @@ function handle_batch($batch, $current, $total) {
     foreach ($batch as $prompt) {
         $paths = get_paths($prompt);
         $promptID = $prompt->ID;
+
         if (isset($responses[$promptID])) {
             $prompt->Prompt = json_decode($responses[$promptID])->Prompt;
             save_prompt($prompt, $responses[$promptID], $paths);

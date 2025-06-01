@@ -31,11 +31,19 @@ jobs:
       id: get_sha
       run: echo "sha=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
 
+    - name: Set tag and release name
+      id: version
+      run: |
+        TAG_NAME="v$(date +'%Y-%m')"
+        RELEASE_NAME="Release $(date +'%B %Y')"
+        echo "tag=$TAG_NAME" >> $GITHUB_OUTPUT
+        echo "name=$RELEASE_NAME" >> $GITHUB_OUTPUT
+
     - name: Create a new release
       uses: actions/create-release@v1
       with:
-        tag_name: "v${{ github.run_number }}"
-        release_name: "Release ${{ github.run_id }}"
+        tag_name: ${{ steps.version.outputs.tag }}
+        release_name: ${{ steps.version.outputs.name }}
         draft: false
         prerelease: false
         commitish: ${{ steps.get_sha.outputs.sha }}

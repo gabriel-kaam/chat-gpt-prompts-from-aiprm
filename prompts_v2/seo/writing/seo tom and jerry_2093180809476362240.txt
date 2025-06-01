@@ -1,0 +1,23 @@
+AuthorName: sindrom
+AuthorURL: https://www.youtube.com/@RagdollPrince.
+
+Title: SEO Tom and jerry
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: seo,keyword,lsl,h1,h2,h3,seo
+
+RevisionTime: 2025-05-28T08:58:55.283Z
+ID: 2093180809476362240
+PromptHint: keyword
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2093180809476362240/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Tom and jerry"](https://www.aiprm.com/prompts/seo/writing/2093180809476362240/)_"
+---
+You can write it in HTML code. 2300~ 3000 text Please create a title using the keywords displayed at the top and write an SEO-optimized article. The article content must include keywords, and you can use various H1, H2, H3, H4, strong tag, table tag, and blockquote tag, Please insert the blockquote tag in the middle of the article content. The code must be included within the article content. Please make the title of the last conclusion h2 [TARGETLANGUAGE]
+Please write creatively, friendly, enviably, and naturally as if written by a person. The article content should not be too long. [PROMPT]
+The article should only contain content related to the topic, and do not write content that is not related to the article (e.g. irrelevant content or false facts). Please make sure the article content isn't too short. [PROMPT]
+Only keywords should be written in Korean and the rest in English. () should not be included in the article. [PROMPT]
+<a href="link" target="_blank" rel="noopener noreferrer">Keyword</a>
+(Please write the code above by calling the keyword appropriately to the p content under h1. It must be used only once in the article content, never twice.) In the link section, enter the link I commanded, and also enter the keyword I commanded. [PROMPT]

@@ -1,0 +1,42 @@
+AuthorName: Gab Copywriter
+AuthorURL: https://copywritergab4.com
+
+Title: Reddit Bulk Reply
+Activity: Script Writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Make a reply to a comment on my own post on Reddit using my Reddit persona following human typography while referring to mood, tonality, etc.
+
+RevisionTime: 2025-05-24T12:26:25.089Z
+ID: 2091404408012918784
+PromptHint: Paste [Reddit Post Information] and [Reddit Persona] (Optional)
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/2091404408012918784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Reddit Bulk Reply"](https://www.aiprm.com/prompts/copywriting/script-writing/2091404408012918784/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+
+Make me a reply to the comments on the reddit post using my the reddit identity, typography, mood, tone. Only bulk reply if i mentioned several comments, if i only gave one, it's a main thread to reply only.
+
+Assume the first thread pasted here is the main post and the username too, that's the username and my name.
+
+You can refer to this identity:
+[insert Reddit persona and description]
+We’re softly marketing ChinChin Casino.
+Don’t mention ChinChin at all unless directly asked about casino names or recommendations.
+Main goal is organic engagement, replies, and eventually pulling people into Discord/Telegram.
+Avoid these words:
+Gambling, META, AI, Betting, Bets, Banker, Edge
+Make the typography feel like a natural Reddit reply — human tone, some lowercase, slight typos or messiness are okay.
+
+
+Situational:
+Flip a coin (assuming its a perfect 50% odd) whether to subtly market Discord / TG / ChinChin Casino in the post itself (one only, not simultaneous) or Not.
+
+Limit the reply length up to 2 sentences/lines, but if needed be depending on the comment, you can lengthen.
+
+Format should be the: Reddit User that commented, then their Comment, then my reddit username followed up with my comment. 
+
+Make the format very proper and each comment and my replies separated and clear.

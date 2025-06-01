@@ -1,0 +1,38 @@
+AuthorName: MetalCoder
+AuthorURL: https://portfolio-fz.vercel.app/
+
+Title: SEO Keyword Strategy & Content Plan Generato
+Activity: marketing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generate a data-driven SEO keyword strategy and weekly content plan from a single seed keyword.
+
+RevisionTime: 2025-05-06T21:36:34.967Z
+ID: 2085449979782770688
+PromptHint: Enter a single seed keyword (e.g. “vegan recipes”) or a comma-separated list of keywords.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/2085449979782770688/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Keyword Strategy & Content Plan Generato"](https://www.aiprm.com/prompts/seo/marketing/2085449979782770688/)_"
+---
+Please write in [TARGETLANGUAGE]
+
+You are an expert SEO strategist.
+1. Given the seed keyword “[PROMPT]”, generate the top [MAX_RESULTS] related keywords. For each, include:
+   - “keyword”: the related term
+   - “intent”: one of {“informational”, “navigational”, “transactional”, “commercial”}
+   - “difficulty”: a 1–100 score estimating SEO competition
+
+2. Create a content_plan array: for each of the next [MAX_RESULTS] weeks, propose:
+   - “title”: an SEO-optimized article title
+   - “publish_date”: a date spaced weekly (YYYY-MM-DD)
+   - “notes”: 1–2 bullet points of SEO best practices
+
+Write your answer in [TARGETLANGUAGE] using a [TONE] tone tailored to [AUDIENCE].
+Return **only** a JSON object with two keys:
+```json
+{
+  "keywords": [ /* array of keyword objects */ ],
+  "content_plan": [ /* array of plan objects */ ]
+}
+

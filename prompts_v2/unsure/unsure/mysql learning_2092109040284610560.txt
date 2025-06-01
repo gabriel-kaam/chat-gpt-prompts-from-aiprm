@@ -1,0 +1,41 @@
+AuthorName: Adil Ahmad
+AuthorURL: https://chatgpt.com/share/6832b86c-60c0-8009-9003-9169c2068b40
+
+Title: Mysql learning
+Activity: UNSURE
+Topic: Unsure-f69c57b424376b23
+Teaser: Create best MYSQL explanation for my content
+
+RevisionTime: 2025-05-25T06:37:18.71Z
+ID: 2092109040284610560
+PromptHint: [code that we want  learning MySQL for ]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/2092109040284610560/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mysql learning"](https://www.aiprm.com/prompts/unsure/unsure/2092109040284610560/)_"
+---
+[TARGETLANGUAGE]: English
+
+[PROMPT]:  
+You are an expert SQL tutor helping a university student prepare for MySQL viva and assignments. Explain these topics clearly and simply:
+
+- Subqueries  
+- Joins  
+- SQL Functions  
+- Control Flow (IF, CASE)  
+- Stored Procedures  
+
+For each topic:  
+1. Give a brief definition.  
+2. Show correct MySQL syntax.  
+3. Provide one example with output.  
+4. Explain a real-life use case in simple English.  
+5. Share common exam questions/problem which i practice.  
+
+Also:  
+- Explain how to combine concepts like Joins and Subqueries with an example.  
+- Suggest one real-life scenario (e.g., employee salaries or student marks) showing how to use all these features.
+Also tell me tricks that how i solved the English text problem step in MySQL sometimes it have usage of joins +subqueries etc. 
+Use beginner-friendly language, avoid unexplained abbreviations, and explain every SQL line clearly.
+

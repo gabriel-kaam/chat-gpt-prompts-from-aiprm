@@ -1,0 +1,77 @@
+AuthorName: Twopir Support
+AuthorURL: https://twopirconsulting.com
+
+Title: TwoPir - LinkedIn Post Generation
+Activity: Outreach
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a Viral LinkedIn Post for Twopir Consulting’s Salesforce Expertise
+
+RevisionTime: 2025-05-31T09:13:15.216Z
+ID: 2062772180727107584
+PromptHint: Prompt for LinkedIn 
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/2062772180727107584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "TwoPir - LinkedIn Post Generation"](https://www.aiprm.com/prompts/copywriting/outreach/2062772180727107584/)_"
+---
+**Prompt Title**: Generate a Viral LinkedIn Post for Twopir Consulting’s Salesforce Expertise
+
+**Prompt Description**: Create a 200–300 word LinkedIn post for Twopir Consulting, a Salesforce consulting firm, to be posted twice weekly. The post must follow LinkedIn best practices for virality, align with Twopir’s technically rigorous and solution-focused style, and drive engagement for a professional audience of Salesforce admins, developers, and business leaders. Use an authoritative yet approachable tone, incorporate storytelling, and include actionable insights, technical examples, and a strong call-to-action (CTA).
+
+**Prompt Instructions**:
+
+Generate a LinkedIn post (200–300 words) for Twopir Consulting, focusing on a Salesforce-related topic (e.g., automation, data integration, Flow, Apex, Platform Events, or compliance like GDPR/HIPAA). Follow this structure:
+
+1. **Hook (25–50 words)**: Start with a compelling question, statistic, or bold statement to grab attention (e.g., “Did you know 70% of Salesforce admins waste 10+ hours weekly on manual tasks?”). Include a real-world scenario or pain point relevant to Salesforce ecosystems.
+
+2. **Story or Insight (100–150 words)**: Share a brief case study, technical insight, or practical tip related to the topic. Include:
+   - A specific Salesforce tool or feature (e.g., “Flow automates X by…”).
+   - A mini-example or code snippet (e.g., Apex trigger or Flow setup).
+   - A business impact (e.g., “Saved a client 20 hours weekly”).
+   - A relatable scenario (e.g., “A retail client struggled with X—here’s how we fixed it”).
+
+3. **Actionable Takeaway (50–75 words)**: Provide one actionable tip (e.g., “Test this Flow in a sandbox to…”). Include a technical detail (e.g., “Set governor limits to avoid X”) and a measurable benefit (e.g., “Cuts sync time by 30%”).
+
+4. **Call-to-Action (25–50 words)**: End with a strong CTA encouraging engagement (e.g., “Comment your biggest Salesforce challenge!” or “DM us for a free audit!”). Suggest a specific action (e.g., “Try this in your org today”) and mention Twopir’s expertise.
+
+**Best Practices for Virality**:
+- **Tone**: Authoritative, approachable, and authentic (e.g., “Here’s the nitty-gritty…”).
+- **Engagement**: Ask a question or prompt comments (e.g., “What’s your go-to Salesforce hack?”).
+- **Hashtags**: Use 3–5 relevant hashtags (e.g., #Salesforce, #CRM, #Automation, #TwopirConsulting, #SalesforceTips).
+- **SEO Keywords**: Include primary keywords (e.g., “Salesforce Automation,” “Twopir Salesforce Solutions”) and secondary keywords (e.g., “Salesforce Best Practices,” “CRM Optimization”).
+- **Formatting**: Use short paragraphs (2–3 lines), bullet points or emojis for readability, and bold key phrases (e.g., **automation**).
+- **Readability**: Aim for Flesch-Kincaid Grade 7–8.
+- **Visual Appeal**: Suggest an accompanying visual (e.g., “Include a screenshot of a Flow setup” or “Use a chart showing time saved”).
+- **Timing**: Optimize for LinkedIn’s algorithm by suggesting posting times (e.g., “Post on Tuesday/Thursday at 9 AM EST for maximum reach”).
+
+**Constraints**:
+- Keep the post 200–300 words to maximize engagement.
+- Avoid jargon overload; explain technical terms briefly (e.g., “Governor Limits: Salesforce’s rules to prevent system overload”).
+- Do not mention competitors unless explicitly comparing services.
+- Ensure content aligns with Twopir’s brand as a Salesforce expert.
+
+**Example Output**:
+🚀 **Struggling with slow Salesforce data syncs?** Last week, a retail client told us their team spent 15 hours weekly on manual data updates. Sound familiar?  
+
+Here’s how we helped: Using **Salesforce Flow**, we automated their data pipeline, syncing 10,000 records in under 5 minutes. The trick? A simple Flow trigger that processes data in batches, respecting **governor limits**. Here’s a snippet:  
+```apex  
+trigger SyncData on Account (after update) {  
+  if (Trigger.isAfter && Trigger.isUpdate) {  
+    // Batch process to avoid limits  
+  }  
+}  
+```  
+This cut their sync time by 80%, freeing up 12 hours weekly for strategic work.  
+
+**Pro Tip**: Build a Flow in a sandbox to test batch processing—start with a small dataset to avoid hitting limits.  
+
+💬 **What’s your biggest Salesforce bottleneck?** Comment below or DM us for a free automation audit! #Salesforce #Automation #TwopirConsulting #CRM
+
+**Additional Notes**:
+- Generate a unique topic each time (e.g., Flow one week, Platform Events the next) to maintain variety.
+- If the user specifies a comparison (e.g., “Compare Flow vs. Apex”), adapt the post to compare 2–3 tools, using a mini-table (e.g., | Feature | Flow | Apex |) and highlight Twopir’s expertise in choosing the right solution.
+
+NOTE: make the vocabulary human like written and not AI and dont use typical AI like emojis
+Please write in [TARGETLANGUAGE]
+[PROMPT]

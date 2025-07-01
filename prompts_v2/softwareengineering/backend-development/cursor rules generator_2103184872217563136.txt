@@ -1,0 +1,230 @@
+AuthorName: Batuhan Aktaş
+AuthorURL: https://r10.net
+
+Title: Cursor Rules Generator
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Generate cursor rules file.
+
+RevisionTime: 2025-06-24T20:12:04.478Z
+ID: 2103184872217563136
+PromptHint: Generate cursor rules file.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/2103184872217563136/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Cursor Rules Generator"](https://www.aiprm.com/prompts/softwareengineering/backend-development/2103184872217563136/)_"
+---
+# Ultra Profesyonel .cursorrules Oluşturma Rehberi
+
+Cursor AI, yazılım geliştirme sürecini optimize etmek için güçlü bir araç olarak öne çıkıyor ve **`.cursorrules`** dosyaları bu optimizasyonun kalbidir[1][2]. Bu dosyalar, yapay zeka asistanının davranışını projenizin ihtiyaçlarına göre özelleştirmenize olanak tanır[3][4].
+
+## .cursorrules Nedir?
+
+`.cursorrules` dosyası, Cursor IDE'nin yapay zeka asistanına projenizle ilgili kurallar, kodlama standartları ve tercihler hakkında bilgi veren bir konfigürasyon dosyasıdır[4][5]. Bu dosya, projenizin kök dizininde bulunur ve AI'nın kod önerilerini, hata ayıklama sürecini ve genel davranışını yönlendirir[2][3].
+
+## Modern Cursor Rules Sistemi
+
+Cursor'un güncel versiyonlarında üç farklı rule sistemi bulunmaktadır[5][6]:
+
+### 1. Global Rules (Kullanıcı Kuralları)
+- Cursor Settings > Rules bölümünde tanımlanır
+- Tüm projelerde geçerlidir
+- Düz metin formatında yazılır[5][6]
+
+### 2. Project Rules (.cursor/rules/*.mdc)
+- Projeye özel kurallar için önerilen modern format
+- `.mdc` (Markdown Configuration) formatında yazılır[5][7]
+- Daha esnek ve ayrıntılı kontrol sağlar[3][5]
+
+### 3. Legacy .cursorrules
+- Eski format, hala desteklenir ancak önerilmez
+- Projenin kök dizininde bulunur[5][6]
+
+## Profesyonel .cursorrules Oluşturma Adımları
+
+### 1. Proje Analizi ve Planlama
+
+Etkili bir `.cursorrules` dosyası oluşturmak için öncelikle projenizi analiz edin[8]:
+
+- **Teknoloji Yığını**: Kullandığınız programlama dilleri, framework'ler ve kütüphaneler
+- **Kod Standartları**: Takımınızın kodlama kuralları ve stilistik tercihleri
+- **Proje Mimarisi**: Dosya yapısı, klasör organizasyonu ve design pattern'ler
+- **Geliştirme Süreçleri**: Test stratejileri, deployment kuralları ve dokümantasyon gereksinimleri
+
+### 2. Temel Yapı ve Format
+
+Profesyonel bir `.cursorrules` dosyası şu bölümleri içermelidir[9][10]:
+
+```markdown
+# Proje Genel Bilgileri
+# Teknoloji Yığını
+# Kodlama Standartları
+# Mimari Kuralları
+# Test ve Kalite Kontrol
+# Performans Optimizasyonu
+# Güvenlik Kuralları
+# Dokümantasyon Gereksinimleri
+```
+
+### 3. Detaylı Konfigürasyon Örnekleri
+
+#### TypeScript/Next.js Projesi için Örnek:
+```markdown
+# Proje Tanımı
+Bu proje, TypeScript ve Next.js kullanarak geliştirilmiş modern bir web uygulamasıdır.
+
+## Teknoloji Yığını
+- Frontend: Next.js 14, React 18, TypeScript
+- Styling: Tailwind CSS, Shadcn/ui
+- State Management: Zustand
+- Database: PostgreSQL, Prisma ORM
+- Authentication: NextAuth.js
+
+## Kodlama Standartları
+- Strict TypeScript kullan, any tipini kesinlikle kullanma
+- Functional component'ları tercih et
+- Arrow function kullan
+- Named export'ları tercih et
+- Kod yazarken ESLint ve Prettier kurallarına uy
+
+## Mimari Kuralları
+- Server component'ları varsayılan olarak kullan
+- Client component'ları sadece gerektiğinde kullan
+- API route'ları /app/api dizininde organize et
+- Shared component'lar /components dizininde olsun
+```
+
+### 4. Gelişmiş Konfigürasyon Teknikleri
+
+#### Modüler Yaklaşım
+Büyük projeler için kuralları kategorilere ayırın[11][10]:
+
+```markdown
+# Frontend Geliştirme Kuralları
+- React component'larında proper error boundaries kullan
+- Loading ve error state'leri her zaman implement et
+- Accessibility standartlarına uy (WCAG 2.1)
+
+# Backend Geliştirme Kuralları
+- API endpoint'lerde input validation kullan
+- Error handling middleware implement et
+- Swagger dokümantasyonu oluştur
+
+# Database Kuralları
+- Migration script'leri her zaman up/down function'lara sahip olsun
+- Index'leri performans için optimize et
+- Prepared statement'ları kullan
+```
+
+#### Custom Prompt Sistemi
+Tekrarlayan görevler için özel komutlar tanımlayın[9]:
+
+```markdown
+# Custom Komutlar
+generateComponent: "TypeScript React component oluştur, proper typing, error handling ve dokümantasyon ile"
+generateAPI: "RESTful API endpoint oluştur, validation, error handling ve Swagger dokümantasyonu ile"
+generateTest: "Jest ve React Testing Library kullanarak comprehensive test suite oluştur"
+```
+
+## Best Practices ve Optimizasyon
+
+### 1. Kuralları Kısa ve Net Tutun
+- 500 satırın altında tutmaya çalışın[5]
+- Büyük konseptleri birden fazla kurala bölerek yazın[5]
+- Belirsiz ifadeler yerine konkret örnekler verin[5]
+
+### 2. Spesifik Örnekler Ekleyin
+Yapay zeka için hem doğru hem de yanlış örnekler verin[10]:
+
+```markdown
+# Doğru Kullanım:
+const handleSubmit = async (data: FormData) => {
+  try {
+    await submitForm(data);
+  } catch (error) {
+    handleError(error);
+  }
+};
+
+# Yanlış Kullanım (Kullanma):
+const handleSubmit = async (data: any) => {
+  submitForm(data);
+};
+```
+
+### 3. Deprecated Pattern'ları Belirtin
+Kullanılmaması gereken eski pattern'ları açıkça belirtin[10]:
+
+```markdown
+# Deprecated - Kullanma:
+- Class component'lar
+- componentDidMount lifecycle method'ları
+- Eski Context API kullanımı
+
+# Bunun yerine kullan:
+- Functional component'lar
+- useEffect hook'u
+- Modern Context API
+```
+
+## Modern MDC Format'ına Geçiş
+
+Yeni projeler için `.mdc` formatını kullanın[7][12]:
+
+```yaml
+---
+description: TypeScript React component standartları
+globs: ["**/*.{ts,tsx}"]
+---
+
+# React Component Kuralları
+- Functional component'ları kullan
+- TypeScript interface'leri tanımla
+- Proper error handling implement et
+```
+
+## Takım Kuralları ve Paylaşım
+
+Takım projelerinde kuralları paylaşmak için[5]:
+
+1. **Dedicated Repository**: Ortak kuralları ayrı bir repository'de saklayın
+2. **Symlink Kullanımı**: Kuralları her projeye symlink ile bağlayın
+3. **Template Sistem**: Proje türlerine göre template'lar oluşturun
+
+## Otomatik Oluşturma Araçları
+
+Profesyonel `.cursorrules` dosyalarını otomatik oluşturmak için şu araçları kullanabilirsiniz[13][14]:
+
+- **Cursor Directory**: Package.json dosyanızı upload ederek otomatik kural oluşturma
+- **CursorRules.org**: AI destekli kural oluşturucu
+- **GitHub Template'ları**: Hazır template'lardan yararlanma[15][16]
+
+## Performans ve Güvenlik Önerileri
+
+### Performans Optimizasyonu
+```markdown
+# Performans Kuralları
+- Bundle boyutunu minimize et
+- Code splitting implement et
+- Lazy loading kullan
+- Image optimization uygula
+- Caching stratejileri belirle
+```
+
+### Güvenlik Kuralları
+```markdown
+# Güvenlik Standartları
+- Environment variable'ları .env dosyasında sakla
+- API key'leri frontend'de expose etme
+- Input validation her zaman uygula
+- HTTPS kullan
+- CORS ayarlarını dikkatli yap
+```
+
+## Sonuç
+
+Ultra profesyonel bir `.cursorrules` dosyası oluşturmak, projenizin gereksinimlerini derinlemesine anlamak ve bu gereksinimleri yapay zeka asistanının anlayabileceği net kurallara dönüştürmekle mümkündür[8]. Modern MDC formatına geçiş yaparak daha esnek ve güçlü bir konfigürasyon sistemi elde edebilir, takım çalışmanızı optimize edebilir ve geliştirme sürecinizi önemli ölçüde hızlandırabilirsiniz[3][5].
+
+Bu rehberdeki adımları takip ederek, projenize özel, sürdürülebilir ve etkili `.cursorrules` dosyaları oluşturabilir, Cursor AI'nın tüm potansiyelinden yararlanabilirsiniz.[TARGETLANGUAGE]
+[PROMPT]

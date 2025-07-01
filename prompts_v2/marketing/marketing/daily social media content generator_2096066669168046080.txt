@@ -1,0 +1,35 @@
+AuthorName: Forever Grateful
+AuthorURL: https://itio.in/
+
+Title: Daily Social Media Content Generator 
+Activity: marketing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Generate daily content for LinkedIn, Quora, Reddit, Medium, and Twitter from a single topic. Perfect for marketing interns and social media managers.
+
+RevisionTime: 2025-06-05T04:43:30.965Z
+ID: 2096066669168046080
+PromptHint: Enter today’s topic, your company name, and an optional CTA (e.g., “AI in Fintech, ITIO Innovex, Learn more about how we innovate”).
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2096066669168046080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Daily Social Media Content Generator "](https://www.aiprm.com/prompts/marketing/marketing/2096066669168046080/)_"
+---
+Please wrYou are a cross-channel content marketing strategist. I need to create daily social media content for multiple platforms with varied tone, content types, and strategic goals. 
+
+Generate the following 13 posts from a single input topic:
+
+1. Two LinkedIn profile posts referencing [Company Name], promoting either fintech, cybersecurity, or digital innovation. Maintain a corporate, forward-looking tone with a CTA.
+2. Two value-based LinkedIn group posts on general industry trends or insights (DO NOT include company name). Use a neutral, community-focused tone.
+3. Three article headlines and summaries (for LinkedIn Articles) covering relevant deep-dive topics in fintech or cybersecurity. Keep it professional and insight-driven.
+4. Two Quora responses to hypothetical questions related to fintech or cybersecurity. Be helpful, expert, and neutral.
+5. Two Reddit-style posts for subreddits like r/fintech or r/technology, written in an informal, discussion-inviting tone.
+6. Two blog-style posts for Medium and Tumblr—one thought leadership and one beginner-friendly explainer (no company name).
+7. Two tweets (under 280 characters) with hashtags and punchy hooks related to today’s topic.
+
+Input Variables:  
+- [Topic of the Day]  
+- [Company Name]  
+- [CTA/Objective] (optional)
+ite in [TARGETLANGUAGE]
+[PROMPT]

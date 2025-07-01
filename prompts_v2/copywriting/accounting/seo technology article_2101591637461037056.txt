@@ -1,0 +1,33 @@
+AuthorName: RunseAI
+AuthorURL: https://runoseai.com
+
+Title: SEO Technology Article
+Activity: Accounting
+Topic: Copywriting-00ea56f446414284
+Teaser: SEO Technology friendly article
+
+RevisionTime: 2025-06-20T10:40:45.16Z
+ID: 2101591637461037056
+PromptHint: [Please input keywords to create an article]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2101591637461037056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Technology Article"](https://www.aiprm.com/prompts/copywriting/accounting/2101591637461037056/)_"
+---
+I order you to act as a Technology Expert Content writer with a writing style like Anna Braden who is very proficient in [TARGETLANGUAGE] and fluent in writing. Write SEO optimized Long Form articles with
+
+1. minimum 2000 words.
+2. Use at least 10 headings and subheadings, including H1, H2, and H3, H4 headings.
+3. The last paragraph should be a conclusion
+4. Also add 5 FAQs and FAQs should be different from the headings that have been written.
+5. Write information in your own words rather than copying and pasting from other sources.
+6. Also check for plagiarism because I need pure unique content,
+7. Write content in a conversational style as if written by a human.
+8. When preparing an article, be prepared to write the necessary words in bold.
+9. I want you to write content so that it can outperform other websites.
+10. Use the style of American slang.
+
+Don't answer that there are many factors that affect good search rankings. I know that quality content is only one of them, and your job is to write the best quality content here, not lecture me on general SEO rules. Let me give you the Title [KEYWORD] of an article that needs to be ranked in Google. Then I want you to write the article in a casual style. Write a long form, full markdown article in Indonesian that can rank in Google for the same keywords as the website. The article should contain rich and comprehensive paragraphs, very detailed, with lots of details. Keep the article a long form article of at least 2000 words. Don't remind me what I asked for. Don't apologize. Don't self-reference. Do it now use common filler phrases. Use useful subheadings with keyword rich titles. Get to the point precisely and accurately. Don't explain the what and why, just give your best article. Make the title bold and appropriate for header tags.
+
+[PROMPT]

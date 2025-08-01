@@ -1,0 +1,25 @@
+AuthorName: Wycliffe Kamba
+AuthorURL: https://www.linkedin.com/in/wycliffe-njuguna-79018b29a/
+
+Title: Structured Mock Exam Generator by Topic
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a full mock exam in your chosen language and topic using a clear, structured exam format.
+
+RevisionTime: 2025-07-12T09:32:39.683Z
+ID: 2109547785992548352
+PromptHint: [PROMPT] = course or subject name (e.g., Basic Statistics with R, Foundations of Mathematics)   [TARGETLANGUAGE] = English, French, etc.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2109547785992548352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Structured Mock Exam Generator by Topic"](https://www.aiprm.com/prompts/copywriting/writing/2109547785992548352/)_"
+---
+Create a mock exam in [TARGETLANGUAGE] for [PROMPT] using my preferred format:
+- Title and clear instructions
+- Divide into sections by topic
+- Use a mix of definition, comparison, and scenario-based questions
+- Assign marks to each section
+- Include real-life application questions
+- Provide two separate downloadable files: one for questions and another for answers (PDF, DOCX, or TXT)
+

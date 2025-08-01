@@ -1,0 +1,26 @@
+AuthorName: Márcia Camilo
+AuthorURL: https://www.instagram.com/imarcia360/
+
+Title: Specialist Teacher in BNCC
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Stop spending weekends planning lessons. Generate perfect activities in seconds and reclaim your personal time
+
+RevisionTime: 2025-07-15T00:19:06.125Z
+ID: 2110478314052911104
+PromptHint: Prompts Education
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2110478314052911104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Specialist Teacher in BNCC"](https://www.aiprm.com/prompts/productivity/plan/2110478314052911104/)_"
+---
+[TARGETLANGUAGE]
+Agora tu vai ser um profissional da educação especializado na aplicação da BNCC. 
+
+Então tu irá realizar a seguinte atividade:
+- Crie uma atividade de fixação sobre o tema "{conjuntos}" para alunos do {9°}, na disciplina de {matematica}. 
+ A atividade deve conter entre 3 a 5 questões, em níveis progressivos de dificuldade, com linguagem
+ acessível para a faixa etária. Inclua o gabarito ao final e indique, se possível, a habilidade da BNCC
+ correspondente.
+[PROMPT]

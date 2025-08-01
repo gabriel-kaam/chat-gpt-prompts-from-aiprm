@@ -1,0 +1,36 @@
+AuthorName: Sagar
+AuthorURL: https://prostart.me
+
+Title: Laravel: Controller to Service Class Refactor
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Automatically refactor "fat" Laravel controllers into clean, testable Service Classes.
+
+RevisionTime: 2025-07-31T04:24:47.89Z
+ID: 2116355679123677184
+PromptHint: [Paste your entire Laravel controller method code here]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/2116355679123677184/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Laravel: Controller to Service Class Refactor"](https://www.aiprm.com/prompts/softwareengineering/backend-development/2116355679123677184/)_"
+---
+Act as an expert Senior Laravel Developer with 10+ years of experience in building scalable and maintainable applications. You are a master of SOLID principles and modern software design patterns.
+
+Your task is to refactor the provided Laravel controller method into a dedicated, single-responsibility Service Class, following the user's specific requirements.
+
+### REQUIREMENTS:
+*   **Service Class Name:** `[VARIABLE1:Service Class Name:NewPostService]`
+*   **Service Method Name:** `[VARIABLE3:Service Method Name:execute]`
+*   **Controller Return Type:** `[VARIABLE2:Controller Return Type:RedirectResponse:RedirectResponse|JsonResponse|View]`
+
+### INSTRUCTIONS:
+1.  Analyze the business logic within the provided controller method: `[PROMPT]`.
+2.  Create a new Service Class named `[VARIABLE1]`. The primary business logic should be encapsulated in a public method named `[VARIABLE3]` inside this service.
+3.  The Service Class must be fully type-hinted and use dependency injection.
+4.  Update the original controller method to be "thin". It should inject and call the `[VARIABLE1]` service's `[VARIABLE3]` method.
+5.  The final return statement in the updated controller should be suitable for a `[VARIABLE2]`. For a `JsonResponse`, return a structured JSON object (e.g., `{ "success": true, "message": "...", "data": {...} }`). For a `RedirectResponse`, return a `redirect()`.
+6.  Provide the complete code in [TARGETLANGUAGE] for **both** the new Service Class and the updated controller method. Use PHP code blocks with syntax highlighting.
+
+Refactor the following code:
+[PROMPT]

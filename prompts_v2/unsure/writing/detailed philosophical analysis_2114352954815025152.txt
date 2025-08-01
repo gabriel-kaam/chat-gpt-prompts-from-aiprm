@@ -1,0 +1,30 @@
+AuthorName: Muhammad Shayan Saleemi
+AuthorURL: https://saleemmuhammadshayan.com/
+
+Title: Detailed Philosophical Analysis
+Activity: writing
+Topic: Unsure-f69c57b424376b23
+Teaser: Answering the Philosophical questions and queries
+
+RevisionTime: 2025-07-28T07:49:26.019Z
+ID: 2114352954815025152
+PromptHint: Philosophical Topic
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/writing/2114352954815025152/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Detailed Philosophical Analysis"](https://www.aiprm.com/prompts/unsure/writing/2114352954815025152/)_"
+---
+[TARGETLANGUAGE]Act as a philosophy teacher
+
+I am new the field of philosophy and I want to know about it from the scratch.
+
+Give a detailed answer about the [PROMPT].
+
+NO emojis 
+
+Include quotes 
+
+Check from the reference file or pdf if [PROMPT] information is there. or if the file is given
+
+Answer must be detailed making it easier for the user to understand

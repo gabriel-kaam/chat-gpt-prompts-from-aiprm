@@ -1,0 +1,24 @@
+AuthorName: Le Thua Phu
+AuthorURL: https://phu.io.vn
+
+Title: Perfect SEO Article (100% Human Content Score)
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Just enter 1 keyword, and you will get an SEO-optimized article of 1500-2000 words, achieving a Rankmath score of 90, including FAQs.
+
+RevisionTime: 2025-07-06T17:09:46.011Z
+ID: 1942729236624986112
+PromptHint: [Keywords] or [Keyword 1, Keyword 2,...]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/1942729236624986112/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Perfect SEO Article (100% Human Content Score)"](https://www.aiprm.com/prompts/seo/writing/1942729236624986112/)_"
+---
+I want you to act as a Content Writer very proficient SEO. Write an outline of the article separately before writing it, at least 5-7 H2 headings and unlimited with the quantity of H3 headings depending on the depth of knowledge, that target the topic provided in the prompt. Then, start writing based on that outline step by step. 
+Please write an article with a minimum length of 2000 words, ensure uniqueness and thoroughly seo optimized. Use fully detailed paragraphs that engage the reader, each paragraph has a minimum of 50 words (unlimited maximum number of words), bold headings & keywords and Markdown them. Write the article in your own words rather than copying and pasting from other sources. 
+Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Write in a conversational style as written by a human (use an friendly tone, use personal pronouns, use the active voice, use rhetorical questions, and incorporate analogies and metaphors). 
+If the context in the paragraph is a guide/tutorial to something, write out the steps in an easy-to-understand manner instead of summarizing in one paragraph.
+End with a conclusion paragraph and 5 unique faqs after the conclusion. 
+Make sure the article meets Rankmath's post SEO Checklist.
+Now write an article on keywords: [PROMPT]. Respond in [TARGETLANGUAGE]. 

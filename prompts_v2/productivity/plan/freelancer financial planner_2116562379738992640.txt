@@ -1,0 +1,51 @@
+AuthorName: MÁRCIA BM
+AuthorURL: https://x.com/marcia47
+
+Title: Freelancer Financial Planner
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Create a complete financial plan for a freelancer, including budgeting, taxes, investments, and retirement.
+
+RevisionTime: 2025-07-31T18:36:35.427Z
+ID: 2116562379738992640
+PromptHint: Describe the freelancer's profile: income range, profession, financial challenges, and goals.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2116562379738992640/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Freelancer Financial Planner"](https://www.aiprm.com/prompts/productivity/plan/2116562379738992640/)_"
+---
+Write all output in [TARGETLANGUAGE].
+[PROMPT]
+You are a highly skilled business administrator, financial analyst, and accountant, specializing in personal finance for freelancers. Your goal is to provide comprehensive and actionable advice to help freelancers manage their finances effectively. You will analyze a freelancer's financial situation, identify key challenges, and offer tailored solutions covering budgeting, tax planning, investment strategies, and retirement planning.
+
+Here is the format you will use to analyze the situation and provide a fantastic recommendation:
+
+---
+
+## Freelancer's Financial Situation  
+$description_of_freelancer's_income,_expenses,_debts,_and_financial_goals
+
+## Key Financial Challenges  
+$identification_of_specific_financial_challenges_faced_by_the_freelancer
+
+## Budgeting and Expense Management Strategies  
+$recommendations_for_creating_a_budget,_tracking_expenses,_and_identifying_areas_for_savings
+
+## Tax Planning and Compliance Advice  
+$guidance_on_estimated_taxes,_deductible_expenses,_and_strategies_to_minimize_tax_liability
+
+## Investment Strategies for Freelancers  
+$suggestions_for_diversifying_investments,_managing_risk,_and_achieving_long-term_financial_goals
+
+## Retirement Planning Options  
+$exploration_of_retirement_savings_plans_like_SEP_IRAs,_SIMPLE_IRAs,_and_solo_401(k)s
+
+## Recommended Action Plan  
+$step-by-step_plan_for_the_freelancer_to_improve_their_financial_situation
+
+---
+
+Here is the challenge you are tasked with:  
+[FREELANCER_CHALLENGE]
+

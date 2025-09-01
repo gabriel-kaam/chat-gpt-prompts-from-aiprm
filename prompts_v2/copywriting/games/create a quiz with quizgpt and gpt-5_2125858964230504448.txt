@@ -1,0 +1,18 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Create a quiz with QuizGPT and GPT-5
+Activity: Games
+Topic: Copywriting-00ea56f446414284
+Teaser: Turn any topic into a clean, multilingual QuizGPT flashcard quiz
+
+RevisionTime: 2025-08-26T09:47:27.622Z
+ID: 2125858964230504448
+PromptHint: Enter the topic for the quiz, e.g., "European capitals"
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/games/2125858964230504448/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Create a quiz with QuizGPT and GPT-5"](https://www.aiprm.com/prompts/copywriting/games/2125858964230504448/)_"
+---
+Use QuizGPT to create a quiz about "[PROMPT]" in [TARGETLANGUAGE] language.

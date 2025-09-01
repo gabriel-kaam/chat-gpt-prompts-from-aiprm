@@ -1,0 +1,87 @@
+AuthorName: Abdul Rehman
+AuthorURL: https://www.shayyanadx.com
+
+Title: seo article generator with json schema
+Activity: marketing
+Topic: Copywriting-00ea56f446414284
+Teaser: generate a complete seo article with meta title, description, intro, headings, faqs, json schema & thumbnail instructions.
+
+RevisionTime: 2025-08-26T20:48:28.447Z
+ID: 2126025313787568128
+PromptHint: [article_title] or [prompt]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/2126025313787568128/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "seo article generator with json schema"](https://www.aiprm.com/prompts/copywriting/marketing/2126025313787568128/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+
+follow these exact steps:
+
+1. title (meta title)
+- length: 48–54 characters
+- format: main keyword + target audience + year
+- must be engaging and click-worthy.
+
+2. meta description
+- length: 140–158 characters
+- must start naturally with main keyword
+- write for humans, not robots
+- should improve ctr
+
+3. intro section
+- exactly 3 lines
+- within the first 100 characters, add:
+  • one short-tail keyword
+  • one long-tail keyword
+- make it seo optimized
+
+4. thumbnail instructions
+- size: 1200px x 630px
+- design: hd & realistic thumbnail matching the article theme
+- place website link “[website_url]” in the bottom-right corner
+
+5. table of contents
+- auto-generate based on the article flow
+
+6. article body
+- use short paragraphs (max 2 lines)
+- add bullet points for clarity
+- content distribution must be:
+  • 30% informational
+  • 20% decision-making
+  • 20% actionable
+  • 30% transitional
+- insert internal links (to [website_url]) and external links naturally
+
+7. headings
+- use h2, h3, h4 properly
+- keywords must appear naturally
+
+8. keywords section
+- provide a 1-paragraph list of 20 keywords (short-tail, long-tail, lsi, nlp-based)
+
+9. faq section
+- add 10 faqs from google “people also ask”
+- make them seo-optimized and natural
+
+10. json schema
+- generate schema for:
+  • article
+  • breadcrumblist
+  • faqpage
+  • website / mobile usability
+  • google discover
+
+return final output in this structure:
+- meta title
+- meta description
+- intro
+- thumbnail instructions
+- table of contents
+- article body
+- keywords
+- faqs
+- json schema

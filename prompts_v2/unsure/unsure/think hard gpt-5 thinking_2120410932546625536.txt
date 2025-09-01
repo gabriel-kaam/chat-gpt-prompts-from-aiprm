@@ -1,0 +1,41 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Think hard (GPT-5 Thinking)
+Activity: UNSURE
+Topic: Unsure-f69c57b424376b23
+Teaser: Deep reasoning for any task
+
+RevisionTime: 2025-08-11T08:58:55.649Z
+ID: 2120410932546625536
+PromptHint: [Enter your task, question, or challenge here...]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/unsure/unsure/2120410932546625536/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Think hard (GPT-5 Thinking)"](https://www.aiprm.com/prompts/unsure/unsure/2120410932546625536/)_"
+---
+<task_description>
+[PROMPT]
+</task_description>
+
+<thinking_instruction>
+Think hard about this task. Take time to thoroughly understand all aspects before responding. Consider:
+- The core requirements and any implicit assumptions
+- Potential edge cases or complexities
+- The most accurate and helpful approach
+</thinking_instruction>
+
+<output_requirements>
+- Provide your response in [TARGETLANGUAGE]
+- Be clear, accurate, and directly address the task
+- Use appropriate detail level based on the complexity of the request
+- Structure your response for maximum clarity and usefulness
+</output_requirements>
+
+<quality_standards>
+Before finalizing your response:
+1. Verify factual accuracy
+2. Ensure completeness without unnecessary verbosity
+3. Confirm the response fully addresses the original request
+</quality_standards>

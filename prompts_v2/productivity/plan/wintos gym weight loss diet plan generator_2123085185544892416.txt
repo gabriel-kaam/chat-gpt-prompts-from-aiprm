@@ -1,0 +1,35 @@
+AuthorName: Rajesh Rathor
+AuthorURL: https://wintosgym.in/
+
+Title: Wintos Gym Weight Loss Diet Plan Generator
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Get a customized full-day weight loss diet plan with calories.
+
+RevisionTime: 2025-08-19T06:46:08.988Z
+ID: 2123085185544892416
+PromptHint: Enter details like: age, gender, weight, height, vegetarian or non vegetarian
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2123085185544892416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Wintos Gym Weight Loss Diet Plan Generator"](https://www.aiprm.com/prompts/productivity/plan/2123085185544892416/)_"
+---
+The target language is [TARGETLANGUAGE].
+
+You are a certified diet and nutrition expert.  
+Create a full-day vegetarian weight loss diet plan in calorie deficit for a highly effective result.  
+
+The plan should cover:  
+- Early morning drink  
+- Breakfast  
+- Mid-morning snack  
+- Lunch  
+- Evening snack  
+- Dinner  
+- Bedtime drink  
+
+Mention calories for each meal and total calories at the end.  
+
+Here are the user details: [PROMPT]
+

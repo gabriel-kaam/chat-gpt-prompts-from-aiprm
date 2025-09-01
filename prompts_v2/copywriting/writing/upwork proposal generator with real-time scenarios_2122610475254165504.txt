@@ -1,0 +1,38 @@
+AuthorName: muhammad ans
+AuthorURL: https://bitcodesolution.com/
+
+Title: Upwork Proposal Generator with Real-Time Scenarios
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate professional Upwork job proposals with real-time scenarios and brand references to build trust.
+
+RevisionTime: 2025-08-17T10:40:47.111Z
+ID: 2122610475254165504
+PromptHint: Paste the Upwork job description here
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2122610475254165504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Upwork Proposal Generator with Real-Time Scenarios"](https://www.aiprm.com/prompts/copywriting/writing/2122610475254165504/)_"
+---
+You are an experienced freelancer writing a professional Upwork proposal in [TARGETLANGUAGE].
+
+## Job Description:
+[PROMPT]
+
+## Instructions:
+- Write a convincing and personalized Upwork proposal based on the job description above.  
+- Start with a friendly greeting and acknowledge the client’s requirement.  
+- Show understanding of the project (summarize key needs in simple words).  
+- Mention a dummy past scenario where you completed a very similar project for another client, including a realistic brand name (make it trustworthy and natural).  
+- Highlight your expertise (frontend/HTML/CSS/JavaScript or other relevant skills depending on job).  
+- Keep the tone professional but approachable.  
+- Add a call-to-action (invite them to discuss further / share samples).  
+- Keep it concise (100–150 words max).  
+
+## Output Format:
+- Greeting  
+- Short project understanding  
+- Past experience scenario (with brand name)  
+- Skills & expertise  
+- Call-to-action closing  

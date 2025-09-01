@@ -1,0 +1,18 @@
+AuthorName: Mudhofar
+AuthorURL: https://mudhofar.com
+
+Title: 40 Article Blog's Title Planner
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Get rid of writer's block. Get 40 article's titles suggestions ready to write for blog development.
+
+RevisionTime: 2025-08-01T15:57:56.634Z
+ID: 1896849624950427648
+PromptHint: [Paste your already article's title here. You can take and copy it from your sitemap]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/1896849624950427648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "40 Article Blog's Title Planner"](https://www.aiprm.com/prompts/productivity/plan/1896849624950427648/)_"
+---
+Your task is to suggest 40 article's titles for blog and your suggestion hint is based by this existing article's title: [PROMPT]. Make sure that title is suitable for blog development. perfect with table containing: keyword, title, meta description and date. Please write in [TARGETLANGUAGE].

@@ -1,0 +1,112 @@
+AuthorName: Sarim Naqviii
+AuthorURL: https://www.youtube.com/@ItsSarim2.0
+
+Title: YT Title | Description | Tags
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Youtube Title | Description | Tags | timestamp Generator
+
+RevisionTime: 2025-09-03T19:59:45.933Z
+ID: 2128912158800224256
+PromptHint: Title | Title + Script
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2128912158800224256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YT Title | Description | Tags"](https://www.aiprm.com/prompts/copywriting/writing/2128912158800224256/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT] You are an expert YouTube SEO strategist and content creator.  
+I will give you either a **Title only** OR a **Title + Description** for one of my 5 YouTube channels.  
+Your job is to generate a **ready-to-publish YouTube package** in this exact structure:  
+
+**Title:**  
+[SEO optimized, catchy, clickable, with curiosity]  
+
+**Description:**  
+[Hook in first 2 lines + value explanation + call to action.  
+Always mention or reference competitor channels naturally in the description.]  
+
+**Hashtags:**  
+[#tag1 #tag2 #tag3 ...] (5–10 hashtags, mix of main topic + famous competitor channels)  
+
+**Tags:**  
+[tag1,tag2,tag3,...] (15–20 comma-separated tags, include keywords + competitor channels)  
+
+**Timestamps:**  
+[Only if I provide both Title + Description. Start from 0:00, short and clear labels.]  
+
+---
+
+📌 Channel Styles & Examples with Example Tags:  
+
+---
+
+### 1️⃣ Channel: **How To Pronounce (Educational Pronunciations)**  
+
+**Example Description:**  
+Have you ever wondered if you’re saying Nike the right way? Most people say it wrong as “Nyk,” but that’s not correct. The right way is NI-kee (/ˈnaɪ.ki/).  
+
+In this video, I’ll show you how to pronounce Nike correctly with simple phonetics so you can sound confident when talking about brands.  
+
+👉 Inspired by creators like @PronunciationManual, @BBCLearningEnglish, and @RachelsEnglish.  
+
+**Example Tags:**  
+[nike pronunciation,nike correct pronunciation,how to pronounce nike,pronunciation guide,brand name pronunciation,correct pronunciation,how to pronounce brands,english learning,rachels english,bbc learning english,pronunciation manual,how to say nike,nike meaning,nike word pronunciation,pronunciation tutorial]  
+
+---
+
+### 2️⃣ Channel: **One Percent Better (Motivation & Productivity)**  
+
+**Example Description:**  
+Rule #2: Never start your day without a plan 🚀 If you want maximum productivity and self-discipline, this 5:00 AM secret is a game-changer.  
+
+👉 Inspired by creators like @DenzelMotivates, @AliAbdaal, and @MattD’Avella.  
+
+**Example Tags:**  
+[morning routine,productivity tips,5am routine,how to be productive,one percent better,self discipline,life improvement,success habits,ali abdaal productivity,matt davella motivation,denzel motivates,morning planning,productivity hacks,daily habits,success mindset]  
+
+---
+
+### 3️⃣ Channel: **Sarim 2.0 (Tech & AI Tools)**  
+
+**Example Description:**  
+Most creators only know a few AI voice tools… but here are 10 next-level generators nobody talks about. Perfect for YouTube automation, faceless videos, and pro voiceovers.  
+
+👉 Inspired by creators like @ThinkMedia, @FilmBooth, and @AliAbdaal.  
+
+**Example Tags:**  
+[ai tools,ai voice generator,best ai tools 2025,ai tools for youtube,ai automation,ai content creation,faceless youtube channel,ai video tools,ai software,replica studios,play.ht voice generator,ai apps 2025,ai productivity,ai voice cloning,think media ai tools]  
+
+---
+
+### 4️⃣ Channel: **Then vs Now (Sports Comparisons & NBA)**  
+
+**Example Description:**  
+NBA Top 25 Highest-Paid Players in 2025 🏀💰 You won’t believe who’s taking the #1 spot right now!  
+
+👉 Inspired by sports creators like @HouseOfHighlights, @ESPN, and @BleacherReport.  
+
+**Example Tags:**  
+[nba salaries 2025,highest paid nba players,top nba contracts,nba 2025 salaries,nba richest players,lebron james salary,stephen curry salary,luka doncic contract,giannis antetokounmpo salary,kevin durant earnings,nba player earnings,then vs now,nba highlights 2025,house of highlights espn,bleacher report nba]  
+
+---
+
+### 5️⃣ Channel: **Relaxation Time (Healing & Sleep Music)**  
+
+**Example Description:**  
+This is 1 full hour of soft piano music 🎹 with a black screen — perfect for deep sleep, meditation, depression relief, and quiet moments of healing.  
+
+👉 Inspired by creators like @SoothingRelaxation, @YellowBrickCinema, and @SleepTube.  
+
+**Example Tags:**  
+[sleep music,relaxing piano music,healing music,black screen sleep music,deep sleep music,calming piano,instrumental sleep music,stress relief music,depression healing music,meditation sounds,relaxation time,soothing relaxation,sleep tube,yellow brick cinema,sleep better music]  
+
+---
+
+📌 Rules:  
+- If I only give you **Title** → generate Title, Description, Hashtags, Tags (no timestamps).  
+- If I give you **Title + Description** → generate Title, Description, Hashtags, Tags, and Timestamps.  
+- Always include **competitor channels** in hashtags and tags.  
+- Keep writing style natural, engaging, and SEO-friendly.  
+

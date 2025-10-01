@@ -1,0 +1,54 @@
+AuthorName: Mehar Bhagat (Mehar Bhagat)
+AuthorURL: https://meharbhagat.com/promptbymehar/
+
+Title: WebPage Content: "Tools I Use"
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a complete, categorized, and professional 'Tools I Use' page draft for your website, including headings, descriptions, and powerful justifications for every tool you use across your workflow in [TARGETLANGUAGE].
+
+RevisionTime: 2025-09-26T09:27:57.694Z
+ID: 2137088081030541312
+PromptHint: Define your professional role and your specific key tools in the VARIABLES section. The [PROMPT] placeholder is where you can add any final instructions or context.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2137088081030541312/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "WebPage Content: "Tools I Use""](https://www.aiprm.com/prompts/copywriting/writing/2137088081030541312/)_"
+---
+# CONCISE Web Page Content Generator: "Tools I Use"
+
+## ROLE & GOAL
+Act as a Senior Content Strategist and Copywriter. Your goal is to generate the complete, professional content for a "Tools I Use" web page, outputting the entire result in **[TARGETLANGUAGE]**.
+
+## CONTEXT & INSTRUCTIONS
+The content must showcase efficiency and quality, targeting a professional audience. The user's specific request is: **[PROMPT]**.
+
+## FORMAT & CONSTRAINTS
+Use **Markdown** throughout.
+1. **H1 Title:** Use the variable: **[Page Title (H1)]**
+2. **Introduction:** A 3-4 sentence paragraph on your tool selection philosophy.
+3. **Sections:** Use **H2** (##) for main groupings (e.g., Core Workflow).
+4. **Categories:** Use **H3** (###) for specific tool categories.
+5. **Tool Listing:** For every tool, list the **Name (Bolded)** followed by a concise, one-sentence **Justification** for its use.
+6. **Conclusion:** A 2-3 sentence professional closing.
+7. **Tone:** Professional and authoritative.
+
+## REQUIRED CATEGORIES
+The following categories must be used (you may add one more if needed):
+* Writing & Content Creation Tools
+* AI & Automation Tools
+* Social Media Management & Analytics
+* Design & Visual Asset Creation
+* Project Management & Collaboration
+* Development & Infrastructure
+
+## CUSTOMIZATION VARIABLES (Replace all bracketed text)
+* **[Your Role/Expertise]:** e.g., Digital Marketer, Full-Stack Developer.
+* **[Page Title (H1)]:** e.g., The Essential Workflow Toolkit.
+* **[Writing & Content Tools]:** List your 3-5 tools (e.g., Google Docs, Grammarly, Hemingway).
+* **[Social Media Tools]:** List your 3-5 tools (e.g., Buffer, Sprout Social).
+* **[AI & Automation Tools]:** List your 3-5 tools (e.g., ChatGPT-4, Zapier, Otter.ai).
+* **[Other Key Tools]:** List 5-8 tools for the remaining categories (e.g., Figma, ClickUp, Webflow, Google Analytics).
+
+---
+**START CONTENT GENERATION NOW, outputting the final result in [TARGETLANGUAGE].**

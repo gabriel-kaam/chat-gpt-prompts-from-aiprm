@@ -1,0 +1,27 @@
+AuthorName: 안냥하시냥
+AuthorURL: http://ashenangel.com
+
+Title: Analyze the Website Summarize
+Activity: Accounting
+Topic: Copywriting-00ea56f446414284
+Teaser: Productivity
+
+RevisionTime: 2025-10-01T03:53:30.923Z
+ID: 2138815854220693504
+PromptHint: Summarize a given website and provide analysis
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2138815854220693504/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Analyze the Website Summarize"](https://www.aiprm.com/prompts/copywriting/accounting/2138815854220693504/)_"
+---
+[TARGETLANGUAGE][PROMPT]아래는 빌 게이츠에 대한 위키백과 링크입니다.  
+${https://ko.wikipedia.org/wiki/%EB%B9%8C_%EA%B2%8C%EC%9D%B4%EC%B8%A0}
+
+이 링크의 내용을 참고하여 한국어로 요약해 주세요.  
+
+
+
+[Output in]: korean
+[Tone]: Default
+[Writing Style]: Default

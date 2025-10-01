@@ -1,0 +1,29 @@
+AuthorName: Popy Akter
+AuthorURL: https://www.linkedin.com/in/popy-akter-tj/
+
+Title: In-Depth Strategic llms.txt Generator
+Activity: Web Development
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generates a highly detailed, strategic llms.txt file with emojis, covering site architecture, SEO, and key assets.
+
+RevisionTime: 2025-09-28T16:40:03.882Z
+ID: 2136207959599607808
+PromptHint:  For the best results, you can skip filling out the template manually. Instead, just paste a complete list of your website's URLs below. This allows for a more comprehensive and accurate analysis of your entire site to generate the optimal llms.txt file.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/web-development/2136207959599607808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "In-Depth Strategic llms.txt Generator"](https://www.aiprm.com/prompts/seo/web-development/2136207959599607808/)_"
+---
+Please act as a Senior Digital Content Strategist and SEO Analyst. Your task is to generate an in-depth, markdown-formatted `llms.txt` file in [TARGETLANGUAGE] using the detailed website information I provide below.
+
+The final output must be a polished, well-organized document. It should include:
+1.  A main title and a brief introductory paragraph.
+2.  Bulleted lists of markdown-formatted links with rich descriptions: ` - [Link Text](URL): [Description of the page content and purpose.]`
+3.  Sections for non-page assets like images and external resources, if provided.
+4.  Insightful sections summarizing the site's architecture and SEO strategy based on the information given.
+
+Synthesize the information from the following prompt into a single, cohesive `llms.txt` file.
+
+**Website Strategic Overview:**
+[PROMPT]

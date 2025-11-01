@@ -1,0 +1,86 @@
+AuthorName: Tibor
+AuthorURL: https://x.com/btibor91
+
+Title: Generate video prompts for Sora 2
+Activity: Sora
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Generate prompts for Sora 2 and Sora 2 Pro, the next-generation text-to-video generative AI by OpenAI.
+
+RevisionTime: 2025-10-07T10:50:24.919Z
+ID: 2140717768382337024
+PromptHint: 3d fluffy llama dancing on the dance floor
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/sora/2140717768382337024/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generate video prompts for Sora 2"](https://www.aiprm.com/prompts/generative/sora/2140717768382337024/)_"
+---
+# INSTRUCTIONS
+
+MODEL=[VARIABLE1]
+STYLE=[VARIABLE2]
+CAMEO=[VARIABLE3]
+
+Produce exactly one Sora prompt as plain text ≤ 1,900 characters. Output only the prompt. The prompt must be in [TARGETLANGUAGE].
+
+Model pacing
+- If MODEL=Sora 2, structure for ~10s with 6–8 clean beats
+- If MODEL=Sora 2 Pro, structure for ~15s with 8–10 clean beats
+- Do not mention model or duration in the prompt
+
+Style
+- If STYLE is set, integrate it early across look, lighting, lens, grade, edit rhythm
+- If STYLE is empty, omit style language
+
+Cameo
+- If CAMEO is set, include `@handle as [role]` once in Cast and optionally one short spoken line
+
+Keep in mind
+- Small cast ≤ 3 with one clear objective
+- One subject action and one camera move per beat, grounded physics
+- Use concrete visual nouns and precise verbs; count steps or seconds when timing matters
+- Maintain lighting logic and a stable palette (name 3–5 anchor colors)
+- Audio intent present; at most two short dialogue lines in quotes
+- No metadata tags or bullet lists in the final prompt
+
+Required structure inside the prompt (concise prose, exact labels, line breaks allowed)
+
+Logline: one sentence from the seed capturing subject, setting, action, mood
+
+Format & Look: capture medium and vibe succinctly; weave STYLE if provided
+
+Lenses & Filtration: primary focal length(s) and any diffusion or filters
+
+Grade / Palette: brief color intent and 3–5 palette anchors
+
+Lighting & Atmosphere: key direction/quality, fill/rim logic, any haze or weather
+
+Location & Framing: where we are, dominant composition elements, avoid brand signage
+
+Cast: Name — 3–5 word traits and emotion; Name — traits; Cameo: @handle — role (omit if none)
+
+Wardrobe / Props / Extras: defining wardrobe notes and 2–3 prop cues; extras described in a phrase
+
+Sound: concise ambience and foley motif; score or no-score intent
+
+Shot Plan:
+00:00–00:02 wide/medium/close, move, subject action, VOX "line" if any, SFX, quick cut
+00:02–00:04 new angle/move/action, SFX, cut type
+…continue beat lines to fill ~10s (Sora 2) or ~15s (Sora 2 Pro) with readable, short beats
+
+Dialogue:
+Speaker: "natural line"
+Speaker: "optional second line"
+
+Camera Notes: one sentence on why this reads clearly and how to keep eyeline/focus stable
+
+Finishing: grain or halation note if desired; define poster frame to hold on
+
+---
+
+User’s seed:
+
+[PROMPT]
+[VARIABLE1:Model:Sora 2:Sora 2|Sora 2 Pro]
+[VARIABLE2:Style: : |16mm film|2D cel animation|35mm film|3D CGI cinematic|80s music video|90s sitcom|Afrofuturism|Anamorphic widescreen|Anime|Art deco|Art nouveau|Bleach bypass|Blue hour lighting|Bollywood glamour|Chiaroscuro|Cinema verité|Claymation|Comic book halftone|Cozy slice-of-life|Cross-processed color|CRT broadcast|Cyberpunk|Dark fantasy|Day-for-night|Deep focus|Dieselpunk|Documentary naturalism|Dogme 95|Drone aerial|Dutch angle|Fairy-tale|Film grain heavy|Fisheye lens|Found footage|French New Wave|German Expressionism|Giallo|Golden hour lighting|Gothic romance|Graphic-novel noir|Grindhouse|Handheld realism|High fantasy|High-key lighting|IMAX large-format|Impressionism|Ink wash|iPhone-style realism|Italian Neorealism|Jidaigeki samurai|Low-key lighting|Low-poly CG|Minimalist|Mockumentary|Monochrome|Montage-driven|Music-video fast cut|Nature documentary|Neo-noir|Neon-lit night|Noir|One-take long shot|Pencil sketch look|Photoreal|Pixel art|Pop art|POV bodycam|Practical lighting|Puppet animation|Sci-fi|Security CCTV|Sepia|Shallow depth of field|Silent film|Slow cinema|Solarpunk|Soviet Montage|Spaghetti Western|Split-diopter focus|Steadicam glide|Steampunk|Stop-motion|Super 8 film|Surrealism|Synthwave|Teal-and-orange grade|Technicolor vintage|Thriller minimalism|Tilt-shift miniature|Time-lapse|Toon-shaded 3D|Vaporwave|VHS tape|Volumetric light beams|Watercolor look|Wide-angle lens|Wuxia|Y2K aesthetic]
+[VARIABLE3:Cameo:@sama]

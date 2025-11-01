@@ -1,0 +1,18 @@
+AuthorName: Satish G (Executive Assistant)
+AuthorURL: https://chat.openai.com/
+
+Title: Social Media Marketing
+Activity: marketing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Create the Social Media Marketing Title and Description
+
+RevisionTime: 2025-10-23T14:26:08.099Z
+ID: 2140661320544997376
+PromptHint: Enter the link to get the SEO based Title, Description for FB, IG, Pinterest, GMB, etc
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/2140661320544997376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Social Media Marketing"](https://www.aiprm.com/prompts/seo/marketing/2140661320544997376/)_"
+---
+Hi ChatGPT, please create the best SEO based Title, Description, Keywords, Hashtags, and Alt Text for the Social Media platforms of Instagram, Facebook, Pinterest, and Google My Business using the given link. All text should be in [TARGETLANGUAGE] SEO based Social Media Title, Description, Keywords, and Hashtag you asked for: [PROMPT] 

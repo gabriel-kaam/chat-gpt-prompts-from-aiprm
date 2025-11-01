@@ -1,0 +1,19 @@
+AuthorName: Mira Georgieva
+AuthorURL: https://courtex.pro
+
+Title: Generator of tennis video
+Activity: Kaiber AI
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Generate a cinematic short video from your text description
+
+RevisionTime: 2025-10-04T01:27:52.639Z
+ID: 2139866366797942784
+PromptHint: video topic or scene description
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/kaiber-ai/2139866366797942784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Generator of tennis video"](https://www.aiprm.com/prompts/generative/kaiber-ai/2139866366797942784/)_"
+---
+Please write in BULGARIAN [TARGETLANGUAGE]
+create a dynamic short video of  [PROMPT]  a tennis match in slow motion, focusing on powerful forehand shot, with stadium lights, dramatic atmosphere, sinematic style, sexy tennis girl, 8 seconds 

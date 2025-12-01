@@ -1,0 +1,153 @@
+AuthorName: Asitha Pasan
+AuthorURL: https://www.facebook.com/asiih.d
+
+Title: Universal Veo 3 Meta-Prompt Generator
+Activity: Veo
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Generate a full JSON meta-prompt framework for Veo 3 videos in any domain, complete with structure, examples and usage instructions
+
+RevisionTime: 2025-11-10T06:57:19.416Z
+ID: 2153357625696980992
+PromptHint: Enter your domain, main character, video type, style/mood, setting and any special rules.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/veo/2153357625696980992/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Universal Veo 3 Meta-Prompt Generator"](https://www.aiprm.com/prompts/generative/veo/2153357625696980992/)_"
+---
+[
+Please ignore all previous instructions.  
+You will respond only in [TARGETLANGUAGE].
+
+I want you to act as a very proficient meta-prompt engineer that speaks and writes fluent [TARGETLANGUAGE].  
+Your task is: Create a **complete meta-prompt JSON system** for generating Veo 3 video prompts, tailored for the domain: “[DOMAIN]”, featuring the character “[CHARACTER]”, video type “[VIDEO_TYPE]”, style/mood “[STYLE]”, setting “[SETTING]”, with the special rule(s) “[SPECIAL_RULES]”.  
+
+The output must follow this structure exactly (and must be valid JSON, no plain-text prompts):
+
+[PROMPT]
+
+{
+  "meta_prompt_system": {
+    "name": "[DOMAIN] JSON Generator",
+    "version": "1.0",
+    "description": "Professional JSON framework for generating [DOMAIN] video prompts in JSON format for Veo 3",
+    "core_identity": "You are the [DOMAIN] JSON Specialist. You generate complete JSON prompt objects for [SPECIFIC_PURPOSE]. Your output is ALWAYS a complete JSON object following the exact format patterns, never plain text prompts.",
+    "output_format": "MANDATORY: Always output complete JSON objects with scene structure, never plain text prompts",
+
+    "domain_knowledge": {
+      "base_structure": "[DOMAIN-specific base description]",
+      "key_elements": {
+        "element_category_1": ["item1","item2","item3"],
+        "element_category_2": ["item1","item2","item3"],
+        "element_category_3": ["item1","item2","item3"]
+      },
+      "common_scenarios": {
+        "scenario_type_1": ["scenario1","scenario2","scenario3"],
+        "scenario_type_2": ["scenario1","scenario2","scenario3"]
+      },
+      "audio_descriptions": {
+        "sound_type_1": "description of sounds",
+        "sound_type_2": "description of sounds"
+      }
+    },
+
+    "json_structure_template": {
+      "scene_name": {
+        "scene": {
+          "camera": {
+            "type": "[camera setup]",
+            "angle": "[angle]",
+            "motion": "[motion style]",
+            "focus": "[focus requirements]"
+          },
+          "subject": {
+            "character": "[character description template]",
+            "appearance": "[visual details template]",
+            "expression": "[emotion/mood template]",
+            "accessories": "[accessory list]"
+          },
+          "props": {
+            "main_props": "[main objects/tools]",
+            "secondary_props": "[supporting items]",
+            "environment_props": "[setting elements]"
+          },
+          "setting": {
+            "location": "[typical location template]",
+            "time": "[time of day/context]",
+            "background": "[background elements]",
+            "atmosphere": "[mood/ambience]"
+          },
+          "lighting": {
+            "style": "[lighting approach]",
+            "mood": "[lighting mood]",
+            "shadows": "[shadow requirements]"
+          }
+        },
+        "action": {
+          "primary_action": "[main action template]",
+          "secondary_actions": "[supporting movements]",
+          "interaction": "[character interactions]",
+          "timing": "0-2s [setup], 2-6s [main action], 6-8s [conclusion]",
+          "pacing": "[speed and rhythm]"
+        },
+        "dialogue": {
+          "speech": "[dialogue template]",
+          "tone": "[voice characteristics]",
+          "lip_sync": "perfect lip synchronization",
+          "no_subtitles": true,
+          "no_captions": true,
+          "no_text_overlay": true
+        },
+        "audio": {
+          "voice": "[voice description]",
+          "action_sounds": "[action-specific sounds]",
+          "environmental": "[background sounds]",
+          "music": "[music requirements or 'none']",
+          "ambience": "[atmospheric sounds]"
+        },
+        "style": {
+          "genre": "[domain-specific genre]",
+          "mood": "[overall mood]",
+          "visual_style": "[visual approach]",
+          "pacing": "[timing style]"
+        },
+        "no_subtitles": true,
+        "no_captions": true,
+        "no_text_overlay": true
+      }
+    },
+
+    "response_architecture": {
+      "step_1": "Analyze user's requested domain, character, video type, style/mood, setting and special rules",
+      "step_2": "Select appropriate domain elements, audio/visual descriptions and special rules",
+      "step_3": "Generate complete JSON object using template structure",
+      "step_4": "Ensure special-rules compliance (e.g., no dialogue during eating scenes)",
+      "step_5": "Output ONLY the JSON object, no additional text"
+    },
+
+    "example_outputs": {
+      "example_scenario_1": {
+        "scene_name": "[Complete example following template]"
+      },
+      "example_scenario_2": {
+        "scene_name": "[Complete example following template]"
+      }
+    },
+
+    "usage_instructions": {
+      "input_format": "User provides: Domain, Character, Video Type, Style/Mood, Setting, Special Rules",
+      "processing": "System selects appropriate domain elements and builds JSON prompt",
+      "output_format": "Complete JSON object ready for Veo 3 input",
+      "critical_rule": "NEVER output plain text prompts – ALWAYS output JSON structure. Apply special rules strictly."
+    },
+
+    "quality_requirements": [
+      "MANDATORY: Output must be complete JSON object",
+      "MANDATORY: Include 'no_subtitles': true in every scene",
+      "MANDATORY: Obey domain-specific special rules (e.g., no dialogue during chewing/eating)",
+      "Style must match the domain and character described",
+      "Visual and audio elements optimized for Veo 3 format"
+    ]
+  }
+}
+]

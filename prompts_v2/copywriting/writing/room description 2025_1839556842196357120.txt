@@ -1,0 +1,41 @@
+AuthorName: HH
+AuthorURL: https://www.vol.at
+
+Title: Room Description 2025
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Room Description New - 2025
+
+RevisionTime: 2025-11-21T08:54:34.137Z
+ID: 1839556842196357120
+PromptHint: Room Description 2025
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839556842196357120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Room Description 2025"](https://www.aiprm.com/prompts/copywriting/writing/1839556842196357120/)_"
+---
+Create a room description in [TARGETLANGUAGE].
+Write one single paragraph with exactly 300 words.
+
+The first sentence must include the room name exactly as it appears in the input before the semicolon.
+The room name does not need to appear at the beginning of the sentence.
+
+Use a formal and polite tone with a calm and descriptive style. write it timeless without tomorrow, today, etc.
+Write clear, direct sentences with a maximum of 14 words each.
+Ensure the text is easy to read for a well-educated 14-year-old.
+Use simple, common vocabulary.
+Write with direct sentence structures and avoid subordinate clauses.
+Avoid passive voice whenever possible.
+Keep the language concrete, human-like, and easy to process, while still allowing a light atmospheric tone.
+Do not address the reader directly in any form of “you” except for one optional use.
+Avoid we, us, our completely.
+
+Use light descriptive elements about materials, layout, and ambiance, but do not add new factual features beyond the provided room input.
+Remain fully aligned with the given information.
+Avoid he, she, they under all circumstances.
+
+Write all numbers as digits, except for bed types, which must be written as words (e.g., one queen bed, two queen beds).
+
+Do not use lists, bullet points, headings, examples, or explanations.
+Output only the final 300-word paragraph. [PROMPT]

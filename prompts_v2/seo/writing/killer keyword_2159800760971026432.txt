@@ -1,0 +1,119 @@
+AuthorName: Aaron Tonner
+AuthorURL: https://www.aarontonner.com
+
+Title: Killer Keyword
+Activity: writing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: WebRocket - Content Creation
+
+RevisionTime: 2025-11-29T22:16:42.404Z
+ID: 2159800760971026432
+PromptHint: [Type "Go!" & hit enter]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/writing/2159800760971026432/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Killer Keyword"](https://www.aiprm.com/prompts/seo/writing/2159800760971026432/)_"
+---
+[PROMPT]
+
+Your task is to act as an expert SEO copywriter with decades of experience specializing in creating high-converting service pages that rank #1 on Google and convert visitors into customers in [TARGETLANGUAGE]. Your writing is people-first, compelling, and builds immediate trust. Your writing does not plagiarise any existing content online
+
+Your task is to create a complete SEO service page for a business. Adhere strictly to the following blueprint and make the entire result copy & paste friendly (meaning no website links, we want to copy and paste directly into our CMS).
+
+First analyze the BUSINESS CORE INFORMATION below, and conduct a thorough web scrape of similar businesses based on [VARIABLE2]. Make sure the SEO content is more unique and compelling than the results and ensure not to plagiarise anything. We must stand out from all competitors.
+
+1. BUSINESS CORE INFORMATION:
+Business Name: [VARIABLE1]
+Main Keyword: [VARIABLE2]
+Business Description & Tone: [VARIABLE3] - (Use this to guide the style: professional, friendly, funny, playful, etc.)
+Location: [VARIABLE4]
+Service Add-ons: [VARIABLE5]
+Reference URL for Tone: [VARIABLE6] - (Analyze this page to mirror its communication style and format.)
+
+
+2. CONTENT BLUEPRINT & STRUCTURE:
+
+H1 Title:
+
+Must contain the exact [Main Keyword].
+
+Must be compelling and benefit-driven.
+
+Opening (First 100 words):
+
+The first 30 words must provide a crystal-clear summary of what [Business] offers.
+
+The exact [VARIABLE2] must appear naturally within the first 100 words.
+
+Hook the reader and build trust instantly.
+
+Core Service Sections (Use H2s):
+
+H2 1: "What is [VARIABLE2]?" - Provide a simple, authoritative explanation for a potential customer.
+
+H2 2: "Why Choose [VARIABLE1] for [VARIABLE2]?" - This is your differentiator. Weave the [VARIABLE3] throughout this section to convincingly explain why you are the best choice.
+
+H2 3, 4, 5...: These must be based on the provided service add-ons "[VARIABLE5]". Create an H2 for each and write a descriptive paragraph about it using a long-tail keyword or LSI for the service add-on.
+
+Sub-sections (Use H3s under relevant H2s):
+
+Elaborate on the topics above. Use semantically related keywords and variations of [VARIABLE2] methodically in these H3 titles and the opening sentences of their paragraphs (remember not to actually write "H3" in the title itself). Add more H3's that boost the conversion rate of this SEO service page by answering possible customer objections and frustrations. Communicate to them that we know and understand their struggles, and that we are here to help. 
+
+Calls-to-Action (CTAs):
+
+Conclude the final paragraph of each H2 section with a strong, urgent CTA. Make it unique to the specific H2 topic.
+
+CTA Framework: "Call our [VARIABLE2] experts to get started today!"
+
+Every CTA should be unique and guide the customer to call [VARIABLE1].
+
+FAQ Section (H2): "Your Top VARIABLE2] Questions, Answered"
+
+Generate 10 FAQs. The questions must be specific to [VARIABLE2] and its common variations.
+
+Research Directive: Simulate scanning Google's "People Also Ask" for "[VARIABLE2]" to identify the most common, relevant questions. Avoid brand-specific questions about competitors.
+
+Craft answers that are comprehensive, helpful, and likely to win the featured snippet.
+
+Local SEO & Geographical Markers (H2): "[VARIABLE2]"
+
+Create a list of at least 10 neighborhoods, cities, or landmarks in [VARIABLE4].
+
+For each, write 1-2 brief sentences that answer: "Why is [VARIABLE2] crucial near [your Specific Geographical Marker]?"
+
+Surrounding Areas: list 3 - 6 areas that surround [VARIABLE4] that we provide services in.
+
+Conclusion (Final 100-150 words):
+
+Provide a powerful summary of the page's value proposition.
+
+The exact [VARIABLE2] must appear naturally one final time.
+
+End with the ultimate CTA: A friendly, urgent push that combines the business description "[VARIABLE3]" with a direct instruction to call.
+
+3. TECHNICAL & STYLISTIC REQUIREMENTS:
+
+Word Count: Minimum 1,200 words of 100% unique, non-plagiarised content.
+
+Keyword Usage: Natural and strategic. No keyword stuffing. Use "[VARIABLE2]" keyword variations and LSI keywords throughout, especially in headings and paragraph introductions and paragraph conclusions.
+
+Tone & Style: Professional, friendly, and engaging. Emulate the style described in the [VARIABLE3] and observed on [VARIABLE6].
+
+Human Touch: The content must read as if written by a human expert for humans. Avoid robotic or generic AI phrasing.
+
+Primary Goal: This page is engineered to gain the #1 position on Google for [VARIABLE2] and its keyword variations specific to [VARIABLE4].
+
+**CRITICAL COPY INSTRUCTION: ABSOLUTELY NO REFERENCES OR CITATIONS**
+*   Under no circumstances are you to add any external references, source links, website URLs, or citations of any kind.
+*   Do not invent or mention the names of external organizations, departments, websites, or brands (e.g., "EPA," "Sustainability Dept," "Wikipedia").
+*   The final output must be 100% self-contained text. All information must be presented as original, expert knowledge from the business itself.
+*   This is non-negotiable. Any form of reference or citation is strictly prohibited.
+
+[PROMPT]
+[VARIABLE1:Business Name]
+[VARIABLE2:Main Keyword]
+[VARIABLE3:Business Description (for best results, 500 words using your business tone)]
+[VARIABLE4:Location (write as City, ST so e.g: Toronto, ON]
+[VARIABLE5: Service Add-ons (3 - 5 specific to your main keyword)]
+[VARIABLE6: URL if you have one (e.g. https://www.website.com]

@@ -1,0 +1,39 @@
+AuthorName: Yashwanth S M
+AuthorURL: https://yashwanthsm-portfolio.netlify.app/
+
+Title: Off page SEO blog prompt
+Activity: ideation
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generate a complete SEO-optimized blog post based on your keyword, with FAQs, tables, polls & more.
+
+RevisionTime: 2025-12-01T06:32:02.623Z
+ID: 2160961408983646208
+PromptHint: Enter your Target Keyword, Website URL, Blog URL, and platform (WordPress, Blogger, Medium, etc.)
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/2160961408983646208/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Off page SEO blog prompt"](https://www.aiprm.com/prompts/seo/ideation/2160961408983646208/)_"
+---
+Please write in [TARGETLANGUAGE].
+
+Keyword: {{Target Keyword}}
+Website: {{Website URL}}
+Blog URL: {{Blog URL}}
+Location: Bengaluru
+Platform/Tool: {{Blog Platform}}
+
+[PROMPT]
+
+Write a fully SEO-optimized blog post with a unique title based on the provided keyword.
+
+Requirements:
+- Content must be 100% unique every time
+- Follow the rules/format of the selected blog platform
+- Include FAQs
+- Include tables where useful
+- Include one poll question
+- Add a contact line at the end
+- Do NOT give one-line descriptions
+- Do NOT repeat or reuse content from previous responses
+

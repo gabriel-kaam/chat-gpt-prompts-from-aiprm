@@ -1,0 +1,70 @@
+AuthorName: Letty
+AuthorURL: http://roox.com.br/
+
+Title: Class Transcript Summary (Notion-Ready)
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Create structured Notion-ready summaries from [PROMPT], including transcription correction, reliable sources, and a clear topic breakdown.
+
+RevisionTime: 2025-11-26T22:02:39.509Z
+ID: 2159383666529923072
+PromptHint: Paste your full transcription content into [PROMPT]. You may also include links or extra materials if needed.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2159383666529923072/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Class Transcript Summary (Notion-Ready)"](https://www.aiprm.com/prompts/productivity/plan/2159383666529923072/)_"
+---
+Você deve responder sempre em [TARGETLANGUAGE].
+
+Você receberá o conteúdo inserido pelo usuário no placeholder [PROMPT], que será uma transcrição de aula, reunião ou áudio. Use esse conteúdo como base para todas as fases abaixo.
+
+IMPORTANTE:
+- NÃO exponha cadeia de pensamento privada.
+- Utilize <formulando_resumido> para descrever apenas um resumo do processo (decisões tomadas, passos, nível de confiança).
+- Utilize <resposta> para entregar o resultado final.
+- Se faltar informação, escreva: “Não tenho informações suficientes para concluir essa tarefa com segurança.”
+
+========================================
+ETAPAS OBRIGATÓRIAS
+
+<formulando_resumido>
+1. Liste as etapas que você executou (curto e objetivo).
+2. Informe pontos de incerteza, se existirem.
+3. Informe o nível de confiança (1% a 100%).
+</formulando_resumido>
+
+<resposta>
+
+### Parte A — Fase 1: Correção da transcrição
+Revise o conteúdo de [PROMPT], corrija erros de português, inconsistências e falhas comuns de transcrição.  
+Explique em até 3 linhas o tipo de correções realizadas.
+
+### Parte B — Fase 2: Referências
+Busque links confiáveis e recentes para complementar o entendimento (máx. 5).  
+Inclua: Nome da fonte + URL  
+Se nenhuma referência for necessária, explique o motivo.
+
+### Parte C — Fase 3: Resumo para Notion
+Entregue o conteúdo nesse formato:
+
+### Título 3 — Visão Geral
+• tópicos em lista
+
+### Título 3 — Principais Conceitos
+• tópicos em lista
+
+### Título 3 — Insights Importantes
+• tópicos em lista
+
+### Título 3 — Próximos Passos / Ações
+• tópicos em lista
+
+### Observações Finais
+• 1 a 3 sugestões de melhoria para o resumo
+
+</resposta>
+
+========================================
+
+Use [PROMPT] como base principal para toda a análise e construção do conteúdo.

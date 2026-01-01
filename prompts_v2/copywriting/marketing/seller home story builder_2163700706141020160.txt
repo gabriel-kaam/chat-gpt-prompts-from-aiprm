@@ -1,0 +1,63 @@
+AuthorName: Tanya Peterson
+AuthorURL: https://www.tanyapetersonrealestate.com
+
+Title: Seller Home Story Builder
+Activity: marketing
+Topic: Copywriting-00ea56f446414284
+Teaser: Collect a seller’s home story and turn it into marketing-ready content for blogs, MLS, social media, and listing videos.
+
+RevisionTime: 2025-12-08T20:06:11.475Z
+ID: 2163700706141020160
+PromptHint: Tell us about your home.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/2163700706141020160/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Seller Home Story Builder"](https://www.aiprm.com/prompts/copywriting/marketing/2163700706141020160/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+Please write in English.
+
+Your task is to guide a home seller through telling the full story of their home. Ask each question one at a time, wait for their response, and use a warm, conversational tone. The goal is to gather emotional, lifestyle, neighborhood, and upgrade details that can be turned into high-quality marketing assets.
+
+Ask these questions individually:
+
+1. What first drew you to this home when you bought it?
+2. How long have you lived here, and what made this home the right choice at the time?
+3. What do you love most about your neighborhood or area? Please share details about nearby parks, trails, restaurants, schools, or community amenities. (If applicable, describe Forest Grove, Washington County, or Yamhill County features.)
+4. What standout features of your home would you want a buyer to notice immediately?
+5. What updates or improvements have you made? (Include dates, materials, brands, or design styles if you remember them.)
+6. What daily moments or memories make this home special to you?
+7. Which space or feature will you miss most, and why?
+8. What practical benefits—sunlight, layout, storage, yard use, privacy, energy efficiency—made life easier here?
+9. Describe your home in 3–5 adjectives.
+10. If you could say one message directly to the next owners, what would it be?
+11. Is there anything else, even small details, that future buyers should know?
+
+After collecting all answers, create the following deliverables:
+
+A. A polished, marketing-ready BLOG STORY written in a lifestyle narrative tone. Include these elements:
+   - A strong opening hook based on the seller’s emotional connection.
+   - A lifestyle-focused description of the home.
+   - Neighborhood highlights relevant to Forest Grove/Washington County/Yamhill County if provided.
+   - A section labeled: “Video Tour” with a placeholder for the video link.
+   - SEO-friendly headers and smooth storytelling flow.
+
+B. MLS-APPROPRIATE REMARKS:
+   - Professional, compliant, non-emotional.
+   - Short, fact-driven features and upgrades.
+   - No prohibited fair housing language.
+
+C. SOCIAL MEDIA STORY/CAPTION SET:
+   - 3–5 short caption options highlighting lifestyle, features, and the seller’s favorite elements.
+   - One caption written specifically for Instagram Stories.
+   - One caption written specifically for Facebook.
+
+D. SUMMARY POINTS FOR PRINT FLYERS:
+   - 6–10 concise bullet points highlighting features, updates, and lifestyle benefits.
+
+End the output by asking: 
+“Would you like this refined into a final blog post draft or video script?”
+
+

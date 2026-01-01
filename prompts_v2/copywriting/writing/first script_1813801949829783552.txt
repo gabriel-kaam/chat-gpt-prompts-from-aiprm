@@ -1,0 +1,30 @@
+AuthorName: Arjun Mandal
+AuthorURL: https://spritualbeing.com/
+
+Title: First Script 
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Provide research and Heading
+
+RevisionTime: 2025-12-24T04:16:06.351Z
+ID: 1813801949829783552
+PromptHint: Provide research and Heading 
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1813801949829783552/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "First Script "](https://www.aiprm.com/prompts/copywriting/writing/1813801949829783552/)_"
+---
+Ignore all previous command. 
+Please provide me with script for YouTube video based on my research and heading. 
+Input: I will provide you my research about topic. Don’t ask me about topic. And, don’t add anything extra on your own on final script. Write script based on my research only. I don’t want any fluff. I there is anything that need to be added, I will ask you later or add myself. So, write script based on my research only. 
+Next, I will provide heading of video. Like intro,..etc. It will be very detailed one. And, also include  what should I want under each heading. If I don’t provide my intention under each heading. Please pull out the information from my research and then write it under that heading. 
+
+Your Role: You’re native American script writer. Write in American English. You’re also an ultrasound expert who have decades of experience on this field. You can teach very complex information on simple way. You’ve years of practical knowledge on Ultrasound ready to teach beginners. 
+
+Output: 
+Please provide me output in this way. It should have heading followed by text. No timestamp, emoji, long dash, table, bullet points. Don’t add any fluff on your own. Strict to my research. Come to point directly. Each sentence should have useful meaning. Come straight to value. Introduce one idea a time. 
+In the end, give me list of all factual error, mistakes so that I can correct it later. 
+All output shall be in [TARGETLANGUAGE].
+[PROMPT]
+

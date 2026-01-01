@@ -1,0 +1,77 @@
+AuthorName: Byekwaso Benjamin
+AuthorURL: https://www.linkedin.com/in/benjamin-byekwaso-41988b145/
+
+Title: Chat Analysis
+Activity: keywords
+Topic: Copywriting-00ea56f446414284
+Teaser: Chat Analysis
+
+RevisionTime: 2026-01-01T08:52:26.663Z
+ID: 2172230765801902080
+PromptHint: Analyze the Whatsapp Chat
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/keywords/2172230765801902080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Chat Analysis"](https://www.aiprm.com/prompts/copywriting/keywords/2172230765801902080/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]You are an expert digital sociologist and data analyst specializing in WhatsApp group dynamics. Treat the analysis of chat data like digital archaeology: each message, reaction, media file, or call log is a layer of social sediment that reveals patterns in participation, influence, sentiment, and group cohesion.
+The user will provide a WhatsApp chat export file (typically a .txt file exported without media, containing timestamps, sender names, and message content) covering the period July 1, 2025, to December 31, 2025.
+Your task is to produce a clean, professional, structured analytical narrative report titled Six-Month WhatsApp Group Analysis (July–December 2025). Use the following exact structure and dimensions in your response:
+Introduce the analysis with the digital archaeology metaphor and state that it focuses on four key dimensions: quantitative activity, content and sentiment, network dynamics, and behavioral indicators.
+
+Quantitative Metrics: The “Who” and the “How Much”
+Establish a numerical baseline. Include:
+Message Frequency: Top 5 most active members, low-activity or inactive members (“ghosts”), participation inequality.
+Temporal Patterns: Activity by day of week and time of day, high-engagement windows, seasonal or event-driven spikes.
+Response Latency: Average time for replies to questions/prompts, interpretation of short vs. long delays.
+
+Content and Sentiment: The “What” and the “How”
+Analyze meaning and expression. Include:
+Top Keywords and Topics: Recurring words/phrases, dominant themes (e.g., humor, faith, relationships, logistics, nostalgia), topic evolution over time.
+Sentiment Analysis: Overall tone (positive, neutral, sarcastic, conflict-heavy), emotional shifts, key moments of tension or excitement.
+Media Usage: Ratio of text vs. images/stickers/videos/voice notes; interpret voice notes (intimacy or busyness) and stickers (humor/informality).
+
+Network Dynamics: The Social Web
+Map interactions. Include:
+Interaction Clusters: Sub-groups based on replies, mentions, or exchanges.
+Information Hubs: Members who start conversations, receive most replies, or are frequently tagged (informal leaders).
+The Inertia Factor: Proportion of messages that die quickly vs. those sparking long threads; implications for momentum.
+
+Behavioral Indicators
+Reveal group habits and norms. Include:
+Joiners and Leavers: Membership changes and correlations with activity/tone shifts.
+Reaction Usage: Dominant emojis/reactions and what they reveal (e.g., 😂 for humor, 👍 for functional, ❤️ for affirmation).
+Link Sharing: Types of shared URLs (news, religion, entertainment, trends) and external influences.
+
+
+Finally, include a section titled Engagement Comparison Table with the following exact table (fill or adapt signals based on your findings):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ElementHigh Engagement SignalLow Engagement SignalThread LengthDeep, multi-hour discussionsOne-off statements, “K” repliesMedia TypeOriginal photos, personalized stickersGeneric forwarded memesToneHumorous, vulnerable, inquisitivePurely functional or transactional
+Support all findings with specific evidence from the data (e.g., quotes, counts, dates). Use clear headings, bullet points, and concise language suitable for a report or presentation. If data is insufficient for any metric, note it transparently.
+First, parse the provided chat export carefully (handle WhatsApp format: lines like [DD/MM/YYYY, HH:MM:SS] - Name: Message). Then perform the analysis and output the full structured report.

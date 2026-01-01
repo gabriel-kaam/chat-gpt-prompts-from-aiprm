@@ -1,0 +1,45 @@
+AuthorName: Nam Hải
+AuthorURL: https://www.facebook.com/namhai03
+
+Title: PlantUML Generator
+Activity: Design
+Topic: Applications-f69b52b4213a6bd3
+Teaser: Generate complete PlantUML code from any business description.
+
+RevisionTime: 2025-12-03T04:51:39.609Z
+ID: 2161660922363129856
+PromptHint: Enter a description of the business flow, process flow, or use case you want to convert to PlantUML. For example: "Buyer Places Order Flow", "Account Registration Flow", "Product Management Use Case".
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/2161660922363129856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "PlantUML Generator"](https://www.aiprm.com/prompts/applications/design/2161660922363129856/)_"
+---
+Please write in [TARGETLANGUAGE]
+Be a Business Analyst & UML Expert.
+
+Your task:
+- Convert the business description or user flow description into PlantUML code.
+
+- Ensure the PlantUML code is STANDARD, NO syntax errors.
+
+- Automatically select the correct diagram type:
+
+- Activity Diagram (if the description is a processing flow)
+- Sequence Diagram (if the description is an interaction between actors/systems)
+- Use Case Diagram (if the description is an overview function)
+- Present clearly, easy to read, with swimlanes when needed.
+
+Input:
+[MOTA]
+
+Requirements:
+1. Analyze the [MOTA] description.
+
+2. Select the correct UML diagram.
+3. Output the correct **complete PlantUML code**, which can be copied-pasted and run immediately.
+
+Start the answer with:
+"### PlantUML Code"
+and display ONLY PlantUML code.
+[PROMPT]

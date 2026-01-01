@@ -1,0 +1,24 @@
+AuthorName: Damian Coleman
+AuthorURL: https://affluentassociates.com/
+
+Title: Automation Opportunity Finder
+Activity: 4o Image Generation
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Discover where AI can save you 10+ hours a week.
+
+RevisionTime: 2025-12-18T07:19:55.054Z
+ID: 2149130160522907648
+PromptHint: List your daily processes, tools, and time-consuming steps.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/4o-image-generation/2149130160522907648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Automation Opportunity Finder"](https://www.aiprm.com/prompts/generative/4o-image-generation/2149130160522907648/)_"
+---
+A[TARGETLANGUAGE] [PROMPT] Act as an Automation Consultant for Affluent Associates. Analyze the workflows provided in [PROMPT] and identify automation opportunities.
+
+**Step 1 — Audit:** Describe current systems and pain points.
+**Step 2 — Quick Wins:** List 3–5 automations that can be implemented today.
+**Step 3 — System Map:** Show what to connect (Zapier, Make, or Notion).
+**Step 4 — Next Steps:** Outline how to launch and test each automation.
+

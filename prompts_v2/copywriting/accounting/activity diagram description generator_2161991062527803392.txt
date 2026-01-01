@@ -1,0 +1,48 @@
+AuthorName: Hải Nguyễn Nam
+AuthorURL: https://www.facebook.com/namhai03
+
+Title: Activity Diagram Description Generator
+Activity: Accounting
+Topic: Copywriting-00ea56f446414284
+Teaser: Write a standard SRS business flow description from an activity diagram.
+
+RevisionTime: 2025-12-04T02:56:20.591Z
+ID: 2161991062527803392
+PromptHint: Paste the activity diagram or describe the characters in the diagram
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2161991062527803392/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Activity Diagram Description Generator"](https://www.aiprm.com/prompts/copywriting/accounting/2161991062527803392/)_"
+---
+
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+Write a visual description of the flowchart including the purpose, start and end points, and steps in the flow according to the template:
+'The "Processing Cancellation Request" process describes how the system coordinates between the Customer and the Pharmacy to confirm or reject the cancellation of an order. The process ensures that the order is only canceled when there is appropriate confirmation from the relevant actors.
+Starting points:
+1. The process begins when the system waits for the customer to confirm the order.
+Ending points:
+1. The Pharmacy continues to process the order: The process ends when the customer confirms the order and the Pharmacy continues to process.
+2. The Pharmacy confirms the cancellation of the order: The process ends when the Pharmacy approves the cancellation of the order according to the customer's request.
+3. The order remains in the "Waiting for customer processing" status: The process ends temporarily when the Pharmacy ignores it, keeping the order status unchanged.
+Main Flow Description
+1. Starting from the status of waiting for customer to process, the system asks the customer to confirm the order.
+2. Check the condition “Customer confirms order?”
+- If No, move to the step where the customer requests to cancel the order or skip.
+- If Yes, the Pharmacy continues to process the order and the process ends at the Pharmacy.
+3. The customer requests to cancel the order or chooses to skip, the system transfers the information to the Pharmacy.
+4. The Pharmacy checks the consultation order to decide whether to process the cancellation request or not.
+5. Check the condition “Pharmacy processes?”
+- If Cancel is selected, the Pharmacy confirms to cancel the order and the process ends.
+- If Skip is selected, the order is kept in the status “Waiting for customer to process” and the process ends at this status." '
+
+ **Format requirements**
+- Present in a clear structure:
+- Process purpose
+- Start - end point
+- Main flow
+- Professional style in SRS standard, concise, coherent, no rambling explanations. I write the parts in the same paragraph so do not number them except for the steps.
+
+Below is the diagram that needs to be described:
+[DIAGRAM_CONTENT]

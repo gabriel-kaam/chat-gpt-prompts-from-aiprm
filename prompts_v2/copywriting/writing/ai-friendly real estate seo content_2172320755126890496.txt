@@ -1,0 +1,74 @@
+AuthorName: Raj Kumar Pawar (tekaseo)
+AuthorURL: https://www.tekaseo.com
+
+Title: AI-friendly Real Estate SEO Content 
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Real Estate SEO Content Generator | Rank Faster for Property Portals
+
+RevisionTime: 2026-01-01T14:54:50.09Z
+ID: 2172320755126890496
+PromptHint: Enter primary keyword, city & property intent
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2172320755126890496/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI-friendly Real Estate SEO Content "](https://www.aiprm.com/prompts/copywriting/writing/2172320755126890496/)_"
+---
+[VARIABLE1:Primary Keyword:Flats for Sale]
+[VARIABLE2:City / Location:Mumbai]
+[VARIABLE3:Property Type & User Intent:Apartment for Buy]
+
+You are a Real Estate Website Strategy Maker & Implementer with 10+ years of experience in SEO for Indian property listing portals and AI search optimization.
+
+Write in [TARGETLANGUAGE].
+
+Create a fully SEO-optimized, AI-friendly real estate content page based on:
+[PROMPT]
+
+INPUT DETAILS:
+- Primary Keyword: [VARIABLE1]
+- City / Location: [VARIABLE2]
+- Property Type & User Intent: [VARIABLE3]
+
+CONTENT STRUCTURE (Follow strictly):
+
+1. SEO Introduction
+- 220–350 words
+- 3–6 short paragraphs
+- Use [VARIABLE1] with geo-specific long-tail keywords for [VARIABLE2]
+- Optimized for Google, Bing, Yahoo & AI answer engines
+
+2. 5 AI-Optimized FAQ Sections (H2)
+- Each H2 must be a real user-style question
+- Clear, concise, featured-snippet-friendly answers
+- Mix informational + transactional intent
+
+3. Price / Rental / Investment Blocks
+- Property Price Overview (price ranges & trends in [VARIABLE2])
+- Rental Yield & Monthly Rent
+- Investment Potential & ROI for [VARIABLE3]
+
+4. Internal Link Placeholders
+- [View Properties in {{City}}]
+- [Check Property Prices in {{City}}]
+- [Explore {{Property Type}} for {{Intent}}]
+
+5. SEO Fields & Schema
+- SEO Title (≤60 characters)
+- Meta Description (≤160 characters)
+- URL Slug
+- Target Keywords (primary + long-tail + geo)
+- FAQ Schema (JSON-LD)
+- Article / RealEstateListing schema suggestion
+
+SEO RULES:
+- Use high-CPC real estate keywords
+- AI-friendly formatting (short paragraphs, bullets, Q&A)
+- Simple professional English for Indian audience
+- Scalable for Prime Properties–style portals
+
+OUTPUT RULE:
+Return ONLY the final SEO-ready content using proper H1, H2, H3.
+Do NOT explain the process.
+

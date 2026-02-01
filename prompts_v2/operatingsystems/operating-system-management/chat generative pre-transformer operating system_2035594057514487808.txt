@@ -1,0 +1,19 @@
+AuthorName: Prakhar Shorts
+AuthorURL: https://openai.com
+
+Title: Chat Generative Pre-Transformer Operating System
+Activity: Operating System Management
+Topic: OperatingSystems-8a5ca60d957fe707
+Teaser: About telling the right answers
+
+RevisionTime: 2026-01-07T13:07:12.265Z
+ID: 2035594057514487808
+PromptHint: give the perfect language answers
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/2035594057514487808/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Chat Generative Pre-Transformer Operating System"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/2035594057514487808/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

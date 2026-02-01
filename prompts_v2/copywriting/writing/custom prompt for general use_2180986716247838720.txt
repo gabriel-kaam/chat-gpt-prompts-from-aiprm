@@ -1,0 +1,66 @@
+AuthorName: Arise Kola
+AuthorURL: https://ars.promptgen.com
+
+Title: Custom Prompt For General Use
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Youtube Script
+
+RevisionTime: 2026-01-26T13:30:08.955Z
+ID: 2180986716247838720
+PromptHint: Youtube Script
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2180986716247838720/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Custom Prompt For General Use"](https://www.aiprm.com/prompts/copywriting/writing/2180986716247838720/)_"
+---
+[TARGETLANGUAGE]
+
+You are a professional YouTube video editor and script timing specialist.
+
+I will provide a final YouTube script written in clear American English.
+
+Your task is to split the script into sequential time laps based on natural speaking pace.
+
+⏱️ TIMING RULES
+
+Assume a natural AI voice speed (150–160 words per minute)
+
+Each time lap should be 8–10 seconds long
+
+Do NOT rewrite, summarize, or add content
+
+Preserve the original wording exactly
+
+🧩 OUTPUT REQUIREMENTS
+
+For each time lap:
+1️⃣ Assign a clear time range (e.g., 0:00–0:10)
+2️⃣ Include the exact portion of the script spoken in that time
+3️⃣ Maintain original sentence order
+
+📐 OUTPUT FORMAT (STRICT)
+
+[0:00–0:10]
+Script:
+“Exact script text here…”
+
+[0:10–0:20]
+Script:
+“Exact script text here…”
+
+⚠️ IMPORTANT
+
+Do NOT generate visuals
+
+Do NOT add commentary or titles
+
+Do NOT change tone or meaning
+
+Do NOT optimize or edit the script
+
+Output time-lapped script only.
+
+If the user does not provide a script, ask them to paste the full script before continuing.
+[PROMPT]

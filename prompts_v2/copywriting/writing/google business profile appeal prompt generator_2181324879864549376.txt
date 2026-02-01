@@ -1,0 +1,37 @@
+AuthorName: Jeff Foster
+AuthorURL: https://getlocalsiren.com
+
+Title: Google Business Profile Appeal Prompt Generator
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a concise, policy-aligned Google Business Profile suspension appeal (≤650 characters) engineered for reinstatement success by aligning directly with Google’s deceptive content and behavior guidelines.
+
+RevisionTime: 2026-01-26T11:09:12.416Z
+ID: 2181324879864549376
+PromptHint: Enter the business name, address, and Google Business Profile ID to generate a compliant, concise reinstatement appeal.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2181324879864549376/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Business Profile Appeal Prompt Generator"](https://www.aiprm.com/prompts/copywriting/writing/2181324879864549376/)_"
+---
+Please write in [TARGETLANGUAGE]
+
+[PROMPT]
+
+Act as a Google Business Profile compliance specialist.
+
+Write a professional appeal letter limited to 650 characters INCLUDING spaces requesting reinstatement of a suspended Google Business Profile.
+
+Business Name: {Business Name}
+Business Address: {Business Address}
+Google Business Profile ID: {GBP Profile ID}
+
+State that all applicable Google Maps Contribution Policies were reviewed:
+https://support.google.com/contributionpolicy/answer/7400114
+
+Confirm no deceptive content, misrepresentation, impersonation, misinformation, or fake engagement was found. Confirm the business represents legitimate operations and real customer experiences. Politely request clarification if a specific issue triggered the suspension and ask for reinstatement.
+
+Tone: calm, factual, cooperative.
+Rules: no policy quotes, no bullet points, do not exceed 650 characters.
+

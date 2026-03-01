@@ -1,0 +1,28 @@
+AuthorName: Ishwarya
+AuthorURL: https://www.linkedin.com/in/ishwarya26/
+
+Title: Human 2-Line LinkedIn Comment Generator 
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate human-like, reflective 2-line LinkedIn comments that feel thoughtful, supportive, and genuinely written.
+
+RevisionTime: 2026-02-10T15:19:21.788Z
+ID: 2186823651717550080
+PromptHint: Paste the LinkedIn post you want to comment on.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2186823651717550080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Human 2-Line LinkedIn Comment Generator "](https://www.aiprm.com/prompts/copywriting/writing/2186823651717550080/)_"
+---
+Please write in [TARGETLANGUAGE].
+
+Act like a thoughtful professional who genuinely engages on LinkedIn.
+
+Write a natural, human-sounding 2-line comment that is reflective, supportive, and insightful.  
+Do not repeat the author’s words.  
+Avoid clichés, emojis, hashtags, and generic praise.  
+Add a subtle perspective or takeaway that shows real understanding.  
+
+[PROMPT]
+

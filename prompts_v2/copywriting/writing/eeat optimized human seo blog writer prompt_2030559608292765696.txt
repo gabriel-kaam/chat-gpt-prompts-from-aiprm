@@ -1,0 +1,30 @@
+AuthorName: Gourav Sahu
+AuthorURL: https://www.siyaramseoservices.com
+
+Title: Eeat optimized human seo blog writer prompt
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate human-written Eeat optimized blog article
+
+RevisionTime: 2026-02-24T06:44:35.343Z
+ID: 2030559608292765696
+PromptHint: Write about: [main_keyword] Target audience: [audience]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2030559608292765696/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Eeat optimized human seo blog writer prompt"](https://www.aiprm.com/prompts/copywriting/writing/2030559608292765696/)_"
+---
+Write a 1500+ word SEO-optimized blog post in [TARGETLANGUAGE] on the following topic:
+
+[PROMPT]
+
+Follow Google E-E-A-T principles. Use a natural, human tone. Avoid robotic or AI-style words. Start with a relatable problem. Use proper headings and short paragraphs.
+
+After the article, also provide:
+- SEO title
+- Meta description
+- Focus keyword
+- URL slug
+- FAQ schema in JSON-LD
+

@@ -1,0 +1,38 @@
+AuthorName: loreanimehub
+AuthorURL: https://www.tiktok.com/@loreanimehub?is_from_webapp=1&sender_device=pc
+
+Title: Anime Light Novel Story Writer (Full Chapter)
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Prompt ini menghasilkan naskah novel bergaya anime Jepang dengan emosi kuat, dialog hidup, dan alur seperti light novel atau anime series
+
+RevisionTime: 2026-02-06T06:08:32.26Z
+ID: 2185235480487673856
+PromptHint: Isi genre anime yang diinginkan (contoh: Dark Fantasy, Romance, Isekai, Action)  Tentukan tema utama cerita (contoh: kutukan, balas dendam, kehilangan, persahabatan, takdir)  Pilih sudut pandang cerita - orang pertama (aku) - orang ketiga  Tentukan gaya bahasa (contoh: puitis, gelap, emosional, sederhana)  Tentukan setting dunia (contoh: sekolah Jepang, kota distopia, dunia sihir, isekai, era modern)  Opsional: - terinspirasi gaya anime tertentu (tanpa meniru langsung) - tentukan jenis ending (cliffhanger / tragis / open ending)
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2185235480487673856/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Anime Light Novel Story Writer (Full Chapter)"](https://www.aiprm.com/prompts/copywriting/writing/2185235480487673856/)_"
+---
+[PROMPT]
+
+Anda adalah penulis novel profesional bergaya anime Jepang.
+
+Tulis naskah novel light novel dengan ketentuan berikut:
+
+Genre: {genre}
+Tema utama: {tema}
+Sudut pandang: {sudut pandang}
+Gaya bahasa: {gaya bahasa}
+Setting dunia: {setting}
+
+Aturan penulisan:
+- Fokus pada emosi karakter
+- Gunakan dialog yang kuat
+- Bangun suasana seperti adegan anime
+- Buat 1 chapter panjang
+- Akhiri dengan cliffhanger
+
+Gunakan bahasa [TARGETLANGUAGE].
+

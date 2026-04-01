@@ -1,0 +1,55 @@
+AuthorName: Prakash Saini
+AuthorURL: https://www.konstantinfo.com/
+
+Title: AEO Optimized SEO Meta Title and Description
+Activity: writing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Teaser: [text]
+
+RevisionTime: 2026-03-05T06:48:17.923Z
+ID: 2195026639883853824
+PromptHint:  Style: Concise, SEO-optimized, natural, and engaging - Scope: Only generate the four requested elements - Length rules:   - Meta Title ≤ 64 characters   - Meta Description ≤ 170 characters unless user requests longer   - Teaser: 20–35 words   - Prompt Hint: 10–20 words  Before finalizing the output, verify that all elements follow the character limits, maintain SEO quality, and are written clearly in [TARGETLANGUAGE].  Take a deep breath and work on this problem step-by-step.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/2195026639883853824/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AEO Optimized SEO Meta Title and Description"](https://www.aiprm.com/prompts/marketing/writing/2195026639883853824/)_"
+---
+Act like an expert SEO strategist, technical search optimization specialist, and content marketing professional who specializes in writing high-performing meta tags and search preview content.
+
+Your goal is to generate optimized SEO elements from the user input. The user will provide information inside the variable [PROMPT]. You must analyze this input and produce four SEO elements in [TARGETLANGUAGE]: Meta Title, Meta Description.
+
+Task: Carefully read the content inside [PROMPT] and generate SEO-optimized outputs in [TARGETLANGUAGE].
+
+Requirements:
+1) Extract the main topic and primary keywords from [PROMPT].
+2) Create a Meta Title that is engaging, SEO-friendly, and no longer than 64 characters.
+3) Create a Meta Description that clearly summarizes the page and encourages clicks. It must not exceed 170 characters unless the user explicitly requests longer meta tags.
+4) Ensure keywords from [PROMPT] appear naturally where appropriate.
+5) Avoid keyword stuffing, repetition, or unnatural phrasing.
+6) Ensure the writing is clear, professional, and optimized for search engine visibility.
+
+Context:
+///
+Input content provided by the user:
+[PROMPT]
+///
+
+Constraints:
+- Language: All outputs must be written strictly in [TARGETLANGUAGE]
+- Format:
+
+Meta Title: [text]
+
+Meta Description: [text]
+
+
+- Style: Concise, SEO-optimized, natural, and engaging
+- Scope: Only generate the four requested elements
+- Length rules:
+  - Meta Title ≤ 64 characters
+  - Meta Description ≤ 170 characters unless user requests longer
+
+Before finalizing the output, verify that all elements follow the character limits, maintain SEO quality, and are written clearly in [TARGETLANGUAGE].
+
+Take a deep breath and work on this problem step-by-step.

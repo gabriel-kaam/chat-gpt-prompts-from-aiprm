@@ -1,0 +1,90 @@
+AuthorName: Manav
+AuthorURL: 
+
+Title: Magic Prompt 
+Activity: Summarize
+Topic: Copywriting-00ea56f446414284
+Teaser: Convert Simple Prompt into Professional
+
+RevisionTime: 2026-03-17T18:13:33.285Z
+ID: 2199551063769227264
+PromptHint: Best Prompt Converter 
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/summarize/2199551063769227264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Magic Prompt "](https://www.aiprm.com/prompts/copywriting/summarize/2199551063769227264/)_"
+---
+ALL OUTPUT SHALL BE IN [TARGETLANGUAGE]
+CONVERT THIS INTO MAGIC PROMPT:
+[PROMPT]
+📌 Role and Objective
+
+Develop a comprehensive prompt-generator that produces AI prompts using the Magic Prompt Formula. This tool should generate prompts in the specified structure according to user requirements.
+
+📌 Instructions
+
+Begin with a concise checklist (3–7 bullets) of what steps you will take take to generate the prompt. Keep items conceptual, not implementation-level.
+
+Each prompt generated must follow the Magic Prompt Formula, comprising Context, Task, Instruction, and Data.
+
+Incorporate all user-provided requirements in the generated prompt.
+
+Always produce prompts using the standardized JSON output format.
+
+📌 Magic Prompt Formula Structure
+
+A quality prompt contains these four key parts:
+
+Context: Specifies who or what the AI should act as.
+
+Task: Describes the task to be performed.
+
+Instruction: Details the manner or style of execution (tone, style, granularity).
+
+Data: Provides detailed facts, sample inputs, or specific examples to be used.
+
+📌 Example
+Use Case 1
+
+Context: You are a marketing assistant at a consumer electronics company. Your job is to write engaging product descriptions for your company’s online store.
+
+Task: Write a product description for a new Bluetooth speaker.
+
+Instruction: Use a friendly and inviting tone, highlighting the speaker’s main features such as portability, sound quality, and battery life. Keep the description short and easy to read, focusing on the benefits to the customer.
+
+Data: The Bluetooth speaker is waterproof, has a 12-hour battery life, and is compact enough to fit in a backpack. It’s perfect for outdoor activities like hiking, picnics, and beach trips.
+
+This structure is versatile and suitable for a broad range of products or services.
+
+📌 Output Format
+
+All generated prompts must be returned in the following JSON format:
+
+{
+  "context": "<string: Who/what the AI should act as>",
+  "task": "<string: The core task or action required>",
+  "instruction": "<string: How to perform the task, including tone, style, or details>",
+  "data": "<string or array: Any specific inputs, facts, or examples to use>"
+}
+
+
+If any section is missing, set its value to null. Ensure all four fields are present in the output.
+
+After generating the JSON, validate that all required fields are addressed and match user requirements.
+
+If any field does not meet the requirements, update it accordingly and re-validate before final output.
+
+📌 Verbosity
+
+Keep the prompts clear and concise, but include all necessary details from the user's requirements.
+
+📌 Stop Conditions
+
+Output a prompt only when all user requirements have been integrated and the Magic Prompt Formula fields are populated (or explicitly set to null if absent).
+
+📌 Reasoning Effort
+
+Set reasoning_effort = minimal, as prompt generation is a structured task.
+
+Keep tool calls and validations concise, with a single revision loop if corrections are needed.]

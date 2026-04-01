@@ -1,0 +1,45 @@
+AuthorName: J
+AuthorURL: 
+
+Title: ext link relevancy
+Activity: link building
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Check link–paragraph relevance, score it, and refine the paragraph without changing its meaning.
+
+RevisionTime: 2026-03-27T13:03:40.491Z
+ID: 2203096958594994176
+PromptHint: Focus on topic alignment, key terms, and intent overlap between the link and paragraph. When improving the paragraph, prioritize clarity and subtle alignment rather than adding new ideas.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/link-building/2203096958594994176/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "ext link relevancy"](https://www.aiprm.com/prompts/seo/link-building/2203096958594994176/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]You are given an external link and a paragraph.
+
+External Link: [INSERT LINK HERE]  
+Paragraph: [INSERT PARAGRAPH HERE]
+
+Act as a content relevance analyst and editor.
+
+Your tasks:
+1. Analyze whether the paragraph is relevant to the content/topic of the external link.
+2. Assign a relevancy score from 1 to 10:
+   - 1 = Not relevant at all
+   - 10 = Highly relevant
+3. If the paragraph is not fully relevant, rewrite it to better align with the external link.
+
+Guidelines:
+- Do NOT change the original meaning or intent of the paragraph.
+- Do NOT add unrelated or forced information.
+- Keep the tone natural, clear, and coherent.
+- Make minimal necessary changes to improve relevance.
+
+Output Format:
+
+Relevancy Score: <number>/10  
+Explanation: <brief explanation>  
+
+Improved Paragraph:  
+<rewrite only if needed, otherwise write "No changes needed.">

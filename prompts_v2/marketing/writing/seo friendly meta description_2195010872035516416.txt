@@ -1,0 +1,20 @@
+AuthorName: Gagan Singh (Prompt Eng.)
+AuthorURL: https://www.konstantinfo.com/?campaign=promptenggagan
+
+Title: SEO Friendly Meta Description
+Activity: writing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Create the best SEO friendly meta description
+
+RevisionTime: 2026-03-05T05:37:31.567Z
+ID: 2195010872035516416
+PromptHint: [Text that you want a SEO friendly meta description for]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/writing/2195010872035516416/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Friendly Meta Description"](https://www.aiprm.com/prompts/marketing/writing/2195010872035516416/)_"
+---
+Your task is to write a seo friendly meta description in [TARGETLANGUAGE] that can improve ranking in bing and google serp. 
+
+[PROMPT] Summarized description should be in 160 characters. Covers all important high volume and low difficulty keywords. or Use suggested keywords in Teaser.

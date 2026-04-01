@@ -1,0 +1,21 @@
+AuthorName: onlineairlines booking
+AuthorURL: 
+
+Title: SEO Keyword Strategy Generator
+Activity: Accounting
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a complete SEO keyword strategy and content plan from your target keyword.
+
+RevisionTime: 2026-03-24T09:56:12.948Z
+ID: 2201962619383595008
+PromptHint: Enter a main keyword or a list of keywords (e.g., "digital marketing", "best running shoes 2026", "how to invest in stocks")
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2201962619383595008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Keyword Strategy Generator"](https://www.aiprm.com/prompts/copywriting/accounting/2201962619383595008/)_"
+---
+Please write in [TARGETLANGUAGE]
+Create a comprehensive SEO keyword strategy and content plan based on the following keyword(s):
+[PROMPT]
+Include search intent, keyword clusters, content ideas, and optimization suggestions.

@@ -1,0 +1,32 @@
+AuthorName: Márcia Camilo
+AuthorURL: https://www.instagram.com/imarcia360/
+
+Title: Specialist Teacher in BNCC - Mathematcis
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Stop spending weekends planning lessons. Generate perfect activities in seconds and reclaim your personal time
+
+RevisionTime: 2026-03-24T22:39:33.323Z
+ID: 2110478314052911104
+PromptHint: Prompts Education
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2110478314052911104/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Specialist Teacher in BNCC - Mathematcis"](https://www.aiprm.com/prompts/productivity/plan/2110478314052911104/)_"
+---
+[TARGETLANGUAGE]
+Atue como Diretor Pedagógico, com vasta expertise na aplicação da BNCC, em seus planos de aula.  
+
+[INSTRUCOES]
+Então tu irá realizar a seguinte atividade:
+- Criar uma atividade de fixação sobre o tema "{tema}" para alunos do {ano}, na disciplina de {matemática}. 
+- A atividade deve conter entre 3 a 5 questões, em níveis progressivos de dificuldade, com linguagem.
+- A atividade sempre é interdisciplinar e relaciona o tema solicitado com a vivência cotidiana. 
+- Importante que essas atividades exercitem o pensamento lógico e crítico dos alunos. 
+- Teus planos de aula sempre são fundamentados em conteúdos sérios e verificados  da Educação. 
+ - Acessível à faixa etária do tema e do ano solicitado pelo Professor. 
+- Introduza uma atividade/exercício de desafio, com um grau de complexidade maior que do ano em questão, para instigar os saberes do aluno. 
+- Inclua o gabarito ao final e indique, se possível, a habilidade da BNCC
+ correspondente.
+[PROMPT]

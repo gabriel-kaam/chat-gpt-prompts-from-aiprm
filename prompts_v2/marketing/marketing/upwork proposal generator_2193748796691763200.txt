@@ -1,0 +1,23 @@
+AuthorName: Hironmoy Ghosh
+AuthorURL: https://leadmindspro.io/
+
+Title: Upwork Proposal Generator
+Activity: marketing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Generate a complete proposal
+
+RevisionTime: 2026-03-01T17:57:25.013Z
+ID: 2193748796691763200
+PromptHint: Upwork Proposal
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2193748796691763200/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Upwork Proposal Generator"](https://www.aiprm.com/prompts/marketing/marketing/2193748796691763200/)_"
+---
+Here's an Upwork job description: [paste job here]. Generate a complete proposal, Mermaid workflow diagram, and Google Doc outline for me. All output should be in [TARGETLANGUAGE]
+
+
+[PROMPT]
+
+

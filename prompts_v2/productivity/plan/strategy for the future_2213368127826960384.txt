@@ -1,0 +1,23 @@
+AuthorName: Claudio moreira da Silva
+AuthorURL: 
+
+Title: Strategy for the future
+Activity: Plan
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Find out which investments are most suitable for low-income individuals.
+
+RevisionTime: 2026-04-24T21:32:00.624Z
+ID: 2213368127826960384
+PromptHint: Investments for life.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/plan/2213368127826960384/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Strategy for the future"](https://www.aiprm.com/prompts/productivity/plan/2213368127826960384/)_"
+---
+ [TARGETLANGUAGE] 
+Informe os investimento conservadores 
+Carateristicas de perdas próximo de 0.
+Benéfico a curto, médio e longo prazo.
+Resultados em 1 a 10 anos 
+[PROMPT]

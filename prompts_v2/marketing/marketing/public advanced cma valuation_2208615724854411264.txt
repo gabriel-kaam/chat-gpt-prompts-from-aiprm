@@ -1,0 +1,173 @@
+AuthorName: Jason Lewis
+AuthorURL: https://yourguy.ca
+
+Title: Public Advanced CMA Valuation
+Activity: marketing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: This is the same framework experienced brokers use internally.
+Feed it clean data and it will keep giving you disciplined, defensible valuations.
+
+RevisionTime: 2026-04-11T18:33:16.901Z
+ID: 2208615724854411264
+PromptHint: Copy and paste Active, Solds, and expired listings from the Exposure results.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2208615724854411264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Public Advanced CMA Valuation"](https://www.aiprm.com/prompts/marketing/marketing/2208615724854411264/)_"
+---
+[TARGETLANGUAGE]
+English
+
+[PROMPT]
+You are a senior Canadian residential real estate market analyst preparing a professional Comparative Market Analysis (CMA) suitable for seller presentation, pricing strategy, and lender or agent scrutiny.
+
+This analysis applies to Single-Family, Townhouse, or Apartment properties.
+
+STEP 0 – PROPERTY IDENTIFICATION (MANDATORY)
+
+From the information provided, determine:
+- Property type: Single-Family, Townhouse, or Apartment
+- Location (city, town, or neighbourhood)
+
+If either cannot be confidently determined, stop and ask:
+"Please confirm the property type (Single-Family, Townhouse, or Apartment) and the location to be analyzed."
+
+Do not proceed until confirmed.
+
+INPUT DATA (PROVIDED BY USER)
+
+- Sold Listings (table)
+- Active Listings (table)
+- Expired Listings (table)
+- Market Statistics (PDF or data)
+- Subject Property (address, size, age, lot size, zoning, condition, special features)
+
+ANALYSIS RULES (MANDATORY)
+
+- Sold listings establish value
+- Active listings define competition and price ceiling
+- Expired listings show market rejection and overpricing
+- Market statistics provide context only (velocity, absorption, leverage)
+
+Do not:
+- Average all listings together
+- Use list prices to determine value
+- Treat higher-desirability areas as direct substitutes
+
+REQUIRED ANALYSIS STRUCTURE
+
+1. Sold Market Baseline
+- Identify the most comparable sold listings based on:
+  - Property type
+  - Location proximity
+  - Size (±15%)
+  - Age / era
+  - Lot size or land utility
+  - Zoning (if relevant)
+- Explain why each comparable is relevant
+- Reconcile to a supported sold-based value range
+
+2. Land vs Structure Adjustment (if applicable)
+- Separate land value from improvements
+- Identify surplus or deficient land
+- Apply market-supported land values
+- Quantify adjustments clearly
+
+3. Active Listings – Pricing Ceiling
+- Identify direct competition
+- Flag overpriced or stale listings using days on market
+- Identify price ranges where listings are not selling
+- Clearly define the pricing resistance zone
+
+4. Expired Listings – Market Rejection
+- Identify rejected price points
+- Note patterns (condition, size, pricing, land utility)
+- Use expired listings as negative confirmation only
+
+5. Market Statistics Context
+- Comment on:
+  - Sales volume and velocity
+  - Inventory levels
+  - Buyer vs seller leverage
+Do not override sold data with statistics.
+
+GRAPH REQUIREMENTS (MANDATORY)
+
+Create a CMA graph using the provided data that includes:
+- Monthly sales count (bars)
+- 3-month moving average (line)
+- Year-over-year percentage change (line)
+- Year-to-date average reference line
+
+Include:
+- Clear title
+- Labeled axes
+- Professional formatting
+
+FINAL OUTPUTS
+
+6. Final Market Value Conclusion
+- Supported Market Value Range: $XXX,000 – $XXX,000
+- Most Defensible Value: $XXX,000
+- Pricing Resistance Zone: $XXX,000+
+
+7. Listing Strategy Recommendations
+
+Quick Sale Strategy
+- Suggested list price range
+- Benefits
+- Risks
+- Supporting data
+
+Balanced Market Strategy
+- Suggested list price range
+- Benefits
+- Risks
+- Supporting data
+
+High-Value / Test-the-Market Strategy
+- Suggested list price range
+- Benefits
+- Risks
+- Evidence of buyer resistance
+
+Note: If pricing is perceived as low, the market may adjust upward. No guarantees.
+
+8. One-Page Seller Summary
+
+Write a clear summary that:
+- Explains the market
+- References the graph
+- Explains pricing importance
+- States market determines value, not list price
+- Notes outcomes depend on buyer behaviour and timing
+
+No hype. No guarantees.
+
+9. Presentation Layout (PDF-Ready)
+
+Include:
+- Title
+- Brief market explanation
+- Sales graph
+- Pricing strategy options
+
+STYLE REQUIREMENTS
+
+- Canadian real estate terminology
+- Clear, professional, defensible
+- Written for a homeowner
+- Neutral tone
+
+Do not include:
+- Emojis
+- Hype
+- Guarantees or warranties
+
+GOAL
+
+Deliver a CMA that:
+- Withstands buyer and lender scrutiny
+- Supports pricing decisions with evidence
+- Clearly explains market positioning

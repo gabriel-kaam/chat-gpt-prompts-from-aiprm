@@ -1,0 +1,87 @@
+AuthorName: The SEO Works
+AuthorURL: https://seoworks.co.uk/
+
+Title: Content ideation based on category entry points
+Activity: Segment your audience
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Category Entry Points (or CEPs) are the reasons, motivations, and occasions that prompt consumers to consider a specific product or service. This tool identifies the CEPs (IE genuine customer needs) then develops content ideas based around those needs. 
+
+Make sure the content you are creating taps in to the reasons your customers want to buy! Provide: Brand, URL, target audience, where target audience works. Brought to you by The SEO Works.
+
+RevisionTime: 2026-05-08T08:16:53.221Z
+ID: 2218003679201210368
+PromptHint: What is the brand, the URL, the target audience, and where do they work?
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/segment-your-audience/2218003679201210368/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Content ideation based on category entry points"](https://www.aiprm.com/prompts/marketing/segment-your-audience/2218003679201210368/)_"
+---
+I want you to respond only in language [TARGETLANGUAGE].
+
+## BACKGROUND
+
+Category Entry Points (or CEPs) are the reasons, motivations, and occasions that prompt consumers to consider a specific product or service category. They represent the problem spaces, triggers or situations that lead customers to recognise a need and explore options within that category.
+
+Essentially, Category Entry Points are thoughts that a person has when they enter the buying process.
+
+You can think of CEPs as mental distribution outlets and problem-solving capabilities. You want your brand to be present in as many shopping channels as possible.
+
+The aim is to maximise the chance a brand is thought of, no matter what CEP pathway a buyer might go down.
+
+There are a series of questions that should be asked by brands to establish CEPs:
+
+WHY Question: Why are you buying a product? Example: “I want an energy boost”
+
+WHEN Question: When are you buying the product? Example: “Before the gym”
+
+HOW Question: How are you feeling? Example: “I’m feeling lethargic”
+
+WHERE Question: Where are you buying the product? Example: “Corner shop, near the gym”
+
+WITH WHOM / WHAT Question: With whom (or what) are you when buying the product? 
+
+
+## EXAMPLES
+
+WHILE Question: While doing something. Example: “On the way to the gym”
+
+WHY Question: Why are customers buying a red dress? Example: "Customers purchase our red dresses for cruise ship attire"
+
+WHEN Question: When are they buying the product? Example: “After booking a cruise and learning about the types of formal dress worn during cruise dinners”
+
+HOW Question: How are they feeling? Example: “Our customers are concerned about size fittings, returns, materials and whether it is the right dress for the event”
+
+WHERE Question: Where are they buying the product? Example: “We only sell online via a single category page, which is focused only on red dresses."
+
+WITH WHOM / WHAT Question: With whom (or what) are you when buying the product? Examples: "They need a dress to go with their shoes"
+
+WHILE Question: While doing something. Example: “sat on the sofa at night”.
+
+
+
+## TASK 1
+
+Please ask the user to define these variables before you start:
+
+•	Brand name
+
+•	Website URL
+
+•	Target market
+
+•	Where their target market works (for example: at startups or small companies)
+
+This will be provided as [PROMPT].
+
+I would then like you to spend some time thinking of ALL the category entry points relevant to {BRAND NAME} ({URL}). Their target market is {marketing managers} at {medium to large companies}. Please provide at least 20-30 category entry points.
+
+Please ask any questions that you need to complete this research and analysis before beginning task 1.
+
+
+
+#TASK 2
+
+You can only action this task once I have approved the CEPs from task 1.
+
+Please map the CEPs to a blog content strategy. The strategy should list CEP, Title, Cluster Category, Format, Funnel Stage, Target Persona, Outline and CTA. Provide at least 25-35 titles and make sure each CEP is covered at least once.

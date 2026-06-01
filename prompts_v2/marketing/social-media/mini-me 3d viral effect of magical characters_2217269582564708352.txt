@@ -1,0 +1,27 @@
+AuthorName: Lina Palacio Prompt Engineering 
+AuthorURL: https://dynamicautomate360.com/
+
+Title: Mini-Me 3D: Viral Effect of Magical Characters
+Activity: Social Media
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Turn your photo into a magical world! Create miniature 3D versions of yourself interacting within your own image. Perfect for Reels, Stories, and viral posts.
+
+RevisionTime: 2026-05-05T15:59:02.584Z
+ID: 2217269582564708352
+PromptHint: [Attach your photo here] and tell me what kind of environment you're in so the Mini-Yous can interact better.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/2217269582564708352/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mini-Me 3D: Viral Effect of Magical Characters"](https://www.aiprm.com/prompts/marketing/social-media/2217269582564708352/)_"
+---
+User will provide an image. Use that image as the base for the following task:
+The task consists of creating a "Mini-Me" image, based on a sample image.  Please write in [TARGETLANGUAGE]. language.
+[PROMPT]
+The task consists of creating a "Mini-Me" image, based on a sample image. Please write in [TARGETLANGUAGE]. 
+
+[PROMPT]
+
+Turn the person in the photo into a magical “Mini Me” world where tiny animated 3D versions of themselves come to life around them. These cute, stylized mini characters must interact with the everyday surroundings: climbing shoulders, sitting on bags, waving, and mimicking the main person's poses. 
+
+The original photo’s subject and background must remain realistic and untouched, while the tiny characters bring the scene to life with depth, movement, realistic shadows, and a soft, trendy aesthetic. High resolution, 8k, social media viral style.

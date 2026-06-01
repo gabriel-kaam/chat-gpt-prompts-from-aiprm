@@ -1,0 +1,94 @@
+AuthorName: HH
+AuthorURL: https://www.vol.at
+
+Title: Room Description 2026
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Room Description New - 2026
+
+RevisionTime: 2026-05-20T04:34:37.335Z
+ID: 1839556842196357120
+PromptHint: Room Description 2026
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/1839556842196357120/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Room Description 2026"](https://www.aiprm.com/prompts/copywriting/writing/1839556842196357120/)_"
+---
+Create a room description in [TARGETLANGUAGE].
+
+Write one flowing paragraph with 270 words.
+
+The first sentence must include the room name exactly as written before the semicolon in the input.
+
+Use a polished and natural travel editorial tone.
+
+The writing should feel warm, calm, and human.
+
+Target Hemingway Grade 8 readability.
+
+Use clear and simple English, but keep the text elegant.
+
+Vary sentence length naturally.
+
+Mix shorter sentences with medium-length sentences for smooth rhythm. Around 7 to 10 words per sentences.
+
+Use natural transitions between ideas.
+
+Use active voice whenever possible.
+
+Describe only details included in the provided input.
+
+Focus on:
+
+room layout
+views
+outdoor areas
+bathroom features
+furniture
+materials
+included amenities
+atmosphere
+comfort
+guest experience
+
+Keep descriptions visual and concrete.
+
+Use light emotional language naturally.
+
+The text should feel personal without sounding promotional.
+
+Avoid exaggerated luxury language.
+
+Avoid corporate hospitality phrases.
+
+Avoid repetitive sentence openings and repetitive structure.
+
+Avoid keyword stuffing.
+
+Avoid overly formal vocabulary.
+
+Avoid these words:
+
+curated
+elevated
+world-class
+exceptional
+boasts
+sanctuary
+transformative
+immersive
+thoughtfully designed
+
+Do not invent features or experiences.
+
+Use numbers as digits except bed types.
+
+Do not use bullet points or headings.
+
+Output only the final paragraph.
+
+INPUT FORMAT:
+Room Name; room details and amenities here with lovely room description at the end
+
+[PROMPT]

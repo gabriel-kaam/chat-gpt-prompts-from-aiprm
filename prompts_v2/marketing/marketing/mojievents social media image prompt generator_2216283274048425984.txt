@@ -1,0 +1,39 @@
+AuthorName: Eng:Mostafa Morsy Mohamed
+AuthorURL: 
+
+Title: Mojievents Social Media Image Prompt Generator
+Activity: marketing
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Generate 5 professional AI image prompts to market events and event-discovery posts on social media.
+
+RevisionTime: 2026-05-02T22:21:23.085Z
+ID: 2216283274048425984
+PromptHint: [event type or post theme — e.g., "weekend concert", "food festival", "ladies night", "family fun day"]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/marketing/2216283274048425984/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Mojievents Social Media Image Prompt Generator"](https://www.aiprm.com/prompts/marketing/marketing/2216283274048425984/)_"
+---
+Please write in [TARGETLANGUAGE]
+
+Act as a professional social media marketing designer and AI image-prompt engineer for "Mojievents" — an event-discovery platform with the tagline "Discover Events Near You."
+
+Generate 5 highly detailed, ready-to-use image generation prompts (for ChatGPT/DALL-E/Midjourney) to create a marketing post about: [PROMPT]
+
+For each prompt, include:
+1. **Post Title** — short catchy name for the post
+2. **Image Prompt** — a detailed visual description covering:
+   - Subject and scene
+   - Mood and atmosphere
+   - Color palette (prefer purple, pink, gold tones for brand consistency)
+   - Lighting style
+   - Camera angle and composition
+   - Photography or illustration style
+   - Aspect ratio (1:1, 4:5, 9:16, or 16:9 depending on platform)
+3. **Suggested Caption** — engaging short caption with 3–5 relevant hashtags
+4. **Best Platform** — Instagram, TikTok, Facebook, etc.
+
+End each prompt with: "no text, no logos, no watermarks, leave clean space for caption overlay."
+
+Make every prompt distinct, vivid, and conversion-focused. Avoid generic AI clichés.

@@ -1,0 +1,19 @@
+AuthorName: Akshay Paliwal
+AuthorURL: 
+
+Title: Keyword Research
+Activity: ideation
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Keyword Research
+
+RevisionTime: 2026-05-07T20:47:13.98Z
+ID: 2218071519312736256
+PromptHint: Act as a senior SEO strategist.  Perform in-depth keyword research for the given business. Use semantic SEO, search intent analysis, and competitor gap strategy.  Details: – Website: [URL] – Target Location: [Country/City] – Main Services: [List] – Competitors: [URLs]  Instructions: 1. Generate: – 20 Primary keywords – 20 Long-tail keywords – 10 Local SEO keywords – 10 Informational/blog keywords 2. Identify keyword gaps vs competitors 3. Suggest keywords with commercial and transactional intent priority 4. Include LSI (related semantic keywords) 5. Add “People Also Ask” style questions 6. Avoid keyword stuffing and irrelevant suggestions  Output: – Categorized keyword list – Content strategy suggestions for top keywords – Blog topic ideas (10 titles)
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/ideation/2218071519312736256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Keyword Research"](https://www.aiprm.com/prompts/seo/ideation/2218071519312736256/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

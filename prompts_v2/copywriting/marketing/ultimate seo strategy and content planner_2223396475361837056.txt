@@ -1,0 +1,39 @@
+AuthorName: scientific Statician
+AuthorURL: https://github.com/
+
+Title: Ultimate SEO Strategy & Content Planner
+Activity: marketing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generate a complete SEO strategy, keyword research, and content plan from a single keyword.
+
+RevisionTime: 2026-05-22T13:26:42.435Z
+ID: 2223396475361837056
+PromptHint: Enter a primary keyword or multiple related keywords. Example: digital marketing, AI tools, fitness blog, accounting services.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/2223396475361837056/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Ultimate SEO Strategy & Content Planner"](https://www.aiprm.com/prompts/copywriting/marketing/2223396475361837056/)_"
+---
+You must use [TARGETLANGUAGE] 
+Act as a professional SEO strategist, copywriter, and digital marketing expert.
+
+Create a complete high-ranking SEO content strategy for the keyword(s) provided below.
+
+Your response must include:
+1. Keyword clusters
+2. Search intent analysis
+3. SEO blog title ideas
+4. Content outline suggestions
+5. Meta title and meta description
+6. Long-tail keywords
+7. Competitor content ideas
+8. Frequently Asked Questions (FAQs)
+9. Internal linking suggestions
+10. 30-day content calendar
+
+Use clear headings, tables, and bullet points.
+Write in a professional yet easy-to-understand style.
+Optimize the strategy for Google ranking and user engagement.
+Keyword(s):
+[PROMPT]

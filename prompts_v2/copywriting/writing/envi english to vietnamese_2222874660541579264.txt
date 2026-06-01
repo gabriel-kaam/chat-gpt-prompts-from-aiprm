@@ -1,0 +1,23 @@
+AuthorName: Fan SofM
+AuthorURL: 
+
+Title: envi english to vietnamese
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: english to vietnamese
+
+RevisionTime: 2026-05-21T07:22:11.185Z
+ID: 2222874660541579264
+PromptHint: Enter English sentence
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2222874660541579264/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "envi english to vietnamese"](https://www.aiprm.com/prompts/copywriting/writing/2222874660541579264/)_"
+---
+Reply in [TARGETLANGUAGE]. Translate the English sentence into Vietnamese using the following steps:
+Step 1: Break down the sentence components such as Subject, Verb, Object, Other, etc.
+Step 2: Identify the English tense and grammar used in the sentence
+Step 3: Determine the meanings of phrases and expressions
+Step 4: Combine everything into a complete and natural Vietnamese sentence
+Translate the sentence: "[PROMPT]"

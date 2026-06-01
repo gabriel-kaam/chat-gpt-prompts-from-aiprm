@@ -1,0 +1,201 @@
+AuthorName: chidera okoro
+AuthorURL: 
+
+Title: Yoast SEO Premium News Rewriter
+Activity: writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Rewrite any news article into a unique, plagiarism-free blog post fully optimized for Yoast SEO Premium with focus keyphrase, meta description, internal links, outbound links, image SEO, and green readability scores.
+
+RevisionTime: 2026-05-30T13:03:05.777Z
+ID: 2226275919155822592
+PromptHint: Paste the article you want rewritten and optimized.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/writing/2226275919155822592/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Yoast SEO Premium News Rewriter"](https://www.aiprm.com/prompts/copywriting/writing/2226275919155822592/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+
+Please write in [TARGETLANGUAGE].
+
+Act as an expert journalist, SEO strategist, and Yoast SEO Premium specialist.
+
+Your task is to completely rewrite the article provided below while maintaining all facts, names, dates, statistics, and quotations.
+
+The rewritten content must be:
+
+100% unique
+Human-written style
+Plagiarism-free
+Easy to read
+News-blog format
+Optimized for Yoast SEO Premium
+Optimized for Google Search
+REWRITING REQUIREMENTS
+Rewrite every sentence completely.
+Preserve factual accuracy.
+Improve readability and engagement.
+Use short paragraphs.
+Avoid duplicate phrases from the source article.
+Expand sections where necessary.
+Ensure the article contains at least 600 words whenever possible.
+TITLE REQUIREMENTS
+
+Generate:
+
+SEO Title (5–9 words)
+Alternative Headline
+URL Slug
+
+The SEO title must begin with the focus keyphrase.
+
+SEO REQUIREMENTS
+
+Generate:
+
+Focus Keyphrase
+
+Choose the best SEO keyword based on the article.
+
+Keyphrase Synonyms
+
+Generate 3-5 related keyword variations.
+
+Meta Description
+120-155 characters
+Contains focus keyphrase
+Encourages clicks
+URL Slug
+
+Must contain focus keyphrase.
+
+ARTICLE STRUCTURE
+SEO Title
+
+Introduction
+
+(The focus keyphrase must appear naturally in the first paragraph.)
+
+Subheading 1
+
+Content
+
+Subheading 2
+
+Content
+
+Subheading 3
+
+Content
+
+Subheading 4
+
+Content
+
+Conclusion
+
+YOAST GREEN SCORE OPTIMIZATION
+
+Ensure:
+
+✓ Focus keyphrase appears in:
+
+SEO Title
+Introduction
+Meta Description
+URL Slug
+
+
+
+At least one subheading
+Image alt text
+
+✓ Keyphrase density between 0.8%-2.5%
+
+✓ Natural keyphrase distribution
+
+✓ Transition words used throughout
+
+✓ Active voice preferred
+
+✓ Short sentences
+
+✓ Short paragraphs
+
+✓ Excellent readability
+
+
+
+Before generating the article, determine the most appropriate blog category based on the content.
+
+Generate:
+
+Category
+
+Assign ONE primary category from the most relevant topic.
+
+Examples:
+
+Entertainment
+Celebrity News
+Politics
+Sports
+Business
+Technology
+Health
+Education
+Lifestyle
+World News
+Trending News
+Tags
+
+Generate 3-8 highly relevant SEO-friendly tags.
+
+Tag Rules:
+
+Tags must be directly related to the article.
+Include major people, brands, events, locations, or topics mentioned.
+Avoid duplicate tags.
+Keep tags concise.
+
+
+### STRICT READABILITY REQUIREMENTS (MANDATORY)
+
+Before providing the final article, perform a readability audit and rewrite any section that fails the following rules:
+
+#### Sentence Length Control
+
+* At least 80% of all sentences must contain 20 words or fewer.
+* No more than 20% of sentences may exceed 20 words.
+* No sentence may exceed 30 words.
+* Break long sentences into two or more shorter sentences whenever possible.
+* Prefer simple sentence structures over compound or complex sentences.
+
+#### Passive Voice Control
+
+* Use active voice whenever possible.
+* Keep passive voice below 5% of total sentences.
+* Rewrite all passive constructions into active voice unless absolutely necessary for clarity.
+* Use clear subjects performing clear actions.
+
+#### Final Yoast Compliance Check
+
+Before generating the final article, verify that:
+
+✓ Sentence Length score will pass Yoast Readability Analysis.
+
+✓ Passive Voice score will pass Yoast Readability Analysis.
+
+✓ Paragraphs contain no more than 3 sentences.
+
+✓ Transition words appear in at least 30% of paragraphs.
+
+✓ Consecutive sentences do not begin with the same word.
+
+✓ The article is written at a reading level suitable for a general audience.
+
+If any of these requirements are not met, automatically revise the article before presenting the final output.
+
+The article must be written specifically to achieve Green scores for Sentence Length and Passive Voice in Yoast SEO Premium. Passive voice must remain below 5%, and at least 80% of sentences must contain 20 words or fewer. Automatically revise the content until these thresholds are met

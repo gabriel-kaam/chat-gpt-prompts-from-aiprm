@@ -1,0 +1,47 @@
+AuthorName: Yousef Emad
+AuthorURL: 
+
+Title: B2B market research
+Activity: Research
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Analyze the Russian frozen food market to uncover export opportunities and draft high-trust B2B cold emails.
+
+RevisionTime: 2026-06-02T12:26:26.446Z
+ID: 2227367575326281728
+PromptHint: [Your Product, e.g., IQF Strawberries or Frozen Vegetables from Egypt]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/research/2227367575326281728/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "B2B market research"](https://www.aiprm.com/prompts/marketing/research/2227367575326281728/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]
+Act as an elite B2B International Trade Consultant and Commercial Intelligence Expert specializing in the Russian imported food sector, specifically frozen fruits and vegetables (IQF). 
+
+The user's product and origin is: [PROMPT]
+Target Market: Russian Federation
+Target Audience: Russian Importers, Wholesalers, and Food Manufacturers.
+
+Analyze the current market landscape and provide a highly strategic execution plan and outreach pitch based on the following instructions.
+
+Your output must be structured into these 4 distinct sections:
+
+1. CURRENT RUSSIAN MARKET DISRUPTIONS AS OPPORTUNITIES
+Identify the major logistical, payment (banking/routing), and supply chain challenges Russian importers are facing right now (e.g., delays in traditional shipping routes, supply failures from regular countries). Explain how an exporter of [PROMPT] can position themselves as a strategic, risk-free alternative to solve these exact pain points.
+
+2. IMPORTER PSYCHOLOGY (QUALITY & REPUTATION)
+Detail exactly what a Russian buyer looks for to trust a new supplier in the frozen produce sector. What specific quality metrics (e.g., defrosting stability, strict calibration, color consistency, packaging resilience for long transit) and reputational trust-signals (e.g., capacity audits, financial flexibility, track record) matter most to them to mitigate their purchasing risk?
+
+3. THE INVESTIGATIVE APPROACH (Discovery Questions)
+Provide 4 deep, probing, and professional questions the seller can ask the Russian importer during initial contact. These questions must be designed to make the importer reveal their exact current volume gaps, quality frustrations with existing suppliers, and immediate needs, rather than sounding like a generic sales pitch.
+
+4. HIGH-CONVERSION B2B COLD EMAIL (In English)
+Write a compelling, highly professional B2B cold email optimized for Outlook. 
+- The tone must be cooperative, elite, and consultative.
+- Focus heavily on supply security, strict quality compliance, and seamless execution (logistical and payment viability).
+- Include 3 distinct, high-open-rate Subject Lines that address market stability and supply assurance.
+- Do NOT sound like a standard generic catalog broadcast.
+
+Please output the analysis in [TARGETLANGUAGE] but ensure the Cold Email draft in Section 4 is written in professional business English.
+اكتب النتيجة النهائية باللغة العربية 

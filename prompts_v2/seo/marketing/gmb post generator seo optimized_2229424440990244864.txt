@@ -1,0 +1,39 @@
+AuthorName: Prachi Patel
+AuthorURL: 
+
+Title: GMB post generator (seo optimized)
+Activity: marketing
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generate a GMB post and add a unique CTA and hashtags for [PROMPT]
+
+RevisionTime: 2026-06-08T04:39:41.435Z
+ID: 2229424440990244864
+PromptHint: Enter your GMB Post title
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/marketing/2229424440990244864/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "GMB post generator (seo optimized)"](https://www.aiprm.com/prompts/seo/marketing/2229424440990244864/)_"
+---
+Create a high-converting Google My Business (GMB) post for the following topic:
+[PROMPT]
+
+Requirements:
+- Write in [TARGETLANGUAGE]
+- Keep it to 150 words
+- Make it engaging and action-oriented
+- Include a strong call-to-action (Call now, Book today, Visit us, etc.)
+- Naturally include targeted keywords (or those that match by themselves) from the prompt
+- Optimize for local SEO by including location (city/service area) when relevant
+- Highlight benefits to the customer
+- Use a friendly and professional tone
+- Avoid keyword stuffing; keep it natural and readable
+- [Exceptional] Enter your business service, offer, or promotion with location and keywords (e.g., "affordable dental cleaning in Miami", "emergency plumbing service in London 24/7")
+
+Output format:
+
+1. GMB Post:
+Write the full post content as the prompt is written.
+
+2. Hashtags:
+Add 5–10 relevant local SEO hashtags (include location + service keywords)

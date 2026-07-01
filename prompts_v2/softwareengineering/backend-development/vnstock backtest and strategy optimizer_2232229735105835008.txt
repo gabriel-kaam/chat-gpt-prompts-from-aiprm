@@ -1,0 +1,18 @@
+AuthorName: Cường Nguyễn
+AuthorURL: 
+
+Title: Vnstock Backtest & Strategy Optimizer
+Activity: Backend Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Backtest and optimize multi-market trading strategies (stocks + commodity derivatives) using vnstock_ta + DuckDB, with risk evaluation and walk-forward validation.
+
+RevisionTime: 2026-06-15T22:26:55.672Z
+ID: 2232229735105835008
+PromptHint: Describe strategy + market + timeframe. Examples: "RSI + MACD on VN30F1M 15-minute", "Supertrend trend-following on Robusta coffee", "Bollinger Bands mean-reversion on VN30 basket", "optimize ATR stop-loss parameters with existing code"
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/backend-development/2232229735105835008/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Vnstock Backtest & Strategy Optimizer"](https://www.aiprm.com/prompts/softwareengineering/backend-development/2232229735105835008/)_"
+---
+Viết, chạy và tối ưu chiến lược backtest đa thị trường (chứng khoán + hàng hóa phái sinh) dùng vnstock_ta (60 chỉ báo) + dữ liệu DuckDB, có đánh giá rủi ro và walk-forward validation cho chiến lược người dùng cung cấp. Output bằng [TARGETLANGUAGE]. [PROMPT]

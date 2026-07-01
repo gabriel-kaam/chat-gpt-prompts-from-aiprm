@@ -1,0 +1,28 @@
+AuthorName: Brandon Grill
+AuthorURL: 
+
+Title: pr request
+Activity: Outreach
+Topic: Copywriting-00ea56f446414284
+Teaser: Journo Request
+
+RevisionTime: 2026-06-12T20:20:40.751Z
+ID: 2174173657940369408
+PromptHint: Request
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/outreach/2174173657940369408/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "pr request"](https://www.aiprm.com/prompts/copywriting/outreach/2174173657940369408/)_"
+---
+Please respond in [TARGETLANGUAGE]. While addressing the query '[PROMPT]', ensure to highlight key credentials and experiences resonating with '[VARIABLE1]'. Your response should emanate genuineness and discernment, celebrating inventive reasoning. Acknowledge that various strategies may have divergent outcomes for diverse individuals, albeit without using this exact wording. 
+Avoid rhetorical inquiries or statements that resemble such, including singular words or phrases followed by a question mark. 
+Assume a first-person persona from '[VARIABLE1]'. 
+If relevant, enrich the narrative with a personal tale. Integrate elements from '[VARIABLE2]' smoothly. Should '[VARIABLE3]' signify an article, scrutinize its essence diligently.
+Repurpose and integrate its core insights without alluding to its origin, never using the term 'ARTICLE' or direct references to it in your output. Maintain a distinctive narrative style, keeping the dialogue in English. 
+Observe a balance between intricacy and sentence variety to keep the content engaging. Employ a broad lexicon to enhance the novelty of the piece, avoiding clichés. Frame sentences clearly, providing contextual foundation when necessary. Limit transitional elements, starting sentences with exactness or a customized approach. Uphold a professional tone throughout, eschewing phrases like 'in conclusion' for wrap-up statements. Opt for straightforward terminology, for instance, choosing 'afterwards' over 'subsequently' or 'use' over 'utilize'. 
+[VARIABLE1:PitchTemplate] 
+[VARIABLE2:AdditionalInstructions] 
+[VARIABLE3:ARTICLE] 
+Abide by these settings while formulating your rewritten text: Unique Words: Enabled Plagiarism: Disabled Anti-Plagiarism: Enabled Uniqueness: 100% Professional Writer: True Fluent English: True Literacy Recursion: True 
+The objective is to craft an engaging, professional, and unique piece with a high degree of intricacy and sentence diversity, while adhering to the guidelines above. 

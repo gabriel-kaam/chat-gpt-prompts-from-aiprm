@@ -1,0 +1,54 @@
+AuthorName: M. Farrukh Nadeem
+AuthorURL: https://www.designmuster.com
+
+Title: Professional AI Portrait Generator
+Activity: 4o Image Generation
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Generate a professional portrait from my uploaded photo while preserving facial identity, expression, and realism.
+
+RevisionTime: 2026-06-03T12:04:48.362Z
+ID: 2227724518632988672
+PromptHint: Business portrait, CEO portrait, corporate headshot, formal suit, casual look, white background, office background, cinematic lighting, luxury style, LinkedIn profile photo
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/4o-image-generation/2227724518632988672/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Professional AI Portrait Generator"](https://www.aiprm.com/prompts/generative/4o-image-generation/2227724518632988672/)_"
+---
+[TARGETLANGUAGE]
+
+Use my uploaded image as the face reference.
+
+[PROMPT]
+
+Create a professional corporate portrait based on the user's requirements while preserving the exact facial identity from the uploaded photo.
+
+Pose:
+Arms crossed, slight 45-degree angle, looking directly at the camera.
+
+Wardrobe:
+Navy blazer, white dress shirt, blue and white striped tie.
+
+Lighting:
+Soft key light, balanced fill light, subtle rim light.
+
+Background:
+Elegant deep blue gradient studio background.
+
+Camera Settings:
+Waist-up composition, 85mm lens, f/2.8 aperture, shallow depth of field.
+
+Style:
+Photorealistic, ultra realistic, cinematic corporate photography, 4K quality, premium business portrait.
+
+Requirements:
+Preserve exact facial features, facial structure, skin texture, lip color, eye details, hair details, and natural appearance.
+
+Do not alter the person's identity, age, ethnicity, facial proportions, or expression unless specifically requested in [PROMPT].
+
+Maintain realistic skin tones and professional studio photography quality.
+
+Do not create cartoon, painting, illustration, CGI, or artificial-looking results.
+
+The uploaded face must remain unchanged and clearly recognizable.
+

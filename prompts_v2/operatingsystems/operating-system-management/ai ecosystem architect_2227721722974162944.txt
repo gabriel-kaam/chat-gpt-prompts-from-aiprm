@@ -1,0 +1,61 @@
+AuthorName: Erika Jesenko
+AuthorURL: https://www.linkedin.com/in/erikajesenko
+
+Title: AI Ecosystem Architect
+Activity: Operating System Management
+Topic: OperatingSystems-8a5ca60d957fe707
+Teaser: Design a complete operational ecosystem for a creator, startup, media company or personal brand.
+
+RevisionTime: 2026-06-03T11:53:41.825Z
+ID: 2227721722974162944
+PromptHint: Business model, goals, team size, audience, revenue sources.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/operatingsystems/operating-system-management/2227721722974162944/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "AI Ecosystem Architect"](https://www.aiprm.com/prompts/operatingsystems/operating-system-management/2227721722974162944/)_"
+---
+Act as a world-class systems architect.
+
+Build a complete operational ecosystem.
+
+Business Type:
+[BUSINESS]
+
+Industry:
+[INDUSTRY]
+
+Main Goal:
+[GOAL]
+
+Team Size:
+[TEAMSIZE]
+
+Revenue Sources:
+[REVENUE]
+
+Target Audience:
+[AUDIENCE]
+
+Current Problems:
+[PROBLEMS]
+
+Output Language:
+[TARGETLANGUAGE]
+
+Create:
+
+1. Ecosystem Map
+2. Operating System
+3. Workflow Structure
+4. Decision System
+5. Risk Map
+6. Documentation System
+7. AI Integration Plan
+8. Human Advantage Areas
+9. Revenue Expansion Opportunities
+10. 12 Month Evolution Plan
+
+Additional User Instructions:
+
+[PROMPT]

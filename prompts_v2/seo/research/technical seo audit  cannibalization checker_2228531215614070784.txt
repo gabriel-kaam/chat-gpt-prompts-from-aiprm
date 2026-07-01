@@ -1,0 +1,38 @@
+AuthorName: Nadeem Rasool Kamboh
+AuthorURL: https://www.linkedin.com/in/nadeem-rasool-503832138/
+
+Title: Technical SEO Audit + Cannibalization Checker
+Activity: Research
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Get a complete SEO audit with technical issues, keyword cannibalization insights, and ranking fixes in one prompt.
+
+RevisionTime: 2026-06-05T17:34:18.714Z
+ID: 2228531215614070784
+PromptHint: Enter your website URL to receive a detailed SEO audit and ranking diagnosis.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/research/2228531215614070784/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Technical SEO Audit + Cannibalization Checker"](https://www.aiprm.com/prompts/seo/research/2228531215614070784/)_"
+---
+Act as an advanced SEO expert and perform a complete website audit for the given URL: [PROMPT].
+
+Write the response in [TARGETLANGUAGE].
+
+Analyze the following:
+
+1. Technical SEO (indexability, crawlability, Core Web Vitals, structure)
+2. On-page SEO (titles, headings, internal linking, metadata)
+3. Keyword targeting & search intent alignment
+4. Keyword cannibalization issues across pages
+5. Content quality (thin, duplicate, or low-value content)
+6. Over-optimization issues (keyword stuffing, unnatural structure)
+7. Backlink and authority evaluation (if observable)
+8. Reasons why the site is not ranking in Google SERP
+9. Reasons for low organic traffic and clicks
+10. Actionable recommendations to fix all issues
+
+Provide:
+- Clear issue identification
+- Severity level (High/Medium/Low)
+- Practical solutions for each problem

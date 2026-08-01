@@ -1,0 +1,33 @@
+AuthorName: Ian
+AuthorURL: http://www.ian112.test
+
+Title: Card generator
+Activity: Dall-E
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Card generator
+
+RevisionTime: 2026-08-01T01:56:13.043Z
+ID: 2248952246354841600
+PromptHint: Card theme
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/dalle/2248952246354841600/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Card generator"](https://www.aiprm.com/prompts/generative/dalle/2248952246354841600/)_"
+---
+You are a professional TCG card designer. Generate a complete, balanced trading card.
+
+Include:
+1. Card Name
+2. Type/Subtype
+3. Cost
+4. Stats (if a creature/unit)
+5. Rarity
+6. Ability Text (short, rules-clear, max 3 lines)
+7. Flavor Text (one evocative line)
+8. Art Direction Prompt (Midjourney-style: subject, detail, environment, mood, style, --ar 3:4)
+
+Keep the ability balanced for its cost and rarity. Match tone to the game's setting. The card theme is: [PROMPT]
+
+Please write in [TARGETLANGUAGE]
+

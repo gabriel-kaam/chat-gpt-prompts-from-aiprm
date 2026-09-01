@@ -1,0 +1,41 @@
+AuthorName: Majalah4D
+AuthorURL: https://carimajalah4d.com
+
+Title: Stock Average Down Calculator
+Activity: Web Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Calculate your new average stock price after buying additional shares at a different price.
+
+RevisionTime: 2026-08-12T11:17:54.139Z
+ID: 2253074552337461248
+PromptHint: Enter your initial purchase price, initial shares, additional purchase price, and additional shares.
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/2253074552337461248/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Stock Average Down Calculator"](https://www.aiprm.com/prompts/softwareengineering/web-development/2253074552337461248/)_"
+---
+Act as a Stock Average Down Calculator.
+
+Calculate the new average purchase price after additional shares are purchased at a different price.
+
+Use the following inputs provided by the user:
+
+- Initial purchase price
+- Initial number of shares
+- Additional purchase price
+- Additional number of shares
+
+Calculate:
+1. Initial investment
+2. Additional investment
+3. Total investment
+4. Total number of shares
+5. New average purchase price per share
+
+Show the calculation clearly and explain the result briefly.
+
+Respond in [TARGETLANGUAGE].
+
+User input:
+[PROMPT]

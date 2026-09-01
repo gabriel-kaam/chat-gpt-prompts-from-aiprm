@@ -1,0 +1,61 @@
+AuthorName: Apurv Kashyap
+AuthorURL: 
+
+Title: Article writing
+Activity: marketing
+Topic: Copywriting-00ea56f446414284
+Teaser: SEO Optimized Article - 2026
+
+RevisionTime: 2026-08-14T09:43:56.531Z
+ID: 2253780995407613952
+PromptHint: Type your keyword or topic
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/marketing/2253780995407613952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Article writing"](https://www.aiprm.com/prompts/copywriting/marketing/2253780995407613952/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT][TARGETLANGUAGE]
+
+Act as an expert content writer, investigative reporter, and subject-matter specialist. Write a comprehensive, highly engaging, human-written style article based on the topic/keyword provided below: "[PROMPT]".
+
+### WRITING RULES & TONE:
+1. **Human Tone**: Write with natural sentence variety, relatable transition phrases, nuance, and active voice. Avoid robotic/overused AI words (e.g., "delve," "testament," "paramount," "beacon," "in conclusion").
+2. **Word Count Strict Limit**: The TOTAL article must be strictly UNDER 1,200 words (aim for 950–1,100 words including the FAQ section).
+3. **Format**: Use clear Markdown subheadings (H2, H3), bold key concepts naturally, and maintain high readability.
+
+---
+
+### ARTICLE STRUCTURE TO FOLLOW EXPLICITLY:
+
+1. **Title**: Catchy, SEO-optimized, and human-sounding title (H1).
+
+2. **The Problem / Core Issue** (H2):
+   - Hook the reader immediately by addressing the statement, pain point, or central challenge directly.
+   - Frame why this topic matters right now.
+
+3. **Understanding the Topic** (H2):
+   - Break down key concepts in plain, accessible terms without fluff.
+   - Establish context and baseline terminology.
+
+4. **Research & Knowledge Base** (H2):
+   - Synthesize relevant data, factual insights, trends, or industry knowledge surrounding the topic.
+   - Highlight practical takeaways or foundational evidence.
+
+5. **Reason to Believe** (H2):
+   - Build trust and credibility through logical reasoning, practical examples, or expert perspectives that validate the core insight.
+
+6. **The Solution** (H2):
+   - Deliver clear, step-by-step, actionable advice or key strategies to resolve the primary issue.
+
+7. **Deeper Dive & Practical Application** (H2):
+   - Provide additional nuances, potential pitfalls, tools, or extended implications to add high value.
+
+8. **Frequently Asked Questions (FAQs)** (H2):
+   - List 3 to 4 concise, high-intent questions and clear, direct answers.
+
+---
+
+Topic / Keyword: [PROMPT]
+Language: Write the article in [TARGETLANGUAGE]

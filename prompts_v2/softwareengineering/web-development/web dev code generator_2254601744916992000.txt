@@ -1,0 +1,19 @@
+AuthorName: mano
+AuthorURL: https://www..orgfreecodecamp
+
+Title: Web Dev Code Generator
+Activity: Web Development
+Topic: SoftwareEngineering-f1858b980c341d28
+Teaser: Generate web development code and   full-stack web apps.
+
+RevisionTime: 2026-08-16T16:05:18.463Z
+ID: 2254601744916992000
+PromptHint: [Describe your task, e.g. "a React component for user login"]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/softwareengineering/web-development/2254601744916992000/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Web Dev Code Generator"](https://www.aiprm.com/prompts/softwareengineering/web-development/2254601744916992000/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]

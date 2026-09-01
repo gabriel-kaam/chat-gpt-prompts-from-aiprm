@@ -1,0 +1,34 @@
+AuthorName: Paul
+AuthorURL: 
+
+Title: Context Export and Chat Splitter
+Activity: Summarize
+Topic: Productivity-b5a49cdd0796137a
+Teaser: Summarize the current conversation to easily transfer the context and progress to a brand new chat.
+
+RevisionTime: 2026-08-03T05:39:14.86Z
+ID: 2249733149494595584
+PromptHint: Type "GO" and press Enter to generate the summary
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/productivity/summarize/2249733149494595584/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Context Export and Chat Splitter"](https://www.aiprm.com/prompts/productivity/summarize/2249733149494595584/)_"
+---
+Please write in [TARGETLANGUAGE]
+
+You are an expert assistant tasked with extracting the memory and context of a technical conversation so it can be continued in a new chat.
+
+Summarize in a SINGLE Markdown code block everything we have done so far in this discussion, so I can copy and paste this block at the beginning of a new conversation.
+
+The summary MUST include:
+1. **Settings and Initial Context:** All my settings, constraints, and the starting information I provided.
+2. **Environment & Installations:** All programs, dependencies, libraries, or tools we have installed or configured.
+3. **Tests & Experiments:** The tests performed, what worked, what failed, and the major errors encountered.
+4. **Current Status & Next Steps:** The final validated code or solution, and what is left to do.
+
+Put this entire summary in ONE SINGLE Markdown code block. At the very beginning inside this block, add this note to instruct the future AI: "Voici le contexte exact et l'historique de notre projet. Assimile ces informations et attends mes nouvelles instructions."
+
+Make sure the entire generated summary inside the code block is written in French.
+
+[PROMPT]

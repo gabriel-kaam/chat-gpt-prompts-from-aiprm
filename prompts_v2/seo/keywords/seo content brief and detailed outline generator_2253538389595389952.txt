@@ -1,0 +1,72 @@
+AuthorName: hadis barghammadi
+AuthorURL: https://www.linkedin.com/in/hadis-barghamadi-439b07237
+
+Title: SEO Content Brief & Detailed Outline Generator
+Activity: keywords
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Generates a comprehensive SEO content brief, H1-H3 heading structure, and LSI keyword suggestions based on your target keyword.
+
+RevisionTime: 2026-08-13T17:40:05.924Z
+ID: 2253538389595389952
+PromptHint: Enter your primary keyword and page type here (e.g. Buy Laptop | Blog Post)
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/2253538389595389952/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "SEO Content Brief & Detailed Outline Generator"](https://www.aiprm.com/prompts/seo/keywords/2253538389595389952/)_"
+---
+Objective:
+Create a highly detailed, comprehensive, and fully SEO-optimized content outline based on the provided input: [PROMPT]. This outline will serve as a professional brief for content writers to produce structured, competitive, user-focused articles or pages with high ranking potential.
+
+Parameters:
+• Input Keyword/Title and Page Type provided in: [PROMPT]
+• Language: The entire output MUST be written in fluent, professional Persian (فارسی). Target language: [TARGETLANGUAGE].
+
+Instructions:
+Initial Analysis and Context Building:
+• Identify the main topic and search intent: Specify the primary intent (Informational, Commercial, Navigational, Transactional) and related secondary intents.
+• Brief competitor analysis: Analyze the standard top Google results for this keyword and summarize:
+  - Estimated average content length needed.
+  - Key subtopics covered.
+  - Content gaps that we can cover better.
+• Extract relevant People Also Ask (PAA) questions and Featured Snippets, and suggest at least one section optimized to directly target them.
+• Expert Role: Assume a relevant expert persona.
+
+Heading Structure:
+• H1: A compelling, SEO-friendly, and click-worthy main title based on the primary keyword.
+• H2: Exactly 5–7 main sections covering distinct and logical aspects.
+• H3: Provide at least 3–5 detailed sub-sections under each H2.
+• Maintain a clear hierarchical structure.
+• For each H2 and H3, suggest visual formatting (e.g., bullet points, comparison table, numbered list, tip box).
+
+Keywords and Semantic Optimization:
+• Primary keyword and its variations.
+• LSI keywords.
+• Semantic keywords.
+• Secondary and long-tail keywords.
+• Related Entities to strengthen Topical Authority.
+
+Word Count Recommendations:
+• Total content length recommendation based on intent.
+• Word count distribution across H2 sections.
+
+Strengthening E-E-A-T Signals:
+• Suggest ways to demonstrate Experience, Expertise, Authoritativeness, and Trustworthiness.
+
+Linking and CTA:
+• Suggest 3–5 relevant internal links.
+• Recommend at least 3 authoritative external sources.
+• Strategic placement points for Calls to Action.
+
+Visual Elements and User Experience:
+• Suggest images, infographics, or tables.
+• Mobile readability guidelines.
+
+Supporting Content Suggestions (Content Cluster):
+• Propose 4–6 related topics for cluster content to build Topical Authority.
+
+Adaptation to Page Type:
+• Tailor the structure strictly to the page type specified in [PROMPT].
+
+CRITICAL LANGUAGE REQUIREMENT:
+The entire output (all headings, keywords, descriptions, and instructions) MUST be fully written in Persian (فارسی) using standard, professional terminology suitable for Persian content teams. Language tag: [TARGETLANGUAGE].

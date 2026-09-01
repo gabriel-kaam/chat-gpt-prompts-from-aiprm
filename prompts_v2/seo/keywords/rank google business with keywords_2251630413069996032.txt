@@ -1,0 +1,34 @@
+AuthorName: Adnan Khan
+AuthorURL: https://wa.me/qr/GXIX37DQYX4YF1
+
+Title: Rank Google Business with Keywords
+Activity: keywords
+Topic: SEO-84c5d6a7b8e9f0c1
+Teaser: Boost your Google Business Profile rankings and convert visitors with a fully hyperlinked, SEO-optimized business article using a single prompt. Its primary objective is to rank Google Business Profile (GMB) using keywords, build website authority, showcase your services in depth, and turn visitors into paying clients.
+
+RevisionTime: 2026-08-29T12:29:03.669Z
+ID: 2251630413069996032
+PromptHint: Paste your business details, gmb link and keywords
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/seo/keywords/2251630413069996032/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rank Google Business with Keywords"](https://www.aiprm.com/prompts/seo/keywords/2251630413069996032/)_"
+---
+Write a fully longer article to explore the company for online and local visitors in [TARGETLANGUAGE], so that they can hire us for their needs related to our services. Make sure to cover everything related to our business. create sections and add full details and relevant hyperlinks in every section.
+start with a unique and longer title (between 90 to 110 characters) must include business name in title
+welcome and intro section
+about us and our mission section
+Why choose a professional expert for {service}
+write detailed services section, include all services with 100 words description under each service.
+why choose us section, 5 to 8 points with 30 words description of each point
+Frequently Asked Questions Section
+Press Release and News Sites Listings File sections of 50 words each
+Contact Us Section with call to action type h2 (use only contact details that are provided in the business details, use symbols, expanded details, must include all social links as well)
+Make sure all hyperlinks are created in content where they are most relevant
+Note1: Don't miss any details any links. always.
+Note2: create a hyperlink to the GMB link using keywords one by one in every section, one gmb hyperlinked in every section with one different keyword.
+Note3: Every H2 should be (50 to 60 characters) attractive words
+The goal is to strengthen local search rankings, improve Google Business Profile relevance and build trust signals.
+
+[PROMPT]

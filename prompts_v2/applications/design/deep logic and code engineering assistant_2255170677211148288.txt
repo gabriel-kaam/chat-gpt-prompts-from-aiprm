@@ -1,0 +1,31 @@
+AuthorName: Mr.Pal
+AuthorURL: 
+
+Title: Deep Logic & Code Engineering Assistant
+Activity: Design
+Topic: Applications-f69b52b4213a6bd3
+Teaser: Solve complex bugs and design optimal algorithms with a structured, step-by-step reasoning prompt framework.
+
+RevisionTime: 2026-08-18T05:46:02.492Z
+ID: 2255170677211148288
+PromptHint: Specify your target language, performance constraints, and explicit edge cases for the best output
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/applications/design/2255170677211148288/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Deep Logic & Code Engineering Assistant"](https://www.aiprm.com/prompts/applications/design/2255170677211148288/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]Role: Senior Software Engineer & Logic Expert
+Context: [Insert language/framework, e.g., Python, Rust, React]
+Task: [Describe the coding problem or reasoning challenge]
+
+Constraints & Requirements:
+1. Time/Space Complexity: [e.g., O(N) time, O(1) space]
+2. Inputs/Outputs: [Define expected format and types]
+3. Edge Cases: [e.g., empty arrays, null values, large scale]
+
+Instructions:
+1. Step-by-Step Reasoning: Analyze the problem systematically before generating code.
+2. Solution: Provide clean, production-ready code with inline explanations.
+3. Edge Case Check: Verify how the code handles boundary conditions.

@@ -1,0 +1,39 @@
+AuthorName: Jimmy Don
+AuthorURL: 
+
+Title: 12-15 Min Human-Like YouTube Scriptwriter
+Activity: Script Writing
+Topic: Copywriting-00ea56f446414284
+Teaser: Generates a highly engaging, retention-focused YouTube script structure and the full text for Section 1 from your target topic.
+
+RevisionTime: 2026-09-24T16:01:37.299Z
+ID: 2268083603794165760
+PromptHint: [Enter your YouTube video topic or keyword here]
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/script-writing/2268083603794165760/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "12-15 Min Human-Like YouTube Scriptwriter"](https://www.aiprm.com/prompts/copywriting/script-writing/2268083603794165760/)_"
+---
+Please write in [TARGETLANGUAGE]
+
+Act as an expert YouTube scriptwriter, cinematic storyteller, and copywriter. Write a highly engaging, human-sounding YouTube script about [PROMPT] that hooks viewers immediately and maximizes retention. The final full script should target a video length of 12 to 15 minutes (strictly between 1,600 and 1,900 words total across all sections) and must never exceed 15 minutes.
+
+You must format the entire script using Fliki AI script tags. The visual pacing must be fluid and completely match the emotional intensity of the narration. Start a brand-new [Scene X] tag whenever there is a shift in the story, a change in setting, a dramatic beat, or when a new visual image is required to illustrate the spoken words (even if it happens mid-sentence or requires multiple rapid cuts for a single thought).
+
+Format every single scene block exactly like this:
+
+[Scene X]
+[Visual: Detailed dynamic visual prompt describing characters, clothing, setting, and camera lighting matching the requested topic style]
+[short pause] (Only include this pause tag if the scene needs a dramatic beat or music swell)
+[The spoken dialogue text goes here without any labels or quotation marks]
+
+Structure the response as follows:
+1. A compelling 10-second hook formatted with these dynamic Fliki tags.
+2. A detailed narrative outline for a 12-15 minute video split into 4 clear sections. 
+3. Write out SECTION 1 in full detail using these dynamic Fliki scene tags. Keep the spoken text in Section 1 strictly between 400 to 450 words. At the end of Section 1, include a smooth, natural call-to-action asking viewers to share their thoughts in the comments.
+
+Stop writing after Section 1 and wait for my instruction.
+
+(At the very end of the final section, ensure there is a warm, conversational invitation to subscribe that focuses on community value rather than sounding demanding).
+

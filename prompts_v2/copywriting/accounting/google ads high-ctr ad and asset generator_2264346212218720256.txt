@@ -1,0 +1,108 @@
+AuthorName: Kalpna Shukla
+AuthorURL: 
+
+Title: Google Ads High-CTR Ad & Asset Generator
+Activity: Accounting
+Topic: Copywriting-00ea56f446414284
+Teaser: Research [KEYWORD] and create the best Google Search Ads with 20 headlines, 15 descriptions, sitelinks, callouts, promotion assets and CTR/Quality Score optimization.
+
+RevisionTime: 2026-09-12T13:26:20.511Z
+ID: 2264346212218720256
+PromptHint: [KEYWORD] + brand name + landing page URL + coupon/referral code + verified offer
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/copywriting/accounting/2264346212218720256/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Google Ads High-CTR Ad & Asset Generator"](https://www.aiprm.com/prompts/copywriting/accounting/2264346212218720256/)_"
+---
+Please write in [TARGETLANGUAGE]
+[PROMPT]You are an expert Google Ads Specialist, SEO Strategist, Keyword Researcher and CRO expert.
+
+For the given [KEYWORD] and brand, research the official website, landing page, Google search results, competitors, competitor ads, keyword variations, search intent, current offers/discounts, and relevant coupon/promo/referral information.
+
+Based on this research, create a highly relevant Google Search Ads campaign designed to maximize CTR, Ad Relevance, Landing Page Experience and Quality Score.
+
+My goal is to achieve the highest possible CTR, with 30% CTR as an ambitious target where realistic. Never guarantee CTR or Quality Score.
+
+IMPORTANT:
+- Verify important offers and claims from official sources whenever possible.
+- Never invent discounts, coupon codes, rewards, prices or benefits.
+- Do not copy competitor ad wording.
+- Avoid keyword stuffing.
+- Keep every ad natural, compelling and search-intent focused.
+- Maintain strong keyword → ad → landing-page message match.
+
+CREATE THE FOLLOWING:
+
+1. KEYWORD RESEARCH
+- Primary keyword
+- Secondary keywords
+- High-intent keyword variations
+- Exact match keywords
+- Phrase match keywords
+- Negative keywords
+
+2. GOOGLE ADS HEADLINES
+Create 50 unique Google Ads headlines.
+Each headline must be maximum 30 characters.
+Use different angles including:
+- Primary keyword
+- Coupon/Promo/Discount intent
+- Verified offer
+- Savings
+- User benefits
+- Strong CTA
+- Trust
+- Urgency only when genuine
+- Brand relevance
+
+Do not make all headlines sound similar.
+
+3. GOOGLE ADS DESCRIPTIONS
+Create 15 unique descriptions.
+Each description must be maximum 90 characters.
+Make them highly relevant, persuasive and natural.
+Include the strongest verified benefit or offer where appropriate.
+
+4. RSA RECOMMENDATION
+From the 50 headlines and 15 descriptions, select the BEST:
+- 15 headlines
+- 4 descriptions
+
+Create 3 different RSA combinations with different messaging angles.
+
+5. SITELINK ASSETS
+Create 8 relevant Google Ads sitelinks.
+For each provide:
+- Sitelink text
+- Description line 1
+- Description line 2
+Use maximum Google Ads character limits.
+
+6. CALLOUT ASSETS
+Create 15 short callouts focused on genuine benefits, savings, trust and user intent.
+
+7. PROMOTION ASSET
+If a genuine verified promotion exists, recommend the best Promotion Asset wording.
+If no verified promotion exists, say "Do not use Promotion Asset."
+
+8. QUALITY SCORE & CTR ANALYSIS
+Evaluate:
+- Expected CTR
+- Ad Relevance
+- Landing Page Experience
+- Keyword-to-ad relevance
+- Ad-to-landing-page message match
+
+Then explain exactly what should be changed to improve CTR and Quality Score.
+
+9. FINAL BEST VERSION
+Give me the final recommended:
+- Primary keyword
+- Best 15 headlines
+- Best 4 descriptions
+- Best sitelinks
+- Best callouts
+- Promotion asset, if applicable
+
+Prioritize high CTR, strong commercial intent, relevance, originality and conversion potential.

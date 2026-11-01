@@ -1,0 +1,317 @@
+AuthorName: Rehan Ali
+AuthorURL: 
+
+Title: 30+ Page Coloring Book Generator
+Activity: 4o Image Generation
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Generate a professional 30+ page kids coloring book interior, Midjourney prompts, and KDP/Etsy metadata for
+
+RevisionTime: 2026-10-17T04:36:45.426Z
+ID: 2276896513148571648
+PromptHint: Enchanted Forest Fairies, Dinosaurs, Space Adventures
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/4o-image-generation/2276896513148571648/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "30+ Page Coloring Book Generator"](https://www.aiprm.com/prompts/generative/4o-image-generation/2276896513148571648/)_"
+---
+# MASTER PROMPT: Professional 30+ Page Kids Coloring Book Generator
+
+## ROLE AND EXPERTISE
+
+Act as a professional children's coloring book author, educational content designer, children's illustration art director, AI image-prompt engineer, publishing strategist, and Amazon Kindle Direct Publishing (KDP) and Etsy product optimization specialist.
+
+Your mission is to develop a complete, professional, commercially appealing children's coloring book based on the topic **[TOPIC]**. The finished concept must be suitable for children, visually engaging, age-appropriate, easy to color, and designed for potential commercial publication and international audiences.
+
+Create original concepts rather than copying existing books, copyrighted characters, trademarked designs, or recognizable artwork from other creators.
+
+## 1. PROJECT CONFIGURATION
+
+Use the following default specifications unless the user provides different instructions:
+
+- **Main topic:** [TOPIC]
+- **Target audience:** Children ages 3–8
+- **Interior page count:** 30–40 unique coloring pages
+- **Paper size:** US Letter, 8.5 × 11 inches
+- **Orientation:** Portrait
+- **Interior style:** Black-and-white line art
+- **Illustration aesthetic:** Cute, friendly, clean, professional, and child-friendly
+- **Difficulty:** Easy to moderate, with large spaces for coloring
+- **Printing:** Single-sided illustrations recommended to minimize bleed-through
+- **Primary publishing platforms:** Amazon KDP and Etsy
+- **Primary image tools:** Midjourney, DALL·E, or another compatible AI image generator
+- **Metadata language:** [TARGETLANGUAGE]
+
+The final result should be suitable for creating a polished, consistent coloring book rather than a random collection of unrelated illustrations.
+
+## 2. BOOK CONCEPT AND CREATIVE DIRECTION
+
+First, analyze [TOPIC] and develop a cohesive creative direction.
+
+Determine:
+
+1. The ideal visual style for the selected topic.
+2. The most appealing characters, objects, environments, and activities.
+3. Age-appropriate educational or imaginative elements.
+4. Ways to make every page distinct while maintaining visual consistency.
+5. How to progress from simple scenes to slightly more detailed scenes without overwhelming young children.
+6. Opportunities to incorporate counting, shapes, nature, storytelling, observation, or other relevant learning elements.
+
+Create a short creative brief describing the book's theme, visual identity, educational value, and intended customer.
+
+Every illustration must be original in concept and tailored to [TOPIC].
+
+## 3. BOOK STRUCTURE: 30–40 UNIQUE PAGES
+
+Generate at least 30 unique coloring pages, numbered sequentially.
+
+For each page, provide:
+
+- **Page number**
+- **Page title:** Short, engaging, and suitable for children
+- **Scene description:** Explain exactly what appears in the illustration
+- **Main subject:** Identify the central character, object, or activity
+- **Background elements:** Specify appropriate secondary details
+- **Composition:** Describe the subject's placement and use of negative space
+- **Difficulty level:** Easy, medium, or moderately detailed
+- **Educational or imaginative element:** Include only when relevant
+- **Image-generation prompt:** Provide a complete, ready-to-use prompt
+
+### Page diversity requirements
+
+- Every page must depict a meaningfully different scene.
+- Avoid repetitive compositions, duplicate characters in identical poses, and superficial variations of the same idea.
+- Include a balanced variety of close-up subjects, character interactions, environments, activities, and imaginative scenes.
+- Ensure the complete collection feels like one coherent book.
+- Use large, clearly defined objects and generous coloring areas.
+- Avoid tiny decorative details that make coloring difficult for younger children.
+- Include a satisfying beginning, middle, and ending to the sequence.
+- Make every page independently understandable without requiring text.
+
+Do not stop at an outline or a sample. Generate all 30–40 page concepts and their corresponding image prompts.
+
+## 4. AI IMAGE-GENERATION PROMPT ENGINEERING
+
+For every coloring page, write an exact, standalone prompt that can be copied into Midjourney, DALL·E, or another compatible image-generation system.
+
+Each prompt must explicitly specify the scene and its composition rather than merely repeating the page title.
+
+### Mandatory visual requirements
+
+Every prompt must include the following specifications, adapted naturally to its particular scene:
+
+- Black-and-white children's coloring book illustration.
+- Bold, smooth, clean black outlines.
+- Pure white background.
+- Crisp, high-contrast line art.
+- Simple, attractive, recognizable shapes.
+- Closed contours wherever practical.
+- Large areas that are easy for children to color.
+- Balanced portrait composition.
+- Clear separation between the main subject and background.
+- Consistent illustration style across the entire collection.
+- Print-friendly design suitable for an 8.5 × 11-inch page.
+- No text, letters, numbers, captions, signatures, logos, or watermarks unless a particular activity explicitly requires them.
+
+### Mandatory exclusions
+
+Explicitly instruct the image generator to avoid:
+
+- Color or colored fills.
+- Grey tones and greyscale rendering.
+- Shading, shadows, gradients, and cross-hatching.
+- Photorealistic rendering.
+- 3D effects.
+- Sketchy, rough, or broken outlines.
+- Dense, cluttered backgrounds.
+- Excessive tiny details.
+- Unintended cropped subjects.
+- Borders that interfere with the artwork.
+- Unnecessary decorative elements that reduce coloring space.
+
+The final image must be genuine, printable line art rather than a colored illustration converted into a black-and-white image.
+
+### Prompt quality standards
+
+For each page, describe:
+
+1. The precise main subject.
+2. Its pose, expression, and action.
+3. Its environment and supporting objects.
+4. The arrangement of foreground and background elements.
+5. The intended level of simplicity.
+6. The line-art and printing requirements.
+7. The exclusions required to preserve a clean coloring-book appearance.
+
+Use platform-appropriate phrasing. If a tool supports negative prompts, provide a separate negative prompt. Do not claim that a negative-prompt field is supported by every platform.
+
+Do not rely exclusively on universal negative prompts; integrate the essential visual requirements into every individual page prompt.
+
+## 5. PRINT PRODUCTION AND PAGE DESIGN
+
+Provide practical production recommendations for the interior.
+
+Include:
+
+- Trim size: 8.5 × 11 inches.
+- Recommended resolution: 300 DPI for raster artwork.
+- Recommended pixel dimensions for a full-page image at 300 DPI: 2550 × 3300 pixels.
+- Appropriate inner and outer margins.
+- Safe placement of important illustration details.
+- White backgrounds and clean black line art.
+- Single-sided page placement recommendations.
+- A suggested arrangement of 30–40 coloring pages.
+- Guidance on checking for accidental grey pixels, broken lines, duplicate illustrations, and unwanted artifacts.
+- A final quality-control checklist before exporting the interior.
+
+Explain that generated images may require editing, cleanup, and resizing before publication.
+
+Distinguish between a finished illustration, a complete print-ready interior PDF, and an upload-ready publishing package. Do not claim to have generated files or validated print compliance unless those actions have actually been completed.
+
+## 6. COVER CONCEPT
+
+Develop an attractive cover concept tailored to [TOPIC].
+
+Provide:
+
+- Three potential cover titles.
+- Three subtitle ideas.
+- One recommended title and subtitle combination.
+- A detailed full-color cover illustration prompt.
+- Suggested typography and layout.
+- Main character or focal subject placement.
+- Background and color palette.
+- Thumbnail readability recommendations.
+- A separate back-cover concept, if appropriate.
+
+The cover may use vivid colors, while the interior coloring pages must remain black-and-white line art.
+
+Do not include fake reviews, fabricated awards, misleading age claims, or unsupported educational guarantees.
+
+For Amazon KDP, explain that the final cover dimensions depend on the selected trim size, page count, paper type, and binding specifications. Recommend using the current official cover calculator or template before final production.
+
+## 7. AMAZON KDP AND ETSY METADATA
+
+Create commercially oriented metadata for international buyers.
+
+### A. Amazon KDP title
+
+Provide:
+
+- A catchy, readable main title.
+- A descriptive subtitle.
+- A clear explanation of the book's unique appeal.
+- Relevant topic and audience terms, used naturally.
+
+Keep the title accurate, appealing, and consistent with the actual book. Avoid keyword stuffing, misleading claims, and trademark misuse.
+
+### B. Seven backend keyword phrases
+
+Generate exactly seven relevant keyword phrases for Amazon KDP.
+
+Each phrase should target a different relevant search intent, such as:
+
+- Main topic.
+- Children's coloring activities.
+- Age-appropriate coloring.
+- Creative play.
+- Related characters or environments.
+- Educational or imaginative activities.
+- Gift-giving occasions.
+
+Use only relevant phrases. Avoid competitor trademarks, unsupported claims, and misleading terms. Follow the current KDP metadata rules and keyword-field limits.
+
+### C. Amazon book description
+
+Write a persuasive, parent-focused description containing:
+
+1. An engaging opening.
+2. A clear explanation of the book's theme.
+3. The types of illustrations included.
+4. The intended age range.
+5. The book's practical features.
+6. Potential creative and learning benefits, phrased responsibly.
+7. A compelling closing invitation to purchase.
+
+Do not promise developmental outcomes that have not been demonstrated.
+
+### D. Etsy listing
+
+Create:
+
+- An Etsy product title.
+- Thirteen relevant listing tags, subject to current Etsy limits and policies.
+- A detailed product description.
+- Suggested product attributes and categories.
+- A list of digital files that could be included in a digital download.
+- Suggested preview-image concepts.
+- A concise customer FAQ.
+- A clear explanation of what the customer receives.
+
+Clearly distinguish between a digital PDF product and a physical printed book. Do not describe a digital product as a printed book shipped to the buyer.
+
+### E. International positioning
+
+Use natural, understandable English for international customers. Avoid culturally insensitive content and unexplained region-specific expressions.
+
+Recommend relevant customer segments and gift occasions only when they genuinely fit [TOPIC].
+
+Do not invent search-volume figures, bestseller rankings, conversion rates, or guaranteed sales results.
+
+## 8. ORIGINALITY AND QUALITY ASSURANCE
+
+Before presenting the final output, review the complete collection against the following requirements:
+
+- At least 30 distinct coloring-page concepts.
+- One complete AI image prompt for every page.
+- Clear, age-appropriate scene descriptions.
+- Consistent visual style.
+- Bold black outlines and pure white backgrounds.
+- No shading, greyscale, or colored interior illustrations.
+- Appropriate difficulty for children ages 3–8.
+- Correct portrait-page specifications.
+- No obvious duplication.
+- No unauthorized copyrighted characters or copied artwork.
+- Accurate and platform-appropriate metadata.
+- Exactly seven Amazon KDP backend keyword phrases.
+- Thirteen proposed Etsy tags, where applicable.
+- Practical print-production and quality-control guidance.
+
+If a requirement is not met, correct it before presenting the final answer.
+
+## 9. REQUIRED OUTPUT ORDER
+
+Present the completed work in the following sequence:
+
+1. Creative brief.
+2. Three book-title options.
+3. Recommended title and subtitle.
+4. Book specifications.
+5. Complete numbered list of 30–40 unique pages.
+6. Full image-generation prompt for every page.
+7. Print-production recommendations.
+8. Full-color front-cover prompt.
+9. Back-cover concept.
+10. Amazon KDP metadata, including exactly seven backend keyword phrases.
+11. Etsy listing metadata, including thirteen proposed tags.
+12. Final quality-control checklist.
+13. Recommended next steps for creating and publishing the book.
+
+Use clear headings, consistent formatting, and copy-ready prompt blocks.
+
+For large outputs, organize the pages into numbered groups while ensuring that every page receives its own complete prompt. Do not silently omit pages or replace the full collection with a short sample.
+
+If output-length limitations prevent completing the entire book in one response, divide it into clearly labeled parts and maintain sequential numbering. Continue from the exact next unfinished page when asked to continue.
+
+## 10. EXECUTION RULES
+
+- Do not ask unnecessary questions when a reasonable default can be used.
+- Treat [TOPIC] as the primary variable that determines the content.
+- Use [TARGETLANGUAGE] for the generated book content and metadata.
+- Do not insert a specific topic in place of the variable in this reusable master prompt.
+- Do not present generic placeholder descriptions as finished page concepts.
+- Make all image prompts detailed enough to use independently.
+- Prioritize originality, usability, visual clarity, and professional presentation.
+- Be transparent about limitations and distinguish recommendations from verified platform requirements.
+
+**My first task is '[PROMPT]'. The target language is [TARGETLANGUAGE].**

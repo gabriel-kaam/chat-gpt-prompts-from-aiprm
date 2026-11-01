@@ -1,0 +1,347 @@
+AuthorName: Elena Werning
+AuthorURL: https://www.paypal.com/donate/?hosted_button_id=AUXFKTGJMHP5A
+
+Title: YouTube Shorts Trend Finder & Script Creator
+Activity: Social Media
+Topic: Marketing-cc647f5cf02ffd02
+Teaser: Discover promising YouTube video ideas from any topic. Generate compelling titles, a thumbnail concept, and a complete 60-second Shorts storyboard with six scenes, voice-over and AI video prompts.
+
+RevisionTime: 2026-10-28T06:15:05.15Z
+ID: 2280898905493991424
+PromptHint: Enter any topic or keyword, e.g. AI, psychology, history, science
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/marketing/social-media/2280898905493991424/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "YouTube Shorts Trend Finder & Script Creator"](https://www.aiprm.com/prompts/marketing/social-media/2280898905493991424/)_"
+---
+# YOUTUBE SHORTS TREND & PRODUCTION ENGINE
+
+INPUT TOPIC: [PROMPT]
+OUTPUT LANGUAGE: [TARGETLANGUAGE]
+
+Act as a professional YouTube trend researcher, Shorts strategist, title writer, thumbnail creative director and short-form video producer.
+
+Transform the user's topic into a complete 60-second YouTube Shorts production package.
+
+The user only needs to enter ONE topic. Do not request additional information.
+
+All audience-facing text, titles, explanations, scripts and voice-overs must be written in [TARGETLANGUAGE]. Video-generation prompts may be written in English for compatibility with AI video tools.
+
+## PHASE 1 — TREND DISCOVERY
+
+Investigate promising YouTube content opportunities related to the topic.
+
+When browsing or research tools are available:
+- Prioritize recent, relevant YouTube videos and searches.
+- Investigate emerging discussions and audience interests.
+- Identify recurring successful content angles.
+- Include reliable source links and dates.
+- Distinguish measured information from editorial judgment.
+
+When live research is unavailable:
+- Explicitly state that current YouTube trends could not be verified.
+- Identify 5 plausible content opportunities.
+- Label them as content hypotheses, not confirmed trends.
+- Never invent views, search volumes, sources or statistics.
+
+OUTPUT:
+A table with 5 content opportunities, a short explanation and an editorial opportunity score from 0–100.
+
+The score is a qualitative estimate, not a measured probability of going viral.
+
+Select the strongest opportunity.
+
+## PHASE 2 — YOUTUBE TITLE ENGINE
+
+Generate 5 compelling titles for the selected topic.
+
+Use:
+1. Curiosity gap
+2. Surprising insight
+3. Practical benefit
+4. Unexpected contrast
+5. Strong question
+
+Requirements:
+- Clear and mobile-friendly
+- Preferably 35–60 characters
+- Strong curiosity without misleading clickbait
+- Relevant to the actual content
+
+Select one final title and briefly explain the choice.
+
+## PHASE 3 — THUMBNAIL CREATIVE DIRECTOR
+
+Create one thumbnail concept.
+
+Include:
+- Main visual subject
+- Emotional impact
+- Composition
+- Lighting and contrast
+- Maximum 4 words of thumbnail text
+- A complete English AI image-generation prompt
+
+Create a vertical 9:16 cover concept. Keep the main subject centered and recognizable when cropped.
+
+## PHASE 4 — SHORTS STORY ENGINE
+
+Produce exactly 6 scenes.
+
+FORMAT RULES:
+- Vertical 9:16
+- Total runtime: 60 seconds
+- Exactly 6 scenes
+- Each scene: exactly 10 seconds
+- Maximum 14 spoken words per scene
+- Maximum 84 spoken words overall
+- All spoken words must be counted
+- No additional spoken dialogue
+
+STORY STRUCTURE:
+
+Scene 1 (00–10 sec): HOOK
+Introduce an immediate curiosity gap.
+
+Scene 2 (10–20 sec): PROBLEM
+Introduce a question, tension or surprising problem.
+
+Scene 3 (20–30 sec): DISCOVERY
+Reveal the first important insight.
+
+Scene 4 (30–40 sec): DEEPER INSIGHT
+Provide a meaningful example or unexpected development.
+
+Scene 5 (40–50 sec): PAYOFF
+Deliver the key answer or most valuable insight.
+
+Scene 6 (50–60 sec): FINALE
+Finish with a memorable statement and a natural invitation to engage.
+
+FOR EVERY SCENE PROVIDE:
+
+1. Scene number and precise timestamp.
+2. Spoken voice-over in [TARGETLANGUAGE].
+3. Exact spoken word count.
+4. Visual description.
+5. Detailed English AI video prompt specifying:
+   - 9:16 vertical video
+   - Exactly 10 seconds
+   - Main subject
+   - Scene environment
+   - Camera movement
+   - Lighting
+   - Visual mood
+   - Subject movement
+   - Cinematic composition
+6. Short on-screen text, maximum 5 words.
+7. Recommended sound design.
+8. Editing transition.
+
+Each scene must connect naturally to the next.
+
+Use concise narration, pauses and visual beats to fit the allocated time. Actual speech duration must be checked during audio production.
+
+## PHASE 5 — COMPLETE VOICE-OVER
+
+Combine the six voice-over segments into one clean narration script.
+
+Do not modify or add spoken words.
+
+Include natural pauses and voice-direction notes separately.
+
+## PHASE 6 — PUBLISHING PACKAGE
+
+Generate:
+- Final YouTube title
+- Short video description
+- 3 relevant hashtags
+- 5 useful search keywords
+- Suggested pinned comment
+
+
+
+## PHASES 7 — ADAPTIVE DOUBLE QUALITY CONTROL
+
+## CORE PRINCIPLE
+
+Quality is not achieved by checking boxes alone. Quality requires verified decisions, root-cause correction, dependency awareness and measurable improvement where evidence permits.
+
+Execute two complete quality audits and two targeted correction stages.
+
+Never skip an audit. Never report an unperformed test as completed.
+
+## STAGE 1 — INITIAL QUALITY AUDIT
+
+Analyze the complete first production draft.
+
+### A. Structural Verification
+Verify all mandatory production requirements:
+- Exactly 5 content opportunities.
+- Exactly 5 title candidates.
+- One selected title and thumbnail concept.
+- Exactly 6 video scenes.
+- Exactly 10 seconds allocated to each scene.
+- Maximum 14 spoken words per scene.
+- Maximum 84 spoken words overall.
+- Six complete video-generation prompts.
+- Identical scene narration and master voice-over.
+- Complete publishing package.
+
+### B. Content & Evidence Verification
+Examine:
+- Topic relevance.
+- Source reliability.
+- Trend freshness.
+- Factual accuracy.
+- Unsupported claims.
+- Narrative coherence.
+- Viewer relevance.
+- Thumbnail and title consistency.
+- Voice-over naturalness.
+- Visual continuity.
+- Clarity and production feasibility.
+
+### C. Root-Cause Analysis
+For every detected problem, identify:
+1. What failed?
+2. Where did it fail?
+3. Why did it fail?
+4. Which other components are affected?
+5. What is the smallest reliable correction?
+
+Distinguish:
+- Verified facts.
+- Assumptions.
+- Uncertainties.
+- Actual blockers.
+
+### D. Quality Report 1
+Publish a structured report containing:
+- Check performed.
+- PASS / FAIL / UNVERIFIED.
+- Evidence or actual result.
+- Root cause when applicable.
+- Severity: Critical / Major / Minor.
+- Required correction.
+
+Summarize the exact number of passed, failed and unverified checks.
+
+## STAGE 2 — TARGETED CORRECTION
+
+Correct failures according to their severity and dependencies.
+
+Use this procedure:
+
+ROOT CAUSE → REPAIR → UPDATE DEPENDENCIES → VERIFY REPAIR.
+
+Repair only what needs correction.
+
+Do not rewrite valid material without a specific reason.
+
+After modifying a scene:
+- Recount its spoken words.
+- Update the master narration.
+- Check visual synchronization.
+- Check scene transitions.
+- Confirm the timeline remains correct.
+
+After modifying a factual claim:
+- Check its supporting evidence.
+- Update related narration.
+- Update any dependent title, visual or publishing description.
+
+Document each important correction.
+
+## STAGE 3 — SECOND INDEPENDENT QUALITY AUDIT
+
+Audit the entire corrected production package again.
+
+Do not simply repeat the previous conclusions.
+
+Re-evaluate all mandatory requirements against the actual corrected content.
+
+Compare:
+- Original draft.
+- Corrected draft.
+- Previously detected failures.
+- Newly introduced risks.
+- Remaining limitations.
+
+Determine whether each correction:
+- Solved the original problem.
+- Preserved valid content.
+- Introduced a new problem.
+- Improved the relevant quality dimension.
+- Created unnecessary complexity.
+
+### Quality Decision
+
+ACCEPT:
+The modification resolves a verified problem or produces a clearly supported improvement without unacceptable regression.
+
+REJECT:
+The modification weakens accuracy, coherence, production constraints or another important quality dimension.
+
+NO CHANGE:
+No sufficiently supported improvement exists.
+
+Revert rejected modifications when the previous valid version was better.
+
+### Quality Report 2
+
+Publish:
+- All verification results.
+- Errors resolved.
+- New errors detected.
+- Remaining unresolved issues.
+- Accepted modifications.
+- Rejected modifications.
+- Reason for the final assessment.
+
+Do not invent quantitative improvement percentages.
+
+## STAGE 4 — FINAL IMPROVEMENT & DELIVERY
+
+Apply the smallest necessary final corrections based on the second audit.
+
+Revalidate every requirement affected by these corrections.
+
+Do not silently mark unverified requirements as passed.
+
+If a critical error remains, classify the product as NOT READY.
+
+If all mandatory checkable constraints pass but external research or actual audio timing remains unverified, state those limitations clearly.
+
+Publish the final result in this order:
+
+1. FINAL TREND ANALYSIS
+2. FINAL VIDEO CONCEPT
+3. FIVE TITLES AND SELECTED TITLE
+4. FINAL THUMBNAIL CONCEPT
+5. COMPLETE SIX-SCENE STORYBOARD
+6. FINAL MASTER VOICE-OVER
+7. PUBLISHING PACKAGE
+8. QUALITY REPORT 1
+9. CORRECTION LOG 1
+10. QUALITY REPORT 2
+11. FINAL IMPROVEMENT LOG
+12. FINAL STATUS
+
+## COMPLETION RULE
+
+The workflow is complete only when:
+
+- Two real quality audits have been performed.
+- Both audit analyses are visible.
+- Detected errors have been investigated.
+- Correctable errors have been repaired.
+- Affected dependencies have been updated.
+- Corrections have been compared with the previous version.
+- Remaining limitations have been disclosed.
+- The best verified production package has been delivered.
+
+Quality takes priority over superficial completion.
+
+Do not claim perfection. Demonstrate the quality of the result.

@@ -1,0 +1,38 @@
+AuthorName: Felix Iyoko
+AuthorURL: https://www.unitedwelcome.org
+
+Title: Rental Deal Analyzer Pro
+Activity: 4o Image Generation
+Topic: Generative-AI-b983edfcaa490850
+Teaser: Financial Model for real estate investors
+
+RevisionTime: 2026-10-03T13:15:21.858Z
+ID: 2271953594804654080
+PromptHint: Rental deal, Real Estate, Model
+
+Prompt:
+# Prompt by AIPRM, Corp. - https://www.aiprm.com/prompts/generative/4o-image-generation/2271953594804654080/
+Lines starting with # are only comments for humans
+You must add at the top of the response "_Created with [AIPRM Prompt "Rental Deal Analyzer Pro"](https://www.aiprm.com/prompts/generative/4o-image-generation/2271953594804654080/)_"
+---
+built the Rental Deal Analyzer Pro, a financial model for real estate investors, from the first idea in your excerpt. It recalculates with zero formula errors, and I checked that the profit breakdown reconciles to zero and the sensitivity tables tie back to the main model.
+
+What's inside (6 tabs)
+
+Start Here: quick-start steps, color legend, metric definitions, assumptions, disclaimer, and license terms.
+Dashboard: Year-1 and hold-period metrics, PASS/FAIL against the buyer's own criteria, a verdict, a profit breakdown, and two charts.
+Inputs: every assumption in one place, including a rent roll for up to 6 units. It has input validation and comes preloaded with an example duplex.
+Pro Forma: 10 years of income, expenses, NOI, debt service, cash flow, and exit cash flows.
+Sensitivity: two live stress tests (price vs. rent, and interest rate vs. leverage).
+Amortization: a monthly loan schedule up to 30 years.
+
+The example deal scores 4 of 5 on its criteria, with a 7.3% cap rate and 12.4% levered IRR, so buyers see both a PASS and a FAIL.
+
+Suggested listing
+
+Name: Rental Deal Analyzer Pro. Check that the name is free before you launch.
+Headline: "Know if a rental property is a good deal in 5 minutes, before you make an offer."
+Price ladder: $49 for this model, $97 with a bonus pack (a due-diligence checklist and an offer-letter template), and $197 with video walkthroughs.
+Where to sell: your Shopify store, Gumroad, and Etsy. I can add the product to your Shopify store if you'd like.
+Reach: BiggerPockets forums, real estate investing subreddits, YouTube walkthroughs of real deals, and Facebook groups.Please write in [TARGETLANGUAGE]
+[PROMPT]
